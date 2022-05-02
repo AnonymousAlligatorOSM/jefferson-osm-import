@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf8'?>
+<osm version="0.6" generator="AnonymousAlligator's import script">
+  <changeset_tag k="comment" v="Import buildings and addresses in Jefferson Parish, see https://wiki.openstreetmap.org/wiki/Import/Catalogue/Jefferson_Parish_Addresses_and_Buildings"/>
+  <changeset_tag k="source" v="Jefferson Parish Planning Department"/>
+  <changeset_tag k="source_file" v="8176_13521"/>
+  <node visible="true" id="-1" lat="29.97827635975641413779158029" lon="-90.17558568138163366256776499">
+    <tag k="addr:street" v="Stockton Street"/>
+    <tag k="addr:city" v="Metairie"/>
+    <tag k="addr:postcode" v="70001"/>
+  </node>
+  <node visible="true" id="-2" lat="29.97640688738060887885694683" lon="-90.16591265557131862351525342"/>
+  <node visible="true" id="-3" lat="29.97625940669995259213465033" lon="-90.16591797119814089001010871"/>
+  <node visible="true" id="-4" lat="29.97626024726943327891603985" lon="-90.16601274040313285240699770"/>
+  <node visible="true" id="-5" lat="29.97641091657996526009810623" lon="-90.16601456710797890536923660"/>
+  <way visible="true" id="-1">
+    <nd ref="-2"/>
+    <nd ref="-3"/>
+    <nd ref="-4"/>
+    <nd ref="-5"/>
+    <nd ref="-2"/>
+    <tag k="building" v="yes"/>
+    <tag k="addr:street" v="Johnson Street"/>
+    <tag k="addr:city" v="Metairie"/>
+    <tag k="addr:postcode" v="70001"/>
+  </way>
+  <node visible="true" id="-6" lat="29.97557482455544075605757826" lon="-90.17410126874000297902966850">
+    <tag k="addr:street" v="Airline Drive"/>
+    <tag k="addr:city" v="Metairie"/>
+    <tag k="addr:postcode" v="70001"/>
+  </node>
+  <node visible="true" id="-7" lat="29.97567537668273018880427117" lon="-90.17383416547917818206769880">
+    <tag k="addr:street" v="Airline Drive"/>
+    <tag k="addr:city" v="Metairie"/>
+    <tag k="addr:postcode" v="70001"/>
+  </node>
+</osm>

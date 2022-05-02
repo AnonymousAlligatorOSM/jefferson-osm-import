@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf8'?>
+<osm version="0.6" generator="AnonymousAlligator's import script">
+  <changeset_tag k="comment" v="Import buildings and addresses in Jefferson Parish, see https://wiki.openstreetmap.org/wiki/Import/Catalogue/Jefferson_Parish_Addresses_and_Buildings"/>
+  <changeset_tag k="source" v="Jefferson Parish Planning Department"/>
+  <changeset_tag k="source_file" v="8179_13518"/>
+  <node visible="true" id="-1" lat="30.00293676336199411025518202" lon="-90.14176414210331245158158708"/>
+  <node visible="true" id="-2" lat="30.00284927562273651346913539" lon="-90.14176734243231692289555212"/>
+  <node visible="true" id="-3" lat="30.00285200907176985651858558" lon="-90.14186211325487363410502439"/>
+  <node visible="true" id="-4" lat="30.00294012108828312079822354" lon="-90.14185890658743005587894004"/>
+  <way visible="true" id="-1">
+    <nd ref="-1"/>
+    <nd ref="-2"/>
+    <nd ref="-3"/>
+    <nd ref="-4"/>
+    <nd ref="-1"/>
+    <tag k="building" v="yes"/>
+    <tag k="addr:street" v="Orion Avenue"/>
+    <tag k="addr:city" v="Metairie"/>
+    <tag k="addr:postcode" v="70005"/>
+  </way>
+  <node visible="true" id="-5" lat="30.00266016850907746515986219" lon="-90.13841631062889803160942392"/>
+  <node visible="true" id="-6" lat="30.00272578543320989297171764" lon="-90.13841408775572006106813205"/>
+  <node visible="true" id="-7" lat="30.00272325746073676100422745" lon="-90.13827334862246232205507113"/>
+  <node visible="true" id="-8" lat="30.00265605907679855590686202" lon="-90.13827449176599770908069331"/>
+  <way visible="true" id="-2">
+    <nd ref="-5"/>
+    <nd ref="-6"/>
+    <nd ref="-7"/>
+    <nd ref="-8"/>
+    <nd ref="-5"/>
+    <tag k="building" v="yes"/>
+    <tag k="addr:street" v="Homestead Avenue"/>
+    <tag k="addr:city" v="Metairie"/>
+    <tag k="addr:postcode" v="70005"/>
+  </way>
+</osm>

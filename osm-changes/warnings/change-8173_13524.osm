@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='utf8'?>
+<osm version="0.6" generator="AnonymousAlligator's import script">
+  <changeset_tag k="comment" v="Import buildings and addresses in Jefferson Parish, see https://wiki.openstreetmap.org/wiki/Import/Catalogue/Jefferson_Parish_Addresses_and_Buildings"/>
+  <changeset_tag k="source" v="Jefferson Parish Planning Department"/>
+  <changeset_tag k="source_file" v="8173_13524"/>
+  <node visible="true" id="-1" lat="29.95361644767125142152508488" lon="-90.20280666834821658994769678"/>
+  <node visible="true" id="-2" lat="29.95355022672854872212155897" lon="-90.20278408962700211759511149"/>
+  <node visible="true" id="-3" lat="29.95350685499830234448381816" lon="-90.20292959956223910467087990"/>
+  <node visible="true" id="-4" lat="29.95357769596344965634671098" lon="-90.20295320457253751555981580"/>
+  <way visible="true" id="-1">
+    <nd ref="-1"/>
+    <nd ref="-2"/>
+    <nd ref="-3"/>
+    <nd ref="-4"/>
+    <nd ref="-1"/>
+    <tag k="building" v="yes"/>
+    <tag k="addr:street" v="Generes Drive"/>
+    <tag k="addr:city" v="Harahan"/>
+    <tag k="addr:postcode" v="70123"/>
+  </way>
+  <node visible="true" id="-5" lat="29.94991827589073452031698253" lon="-90.19820150324183316570270108"/>
+  <node visible="true" id="-6" lat="29.95003576521472155036462937" lon="-90.19774706401935304711514618"/>
+  <node visible="true" id="-7" lat="29.94989859566629419873606821" lon="-90.19769114330887305186479352"/>
+  <node visible="true" id="-8" lat="29.94977617659190727295026591" lon="-90.19814890256489547937235329"/>
+  <way visible="true" id="-2">
+    <nd ref="-5"/>
+    <nd ref="-6"/>
+    <nd ref="-7"/>
+    <nd ref="-8"/>
+    <nd ref="-5"/>
+    <tag k="building" v="yes"/>
+    <tag k="addr:street" v="Time Saver Avenue"/>
+    <tag k="addr:city" v="Jefferson"/>
+    <tag k="addr:postcode" v="70123"/>
+  </way>
+  <node visible="true" id="-9" lat="29.94559344290777147534754477" lon="-90.20794918576090992701210780"/>
+  <node visible="true" id="-10" lat="29.94557483560187804982888338" lon="-90.20782019251873862231150270"/>
+  <node visible="true" id="-11" lat="29.94549373238447387279848044" lon="-90.20783905246763367813400691"/>
+  <node visible="true" id="-12" lat="29.94551604595573124356633343" lon="-90.20796297931923390933661722"/>
+  <way visible="true" id="-3">
+    <nd ref="-9"/>
+    <nd ref="-10"/>
+    <nd ref="-11"/>
+    <nd ref="-12"/>
+    <nd ref="-9"/>
+    <tag k="building" v="yes"/>
+    <tag k="addr:street" v="Landry Avenue"/>
+    <tag k="addr:city" v="Harahan"/>
+    <tag k="addr:postcode" v="70123"/>
+  </way>
+</osm>

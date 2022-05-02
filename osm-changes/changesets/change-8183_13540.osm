@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf8'?>
+<osm version="0.6" generator="AnonymousAlligator's import script">
+  <changeset_tag k="comment" v="Import buildings and addresses in Jefferson Parish, see https://wiki.openstreetmap.org/wiki/Import/Catalogue/Jefferson_Parish_Addresses_and_Buildings"/>
+  <changeset_tag k="source" v="Jefferson Parish Planning Department"/>
+  <changeset_tag k="source_file" v="8183_13540"/>
+  <node visible="true" id="-1" lat="29.80226408987484632007181062" lon="-90.09154213809996747386321658"/>
+  <node visible="true" id="-2" lat="29.80221256493296166922846169" lon="-90.09152088102291600080206990"/>
+  <node visible="true" id="-3" lat="29.80216934624669633535631874" lon="-90.09155768463048730154696386"/>
+  <node visible="true" id="-4" lat="29.80217591528063536543413647" lon="-90.09162124147671590890240623"/>
+  <node visible="true" id="-5" lat="29.80222502728785372028141865" lon="-90.09163979128271648733061738"/>
+  <node visible="true" id="-6" lat="29.80226884230862793856431381" lon="-90.09160298028072588749637362"/>
+  <way visible="true" id="-1">
+    <nd ref="-1"/>
+    <nd ref="-2"/>
+    <nd ref="-3"/>
+    <nd ref="-4"/>
+    <nd ref="-5"/>
+    <nd ref="-6"/>
+    <nd ref="-1"/>
+    <tag k="building" v="yes"/>
+  </way>
+  <node visible="true" id="-7" lat="29.80185257952933142178153503" lon="-90.09147306343486150126409484">
+    <tag k="addr:housenumber" v="6101"/>
+    <tag k="addr:street" v="Leo Kerner/Lafitte Parkway"/>
+    <tag k="addr:city" v="Marrero"/>
+    <tag k="addr:postcode" v="70072"/>
+  </node>
+  <node visible="true" id="-8" lat="29.80168949433178582353320962" lon="-90.09792749154509294839954237">
+    <tag k="addr:housenumber" v="6201"/>
+    <tag k="addr:street" v="Leo Kerner/Lafitte Parkway"/>
+    <tag k="addr:city" v="Marrero"/>
+    <tag k="addr:postcode" v="70072"/>
+    <tag k="addr:unit" v="T"/>
+  </node>
+</osm>

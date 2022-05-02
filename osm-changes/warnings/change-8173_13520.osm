@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='utf8'?>
+<osm version="0.6" generator="AnonymousAlligator's import script">
+  <changeset_tag k="comment" v="Import buildings and addresses in Jefferson Parish, see https://wiki.openstreetmap.org/wiki/Import/Catalogue/Jefferson_Parish_Addresses_and_Buildings"/>
+  <changeset_tag k="source" v="Jefferson Parish Planning Department"/>
+  <changeset_tag k="source_file" v="8173_13520"/>
+  <node visible="true" id="-1" lat="29.98540257232550132471260440" lon="-90.20443169040143516212992836"/>
+  <node visible="true" id="-2" lat="29.98532730973576576616324019" lon="-90.20444031718155031285277801"/>
+  <node visible="true" id="-3" lat="29.98533578439074176458234433" lon="-90.20453207148334229259489803"/>
+  <node visible="true" id="-4" lat="29.98541106299743930208023812" lon="-90.20452415451934768952924060"/>
+  <way visible="true" id="-1">
+    <nd ref="-1"/>
+    <nd ref="-2"/>
+    <nd ref="-3"/>
+    <nd ref="-4"/>
+    <nd ref="-1"/>
+    <tag k="building" v="yes"/>
+    <tag k="addr:street" v="Mercury Avenue"/>
+    <tag k="addr:city" v="Metairie"/>
+    <tag k="addr:postcode" v="70003"/>
+  </way>
+  <node visible="true" id="-5" lat="29.98595197519331989610691380" lon="-90.20683106317083854719385272"/>
+  <node visible="true" id="-6" lat="29.98585016124669877513042593" lon="-90.20679425391898575981031172"/>
+  <node visible="true" id="-7" lat="29.98583441856800035907326674" lon="-90.20685034012855396667873720"/>
+  <node visible="true" id="-8" lat="29.98580525986705680452359957" lon="-90.20683831143141162556275958"/>
+  <node visible="true" id="-9" lat="29.98578933959741021908484981" lon="-90.20689652526255031261825934"/>
+  <node visible="true" id="-10" lat="29.98581867496321251564950217" lon="-90.20690642633057620969339041"/>
+  <node visible="true" id="-11" lat="29.98580753396011644440477539" lon="-90.20694611657168593410460744"/>
+  <node visible="true" id="-12" lat="29.98591138708859205053158803" lon="-90.20698231944454903441510396"/>
+  <way visible="true" id="-2">
+    <nd ref="-5"/>
+    <nd ref="-6"/>
+    <nd ref="-7"/>
+    <nd ref="-8"/>
+    <nd ref="-9"/>
+    <nd ref="-10"/>
+    <nd ref="-11"/>
+    <nd ref="-12"/>
+    <nd ref="-5"/>
+    <tag k="building" v="yes"/>
+    <tag k="addr:street" v="Airline Park Boulevard"/>
+    <tag k="addr:city" v="Metairie"/>
+    <tag k="addr:postcode" v="70003"/>
+  </way>
+</osm>

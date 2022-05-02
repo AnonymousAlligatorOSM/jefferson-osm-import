@@ -1,0 +1,80 @@
+<?xml version='1.0' encoding='utf8'?>
+<osm version="0.6" generator="AnonymousAlligator's import script">
+  <changeset_tag k="comment" v="Import buildings and addresses in Jefferson Parish, see https://wiki.openstreetmap.org/wiki/Import/Catalogue/Jefferson_Parish_Addresses_and_Buildings"/>
+  <changeset_tag k="source" v="Jefferson Parish Planning Department"/>
+  <changeset_tag k="source_file" v="8175_13523"/>
+  <node visible="true" id="-1" lat="29.96280535904044484141195426" lon="-90.18014452802070479719986906"/>
+  <node visible="true" id="-2" lat="29.96260606961197936470853165" lon="-90.18008724407552278989896877"/>
+  <node visible="true" id="-3" lat="29.96258862887596663426847954" lon="-90.18016569939698001689976081"/>
+  <node visible="true" id="-4" lat="29.96278853086161220176109055" lon="-90.18022154029159764832002111"/>
+  <way visible="true" id="-1">
+    <nd ref="-1"/>
+    <nd ref="-2"/>
+    <nd ref="-3"/>
+    <nd ref="-4"/>
+    <nd ref="-1"/>
+    <tag k="building" v="yes"/>
+    <tag k="addr:street" v="Hill Street"/>
+    <tag k="addr:city" v="Jefferson"/>
+    <tag k="addr:postcode" v="70121"/>
+  </way>
+  <node visible="true" id="-5" lat="29.95743977189149376272325753" lon="-90.17980329342303491557686357"/>
+  <node visible="true" id="-6" lat="29.95732531249294794406523579" lon="-90.17987900369283238433126826"/>
+  <node visible="true" id="-7" lat="29.95742415583802298328919278" lon="-90.18008991008187535953766201"/>
+  <node visible="true" id="-8" lat="29.95754344860155526930611813" lon="-90.18000669244365496979298769"/>
+  <way visible="true" id="-2">
+    <nd ref="-5"/>
+    <nd ref="-6"/>
+    <nd ref="-7"/>
+    <nd ref="-8"/>
+    <nd ref="-5"/>
+    <tag k="building" v="yes"/>
+    <tag k="addr:street" v="Pontchartrain Road"/>
+    <tag k="addr:city" v="Jefferson"/>
+    <tag k="addr:postcode" v="70121"/>
+  </way>
+  <node visible="true" id="-9" lat="29.95696292045039044182885846" lon="-90.18013452164423426893336000">
+    <tag k="addr:street" v="Pontchartrain Road"/>
+    <tag k="addr:city" v="Jefferson"/>
+    <tag k="addr:postcode" v="70121"/>
+  </node>
+  <node visible="true" id="-10" lat="29.95720536750128459857478447" lon="-90.18047989113931350857455982">
+    <tag k="addr:street" v="Pontchartrain Road"/>
+    <tag k="addr:city" v="Jefferson"/>
+    <tag k="addr:postcode" v="70121"/>
+  </node>
+  <way id="484580197" version="1">
+    <tag k="addr:housenumber" v="800"/>
+    <tag k="addr:street" v="West Commerce Road"/>
+    <tag k="addr:city" v="Jefferson"/>
+    <tag k="addr:postcode" v="70123"/>
+    <tag k="addr:unit" v="300"/>
+  </way>
+  <node visible="true" id="-11" lat="29.95686321961795783863635734" lon="-90.18605030798011057413532399">
+    <tag k="addr:housenumber" v="990"/>
+    <tag k="addr:street" v="Corporate Road"/>
+    <tag k="addr:city" v="Jefferson"/>
+    <tag k="addr:postcode" v="70123"/>
+  </node>
+  <node visible="true" id="-12" lat="29.95683030905497901130729588" lon="-90.18599914884529766823106911">
+    <tag k="addr:housenumber" v="990"/>
+    <tag k="addr:street" v="Corporate Road"/>
+    <tag k="addr:city" v="Jefferson"/>
+    <tag k="addr:postcode" v="70123"/>
+    <tag k="addr:unit" v="200"/>
+  </node>
+  <node visible="true" id="-13" lat="29.95691941642821021218878741" lon="-90.18603430994677694343408803">
+    <tag k="addr:housenumber" v="990"/>
+    <tag k="addr:street" v="Corporate Road"/>
+    <tag k="addr:city" v="Jefferson"/>
+    <tag k="addr:postcode" v="70123"/>
+    <tag k="addr:unit" v="300"/>
+  </node>
+  <node visible="true" id="-14" lat="29.95674894902604634694398555" lon="-90.18597650904817442096828017">
+    <tag k="addr:housenumber" v="990"/>
+    <tag k="addr:street" v="Corporate Road"/>
+    <tag k="addr:city" v="Jefferson"/>
+    <tag k="addr:postcode" v="70123"/>
+    <tag k="addr:unit" v="100"/>
+  </node>
+</osm>

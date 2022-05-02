@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf8'?>
+<osm version="0.6" generator="AnonymousAlligator's import script">
+  <changeset_tag k="comment" v="Import buildings and addresses in Jefferson Parish, see https://wiki.openstreetmap.org/wiki/Import/Catalogue/Jefferson_Parish_Addresses_and_Buildings"/>
+  <changeset_tag k="source" v="Jefferson Parish Planning Department"/>
+  <changeset_tag k="source_file" v="8190_13531"/>
+  <node visible="true" id="-1" lat="29.88475036605720802640462352" lon="-90.02005262106239058539358666"/>
+  <node visible="true" id="-2" lat="29.88465790186084447555003862" lon="-90.02005814120151683255244279"/>
+  <node visible="true" id="-3" lat="29.88466179332576189153769519" lon="-90.02013484883912042278097942"/>
+  <node visible="true" id="-4" lat="29.88475363235491855107284209" lon="-90.02012933699289476408011978"/>
+  <way visible="true" id="-1">
+    <nd ref="-1"/>
+    <nd ref="-2"/>
+    <nd ref="-3"/>
+    <nd ref="-4"/>
+    <nd ref="-1"/>
+    <tag k="building" v="yes"/>
+    <tag k="addr:street" v="Behrman Highway"/>
+    <tag k="addr:city" v="Terrytown"/>
+    <tag k="addr:postcode" v="70056"/>
+  </way>
+  <node visible="true" id="-5" lat="29.88734209480169567996199476" lon="-90.01881527102050029043311952">
+    <tag k="addr:street" v="Behrman Highway"/>
+    <tag k="addr:city" v="Terrytown"/>
+    <tag k="addr:postcode" v="70056"/>
+  </node>
+</osm>

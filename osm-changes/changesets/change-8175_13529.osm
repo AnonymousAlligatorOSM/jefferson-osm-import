@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf8'?>
+<osm version="0.6" generator="AnonymousAlligator's import script">
+  <changeset_tag k="comment" v="Import buildings and addresses in Jefferson Parish, see https://wiki.openstreetmap.org/wiki/Import/Catalogue/Jefferson_Parish_Addresses_and_Buildings"/>
+  <changeset_tag k="source" v="Jefferson Parish Planning Department"/>
+  <changeset_tag k="source_file" v="8175_13529"/>
+  <node visible="true" id="-1" lat="29.89792329687374206059757853" lon="-90.17762809975486959501722595"/>
+  <node visible="true" id="-2" lat="29.89779703513533348768760334" lon="-90.17762956132894203165051294"/>
+  <node visible="true" id="-3" lat="29.89779820136993748747045174" lon="-90.17776227634813324129936518"/>
+  <node visible="true" id="-4" lat="29.89792446310980622570241394" lon="-90.17776081494187678799789865"/>
+  <way visible="true" id="-1">
+    <nd ref="-1"/>
+    <nd ref="-2"/>
+    <nd ref="-3"/>
+    <nd ref="-4"/>
+    <nd ref="-1"/>
+    <tag k="building" v="yes"/>
+  </way>
+  <node visible="true" id="-5" lat="29.89831997834860999319062103" lon="-90.17727446873580277042492526">
+    <tag k="addr:housenumber" v="10205"/>
+    <tag k="addr:street" v="Lapalco Boulevard"/>
+    <tag k="addr:city" v="Avondale"/>
+    <tag k="addr:postcode" v="70094"/>
+  </node>
+</osm>

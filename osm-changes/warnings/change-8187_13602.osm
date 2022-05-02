@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf8'?>
+<osm version="0.6" generator="AnonymousAlligator's import script">
+  <changeset_tag k="comment" v="Import buildings and addresses in Jefferson Parish, see https://wiki.openstreetmap.org/wiki/Import/Catalogue/Jefferson_Parish_Addresses_and_Buildings"/>
+  <changeset_tag k="source" v="Jefferson Parish Planning Department"/>
+  <changeset_tag k="source_file" v="8187_13602"/>
+  <node visible="true" id="-1" lat="29.20908952010412207300760201" lon="-90.05254026852013282677944517"/>
+  <node visible="true" id="-2" lat="29.20899790742741330973331060" lon="-90.05238511132205303511000238"/>
+  <node visible="true" id="-3" lat="29.20893355488445664036589733" lon="-90.05243498506770549738575937"/>
+  <node visible="true" id="-4" lat="29.20902516840354223859321792" lon="-90.05259014220044377907470334"/>
+  <way visible="true" id="-1">
+    <nd ref="-1"/>
+    <nd ref="-2"/>
+    <nd ref="-3"/>
+    <nd ref="-4"/>
+    <nd ref="-1"/>
+    <tag k="building" v="yes"/>
+    <tag k="addr:housenumber" v="147"/>
+    <tag k="addr:street" v="Circle"/>
+    <tag k="addr:city" v="Grand Isle"/>
+    <tag k="addr:postcode" v="70358"/>
+  </way>
+</osm>

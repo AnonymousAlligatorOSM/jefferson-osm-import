@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf8'?>
+<osm version="0.6" generator="AnonymousAlligator's import script">
+  <changeset_tag k="comment" v="Import buildings and addresses in Jefferson Parish, see https://wiki.openstreetmap.org/wiki/Import/Catalogue/Jefferson_Parish_Addresses_and_Buildings"/>
+  <changeset_tag k="source" v="Jefferson Parish Planning Department"/>
+  <changeset_tag k="source_file" v="8166_13520"/>
+  <node visible="true" id="-1" lat="29.98807483914935190227879502" lon="-90.27834346478535110236407490"/>
+  <node visible="true" id="-2" lat="29.98937551976257154251470638" lon="-90.27832180921768667758442461"/>
+  <node visible="true" id="-3" lat="29.98937169076208775209124724" lon="-90.27800013751686947216512635"/>
+  <node visible="true" id="-4" lat="29.98827039207363043260556879" lon="-90.27801825241326127979846206"/>
+  <node visible="true" id="-5" lat="29.98827101952421614328159194" lon="-90.27809651797055323640961433"/>
+  <node visible="true" id="-6" lat="29.98807225707689028126878839" lon="-90.27809933892764604479452828"/>
+  <way visible="true" id="-1">
+    <nd ref="-1"/>
+    <nd ref="-2"/>
+    <nd ref="-3"/>
+    <nd ref="-4"/>
+    <nd ref="-5"/>
+    <nd ref="-6"/>
+    <nd ref="-1"/>
+    <tag k="building" v="yes"/>
+    <tag k="addr:housenumber" v="2"/>
+    <tag k="addr:street" v="Schenkers Drive"/>
+    <tag k="addr:city" v="Kenner"/>
+    <tag k="addr:postcode" v="70062"/>
+  </way>
+</osm>

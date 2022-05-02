@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='utf8'?>
+<osm version="0.6" generator="AnonymousAlligator's import script">
+  <changeset_tag k="comment" v="Import buildings and addresses in Jefferson Parish, see https://wiki.openstreetmap.org/wiki/Import/Catalogue/Jefferson_Parish_Addresses_and_Buildings"/>
+  <changeset_tag k="source" v="Jefferson Parish Planning Department"/>
+  <changeset_tag k="source_file" v="8169_13528"/>
+  <node visible="true" id="-1" lat="29.91234958547190458943987323" lon="-90.24599493521490956027264474"/>
+  <node visible="true" id="-2" lat="29.91234364177760340908207581" lon="-90.24588090871529288961028215"/>
+  <node visible="true" id="-3" lat="29.91234051677363581234203593" lon="-90.24588094275807748090301175"/>
+  <node visible="true" id="-4" lat="29.91233767791953823689254932" lon="-90.24584007354054904226359213"/>
+  <node visible="true" id="-5" lat="29.91225772345054778611483925" lon="-90.24584740275564342937286710"/>
+  <node visible="true" id="-6" lat="29.91226710151748235944069165" lon="-90.24599870443861959756759461"/>
+  <node visible="true" id="-7" lat="29.91234960920212415658170357" lon="-90.24599780572363272312941262"/>
+  <way visible="true" id="-1">
+    <nd ref="-1"/>
+    <nd ref="-2"/>
+    <nd ref="-3"/>
+    <nd ref="-4"/>
+    <nd ref="-5"/>
+    <nd ref="-6"/>
+    <nd ref="-7"/>
+    <nd ref="-1"/>
+    <tag k="building" v="yes"/>
+  </way>
+  <node visible="true" id="-8" lat="29.91330461673189589077992423" lon="-90.24974463486989861848996952"/>
+  <node visible="true" id="-9" lat="29.91329058598245183020480908" lon="-90.24952908826973896339040948"/>
+  <node visible="true" id="-10" lat="29.91324971967869572608833550" lon="-90.24952718727719513935880968"/>
+  <node visible="true" id="-11" lat="29.91326789324543256043398287" lon="-90.24974972184611488046357408"/>
+  <way visible="true" id="-2">
+    <nd ref="-8"/>
+    <nd ref="-9"/>
+    <nd ref="-10"/>
+    <nd ref="-11"/>
+    <nd ref="-8"/>
+    <tag k="building" v="yes"/>
+  </way>
+  <node visible="true" id="-12" lat="29.91223903678907092285044200" lon="-90.24630232623195524865877815"/>
+  <node visible="true" id="-13" lat="29.91223608577110937289944559" lon="-90.24617560772095714582974324"/>
+  <node visible="true" id="-14" lat="29.91211428732590604795404943" lon="-90.24618130454108211324637523"/>
+  <node visible="true" id="-15" lat="29.91212296782856938648365031" lon="-90.24631014568201692327420460"/>
+  <way visible="true" id="-3">
+    <nd ref="-12"/>
+    <nd ref="-13"/>
+    <nd ref="-14"/>
+    <nd ref="-15"/>
+    <nd ref="-12"/>
+    <tag k="building" v="yes"/>
+  </way>
+  <node visible="true" id="-16" lat="29.91429897607517318647296634" lon="-90.24590319907579782920947764"/>
+  <node visible="true" id="-17" lat="29.91429107515740781764179701" lon="-90.24584424789166803293483099"/>
+  <node visible="true" id="-18" lat="29.91404660996755637825117446" lon="-90.24586868254361604613222880"/>
+  <node visible="true" id="-19" lat="29.91405286406535068977063929" lon="-90.24593218559152774105314165"/>
+  <way visible="true" id="-4">
+    <nd ref="-16"/>
+    <nd ref="-17"/>
+    <nd ref="-18"/>
+    <nd ref="-19"/>
+    <nd ref="-16"/>
+  </way>
+  <node visible="true" id="-20" lat="29.91429275820606648039756692" lon="-90.24584407938675667537609115"/>
+  <node visible="true" id="-21" lat="29.91429040589881438449992856" lon="-90.24583925091977221200068016"/>
+  <way visible="true" id="-5">
+    <nd ref="-17"/>
+    <nd ref="-20"/>
+    <nd ref="-21"/>
+    <nd ref="-17"/>
+  </way>
+  <relation visible="true" id="-6">
+    <member type="way" role="outer" ref="-4"/>
+    <member type="way" role="outer" ref="-5"/>
+    <tag k="type" v="multipolygon"/>
+    <tag k="building" v="yes"/>
+  </relation>
+</osm>

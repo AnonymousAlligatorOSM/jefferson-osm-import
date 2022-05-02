@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='utf8'?>
+<osm version="0.6" generator="AnonymousAlligator's import script">
+  <changeset_tag k="comment" v="Import buildings and addresses in Jefferson Parish, see https://wiki.openstreetmap.org/wiki/Import/Catalogue/Jefferson_Parish_Addresses_and_Buildings"/>
+  <changeset_tag k="source" v="Jefferson Parish Planning Department"/>
+  <changeset_tag k="source_file" v="8178_13526"/>
+  <node visible="true" id="-1" lat="29.92909081805927229424924008" lon="-90.14571581654368515046371613"/>
+  <node visible="true" id="-2" lat="29.92892930105526261286286172" lon="-90.14568974876756612957251491"/>
+  <node visible="true" id="-3" lat="29.92890659509989248476813373" lon="-90.14587518054561599001317518"/>
+  <node visible="true" id="-4" lat="29.92906811206765738120338938" lon="-90.14590124861582864923548186"/>
+  <way visible="true" id="-1">
+    <nd ref="-1"/>
+    <nd ref="-2"/>
+    <nd ref="-3"/>
+    <nd ref="-4"/>
+    <nd ref="-1"/>
+    <tag k="building" v="yes"/>
+    <tag k="addr:housenumber" v="106"/>
+    <tag k="addr:street" v="Seven Oaks Boulevard"/>
+    <tag k="addr:city" v="Westwego"/>
+    <tag k="addr:postcode" v="70094"/>
+  </way>
+  <node visible="true" id="-5" lat="29.92782465669612790293285798" lon="-90.15185249233627473586238921"/>
+  <node visible="true" id="-6" lat="29.92773110565327598919793672" lon="-90.15161249282841993135662051"/>
+  <node visible="true" id="-7" lat="29.92713893282249770777525555" lon="-90.15193204918850256035511848"/>
+  <node visible="true" id="-8" lat="29.92724236587437758316809777" lon="-90.15218979080125905056775082"/>
+  <way visible="true" id="-2">
+    <nd ref="-5"/>
+    <nd ref="-6"/>
+    <nd ref="-7"/>
+    <nd ref="-8"/>
+    <nd ref="-5"/>
+    <tag k="building" v="yes"/>
+    <tag k="addr:housenumber" v="500"/>
+    <tag k="addr:street" v="Seven Oaks Boulevard"/>
+    <tag k="addr:city" v="Bridge City"/>
+    <tag k="addr:postcode" v="70094"/>
+  </way>
+</osm>

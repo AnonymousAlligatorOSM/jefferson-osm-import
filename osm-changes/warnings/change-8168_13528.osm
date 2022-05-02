@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='utf8'?>
+<osm version="0.6" generator="AnonymousAlligator's import script">
+  <changeset_tag k="comment" v="Import buildings and addresses in Jefferson Parish, see https://wiki.openstreetmap.org/wiki/Import/Catalogue/Jefferson_Parish_Addresses_and_Buildings"/>
+  <changeset_tag k="source" v="Jefferson Parish Planning Department"/>
+  <changeset_tag k="source_file" v="8168_13528"/>
+  <node visible="true" id="-1" lat="29.91213652144003987132236944" lon="-90.25649290306897398750152206"/>
+  <node visible="true" id="-2" lat="29.91213556390332328760450764" lon="-90.25637595277025582163332729"/>
+  <node visible="true" id="-3" lat="29.91202557615293855519666977" lon="-90.25638000909333413801505230"/>
+  <node visible="true" id="-4" lat="29.91202879854841611972915416" lon="-90.25646823349033809336106060"/>
+  <node visible="true" id="-5" lat="29.91200442187111363523399632" lon="-90.25646849645561076158628566"/>
+  <node visible="true" id="-6" lat="29.91200713316623804871596803" lon="-90.25649429882301433281099889"/>
+  <way visible="true" id="-1">
+    <nd ref="-1"/>
+    <nd ref="-2"/>
+    <nd ref="-3"/>
+    <nd ref="-4"/>
+    <nd ref="-5"/>
+    <nd ref="-6"/>
+    <nd ref="-1"/>
+    <tag k="building" v="yes"/>
+    <tag k="addr:housenumber" v="5800"/>
+    <tag k="addr:street" v="Highway 90"/>
+    <tag k="addr:city" v="Waggaman"/>
+    <tag k="addr:postcode" v="70094"/>
+  </way>
+  <node visible="true" id="-7" lat="29.91253641701553078746655956" lon="-90.25328876447967729745869292"/>
+  <node visible="true" id="-8" lat="29.91252696573462799278786406" lon="-90.25312741592539111934456741"/>
+  <node visible="true" id="-9" lat="29.91225456852417252662235114" lon="-90.25314615067959778116346570"/>
+  <node visible="true" id="-10" lat="29.91226151904749741561317933" lon="-90.25330752481586671365221264"/>
+  <way visible="true" id="-2">
+    <nd ref="-7"/>
+    <nd ref="-8"/>
+    <nd ref="-9"/>
+    <nd ref="-10"/>
+    <nd ref="-7"/>
+    <tag k="building" v="yes"/>
+    <tag k="addr:housenumber" v="5221"/>
+    <tag k="addr:street" v="Highway 90"/>
+    <tag k="addr:city" v="Waggaman"/>
+    <tag k="addr:postcode" v="70094"/>
+  </way>
+  <node visible="true" id="-11" lat="29.91172307857128132013713184" lon="-90.25321190274142679754731944">
+    <tag k="addr:housenumber" v="5221"/>
+    <tag k="addr:street" v="Highway 90"/>
+    <tag k="addr:city" v="Waggaman"/>
+    <tag k="addr:postcode" v="70094"/>
+    <tag k="addr:unit" v="Sprint Twr"/>
+  </node>
+  <node visible="true" id="-12" lat="29.91276813400085288208174461" lon="-90.25965507357369688179460354">
+    <tag k="addr:housenumber" v="5901"/>
+    <tag k="addr:street" v="Highway 90"/>
+    <tag k="addr:city" v="Waggaman"/>
+    <tag k="addr:postcode" v="70094"/>
+  </node>
+  <node visible="true" id="-13" lat="29.91387384133204108138670563" lon="-90.26364774985316330457862932">
+    <tag k="addr:housenumber" v="5800"/>
+    <tag k="addr:street" v="Highway 90"/>
+    <tag k="addr:city" v="Waggaman"/>
+    <tag k="addr:postcode" v="70094"/>
+    <tag k="addr:unit" v="Irrg Meter"/>
+  </node>
+</osm>

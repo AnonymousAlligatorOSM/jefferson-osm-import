@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf8'?>
+<osm version="0.6" generator="AnonymousAlligator's import script">
+  <changeset_tag k="comment" v="Import buildings and addresses in Jefferson Parish, see https://wiki.openstreetmap.org/wiki/Import/Catalogue/Jefferson_Parish_Addresses_and_Buildings"/>
+  <changeset_tag k="source" v="Jefferson Parish Planning Department"/>
+  <changeset_tag k="source_file" v="8180_13518"/>
+  <node visible="true" id="-1" lat="30.00279811479853364630798751" lon="-90.13130181503591131786379265">
+    <tag k="addr:street" v="Martin Behrman Avenue"/>
+    <tag k="addr:city" v="Metairie"/>
+    <tag k="addr:postcode" v="70005"/>
+  </node>
+  <node visible="true" id="-2" lat="30.00565799338581740585141233" lon="-90.12861007991821793439157773"/>
+  <node visible="true" id="-3" lat="30.00565805910521177679584071" lon="-90.12861726179389165736210998"/>
+  <node visible="true" id="-4" lat="30.00567806083127564420465205" lon="-90.12861702017472964598709950"/>
+  <node visible="true" id="-5" lat="30.00567799511187061511918728" lon="-90.12860983829762062669033185"/>
+  <node visible="true" id="-6" lat="30.00567986970986567030195147" lon="-90.12860981565249574032350210"/>
+  <node visible="true" id="-7" lat="30.00567464085676760987553280" lon="-90.12843516130814691678097006"/>
+  <node visible="true" id="-8" lat="30.00555479490321530988694576" lon="-90.12844175912660205085558118"/>
+  <node visible="true" id="-9" lat="30.00556114344312064190489764" lon="-90.12861484067592243718536338"/>
+  <way visible="true" id="-1">
+    <nd ref="-2"/>
+    <nd ref="-3"/>
+    <nd ref="-4"/>
+    <nd ref="-5"/>
+    <nd ref="-6"/>
+    <nd ref="-7"/>
+    <nd ref="-8"/>
+    <nd ref="-9"/>
+    <nd ref="-2"/>
+    <tag k="building" v="yes"/>
+    <tag k="addr:street" v="Aris Avenue"/>
+    <tag k="addr:city" v="Metairie"/>
+    <tag k="addr:postcode" v="70005"/>
+  </way>
+  <node visible="true" id="-10" lat="30.00938004497848865526066220" lon="-90.12739364079820347797067370"/>
+  <node visible="true" id="-11" lat="30.00938705192421807055325189" lon="-90.12754439052585553326935042"/>
+  <node visible="true" id="-12" lat="30.00954011643762342487207206" lon="-90.12753463845140800003719050"/>
+  <node visible="true" id="-13" lat="30.00953619469824218413123162" lon="-90.12744777622269509720354108"/>
+  <node visible="true" id="-14" lat="30.00956805961597240184346447" lon="-90.12744595514710965744598070"/>
+  <node visible="true" id="-15" lat="30.00956498006577888304491353" lon="-90.12738278469078068155795336"/>
+  <way visible="true" id="-2">
+    <nd ref="-10"/>
+    <nd ref="-11"/>
+    <nd ref="-12"/>
+    <nd ref="-13"/>
+    <nd ref="-14"/>
+    <nd ref="-15"/>
+    <nd ref="-10"/>
+    <tag k="building" v="yes"/>
+    <tag k="addr:housenumber" v="501"/>
+    <tag k="addr:street" v="Georgia Court"/>
+    <tag k="addr:city" v="Metairie"/>
+    <tag k="addr:postcode" v="70005"/>
+  </way>
+  <node visible="true" id="-16" lat="30.00255976981393857272450987" lon="-90.12694170051743469684879528">
+    <tag k="addr:street" v="Raspberry Street"/>
+    <tag k="addr:city" v="Metairie"/>
+    <tag k="addr:postcode" v="70005"/>
+  </node>
+</osm>

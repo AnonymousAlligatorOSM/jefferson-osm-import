@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='utf8'?>
+<osm version="0.6" generator="AnonymousAlligator's import script">
+  <changeset_tag k="comment" v="Import buildings and addresses in Jefferson Parish, see https://wiki.openstreetmap.org/wiki/Import/Catalogue/Jefferson_Parish_Addresses_and_Buildings"/>
+  <changeset_tag k="source" v="Jefferson Parish Planning Department"/>
+  <changeset_tag k="source_file" v="8169_13526"/>
+  <node visible="true" id="-1" lat="29.92868666344255856870404386" lon="-90.24323118060956971930863801"/>
+  <node visible="true" id="-2" lat="29.92863384309432106533677143" lon="-90.24319372088561408418172505"/>
+  <node visible="true" id="-3" lat="29.92860423234805367087574268" lon="-90.24324141036758817335794447"/>
+  <node visible="true" id="-4" lat="29.92859605329530481299116218" lon="-90.24323504045530341954872711"/>
+  <node visible="true" id="-5" lat="29.92856894326169125974956842" lon="-90.24328270363106696549948538"/>
+  <node visible="true" id="-6" lat="29.92863812167339077063843433" lon="-90.24333290218487491074483842"/>
+  <node visible="true" id="-7" lat="29.92868129936682919378654333" lon="-90.24326281659480741836887319"/>
+  <node visible="true" id="-8" lat="29.92867312031520299342446378" lon="-90.24325644667588619540765649"/>
+  <way visible="true" id="-1">
+    <nd ref="-1"/>
+    <nd ref="-2"/>
+    <nd ref="-3"/>
+    <nd ref="-4"/>
+    <nd ref="-5"/>
+    <nd ref="-6"/>
+    <nd ref="-7"/>
+    <nd ref="-8"/>
+    <nd ref="-1"/>
+    <tag k="building" v="yes"/>
+  </way>
+  <node visible="true" id="-9" lat="29.92868854411120338454566081" lon="-90.24218455552157536203594645"/>
+  <node visible="true" id="-10" lat="29.92866088686206538227452256" lon="-90.24216619898609792471688706"/>
+  <node visible="true" id="-11" lat="29.92863369893078839822919690" lon="-90.24220453285624898853711784"/>
+  <node visible="true" id="-12" lat="29.92866141064620322254086204" lon="-90.24222934804991780310956528"/>
+  <way visible="true" id="-2">
+    <nd ref="-9"/>
+    <nd ref="-10"/>
+    <nd ref="-11"/>
+    <nd ref="-12"/>
+    <nd ref="-9"/>
+    <tag k="building" v="yes"/>
+  </way>
+  <node visible="true" id="-13" lat="29.93414950170214794411549519" lon="-90.24694271986953708619694225">
+    <tag k="addr:housenumber" v="8501"/>
+    <tag k="addr:street" v="Live Oak Boulevard"/>
+    <tag k="addr:city" v="Waggaman"/>
+    <tag k="addr:postcode" v="70094"/>
+  </node>
+</osm>

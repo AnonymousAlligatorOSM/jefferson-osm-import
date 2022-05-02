@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf8'?>
+<osm version="0.6" generator="AnonymousAlligator's import script">
+  <changeset_tag k="comment" v="Import buildings and addresses in Jefferson Parish, see https://wiki.openstreetmap.org/wiki/Import/Catalogue/Jefferson_Parish_Addresses_and_Buildings"/>
+  <changeset_tag k="source" v="Jefferson Parish Planning Department"/>
+  <changeset_tag k="source_file" v="8167_13526"/>
+  <node visible="true" id="-1" lat="29.93459288100689619227523508" lon="-90.26735148295321664591028821"/>
+  <node visible="true" id="-2" lat="29.93458999648576224217322306" lon="-90.26730414391840895405039191"/>
+  <node visible="true" id="-3" lat="29.93457376776322931277718453" lon="-90.26730718866639335828949697"/>
+  <node visible="true" id="-4" lat="29.93457665227487751735679922" lon="-90.26735452665784009695926215"/>
+  <way visible="true" id="-1">
+    <nd ref="-1"/>
+    <nd ref="-2"/>
+    <nd ref="-3"/>
+    <nd ref="-4"/>
+    <nd ref="-1"/>
+    <tag k="building" v="yes"/>
+  </way>
+  <node visible="true" id="-5" lat="29.93539142555903254105942324" lon="-90.26676806057734836485906271"/>
+  <node visible="true" id="-6" lat="29.93538809601575678698281990" lon="-90.26674297533479318644822342"/>
+  <node visible="true" id="-7" lat="29.93533069497085463694929786" lon="-90.26675650812292417413118528"/>
+  <node visible="true" id="-8" lat="29.93533650105466747959326312" lon="-90.26677869546172416903573321"/>
+  <way visible="true" id="-2">
+    <nd ref="-5"/>
+    <nd ref="-6"/>
+    <nd ref="-7"/>
+    <nd ref="-8"/>
+    <nd ref="-5"/>
+    <tag k="building" v="yes"/>
+  </way>
+</osm>

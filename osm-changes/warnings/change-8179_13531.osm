@@ -1,0 +1,66 @@
+<?xml version='1.0' encoding='utf8'?>
+<osm version="0.6" generator="AnonymousAlligator's import script">
+  <changeset_tag k="comment" v="Import buildings and addresses in Jefferson Parish, see https://wiki.openstreetmap.org/wiki/Import/Catalogue/Jefferson_Parish_Addresses_and_Buildings"/>
+  <changeset_tag k="source" v="Jefferson Parish Planning Department"/>
+  <changeset_tag k="source_file" v="8179_13531"/>
+  <node visible="true" id="-1" lat="29.88040495640122173881536582" lon="-90.13189154768654987037734827"/>
+  <node visible="true" id="-2" lat="29.88030268964092073247229564" lon="-90.13191931929709710402676137"/>
+  <node visible="true" id="-3" lat="29.88033475218892576208418177" lon="-90.13207602918829763893882046"/>
+  <node visible="true" id="-4" lat="29.88043701898199344668682897" lon="-90.13204825772936601424589753"/>
+  <way visible="true" id="-1">
+    <nd ref="-1"/>
+    <nd ref="-2"/>
+    <nd ref="-3"/>
+    <nd ref="-4"/>
+    <nd ref="-1"/>
+    <tag k="building" v="yes"/>
+    <tag k="addr:street" v="Wedmore Drive"/>
+    <tag k="addr:city" v="Marrero"/>
+    <tag k="addr:postcode" v="70072"/>
+  </way>
+  <node visible="true" id="-5" lat="29.88816743386923135972210730" lon="-90.13567910945658923083101399"/>
+  <node visible="true" id="-6" lat="29.88812378982751383205140883" lon="-90.13551997804610493858490372"/>
+  <node visible="true" id="-7" lat="29.88805757827478259969211649" lon="-90.13554735904442338778608246"/>
+  <node visible="true" id="-8" lat="29.88804524207793633649998810" lon="-90.13551229554929022924625315"/>
+  <node visible="true" id="-9" lat="29.88799833926268334494125156" lon="-90.13553077456408857415226521"/>
+  <node visible="true" id="-10" lat="29.88804378224263658125892107" lon="-90.13569375862397237142431550"/>
+  <node visible="true" id="-11" lat="29.88810486127903232045355253" lon="-90.13566759271402872855105670"/>
+  <node visible="true" id="-12" lat="29.88811489491781969718431355" lon="-90.13569978063645748989074491"/>
+  <way visible="true" id="-2">
+    <nd ref="-5"/>
+    <nd ref="-6"/>
+    <nd ref="-7"/>
+    <nd ref="-8"/>
+    <nd ref="-9"/>
+    <nd ref="-10"/>
+    <nd ref="-11"/>
+    <nd ref="-12"/>
+    <nd ref="-5"/>
+    <tag k="building" v="yes"/>
+    <tag k="addr:housenumber" v="1401"/>
+    <tag k="addr:street" v="King Henry  Court"/>
+    <tag k="addr:city" v="Marrero"/>
+    <tag k="addr:postcode" v="70072"/>
+  </way>
+  <node visible="true" id="-13" lat="29.88483894124370365830145602" lon="-90.13353045779244610002933769"/>
+  <node visible="true" id="-14" lat="29.88424631108662055112290545" lon="-90.13373485308618171529815299"/>
+  <node visible="true" id="-15" lat="29.88428985543609428532363381" lon="-90.13384839025634676090703579"/>
+  <node visible="true" id="-16" lat="29.88486810939772553297189006" lon="-90.13364416827590730463271029"/>
+  <way visible="true" id="-3">
+    <nd ref="-13"/>
+    <nd ref="-14"/>
+    <nd ref="-15"/>
+    <nd ref="-16"/>
+    <nd ref="-13"/>
+    <tag k="building" v="yes"/>
+    <tag k="addr:street" v="Lapalco Boulevard"/>
+    <tag k="addr:city" v="Marrero"/>
+    <tag k="addr:postcode" v="70072"/>
+  </way>
+  <node visible="true" id="-17" lat="29.88458801967090039397589862" lon="-90.13214383915851612982805818">
+    <tag k="addr:housenumber" v="1542"/>
+    <tag k="addr:street" v="Westminister Boulevard"/>
+    <tag k="addr:city" v="Marrero"/>
+    <tag k="addr:postcode" v="70072"/>
+  </node>
+</osm>

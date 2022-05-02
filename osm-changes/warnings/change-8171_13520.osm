@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf8'?>
+<osm version="0.6" generator="AnonymousAlligator's import script">
+  <changeset_tag k="comment" v="Import buildings and addresses in Jefferson Parish, see https://wiki.openstreetmap.org/wiki/Import/Catalogue/Jefferson_Parish_Addresses_and_Buildings"/>
+  <changeset_tag k="source" v="Jefferson Parish Planning Department"/>
+  <changeset_tag k="source_file" v="8171_13520"/>
+  <node visible="true" id="-1" lat="29.99049075475889125641515420" lon="-90.22574244574859392287180526"/>
+  <node visible="true" id="-2" lat="29.99042169424518888831698860" lon="-90.22578127285909488364268327"/>
+  <node visible="true" id="-3" lat="29.99044912106471016954856168" lon="-90.22584631707786684273742139"/>
+  <node visible="true" id="-4" lat="29.99043916238115059513802407" lon="-90.22585145439867915229115169"/>
+  <node visible="true" id="-5" lat="29.99046277861517140195246611" lon="-90.22590935944086254494322930"/>
+  <node visible="true" id="-6" lat="29.99047273730092655341650243" lon="-90.22590422212461191975307884"/>
+  <node visible="true" id="-7" lat="29.99052057071305910085357027" lon="-90.22601715364291408150165807"/>
+  <node visible="true" id="-8" lat="29.99058964428078866149007808" lon="-90.22597976302492384093056899"/>
+  <way visible="true" id="-1">
+    <nd ref="-1"/>
+    <nd ref="-2"/>
+    <nd ref="-3"/>
+    <nd ref="-4"/>
+    <nd ref="-5"/>
+    <nd ref="-6"/>
+    <nd ref="-7"/>
+    <nd ref="-8"/>
+    <nd ref="-1"/>
+    <tag k="building" v="yes"/>
+    <tag k="addr:housenumber" v="8701"/>
+    <tag k="addr:street" v="North Hackett Street"/>
+    <tag k="addr:city" v="Metairie"/>
+    <tag k="addr:postcode" v="70003"/>
+  </way>
+</osm>

@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf8'?>
+<osm version="0.6" generator="AnonymousAlligator's import script">
+  <changeset_tag k="comment" v="Import buildings and addresses in Jefferson Parish, see https://wiki.openstreetmap.org/wiki/Import/Catalogue/Jefferson_Parish_Addresses_and_Buildings"/>
+  <changeset_tag k="source" v="Jefferson Parish Planning Department"/>
+  <changeset_tag k="source_file" v="8185_13527"/>
+  <node visible="true" id="-1" lat="29.91831970122859729599440470" lon="-90.06700160536910004793753615"/>
+  <node visible="true" id="-2" lat="29.91820807890452016408744385" lon="-90.06690040354807536004955182"/>
+  <node visible="true" id="-3" lat="29.91801961810132581831567222" lon="-90.06719414281231195218424546"/>
+  <node visible="true" id="-4" lat="29.91812864974102481596673897" lon="-90.06728604901546475502982503"/>
+  <way visible="true" id="-1">
+    <nd ref="-1"/>
+    <nd ref="-2"/>
+    <nd ref="-3"/>
+    <nd ref="-4"/>
+    <nd ref="-1"/>
+    <tag k="building" v="yes"/>
+    <tag k="addr:street" v="1st Street"/>
+    <tag k="addr:city" v="Gretna"/>
+    <tag k="addr:postcode" v="70053"/>
+  </way>
+</osm>

@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf8'?>
+<osm version="0.6" generator="AnonymousAlligator's import script">
+  <changeset_tag k="comment" v="Import buildings and addresses in Jefferson Parish, see https://wiki.openstreetmap.org/wiki/Import/Catalogue/Jefferson_Parish_Addresses_and_Buildings"/>
+  <changeset_tag k="source" v="Jefferson Parish Planning Department"/>
+  <changeset_tag k="source_file" v="8182_13530"/>
+  <node visible="true" id="-1" lat="29.89367998647089308406066266" lon="-90.10180354651980394464771962"/>
+  <node visible="true" id="-2" lat="29.89337487922998448652833758" lon="-90.10179870019435099948168499"/>
+  <node visible="true" id="-3" lat="29.89337864239968567403593624" lon="-90.10186680998540964537824038"/>
+  <node visible="true" id="-4" lat="29.89343239750230907247896539" lon="-90.10186614696473839103418868"/>
+  <node visible="true" id="-5" lat="29.89342779235473557264413103" lon="-90.10204197299975703572272323"/>
+  <node visible="true" id="-6" lat="29.89369104204466154328656557" lon="-90.10204948793696644315787125"/>
+  <way visible="true" id="-1">
+    <nd ref="-1"/>
+    <nd ref="-2"/>
+    <nd ref="-3"/>
+    <nd ref="-4"/>
+    <nd ref="-5"/>
+    <nd ref="-6"/>
+    <nd ref="-1"/>
+    <tag k="building" v="yes"/>
+    <tag k="addr:street" v="Avenue H"/>
+    <tag k="addr:city" v="Marrero"/>
+    <tag k="addr:postcode" v="70072"/>
+  </way>
+  <node visible="true" id="-7" lat="29.88839909648164550048932142" lon="-90.09909529579317677416838706">
+    <tag k="addr:street" v="Barataria Boulevard"/>
+    <tag k="addr:city" v="Marrero"/>
+    <tag k="addr:postcode" v="70072"/>
+  </node>
+  <way id="936577402" version="1">
+    <tag k="addr:housenumber" v="990"/>
+    <tag k="addr:street" v="Avenue K"/>
+    <tag k="addr:city" v="Marrero"/>
+    <tag k="addr:postcode" v="70072"/>
+  </way>
+</osm>

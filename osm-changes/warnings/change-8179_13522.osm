@@ -1,0 +1,520 @@
+<?xml version='1.0' encoding='utf8'?>
+<osm version="0.6" generator="AnonymousAlligator's import script">
+  <changeset_tag k="comment" v="Import buildings and addresses in Jefferson Parish, see https://wiki.openstreetmap.org/wiki/Import/Catalogue/Jefferson_Parish_Addresses_and_Buildings"/>
+  <changeset_tag k="source" v="Jefferson Parish Planning Department"/>
+  <changeset_tag k="source_file" v="8179_13522"/>
+  <node visible="true" id="-1" lat="29.97161041551795435111671395" lon="-90.14169568329741366596863372">
+    <tag k="addr:housenumber" v="1013"/>
+    <tag k="addr:street" v="Mcdermott Road"/>
+    <tag k="addr:city" v="Metairie"/>
+    <tag k="addr:postcode" v="70121"/>
+    <tag k="addr:unit" v="B"/>
+  </node>
+  <node visible="true" id="-2" lat="29.97141178178569020928989630" lon="-90.14190294275802273205044912">
+    <tag k="addr:housenumber" v="1013"/>
+    <tag k="addr:street" v="Mcdermott Road"/>
+    <tag k="addr:city" v="Metairie"/>
+    <tag k="addr:postcode" v="70121"/>
+    <tag k="addr:unit" v="A"/>
+  </node>
+  <node visible="true" id="-3" lat="29.97084932093720155421578966" lon="-90.14206600367346311486471677">
+    <tag k="addr:housenumber" v="1009"/>
+    <tag k="addr:street" v="Mcdermott Road"/>
+    <tag k="addr:city" v="Metairie"/>
+    <tag k="addr:postcode" v="70121"/>
+  </node>
+  <node visible="true" id="-4" lat="29.97139704012334959770669229" lon="-90.13962913374898278107139049"/>
+  <node visible="true" id="-5" lat="29.97128492828093726529914420" lon="-90.13967427237690799302072264"/>
+  <node visible="true" id="-6" lat="29.97131581565649582898913650" lon="-90.13977154883622233683126979"/>
+  <node visible="true" id="-7" lat="29.97142729675110928155845613" lon="-90.13972569972709436569857644"/>
+  <way visible="true" id="-1">
+    <nd ref="-4"/>
+    <nd ref="-5"/>
+    <nd ref="-6"/>
+    <nd ref="-7"/>
+    <nd ref="-4"/>
+    <tag k="building" v="yes"/>
+    <tag k="addr:street" v="L and A Road"/>
+    <tag k="addr:city" v="Metairie"/>
+    <tag k="addr:postcode" v="70121"/>
+  </way>
+  <node visible="true" id="-8" lat="29.96982214654189746738666145" lon="-90.13703024085295112399762729"/>
+  <node visible="true" id="-9" lat="29.96992488827499201420323516" lon="-90.13698593038088802131824195"/>
+  <node visible="true" id="-10" lat="29.96983227015406114901452383" lon="-90.13669985109552840185642708"/>
+  <node visible="true" id="-11" lat="29.96972952851585958455871150" lon="-90.13674416182105630923615536"/>
+  <way visible="true" id="-2">
+    <nd ref="-8"/>
+    <nd ref="-9"/>
+    <nd ref="-10"/>
+    <nd ref="-11"/>
+    <nd ref="-8"/>
+    <tag k="building" v="yes"/>
+    <tag k="addr:housenumber" v="1001"/>
+    <tag k="addr:street" v="East Harimaw Court"/>
+    <tag k="addr:city" v="Metairie"/>
+    <tag k="addr:postcode" v="70121"/>
+  </way>
+  <node visible="true" id="-12" lat="29.97034051424045486555769457" lon="-90.13679858015164825246756664"/>
+  <node visible="true" id="-13" lat="29.97052486372400892378209392" lon="-90.13672313466663865710870596"/>
+  <node visible="true" id="-14" lat="29.97044440221354122400043707" lon="-90.13646778084702759770152625"/>
+  <node visible="true" id="-15" lat="29.97026130231304819062643219" lon="-90.13654321175461348047974752"/>
+  <way visible="true" id="-3">
+    <nd ref="-12"/>
+    <nd ref="-13"/>
+    <nd ref="-14"/>
+    <nd ref="-15"/>
+    <nd ref="-12"/>
+    <tag k="building" v="yes"/>
+    <tag k="addr:housenumber" v="1013"/>
+    <tag k="addr:street" v="East Harimaw Court"/>
+    <tag k="addr:city" v="Metairie"/>
+    <tag k="addr:postcode" v="70121"/>
+  </way>
+  <node visible="true" id="-16" lat="29.97092214525028452953847591" lon="-90.13655323404668706643860787"/>
+  <node visible="true" id="-17" lat="29.97111395564714797501437715" lon="-90.13647339046707429588423111"/>
+  <node visible="true" id="-18" lat="29.97103025679106025336295716" lon="-90.13620586820100299974001246"/>
+  <node visible="true" id="-19" lat="29.97083844002311892040779640" lon="-90.13628499418690864786185557"/>
+  <way visible="true" id="-4">
+    <nd ref="-16"/>
+    <nd ref="-17"/>
+    <nd ref="-18"/>
+    <nd ref="-19"/>
+    <nd ref="-16"/>
+    <tag k="building" v="yes"/>
+    <tag k="addr:housenumber" v="1025"/>
+    <tag k="addr:street" v="East Harimaw Court"/>
+    <tag k="addr:city" v="Metairie"/>
+    <tag k="addr:postcode" v="70121"/>
+  </way>
+  <node visible="true" id="-20" lat="29.97114573508811474766844185" lon="-90.13646223946020086259522941"/>
+  <node visible="true" id="-21" lat="29.97128958046523905522917630" lon="-90.13640092096026990020618541"/>
+  <node visible="true" id="-22" lat="29.97121492591909230895907967" lon="-90.13616559902524727476702537"/>
+  <node visible="true" id="-23" lat="29.97107044332848602152807871" lon="-90.13622549026017338746896712"/>
+  <way visible="true" id="-5">
+    <nd ref="-20"/>
+    <nd ref="-21"/>
+    <nd ref="-22"/>
+    <nd ref="-23"/>
+    <nd ref="-20"/>
+    <tag k="building" v="yes"/>
+    <tag k="addr:housenumber" v="1029"/>
+    <tag k="addr:street" v="East Harimaw Court"/>
+    <tag k="addr:city" v="Metairie"/>
+    <tag k="addr:postcode" v="70121"/>
+  </way>
+  <node visible="true" id="-24" lat="29.97006521327098838014535431" lon="-90.13794059279574355514341732"/>
+  <node visible="true" id="-25" lat="29.96985472778517234360151633" lon="-90.13802927172920931297994684"/>
+  <node visible="true" id="-26" lat="29.96989978559312817196769174" lon="-90.13817232744615637329843594"/>
+  <node visible="true" id="-27" lat="29.96988236265604754748892447" lon="-90.13818115144458431586826919"/>
+  <node visible="true" id="-28" lat="29.96990295124209424670880253" lon="-90.13824552249408839088573586"/>
+  <node visible="true" id="-29" lat="29.96992038721486295571594383" lon="-90.13823813353806713166704867"/>
+  <node visible="true" id="-30" lat="29.96996799020351076592305617" lon="-90.13838618471019970002089394"/>
+  <node visible="true" id="-31" lat="29.97017848806450857068739424" lon="-90.13829894251270502536499407"/>
+  <way visible="true" id="-6">
+    <nd ref="-24"/>
+    <nd ref="-25"/>
+    <nd ref="-26"/>
+    <nd ref="-27"/>
+    <nd ref="-28"/>
+    <nd ref="-29"/>
+    <nd ref="-30"/>
+    <nd ref="-31"/>
+    <nd ref="-24"/>
+    <tag k="building" v="yes"/>
+    <tag k="addr:housenumber" v="1001"/>
+    <tag k="addr:street" v="South Harimaw Court"/>
+    <tag k="addr:city" v="Metairie"/>
+    <tag k="addr:postcode" v="70121"/>
+  </way>
+  <node visible="true" id="-32" lat="29.97030432531900245862743759" lon="-90.13825076595645668930956163"/>
+  <node visible="true" id="-33" lat="29.97038340675590362138791534" lon="-90.13821679152081856045697350"/>
+  <node visible="true" id="-34" lat="29.97025404779416390965707251" lon="-90.13780837620001307186612394"/>
+  <node visible="true" id="-35" lat="29.97045581514338508100081526" lon="-90.13772339047130799372098409"/>
+  <node visible="true" id="-36" lat="29.97042749035583142358518671" lon="-90.13763326488036398131953320"/>
+  <node visible="true" id="-37" lat="29.97014601096253016976334038" lon="-90.13775151498937532323907362"/>
+  <way visible="true" id="-7">
+    <nd ref="-32"/>
+    <nd ref="-33"/>
+    <nd ref="-34"/>
+    <nd ref="-35"/>
+    <nd ref="-36"/>
+    <nd ref="-37"/>
+    <nd ref="-32"/>
+    <tag k="building" v="yes"/>
+    <tag k="addr:housenumber" v="1005"/>
+    <tag k="addr:street" v="West Harimaw Court"/>
+    <tag k="addr:city" v="Metairie"/>
+    <tag k="addr:postcode" v="70121"/>
+  </way>
+  <node visible="true" id="-38" lat="29.97113544055913436636728875" lon="-90.13732394399445979615848046"/>
+  <node visible="true" id="-39" lat="29.97126870591626257578354853" lon="-90.13726777941296575136220781"/>
+  <node visible="true" id="-40" lat="29.97122235764351927400639397" lon="-90.13712042990673012354818638"/>
+  <node visible="true" id="-41" lat="29.97124104390002941045167972" lon="-90.13711302670030534045508830"/>
+  <node visible="true" id="-42" lat="29.97121725150050508545973571" lon="-90.13704007700339104758313624"/>
+  <node visible="true" id="-43" lat="29.97119981559823287398103275" lon="-90.13704746626480357463151449"/>
+  <node visible="true" id="-44" lat="29.97111486105040256688880618" lon="-90.13677924127632934414577903"/>
+  <node visible="true" id="-45" lat="29.97097972128037213224160951" lon="-90.13683542787036628851637943"/>
+  <way visible="true" id="-8">
+    <nd ref="-38"/>
+    <nd ref="-39"/>
+    <nd ref="-40"/>
+    <nd ref="-41"/>
+    <nd ref="-42"/>
+    <nd ref="-43"/>
+    <nd ref="-44"/>
+    <nd ref="-45"/>
+    <nd ref="-38"/>
+    <tag k="building" v="yes"/>
+    <tag k="addr:housenumber" v="1020"/>
+    <tag k="addr:street" v="East Harimaw Court"/>
+    <tag k="addr:city" v="Metairie"/>
+    <tag k="addr:postcode" v="70121"/>
+  </way>
+  <node visible="true" id="-46" lat="29.96820069892262949906580616" lon="-90.13349935442428773058054503"/>
+  <node visible="true" id="-47" lat="29.96841114777910775046620984" lon="-90.13340707833432929874106776"/>
+  <node visible="true" id="-48" lat="29.96834559850197265973292815" lon="-90.13321114416818602421699325"/>
+  <node visible="true" id="-49" lat="29.96818744470466455709356524" lon="-90.13327981755463724766741507"/>
+  <node visible="true" id="-50" lat="29.96821573885481981847078714" lon="-90.13336635082319503453618381"/>
+  <node visible="true" id="-51" lat="29.96816469426610396453725116" lon="-90.13338993983835223389178282"/>
+  <way visible="true" id="-9">
+    <nd ref="-46"/>
+    <nd ref="-47"/>
+    <nd ref="-48"/>
+    <nd ref="-49"/>
+    <nd ref="-50"/>
+    <nd ref="-51"/>
+    <nd ref="-46"/>
+    <tag k="building" v="yes"/>
+    <tag k="addr:street" v="Jefferson Highway"/>
+    <tag k="addr:city" v="Jefferson"/>
+    <tag k="addr:postcode" v="70121"/>
+  </way>
+  <node visible="true" id="-52" lat="29.97011538007317099641113600" lon="-90.13677471526330009510274976"/>
+  <node visible="true" id="-53" lat="29.97017640659177573070337530" lon="-90.13674885345855614104948472"/>
+  <node visible="true" id="-54" lat="29.97020603363964497134475096" lon="-90.13684470684287930453137960"/>
+  <node visible="true" id="-55" lat="29.97030941353165545137926529" lon="-90.13680182458578826754092006"/>
+  <node visible="true" id="-56" lat="29.97023541841203808644422679" lon="-90.13657008733595432659058133"/>
+  <node visible="true" id="-57" lat="29.97007226154098447068463429" lon="-90.13663881669059207979444182"/>
+  <way visible="true" id="-10">
+    <nd ref="-52"/>
+    <nd ref="-53"/>
+    <nd ref="-54"/>
+    <nd ref="-55"/>
+    <nd ref="-56"/>
+    <nd ref="-57"/>
+    <nd ref="-52"/>
+    <tag k="building" v="yes"/>
+    <tag k="addr:housenumber" v="1009"/>
+    <tag k="addr:street" v="East Harimaw Court"/>
+    <tag k="addr:city" v="Metairie"/>
+    <tag k="addr:postcode" v="70121"/>
+  </way>
+  <node visible="true" id="-58" lat="29.97098805222015371896304714" lon="-90.13752412149355563997232821">
+    <tag k="addr:housenumber" v="1021"/>
+    <tag k="addr:street" v="West Harimaw Court"/>
+    <tag k="addr:city" v="Metairie"/>
+    <tag k="addr:postcode" v="70121"/>
+  </node>
+  <node visible="true" id="-59" lat="29.97087169354179536640003789" lon="-90.13759131792939172100886935">
+    <tag k="addr:housenumber" v="1017"/>
+    <tag k="addr:street" v="West Harimaw Court"/>
+    <tag k="addr:city" v="Metairie"/>
+    <tag k="addr:postcode" v="70121"/>
+  </node>
+  <node visible="true" id="-60" lat="29.96995154584100262695756101" lon="-90.13781451614910622538445750"/>
+  <node visible="true" id="-61" lat="29.97066711417963347230397630" lon="-90.13751803076874580256117042"/>
+  <node visible="true" id="-62" lat="29.97063427133488033859975985" lon="-90.13741216268256550847581821"/>
+  <node visible="true" id="-63" lat="29.97088088509413239535206230" lon="-90.13730940746569331167847849"/>
+  <node visible="true" id="-64" lat="29.97079592453986762734530203" lon="-90.13704046403469760662119370"/>
+  <node visible="true" id="-65" lat="29.97080028678617225068592234" lon="-90.13703897652428054243500810"/>
+  <node visible="true" id="-66" lat="29.97078806538648976243166544" lon="-90.13700107002105710307660047"/>
+  <node visible="true" id="-67" lat="29.97072330174781740197431645" lon="-90.13702841184333180990506662"/>
+  <node visible="true" id="-68" lat="29.97073361499441190858306072" lon="-90.13706275061275619009393267"/>
+  <node visible="true" id="-69" lat="29.97061404945711515779294132" lon="-90.13711300699618789167288924"/>
+  <node visible="true" id="-70" lat="29.97057670700752396442112513" lon="-90.13699355192960638305521570"/>
+  <node visible="true" id="-71" lat="29.97039671960776630044165358" lon="-90.13706750841480186409171438"/>
+  <node visible="true" id="-72" lat="29.97049458529286525276802422" lon="-90.13738081000160207167937187"/>
+  <node visible="true" id="-73" lat="29.97042982067049265992864093" lon="-90.13740815150775631536816945"/>
+  <node visible="true" id="-74" lat="29.97043560939665951536881039" lon="-90.13742603191748514745995635"/>
+  <node visible="true" id="-75" lat="29.97040882380769133419562422" lon="-90.13743640455857075721723959"/>
+  <node visible="true" id="-76" lat="29.97037599395623175269065541" lon="-90.13733197388498297186743002"/>
+  <node visible="true" id="-77" lat="29.97038695724584300705828355" lon="-90.13730025052834093912679236"/>
+  <node visible="true" id="-78" lat="29.97035991603191007470741170" lon="-90.13721369927016269230080070"/>
+  <node visible="true" id="-79" lat="29.97032129970627778448033496" lon="-90.13722924061208630064356839"/>
+  <node visible="true" id="-80" lat="29.97030002672675763619736244" lon="-90.13715841569928954868373694"/>
+  <node visible="true" id="-81" lat="29.97026576701247080336543149" lon="-90.13717174943658960728498641"/>
+  <node visible="true" id="-82" lat="29.97025227483709741704842600" lon="-90.13713170504836114105273737"/>
+  <node visible="true" id="-83" lat="29.97009471810314451545309566" lon="-90.13719749389385071935976157"/>
+  <node visible="true" id="-84" lat="29.97010695249923273308922944" lon="-90.13723683622939120141381864"/>
+  <node visible="true" id="-85" lat="29.97006771189167650959461753" lon="-90.13725238397114480903837830"/>
+  <node visible="true" id="-86" lat="29.97007222419552263659170421" lon="-90.13726740715468110920483014"/>
+  <node visible="true" id="-87" lat="29.97003797010206582740465819" lon="-90.13728145990640427953621838"/>
+  <node visible="true" id="-88" lat="29.97002444623245054344806704" lon="-90.13723782540775175675662467"/>
+  <node visible="true" id="-89" lat="29.96986999481421420910010056" lon="-90.13730142236971687452751212"/>
+  <node visible="true" id="-90" lat="29.96988352518832954274330405" lon="-90.13734577484368060140695889"/>
+  <node visible="true" id="-91" lat="29.96981999785838013394823065" lon="-90.13737166514883369927702006"/>
+  <node visible="true" id="-92" lat="29.96982901029900858702603728" lon="-90.13740027641111396405904088"/>
+  <node visible="true" id="-93" lat="29.96982216042529145738626539" lon="-90.13740323097178475109103601"/>
+  <way visible="true" id="-11">
+    <nd ref="-60"/>
+    <nd ref="-61"/>
+    <nd ref="-62"/>
+    <nd ref="-63"/>
+    <nd ref="-64"/>
+    <nd ref="-65"/>
+    <nd ref="-66"/>
+    <nd ref="-67"/>
+    <nd ref="-68"/>
+    <nd ref="-69"/>
+    <nd ref="-70"/>
+    <nd ref="-71"/>
+    <nd ref="-72"/>
+    <nd ref="-73"/>
+    <nd ref="-74"/>
+    <nd ref="-75"/>
+    <nd ref="-76"/>
+    <nd ref="-77"/>
+    <nd ref="-78"/>
+    <nd ref="-79"/>
+    <nd ref="-80"/>
+    <nd ref="-81"/>
+    <nd ref="-82"/>
+    <nd ref="-83"/>
+    <nd ref="-84"/>
+    <nd ref="-85"/>
+    <nd ref="-86"/>
+    <nd ref="-87"/>
+    <nd ref="-88"/>
+    <nd ref="-89"/>
+    <nd ref="-90"/>
+    <nd ref="-91"/>
+    <nd ref="-92"/>
+    <nd ref="-93"/>
+    <nd ref="-60"/>
+    <tag k="building" v="yes"/>
+    <tag k="addr:housenumber" v="1012"/>
+    <tag k="addr:street" v="East Harimaw Court"/>
+    <tag k="addr:city" v="Metairie"/>
+    <tag k="addr:postcode" v="70121"/>
+  </way>
+  <node visible="true" id="-94" lat="29.97147156042141347143115127" lon="-90.13764659863242911796987755"/>
+  <node visible="true" id="-95" lat="29.97149212220861258515469672" lon="-90.13763917199140962566161761"/>
+  <node visible="true" id="-96" lat="29.97149341820561829763391870" lon="-90.13764418229044395047822036"/>
+  <node visible="true" id="-97" lat="29.97152704716974369603121886" lon="-90.13763013798727286030043615"/>
+  <node visible="true" id="-98" lat="29.97152637634255967213903205" lon="-90.13762512019381745176360710"/>
+  <node visible="true" id="-99" lat="29.97154568126382301329613256" lon="-90.13761699048401965228549670"/>
+  <node visible="true" id="-100" lat="29.97154697635954434531413426" lon="-90.13762200079625586113252211"/>
+  <node visible="true" id="-101" lat="29.97158123049140598936901370" lon="-90.13760794898503547756263288"/>
+  <node visible="true" id="-102" lat="29.97157992144527582922819420" lon="-90.13760150258919168209104100"/>
+  <node visible="true" id="-103" lat="29.97159735175587869093760673" lon="-90.13759339533903869323694380"/>
+  <node visible="true" id="-104" lat="29.97147181929693005031367647" lon="-90.13719354536925720822182484"/>
+  <node visible="true" id="-105" lat="29.97134540385358292269302183" lon="-90.13724675658430385283281794"/>
+  <way visible="true" id="-12">
+    <nd ref="-94"/>
+    <nd ref="-95"/>
+    <nd ref="-96"/>
+    <nd ref="-97"/>
+    <nd ref="-98"/>
+    <nd ref="-99"/>
+    <nd ref="-100"/>
+    <nd ref="-101"/>
+    <nd ref="-102"/>
+    <nd ref="-103"/>
+    <nd ref="-104"/>
+    <nd ref="-105"/>
+    <nd ref="-94"/>
+    <tag k="building" v="yes"/>
+    <tag k="addr:housenumber" v="1029"/>
+    <tag k="addr:street" v="West Harimaw Court"/>
+    <tag k="addr:city" v="Metairie"/>
+    <tag k="addr:postcode" v="70121"/>
+  </way>
+  <node visible="true" id="-106" lat="29.97157733836247928138618590" lon="-90.13822985009566934877511812">
+    <tag k="addr:housenumber" v="1028"/>
+    <tag k="addr:street" v="West Harimaw Court"/>
+    <tag k="addr:city" v="Metairie"/>
+    <tag k="addr:postcode" v="70121"/>
+  </node>
+  <node visible="true" id="-107" lat="29.97130223221318345849795151" lon="-90.13834258528864040727057727">
+    <tag k="addr:housenumber" v="1020"/>
+    <tag k="addr:street" v="West Harimaw Court"/>
+    <tag k="addr:city" v="Metairie"/>
+    <tag k="addr:postcode" v="70121"/>
+  </node>
+  <node visible="true" id="-108" lat="29.97059578367658616571134189" lon="-90.13654781460431308914849069">
+    <tag k="addr:housenumber" v="1019"/>
+    <tag k="addr:street" v="East Harimaw Court"/>
+    <tag k="addr:city" v="Metairie"/>
+    <tag k="addr:postcode" v="70121"/>
+  </node>
+  <node visible="true" id="-109" lat="29.97057066649596634988483856" lon="-90.13655334065745705629524309">
+    <tag k="addr:housenumber" v="1017"/>
+    <tag k="addr:street" v="East Harimaw Court"/>
+    <tag k="addr:city" v="Metairie"/>
+    <tag k="addr:postcode" v="70121"/>
+  </node>
+  <node visible="true" id="-110" lat="29.96808878158065425623135525" lon="-90.13377137322463283908291487"/>
+  <node visible="true" id="-111" lat="29.96816661154518257603740494" lon="-90.13373741102708436301327311"/>
+  <node visible="true" id="-112" lat="29.96804646795763815703139699" lon="-90.13338130944279669165553059"/>
+  <node visible="true" id="-113" lat="29.96796926889876999666739721" lon="-90.13341598238925200803350890"/>
+  <node visible="true" id="-114" lat="29.96796993334005421161236882" lon="-90.13342028195529564982280135"/>
+  <node visible="true" id="-115" lat="29.96796246583216927206194669" lon="-90.13342396226246933110815007"/>
+  <node visible="true" id="-116" lat="29.96797145859170896642353910" lon="-90.13345041858562467496085446"/>
+  <node visible="true" id="-117" lat="29.96797892701184551356163865" lon="-90.13344673930538419881486334"/>
+  <way visible="true" id="-13">
+    <nd ref="-110"/>
+    <nd ref="-111"/>
+    <nd ref="-112"/>
+    <nd ref="-113"/>
+    <nd ref="-114"/>
+    <nd ref="-115"/>
+    <nd ref="-116"/>
+    <nd ref="-117"/>
+    <nd ref="-110"/>
+    <tag k="building" v="yes"/>
+    <tag k="addr:street" v="Jefferson Highway"/>
+    <tag k="addr:city" v="Jefferson"/>
+    <tag k="addr:postcode" v="70121"/>
+  </way>
+  <node visible="true" id="-118" lat="29.97190004382619221701133938" lon="-90.14239454129892692435532808">
+    <tag k="addr:housenumber" v="1028"/>
+    <tag k="addr:street" v="Mcdermott Road"/>
+    <tag k="addr:city" v="Metairie"/>
+    <tag k="addr:postcode" v="70121"/>
+  </node>
+  <node visible="true" id="-119" lat="29.97082357996527690602306393" lon="-90.13705700355211547503131442"/>
+  <node visible="true" id="-120" lat="29.97092207083979431558873330" lon="-90.13737029897455954596807715"/>
+  <node visible="true" id="-121" lat="29.97110392086568708691629581" lon="-90.13729488511143017603899352"/>
+  <node visible="true" id="-122" lat="29.97100542981418414001382189" lon="-90.13698158919237357622478157"/>
+  <way visible="true" id="-14">
+    <nd ref="-119"/>
+    <nd ref="-120"/>
+    <nd ref="-121"/>
+    <nd ref="-122"/>
+    <nd ref="-119"/>
+    <tag k="building" v="yes"/>
+    <tag k="addr:housenumber" v="1016"/>
+    <tag k="addr:street" v="East Harimaw Court"/>
+    <tag k="addr:city" v="Metairie"/>
+    <tag k="addr:postcode" v="70121"/>
+  </way>
+  <node visible="true" id="-123" lat="29.97067123448815451070004201" lon="-90.13638967165695703442906961"/>
+  <node visible="true" id="-124" lat="29.97074138278259169965167530" lon="-90.13661068622550942563975696"/>
+  <node visible="true" id="-125" lat="29.97084787448118348152092949" lon="-90.13656632992686468242027331"/>
+  <node visible="true" id="-126" lat="29.97077772701543096900422825" lon="-90.13634531514276204688940197"/>
+  <way visible="true" id="-15">
+    <nd ref="-123"/>
+    <nd ref="-124"/>
+    <nd ref="-125"/>
+    <nd ref="-126"/>
+    <nd ref="-123"/>
+    <tag k="building" v="yes"/>
+    <tag k="addr:housenumber" v="1021"/>
+    <tag k="addr:street" v="East Harimaw Court"/>
+    <tag k="addr:city" v="Metairie"/>
+    <tag k="addr:postcode" v="70121"/>
+  </way>
+  <node visible="true" id="-127" lat="29.97056123236295022138619970" lon="-90.13879981493150239657552447"/>
+  <node visible="true" id="-128" lat="29.97094546889414701240639261" lon="-90.13863869413627583071502158"/>
+  <node visible="true" id="-129" lat="29.97084504685763661768760358" lon="-90.13831895851888020843034610"/>
+  <node visible="true" id="-130" lat="29.97046017341519430488006037" lon="-90.13847865281925919589411933"/>
+  <way visible="true" id="-16">
+    <nd ref="-127"/>
+    <nd ref="-128"/>
+    <nd ref="-129"/>
+    <nd ref="-130"/>
+    <nd ref="-127"/>
+    <tag k="building" v="yes"/>
+    <tag k="addr:housenumber" v="1008"/>
+    <tag k="addr:street" v="West Harimaw Court"/>
+    <tag k="addr:city" v="Metairie"/>
+    <tag k="addr:postcode" v="70121"/>
+  </way>
+  <node visible="true" id="-131" lat="29.97055859297644175853747583" lon="-90.13784679924715703691617819">
+    <tag k="addr:housenumber" v="1013"/>
+    <tag k="addr:street" v="West Harimaw Court"/>
+    <tag k="addr:city" v="Metairie"/>
+    <tag k="addr:postcode" v="70121"/>
+    <tag k="addr:unit" v="A"/>
+  </node>
+  <node visible="true" id="-132" lat="29.97066735607237575322869816" lon="-90.13787038965205056229024194">
+    <tag k="addr:housenumber" v="1013"/>
+    <tag k="addr:street" v="West Harimaw Court"/>
+    <tag k="addr:city" v="Metairie"/>
+    <tag k="addr:postcode" v="70121"/>
+    <tag k="addr:unit" v="B"/>
+  </node>
+  <node visible="true" id="-133" lat="29.97065274566290327129536308" lon="-90.13776840441569504491781117">
+    <tag k="addr:housenumber" v="1013"/>
+    <tag k="addr:street" v="West Harimaw Court"/>
+    <tag k="addr:city" v="Metairie"/>
+    <tag k="addr:postcode" v="70121"/>
+    <tag k="addr:unit" v="C"/>
+  </node>
+  <node visible="true" id="-134" lat="29.97112845069356978910946054" lon="-90.13855002781792791211046278"/>
+  <node visible="true" id="-135" lat="29.97102117944584875885993824" lon="-90.13823324519562163459340809"/>
+  <node visible="true" id="-136" lat="29.97086922735781655546816182" lon="-90.13829681234422253055527108"/>
+  <node visible="true" id="-137" lat="29.97096960382858910065806413" lon="-90.13861152275805466160818469"/>
+  <way visible="true" id="-17">
+    <nd ref="-134"/>
+    <nd ref="-135"/>
+    <nd ref="-136"/>
+    <nd ref="-137"/>
+    <nd ref="-134"/>
+    <tag k="building" v="yes"/>
+    <tag k="addr:housenumber" v="1016"/>
+    <tag k="addr:street" v="West Harimaw Court"/>
+    <tag k="addr:city" v="Metairie"/>
+    <tag k="addr:postcode" v="70121"/>
+  </way>
+  <node visible="true" id="-138" lat="29.96445772637144244754381361" lon="-90.13842513542827816763747251">
+    <tag k="addr:street" v="Brooklyn Avenue"/>
+    <tag k="addr:city" v="Jefferson"/>
+    <tag k="addr:postcode" v="70121"/>
+  </node>
+  <node visible="true" id="-139" lat="29.96999638408895805241627386" lon="-90.13676951676332294027815806">
+    <tag k="addr:housenumber" v="1005"/>
+    <tag k="addr:street" v="East Harimaw Court"/>
+    <tag k="addr:city" v="Metairie"/>
+    <tag k="addr:postcode" v="70121"/>
+  </node>
+  <node visible="true" id="-140" lat="29.96635869769391646855183353" lon="-90.14158679532035023385105887">
+    <tag k="addr:street" v="Coolidge Street"/>
+    <tag k="addr:city" v="Jefferson"/>
+    <tag k="addr:postcode" v="70121"/>
+  </node>
+  <node visible="true" id="-141" lat="29.96458615324224084019988368" lon="-90.14180273508944196692027617">
+    <tag k="addr:street" v="Coolidge Street"/>
+    <tag k="addr:city" v="Jefferson"/>
+    <tag k="addr:postcode" v="70121"/>
+  </node>
+  <node visible="true" id="-142" lat="29.96713886349899169658783649" lon="-90.14125344544216034137207316">
+    <tag k="addr:street" v="Coolidge Street"/>
+    <tag k="addr:city" v="Jefferson"/>
+    <tag k="addr:postcode" v="70121"/>
+  </node>
+  <node visible="true" id="-143" lat="29.97128154034937708161123737" lon="-90.13763270638330027395568322">
+    <tag k="addr:street" v="West Harimaw Court"/>
+    <tag k="addr:city" v="Metairie"/>
+    <tag k="addr:postcode" v="70121"/>
+  </node>
+  <node visible="true" id="-144" lat="29.97048792700902097863036033" lon="-90.14248980264829924635705538">
+    <tag k="addr:housenumber" v="1001"/>
+    <tag k="addr:street" v="Mcdermott Road"/>
+    <tag k="addr:city" v="Metairie"/>
+    <tag k="addr:postcode" v="70121"/>
+  </node>
+  <node visible="true" id="-145" lat="29.97134299453321659711946268" lon="-90.13772063470221951320127118">
+    <tag k="addr:housenumber" v="1027"/>
+    <tag k="addr:street" v="West Harimaw Court"/>
+    <tag k="addr:city" v="Metairie"/>
+    <tag k="addr:postcode" v="70121"/>
+    <tag k="addr:unit" v="Cell Twr"/>
+  </node>
+  <node visible="true" id="-146" lat="29.97023750085461912817663688" lon="-90.13879349555327280540950596">
+    <tag k="addr:housenumber" v="1000"/>
+    <tag k="addr:street" v="West Harimaw Court"/>
+    <tag k="addr:city" v="Metairie"/>
+    <tag k="addr:postcode" v="70121"/>
+  </node>
+</osm>

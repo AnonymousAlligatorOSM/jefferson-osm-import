@@ -1,0 +1,82 @@
+<?xml version='1.0' encoding='utf8'?>
+<osm version="0.6" generator="AnonymousAlligator's import script">
+  <changeset_tag k="comment" v="Import buildings and addresses in Jefferson Parish, see https://wiki.openstreetmap.org/wiki/Import/Catalogue/Jefferson_Parish_Addresses_and_Buildings"/>
+  <changeset_tag k="source" v="Jefferson Parish Planning Department"/>
+  <changeset_tag k="source_file" v="8178_13531"/>
+  <node visible="true" id="-1" lat="29.88825478295042614718113327" lon="-90.14407591176960465872980421"/>
+  <node visible="true" id="-2" lat="29.88820940435627804276919051" lon="-90.14396597417383816264191410"/>
+  <node visible="true" id="-3" lat="29.88821313596313444804764003" lon="-90.14396377818516725710651372"/>
+  <node visible="true" id="-4" lat="29.88819589553791544744854036" lon="-90.14392380942310012414964149"/>
+  <node visible="true" id="-5" lat="29.88814738167432949467183789" lon="-90.14395093054790208952908870"/>
+  <node visible="true" id="-6" lat="29.88816401546968748448307451" lon="-90.14399305805851270179118728"/>
+  <node visible="true" id="-7" lat="29.88816899004082827673300926" lon="-90.14399012974187996860564454"/>
+  <node visible="true" id="-8" lat="29.88821435563793116330089106" lon="-90.14409863240939557726960629"/>
+  <way visible="true" id="-1">
+    <nd ref="-1"/>
+    <nd ref="-2"/>
+    <nd ref="-3"/>
+    <nd ref="-4"/>
+    <nd ref="-5"/>
+    <nd ref="-6"/>
+    <nd ref="-7"/>
+    <nd ref="-8"/>
+    <nd ref="-1"/>
+    <tag k="building" v="yes"/>
+  </way>
+  <node visible="true" id="-9" lat="29.88820763771231625582913694" lon="-90.14345485572050620248774067"/>
+  <node visible="true" id="-10" lat="29.88813859405516382139467169" lon="-90.14349298251480036014982034"/>
+  <node visible="true" id="-11" lat="29.88819227377242526699774317" lon="-90.14362218993198894168017432"/>
+  <node visible="true" id="-12" lat="29.88826132395786316919839010" lon="-90.14358478065419433278293582"/>
+  <way visible="true" id="-2">
+    <nd ref="-9"/>
+    <nd ref="-10"/>
+    <nd ref="-11"/>
+    <nd ref="-12"/>
+    <nd ref="-9"/>
+    <tag k="building" v="yes"/>
+    <tag k="addr:housenumber" v="1516"/>
+    <tag k="addr:street" v="East Drive"/>
+    <tag k="addr:city" v="Westwego"/>
+    <tag k="addr:postcode" v="70094"/>
+  </way>
+  <node visible="true" id="-13" lat="29.88812942763875568630282942" lon="-90.14362473308500511848251335"/>
+  <node visible="true" id="-14" lat="29.88805974578179913692110858" lon="-90.14366143332361502871208359"/>
+  <node visible="true" id="-15" lat="29.88809236980736727673502173" lon="-90.14374354432194991204596590"/>
+  <node visible="true" id="-16" lat="29.88807058953989326255396008" lon="-90.14375456459589486257755198"/>
+  <node visible="true" id="-17" lat="29.88809680780464717031463806" lon="-90.14381953447922057875985047"/>
+  <node visible="true" id="-18" lat="29.88812667464050676358056080" lon="-90.14380411273418758355546743"/>
+  <node visible="true" id="-19" lat="29.88811579536550766533764545" lon="-90.14377626512052188445522916"/>
+  <node visible="true" id="-20" lat="29.88812575096967805166059406" lon="-90.14377112384443080372875556"/>
+  <node visible="true" id="-21" lat="29.88813662376503543782746419" lon="-90.14379825504875043407082558"/>
+  <node visible="true" id="-22" lat="29.88818701312973047379273339" lon="-90.14377111150815835571847856"/>
+  <way visible="true" id="-3">
+    <nd ref="-13"/>
+    <nd ref="-14"/>
+    <nd ref="-15"/>
+    <nd ref="-16"/>
+    <nd ref="-17"/>
+    <nd ref="-18"/>
+    <nd ref="-19"/>
+    <nd ref="-20"/>
+    <nd ref="-21"/>
+    <nd ref="-22"/>
+    <nd ref="-13"/>
+    <tag k="building" v="yes"/>
+    <tag k="addr:housenumber" v="1520"/>
+    <tag k="addr:street" v="East Drive"/>
+    <tag k="addr:city" v="Westwego"/>
+    <tag k="addr:postcode" v="70094"/>
+  </way>
+  <node visible="true" id="-23" lat="29.88831362731625773676569224" lon="-90.14378465763235226404503919"/>
+  <node visible="true" id="-24" lat="29.88829648184317377968000073" lon="-90.14374003158022219395206776"/>
+  <node visible="true" id="-25" lat="29.88823094984935124784897198" lon="-90.14377539537038330763607519"/>
+  <node visible="true" id="-26" lat="29.88824586343582723202416673" lon="-90.14382004798812886292580515"/>
+  <way visible="true" id="-4">
+    <nd ref="-23"/>
+    <nd ref="-24"/>
+    <nd ref="-25"/>
+    <nd ref="-26"/>
+    <nd ref="-23"/>
+    <tag k="building" v="yes"/>
+  </way>
+</osm>

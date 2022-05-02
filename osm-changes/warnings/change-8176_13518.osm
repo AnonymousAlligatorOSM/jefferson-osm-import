@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf8'?>
+<osm version="0.6" generator="AnonymousAlligator's import script">
+  <changeset_tag k="comment" v="Import buildings and addresses in Jefferson Parish, see https://wiki.openstreetmap.org/wiki/Import/Catalogue/Jefferson_Parish_Addresses_and_Buildings"/>
+  <changeset_tag k="source" v="Jefferson Parish Planning Department"/>
+  <changeset_tag k="source_file" v="8176_13518"/>
+  <node visible="true" id="-1" lat="30.00525895728143410678967484" lon="-90.17243508486403413826337783"/>
+  <node visible="true" id="-2" lat="30.00526749073935661726864055" lon="-90.17233946061161020679719513"/>
+  <node visible="true" id="-3" lat="30.00512212692916591549874283" lon="-90.17232542140669693253585137"/>
+  <node visible="true" id="-4" lat="30.00511964812190512930101249" lon="-90.17239913802254136498959269"/>
+  <node visible="true" id="-5" lat="30.00517756756450893362853094" lon="-90.17240385515350453715655021"/>
+  <node visible="true" id="-6" lat="30.00518248225375117499424960" lon="-90.17242896039064703472831752"/>
+  <way visible="true" id="-1">
+    <nd ref="-1"/>
+    <nd ref="-2"/>
+    <nd ref="-3"/>
+    <nd ref="-4"/>
+    <nd ref="-5"/>
+    <nd ref="-6"/>
+    <nd ref="-1"/>
+    <tag k="building" v="yes"/>
+    <tag k="addr:street" v="Cleary Avenue"/>
+    <tag k="addr:city" v="Metairie"/>
+    <tag k="addr:postcode" v="70002"/>
+  </way>
+  <node visible="true" id="-7" lat="30.00304278539186952912132256" lon="-90.16687955870868620422697859">
+    <tag k="addr:street" v="Veterans Memorial Boulevard"/>
+    <tag k="addr:city" v="Metairie"/>
+    <tag k="addr:postcode" v="70002"/>
+  </node>
+</osm>

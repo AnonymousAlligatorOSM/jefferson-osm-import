@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='utf8'?>
+<osm version="0.6" generator="AnonymousAlligator's import script">
+  <changeset_tag k="comment" v="Import buildings and addresses in Jefferson Parish, see https://wiki.openstreetmap.org/wiki/Import/Catalogue/Jefferson_Parish_Addresses_and_Buildings"/>
+  <changeset_tag k="source" v="Jefferson Parish Planning Department"/>
+  <changeset_tag k="source_file" v="8179_13520"/>
+  <node visible="true" id="-1" lat="29.99193639163037516937038163" lon="-90.14268022509435240863240324"/>
+  <node visible="true" id="-2" lat="29.99193506008878529200956109" lon="-90.14253302344590679240354802"/>
+  <node visible="true" id="-3" lat="29.99181130012071250234839681" lon="-90.14253450097714903677115217"/>
+  <node visible="true" id="-4" lat="29.99181206009679101498477394" lon="-90.14261851394523716862750007"/>
+  <node visible="true" id="-5" lat="29.99189519221256361447558447" lon="-90.14261752152754070266382769"/>
+  <node visible="true" id="-6" lat="29.99189576377688482011762972" lon="-90.14268071007793992066581268"/>
+  <way visible="true" id="-1">
+    <nd ref="-1"/>
+    <nd ref="-2"/>
+    <nd ref="-3"/>
+    <nd ref="-4"/>
+    <nd ref="-5"/>
+    <nd ref="-6"/>
+    <nd ref="-1"/>
+    <tag k="building" v="yes"/>
+    <tag k="addr:street" v="Bonnabel Boulevard"/>
+    <tag k="addr:city" v="Metairie"/>
+    <tag k="addr:postcode" v="70005"/>
+  </way>
+  <node visible="true" id="-7" lat="29.99187759796262753297924064" lon="-90.13684057403472138503275346">
+    <tag k="addr:street" v="Elmeer Avenue"/>
+    <tag k="addr:city" v="Metairie"/>
+    <tag k="addr:postcode" v="70005"/>
+  </node>
+  <node visible="true" id="-8" lat="29.98849073504859674699218886" lon="-90.14016278317521368990128394">
+    <tag k="addr:street" v="Phosphor Avenue"/>
+    <tag k="addr:city" v="Metairie"/>
+    <tag k="addr:postcode" v="70005"/>
+  </node>
+  <node visible="true" id="-9" lat="29.98968723086357002216573164" lon="-90.13698138694998363007471198">
+    <tag k="addr:street" v="Elmeer Avenue"/>
+    <tag k="addr:city" v="Metairie"/>
+    <tag k="addr:postcode" v="70005"/>
+  </node>
+  <node visible="true" id="-10" lat="29.98704452181680224498450116" lon="-90.14218169990159879034763435">
+    <tag k="addr:street" v="Metairie Road"/>
+    <tag k="addr:city" v="Metairie"/>
+    <tag k="addr:postcode" v="70005"/>
+  </node>
+  <node visible="true" id="-11" lat="29.99184179624982959921908332" lon="-90.14168530420822378346201731">
+    <tag k="addr:street" v="Orion Avenue"/>
+    <tag k="addr:city" v="Metairie"/>
+    <tag k="addr:postcode" v="70005"/>
+  </node>
+</osm>

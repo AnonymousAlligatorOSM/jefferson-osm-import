@@ -1,0 +1,88 @@
+<?xml version='1.0' encoding='utf8'?>
+<osm version="0.6" generator="AnonymousAlligator's import script">
+  <changeset_tag k="comment" v="Import buildings and addresses in Jefferson Parish, see https://wiki.openstreetmap.org/wiki/Import/Catalogue/Jefferson_Parish_Addresses_and_Buildings"/>
+  <changeset_tag k="source" v="Jefferson Parish Planning Department"/>
+  <changeset_tag k="source_file" v="8175_13530"/>
+  <node visible="true" id="-1" lat="29.89758955764809655875069438" lon="-90.17621499316770439236279344"/>
+  <node visible="true" id="-2" lat="29.89757608415030887272223481" lon="-90.17624671706582262231677305"/>
+  <node visible="true" id="-3" lat="29.89757295915928736462774395" lon="-90.17624675328306693700142205"/>
+  <node visible="true" id="-4" lat="29.89752208279827527803718112" lon="-90.17636141790094939096888993"/>
+  <node visible="true" id="-5" lat="29.89751074302996158849055064" lon="-90.17635150513004305139475036"/>
+  <node visible="true" id="-6" lat="29.89749170059541683031056891" lon="-90.17638975078604346435895422"/>
+  <node visible="true" id="-7" lat="29.89750300880857025731529575" lon="-90.17639607701379134141461691"/>
+  <node visible="true" id="-8" lat="29.89743009645504301374785427" lon="-90.17656408801988732193422038"/>
+  <node visible="true" id="-9" lat="29.89746338866744324036517355" lon="-90.17658235545745526451355545"/>
+  <node visible="true" id="-10" lat="29.89750941074182577494866564" lon="-90.17648424871950396664033178"/>
+  <node visible="true" id="-11" lat="29.89754210934489364603905415" lon="-90.17650611097138835248188116"/>
+  <node visible="true" id="-12" lat="29.89763960679732335279368272" lon="-90.17629046318283769778645365"/>
+  <node visible="true" id="-13" lat="29.89767543042310649070714135" lon="-90.17631228918446595343993977"/>
+  <node visible="true" id="-14" lat="29.89769137308637425576307578" lon="-90.17627694869459276105772005"/>
+  <node visible="true" id="-15" lat="29.89767753981252340622631891" lon="-90.17626778240513374385045609"/>
+  <node visible="true" id="-16" lat="29.89768609484089978423071443" lon="-90.17624544208898385022621369"/>
+  <node visible="true" id="-17" lat="29.89765842827902631029246550" lon="-90.17622710848701217400957830"/>
+  <node visible="true" id="-18" lat="29.89764737253923598814253637" lon="-90.17624947778067223680409370"/>
+  <way visible="true" id="-1">
+    <nd ref="-1"/>
+    <nd ref="-2"/>
+    <nd ref="-3"/>
+    <nd ref="-4"/>
+    <nd ref="-5"/>
+    <nd ref="-6"/>
+    <nd ref="-7"/>
+    <nd ref="-8"/>
+    <nd ref="-9"/>
+    <nd ref="-10"/>
+    <nd ref="-11"/>
+    <nd ref="-12"/>
+    <nd ref="-13"/>
+    <nd ref="-14"/>
+    <nd ref="-15"/>
+    <nd ref="-16"/>
+    <nd ref="-17"/>
+    <nd ref="-18"/>
+    <nd ref="-1"/>
+    <tag k="building" v="yes"/>
+  </way>
+  <node visible="true" id="-19" lat="29.89728794412805257252330193" lon="-90.17632251937926923801569501"/>
+  <node visible="true" id="-20" lat="29.89732310592866326715011382" lon="-90.17626901970012909259821754"/>
+  <node visible="true" id="-21" lat="29.89728151682432510938269843" lon="-90.17623147678570205698633799"/>
+  <node visible="true" id="-22" lat="29.89724638749627061429237074" lon="-90.17628856298165374028030783"/>
+  <way visible="true" id="-2">
+    <nd ref="-19"/>
+    <nd ref="-20"/>
+    <nd ref="-21"/>
+    <nd ref="-22"/>
+    <nd ref="-19"/>
+    <tag k="building" v="yes"/>
+  </way>
+  <node visible="true" id="-23" lat="29.89333834444681770037277602" lon="-90.18003812599548041362140793">
+    <tag k="addr:housenumber" v="10617"/>
+    <tag k="addr:street" v="Nicolle Boulevard"/>
+    <tag k="addr:city" v="Avondale"/>
+    <tag k="addr:postcode" v="70094"/>
+  </node>
+  <node visible="true" id="-24" lat="29.89331575813201524738360604" lon="-90.17762863084662683377246140">
+    <tag k="addr:housenumber" v="10571"/>
+    <tag k="addr:street" v="Nicolle Boulevard"/>
+    <tag k="addr:city" v="Bridge City"/>
+    <tag k="addr:postcode" v="70094"/>
+  </node>
+  <node visible="true" id="-25" lat="29.89132970868707062095381843" lon="-90.18121350959799542579276022">
+    <tag k="addr:housenumber" v="706"/>
+    <tag k="addr:street" v="Churchill Parkway"/>
+    <tag k="addr:city" v="Avondale"/>
+    <tag k="addr:postcode" v="70094"/>
+  </node>
+  <node visible="true" id="-26" lat="29.89193698385936315276012465" lon="-90.17873526092530767073185416">
+    <tag k="addr:housenumber" v="705"/>
+    <tag k="addr:street" v="Churchill Parkway"/>
+    <tag k="addr:city" v="Avondale"/>
+    <tag k="addr:postcode" v="70094"/>
+  </node>
+  <way id="836279177" version="1">
+    <tag k="addr:housenumber" v="700"/>
+    <tag k="addr:street" v="Churchill Parkway"/>
+    <tag k="addr:city" v="Avondale"/>
+    <tag k="addr:postcode" v="70094"/>
+  </way>
+</osm>

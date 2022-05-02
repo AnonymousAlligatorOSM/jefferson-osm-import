@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf8'?>
+<osm version="0.6" generator="AnonymousAlligator's import script">
+  <changeset_tag k="comment" v="Import buildings and addresses in Jefferson Parish, see https://wiki.openstreetmap.org/wiki/Import/Catalogue/Jefferson_Parish_Addresses_and_Buildings"/>
+  <changeset_tag k="source" v="Jefferson Parish Planning Department"/>
+  <changeset_tag k="source_file" v="8180_13545"/>
+  <node visible="true" id="-1" lat="29.75260686899060758037194319" lon="-90.12927769554826795683766250"/>
+  <node visible="true" id="-2" lat="29.75274827628938467682928604" lon="-90.12936869276785500915138982"/>
+  <node visible="true" id="-3" lat="29.75278231807028461730624258" lon="-90.12929668021233453600871144"/>
+  <node visible="true" id="-4" lat="29.75279737575757721401714662" lon="-90.12930388156048877590365009"/>
+  <node visible="true" id="-5" lat="29.75286611489626409365882864" lon="-90.12917360457798565676057478"/>
+  <node visible="true" id="-6" lat="29.75276333350164392754777509" lon="-90.12910879333999503160157474"/>
+  <node visible="true" id="-7" lat="29.75270310397708684035933402" lon="-90.12921157432926122510252753"/>
+  <node visible="true" id="-8" lat="29.75265465983097712410199165" lon="-90.12918146074491687613772228"/>
+  <way visible="true" id="-1">
+    <nd ref="-1"/>
+    <nd ref="-2"/>
+    <nd ref="-3"/>
+    <nd ref="-4"/>
+    <nd ref="-5"/>
+    <nd ref="-6"/>
+    <nd ref="-7"/>
+    <nd ref="-8"/>
+    <nd ref="-1"/>
+    <tag k="building" v="yes"/>
+    <tag k="addr:housenumber" v="1777"/>
+    <tag k="addr:street" v="la 45"/>
+    <tag k="addr:city" v="Town Of Lafitte"/>
+    <tag k="addr:postcode" v="70067"/>
+  </way>
+</osm>

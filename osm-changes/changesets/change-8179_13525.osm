@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf8'?>
+<osm version="0.6" generator="AnonymousAlligator's import script">
+  <changeset_tag k="comment" v="Import buildings and addresses in Jefferson Parish, see https://wiki.openstreetmap.org/wiki/Import/Catalogue/Jefferson_Parish_Addresses_and_Buildings"/>
+  <changeset_tag k="source" v="Jefferson Parish Planning Department"/>
+  <changeset_tag k="source_file" v="8179_13525"/>
+  <node visible="true" id="-1" lat="29.93861654916123882230749587" lon="-90.14261733479264648849493824"/>
+  <node visible="true" id="-2" lat="29.93917157078750790333288023" lon="-90.14260784204938659058825579"/>
+  <node visible="true" id="-3" lat="29.93916653100364655415432935" lon="-90.14232725959539038740331307"/>
+  <node visible="true" id="-4" lat="29.93861400919844228951660625" lon="-90.14233672510138717370864470"/>
+  <way visible="true" id="-1">
+    <nd ref="-1"/>
+    <nd ref="-2"/>
+    <nd ref="-3"/>
+    <nd ref="-4"/>
+    <nd ref="-1"/>
+    <tag k="building" v="yes"/>
+  </way>
+</osm>

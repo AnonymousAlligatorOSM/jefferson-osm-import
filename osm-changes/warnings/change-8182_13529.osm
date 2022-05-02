@@ -1,0 +1,66 @@
+<?xml version='1.0' encoding='utf8'?>
+<osm version="0.6" generator="AnonymousAlligator's import script">
+  <changeset_tag k="comment" v="Import buildings and addresses in Jefferson Parish, see https://wiki.openstreetmap.org/wiki/Import/Catalogue/Jefferson_Parish_Addresses_and_Buildings"/>
+  <changeset_tag k="source" v="Jefferson Parish Planning Department"/>
+  <changeset_tag k="source_file" v="8182_13529"/>
+  <node visible="true" id="-1" lat="29.90287994825528272713199840" lon="-90.10046529131290071745752357"/>
+  <node visible="true" id="-2" lat="29.90289275779397826227068435" lon="-90.10036468313690249942737864"/>
+  <node visible="true" id="-3" lat="29.90276816313573959860150353" lon="-90.10034397946519391098263441"/>
+  <node visible="true" id="-4" lat="29.90275535361268310907689738" lon="-90.10044458751829665743571240"/>
+  <way visible="true" id="-1">
+    <nd ref="-1"/>
+    <nd ref="-2"/>
+    <nd ref="-3"/>
+    <nd ref="-4"/>
+    <nd ref="-1"/>
+    <tag k="building" v="yes"/>
+    <tag k="addr:street" v="Barataria Boulevard"/>
+    <tag k="addr:city" v="Marrero"/>
+    <tag k="addr:postcode" v="70072"/>
+  </way>
+  <node visible="true" id="-5" lat="29.90201925521860815138097678" lon="-90.10029644722598618500342127">
+    <tag k="addr:street" v="Barataria Boulevard"/>
+    <tag k="addr:city" v="Marrero"/>
+    <tag k="addr:postcode" v="70072"/>
+  </node>
+  <node visible="true" id="-6" lat="29.90145720366346182572669932" lon="-90.10977429632932000913569937"/>
+  <node visible="true" id="-7" lat="29.90134213402121332592287217" lon="-90.10976924905243379271269077"/>
+  <node visible="true" id="-8" lat="29.90134020064525088855589274" lon="-90.10983025916388555742742028"/>
+  <node visible="true" id="-9" lat="29.90146591070176640414501890" lon="-90.10983661135404076958366204"/>
+  <node visible="true" id="-10" lat="29.90146743158769737647162401" lon="-90.10979856598875414874783019"/>
+  <node visible="true" id="-11" lat="29.90145680542414297065079154" lon="-90.10979869621925786304927897"/>
+  <way visible="true" id="-2">
+    <nd ref="-6"/>
+    <nd ref="-7"/>
+    <nd ref="-8"/>
+    <nd ref="-9"/>
+    <nd ref="-10"/>
+    <nd ref="-11"/>
+    <nd ref="-6"/>
+    <tag k="building" v="yes"/>
+    <tag k="addr:housenumber" v="5901"/>
+    <tag k="addr:street" v="Railroad"/>
+    <tag k="addr:city" v="Marrero"/>
+    <tag k="addr:postcode" v="70072"/>
+  </way>
+  <node visible="true" id="-12" lat="29.90382711685787597843955155" lon="-90.10521994218635200013522990"/>
+  <node visible="true" id="-13" lat="29.90388589830073584607816883" lon="-90.10522208962743206939194351"/>
+  <node visible="true" id="-14" lat="29.90389139621060365925586666" lon="-90.10500748804679460590705276"/>
+  <node visible="true" id="-15" lat="29.90383262057358138008567039" lon="-90.10500605933553686099912738"/>
+  <way visible="true" id="-3">
+    <nd ref="-12"/>
+    <nd ref="-13"/>
+    <nd ref="-14"/>
+    <nd ref="-15"/>
+    <nd ref="-12"/>
+    <tag k="building" v="yes"/>
+    <tag k="addr:street" v="Douglas Lane"/>
+    <tag k="addr:city" v="Marrero"/>
+    <tag k="addr:postcode" v="70072"/>
+  </way>
+  <way id="330513541" version="1">
+    <tag k="addr:street" v="Maxwell Lane"/>
+    <tag k="addr:city" v="Marrero"/>
+    <tag k="addr:postcode" v="70072"/>
+  </way>
+</osm>

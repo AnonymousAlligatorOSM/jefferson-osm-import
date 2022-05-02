@@ -1,0 +1,74 @@
+<?xml version='1.0' encoding='utf8'?>
+<osm version="0.6" generator="AnonymousAlligator's import script">
+  <changeset_tag k="comment" v="Import buildings and addresses in Jefferson Parish, see https://wiki.openstreetmap.org/wiki/Import/Catalogue/Jefferson_Parish_Addresses_and_Buildings"/>
+  <changeset_tag k="source" v="Jefferson Parish Planning Department"/>
+  <changeset_tag k="source_file" v="8181_13529"/>
+  <node visible="true" id="-1" lat="29.90139644494053783319031936" lon="-90.11009719200716006071161246"/>
+  <node visible="true" id="-2" lat="29.90121322388485936016877531" lon="-90.11009082653745849711413030"/>
+  <node visible="true" id="-3" lat="29.90121266544082700988838042" lon="-90.11009800854762374910933431"/>
+  <node visible="true" id="-4" lat="29.90119453140935945612000069" lon="-90.11009751311669901951972861"/>
+  <node visible="true" id="-5" lat="29.90119354887105629359211889" lon="-90.11012622478506273182574660"/>
+  <node visible="true" id="-6" lat="29.90120792518089487543875293" lon="-90.11012604864174591057235375"/>
+  <node visible="true" id="-7" lat="29.90120754021408799872006057" lon="-90.11015188251100482830224792"/>
+  <node visible="true" id="-8" lat="29.90139451141245530152446008" lon="-90.11015820214542770827392815"/>
+  <way visible="true" id="-1">
+    <nd ref="-1"/>
+    <nd ref="-2"/>
+    <nd ref="-3"/>
+    <nd ref="-4"/>
+    <nd ref="-5"/>
+    <nd ref="-6"/>
+    <nd ref="-7"/>
+    <nd ref="-8"/>
+    <nd ref="-1"/>
+    <tag k="building" v="yes"/>
+    <tag k="addr:housenumber" v="5905"/>
+    <tag k="addr:street" v="Railroad"/>
+    <tag k="addr:city" v="Marrero"/>
+    <tag k="addr:postcode" v="70072"/>
+  </way>
+  <node visible="true" id="-9" lat="29.89852031517766306478733895" lon="-90.11877233612125337458564900"/>
+  <node visible="true" id="-10" lat="29.89850814678246138100803364" lon="-90.11867611240057840404915623"/>
+  <node visible="true" id="-11" lat="29.89838357398210533233395836" lon="-90.11868841373195948563079583"/>
+  <node visible="true" id="-12" lat="29.89839634496464881863175833" lon="-90.11878511565144833639351418"/>
+  <way visible="true" id="-2">
+    <nd ref="-9"/>
+    <nd ref="-10"/>
+    <nd ref="-11"/>
+    <nd ref="-12"/>
+    <nd ref="-9"/>
+    <tag k="building" v="yes"/>
+    <tag k="addr:street" v="6th Street"/>
+    <tag k="addr:city" v="Marrero"/>
+    <tag k="addr:postcode" v="70072"/>
+  </way>
+  <node visible="true" id="-13" lat="29.89794638865716436271213752" lon="-90.11866431736443416866677580"/>
+  <node visible="true" id="-14" lat="29.89800886705392102271616750" lon="-90.11866068683981723097531358"/>
+  <node visible="true" id="-15" lat="29.89801937162222600363747915" lon="-90.11871508603822178429254564"/>
+  <node visible="true" id="-16" lat="29.89809683917957627841133217" lon="-90.11870983902613829741312657"/>
+  <node visible="true" id="-17" lat="29.89808178930624293911932909" lon="-90.11856939998435223060369026"/>
+  <node visible="true" id="-18" lat="29.89794128444266618771507638" lon="-90.11858545837479539386549732"/>
+  <way visible="true" id="-3">
+    <nd ref="-13"/>
+    <nd ref="-14"/>
+    <nd ref="-15"/>
+    <nd ref="-16"/>
+    <nd ref="-17"/>
+    <nd ref="-18"/>
+    <nd ref="-13"/>
+    <tag k="building" v="yes"/>
+    <tag k="addr:street" v="Garden Road"/>
+    <tag k="addr:city" v="Marrero"/>
+    <tag k="addr:postcode" v="70072"/>
+  </way>
+  <node visible="true" id="-19" lat="29.90007108302207328165422950" lon="-90.11000443056751407766569173">
+    <tag k="addr:street" v="Marrero Road"/>
+    <tag k="addr:city" v="Marrero"/>
+    <tag k="addr:postcode" v="70072"/>
+  </node>
+  <node visible="true" id="-20" lat="29.89830099711466004919202533" lon="-90.11567826561325489365117392">
+    <tag k="addr:street" v="Silver Lily Lane"/>
+    <tag k="addr:city" v="Marrero"/>
+    <tag k="addr:postcode" v="70072"/>
+  </node>
+</osm>

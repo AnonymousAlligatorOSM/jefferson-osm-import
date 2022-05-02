@@ -1,0 +1,92 @@
+<?xml version='1.0' encoding='utf8'?>
+<osm version="0.6" generator="AnonymousAlligator's import script">
+  <changeset_tag k="comment" v="Import buildings and addresses in Jefferson Parish, see https://wiki.openstreetmap.org/wiki/Import/Catalogue/Jefferson_Parish_Addresses_and_Buildings"/>
+  <changeset_tag k="source" v="Jefferson Parish Planning Department"/>
+  <changeset_tag k="source_file" v="8178_13518"/>
+  <node visible="true" id="-1" lat="30.00757609178237927949339792" lon="-90.14391709862063351010874612">
+    <tag k="addr:street" v="Helios Avenue"/>
+    <tag k="addr:city" v="Metairie"/>
+    <tag k="addr:postcode" v="70005"/>
+  </node>
+  <node visible="true" id="-2" lat="30.01140460768320394890906755" lon="-90.15372865606953212136431830"/>
+  <node visible="true" id="-3" lat="30.01140167998579499908373691" lon="-90.15359744967207689114729874"/>
+  <node visible="true" id="-4" lat="30.01142392530622515778304660" lon="-90.15359718650752540725079598"/>
+  <node visible="true" id="-5" lat="30.01142273842929597549300524" lon="-90.15346473622300038641697029"/>
+  <node visible="true" id="-6" lat="30.01139644801338590696104802" lon="-90.15346504727638432541425573"/>
+  <node visible="true" id="-7" lat="30.01139243245714993690853589" lon="-90.15334667837554150082723936"/>
+  <node visible="true" id="-8" lat="30.01093625061810499232706206" lon="-90.15336356861600108913989970"/>
+  <node visible="true" id="-9" lat="30.01094086875190214414033107" lon="-90.15353015330852315400989028"/>
+  <node visible="true" id="-10" lat="30.01092899327363028305626358" lon="-90.15353029380403881987149362"/>
+  <node visible="true" id="-11" lat="30.01092945019388835703466611" lon="-90.15358128492600542358559323"/>
+  <node visible="true" id="-12" lat="30.01094256313412245162908221" lon="-90.15357969298302975857950514"/>
+  <node visible="true" id="-13" lat="30.01094716812291451901728578" lon="-90.15374484103419661096268101"/>
+  <way visible="true" id="-1">
+    <nd ref="-2"/>
+    <nd ref="-3"/>
+    <nd ref="-4"/>
+    <nd ref="-5"/>
+    <nd ref="-6"/>
+    <nd ref="-7"/>
+    <nd ref="-8"/>
+    <nd ref="-9"/>
+    <nd ref="-10"/>
+    <nd ref="-11"/>
+    <nd ref="-12"/>
+    <nd ref="-13"/>
+    <nd ref="-2"/>
+    <tag k="building" v="yes"/>
+    <tag k="addr:housenumber" v="3421"/>
+    <tag k="addr:street" v="North Causeway Boulevard East"/>
+    <tag k="addr:city" v="Metairie"/>
+    <tag k="addr:postcode" v="70002"/>
+  </way>
+  <node visible="true" id="-14" lat="30.00726953175576738885865780" lon="-90.14500941335131756204646081"/>
+  <node visible="true" id="-15" lat="30.00727600355180513247432827" lon="-90.14517237766727930647903122"/>
+  <node visible="true" id="-16" lat="30.00728412892499363806564361" lon="-90.14517228086079114746098639"/>
+  <node visible="true" id="-17" lat="30.00728766288100501924418495" lon="-90.14525605716134748490730999"/>
+  <node visible="true" id="-18" lat="30.00734051274528724206902552" lon="-90.14525205125680429318890674"/>
+  <node visible="true" id="-19" lat="30.00733786953856352397451701" lon="-90.14517020382621126373123843"/>
+  <node visible="true" id="-20" lat="30.00734412031132336551308981" lon="-90.14517012935370132709067548"/>
+  <node visible="true" id="-21" lat="30.00733826072250209904268559" lon="-90.14500572190505067737831268"/>
+  <way visible="true" id="-2">
+    <nd ref="-14"/>
+    <nd ref="-15"/>
+    <nd ref="-16"/>
+    <nd ref="-17"/>
+    <nd ref="-18"/>
+    <nd ref="-19"/>
+    <nd ref="-20"/>
+    <nd ref="-21"/>
+    <nd ref="-14"/>
+    <tag k="building" v="yes"/>
+    <tag k="addr:street" v="Hesper Avenue"/>
+    <tag k="addr:city" v="Metairie"/>
+    <tag k="addr:postcode" v="70005"/>
+  </way>
+  <node visible="true" id="-22" lat="30.00628746673681845891223929" lon="-90.14300450738772951808641665"/>
+  <node visible="true" id="-23" lat="30.00636674145653515211051854" lon="-90.14299849835467171033087652"/>
+  <node visible="true" id="-24" lat="30.00636111380074666499240266" lon="-90.14286353387890926569525618"/>
+  <node visible="true" id="-25" lat="30.00628035518141700777050573" lon="-90.14286787312323667720193043"/>
+  <way visible="true" id="-3">
+    <nd ref="-22"/>
+    <nd ref="-23"/>
+    <nd ref="-24"/>
+    <nd ref="-25"/>
+    <nd ref="-22"/>
+    <tag k="building" v="yes"/>
+    <tag k="addr:street" v="Bonnabel Boulevard"/>
+    <tag k="addr:city" v="Metairie"/>
+    <tag k="addr:postcode" v="70005"/>
+  </way>
+  <node visible="true" id="-26" lat="30.00422884655875321868734318" lon="-90.15307535317317899625777500">
+    <tag k="addr:street" v="Veterans Memorial Boulevard"/>
+    <tag k="addr:city" v="Metairie"/>
+    <tag k="addr:postcode" v="70002"/>
+  </node>
+  <way id="1035463803" version="1">
+    <tag k="addr:housenumber" v="835"/>
+    <tag k="addr:street" v="Melody Drive"/>
+    <tag k="addr:city" v="Metairie"/>
+    <tag k="addr:postcode" v="70002"/>
+  </way>
+</osm>

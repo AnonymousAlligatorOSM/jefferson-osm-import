@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf8'?>
+<osm version="0.6" generator="AnonymousAlligator's import script">
+  <changeset_tag k="comment" v="Import buildings and addresses in Jefferson Parish, see https://wiki.openstreetmap.org/wiki/Import/Catalogue/Jefferson_Parish_Addresses_and_Buildings"/>
+  <changeset_tag k="source" v="Jefferson Parish Planning Department"/>
+  <changeset_tag k="source_file" v="8170_13515"/>
+  <node visible="true" id="-1" lat="30.03124332026778020576784911" lon="-90.23178978514239645392081002"/>
+  <node visible="true" id="-2" lat="30.03120567182066835698606155" lon="-90.23179340915316970495041460"/>
+  <node visible="true" id="-3" lat="30.03120238431768385112263786" lon="-90.23173410459494903079757933"/>
+  <node visible="true" id="-4" lat="30.03106450976983765599470644" lon="-90.23174331110065793382091215"/>
+  <node visible="true" id="-5" lat="30.03107276121011892655587872" lon="-90.23191997321593760261748685"/>
+  <node visible="true" id="-6" lat="30.03118012515788493033142004" lon="-90.23190916506467829094617628"/>
+  <node visible="true" id="-7" lat="30.03117991054593716171439155" lon="-90.23188350604446839042793727"/>
+  <node visible="true" id="-8" lat="30.03124683486867141368747980" lon="-90.23187635162156539081479423"/>
+  <way visible="true" id="-1">
+    <nd ref="-1"/>
+    <nd ref="-2"/>
+    <nd ref="-3"/>
+    <nd ref="-4"/>
+    <nd ref="-5"/>
+    <nd ref="-6"/>
+    <nd ref="-7"/>
+    <nd ref="-8"/>
+    <nd ref="-1"/>
+    <tag k="building" v="yes"/>
+    <tag k="addr:housenumber" v="7"/>
+    <tag k="addr:street" v="Lake Breeze Drive"/>
+    <tag k="addr:city" v="Kenner"/>
+    <tag k="addr:postcode" v="70065"/>
+  </way>
+  <way id="532806551" version="1">
+    <tag k="addr:housenumber" v="9"/>
+    <tag k="addr:street" v="Lake Breeze Drive"/>
+    <tag k="addr:city" v="Kenner"/>
+    <tag k="addr:postcode" v="70065"/>
+  </way>
+</osm>

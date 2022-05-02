@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='utf8'?>
+<osm version="0.6" generator="AnonymousAlligator's import script">
+  <changeset_tag k="comment" v="Import buildings and addresses in Jefferson Parish, see https://wiki.openstreetmap.org/wiki/Import/Catalogue/Jefferson_Parish_Addresses_and_Buildings"/>
+  <changeset_tag k="source" v="Jefferson Parish Planning Department"/>
+  <changeset_tag k="source_file" v="8174_13518"/>
+  <node visible="true" id="-1" lat="30.00804446171972017509688158" lon="-90.19481089326266953776212176">
+    <tag k="addr:street" v="Newlands Street"/>
+    <tag k="addr:city" v="Metairie"/>
+    <tag k="addr:postcode" v="70006"/>
+  </node>
+  <node visible="true" id="-2" lat="30.00854228348867991371662356" lon="-90.18847958020590738215105375">
+    <tag k="addr:street" v="Lime Street"/>
+    <tag k="addr:city" v="Metairie"/>
+    <tag k="addr:postcode" v="70006"/>
+  </node>
+  <node visible="true" id="-3" lat="30.00254989390091608925104083" lon="-90.19591573606867029866407393"/>
+  <node visible="true" id="-4" lat="30.00254707051964686570499907" lon="-90.19587141856609946444223169"/>
+  <node visible="true" id="-5" lat="30.00252201952264030637707037" lon="-90.19587296163668099779897602"/>
+  <node visible="true" id="-6" lat="30.00246705875391128870433022" lon="-90.19587861583708843227213947"/>
+  <node visible="true" id="-7" lat="30.00247714326966530506979325" lon="-90.19603291562789593172055902"/>
+  <node visible="true" id="-8" lat="30.00257395754641720486688428" lon="-90.19602391085598469544493128"/>
+  <node visible="true" id="-9" lat="30.00256978554757125721152988" lon="-90.19597512036514785904728342"/>
+  <node visible="true" id="-10" lat="30.00255354001967234012226982" lon="-90.19597602397467994705948513"/>
+  <way visible="true" id="-1">
+    <nd ref="-3"/>
+    <nd ref="-4"/>
+    <nd ref="-5"/>
+    <nd ref="-6"/>
+    <nd ref="-7"/>
+    <nd ref="-8"/>
+    <nd ref="-9"/>
+    <nd ref="-10"/>
+    <nd ref="-3"/>
+    <tag k="building" v="yes"/>
+    <tag k="addr:housenumber" v="2917"/>
+    <tag k="addr:street" v="Ken Avenue"/>
+    <tag k="addr:city" v="Metairie"/>
+    <tag k="addr:postcode" v="70006"/>
+  </way>
+  <node visible="true" id="-11" lat="30.00808598368025315039631096" lon="-90.19499823047941333697963273">
+    <tag k="addr:street" v="Newlands Street"/>
+    <tag k="addr:city" v="Metairie"/>
+    <tag k="addr:postcode" v="70006"/>
+  </node>
+  <way id="712573002" version="2">
+    <tag k="addr:housenumber" v="4852"/>
+    <tag k="addr:street" v="Veterans Memorial Boulevard"/>
+    <tag k="addr:city" v="Metairie"/>
+    <tag k="addr:postcode" v="70006"/>
+  </way>
+  <node visible="true" id="-12" lat="30.00951696835948112607184157" lon="-90.19382236444526768082141643">
+    <tag k="addr:street" v="Loveland Street"/>
+    <tag k="addr:city" v="Metairie"/>
+    <tag k="addr:postcode" v="70006"/>
+  </node>
+</osm>

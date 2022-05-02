@@ -1,0 +1,90 @@
+<?xml version='1.0' encoding='utf8'?>
+<osm version="0.6" generator="AnonymousAlligator's import script">
+  <changeset_tag k="comment" v="Import buildings and addresses in Jefferson Parish, see https://wiki.openstreetmap.org/wiki/Import/Catalogue/Jefferson_Parish_Addresses_and_Buildings"/>
+  <changeset_tag k="source" v="Jefferson Parish Planning Department"/>
+  <changeset_tag k="source_file" v="8177_13530"/>
+  <node visible="true" id="-1" lat="29.88981801514022507149093144" lon="-90.15718927673064797545521287"/>
+  <node visible="true" id="-2" lat="29.88976166369318576698788092" lon="-90.15717917957049110100342659"/>
+  <node visible="true" id="-3" lat="29.88974762446571986629351159" lon="-90.15728695446405538405088009"/>
+  <node visible="true" id="-4" lat="29.88980396948806728119052423" lon="-90.15729633422394329045346240"/>
+  <way visible="true" id="-1">
+    <nd ref="-1"/>
+    <nd ref="-2"/>
+    <nd ref="-3"/>
+    <nd ref="-4"/>
+    <nd ref="-1"/>
+    <tag k="building" v="yes"/>
+  </way>
+  <node visible="true" id="-5" lat="29.88923421321611328949074959" lon="-90.15775572123492054288362851"/>
+  <node visible="true" id="-6" lat="29.88925891352588593008476892" lon="-90.15772171266056034255598206"/>
+  <node visible="true" id="-7" lat="29.88916620947892255344413570" lon="-90.15763097785061574995779665"/>
+  <node visible="true" id="-8" lat="29.88911060841964228984579677" lon="-90.15770480717714008278562687"/>
+  <node visible="true" id="-9" lat="29.88913961771822513924234954" lon="-90.15773316061833497769839596"/>
+  <node visible="true" id="-10" lat="29.88916926083576441897093900" lon="-90.15769263816721945659082849"/>
+  <way visible="true" id="-2">
+    <nd ref="-5"/>
+    <nd ref="-6"/>
+    <nd ref="-7"/>
+    <nd ref="-8"/>
+    <nd ref="-9"/>
+    <nd ref="-10"/>
+    <nd ref="-5"/>
+    <tag k="building" v="yes"/>
+  </way>
+  <node visible="true" id="-11" lat="29.89044066625462647834865493" lon="-90.15628046463955058698047651"/>
+  <node visible="true" id="-12" lat="29.89043998084349595956155099" lon="-90.15620389371692056101892376"/>
+  <node visible="true" id="-13" lat="29.89025199422601630772078352" lon="-90.15621133154400013154372573"/>
+  <node visible="true" id="-14" lat="29.89025713562189423555537360" lon="-90.15627740665574663125880761"/>
+  <way visible="true" id="-3">
+    <nd ref="-11"/>
+    <nd ref="-12"/>
+    <nd ref="-13"/>
+    <nd ref="-14"/>
+    <nd ref="-11"/>
+    <tag k="building" v="yes"/>
+  </way>
+  <node visible="true" id="-15" lat="29.89750947690282245616799628" lon="-90.16109139009672901465819450"/>
+  <node visible="true" id="-16" lat="29.89755127680867019535071449" lon="-90.16083419651805286321177846"/>
+  <node visible="true" id="-17" lat="29.89750067790401999445748515" lon="-90.16082374938382315576745896"/>
+  <node visible="true" id="-18" lat="29.89749993332644351085036760" lon="-90.16083019883780025338637643"/>
+  <node visible="true" id="-19" lat="29.89741316513260827036901901" lon="-90.16080913616626446582813514"/>
+  <node visible="true" id="-20" lat="29.89738494107343313999081147" lon="-90.16097048208192177298769820"/>
+  <node visible="true" id="-21" lat="29.89747574292537990459095454" lon="-90.16099425812204515295888996"/>
+  <node visible="true" id="-22" lat="29.89746047381428439848605194" lon="-90.16108000459027493889152538"/>
+  <way visible="true" id="-4">
+    <nd ref="-15"/>
+    <nd ref="-16"/>
+    <nd ref="-17"/>
+    <nd ref="-18"/>
+    <nd ref="-19"/>
+    <nd ref="-20"/>
+    <nd ref="-21"/>
+    <nd ref="-22"/>
+    <nd ref="-15"/>
+    <tag k="building" v="yes"/>
+  </way>
+  <node visible="true" id="-23" lat="29.89307230528460834761972365" lon="-90.15418218937956851277704118">
+    <tag k="addr:housenumber" v="8707"/>
+    <tag k="addr:street" v="Lapalco Boulevard"/>
+    <tag k="addr:city" v="Westwego"/>
+    <tag k="addr:postcode" v="70094"/>
+  </node>
+  <node visible="true" id="-24" lat="29.89035799962080375280493172" lon="-90.15615729969819369671313325">
+    <tag k="addr:housenumber" v="820"/>
+    <tag k="addr:street" v="Laroussini Street"/>
+    <tag k="addr:city" v="Westwego"/>
+    <tag k="addr:postcode" v="70094"/>
+  </node>
+  <way id="119489305" version="1">
+    <tag k="addr:housenumber" v="803"/>
+    <tag k="addr:street" v="Louisiana Street"/>
+    <tag k="addr:city" v="Bridge City"/>
+    <tag k="addr:postcode" v="70094"/>
+  </way>
+  <way id="978821906" version="1">
+    <tag k="addr:housenumber" v="801"/>
+    <tag k="addr:street" v="Louisiana Street"/>
+    <tag k="addr:city" v="Bridge City"/>
+    <tag k="addr:postcode" v="70094"/>
+  </way>
+</osm>

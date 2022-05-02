@@ -1,0 +1,447 @@
+<?xml version='1.0' encoding='utf8'?>
+<osm version="0.6" generator="AnonymousAlligator's import script">
+  <changeset_tag k="comment" v="Import buildings and addresses in Jefferson Parish, see https://wiki.openstreetmap.org/wiki/Import/Catalogue/Jefferson_Parish_Addresses_and_Buildings"/>
+  <changeset_tag k="source" v="Jefferson Parish Planning Department"/>
+  <changeset_tag k="source_file" v="8178_13519"/>
+  <node visible="true" id="-1" lat="29.99835833966470843847673677" lon="-90.15024566265751104765513446">
+    <tag k="addr:street" v="Whitney Place"/>
+    <tag k="addr:city" v="Metairie"/>
+    <tag k="addr:postcode" v="70002"/>
+  </node>
+  <node visible="true" id="-2" lat="29.99805642245982895133238344" lon="-90.14485147237826367927482352">
+    <tag k="addr:housenumber" v="1909"/>
+    <tag k="addr:street" v="Khan Drive"/>
+    <tag k="addr:city" v="Metairie"/>
+    <tag k="addr:postcode" v="70005"/>
+  </node>
+  <node visible="true" id="-3" lat="29.99802624404853901296519325" lon="-90.14461802732685669070633594">
+    <tag k="addr:housenumber" v="1905"/>
+    <tag k="addr:street" v="Khan Drive"/>
+    <tag k="addr:city" v="Metairie"/>
+    <tag k="addr:postcode" v="70005"/>
+  </node>
+  <node visible="true" id="-4" lat="30.00173589021776621166281984" lon="-90.14858598817119172963430174"/>
+  <node visible="true" id="-5" lat="30.00162671992714891189280024" lon="-90.14859425800473502476961585"/>
+  <node visible="true" id="-6" lat="30.00162291654853419231585576" lon="-90.14850888496270897576323478"/>
+  <node visible="true" id="-7" lat="30.00165774774762539323091914" lon="-90.14850149818748548113944707"/>
+  <node visible="true" id="-8" lat="30.00165571359080374236327771" lon="-90.14844399602969815532560460"/>
+  <node visible="true" id="-9" lat="30.00161324940745188882829098" lon="-90.14844624299713871096173534"/>
+  <node visible="true" id="-10" lat="30.00161368867085798228799831" lon="-90.14849504863150286837480962"/>
+  <node visible="true" id="-11" lat="30.00159853343151183935333393" lon="-90.14849697218070900817110669"/>
+  <node visible="true" id="-12" lat="30.00159476136263236867307569" lon="-90.14841508476439457808737643"/>
+  <node visible="true" id="-13" lat="30.00154927905467516779935977" lon="-90.14841911214001868302148068"/>
+  <node visible="true" id="-14" lat="30.00155481841649773855351668" lon="-90.14855762370831371299573220"/>
+  <node visible="true" id="-15" lat="30.00154327192658598733032704" lon="-90.14856113904028234173892997"/>
+  <node visible="true" id="-16" lat="30.00154949037182916526944609" lon="-90.14865291417898163217614638"/>
+  <node visible="true" id="-17" lat="30.00158040221252875312529795" lon="-90.14865112586115003523445921"/>
+  <node visible="true" id="-18" lat="30.00158539142330127447166888" lon="-90.14879319632717624699580483"/>
+  <node visible="true" id="-19" lat="30.00167691301044925467067515" lon="-90.14879068818248697425588034"/>
+  <node visible="true" id="-20" lat="30.00167525421223757575717173" lon="-90.14874380428481970284337876"/>
+  <node visible="true" id="-21" lat="30.00174180602865803280110413" lon="-90.14873757908608808975259308"/>
+  <way visible="true" id="-1">
+    <nd ref="-4"/>
+    <nd ref="-5"/>
+    <nd ref="-6"/>
+    <nd ref="-7"/>
+    <nd ref="-8"/>
+    <nd ref="-9"/>
+    <nd ref="-10"/>
+    <nd ref="-11"/>
+    <nd ref="-12"/>
+    <nd ref="-13"/>
+    <nd ref="-14"/>
+    <nd ref="-15"/>
+    <nd ref="-16"/>
+    <nd ref="-17"/>
+    <nd ref="-18"/>
+    <nd ref="-19"/>
+    <nd ref="-20"/>
+    <nd ref="-21"/>
+    <nd ref="-4"/>
+    <tag k="building" v="yes"/>
+    <tag k="addr:street" v="Metairie Heights Avenue"/>
+    <tag k="addr:city" v="Metairie"/>
+    <tag k="addr:postcode" v="70002"/>
+  </way>
+  <node visible="true" id="-22" lat="29.99752247869951915504316275" lon="-90.14482481853133322147186846"/>
+  <node visible="true" id="-23" lat="29.99752552096993341024244728" lon="-90.14490076880031210748711601"/>
+  <node visible="true" id="-24" lat="29.99772294241371284329034097" lon="-90.14489011485792957500962075"/>
+  <node visible="true" id="-25" lat="29.99772105796331800320331240" lon="-90.14484277637518516712589189"/>
+  <node visible="true" id="-26" lat="29.99762934097453737081195868" lon="-90.14484772620502894824312534"/>
+  <node visible="true" id="-27" lat="29.99762821134151025148639746" lon="-90.14481933888504272545105778"/>
+  <way visible="true" id="-2">
+    <nd ref="-22"/>
+    <nd ref="-23"/>
+    <nd ref="-24"/>
+    <nd ref="-25"/>
+    <nd ref="-26"/>
+    <nd ref="-27"/>
+    <nd ref="-22"/>
+    <tag k="building" v="yes"/>
+    <tag k="addr:housenumber" v="1908"/>
+    <tag k="addr:street" v="Khan Drive"/>
+    <tag k="addr:city" v="Metairie"/>
+    <tag k="addr:postcode" v="70005"/>
+  </way>
+  <node visible="true" id="-28" lat="29.99752850365772971485966991" lon="-90.14497622017880473777040606"/>
+  <node visible="true" id="-29" lat="29.99753152823807766935715335" lon="-90.14505221938331658293463988"/>
+  <node visible="true" id="-30" lat="29.99772896973703595335791761" lon="-90.14504158726835214565653587"/>
+  <node visible="true" id="-31" lat="29.99772708624320571857424511" lon="-90.14499424876908051373902708"/>
+  <node visible="true" id="-32" lat="29.99763536828122667543539137" lon="-90.14499919121584525782964192"/>
+  <node visible="true" id="-33" lat="29.99763423861540800885450153" lon="-90.14497079663749445899156854"/>
+  <way visible="true" id="-3">
+    <nd ref="-28"/>
+    <nd ref="-29"/>
+    <nd ref="-30"/>
+    <nd ref="-31"/>
+    <nd ref="-32"/>
+    <nd ref="-33"/>
+    <nd ref="-28"/>
+    <tag k="building" v="yes"/>
+    <tag k="addr:housenumber" v="1912"/>
+    <tag k="addr:street" v="Khan Drive"/>
+    <tag k="addr:city" v="Metairie"/>
+    <tag k="addr:postcode" v="70005"/>
+  </way>
+  <node visible="true" id="-34" lat="29.99753755001843913419179444" lon="-90.14520369779580732938484289"/>
+  <node visible="true" id="-35" lat="29.99754055882501191376832139" lon="-90.14527916339059743222605903"/>
+  <node visible="true" id="-36" lat="29.99764629275254179674448096" lon="-90.14527372463430765492375940"/>
+  <node visible="true" id="-37" lat="29.99764516315524076617293758" lon="-90.14524533108618697951897047"/>
+  <node visible="true" id="-38" lat="29.99773688015876160761763458" lon="-90.14524038162116426065040287"/>
+  <node visible="true" id="-39" lat="29.99773499673639776119671296" lon="-90.14519304311438929744326742"/>
+  <way visible="true" id="-4">
+    <nd ref="-34"/>
+    <nd ref="-35"/>
+    <nd ref="-36"/>
+    <nd ref="-37"/>
+    <nd ref="-38"/>
+    <nd ref="-39"/>
+    <nd ref="-34"/>
+    <tag k="building" v="yes"/>
+    <tag k="addr:housenumber" v="1918"/>
+    <tag k="addr:street" v="Khan Drive"/>
+    <tag k="addr:city" v="Metairie"/>
+    <tag k="addr:postcode" v="70005"/>
+  </way>
+  <node visible="true" id="-40" lat="29.99753454655491324842842005" lon="-90.14512772942730123304500012"/>
+  <node visible="true" id="-41" lat="29.99764026577108566584684013" lon="-90.14512226062674926652107388"/>
+  <node visible="true" id="-42" lat="29.99763913614115651284919295" lon="-90.14509386708205340710264863"/>
+  <node visible="true" id="-43" lat="29.99773085321384158419277810" lon="-90.14508892576935750184929930"/>
+  <way visible="true" id="-5">
+    <nd ref="-29"/>
+    <nd ref="-40"/>
+    <nd ref="-41"/>
+    <nd ref="-42"/>
+    <nd ref="-43"/>
+    <nd ref="-30"/>
+    <nd ref="-29"/>
+    <tag k="building" v="yes"/>
+    <tag k="addr:housenumber" v="1914"/>
+    <tag k="addr:street" v="Khan Drive"/>
+    <tag k="addr:city" v="Metairie"/>
+    <tag k="addr:postcode" v="70005"/>
+  </way>
+  <node visible="true" id="-44" lat="29.99773311329702352168169455" lon="-90.14514570460944753449439304"/>
+  <node visible="true" id="-45" lat="29.99764139539491125674430805" lon="-90.14515065417209882525639841"/>
+  <way visible="true" id="-6">
+    <nd ref="-40"/>
+    <nd ref="-34"/>
+    <nd ref="-39"/>
+    <nd ref="-44"/>
+    <nd ref="-45"/>
+    <nd ref="-41"/>
+    <nd ref="-40"/>
+    <tag k="building" v="yes"/>
+    <tag k="addr:housenumber" v="1916"/>
+    <tag k="addr:street" v="Khan Drive"/>
+    <tag k="addr:city" v="Metairie"/>
+    <tag k="addr:postcode" v="70005"/>
+  </way>
+  <node visible="true" id="-46" lat="29.99754358100534901154787804" lon="-90.14535511599643768931855448"/>
+  <node visible="true" id="-47" lat="29.99774102461326563684451685" lon="-90.14534451555067562367185019"/>
+  <node visible="true" id="-48" lat="29.99773914033559663039341103" lon="-90.14529717808716213767183945"/>
+  <node visible="true" id="-49" lat="29.99764742235306513862269640" lon="-90.14530211921952229658927536"/>
+  <way visible="true" id="-7">
+    <nd ref="-35"/>
+    <nd ref="-46"/>
+    <nd ref="-47"/>
+    <nd ref="-48"/>
+    <nd ref="-49"/>
+    <nd ref="-36"/>
+    <nd ref="-35"/>
+    <tag k="building" v="yes"/>
+    <tag k="addr:housenumber" v="1920"/>
+    <tag k="addr:street" v="Khan Drive"/>
+    <tag k="addr:city" v="Metairie"/>
+    <tag k="addr:postcode" v="70005"/>
+  </way>
+  <node visible="true" id="-50" lat="29.99754658428435405426171201" lon="-90.14543057855557606217189459"/>
+  <node visible="true" id="-51" lat="29.99765231371172902186117426" lon="-90.14542504050677962368354201"/>
+  <node visible="true" id="-52" lat="29.99765118999511415154302085" lon="-90.14539679510860992195375729"/>
+  <node visible="true" id="-53" lat="29.99774290798117704071046319" lon="-90.14539185406312071791035123"/>
+  <way visible="true" id="-8">
+    <nd ref="-50"/>
+    <nd ref="-51"/>
+    <nd ref="-52"/>
+    <nd ref="-53"/>
+    <nd ref="-47"/>
+    <nd ref="-46"/>
+    <nd ref="-50"/>
+    <tag k="building" v="yes"/>
+    <tag k="addr:housenumber" v="1922"/>
+    <tag k="addr:street" v="Khan Drive"/>
+    <tag k="addr:city" v="Metairie"/>
+    <tag k="addr:postcode" v="70005"/>
+  </way>
+  <node visible="true" id="-54" lat="29.99751944858431684792776650" lon="-90.14474932004598883850121638"/>
+  <node visible="true" id="-55" lat="29.99762708170238667548801459" lon="-90.14479095156566756941174390"/>
+  <node visible="true" id="-56" lat="29.99771879868899659982162120" lon="-90.14478600168371258405386470"/>
+  <node visible="true" id="-57" lat="29.99771691510329674201784655" lon="-90.14473866319410433334269328"/>
+  <way visible="true" id="-9">
+    <nd ref="-54"/>
+    <nd ref="-22"/>
+    <nd ref="-27"/>
+    <nd ref="-55"/>
+    <nd ref="-56"/>
+    <nd ref="-57"/>
+    <nd ref="-54"/>
+    <tag k="building" v="yes"/>
+    <tag k="addr:housenumber" v="1906"/>
+    <tag k="addr:street" v="Khan Drive"/>
+    <tag k="addr:city" v="Metairie"/>
+    <tag k="addr:postcode" v="70005"/>
+  </way>
+  <node visible="true" id="-58" lat="29.99771503150054030584215070" lon="-90.14469132470632928288978292"/>
+  <node visible="true" id="-59" lat="29.99762331361526079831492098" lon="-90.14469627468594126185053028"/>
+  <node visible="true" id="-60" lat="29.99762218293512816558177292" lon="-90.14466787494316690754203591"/>
+  <node visible="true" id="-61" lat="29.99751644905099468019216147" lon="-90.14467331641318992296874058"/>
+  <way visible="true" id="-10">
+    <nd ref="-57"/>
+    <nd ref="-58"/>
+    <nd ref="-59"/>
+    <nd ref="-60"/>
+    <nd ref="-61"/>
+    <nd ref="-54"/>
+    <nd ref="-57"/>
+    <tag k="building" v="yes"/>
+    <tag k="addr:housenumber" v="1904"/>
+    <tag k="addr:street" v="Khan Drive"/>
+    <tag k="addr:city" v="Metairie"/>
+    <tag k="addr:postcode" v="70005"/>
+  </way>
+  <node visible="true" id="-62" lat="29.99763310804128124686940282" lon="-90.14494240207058339819923276"/>
+  <node visible="true" id="-63" lat="29.99772482593566991226907703" lon="-90.14493745231681032237247564"/>
+  <way visible="true" id="-11">
+    <nd ref="-23"/>
+    <nd ref="-28"/>
+    <nd ref="-33"/>
+    <nd ref="-62"/>
+    <nd ref="-63"/>
+    <nd ref="-24"/>
+    <nd ref="-23"/>
+    <tag k="building" v="yes"/>
+    <tag k="addr:housenumber" v="1910"/>
+    <tag k="addr:street" v="Khan Drive"/>
+    <tag k="addr:city" v="Metairie"/>
+    <tag k="addr:postcode" v="70005"/>
+  </way>
+  <node visible="true" id="-64" lat="29.99771088648251549102496938" lon="-90.14458718564900152614427498"/>
+  <node visible="true" id="-65" lat="29.99770900282526397973015264" lon="-90.14453984716695345014159102"/>
+  <node visible="true" id="-66" lat="29.99761728494562973423853691" lon="-90.14454479728554758821701398"/>
+  <node visible="true" id="-67" lat="29.99761615518175972283643205" lon="-90.14451640271749965904746205"/>
+  <node visible="true" id="-68" lat="29.99751042236500708781932190" lon="-90.14452186195602223506284645"/>
+  <node visible="true" id="-69" lat="29.99751344388363705206757004" lon="-90.14459779276207029852230335"/>
+  <way visible="true" id="-12">
+    <nd ref="-64"/>
+    <nd ref="-65"/>
+    <nd ref="-66"/>
+    <nd ref="-67"/>
+    <nd ref="-68"/>
+    <nd ref="-69"/>
+    <nd ref="-64"/>
+    <tag k="building" v="yes"/>
+    <tag k="addr:housenumber" v="1900"/>
+    <tag k="addr:street" v="Khan Drive"/>
+    <tag k="addr:city" v="Metairie"/>
+    <tag k="addr:postcode" v="70005"/>
+  </way>
+  <node visible="true" id="-70" lat="29.99762105314166760194893868" lon="-90.14463947415381994687777478"/>
+  <node visible="true" id="-71" lat="29.99771277102484745569199731" lon="-90.14463452412213939624052728"/>
+  <way visible="true" id="-13">
+    <nd ref="-64"/>
+    <nd ref="-69"/>
+    <nd ref="-61"/>
+    <nd ref="-60"/>
+    <nd ref="-70"/>
+    <nd ref="-71"/>
+    <nd ref="-64"/>
+    <tag k="building" v="yes"/>
+    <tag k="addr:housenumber" v="1902"/>
+    <tag k="addr:street" v="Khan Drive"/>
+    <tag k="addr:city" v="Metairie"/>
+    <tag k="addr:postcode" v="70005"/>
+  </way>
+  <node visible="true" id="-72" lat="29.99904039523329402072704397" lon="-90.15307663020863060410192702">
+    <tag k="addr:housenumber" v="3131"/>
+    <tag k="addr:street" v="North  I-10 Service Road"/>
+    <tag k="addr:city" v="Metairie"/>
+    <tag k="addr:postcode" v="70002"/>
+  </node>
+  <node visible="true" id="-73" lat="29.99906476099925711764626612" lon="-90.15309923279546922003646614">
+    <tag k="addr:housenumber" v="3131"/>
+    <tag k="addr:street" v="North  I-10 Service Road"/>
+    <tag k="addr:city" v="Metairie"/>
+    <tag k="addr:postcode" v="70002"/>
+    <tag k="addr:unit" v="401"/>
+  </node>
+  <node visible="true" id="-74" lat="30.00199782366795986376928340" lon="-90.14918942961807601932378020">
+    <tag k="addr:street" v="Metairie Heights Avenue"/>
+    <tag k="addr:city" v="Metairie"/>
+    <tag k="addr:postcode" v="70002"/>
+  </node>
+  <node visible="true" id="-75" lat="29.99959284199197995235408598" lon="-90.14547435722707291461119894">
+    <tag k="addr:street" v="Demosthenes Street"/>
+    <tag k="addr:city" v="Metairie"/>
+    <tag k="addr:postcode" v="70005"/>
+  </node>
+  <node visible="true" id="-76" lat="29.99667916807400303014219389" lon="-90.15053194541964387553889537">
+    <tag k="addr:housenumber" v="2500"/>
+    <tag k="addr:street" v="South I-10 Service Road"/>
+    <tag k="addr:city" v="Metairie"/>
+    <tag k="addr:postcode" v="70001"/>
+  </node>
+  <way id="311174358" version="6">
+    <tag k="addr:housenumber" v="2"/>
+    <tag k="addr:street" v="Galleria Boulevard"/>
+    <tag k="addr:city" v="Metairie"/>
+    <tag k="addr:postcode" v="70001"/>
+  </way>
+  <node visible="true" id="-77" lat="29.99592742670808220850631187" lon="-90.15187814140185196265520062">
+    <tag k="addr:housenumber" v="1"/>
+    <tag k="addr:street" v="Galleria Access Road"/>
+    <tag k="addr:city" v="Metairie"/>
+    <tag k="addr:postcode" v="70001"/>
+    <tag k="addr:unit" v="746"/>
+  </node>
+  <node visible="true" id="-78" lat="29.99592919861738238296311465" lon="-90.15192578727518935011175927">
+    <tag k="addr:housenumber" v="1"/>
+    <tag k="addr:street" v="Galleria Access Road"/>
+    <tag k="addr:city" v="Metairie"/>
+    <tag k="addr:postcode" v="70001"/>
+    <tag k="addr:unit" v="775"/>
+  </node>
+  <node visible="true" id="-79" lat="29.99592776879424960156939051" lon="-90.15202403082408011414372595">
+    <tag k="addr:housenumber" v="1"/>
+    <tag k="addr:street" v="Galleria Access Road"/>
+    <tag k="addr:city" v="Metairie"/>
+    <tag k="addr:postcode" v="70001"/>
+    <tag k="addr:unit" v="725"/>
+  </node>
+  <node visible="true" id="-80" lat="29.99593929756489885107839655" lon="-90.15227875259668621765740681">
+    <tag k="addr:housenumber" v="1"/>
+    <tag k="addr:street" v="Galleria Access Road"/>
+    <tag k="addr:city" v="Metairie"/>
+    <tag k="addr:postcode" v="70001"/>
+    <tag k="addr:unit" v="700"/>
+  </node>
+  <node visible="true" id="-81" lat="29.99593091372641850966829224" lon="-90.15211691120381942710082512">
+    <tag k="addr:housenumber" v="1"/>
+    <tag k="addr:street" v="Galleria Access Road"/>
+    <tag k="addr:city" v="Metairie"/>
+    <tag k="addr:postcode" v="70001"/>
+    <tag k="addr:unit" v="710"/>
+  </node>
+  <node visible="true" id="-82" lat="29.99592562350586177899458562" lon="-90.15183103177454881915764417">
+    <tag k="addr:housenumber" v="1"/>
+    <tag k="addr:street" v="Galleria Access Road"/>
+    <tag k="addr:city" v="Metairie"/>
+    <tag k="addr:postcode" v="70001"/>
+    <tag k="addr:unit" v="735"/>
+  </node>
+  <node visible="true" id="-83" lat="29.99593362896415271734440466" lon="-90.15216200957907233259902569">
+    <tag k="addr:housenumber" v="1"/>
+    <tag k="addr:street" v="Galleria Access Road"/>
+    <tag k="addr:city" v="Metairie"/>
+    <tag k="addr:postcode" v="70001"/>
+    <tag k="addr:unit" v="705-B"/>
+  </node>
+  <node visible="true" id="-84" lat="29.99610563545324737333430676" lon="-90.15227412841096565898624249">
+    <tag k="addr:housenumber" v="1"/>
+    <tag k="addr:street" v="Galleria Access Road"/>
+    <tag k="addr:city" v="Metairie"/>
+    <tag k="addr:postcode" v="70001"/>
+    <tag k="addr:unit" v="100"/>
+  </node>
+  <node visible="true" id="-85" lat="29.99588689906359562087345694" lon="-90.15234536741202475695899921">
+    <tag k="addr:housenumber" v="1"/>
+    <tag k="addr:street" v="Galleria Access Road"/>
+    <tag k="addr:city" v="Metairie"/>
+    <tag k="addr:postcode" v="70001"/>
+    <tag k="addr:unit" v="825"/>
+  </node>
+  <node visible="true" id="-86" lat="29.99555176121290855917322915" lon="-90.15239998232125628874200629">
+    <tag k="addr:housenumber" v="1"/>
+    <tag k="addr:street" v="Galleria Access Road"/>
+    <tag k="addr:city" v="Metairie"/>
+    <tag k="addr:postcode" v="70001"/>
+    <tag k="addr:unit" v="801"/>
+  </node>
+  <node visible="true" id="-87" lat="29.99592683877214227550211945" lon="-90.15198946398247414890647633">
+    <tag k="addr:housenumber" v="1"/>
+    <tag k="addr:street" v="Galleria Access Road"/>
+    <tag k="addr:city" v="Metairie"/>
+    <tag k="addr:postcode" v="70001"/>
+    <tag k="addr:unit" v="744"/>
+  </node>
+  <node visible="true" id="-88" lat="29.99611781611522332013919367" lon="-90.15243441598786944268795196">
+    <tag k="addr:housenumber" v="1"/>
+    <tag k="addr:street" v="Galleria Access Road"/>
+    <tag k="addr:city" v="Metairie"/>
+    <tag k="addr:postcode" v="70001"/>
+    <tag k="addr:unit" v="701"/>
+  </node>
+  <node visible="true" id="-89" lat="29.99593279530377287755982252" lon="-90.15206910285854746689437889">
+    <tag k="addr:housenumber" v="1"/>
+    <tag k="addr:street" v="Galleria Access Road"/>
+    <tag k="addr:city" v="Metairie"/>
+    <tag k="addr:postcode" v="70001"/>
+    <tag k="addr:unit" v="715"/>
+  </node>
+  <node visible="true" id="-90" lat="29.99593877360605276294336363" lon="-90.15222035372718778489797842">
+    <tag k="addr:housenumber" v="1"/>
+    <tag k="addr:street" v="Galleria Access Road"/>
+    <tag k="addr:city" v="Metairie"/>
+    <tag k="addr:postcode" v="70001"/>
+    <tag k="addr:unit" v="705"/>
+  </node>
+  <node visible="true" id="-91" lat="29.99592947518413055263408751" lon="-90.15195660452098991299862973">
+    <tag k="addr:housenumber" v="1"/>
+    <tag k="addr:street" v="Galleria Access Road East"/>
+    <tag k="addr:city" v="Metairie"/>
+    <tag k="addr:postcode" v="70001"/>
+    <tag k="addr:unit" v="735"/>
+  </node>
+  <node visible="true" id="-92" lat="29.99575241368693667709521833" lon="-90.15314521556264537593960995">
+    <tag k="addr:housenumber" v="4"/>
+    <tag k="addr:street" v="Galleria Boulevard"/>
+    <tag k="addr:city" v="Metairie"/>
+    <tag k="addr:postcode" v="70001"/>
+  </node>
+  <way id="817409733" version="1">
+    <tag k="addr:housenumber" v="2324"/>
+    <tag k="addr:street" v="Veterans Memorial Boulevard"/>
+    <tag k="addr:city" v="Metairie"/>
+    <tag k="addr:postcode" v="70002"/>
+  </way>
+  <way id="817409738" version="1">
+    <tag k="addr:housenumber" v="1906"/>
+    <tag k="addr:street" v="Veterans Memorial Boulevard"/>
+    <tag k="addr:city" v="Metairie"/>
+    <tag k="addr:postcode" v="70005"/>
+  </way>
+  <node visible="true" id="-93" lat="30.00177593487492089252555161" lon="-90.14353136212385209091735305">
+    <tag k="addr:street" v="Veterans Memorial Boulevard"/>
+    <tag k="addr:city" v="Metairie"/>
+    <tag k="addr:postcode" v="70005"/>
+  </node>
+</osm>

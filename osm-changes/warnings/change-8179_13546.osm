@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='utf8'?>
+<osm version="0.6" generator="AnonymousAlligator's import script">
+  <changeset_tag k="comment" v="Import buildings and addresses in Jefferson Parish, see https://wiki.openstreetmap.org/wiki/Import/Catalogue/Jefferson_Parish_Addresses_and_Buildings"/>
+  <changeset_tag k="source" v="Jefferson Parish Planning Department"/>
+  <changeset_tag k="source_file" v="8179_13546"/>
+  <node visible="true" id="-1" lat="29.73654723058839266514041810" lon="-90.13182199349756729134242050"/>
+  <node visible="true" id="-2" lat="29.73650086443476681097308756" lon="-90.13181037322620170471054735"/>
+  <node visible="true" id="-3" lat="29.73647574499256407420944015" lon="-90.13193459481749414408113807"/>
+  <node visible="true" id="-4" lat="29.73645631541094758176768664" lon="-90.13192909778273076426557964"/>
+  <node visible="true" id="-5" lat="29.73644254832826661072431307" lon="-90.13199587936782108954503201"/>
+  <node visible="true" id="-6" lat="29.73650834493669492530898424" lon="-90.13201299572567393170174910"/>
+  <way visible="true" id="-1">
+    <nd ref="-1"/>
+    <nd ref="-2"/>
+    <nd ref="-3"/>
+    <nd ref="-4"/>
+    <nd ref="-5"/>
+    <nd ref="-6"/>
+    <nd ref="-1"/>
+    <tag k="building" v="yes"/>
+    <tag k="addr:housenumber" v="4966"/>
+    <tag k="addr:street" v="Rj Pizani Street"/>
+    <tag k="addr:city" v="Barataria"/>
+    <tag k="addr:postcode" v="70036"/>
+  </way>
+  <node visible="true" id="-7" lat="29.74498568628449746142905497" lon="-90.13220557282593858872132841"/>
+  <node visible="true" id="-8" lat="29.74493828985144006082919077" lon="-90.13228637435460655069618952"/>
+  <node visible="true" id="-9" lat="29.74500376823100467049698636" lon="-90.13233716640695547539507970"/>
+  <node visible="true" id="-10" lat="29.74505116468564125398188480" lon="-90.13225636381568506294570398"/>
+  <way visible="true" id="-2">
+    <nd ref="-7"/>
+    <nd ref="-8"/>
+    <nd ref="-9"/>
+    <nd ref="-10"/>
+    <nd ref="-7"/>
+    <tag k="building" v="yes"/>
+    <tag k="addr:housenumber" v="2229"/>
+    <tag k="addr:street" v="la 45"/>
+    <tag k="addr:city" v="Town Of Lafitte"/>
+    <tag k="addr:postcode" v="70067"/>
+  </way>
+</osm>

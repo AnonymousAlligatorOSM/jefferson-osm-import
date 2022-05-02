@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='utf8'?>
+<osm version="0.6" generator="AnonymousAlligator's import script">
+  <changeset_tag k="comment" v="Import buildings and addresses in Jefferson Parish, see https://wiki.openstreetmap.org/wiki/Import/Catalogue/Jefferson_Parish_Addresses_and_Buildings"/>
+  <changeset_tag k="source" v="Jefferson Parish Planning Department"/>
+  <changeset_tag k="source_file" v="8174_13517"/>
+  <node visible="true" id="-1" lat="30.01830218022834984026303573" lon="-90.18761918000093658065452473"/>
+  <node visible="true" id="-2" lat="30.01825083256496640160548850" lon="-90.18760899518170504052250180"/>
+  <node visible="true" id="-3" lat="30.01821305366668823921827425" lon="-90.18786515131266412481636507"/>
+  <node visible="true" id="-4" lat="30.01826061996107597451555193" lon="-90.18787178844561935875390191"/>
+  <way visible="true" id="-1">
+    <nd ref="-1"/>
+    <nd ref="-2"/>
+    <nd ref="-3"/>
+    <nd ref="-4"/>
+    <nd ref="-1"/>
+    <tag k="building" v="yes"/>
+    <tag k="addr:street" v="Clearview Parkway"/>
+    <tag k="addr:city" v="Metairie"/>
+    <tag k="addr:postcode" v="70006"/>
+  </way>
+  <node visible="true" id="-5" lat="30.01814815455358598228485789" lon="-90.18815458270981366695195902"/>
+  <node visible="true" id="-6" lat="30.01818733964931951163634949" lon="-90.18791636798844990607904037"/>
+  <node visible="true" id="-7" lat="30.01807588131640258666266163" lon="-90.18789466286261813365854323"/>
+  <node visible="true" id="-8" lat="30.01803980244777747543594160" lon="-90.18813068524835330208588857"/>
+  <way visible="true" id="-2">
+    <nd ref="-5"/>
+    <nd ref="-6"/>
+    <nd ref="-7"/>
+    <nd ref="-8"/>
+    <nd ref="-5"/>
+    <tag k="building" v="yes"/>
+    <tag k="addr:street" v="Clearview Parkway"/>
+    <tag k="addr:city" v="Metairie"/>
+    <tag k="addr:postcode" v="70006"/>
+  </way>
+  <node visible="true" id="-9" lat="30.01680934889600393944419920" lon="-90.18870164701795033579401206"/>
+  <node visible="true" id="-10" lat="30.01677710083507122362789232" lon="-90.18828727636424957836425165"/>
+  <node visible="true" id="-11" lat="30.01671839798221697037661215" lon="-90.18828959675010992214083672"/>
+  <node visible="true" id="-12" lat="30.01674493187709202857149648" lon="-90.18870567802544258029229240"/>
+  <way visible="true" id="-3">
+    <nd ref="-9"/>
+    <nd ref="-10"/>
+    <nd ref="-11"/>
+    <nd ref="-12"/>
+    <nd ref="-9"/>
+    <tag k="building" v="yes"/>
+    <tag k="addr:street" v="Clearview Parkway"/>
+    <tag k="addr:city" v="Metairie"/>
+    <tag k="addr:postcode" v="70006"/>
+  </way>
+  <node visible="true" id="-13" lat="30.01693921852173119191320438" lon="-90.18863597077802296553272754">
+    <tag k="addr:street" v="Clearview Parkway"/>
+    <tag k="addr:city" v="Metairie"/>
+    <tag k="addr:postcode" v="70006"/>
+  </node>
+  <node visible="true" id="-14" lat="30.01490192712133264762996987" lon="-90.19315674899820578502840362">
+    <tag k="addr:street" v="Harvard Avenue"/>
+    <tag k="addr:city" v="Metairie"/>
+    <tag k="addr:postcode" v="70006"/>
+  </node>
+</osm>

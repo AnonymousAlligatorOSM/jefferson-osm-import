@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf8'?>
+<osm version="0.6" generator="AnonymousAlligator's import script">
+  <changeset_tag k="comment" v="Import buildings and addresses in Jefferson Parish, see https://wiki.openstreetmap.org/wiki/Import/Catalogue/Jefferson_Parish_Addresses_and_Buildings"/>
+  <changeset_tag k="source" v="Jefferson Parish Planning Department"/>
+  <changeset_tag k="source_file" v="8171_13516"/>
+  <node visible="true" id="-1" lat="30.02253557984906962019522325" lon="-90.22772208454949804945499636"/>
+  <node visible="true" id="-2" lat="30.02257696751640025922824861" lon="-90.22758873056980633009516168"/>
+  <node visible="true" id="-3" lat="30.02247231245766201368496695" lon="-90.22755756549896943852218101"/>
+  <node visible="true" id="-4" lat="30.02244742084171136298209603" lon="-90.22764548015823038440430537"/>
+  <node visible="true" id="-5" lat="30.02241105960795763962778437" lon="-90.22763295373886194283841178"/>
+  <node visible="true" id="-6" lat="30.02239706336289870591826912" lon="-90.22767836416241493679990526"/>
+  <way visible="true" id="-1">
+    <nd ref="-1"/>
+    <nd ref="-2"/>
+    <nd ref="-3"/>
+    <nd ref="-4"/>
+    <nd ref="-5"/>
+    <nd ref="-6"/>
+    <nd ref="-1"/>
+    <tag k="building" v="yes"/>
+    <tag k="addr:street" v="37th Street"/>
+    <tag k="addr:city" v="Kenner"/>
+    <tag k="addr:postcode" v="70065"/>
+  </way>
+</osm>

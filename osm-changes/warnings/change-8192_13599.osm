@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf8'?>
+<osm version="0.6" generator="AnonymousAlligator's import script">
+  <changeset_tag k="comment" v="Import buildings and addresses in Jefferson Parish, see https://wiki.openstreetmap.org/wiki/Import/Catalogue/Jefferson_Parish_Addresses_and_Buildings"/>
+  <changeset_tag k="source" v="Jefferson Parish Planning Department"/>
+  <changeset_tag k="source_file" v="8192_13599"/>
+  <node visible="true" id="-1" lat="29.23098506681340680302128021" lon="-89.99914929597233026470348705"/>
+  <node visible="true" id="-2" lat="29.23097342877658633142345934" lon="-89.99916105653058195912308292"/>
+  <node visible="true" id="-3" lat="29.23109769763007292908696400" lon="-89.99932254418662580519594485"/>
+  <node visible="true" id="-4" lat="29.23125283588829503855777148" lon="-89.99916577716460608371562557"/>
+  <node visible="true" id="-5" lat="29.23113628062029079046624247" lon="-89.99901431292330755695729749"/>
+  <node visible="true" id="-6" lat="29.23112254396845699488949322" lon="-89.99902819464755054923443822"/>
+  <node visible="true" id="-7" lat="29.23102583721663449978223071" lon="-89.99890252456769701439043274"/>
+  <node visible="true" id="-8" lat="29.23089607486051377804869844" lon="-89.99903364938350591728521977"/>
+  <way visible="true" id="-1">
+    <nd ref="-1"/>
+    <nd ref="-2"/>
+    <nd ref="-3"/>
+    <nd ref="-4"/>
+    <nd ref="-5"/>
+    <nd ref="-6"/>
+    <nd ref="-7"/>
+    <nd ref="-8"/>
+    <nd ref="-1"/>
+    <tag k="building" v="yes"/>
+    <tag k="addr:housenumber" v="100"/>
+    <tag k="addr:street" v="Chighizola"/>
+    <tag k="addr:city" v="Grand Isle"/>
+    <tag k="addr:postcode" v="70358"/>
+  </way>
+</osm>

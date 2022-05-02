@@ -1,0 +1,308 @@
+<?xml version='1.0' encoding='utf8'?>
+<osm version="0.6" generator="AnonymousAlligator's import script">
+  <changeset_tag k="comment" v="Import buildings and addresses in Jefferson Parish, see https://wiki.openstreetmap.org/wiki/Import/Catalogue/Jefferson_Parish_Addresses_and_Buildings"/>
+  <changeset_tag k="source" v="Jefferson Parish Planning Department"/>
+  <changeset_tag k="source_file" v="8168_13519"/>
+  <node visible="true" id="-1" lat="30.00166799698442332555714529" lon="-90.25422269597879676439333707">
+    <tag k="addr:housenumber" v="2452"/>
+    <tag k="addr:street" v="Augusta Avenue"/>
+    <tag k="addr:city" v="Kenner"/>
+    <tag k="addr:postcode" v="70062"/>
+  </node>
+  <node visible="true" id="-2" lat="30.00146011275964141873373592" lon="-90.25425654567804656380758388">
+    <tag k="addr:housenumber" v="2438"/>
+    <tag k="addr:street" v="Augusta Avenue"/>
+    <tag k="addr:city" v="Kenner"/>
+    <tag k="addr:postcode" v="70062"/>
+  </node>
+  <node visible="true" id="-3" lat="30.00156204932770975801759050" lon="-90.25464326912990031814842951">
+    <tag k="addr:housenumber" v="2453"/>
+    <tag k="addr:street" v="Augusta Avenue"/>
+    <tag k="addr:city" v="Kenner"/>
+    <tag k="addr:postcode" v="70062"/>
+  </node>
+  <node visible="true" id="-4" lat="30.00166087258722313890757505" lon="-90.25465009988680264996219194">
+    <tag k="addr:housenumber" v="2455"/>
+    <tag k="addr:street" v="Augusta Avenue"/>
+    <tag k="addr:city" v="Kenner"/>
+    <tag k="addr:postcode" v="70062"/>
+  </node>
+  <node visible="true" id="-5" lat="29.99905080362309917063612374" lon="-90.25482867320809532429848332"/>
+  <node visible="true" id="-6" lat="29.99877882421694152981217485" lon="-90.25485421988264533865731210"/>
+  <node visible="true" id="-7" lat="29.99880696978887328896234976" lon="-90.25515065359255117982684169"/>
+  <node visible="true" id="-8" lat="29.99907291600928260777436662" lon="-90.25512607679625887158181285"/>
+  <way visible="true" id="-1">
+    <nd ref="-5"/>
+    <nd ref="-6"/>
+    <nd ref="-7"/>
+    <nd ref="-8"/>
+    <nd ref="-5"/>
+    <tag k="building" v="yes"/>
+    <tag k="addr:housenumber" v="2311"/>
+    <tag k="addr:street" v="Augusta Avenue"/>
+    <tag k="addr:city" v="Kenner"/>
+    <tag k="addr:postcode" v="70062"/>
+  </way>
+  <node visible="true" id="-9" lat="29.99912643253378519148100168" lon="-90.25448541574104410756262951"/>
+  <node visible="true" id="-10" lat="29.99935566924557761581127124" lon="-90.25446354461992370943335118"/>
+  <node visible="true" id="-11" lat="29.99934010530772354741202435" lon="-90.25424251376146855818660697"/>
+  <node visible="true" id="-12" lat="29.99911178569639957913750550" lon="-90.25426663821127704068203457"/>
+  <way visible="true" id="-2">
+    <nd ref="-9"/>
+    <nd ref="-10"/>
+    <nd ref="-11"/>
+    <nd ref="-12"/>
+    <nd ref="-9"/>
+    <tag k="building" v="yes"/>
+    <tag k="addr:housenumber" v="2324"/>
+    <tag k="addr:street" v="Augusta Avenue"/>
+    <tag k="addr:city" v="Kenner"/>
+    <tag k="addr:postcode" v="70062"/>
+  </way>
+  <node visible="true" id="-13" lat="29.99928053824350726586089877" lon="-90.25405005747190045894967625"/>
+  <node visible="true" id="-14" lat="29.99926949592255098764326249" lon="-90.25390324024239419031800935"/>
+  <node visible="true" id="-15" lat="29.99904336237244351082154026" lon="-90.25392075775633315970480908"/>
+  <node visible="true" id="-16" lat="29.99905443556946238459204324" lon="-90.25407134314328061464038910"/>
+  <way visible="true" id="-3">
+    <nd ref="-13"/>
+    <nd ref="-14"/>
+    <nd ref="-15"/>
+    <nd ref="-16"/>
+    <nd ref="-13"/>
+    <tag k="building" v="yes"/>
+    <tag k="addr:housenumber" v="2323"/>
+    <tag k="addr:street" v="Helena Avenue"/>
+    <tag k="addr:city" v="Kenner"/>
+    <tag k="addr:postcode" v="70062"/>
+  </way>
+  <node visible="true" id="-17" lat="29.99862402642516201467515202" lon="-90.25408758900157124571705936"/>
+  <node visible="true" id="-18" lat="29.99878892898310667192163237" lon="-90.25407215975380381678405683"/>
+  <node visible="true" id="-19" lat="29.99877890070731112359680992" lon="-90.25391642332125741177151212"/>
+  <node visible="true" id="-20" lat="29.99873517019115709558718663" lon="-90.25391976985406472522299737"/>
+  <node visible="true" id="-21" lat="29.99873505831164877122319012" lon="-90.25390612519235844501963584"/>
+  <node visible="true" id="-22" lat="29.99865697987030799254171143" lon="-90.25391343399198262886784505"/>
+  <node visible="true" id="-23" lat="29.99865707997061292644502828" lon="-90.25392564214578783321485389"/>
+  <node visible="true" id="-24" lat="29.99861398050827787642447220" lon="-90.25392969911636953384004300"/>
+  <way visible="true" id="-4">
+    <nd ref="-17"/>
+    <nd ref="-18"/>
+    <nd ref="-19"/>
+    <nd ref="-20"/>
+    <nd ref="-21"/>
+    <nd ref="-22"/>
+    <nd ref="-23"/>
+    <nd ref="-24"/>
+    <nd ref="-17"/>
+    <tag k="building" v="yes"/>
+    <tag k="addr:housenumber" v="2309"/>
+    <tag k="addr:street" v="Helena Avenue"/>
+    <tag k="addr:city" v="Kenner"/>
+    <tag k="addr:postcode" v="70062"/>
+  </way>
+  <node visible="true" id="-25" lat="30.00171592400389286581230408" lon="-90.25335285699605947229429148"/>
+  <node visible="true" id="-26" lat="30.00170383285718855859158793" lon="-90.25312063630734371599828592"/>
+  <node visible="true" id="-27" lat="30.00149339175802865042896883" lon="-90.25313564863147064443182899"/>
+  <node visible="true" id="-28" lat="30.00151054799326999500408419" lon="-90.25336942375525950410519727"/>
+  <way visible="true" id="-5">
+    <nd ref="-25"/>
+    <nd ref="-26"/>
+    <nd ref="-27"/>
+    <nd ref="-28"/>
+    <nd ref="-25"/>
+    <tag k="building" v="yes"/>
+    <tag k="addr:housenumber" v="2444"/>
+    <tag k="addr:street" v="Helena Avenue"/>
+    <tag k="addr:city" v="Kenner"/>
+    <tag k="addr:postcode" v="70062"/>
+  </way>
+  <node visible="true" id="-29" lat="29.99900510622544658190236078" lon="-90.25405744534492669117753394"/>
+  <node visible="true" id="-30" lat="29.99899011277751270654334803" lon="-90.25390607220199967741791625"/>
+  <node visible="true" id="-31" lat="29.99883514057233924177126028" lon="-90.25391277659242916797666112"/>
+  <node visible="true" id="-32" lat="29.99885013401286215639629518" lon="-90.25406414950117550688446499"/>
+  <way visible="true" id="-6">
+    <nd ref="-29"/>
+    <nd ref="-30"/>
+    <nd ref="-31"/>
+    <nd ref="-32"/>
+    <nd ref="-29"/>
+    <tag k="building" v="yes"/>
+    <tag k="addr:housenumber" v="2315"/>
+    <tag k="addr:street" v="Helena Avenue"/>
+    <tag k="addr:city" v="Kenner"/>
+    <tag k="addr:postcode" v="70062"/>
+  </way>
+  <node visible="true" id="-33" lat="29.99912160231138713584186917" lon="-90.25357372323877314101991942">
+    <tag k="addr:housenumber" v="2320"/>
+    <tag k="addr:street" v="Helena Avenue"/>
+    <tag k="addr:city" v="Kenner"/>
+    <tag k="addr:postcode" v="70062"/>
+  </node>
+  <node visible="true" id="-34" lat="29.99896524478570469796068210" lon="-90.25447888262441153983672848">
+    <tag k="addr:housenumber" v="2310"/>
+    <tag k="addr:street" v="Augusta Avenue"/>
+    <tag k="addr:city" v="Kenner"/>
+    <tag k="addr:postcode" v="70062"/>
+  </node>
+  <node visible="true" id="-35" lat="29.99873763676963989155410673" lon="-90.25355561653637437302677426">
+    <tag k="addr:housenumber" v="2308"/>
+    <tag k="addr:street" v="Helena Avenue"/>
+    <tag k="addr:city" v="Kenner"/>
+    <tag k="addr:postcode" v="70062"/>
+  </node>
+  <way id="839751175" version="2">
+    <tag k="addr:housenumber" v="1"/>
+    <tag k="addr:street" v="Terminal Drive"/>
+    <tag k="addr:city" v="Kenner"/>
+    <tag k="addr:postcode" v="70062"/>
+  </way>
+  <node visible="true" id="-36" lat="30.00249117471072324292435951" lon="-90.25573781520891714080789825">
+    <tag k="addr:housenumber" v="2611"/>
+    <tag k="addr:street" v="Dawson Avenue"/>
+    <tag k="addr:city" v="Kenner"/>
+    <tag k="addr:postcode" v="70062"/>
+  </node>
+  <node visible="true" id="-37" lat="30.00244079564544463778474892" lon="-90.25561626566961592743609799">
+    <tag k="addr:housenumber" v="2609"/>
+    <tag k="addr:street" v="Dawson Avenue"/>
+    <tag k="addr:city" v="Kenner"/>
+    <tag k="addr:postcode" v="70062"/>
+  </node>
+  <node visible="true" id="-38" lat="30.00227005072002839369815774" lon="-90.25560518272642696047114441">
+    <tag k="addr:housenumber" v="2601"/>
+    <tag k="addr:street" v="Dawson Avenue"/>
+    <tag k="addr:city" v="Kenner"/>
+    <tag k="addr:postcode" v="70062"/>
+  </node>
+  <node visible="true" id="-39" lat="30.00232028782214399598160526" lon="-90.25570949760492567293113098">
+    <tag k="addr:housenumber" v="2603"/>
+    <tag k="addr:street" v="Dawson Avenue"/>
+    <tag k="addr:city" v="Kenner"/>
+    <tag k="addr:postcode" v="70062"/>
+  </node>
+  <node visible="true" id="-40" lat="30.00227354654140654588445614" lon="-90.25511604984114910621428862">
+    <tag k="addr:housenumber" v="2602"/>
+    <tag k="addr:street" v="Dawson Avenue"/>
+    <tag k="addr:city" v="Kenner"/>
+    <tag k="addr:postcode" v="70062"/>
+  </node>
+  <node visible="true" id="-41" lat="30.00228933611415982340986375" lon="-90.25521211887031824971927563">
+    <tag k="addr:housenumber" v="2600"/>
+    <tag k="addr:street" v="Dawson Avenue"/>
+    <tag k="addr:city" v="Kenner"/>
+    <tag k="addr:postcode" v="70062"/>
+  </node>
+  <node visible="true" id="-42" lat="30.00240775371036860974527372" lon="-90.25524531179640064237901242">
+    <tag k="addr:housenumber" v="2606"/>
+    <tag k="addr:street" v="Dawson Avenue"/>
+    <tag k="addr:city" v="Kenner"/>
+    <tag k="addr:postcode" v="70062"/>
+  </node>
+  <node visible="true" id="-43" lat="30.00244040110926846409711288" lon="-90.25510993696690320575726219">
+    <tag k="addr:housenumber" v="2608"/>
+    <tag k="addr:street" v="Dawson Avenue"/>
+    <tag k="addr:city" v="Kenner"/>
+    <tag k="addr:postcode" v="70062"/>
+  </node>
+  <node visible="true" id="-44" lat="30.00236674043228646269199089" lon="-90.25474085921017319833481451">
+    <tag k="addr:housenumber" v="2605"/>
+    <tag k="addr:street" v="Augusta Avenue"/>
+    <tag k="addr:city" v="Kenner"/>
+    <tag k="addr:postcode" v="70062"/>
+  </node>
+  <node visible="true" id="-45" lat="30.00243596671078805115939758" lon="-90.25479756733754754804976983">
+    <tag k="addr:housenumber" v="2607"/>
+    <tag k="addr:street" v="Augusta Avenue"/>
+    <tag k="addr:city" v="Kenner"/>
+    <tag k="addr:postcode" v="70062"/>
+  </node>
+  <way id="920981217" version="1">
+    <tag k="addr:housenumber" v="2601"/>
+    <tag k="addr:street" v="Augusta Avenue"/>
+    <tag k="addr:city" v="Kenner"/>
+    <tag k="addr:postcode" v="70062"/>
+  </way>
+  <node visible="true" id="-46" lat="30.00217029771154386708076345" lon="-90.25426394474925473332405090">
+    <tag k="addr:housenumber" v="2600"/>
+    <tag k="addr:street" v="Augusta Avenue"/>
+    <tag k="addr:city" v="Kenner"/>
+    <tag k="addr:postcode" v="70062"/>
+  </node>
+  <node visible="true" id="-47" lat="30.00224745165535011892643524" lon="-90.25422001797653592802817002">
+    <tag k="addr:housenumber" v="2602"/>
+    <tag k="addr:street" v="Augusta Avenue"/>
+    <tag k="addr:city" v="Kenner"/>
+    <tag k="addr:postcode" v="70062"/>
+  </node>
+  <node visible="true" id="-48" lat="30.00221236045407735559820139" lon="-90.25375213045440148107445566">
+    <tag k="addr:housenumber" v="2601"/>
+    <tag k="addr:street" v="Helena Avenue"/>
+    <tag k="addr:city" v="Kenner"/>
+    <tag k="addr:postcode" v="70062"/>
+  </node>
+  <node visible="true" id="-49" lat="30.00219156648918428231809230" lon="-90.25388450378881088909110986">
+    <tag k="addr:housenumber" v="2603"/>
+    <tag k="addr:street" v="Helena Avenue"/>
+    <tag k="addr:city" v="Kenner"/>
+    <tag k="addr:postcode" v="70062"/>
+  </node>
+  <node visible="true" id="-50" lat="30.00236814618726555181638105" lon="-90.25376839844854259808926145">
+    <tag k="addr:housenumber" v="2605"/>
+    <tag k="addr:street" v="Helena Avenue"/>
+    <tag k="addr:city" v="Kenner"/>
+    <tag k="addr:postcode" v="70062"/>
+  </node>
+  <node visible="true" id="-51" lat="30.00232598305291986662268755" lon="-90.25388664063996202457929030">
+    <tag k="addr:housenumber" v="2607"/>
+    <tag k="addr:street" v="Helena Avenue"/>
+    <tag k="addr:city" v="Kenner"/>
+    <tag k="addr:postcode" v="70062"/>
+  </node>
+  <node visible="true" id="-52" lat="30.00245986185327851103465946" lon="-90.25389955530384611392946681">
+    <tag k="addr:housenumber" v="2611"/>
+    <tag k="addr:street" v="Helena Avenue"/>
+    <tag k="addr:city" v="Kenner"/>
+    <tag k="addr:postcode" v="70062"/>
+  </node>
+  <node visible="true" id="-53" lat="30.00247799517404700964107178" lon="-90.25382394786613815540476935">
+    <tag k="addr:housenumber" v="2609"/>
+    <tag k="addr:street" v="Helena Avenue"/>
+    <tag k="addr:city" v="Kenner"/>
+    <tag k="addr:postcode" v="70062"/>
+  </node>
+  <node visible="true" id="-54" lat="30.00240578228008558880901546" lon="-90.25340314513427131259959424">
+    <tag k="addr:housenumber" v="2608"/>
+    <tag k="addr:street" v="Helena Avenue"/>
+    <tag k="addr:city" v="Kenner"/>
+    <tag k="addr:postcode" v="70062"/>
+  </node>
+  <node visible="true" id="-55" lat="30.00244526164249947441930999" lon="-90.25326266731885027638782049">
+    <tag k="addr:housenumber" v="2610"/>
+    <tag k="addr:street" v="Helena Avenue"/>
+    <tag k="addr:city" v="Kenner"/>
+    <tag k="addr:postcode" v="70062"/>
+  </node>
+  <node visible="true" id="-56" lat="30.00230542653275378484067915" lon="-90.25328572873098664786084555">
+    <tag k="addr:housenumber" v="2606"/>
+    <tag k="addr:street" v="Helena Avenue"/>
+    <tag k="addr:city" v="Kenner"/>
+    <tag k="addr:postcode" v="70062"/>
+  </node>
+  <node visible="true" id="-57" lat="30.00226895428070506000040041" lon="-90.25341180804753093980252743">
+    <tag k="addr:housenumber" v="2604"/>
+    <tag k="addr:street" v="Helena Avenue"/>
+    <tag k="addr:city" v="Kenner"/>
+    <tag k="addr:postcode" v="70062"/>
+  </node>
+  <node visible="true" id="-58" lat="30.00211950770147240064034122" lon="-90.25340624497086139399470994">
+    <tag k="addr:housenumber" v="2600"/>
+    <tag k="addr:street" v="Helena Avenue"/>
+    <tag k="addr:city" v="Kenner"/>
+    <tag k="addr:postcode" v="70062"/>
+  </node>
+  <node visible="true" id="-59" lat="30.00216565031611182234883017" lon="-90.25331596970760017484280979">
+    <tag k="addr:housenumber" v="2602"/>
+    <tag k="addr:street" v="Helena Avenue"/>
+    <tag k="addr:city" v="Kenner"/>
+    <tag k="addr:postcode" v="70062"/>
+  </node>
+</osm>

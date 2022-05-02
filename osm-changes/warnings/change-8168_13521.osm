@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf8'?>
+<osm version="0.6" generator="AnonymousAlligator's import script">
+  <changeset_tag k="comment" v="Import buildings and addresses in Jefferson Parish, see https://wiki.openstreetmap.org/wiki/Import/Catalogue/Jefferson_Parish_Addresses_and_Buildings"/>
+  <changeset_tag k="source" v="Jefferson Parish Planning Department"/>
+  <changeset_tag k="source_file" v="8168_13521"/>
+  <node visible="true" id="-1" lat="29.97990040376605946903509903" lon="-90.26364477003235720076190773"/>
+  <node visible="true" id="-2" lat="29.98007155876405249728122726" lon="-90.26362929244926647243119078"/>
+  <node visible="true" id="-3" lat="29.98006869043147304410013021" lon="-90.26358408628701113229908515"/>
+  <node visible="true" id="-4" lat="29.97995001116066049462460796" lon="-90.26359541137298947433009744"/>
+  <node visible="true" id="-5" lat="29.97994926434471807397130760" lon="-90.26358034077162528774351813"/>
+  <node visible="true" id="-6" lat="29.97992427347172750273784914" lon="-90.26358204512058591717504896"/>
+  <node visible="true" id="-7" lat="29.97992502118966484658812988" lon="-90.26359711570850663520104717"/>
+  <node visible="true" id="-8" lat="29.97989691117280486309937260" lon="-90.26359957167784386911080219"/>
+  <way visible="true" id="-1">
+    <nd ref="-1"/>
+    <nd ref="-2"/>
+    <nd ref="-3"/>
+    <nd ref="-4"/>
+    <nd ref="-5"/>
+    <nd ref="-6"/>
+    <nd ref="-7"/>
+    <nd ref="-8"/>
+    <nd ref="-1"/>
+    <tag k="building" v="yes"/>
+    <tag k="addr:housenumber" v="616"/>
+    <tag k="addr:street" v="Park Park"/>
+    <tag k="addr:city" v="Kenner"/>
+    <tag k="addr:postcode" v="70062"/>
+  </way>
+  <way id="929812160" version="1">
+    <tag k="addr:housenumber" v="1100"/>
+    <tag k="addr:street" v="Rev Richard Wilson Drive"/>
+    <tag k="addr:city" v="Kenner"/>
+    <tag k="addr:postcode" v="70062"/>
+  </way>
+</osm>

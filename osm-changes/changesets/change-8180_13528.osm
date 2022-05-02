@@ -1,0 +1,70 @@
+<?xml version='1.0' encoding='utf8'?>
+<osm version="0.6" generator="AnonymousAlligator's import script">
+  <changeset_tag k="comment" v="Import buildings and addresses in Jefferson Parish, see https://wiki.openstreetmap.org/wiki/Import/Catalogue/Jefferson_Parish_Addresses_and_Buildings"/>
+  <changeset_tag k="source" v="Jefferson Parish Planning Department"/>
+  <changeset_tag k="source_file" v="8180_13528"/>
+  <node visible="true" id="-1" lat="29.90800943202457773395508411" lon="-90.12815248803133272303966805"/>
+  <node visible="true" id="-2" lat="29.90791262706903097523536417" lon="-90.12823043261759892175177811"/>
+  <node visible="true" id="-3" lat="29.90794182672339474038381013" lon="-90.12827887219400224694254575"/>
+  <node visible="true" id="-4" lat="29.90800822137328651706411620" lon="-90.12822497261363707821146818"/>
+  <node visible="true" id="-5" lat="29.90801457740465352230785356" lon="-90.12823637650147645672404906"/>
+  <node visible="true" id="-6" lat="29.90804560634071762592611776" lon="-90.12821160638574724544014316"/>
+  <way visible="true" id="-1">
+    <nd ref="-1"/>
+    <nd ref="-2"/>
+    <nd ref="-3"/>
+    <nd ref="-4"/>
+    <nd ref="-5"/>
+    <nd ref="-6"/>
+    <nd ref="-1"/>
+    <tag k="building" v="yes"/>
+  </way>
+  <node visible="true" id="-7" lat="29.90754667175572478754475014" lon="-90.12991650728301351591653656"/>
+  <node visible="true" id="-8" lat="29.90749567758855320676047995" lon="-90.12976138784843271878344240"/>
+  <node visible="true" id="-9" lat="29.90736308755349881494112196" lon="-90.12981389907156426488654688"/>
+  <node visible="true" id="-10" lat="29.90740631049969167065682996" lon="-90.12997510288825253610411892"/>
+  <way visible="true" id="-2">
+    <nd ref="-7"/>
+    <nd ref="-8"/>
+    <nd ref="-9"/>
+    <nd ref="-10"/>
+    <nd ref="-7"/>
+    <tag k="building" v="yes"/>
+  </way>
+  <node visible="true" id="-11" lat="29.90768192983061979361991689" lon="-90.13029822508988786466943566"/>
+  <node visible="true" id="-12" lat="29.90762965811978801866644062" lon="-90.13014611454929081446607597"/>
+  <node visible="true" id="-13" lat="29.90748144249904427738329105" lon="-90.13020180961270000352669740"/>
+  <node visible="true" id="-14" lat="29.90753114536375889542796358" lon="-90.13035844226887149943650002"/>
+  <way visible="true" id="-3">
+    <nd ref="-11"/>
+    <nd ref="-12"/>
+    <nd ref="-13"/>
+    <nd ref="-14"/>
+    <nd ref="-11"/>
+    <tag k="building" v="yes"/>
+  </way>
+  <node visible="true" id="-15" lat="29.90770393457140485793388507" lon="-90.13056450589706969367398415"/>
+  <node visible="true" id="-16" lat="29.90769308796151193519108347" lon="-90.13051971361750247524469160"/>
+  <node visible="true" id="-17" lat="29.90758649134432545224626665" lon="-90.13056142850194873972213827"/>
+  <node visible="true" id="-18" lat="29.90759732425724237714348419" lon="-90.13060472447348558944213437"/>
+  <way visible="true" id="-4">
+    <nd ref="-15"/>
+    <nd ref="-16"/>
+    <nd ref="-17"/>
+    <nd ref="-18"/>
+    <nd ref="-15"/>
+    <tag k="building" v="yes"/>
+  </way>
+  <node visible="true" id="-19" lat="29.90803855575427760982165637" lon="-90.12806907229375497081491631">
+    <tag k="addr:housenumber" v="7260"/>
+    <tag k="addr:street" v="River Road"/>
+    <tag k="addr:city" v="Marrero"/>
+    <tag k="addr:postcode" v="70072"/>
+  </node>
+  <node visible="true" id="-20" lat="29.90761790100235373301984509" lon="-90.13044486289631151976209367">
+    <tag k="addr:housenumber" v="201"/>
+    <tag k="addr:street" v="Klein Street"/>
+    <tag k="addr:city" v="Westwego"/>
+    <tag k="addr:postcode" v="70094"/>
+  </node>
+</osm>

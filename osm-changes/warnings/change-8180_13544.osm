@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='utf8'?>
+<osm version="0.6" generator="AnonymousAlligator's import script">
+  <changeset_tag k="comment" v="Import buildings and addresses in Jefferson Parish, see https://wiki.openstreetmap.org/wiki/Import/Catalogue/Jefferson_Parish_Addresses_and_Buildings"/>
+  <changeset_tag k="source" v="Jefferson Parish Planning Department"/>
+  <changeset_tag k="source_file" v="8180_13544"/>
+  <node visible="true" id="-1" lat="29.75923041652875866702743224" lon="-90.12114029395000613931188127"/>
+  <node visible="true" id="-2" lat="29.75939914790352247564442223" lon="-90.12122008861332744800165528"/>
+  <node visible="true" id="-3" lat="29.75944948736825423907248478" lon="-90.12110804203166480874642730"/>
+  <node visible="true" id="-4" lat="29.75941782186670891974245023" lon="-90.12109099176429083399852971"/>
+  <node visible="true" id="-5" lat="29.75944542712953833074607246" lon="-90.12102035352644691101886565"/>
+  <node visible="true" id="-6" lat="29.75935286746061692042530922" lon="-90.12097163744917338590312283"/>
+  <node visible="true" id="-7" lat="29.75931876691484845309787488" lon="-90.12103415639465708864008775"/>
+  <node visible="true" id="-8" lat="29.75928785825470868076081388" lon="-90.12101572376889180304715410"/>
+  <way visible="true" id="-1">
+    <nd ref="-1"/>
+    <nd ref="-2"/>
+    <nd ref="-3"/>
+    <nd ref="-4"/>
+    <nd ref="-5"/>
+    <nd ref="-6"/>
+    <nd ref="-7"/>
+    <nd ref="-8"/>
+    <nd ref="-1"/>
+    <tag k="building" v="yes"/>
+    <tag k="addr:housenumber" v="1450"/>
+    <tag k="addr:street" v="la 45"/>
+    <tag k="addr:city" v="Town Of Lafitte"/>
+    <tag k="addr:postcode" v="70067"/>
+  </way>
+  <node visible="true" id="-9" lat="29.75579129972636138745656353" lon="-90.12335524373909834139340091"/>
+  <node visible="true" id="-10" lat="29.75587796635437243253363704" lon="-90.12340507698696967509022215"/>
+  <node visible="true" id="-11" lat="29.75588807687985948291498062" lon="-90.12338196628428477197303437"/>
+  <node visible="true" id="-12" lat="29.75590757727264090704011323" lon="-90.12339207670916607639810536"/>
+  <node visible="true" id="-13" lat="29.75595012091416435850987909" lon="-90.12329672348344900001393398"/>
+  <node visible="true" id="-14" lat="29.75584257742393390344659565" lon="-90.12323535513615979652968235"/>
+  <way visible="true" id="-2">
+    <nd ref="-9"/>
+    <nd ref="-10"/>
+    <nd ref="-11"/>
+    <nd ref="-12"/>
+    <nd ref="-13"/>
+    <nd ref="-14"/>
+    <nd ref="-9"/>
+    <tag k="building" v="yes"/>
+    <tag k="addr:housenumber" v="1581"/>
+    <tag k="addr:street" v="la 45"/>
+    <tag k="addr:city" v="Town Of Lafitte"/>
+    <tag k="addr:postcode" v="70067"/>
+  </way>
+</osm>

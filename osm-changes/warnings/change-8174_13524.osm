@@ -1,0 +1,65 @@
+<?xml version='1.0' encoding='utf8'?>
+<osm version="0.6" generator="AnonymousAlligator's import script">
+  <changeset_tag k="comment" v="Import buildings and addresses in Jefferson Parish, see https://wiki.openstreetmap.org/wiki/Import/Catalogue/Jefferson_Parish_Addresses_and_Buildings"/>
+  <changeset_tag k="source" v="Jefferson Parish Planning Department"/>
+  <changeset_tag k="source_file" v="8174_13524"/>
+  <node visible="true" id="-1" lat="29.94751402948521601388165436" lon="-90.19114511726714056294440525"/>
+  <node visible="true" id="-2" lat="29.94764473949387806328559236" lon="-90.19100795468403930499334820"/>
+  <node visible="true" id="-3" lat="29.94762133743002863184301532" lon="-90.19097663904716455363086425"/>
+  <node visible="true" id="-4" lat="29.94749189117052878827962559" lon="-90.19111522306985762043041177"/>
+  <way visible="true" id="-1">
+    <nd ref="-1"/>
+    <nd ref="-2"/>
+    <nd ref="-3"/>
+    <nd ref="-4"/>
+    <nd ref="-1"/>
+    <tag k="building" v="yes"/>
+    <tag k="addr:street" v="D Street"/>
+    <tag k="addr:city" v="Jefferson"/>
+    <tag k="addr:postcode" v="70123"/>
+  </way>
+  <node visible="true" id="-5" lat="29.94757325360759381283060065" lon="-90.19177467794131075606856029"/>
+  <node visible="true" id="-6" lat="29.94768594276543893784037209" lon="-90.19164992535438329923636047"/>
+  <node visible="true" id="-7" lat="29.94765810414722650989460817" lon="-90.19161148186168475149315782"/>
+  <node visible="true" id="-8" lat="29.94754358308983555048143899" lon="-90.19174128001644419327931246"/>
+  <way visible="true" id="-2">
+    <nd ref="-5"/>
+    <nd ref="-6"/>
+    <nd ref="-7"/>
+    <nd ref="-8"/>
+    <nd ref="-5"/>
+    <tag k="building" v="yes"/>
+    <tag k="addr:street" v="Susitna Drive"/>
+    <tag k="addr:city" v="Jefferson"/>
+    <tag k="addr:postcode" v="70123"/>
+  </way>
+  <node visible="true" id="-9" lat="29.95460726491079128663841402" lon="-90.19043177034492941857024562"/>
+  <node visible="true" id="-10" lat="29.95442723259960615678210161" lon="-90.19107990614557479602808598"/>
+  <node visible="true" id="-11" lat="29.95442911435630506389315997" lon="-90.19108060260181503053900087"/>
+  <node visible="true" id="-12" lat="29.95442545677067514020563976" lon="-90.19109141236675952768564457"/>
+  <node visible="true" id="-13" lat="29.95461924057989833158899273" lon="-90.19116313447408117554005003"/>
+  <node visible="true" id="-14" lat="29.95462289193964267042247229" lon="-90.19115160676292930475028697"/>
+  <node visible="true" id="-15" lat="29.95479095459146279267770296" lon="-90.19121285456796499602205586"/>
+  <node visible="true" id="-16" lat="29.95497099377440264333927189" lon="-90.19056543353900678994250484"/>
+  <way visible="true" id="-3">
+    <nd ref="-9"/>
+    <nd ref="-10"/>
+    <nd ref="-11"/>
+    <nd ref="-12"/>
+    <nd ref="-13"/>
+    <nd ref="-14"/>
+    <nd ref="-15"/>
+    <nd ref="-16"/>
+    <nd ref="-9"/>
+    <tag k="building" v="yes"/>
+    <tag k="addr:housenumber" v="5601"/>
+    <tag k="addr:street" v="Caterpillar Point"/>
+    <tag k="addr:city" v="Jefferson"/>
+    <tag k="addr:postcode" v="70123"/>
+  </way>
+  <node visible="true" id="-17" lat="29.94659956880910911536375352" lon="-90.18858321519411447297898121">
+    <tag k="addr:street" v="Plauche Street"/>
+    <tag k="addr:city" v="Jefferson"/>
+    <tag k="addr:postcode" v="70123"/>
+  </node>
+</osm>

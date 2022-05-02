@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf8'?>
+<osm version="0.6" generator="AnonymousAlligator's import script">
+  <changeset_tag k="comment" v="Import buildings and addresses in Jefferson Parish, see https://wiki.openstreetmap.org/wiki/Import/Catalogue/Jefferson_Parish_Addresses_and_Buildings"/>
+  <changeset_tag k="source" v="Jefferson Parish Planning Department"/>
+  <changeset_tag k="source_file" v="8176_13528"/>
+  <node visible="true" id="-1" lat="29.91079045312554995916798362" lon="-90.16928440240729969445965253"/>
+  <node visible="true" id="-2" lat="29.91073623355650212829459633" lon="-90.16909129700606229107506806"/>
+  <node visible="true" id="-3" lat="29.91046754486013270479816128" lon="-90.16917479561891468620160595"/>
+  <node visible="true" id="-4" lat="29.91053689919127123175712768" lon="-90.16938279231933961455069948"/>
+  <way visible="true" id="-1">
+    <nd ref="-1"/>
+    <nd ref="-2"/>
+    <nd ref="-3"/>
+    <nd ref="-4"/>
+    <nd ref="-1"/>
+    <tag k="building" v="yes"/>
+    <tag k="addr:street" v="Westbank Expressway"/>
+    <tag k="addr:city" v="Avondale"/>
+    <tag k="addr:postcode" v="70094"/>
+  </way>
+  <node visible="true" id="-5" lat="29.91073083222182305007663672" lon="-90.17430744496545003130449913">
+    <tag k="addr:housenumber" v="2123"/>
+    <tag k="addr:street" v="Highway 90"/>
+    <tag k="addr:city" v="Avondale"/>
+    <tag k="addr:postcode" v="70094"/>
+  </node>
+</osm>

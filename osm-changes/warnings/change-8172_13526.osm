@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='utf8'?>
+<osm version="0.6" generator="AnonymousAlligator's import script">
+  <changeset_tag k="comment" v="Import buildings and addresses in Jefferson Parish, see https://wiki.openstreetmap.org/wiki/Import/Catalogue/Jefferson_Parish_Addresses_and_Buildings"/>
+  <changeset_tag k="source" v="Jefferson Parish Planning Department"/>
+  <changeset_tag k="source_file" v="8172_13526"/>
+  <node visible="true" id="-1" lat="29.93477100047145356143118988" lon="-90.21170861866069401457934873"/>
+  <node visible="true" id="-2" lat="29.93480271943409221080401039" lon="-90.21169810240790809530153638"/>
+  <node visible="true" id="-3" lat="29.93481494102455542360985419" lon="-90.21174669220873454378306633"/>
+  <node visible="true" id="-4" lat="29.93486612806114877116669959" lon="-90.21172972022023373028787319"/>
+  <node visible="true" id="-5" lat="29.93485390646447541485031252" lon="-90.21168113039659885998844402"/>
+  <node visible="true" id="-6" lat="29.93489231336579337039438542" lon="-90.21166836778304798372118967"/>
+  <node visible="true" id="-7" lat="29.93488065020751420775013685" lon="-90.21162210445004348002839833"/>
+  <node visible="true" id="-8" lat="29.93486200995733526042386075" lon="-90.21162829919533976408274611"/>
+  <node visible="true" id="-9" lat="29.93482727709785962133537396" lon="-90.21149051740503921337221982"/>
+  <node visible="true" id="-10" lat="29.93472442323482596293615643" lon="-90.21152468866570472982857609"/>
+  <way visible="true" id="-1">
+    <nd ref="-1"/>
+    <nd ref="-2"/>
+    <nd ref="-3"/>
+    <nd ref="-4"/>
+    <nd ref="-5"/>
+    <nd ref="-6"/>
+    <nd ref="-7"/>
+    <nd ref="-8"/>
+    <nd ref="-9"/>
+    <nd ref="-10"/>
+    <nd ref="-1"/>
+    <tag k="building" v="yes"/>
+    <tag k="addr:housenumber" v="8200"/>
+    <tag k="addr:street" v="Murelsan Street"/>
+    <tag k="addr:city" v="Harahan"/>
+    <tag k="addr:postcode" v="70123"/>
+  </way>
+  <node visible="true" id="-11" lat="29.93544184837659827280731406" lon="-90.21265674238939880069665378"/>
+  <node visible="true" id="-12" lat="29.93539631627530894775190973" lon="-90.21248551121836101174267242"/>
+  <node visible="true" id="-13" lat="29.93531113565178003455002909" lon="-90.21252020309664487740519689"/>
+  <node visible="true" id="-14" lat="29.93535529337030354213311512" lon="-90.21268684926231173903943272"/>
+  <way visible="true" id="-2">
+    <nd ref="-11"/>
+    <nd ref="-12"/>
+    <nd ref="-13"/>
+    <nd ref="-14"/>
+    <nd ref="-11"/>
+    <tag k="building" v="yes"/>
+    <tag k="addr:housenumber" v="8351"/>
+    <tag k="addr:street" v="Murelsan Street"/>
+    <tag k="addr:city" v="Harahan"/>
+    <tag k="addr:postcode" v="70123"/>
+  </way>
+</osm>

@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='utf8'?>
+<osm version="0.6" generator="AnonymousAlligator's import script">
+  <changeset_tag k="comment" v="Import buildings and addresses in Jefferson Parish, see https://wiki.openstreetmap.org/wiki/Import/Catalogue/Jefferson_Parish_Addresses_and_Buildings"/>
+  <changeset_tag k="source" v="Jefferson Parish Planning Department"/>
+  <changeset_tag k="source_file" v="8176_13530"/>
+  <node visible="true" id="-1" lat="29.89370970278623573790355294" lon="-90.17284214446196699555002851"/>
+  <node visible="true" id="-2" lat="29.89370992434712093199777883" lon="-90.17286725139032910192327108"/>
+  <node visible="true" id="-3" lat="29.89381999203053652536254958" lon="-90.17287242910958866559667513"/>
+  <node visible="true" id="-4" lat="29.89381977047061766938895744" lon="-90.17284732215352960338350385"/>
+  <way visible="true" id="-1">
+    <nd ref="-1"/>
+    <nd ref="-2"/>
+    <nd ref="-3"/>
+    <nd ref="-4"/>
+    <nd ref="-1"/>
+    <tag k="building" v="yes"/>
+  </way>
+  <node visible="true" id="-5" lat="29.89503730313774809701499180" lon="-90.16793772953008101467275992">
+    <tag k="addr:housenumber" v="10127"/>
+    <tag k="addr:street" v="Nicolle Boulevard"/>
+    <tag k="addr:city" v="Bridge City"/>
+    <tag k="addr:postcode" v="70094"/>
+    <tag k="addr:unit" v="Temp_Trlr"/>
+  </node>
+  <node visible="true" id="-6" lat="29.89421951125418530637034564" lon="-90.16831986493305350904847728">
+    <tag k="addr:housenumber" v="10139"/>
+    <tag k="addr:street" v="Nicolle Boulevard"/>
+    <tag k="addr:city" v="Bridge City"/>
+    <tag k="addr:postcode" v="70094"/>
+    <tag k="addr:unit" v="Bp"/>
+  </node>
+  <node visible="true" id="-7" lat="29.89092847071623637589254940" lon="-90.17030114383280192669190001">
+    <tag k="addr:housenumber" v="10179"/>
+    <tag k="addr:street" v="Nicolle Boulevard"/>
+    <tag k="addr:city" v="Bridge City"/>
+    <tag k="addr:postcode" v="70094"/>
+  </node>
+</osm>

@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='utf8'?>
+<osm version="0.6" generator="AnonymousAlligator's import script">
+  <changeset_tag k="comment" v="Import buildings and addresses in Jefferson Parish, see https://wiki.openstreetmap.org/wiki/Import/Catalogue/Jefferson_Parish_Addresses_and_Buildings"/>
+  <changeset_tag k="source" v="Jefferson Parish Planning Department"/>
+  <changeset_tag k="source_file" v="8180_13516"/>
+  <node visible="true" id="-1" lat="30.02165946571226484707040072" lon="-90.12222999576489712580951164"/>
+  <node visible="true" id="-2" lat="30.02165318626300205551160616" lon="-90.12214799042105539683689130"/>
+  <node visible="true" id="-3" lat="30.02157747590635139545156562" lon="-90.12215435209323288745508762"/>
+  <node visible="true" id="-4" lat="30.02158216830980563827324659" lon="-90.12223546947222985181724653"/>
+  <way visible="true" id="-1">
+    <nd ref="-1"/>
+    <nd ref="-2"/>
+    <nd ref="-3"/>
+    <nd ref="-4"/>
+    <nd ref="-1"/>
+    <tag k="building" v="yes"/>
+  </way>
+  <node visible="true" id="-5" lat="30.02158331786574407828993571" lon="-90.12194938516229569813731359">
+    <tag k="addr:housenumber" v="1838"/>
+    <tag k="addr:street" v="Orpheum Avenue"/>
+    <tag k="addr:city" v="Metairie"/>
+    <tag k="addr:postcode" v="70005"/>
+  </node>
+  <node visible="true" id="-6" lat="30.02201296082598958037124248" lon="-90.12195383245672530847514281">
+    <tag k="addr:housenumber" v="1848"/>
+    <tag k="addr:street" v="Orpheum Avenue"/>
+    <tag k="addr:city" v="Metairie"/>
+    <tag k="addr:postcode" v="70005"/>
+  </node>
+  <node visible="true" id="-7" lat="30.02259353181285206346728955" lon="-90.12180591308644750370149268">
+    <tag k="addr:housenumber" v="1858"/>
+    <tag k="addr:street" v="Orpheum Avenue"/>
+    <tag k="addr:city" v="Metairie"/>
+    <tag k="addr:postcode" v="70005"/>
+  </node>
+  <node visible="true" id="-8" lat="30.02304871918183337697882962" lon="-90.12177595040581934426882071">
+    <tag k="addr:housenumber" v="1868"/>
+    <tag k="addr:street" v="Orpheum Avenue"/>
+    <tag k="addr:city" v="Metairie"/>
+    <tag k="addr:postcode" v="70005"/>
+  </node>
+</osm>

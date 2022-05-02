@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='utf8'?>
+<osm version="0.6" generator="AnonymousAlligator's import script">
+  <changeset_tag k="comment" v="Import buildings and addresses in Jefferson Parish, see https://wiki.openstreetmap.org/wiki/Import/Catalogue/Jefferson_Parish_Addresses_and_Buildings"/>
+  <changeset_tag k="source" v="Jefferson Parish Planning Department"/>
+  <changeset_tag k="source_file" v="8174_13529"/>
+  <node visible="true" id="-1" lat="29.90239540493904968343485962" lon="-90.18784428570336331176804379"/>
+  <node visible="true" id="-2" lat="29.90233800275426290227187565" lon="-90.18767618168048727511632023"/>
+  <node visible="true" id="-3" lat="29.90202757686124002134420152" lon="-90.18781732222751656991022173"/>
+  <node visible="true" id="-4" lat="29.90208491497026699335037847" lon="-90.18797808878387911590834847"/>
+  <way visible="true" id="-1">
+    <nd ref="-1"/>
+    <nd ref="-2"/>
+    <nd ref="-3"/>
+    <nd ref="-4"/>
+    <nd ref="-1"/>
+    <tag k="building" v="yes"/>
+  </way>
+  <node visible="true" id="-5" lat="29.90192017047355221848192741" lon="-90.18722972172189145112497499"/>
+  <node visible="true" id="-6" lat="29.90188069727662423247238621" lon="-90.18710176850636628387292149"/>
+  <node visible="true" id="-7" lat="29.90185204373112526354816509" lon="-90.18711493801677647752512712"/>
+  <node visible="true" id="-8" lat="29.90183555176625418425828684" lon="-90.18705642751314144334173761"/>
+  <node visible="true" id="-9" lat="29.90178300756038254348823102" lon="-90.18707904402283759281999664"/>
+  <node visible="true" id="-10" lat="29.90184371866057588817966462" lon="-90.18725994931932632425741758"/>
+  <way visible="true" id="-2">
+    <nd ref="-5"/>
+    <nd ref="-6"/>
+    <nd ref="-7"/>
+    <nd ref="-8"/>
+    <nd ref="-9"/>
+    <nd ref="-10"/>
+    <nd ref="-5"/>
+    <tag k="building" v="yes"/>
+  </way>
+  <way id="316395627" version="1">
+    <tag k="addr:housenumber" v="11001"/>
+    <tag k="addr:street" v="Lapalco Boulevard"/>
+    <tag k="addr:city" v="Avondale"/>
+    <tag k="addr:postcode" v="70094"/>
+  </way>
+</osm>

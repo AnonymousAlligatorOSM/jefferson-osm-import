@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf8'?>
+<osm version="0.6" generator="AnonymousAlligator's import script">
+  <changeset_tag k="comment" v="Import buildings and addresses in Jefferson Parish, see https://wiki.openstreetmap.org/wiki/Import/Catalogue/Jefferson_Parish_Addresses_and_Buildings"/>
+  <changeset_tag k="source" v="Jefferson Parish Planning Department"/>
+  <changeset_tag k="source_file" v="8173_13525"/>
+  <node visible="true" id="-1" lat="29.93599315486867240565516113" lon="-90.19774137006446323994168779"/>
+  <node visible="true" id="-2" lat="29.93590743515528629359323531" lon="-90.19773229637917211221065372"/>
+  <node visible="true" id="-3" lat="29.93588337974707158650744532" lon="-90.19797256973436105909058824"/>
+  <node visible="true" id="-4" lat="29.93593543759790875924409193" lon="-90.19797965337069456381868804"/>
+  <node visible="true" id="-5" lat="29.93593532720458583185063617" lon="-90.19796686151779852025356377"/>
+  <node visible="true" id="-6" lat="29.93597246432994296583274263" lon="-90.19796643903016786225634860"/>
+  <way visible="true" id="-1">
+    <nd ref="-1"/>
+    <nd ref="-2"/>
+    <nd ref="-3"/>
+    <nd ref="-4"/>
+    <nd ref="-5"/>
+    <nd ref="-6"/>
+    <nd ref="-1"/>
+    <tag k="building" v="yes"/>
+    <tag k="addr:housenumber" v="184"/>
+    <tag k="addr:street" v="Oakland Avenue"/>
+    <tag k="addr:city" v="Harahan"/>
+    <tag k="addr:postcode" v="70123"/>
+  </way>
+  <node visible="true" id="-7" lat="29.94498689477455499741154199" lon="-90.20027995864954561966442270">
+    <tag k="addr:street" v="6th Street"/>
+    <tag k="addr:city" v="Harahan"/>
+    <tag k="addr:postcode" v="70123"/>
+  </node>
+</osm>
