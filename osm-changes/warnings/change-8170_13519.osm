@@ -3,29 +3,39 @@
   <changeset_tag k="comment" v="Import buildings and addresses in Jefferson Parish, see https://wiki.openstreetmap.org/wiki/Import/Catalogue/Jefferson_Parish_Addresses_and_Buildings"/>
   <changeset_tag k="source" v="Jefferson Parish Planning Department"/>
   <changeset_tag k="source_file" v="8170_13519"/>
-  <node visible="true" id="-1" lat="29.99717917554458423978758219" lon="-90.23600975990444794661016203"/>
-  <node visible="true" id="-2" lat="29.99709295975339884421373426" lon="-90.23601573553271748551196652"/>
-  <node visible="true" id="-3" lat="29.99709770019174825961272290" lon="-90.23605949152053540274209809"/>
-  <node visible="true" id="-4" lat="29.99711332682053210874073557" lon="-90.23605931960349835208035074"/>
-  <node visible="true" id="-5" lat="29.99711445802027753870788729" lon="-90.23619504038310878968331963"/>
-  <node visible="true" id="-6" lat="29.99719444693131009671560605" lon="-90.23619200661744343960890546"/>
-  <way visible="true" id="-1">
-    <nd ref="-1"/>
-    <nd ref="-2"/>
-    <nd ref="-3"/>
-    <nd ref="-4"/>
-    <nd ref="-5"/>
-    <nd ref="-6"/>
-    <nd ref="-1"/>
-    <tag k="building" v="yes"/>
-    <tag k="addr:housenumber" v="2244"/>
-    <tag k="addr:street" v="West Napoleon Avenue South"/>
-    <tag k="addr:city" v="Kenner"/>
-    <tag k="addr:postcode" v="70062"/>
-  </way>
-  <node visible="true" id="-7" lat="29.99724643230272036475980713" lon="-90.23950936206152562135685002">
+  <node visible="true" id="-1" lat="29.99724643230272036475980713" lon="-90.23950936206152562135685002">
     <tag k="addr:street" v="Idaho Avenue"/>
     <tag k="addr:city" v="Kenner"/>
     <tag k="addr:postcode" v="70062"/>
   </node>
+  <way id="867124964" version="2" action="modify">
+    <tag k="addr:housenumber" v="2141"/>
+    <tag k="building" v="house"/>
+    <tag k="addr:street" v="Roosevelt Boulevard"/>
+    <tag k="addr:city" v="Kenner"/>
+    <tag k="addr:postcode" v="70062"/>
+    <nd ref="8082671250"/>
+    <nd ref="8082671251"/>
+    <nd ref="8082671252"/>
+    <nd ref="8082671253"/>
+    <nd ref="8082671250"/>
+  </way>
+  <way id="870570279" version="1" action="modify">
+    <tag k="building" v="house"/>
+    <tag k="addr:housenumber" v="2244"/>
+    <tag k="addr:street" v="West Napoleon Avenue South"/>
+    <tag k="addr:city" v="Kenner"/>
+    <tag k="addr:postcode" v="70062"/>
+    <nd ref="8109669663"/>
+    <nd ref="8109669664"/>
+    <nd ref="8109669665"/>
+    <nd ref="8109669666"/>
+    <nd ref="8109669667"/>
+    <nd ref="8109669668"/>
+    <nd ref="8109669669"/>
+    <nd ref="8109669670"/>
+    <nd ref="8109669671"/>
+    <nd ref="8109669672"/>
+    <nd ref="8109669663"/>
+  </way>
 </osm>

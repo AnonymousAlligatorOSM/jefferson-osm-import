@@ -3,24 +3,24 @@
   <changeset_tag k="comment" v="Import buildings and addresses in Jefferson Parish, see https://wiki.openstreetmap.org/wiki/Import/Catalogue/Jefferson_Parish_Addresses_and_Buildings"/>
   <changeset_tag k="source" v="Jefferson Parish Planning Department"/>
   <changeset_tag k="source_file" v="8185_13527"/>
-  <node visible="true" id="-1" lat="29.91685867791151309802444302" lon="-90.06615795644358968274900690">
+  <node visible="true" id="-1" lat="29.91781718950959501057695888" lon="-90.06596981798296042143192608"/>
+  <node visible="true" id="-2" lat="29.91769759632252245751260489" lon="-90.06586624378101646470895503"/>
+  <node visible="true" id="-3" lat="29.91761018363993329671757238" lon="-90.06600059726825691086560255"/>
+  <node visible="true" id="-4" lat="29.91772977693199209170415998" lon="-90.06610417147018665673385840"/>
+  <way visible="true" id="-1">
+    <nd ref="-1"/>
+    <nd ref="-2"/>
+    <nd ref="-3"/>
+    <nd ref="-4"/>
+    <nd ref="-1"/>
+    <tag k="building" v="yes"/>
+  </way>
+  <node visible="true" id="-5" lat="29.91685867791151309802444302" lon="-90.06615795644358968274900690">
     <tag k="addr:housenumber" v="204"/>
     <tag k="addr:street" v="Huey P Long Avenue"/>
     <tag k="addr:city" v="Gretna"/>
     <tag k="addr:postcode" v="70053"/>
   </node>
-  <node visible="true" id="-2" lat="29.91772979570419721540019964" lon="-90.06610387251947713593835942"/>
-  <node visible="true" id="-3" lat="29.91781743259188885986077366" lon="-90.06596971446208499401109293"/>
-  <node visible="true" id="-4" lat="29.91769770207904954872901726" lon="-90.06586664941535502748592990"/>
-  <node visible="true" id="-5" lat="29.91760981602829971848223067" lon="-90.06600059410551750715967501"/>
-  <way visible="true" id="-1">
-    <nd ref="-2"/>
-    <nd ref="-3"/>
-    <nd ref="-4"/>
-    <nd ref="-5"/>
-    <nd ref="-2"/>
-    <tag k="building" v="yes"/>
-  </way>
   <node visible="true" id="-6" lat="29.91772094801282833032018971" lon="-90.06669826794937705471966183"/>
   <node visible="true" id="-7" lat="29.91762473283477064001090184" lon="-90.06660137270678490040154429"/>
   <node visible="true" id="-8" lat="29.91753586060402980706385279" lon="-90.06652571678651497677492443"/>
@@ -43,16 +43,16 @@
     <tag k="addr:city" v="Gretna"/>
     <tag k="addr:postcode" v="70053"/>
   </way>
-  <node visible="true" id="-13" lat="29.91731277831965130076241621" lon="-90.06741534711964902726322180"/>
-  <node visible="true" id="-14" lat="29.91729115730712607046370977" lon="-90.06739454486550755518692313"/>
-  <node visible="true" id="-15" lat="29.91730006596149848974164343" lon="-90.06736632924581442694034195"/>
-  <node visible="true" id="-16" lat="29.91695140550578813076754159" lon="-90.06706865046807308772258693"/>
-  <node visible="true" id="-17" lat="29.91693627638228036857981351" lon="-90.06708640673424781653011451"/>
-  <node visible="true" id="-18" lat="29.91689935621234752716190997" lon="-90.06706579767406140035745921"/>
-  <node visible="true" id="-19" lat="29.91670939777413096294367278" lon="-90.06735976925935460712935310"/>
-  <node visible="true" id="-20" lat="29.91673713789053934419825964" lon="-90.06738049377911181636591209"/>
-  <node visible="true" id="-21" lat="29.91673118782079043853627809" lon="-90.06739813354735701977915596"/>
-  <node visible="true" id="-22" lat="29.91710748621631310584234598" lon="-90.06770600058581521807354875"/>
+  <node visible="true" id="-13" lat="29.91729083724930404741826351" lon="-90.06739555855718037946644472"/>
+  <node visible="true" id="-14" lat="29.91730051747020624475226214" lon="-90.06736489922079158532142173"/>
+  <node visible="true" id="-15" lat="29.91694939379372186749606044" lon="-90.06706876463510980102000758"/>
+  <node visible="true" id="-16" lat="29.91693770905235538748456747" lon="-90.06708720645947607863490703"/>
+  <node visible="true" id="-17" lat="29.91689799039607322583833593" lon="-90.06706503526737606080132537"/>
+  <node visible="true" id="-18" lat="29.91671115426141014381755667" lon="-90.06735991508226391033531399"/>
+  <node visible="true" id="-19" lat="29.91673678716322726245380181" lon="-90.06738153355661324894754216"/>
+  <node visible="true" id="-20" lat="29.91673243506033941230271012" lon="-90.06739443594094041145581286"/>
+  <node visible="true" id="-21" lat="29.91711241200615134516738181" lon="-90.06771490446551808872754918"/>
+  <node visible="true" id="-22" lat="29.91730642134915640895087563" lon="-90.06740870207131877123174490"/>
   <way visible="true" id="-3">
     <nd ref="-13"/>
     <nd ref="-14"/>

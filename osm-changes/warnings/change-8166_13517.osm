@@ -18,6 +18,7 @@
     <nd ref="-6"/>
     <nd ref="-1"/>
     <tag k="building" v="yes"/>
+    <tag k="building:levels" v="2"/>
     <tag k="addr:housenumber" v="3"/>
     <tag k="addr:street" v="North Lafourche Court"/>
     <tag k="addr:city" v="Kenner"/>
@@ -34,17 +35,18 @@
     <nd ref="-10"/>
     <nd ref="-7"/>
     <tag k="building" v="yes"/>
+    <tag k="building:levels" v="2"/>
     <tag k="addr:housenumber" v="1"/>
     <tag k="addr:street" v="North Lafourche Court"/>
     <tag k="addr:city" v="Kenner"/>
     <tag k="addr:postcode" v="70065"/>
   </way>
-  <node visible="true" id="-11" lat="30.01738235036059876392755541" lon="-90.27801400536873188684694469"/>
-  <node visible="true" id="-12" lat="30.01723285941663732501183404" lon="-90.27801383953288905104272999"/>
-  <node visible="true" id="-13" lat="30.01723680222251999794025323" lon="-90.27819533314898592379904585"/>
-  <node visible="true" id="-14" lat="30.01732502906028088318635128" lon="-90.27819347070119704312674003"/>
-  <node visible="true" id="-15" lat="30.01732553598647612602690060" lon="-90.27810080350197097232012311"/>
-  <node visible="true" id="-16" lat="30.01738179078603963034765911" lon="-90.27810020820319891754479613"/>
+  <node visible="true" id="-11" lat="30.01723285943014829513231234" lon="-90.27801383953291747275216039"/>
+  <node visible="true" id="-12" lat="30.01723680222251999794025323" lon="-90.27819533314898592379904585"/>
+  <node visible="true" id="-13" lat="30.01732502906026667233163607" lon="-90.27819347070119704312674003"/>
+  <node visible="true" id="-14" lat="30.01732553598646902059954300" lon="-90.27810080350195676146540791"/>
+  <node visible="true" id="-15" lat="30.01738179078698820489989885" lon="-90.27810020820318470669008093"/>
+  <node visible="true" id="-16" lat="30.01738235036057744764548261" lon="-90.27801400536874609770165989"/>
   <way visible="true" id="-3">
     <nd ref="-11"/>
     <nd ref="-12"/>
@@ -54,15 +56,16 @@
     <nd ref="-16"/>
     <nd ref="-11"/>
     <tag k="building" v="yes"/>
+    <tag k="building:levels" v="2"/>
     <tag k="addr:housenumber" v="5"/>
     <tag k="addr:street" v="North Lafourche Court"/>
     <tag k="addr:city" v="Kenner"/>
     <tag k="addr:postcode" v="70065"/>
   </way>
-  <node visible="true" id="-17" lat="30.01737728705970198461727705" lon="-90.27738482067375969108979916"/>
-  <node visible="true" id="-18" lat="30.01724104265603187968736165" lon="-90.27738841771153488480194937"/>
-  <node visible="true" id="-19" lat="30.01724415075004870345765084" lon="-90.27754210297425174758245703"/>
-  <node visible="true" id="-20" lat="30.01738039514952305353290285" lon="-90.27753850510971744824928464"/>
+  <node visible="true" id="-17" lat="30.01724105964655464617862890" lon="-90.27738843665379420144745382"/>
+  <node visible="true" id="-18" lat="30.01724413452740236607496627" lon="-90.27754212238943409829516895"/>
+  <node visible="true" id="-19" lat="30.01738037815935200569583685" lon="-90.27753848658083768441429129"/>
+  <node visible="true" id="-20" lat="30.01737730328236963828203443" lon="-90.27738480084518357671186095"/>
   <way visible="true" id="-4">
     <nd ref="-17"/>
     <nd ref="-18"/>
@@ -75,141 +78,346 @@
     <tag k="addr:city" v="Kenner"/>
     <tag k="addr:postcode" v="70065"/>
   </way>
-  <way id="974841598" version="1">
+  <way id="974841598" version="1" action="modify">
+    <tag k="building" v="yes"/>
     <tag k="addr:street" v="Incarnate Word Drive"/>
     <tag k="addr:city" v="Kenner"/>
     <tag k="addr:postcode" v="70065"/>
+    <nd ref="9021378955"/>
+    <nd ref="9021378956"/>
+    <nd ref="9021378957"/>
+    <nd ref="9021378958"/>
+    <nd ref="9021378955"/>
   </way>
-  <way id="975714455" version="1">
+  <way id="975714455" version="1" action="modify">
+    <tag k="building" v="yes"/>
     <tag k="addr:housenumber" v="117"/>
     <tag k="addr:street" v="William And Mary Place"/>
     <tag k="addr:city" v="Kenner"/>
     <tag k="addr:postcode" v="70065"/>
+    <nd ref="9029177638"/>
+    <nd ref="9029177639"/>
+    <nd ref="9029177640"/>
+    <nd ref="9029177641"/>
+    <nd ref="9029177638"/>
   </way>
-  <way id="975714456" version="1">
+  <way id="975714456" version="1" action="modify">
+    <tag k="building" v="yes"/>
     <tag k="addr:housenumber" v="113"/>
     <tag k="addr:street" v="William And Mary Place"/>
     <tag k="addr:city" v="Kenner"/>
     <tag k="addr:postcode" v="70065"/>
+    <nd ref="9029177642"/>
+    <nd ref="9029177643"/>
+    <nd ref="9029177644"/>
+    <nd ref="9029177645"/>
+    <nd ref="9029177646"/>
+    <nd ref="9029177647"/>
+    <nd ref="9029177648"/>
+    <nd ref="9029177649"/>
+    <nd ref="9029177642"/>
   </way>
-  <way id="975714457" version="1">
+  <way id="975714457" version="1" action="modify">
+    <tag k="building" v="yes"/>
     <tag k="addr:housenumber" v="109"/>
     <tag k="addr:street" v="William And Mary Place"/>
     <tag k="addr:city" v="Kenner"/>
     <tag k="addr:postcode" v="70065"/>
+    <nd ref="9029177650"/>
+    <nd ref="9029177651"/>
+    <nd ref="9029177652"/>
+    <nd ref="9029177653"/>
+    <nd ref="9029177654"/>
+    <nd ref="9029177655"/>
+    <nd ref="9029177656"/>
+    <nd ref="9029177657"/>
+    <nd ref="9029177650"/>
   </way>
-  <way id="975714458" version="1">
+  <way id="975714458" version="1" action="modify">
+    <tag k="building" v="yes"/>
     <tag k="addr:housenumber" v="105"/>
     <tag k="addr:street" v="William And Mary Place"/>
     <tag k="addr:city" v="Kenner"/>
     <tag k="addr:postcode" v="70065"/>
+    <nd ref="9029177658"/>
+    <nd ref="9029177659"/>
+    <nd ref="9029177660"/>
+    <nd ref="9029177661"/>
+    <nd ref="9029177662"/>
+    <nd ref="9029177663"/>
+    <nd ref="9029177664"/>
+    <nd ref="9029177665"/>
+    <nd ref="9029177658"/>
   </way>
-  <way id="975714459" version="1">
+  <way id="975714459" version="1" action="modify">
+    <tag k="building" v="yes"/>
     <tag k="addr:housenumber" v="101"/>
     <tag k="addr:street" v="William And Mary Place"/>
     <tag k="addr:city" v="Kenner"/>
     <tag k="addr:postcode" v="70065"/>
+    <nd ref="9029177666"/>
+    <nd ref="9029177667"/>
+    <nd ref="9029177668"/>
+    <nd ref="9029177669"/>
+    <nd ref="9029177666"/>
   </way>
-  <way id="975714460" version="1">
+  <way id="975714460" version="1" action="modify">
+    <tag k="building" v="yes"/>
     <tag k="addr:housenumber" v="97"/>
     <tag k="addr:street" v="William And Mary Place"/>
     <tag k="addr:city" v="Kenner"/>
     <tag k="addr:postcode" v="70065"/>
+    <nd ref="9029177670"/>
+    <nd ref="9029177671"/>
+    <nd ref="9029177672"/>
+    <nd ref="9029177673"/>
+    <nd ref="9029177674"/>
+    <nd ref="9029177675"/>
+    <nd ref="9029177676"/>
+    <nd ref="9029177677"/>
+    <nd ref="9029177670"/>
   </way>
-  <way id="975714461" version="1">
+  <way id="975714461" version="1" action="modify">
+    <tag k="building" v="yes"/>
     <tag k="addr:housenumber" v="93"/>
     <tag k="addr:street" v="William And Mary Place"/>
     <tag k="addr:city" v="Kenner"/>
     <tag k="addr:postcode" v="70065"/>
+    <nd ref="9029177678"/>
+    <nd ref="9029177679"/>
+    <nd ref="9029177680"/>
+    <nd ref="9029177681"/>
+    <nd ref="9029177682"/>
+    <nd ref="9029177683"/>
+    <nd ref="9029177684"/>
+    <nd ref="9029177685"/>
+    <nd ref="9029177686"/>
+    <nd ref="9029177687"/>
+    <nd ref="9029177678"/>
   </way>
-  <way id="975714462" version="1">
+  <way id="975714462" version="1" action="modify">
+    <tag k="building" v="yes"/>
     <tag k="addr:housenumber" v="89"/>
     <tag k="addr:street" v="William And Mary Place"/>
     <tag k="addr:city" v="Kenner"/>
     <tag k="addr:postcode" v="70065"/>
+    <nd ref="9029177688"/>
+    <nd ref="9029177689"/>
+    <nd ref="9029177690"/>
+    <nd ref="9029177691"/>
+    <nd ref="9029177692"/>
+    <nd ref="9029177693"/>
+    <nd ref="9029177694"/>
+    <nd ref="9029177695"/>
+    <nd ref="9029177688"/>
   </way>
-  <way id="975714472" version="1">
+  <way id="975714472" version="1" action="modify">
+    <tag k="building" v="yes"/>
     <tag k="addr:housenumber" v="110"/>
     <tag k="addr:street" v="William And Mary Place"/>
     <tag k="addr:city" v="Kenner"/>
     <tag k="addr:postcode" v="70065"/>
+    <nd ref="9029177756"/>
+    <nd ref="9029177757"/>
+    <nd ref="9029177758"/>
+    <nd ref="9029177759"/>
+    <nd ref="9029177756"/>
   </way>
-  <way id="975714473" version="1">
+  <way id="975714473" version="1" action="modify">
+    <tag k="building" v="yes"/>
     <tag k="addr:housenumber" v="114"/>
     <tag k="addr:street" v="William And Mary Place"/>
     <tag k="addr:city" v="Kenner"/>
     <tag k="addr:postcode" v="70065"/>
+    <nd ref="9029177760"/>
+    <nd ref="9029177761"/>
+    <nd ref="9029177762"/>
+    <nd ref="9029177763"/>
+    <nd ref="9029177764"/>
+    <nd ref="9029177765"/>
+    <nd ref="9029177760"/>
   </way>
-  <way id="975714474" version="1">
+  <way id="975714474" version="1" action="modify">
+    <tag k="building" v="yes"/>
     <tag k="addr:housenumber" v="106"/>
     <tag k="addr:street" v="William And Mary Place"/>
     <tag k="addr:city" v="Kenner"/>
     <tag k="addr:postcode" v="70065"/>
+    <nd ref="9029177766"/>
+    <nd ref="9029177767"/>
+    <nd ref="9029177768"/>
+    <nd ref="9029177769"/>
+    <nd ref="9029177770"/>
+    <nd ref="9029177771"/>
+    <nd ref="9029177766"/>
   </way>
-  <way id="975714475" version="1">
+  <way id="975714475" version="1" action="modify">
+    <tag k="building" v="yes"/>
     <tag k="addr:housenumber" v="102"/>
     <tag k="addr:street" v="William And Mary Place"/>
     <tag k="addr:city" v="Kenner"/>
     <tag k="addr:postcode" v="70065"/>
+    <nd ref="9029177772"/>
+    <nd ref="9029177773"/>
+    <nd ref="9029177774"/>
+    <nd ref="9029177775"/>
+    <nd ref="9029177776"/>
+    <nd ref="9029177777"/>
+    <nd ref="9029177778"/>
+    <nd ref="9029177779"/>
+    <nd ref="9029177772"/>
   </way>
-  <way id="975714476" version="1">
+  <way id="975714476" version="1" action="modify">
+    <tag k="building" v="yes"/>
     <tag k="addr:housenumber" v="98"/>
     <tag k="addr:street" v="William And Mary Place"/>
     <tag k="addr:city" v="Kenner"/>
     <tag k="addr:postcode" v="70065"/>
+    <nd ref="9029177780"/>
+    <nd ref="9029177781"/>
+    <nd ref="9029177782"/>
+    <nd ref="9029177783"/>
+    <nd ref="9029177784"/>
+    <nd ref="9029177785"/>
+    <nd ref="9029177786"/>
+    <nd ref="9029177787"/>
+    <nd ref="9029177780"/>
   </way>
-  <way id="975714477" version="1">
+  <way id="975714477" version="1" action="modify">
+    <tag k="building" v="yes"/>
     <tag k="addr:housenumber" v="94"/>
     <tag k="addr:street" v="William And Mary Place"/>
     <tag k="addr:city" v="Kenner"/>
     <tag k="addr:postcode" v="70065"/>
+    <nd ref="9029177788"/>
+    <nd ref="9029177789"/>
+    <nd ref="9029177790"/>
+    <nd ref="9029177791"/>
+    <nd ref="9029177792"/>
+    <nd ref="9029177793"/>
+    <nd ref="9029177794"/>
+    <nd ref="9029177795"/>
+    <nd ref="9029177796"/>
+    <nd ref="9029177797"/>
+    <nd ref="9029177788"/>
   </way>
-  <way id="975714478" version="1">
+  <way id="975714478" version="1" action="modify">
+    <tag k="building" v="yes"/>
     <tag k="addr:housenumber" v="90"/>
     <tag k="addr:street" v="William And Mary Place"/>
     <tag k="addr:city" v="Kenner"/>
     <tag k="addr:postcode" v="70065"/>
+    <nd ref="9029177798"/>
+    <nd ref="9029177799"/>
+    <nd ref="9029177800"/>
+    <nd ref="9029177801"/>
+    <nd ref="9029177802"/>
+    <nd ref="9029177803"/>
+    <nd ref="9029177798"/>
   </way>
-  <way id="1022302187" version="1">
+  <way id="1022302187" version="1" action="modify">
+    <tag k="building" v="yes"/>
+    <tag k="source" v="microsoft/BuildingFootprints"/>
     <tag k="addr:housenumber" v="8"/>
     <tag k="addr:street" v="North Lafourche Court"/>
     <tag k="addr:city" v="Kenner"/>
     <tag k="addr:postcode" v="70065"/>
+    <nd ref="9428561427"/>
+    <nd ref="9428561428"/>
+    <nd ref="9428561429"/>
+    <nd ref="9428561430"/>
+    <nd ref="9428561431"/>
+    <nd ref="9428561432"/>
+    <nd ref="9428561427"/>
   </way>
-  <way id="1022302188" version="1">
+  <way id="1022302188" version="1" action="modify">
+    <tag k="building" v="yes"/>
+    <tag k="source" v="microsoft/BuildingFootprints"/>
     <tag k="addr:housenumber" v="10"/>
     <tag k="addr:street" v="North Lafourche Court"/>
     <tag k="addr:city" v="Kenner"/>
     <tag k="addr:postcode" v="70065"/>
+    <nd ref="9428561433"/>
+    <nd ref="9428561434"/>
+    <nd ref="9428561435"/>
+    <nd ref="9428561436"/>
+    <nd ref="9428561437"/>
+    <nd ref="9428561438"/>
+    <nd ref="9428561439"/>
+    <nd ref="9428561440"/>
+    <nd ref="9428561433"/>
   </way>
-  <way id="1022302189" version="1">
+  <way id="1022302189" version="1" action="modify">
+    <tag k="building" v="yes"/>
+    <tag k="source" v="microsoft/BuildingFootprints"/>
     <tag k="addr:housenumber" v="12"/>
     <tag k="addr:street" v="North Lafourche Court"/>
     <tag k="addr:city" v="Kenner"/>
     <tag k="addr:postcode" v="70065"/>
+    <nd ref="9428561441"/>
+    <nd ref="9428561442"/>
+    <nd ref="9428561443"/>
+    <nd ref="9428561444"/>
+    <nd ref="9428561445"/>
+    <nd ref="9428561446"/>
+    <nd ref="9428561441"/>
   </way>
-  <way id="1022302190" version="1">
+  <way id="1022302190" version="1" action="modify">
+    <tag k="building" v="yes"/>
+    <tag k="source" v="microsoft/BuildingFootprints"/>
     <tag k="addr:housenumber" v="14"/>
     <tag k="addr:street" v="North Lafourche Court"/>
     <tag k="addr:city" v="Kenner"/>
     <tag k="addr:postcode" v="70065"/>
+    <nd ref="9428561447"/>
+    <nd ref="9428561448"/>
+    <nd ref="9428561449"/>
+    <nd ref="9428561450"/>
+    <nd ref="9428561451"/>
+    <nd ref="9428561452"/>
+    <nd ref="9428561447"/>
   </way>
-  <way id="1022302194" version="1">
+  <way id="1022302194" version="1" action="modify">
+    <tag k="building" v="yes"/>
+    <tag k="source" v="microsoft/BuildingFootprints"/>
     <tag k="addr:housenumber" v="4"/>
     <tag k="addr:street" v="North Lafourche Court"/>
     <tag k="addr:city" v="Kenner"/>
     <tag k="addr:postcode" v="70065"/>
+    <nd ref="9428561469"/>
+    <nd ref="9428561470"/>
+    <nd ref="9428561471"/>
+    <nd ref="9428561472"/>
+    <nd ref="9428561473"/>
+    <nd ref="9428561474"/>
+    <nd ref="9428561469"/>
   </way>
-  <way id="1022302195" version="1">
+  <way id="1022302195" version="1" action="modify">
+    <tag k="building" v="yes"/>
+    <tag k="source" v="microsoft/BuildingFootprints"/>
     <tag k="addr:housenumber" v="2"/>
     <tag k="addr:street" v="North Lafourche Court"/>
     <tag k="addr:city" v="Kenner"/>
     <tag k="addr:postcode" v="70065"/>
+    <nd ref="9428561475"/>
+    <nd ref="9428561476"/>
+    <nd ref="9428561477"/>
+    <nd ref="9428561478"/>
+    <nd ref="9428561479"/>
+    <nd ref="9428561480"/>
+    <nd ref="9428561475"/>
   </way>
-  <way id="1022302205" version="1">
+  <way id="1022302205" version="1" action="modify">
+    <tag k="building" v="yes"/>
+    <tag k="source" v="microsoft/BuildingFootprints"/>
     <tag k="addr:housenumber" v="7"/>
     <tag k="addr:street" v="North Lafourche Court"/>
     <tag k="addr:city" v="Kenner"/>
     <tag k="addr:postcode" v="70065"/>
+    <nd ref="9428561533"/>
+    <nd ref="9428561534"/>
+    <nd ref="9428561535"/>
+    <nd ref="9428561536"/>
+    <nd ref="9428561533"/>
   </way>
 </osm>

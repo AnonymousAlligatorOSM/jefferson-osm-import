@@ -9,16 +9,28 @@
     <tag k="addr:city" v="Kenner"/>
     <tag k="addr:postcode" v="70062"/>
   </node>
-  <way id="923840015" version="1">
+  <way id="923840015" version="1" action="modify">
+    <tag k="building" v="yes"/>
     <tag k="addr:housenumber" v="2400"/>
     <tag k="addr:street" v="Crestview Street"/>
     <tag k="addr:city" v="Kenner"/>
     <tag k="addr:postcode" v="70062"/>
+    <nd ref="8575662368"/>
+    <nd ref="8575662369"/>
+    <nd ref="8575662370"/>
+    <nd ref="8575662371"/>
+    <nd ref="8575662368"/>
   </way>
-  <way id="923840053" version="1">
+  <way id="923840053" version="1" action="modify">
+    <tag k="building" v="yes"/>
     <tag k="addr:housenumber" v="2"/>
     <tag k="addr:street" v="Crestview Street"/>
     <tag k="addr:city" v="Kenner"/>
     <tag k="addr:postcode" v="70062"/>
+    <nd ref="8575683228"/>
+    <nd ref="8575683229"/>
+    <nd ref="8575683230"/>
+    <nd ref="8575683231"/>
+    <nd ref="8575683228"/>
   </way>
 </osm>

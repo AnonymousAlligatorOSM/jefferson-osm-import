@@ -3,14 +3,14 @@
   <changeset_tag k="comment" v="Import buildings and addresses in Jefferson Parish, see https://wiki.openstreetmap.org/wiki/Import/Catalogue/Jefferson_Parish_Addresses_and_Buildings"/>
   <changeset_tag k="source" v="Jefferson Parish Planning Department"/>
   <changeset_tag k="source_file" v="8179_13521"/>
-  <node visible="true" id="-1" lat="29.97576204974593494512191683" lon="-90.13364826838271426368009998"/>
-  <node visible="true" id="-2" lat="29.97569068678915016334940447" lon="-90.13361579509086141115403734"/>
-  <node visible="true" id="-3" lat="29.97557790014401390976672701" lon="-90.13397125512500451804953627"/>
-  <node visible="true" id="-4" lat="29.97564148733880884378777409" lon="-90.13400072047710409606224857"/>
-  <node visible="true" id="-5" lat="29.97565007831267180904433189" lon="-90.13396864637932992536661914"/>
-  <node visible="true" id="-6" lat="29.97566614097134873873073957" lon="-90.13397661514537162474880461"/>
-  <node visible="true" id="-7" lat="29.97574457374099310413839703" lon="-90.13374507296811088963295333"/>
-  <node visible="true" id="-8" lat="29.97573267490057347117726749" lon="-90.13373909359867752755235415"/>
+  <node visible="true" id="-1" lat="29.97569223896872969703508716" lon="-90.13361709358363782484957483"/>
+  <node visible="true" id="-2" lat="29.97557593561946731597345206" lon="-90.13397121212729246053640964"/>
+  <node visible="true" id="-3" lat="29.97564087244327879488992039" lon="-90.13399963448242147023847792"/>
+  <node visible="true" id="-4" lat="29.97565079305952195909412694" lon="-90.13396942834806679911707761"/>
+  <node visible="true" id="-5" lat="29.97566731930954730955818377" lon="-90.13397666176602740506496048"/>
+  <node visible="true" id="-6" lat="29.97574364085939535584657278" lon="-90.13374427898713747708825395"/>
+  <node visible="true" id="-7" lat="29.97573236529451179421812412" lon="-90.13373934375150042797031347"/>
+  <node visible="true" id="-8" lat="29.97576242638739429935412772" lon="-90.13364781412107618052687030"/>
   <way visible="true" id="-1">
     <nd ref="-1"/>
     <nd ref="-2"/>
@@ -22,15 +22,16 @@
     <nd ref="-8"/>
     <nd ref="-1"/>
     <tag k="building" v="yes"/>
+    <tag k="building:levels" v="2"/>
     <tag k="addr:street" v="Nassau Drive"/>
     <tag k="addr:city" v="Metairie"/>
     <tag k="addr:postcode" v="70005"/>
     <tag k="addr:unit" v="C"/>
   </way>
-  <node visible="true" id="-9" lat="29.98029590894375928655790631" lon="-90.14083000416549396049958887"/>
-  <node visible="true" id="-10" lat="29.98041606276588311175146373" lon="-90.14077543121334201714489609"/>
-  <node visible="true" id="-11" lat="29.98039632132760345939459512" lon="-90.14071489173474560629983898"/>
-  <node visible="true" id="-12" lat="29.98027516566724059998705343" lon="-90.14076722993038970344059635"/>
+  <node visible="true" id="-9" lat="29.98041641912401544800559350" lon="-90.14077604453446213028655620"/>
+  <node visible="true" id="-10" lat="29.98039602354890931223962980" lon="-90.14071445530819914893072564"/>
+  <node visible="true" id="-11" lat="29.98027531021576663761152304" lon="-90.14076773398751640797854634"/>
+  <node visible="true" id="-12" lat="29.98029570581565650400079903" lon="-90.14082932321379360018909210"/>
   <way visible="true" id="-2">
     <nd ref="-9"/>
     <nd ref="-10"/>
@@ -47,16 +48,16 @@
     <tag k="addr:city" v="Metairie"/>
     <tag k="addr:postcode" v="70005"/>
   </node>
-  <node visible="true" id="-14" lat="29.98001502082995628484241024" lon="-90.13969519598276747274212539"/>
-  <node visible="true" id="-15" lat="29.97991604535528153974155430" lon="-90.13973147806332519849092932"/>
-  <node visible="true" id="-16" lat="29.97991454814381739879536326" lon="-90.13972436698631440776807722"/>
-  <node visible="true" id="-17" lat="29.97980363352237276330924942" lon="-90.13976024259312680442235433"/>
-  <node visible="true" id="-18" lat="29.97982582181073141214255884" lon="-90.13983784979639324319578009"/>
-  <node visible="true" id="-19" lat="29.97984580680921595785548561" lon="-90.13983048170416623179335147"/>
-  <node visible="true" id="-20" lat="29.97984776632480219404897070" lon="-90.13983594257419440509693231"/>
-  <node visible="true" id="-21" lat="29.97994860098978620044363197" lon="-90.13979415405800921234913403"/>
-  <node visible="true" id="-22" lat="29.97994760676958136969005864" lon="-90.13978977911948220480553573"/>
-  <node visible="true" id="-23" lat="29.98003227601417108871828532" lon="-90.13975531397312579429126345"/>
+  <node visible="true" id="-14" lat="29.97991639146744446975390019" lon="-90.13973180490378922513627913"/>
+  <node visible="true" id="-15" lat="29.97991357825170410933424137" lon="-90.13972182793220611074502813"/>
+  <node visible="true" id="-16" lat="29.97980451181540928473623353" lon="-90.13976281607138218987529399"/>
+  <node visible="true" id="-17" lat="29.97982570194890783454866323" lon="-90.13983796606484588664898183"/>
+  <node visible="true" id="-18" lat="29.97984597839756304438196821" lon="-90.13983034599642962803045521"/>
+  <node visible="true" id="-19" lat="29.97984708019001232059963513" lon="-90.13983425346215483386913547"/>
+  <node visible="true" id="-20" lat="29.97994920560122622532617243" lon="-90.13979587380698887955077225"/>
+  <node visible="true" id="-21" lat="29.97994716128615166894633148" lon="-90.13978862371257605445862282"/>
+  <node visible="true" id="-22" lat="29.98003247598241216564929346" lon="-90.13975656164684835403022589"/>
+  <node visible="true" id="-23" lat="29.98001504162909824913185730" lon="-90.13969473125366960175597342"/>
   <way visible="true" id="-3">
     <nd ref="-14"/>
     <nd ref="-15"/>
@@ -116,16 +117,48 @@
     <tag k="addr:city" v="Metairie"/>
     <tag k="addr:postcode" v="70001"/>
   </node>
-  <way id="971023542" version="1">
+  <way id="971023542" version="1" action="modify">
+    <tag k="building" v="yes"/>
     <tag k="addr:housenumber" v="42"/>
     <tag k="addr:street" v="Pelham Drive"/>
     <tag k="addr:city" v="Metairie"/>
     <tag k="addr:postcode" v="70005"/>
+    <nd ref="8986786729"/>
+    <nd ref="8986786728"/>
+    <nd ref="8986786727"/>
+    <nd ref="8986786726"/>
+    <nd ref="8986786725"/>
+    <nd ref="8986786724"/>
+    <nd ref="8986786723"/>
+    <nd ref="8986786722"/>
+    <nd ref="8986786721"/>
+    <nd ref="8986786720"/>
+    <nd ref="8986786719"/>
+    <nd ref="8986786718"/>
+    <nd ref="8986786717"/>
+    <nd ref="8986747216"/>
+    <nd ref="8986786729"/>
   </way>
-  <way id="971023543" version="1">
+  <way id="971023543" version="1" action="modify">
+    <tag k="building" v="yes"/>
     <tag k="addr:housenumber" v="44"/>
     <tag k="addr:street" v="Pelham Drive"/>
     <tag k="addr:city" v="Metairie"/>
     <tag k="addr:postcode" v="70005"/>
+    <nd ref="8986786743"/>
+    <nd ref="8986786742"/>
+    <nd ref="8986786741"/>
+    <nd ref="8986786740"/>
+    <nd ref="8986786739"/>
+    <nd ref="8986786738"/>
+    <nd ref="8986786737"/>
+    <nd ref="8986786736"/>
+    <nd ref="8986786735"/>
+    <nd ref="8986786734"/>
+    <nd ref="8986786733"/>
+    <nd ref="8986786732"/>
+    <nd ref="8986786731"/>
+    <nd ref="8986786730"/>
+    <nd ref="8986786743"/>
   </way>
 </osm>

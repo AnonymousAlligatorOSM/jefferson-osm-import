@@ -3,10 +3,10 @@
   <changeset_tag k="comment" v="Import buildings and addresses in Jefferson Parish, see https://wiki.openstreetmap.org/wiki/Import/Catalogue/Jefferson_Parish_Addresses_and_Buildings"/>
   <changeset_tag k="source" v="Jefferson Parish Planning Department"/>
   <changeset_tag k="source_file" v="8179_13531"/>
-  <node visible="true" id="-1" lat="29.88040495640122173881536582" lon="-90.13189154768654987037734827"/>
-  <node visible="true" id="-2" lat="29.88030268964092073247229564" lon="-90.13191931929709710402676137"/>
-  <node visible="true" id="-3" lat="29.88033475218892576208418177" lon="-90.13207602918829763893882046"/>
-  <node visible="true" id="-4" lat="29.88043701898199344668682897" lon="-90.13204825772936601424589753"/>
+  <node visible="true" id="-1" lat="29.88030270687410805408035230" lon="-90.13191933156277002581191482"/>
+  <node visible="true" id="-2" lat="29.88033474153730750799695670" lon="-90.13207604912037140820757486"/>
+  <node visible="true" id="-3" lat="29.88043700171604655224655289" lon="-90.13204824538787818255514139"/>
+  <node visible="true" id="-4" lat="29.88040496708564575101263472" lon="-90.13189152783030522186891176"/>
   <way visible="true" id="-1">
     <nd ref="-1"/>
     <nd ref="-2"/>
@@ -14,18 +14,19 @@
     <nd ref="-4"/>
     <nd ref="-1"/>
     <tag k="building" v="yes"/>
+    <tag k="building:levels" v="1"/>
     <tag k="addr:street" v="Wedmore Drive"/>
     <tag k="addr:city" v="Marrero"/>
     <tag k="addr:postcode" v="70072"/>
   </way>
-  <node visible="true" id="-5" lat="29.88816743386923135972210730" lon="-90.13567910945658923083101399"/>
-  <node visible="true" id="-6" lat="29.88812378982751383205140883" lon="-90.13551997804610493858490372"/>
-  <node visible="true" id="-7" lat="29.88805757827478259969211649" lon="-90.13554735904442338778608246"/>
-  <node visible="true" id="-8" lat="29.88804524207793633649998810" lon="-90.13551229554929022924625315"/>
-  <node visible="true" id="-9" lat="29.88799833926268334494125156" lon="-90.13553077456408857415226521"/>
-  <node visible="true" id="-10" lat="29.88804378224263658125892107" lon="-90.13569375862397237142431550"/>
-  <node visible="true" id="-11" lat="29.88810486127903232045355253" lon="-90.13566759271402872855105670"/>
-  <node visible="true" id="-12" lat="29.88811489491781969718431355" lon="-90.13569978063645748989074491"/>
+  <node visible="true" id="-5" lat="29.88812251869395097969572817" lon="-90.13552118699624315922847018"/>
+  <node visible="true" id="-6" lat="29.88805649308201140001983731" lon="-90.13554707394958143140684115"/>
+  <node visible="true" id="-7" lat="29.88804615138471731938807352" lon="-90.13551198385019347369961906"/>
+  <node visible="true" id="-8" lat="29.88799716591923782971207402" lon="-90.13553118978494183011207497"/>
+  <node visible="true" id="-9" lat="29.88804465070683846761312452" lon="-90.13569230892854022840765538"/>
+  <node visible="true" id="-10" lat="29.88810539960953249760677863" lon="-90.13566849084136833880620543"/>
+  <node visible="true" id="-11" lat="29.88811464011610397051299515" lon="-90.13569984454248640304285800"/>
+  <node visible="true" id="-12" lat="29.88816890223784028535192192" lon="-90.13567856974157166405348107"/>
   <way visible="true" id="-2">
     <nd ref="-5"/>
     <nd ref="-6"/>
@@ -37,15 +38,16 @@
     <nd ref="-12"/>
     <nd ref="-5"/>
     <tag k="building" v="yes"/>
+    <tag k="building:levels" v="1"/>
     <tag k="addr:housenumber" v="1401"/>
     <tag k="addr:street" v="King Henry  Court"/>
     <tag k="addr:city" v="Marrero"/>
     <tag k="addr:postcode" v="70072"/>
   </way>
-  <node visible="true" id="-13" lat="29.88483894124370365830145602" lon="-90.13353045779244610002933769"/>
-  <node visible="true" id="-14" lat="29.88424631108662055112290545" lon="-90.13373485308618171529815299"/>
-  <node visible="true" id="-15" lat="29.88428985543609428532363381" lon="-90.13384839025634676090703579"/>
-  <node visible="true" id="-16" lat="29.88486810939772553297189006" lon="-90.13364416827590730463271029"/>
+  <node visible="true" id="-13" lat="29.88425325641421181899204385" lon="-90.13373684193675217102281749"/>
+  <node visible="true" id="-14" lat="29.88428450767648669739173783" lon="-90.13385230382149870820285287"/>
+  <node visible="true" id="-15" lat="29.88486835208204084324279393" lon="-90.13364209276868166398344329"/>
+  <node visible="true" id="-16" lat="29.88483710100275203558339854" lon="-90.13352663088392091594869271"/>
   <way visible="true" id="-3">
     <nd ref="-13"/>
     <nd ref="-14"/>

@@ -3,16 +3,16 @@
   <changeset_tag k="comment" v="Import buildings and addresses in Jefferson Parish, see https://wiki.openstreetmap.org/wiki/Import/Catalogue/Jefferson_Parish_Addresses_and_Buildings"/>
   <changeset_tag k="source" v="Jefferson Parish Planning Department"/>
   <changeset_tag k="source_file" v="8177_13525"/>
-  <node visible="true" id="-1" lat="29.94545775916262897453634650" lon="-90.15683165880413696413597791"/>
-  <node visible="true" id="-2" lat="29.94539288937957266512057686" lon="-90.15663542245646056016994407"/>
-  <node visible="true" id="-3" lat="29.94524234175683119474342675" lon="-90.15669946211718865924922284"/>
-  <node visible="true" id="-4" lat="29.94527704009377089278132189" lon="-90.15680214646285151047777617"/>
-  <node visible="true" id="-5" lat="29.94523629903646977368225635" lon="-90.15681895901890641198406229"/>
-  <node visible="true" id="-6" lat="29.94527094252364562976254092" lon="-90.15691551933224445747327991"/>
-  <node visible="true" id="-7" lat="29.94515669197383544997137506" lon="-90.15696279944332047762145521"/>
-  <node visible="true" id="-8" lat="29.94518408703408951510027691" lon="-90.15704413547123863281740341"/>
-  <node visible="true" id="-9" lat="29.94535147700500843370718940" lon="-90.15697479355070242945657810"/>
-  <node visible="true" id="-10" lat="29.94532347517302994788224169" lon="-90.15688937243542966371023795"/>
+  <node visible="true" id="-1" lat="29.94539318488853396615922975" lon="-90.15663471134391215855430346"/>
+  <node visible="true" id="-2" lat="29.94524308001730616979330080" lon="-90.15669972547874522206257097"/>
+  <node visible="true" id="-3" lat="29.94527634927279535759225837" lon="-90.15680202897775075143727008"/>
+  <node visible="true" id="-4" lat="29.94523783864965693624071719" lon="-90.15681870887152626892202534"/>
+  <node visible="true" id="-5" lat="29.94526920748200637945046765" lon="-90.15691516853243570039921906"/>
+  <node visible="true" id="-6" lat="29.94515742009930292510944128" lon="-90.15696358636360230320860865"/>
+  <node visible="true" id="-7" lat="29.94518412332572410150532960" lon="-90.15704569914350940962322056"/>
+  <node visible="true" id="-8" lat="29.94535092916250818007029011" lon="-90.15697345144387497839488788"/>
+  <node visible="true" id="-9" lat="29.94532363667856245115217462" lon="-90.15688952654863896896131337"/>
+  <node visible="true" id="-10" lat="29.94545723356509370205458254" lon="-90.15683166238848400553251849"/>
   <way visible="true" id="-1">
     <nd ref="-1"/>
     <nd ref="-2"/>
@@ -26,6 +26,7 @@
     <nd ref="-10"/>
     <nd ref="-1"/>
     <tag k="building" v="yes"/>
+    <tag k="building:levels" v="1"/>
     <tag k="addr:housenumber" v="1027"/>
     <tag k="addr:street" v="Glendora Place"/>
     <tag k="addr:city" v="Bridge City"/>

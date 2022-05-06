@@ -3,10 +3,10 @@
   <changeset_tag k="comment" v="Import buildings and addresses in Jefferson Parish, see https://wiki.openstreetmap.org/wiki/Import/Catalogue/Jefferson_Parish_Addresses_and_Buildings"/>
   <changeset_tag k="source" v="Jefferson Parish Planning Department"/>
   <changeset_tag k="source_file" v="8171_13518"/>
-  <node visible="true" id="-1" lat="30.00462696785485050554598274" lon="-90.22528882588919429963425500"/>
-  <node visible="true" id="-2" lat="30.00453576516634157655971649" lon="-90.22529630335681360975286225"/>
-  <node visible="true" id="-3" lat="30.00454162992926399056159426" lon="-90.22539894347555389231274603"/>
-  <node visible="true" id="-4" lat="30.00463533935698379195855523" lon="-90.22539215661024059045303147"/>
+  <node visible="true" id="-1" lat="30.00453545371394170615531038" lon="-90.22529644509910440319799818"/>
+  <node visible="true" id="-2" lat="30.00454198438313113683761912" lon="-90.22539948017076483210985316"/>
+  <node visible="true" id="-3" lat="30.00463439743687743543887336" lon="-90.22539166956678968745109159"/>
+  <node visible="true" id="-4" lat="30.00462786677364590559591306" lon="-90.22528863449512925853923662"/>
   <way visible="true" id="-1">
     <nd ref="-1"/>
     <nd ref="-2"/>
@@ -18,10 +18,23 @@
     <tag k="addr:city" v="Metairie"/>
     <tag k="addr:postcode" v="70003"/>
   </way>
-  <way id="722613419" version="1">
-    <tag k="addr:housenumber" v="3012"/>
-    <tag k="addr:street" v="David Drive"/>
+  <way id="722613419" version="1" action="modify">
     <tag k="addr:city" v="Metairie"/>
+    <tag k="addr:housenumber" v="3012"/>
     <tag k="addr:postcode" v="70003"/>
+    <tag k="addr:state" v="LA"/>
+    <tag k="addr:street" v="David Drive"/>
+    <tag k="building" v="yes"/>
+    <tag k="name" v="Supreme Title of Louisiana Inc"/>
+    <tag k="opening_hours" v="Mo-Fr 08:30-17:30"/>
+    <tag k="phone" v="+1 504-454-2828"/>
+    <tag k="website" v="http://supremetitle.com"/>
+    <nd ref="5950497574"/>
+    <nd ref="6778281016"/>
+    <nd ref="6778281017"/>
+    <nd ref="6778281018"/>
+    <nd ref="6778281019"/>
+    <nd ref="6778281020"/>
+    <nd ref="5950497574"/>
   </way>
 </osm>

@@ -1,3 +1,4 @@
-address has no house number: (None, 'Avenue H') https://osm.org/?mlat=29.893552280412482&mlon=-90.10191775783045&zoom=16
-address has no house number: (None, 'Barataria Boulevard') https://osm.org/?mlat=29.888399096481646&mlon=-90.09909529579318&zoom=16
-new building address (('990', 'Avenue K') https://osm.org/?mlat=29.893118333938236&mlon=-90.10497399761867&zoom=16) does not match the old one (('5353', 'Westbank Expressway'))
+address has no house number: (None, None, 'Avenue H') https://osm.org/?mlat=29.893552280412482&mlon=-90.10191775783045&zoom=16
+address has no house number: (None, None, 'Barataria Boulevard') https://osm.org/?mlat=29.888399096481646&mlon=-90.09909529579318&zoom=16
+new building tag (addr:housenumber=990) does not match the old one (addr:housenumber=5353)
+new building tag (addr:street=Avenue K) does not match the old one (addr:street=Westbank Expressway)

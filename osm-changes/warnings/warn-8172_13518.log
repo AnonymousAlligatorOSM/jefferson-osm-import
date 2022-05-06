@@ -1,4 +1,5 @@
-address has no house number: (None, 'Academy Drive') https://osm.org/?mlat=30.008386112787292&mlon=-90.20896860769433&zoom=16
-address has no house number: (None, 'Kawanee Avenue') https://osm.org/?mlat=30.011825155000725&mlon=-90.21797357684777&zoom=16
-address does not match a street: ('6450', 'I-10') https://osm.org/?mlat=30.008163484159763&mlon=-90.21647424891168&zoom=16
-new building address (('3444', 'Olympic Drive') https://osm.org/?mlat=30.008301058503996&mlon=-90.21545001533083&zoom=16) does not match the old one (('6400', 'Riverside Drive'))
+address has no house number: (None, None, 'Academy Drive') https://osm.org/?mlat=30.008386112787292&mlon=-90.20896860769433&zoom=16
+address has no house number: (None, None, 'Kawanee Avenue') https://osm.org/?mlat=30.011825155000725&mlon=-90.21797357684777&zoom=16
+address does not match a street: (None, '6450', 'I-10') https://osm.org/?mlat=30.008163484159763&mlon=-90.21647424891168&zoom=16
+new building tag (addr:housenumber=3444) does not match the old one (addr:housenumber=6400)
+new building tag (addr:street=Olympic Drive) does not match the old one (addr:street=Riverside Drive)

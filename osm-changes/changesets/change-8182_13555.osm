@@ -3,10 +3,10 @@
   <changeset_tag k="comment" v="Import buildings and addresses in Jefferson Parish, see https://wiki.openstreetmap.org/wiki/Import/Catalogue/Jefferson_Parish_Addresses_and_Buildings"/>
   <changeset_tag k="source" v="Jefferson Parish Planning Department"/>
   <changeset_tag k="source_file" v="8182_13555"/>
-  <node visible="true" id="-1" lat="29.65457113240512043716989865" lon="-90.10715777861584285801654914"/>
-  <node visible="true" id="-2" lat="29.65452618364787085170064529" lon="-90.10709749326943551750446204"/>
-  <node visible="true" id="-3" lat="29.65449768553198595100184320" lon="-90.10712503962723474160156911"/>
-  <node visible="true" id="-4" lat="29.65454263337448281845354359" lon="-90.10718532497993749075249070"/>
+  <node visible="true" id="-1" lat="29.65452619814783474794239737" lon="-90.10709728837284160363196861"/>
+  <node visible="true" id="-2" lat="29.65449786335902260248076345" lon="-90.10712505604621469501580577"/>
+  <node visible="true" id="-3" lat="29.65454261933825108599194209" lon="-90.10718552987336238402349409"/>
+  <node visible="true" id="-4" lat="29.65457095411447596688958583" lon="-90.10715776220001771434908733"/>
   <way visible="true" id="-1">
     <nd ref="-1"/>
     <nd ref="-2"/>
@@ -14,13 +14,14 @@
     <nd ref="-4"/>
     <nd ref="-1"/>
     <tag k="building" v="yes"/>
+    <tag k="building:levels" v="1"/>
   </way>
-  <node visible="true" id="-5" lat="29.65781751053478743074265367" lon="-90.10943909584817390623356914"/>
-  <node visible="true" id="-6" lat="29.65781704984868127894515055" lon="-90.10938971539306407976255286"/>
-  <node visible="true" id="-7" lat="29.65783892021924472714999865" lon="-90.10938873205080312800419051"/>
-  <node visible="true" id="-8" lat="29.65783795541799960915341217" lon="-90.10935224144019173309061443"/>
-  <node visible="true" id="-9" lat="29.65775357713262039283108606" lon="-90.10935398926226014282292454"/>
-  <node visible="true" id="-10" lat="29.65775500352139104620619037" lon="-90.10943986025542074003169546"/>
+  <node visible="true" id="-5" lat="29.65781687871449179283445119" lon="-90.10938946042760733234899817"/>
+  <node visible="true" id="-6" lat="29.65783873569072071063601470" lon="-90.10938899459637241307063960"/>
+  <node visible="true" id="-7" lat="29.65783814370089999101764988" lon="-90.10935221217404489379987353"/>
+  <node visible="true" id="-8" lat="29.65775359970561453337722924" lon="-90.10935401403449418467062060"/>
+  <node visible="true" id="-9" lat="29.65775498592249093121608894" lon="-90.10944014452329042796918657"/>
+  <node visible="true" id="-10" lat="29.65781767294101456400312600" lon="-90.10943880849407605637679808"/>
   <way visible="true" id="-2">
     <nd ref="-5"/>
     <nd ref="-6"/>
@@ -31,10 +32,10 @@
     <nd ref="-5"/>
     <tag k="building" v="yes"/>
   </way>
-  <node visible="true" id="-11" lat="29.65627906426371751535953081" lon="-90.10876942785164089855243219"/>
-  <node visible="true" id="-12" lat="29.65637801196939804526664375" lon="-90.10878825724597618318512104"/>
-  <node visible="true" id="-13" lat="29.65638562990902116212055262" lon="-90.10873376862952000010409392"/>
-  <node visible="true" id="-14" lat="29.65628730738298202140867943" lon="-90.10871493163763545908295782"/>
+  <node visible="true" id="-11" lat="29.65637787572391559365314606" lon="-90.10878829142713186683977256"/>
+  <node visible="true" id="-12" lat="29.65638575814919519757495436" lon="-90.10873378980002712523855735"/>
+  <node visible="true" id="-13" lat="29.65628713104250380183657398" lon="-90.10871490125525440362252994"/>
+  <node visible="true" id="-14" lat="29.65627924860951836194544740" lon="-90.10876940288237335607846035"/>
   <way visible="true" id="-3">
     <nd ref="-11"/>
     <nd ref="-12"/>
@@ -43,12 +44,12 @@
     <nd ref="-11"/>
     <tag k="building" v="yes"/>
   </way>
-  <node visible="true" id="-15" lat="29.65919925045619010006703320" lon="-90.10831784671452737711661030"/>
-  <node visible="true" id="-16" lat="29.65923923427278907638537930" lon="-90.10831520963519380984507734"/>
-  <node visible="true" id="-17" lat="29.65922146270546022606140468" lon="-90.10781798192729752372542862"/>
-  <node visible="true" id="-18" lat="29.65900150603982510233436187" lon="-90.10782783321026556677679764"/>
-  <node visible="true" id="-19" lat="29.65901933103073417896666797" lon="-90.10833078521031325180956628"/>
-  <node visible="true" id="-20" lat="29.65919929054958004144282313" lon="-90.10832214050142852101998869"/>
+  <node visible="true" id="-15" lat="29.65923924864831917602714384" lon="-90.10831558113787309594044928"/>
+  <node visible="true" id="-16" lat="29.65922145160539713515390758" lon="-90.10781770205802843065612251"/>
+  <node visible="true" id="-17" lat="29.65900143946187128562996804" lon="-90.10782811675656489569519181"/>
+  <node visible="true" id="-18" lat="29.65901940536656766767009685" lon="-90.10833071870216315346624469"/>
+  <node visible="true" id="-19" lat="29.65919934939728008771453460" lon="-90.10832220070508924436580855"/>
+  <node visible="true" id="-20" lat="29.65919918057490178853186080" lon="-90.10831747783933565187908243"/>
   <way visible="true" id="-4">
     <nd ref="-15"/>
     <nd ref="-16"/>
@@ -83,10 +84,10 @@
     <nd ref="-21"/>
     <tag k="building" v="yes"/>
   </way>
-  <node visible="true" id="-31" lat="29.65948020647097393975855084" lon="-90.10894927865612658024474513"/>
-  <node visible="true" id="-32" lat="29.65934643496073874757712474" lon="-90.10895019936192795739771100"/>
-  <node visible="true" id="-33" lat="29.65934652441882235507364385" lon="-90.10902678362079143425944494"/>
-  <node visible="true" id="-34" lat="29.65948029591999457466044987" lon="-90.10902586198442065779090626"/>
+  <node visible="true" id="-31" lat="29.65934633140845022580833756" lon="-90.10895008148112594881240511"/>
+  <node visible="true" id="-32" lat="29.65934662705501878576797026" lon="-90.10902666422057905037945602"/>
+  <node visible="true" id="-33" lat="29.65948039947661740711737366" lon="-90.10902598033051447146135615"/>
+  <node visible="true" id="-34" lat="29.65948010383043964566240902" lon="-90.10894939759106136989430524"/>
   <way visible="true" id="-6">
     <nd ref="-31"/>
     <nd ref="-32"/>
@@ -95,10 +96,10 @@
     <nd ref="-31"/>
     <tag k="building" v="yes"/>
   </way>
-  <node visible="true" id="-35" lat="29.65830151731607244869337592" lon="-90.10871605133225159534049453"/>
-  <node visible="true" id="-36" lat="29.65830046458012603238785232" lon="-90.10867025727652901423425646"/>
-  <node visible="true" id="-37" lat="29.65811361550809976961318171" lon="-90.10867755383276289649074897"/>
-  <node visible="true" id="-38" lat="29.65811466156952036499205860" lon="-90.10872263304038654041505652"/>
+  <node visible="true" id="-35" lat="29.65830037643866035068640485" lon="-90.10867054601314407591416966"/>
+  <node visible="true" id="-36" lat="29.65811351822839725400626776" lon="-90.10867727177019048667716561"/>
+  <node visible="true" id="-37" lat="29.65811475304938227282036678" lon="-90.10872270172785647446289659"/>
+  <node visible="true" id="-38" lat="29.65830161125735031646399875" lon="-90.10871597597079585284518544"/>
   <way visible="true" id="-7">
     <nd ref="-35"/>
     <nd ref="-36"/>
@@ -106,16 +107,17 @@
     <nd ref="-38"/>
     <nd ref="-35"/>
     <tag k="building" v="yes"/>
+    <tag k="building:levels" v="1"/>
     <tag k="addr:housenumber" v="5057"/>
     <tag k="addr:street" v="Kenal Road"/>
     <tag k="addr:city" v="Lafitte"/>
     <tag k="addr:postcode" v="70067"/>
     <tag k="addr:unit" v="5"/>
   </way>
-  <node visible="true" id="-39" lat="29.65929839494275555011881806" lon="-90.10842471123174846070469357"/>
-  <node visible="true" id="-40" lat="29.65925685710053372190486698" lon="-90.10832787779543195938458666"/>
-  <node visible="true" id="-41" lat="29.65901868498654891936894273" lon="-90.10846249094889515163231408"/>
-  <node visible="true" id="-42" lat="29.65906021694949501465998765" lon="-90.10855860839727426991885295"/>
+  <node visible="true" id="-39" lat="29.65925692975730498801567592" lon="-90.10832781672574753883964149"/>
+  <node visible="true" id="-40" lat="29.65901889210648434413997165" lon="-90.10846239384392220017616637"/>
+  <node visible="true" id="-41" lat="29.65906014728137662928020291" lon="-90.10855902746092738198058214"/>
+  <node visible="true" id="-42" lat="29.65929818483458646483086341" lon="-90.10842445034275272064405726"/>
   <way visible="true" id="-8">
     <nd ref="-39"/>
     <nd ref="-40"/>
@@ -123,11 +125,12 @@
     <nd ref="-42"/>
     <nd ref="-39"/>
     <tag k="building" v="yes"/>
+    <tag k="building:levels" v="1"/>
   </way>
-  <node visible="true" id="-43" lat="29.65783483025269617883168394" lon="-90.10955130332004614501784090"/>
-  <node visible="true" id="-44" lat="29.65783833346710096634524234" lon="-90.10952477826143081074405927"/>
-  <node visible="true" id="-45" lat="29.65772938467951647112386127" lon="-90.10950607016351909805962350"/>
-  <node visible="true" id="-46" lat="29.65772588146890242910558300" lon="-90.10953259519391167486901395"/>
+  <node visible="true" id="-43" lat="29.65783830391401565407250018" lon="-90.10952480341882164793787524"/>
+  <node visible="true" id="-44" lat="29.65772936282587934897492232" lon="-90.10950603615030729542922927"/>
+  <node visible="true" id="-45" lat="29.65772591101822541759247542" lon="-90.10953257005064642726210877"/>
+  <node visible="true" id="-46" lat="29.65783485211009917748015141" lon="-90.10955133731914656891603954"/>
   <way visible="true" id="-9">
     <nd ref="-43"/>
     <nd ref="-44"/>
@@ -136,10 +139,10 @@
     <nd ref="-43"/>
     <tag k="building" v="yes"/>
   </way>
-  <node visible="true" id="-47" lat="29.65613626011608516819251236" lon="-90.10887423982192956373182824"/>
-  <node visible="true" id="-48" lat="29.65610286430995756745687686" lon="-90.10884601905331692250911146"/>
-  <node visible="true" id="-49" lat="29.65606035569397391782331397" lon="-90.10891310196905124030308798"/>
-  <node visible="true" id="-50" lat="29.65609375148581605685649265" lon="-90.10894132274808043803204782"/>
+  <node visible="true" id="-47" lat="29.65610287391800881096060039" lon="-90.10884609016538604464585660"/>
+  <node visible="true" id="-48" lat="29.65606029388744246944042970" lon="-90.10891311301972450564790051"/>
+  <node visible="true" id="-49" lat="29.65609374189195790449957713" lon="-90.10894125163079593221482355"/>
+  <node visible="true" id="-50" lat="29.65613632190838089286444301" lon="-90.10887422877645747121277964"/>
   <way visible="true" id="-10">
     <nd ref="-47"/>
     <nd ref="-48"/>
@@ -148,10 +151,10 @@
     <nd ref="-47"/>
     <tag k="building" v="yes"/>
   </way>
-  <node visible="true" id="-51" lat="29.65835535680598056273993279" lon="-90.10862070538490797844133340"/>
-  <node visible="true" id="-52" lat="29.65840149705140049718465889" lon="-90.10863608533466617700469214"/>
-  <node visible="true" id="-53" lat="29.65843909349576179579344171" lon="-90.10846006739072322488937061"/>
-  <node visible="true" id="-54" lat="29.65838782608064860824015341" lon="-90.10844810550064210019627353"/>
+  <node visible="true" id="-51" lat="29.65840260964762009621153993" lon="-90.10863491721171669723844388"/>
+  <node visible="true" id="-52" lat="29.65843808436687112362051266" lon="-90.10846072746522850138717331"/>
+  <node visible="true" id="-53" lat="29.65838927707781280673771107" lon="-90.10844756459376014845474856"/>
+  <node visible="true" id="-54" lat="29.65835380234131335441816191" lon="-90.10862175434024834430601913"/>
   <way visible="true" id="-11">
     <nd ref="-51"/>
     <nd ref="-52"/>
@@ -160,10 +163,10 @@
     <nd ref="-51"/>
     <tag k="building" v="yes"/>
   </way>
-  <node visible="true" id="-55" lat="29.65420934708065203722071601" lon="-90.10668589529507244151318446"/>
-  <node visible="true" id="-56" lat="29.65429696534109993422134721" lon="-90.10655909933582563553500222"/>
-  <node visible="true" id="-57" lat="29.65426726977121418826754962" lon="-90.10653162058758880448294804"/>
-  <node visible="true" id="-58" lat="29.65418051775582597429092857" lon="-90.10666044913433836427429924"/>
+  <node visible="true" id="-55" lat="29.65429676070793973963191092" lon="-90.10655858953613517314806813"/>
+  <node visible="true" id="-56" lat="29.65426748777534982082215720" lon="-90.10653214246741526949335821"/>
+  <node visible="true" id="-57" lat="29.65418028925376248139400559" lon="-90.10665994264026323889993364"/>
+  <node visible="true" id="-58" lat="29.65420956221171877587039489" lon="-90.10668638970899735340935877"/>
   <way visible="true" id="-12">
     <nd ref="-55"/>
     <nd ref="-56"/>
@@ -177,7 +180,7 @@
     <tag k="addr:street" v="Kenal Road"/>
     <tag k="addr:city" v="Lafitte"/>
     <tag k="addr:postcode" v="70067"/>
-    <tag k="addr:unit" v="Slip 52"/>
+    <tag k="addr:unit" v="SLIP 52"/>
   </node>
   <node visible="true" id="-60" lat="29.65901763210459307629207615" lon="-90.10931116701389953504985897">
     <tag k="addr:housenumber" v="5838"/>
@@ -197,7 +200,7 @@
     <tag k="addr:street" v="Kenal Road"/>
     <tag k="addr:city" v="Lafitte"/>
     <tag k="addr:postcode" v="70067"/>
-    <tag k="addr:unit" v="Slip 50"/>
+    <tag k="addr:unit" v="SLIP 50"/>
   </node>
   <node visible="true" id="-63" lat="29.65844559448833805959111487" lon="-90.10773708460966702205041656">
     <tag k="addr:housenumber" v="5057"/>
@@ -210,21 +213,21 @@
     <tag k="addr:street" v="Kenal Road"/>
     <tag k="addr:city" v="Lafitte"/>
     <tag k="addr:postcode" v="70067"/>
-    <tag k="addr:unit" v="Slip 34"/>
+    <tag k="addr:unit" v="SLIP 34"/>
   </node>
   <node visible="true" id="-65" lat="29.65284886067720293567617773" lon="-90.10488539707444033410865813">
     <tag k="addr:housenumber" v="4932"/>
     <tag k="addr:street" v="Kenal Road"/>
     <tag k="addr:city" v="Lafitte"/>
     <tag k="addr:postcode" v="70067"/>
-    <tag k="addr:unit" v="Slip 22"/>
+    <tag k="addr:unit" v="SLIP 22"/>
   </node>
   <node visible="true" id="-66" lat="29.65327595185316056358715286" lon="-90.10537210327507295914983843">
     <tag k="addr:housenumber" v="4932"/>
     <tag k="addr:street" v="Kenal Road"/>
     <tag k="addr:city" v="Lafitte"/>
     <tag k="addr:postcode" v="70067"/>
-    <tag k="addr:unit" v="Slip 14"/>
+    <tag k="addr:unit" v="SLIP 14"/>
   </node>
   <node visible="true" id="-67" lat="29.65726664934095779813105764" lon="-90.10764492956124627198732924">
     <tag k="addr:housenumber" v="5057"/>
@@ -243,19 +246,46 @@
     <tag k="addr:street" v="Kenal Road"/>
     <tag k="addr:city" v="Lafitte"/>
     <tag k="addr:postcode" v="70067"/>
-    <tag k="addr:unit" v="Slip 36"/>
+    <tag k="addr:unit" v="SLIP 36"/>
   </node>
-  <way id="977845613" version="1">
+  <way id="977845598" version="1" action="modify">
+    <tag k="addr:postcode" v="70067"/>
+    <tag k="addr:state" v="LA"/>
+    <tag k="addr:street" v="Jean Lafitte Boulevard"/>
+    <tag k="building" v="yes"/>
+    <tag k="addr:housenumber" v="5834"/>
+    <tag k="addr:city" v="Lafitte"/>
+    <nd ref="9048039905"/>
+    <nd ref="9048039902"/>
+    <nd ref="9048039903"/>
+    <nd ref="9048039904"/>
+    <nd ref="9048039905"/>
+  </way>
+  <way id="977845613" version="1" action="modify">
+    <tag k="addr:postcode" v="70067"/>
+    <tag k="addr:state" v="LA"/>
+    <tag k="building" v="yes"/>
     <tag k="addr:housenumber" v="5057"/>
     <tag k="addr:street" v="Kenal Road"/>
     <tag k="addr:city" v="Lafitte"/>
-    <tag k="addr:postcode" v="70067"/>
     <tag k="addr:unit" v="7"/>
+    <nd ref="9048039966"/>
+    <nd ref="9048039963"/>
+    <nd ref="9048039964"/>
+    <nd ref="9048039965"/>
+    <nd ref="9048039966"/>
   </way>
-  <way id="977845633" version="1">
+  <way id="977845633" version="1" action="modify">
+    <tag k="addr:postcode" v="70067"/>
+    <tag k="addr:state" v="LA"/>
+    <tag k="building" v="yes"/>
     <tag k="addr:housenumber" v="4932"/>
     <tag k="addr:street" v="Kenal Road"/>
     <tag k="addr:city" v="Lafitte"/>
-    <tag k="addr:postcode" v="70067"/>
+    <nd ref="9048040050"/>
+    <nd ref="9048040047"/>
+    <nd ref="9048040048"/>
+    <nd ref="9048040049"/>
+    <nd ref="9048040050"/>
   </way>
 </osm>

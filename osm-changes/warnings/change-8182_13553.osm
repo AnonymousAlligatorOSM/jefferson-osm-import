@@ -3,10 +3,10 @@
   <changeset_tag k="comment" v="Import buildings and addresses in Jefferson Parish, see https://wiki.openstreetmap.org/wiki/Import/Catalogue/Jefferson_Parish_Addresses_and_Buildings"/>
   <changeset_tag k="source" v="Jefferson Parish Planning Department"/>
   <changeset_tag k="source_file" v="8182_13553"/>
-  <node visible="true" id="-1" lat="29.67786266379787818436852831" lon="-90.10495443168733231686928775"/>
-  <node visible="true" id="-2" lat="29.67790090030043614888199954" lon="-90.10492687857095006620511413"/>
-  <node visible="true" id="-3" lat="29.67779227380389173163166561" lon="-90.10472919726773000093089649"/>
-  <node visible="true" id="-4" lat="29.67775403823513613588147564" lon="-90.10475674938558654503140133"/>
+  <node visible="true" id="-1" lat="29.67790078339512405136702000" lon="-90.10492684847224609256954864"/>
+  <node visible="true" id="-2" lat="29.67779230041529459072080499" lon="-90.10472906274273441340483259"/>
+  <node visible="true" id="-3" lat="29.67775415465307631279756606" lon="-90.10475677998354626652144361"/>
+  <node visible="true" id="-4" lat="29.67786263767408172498107888" lon="-90.10495456571307215654087486"/>
   <way visible="true" id="-1">
     <nd ref="-1"/>
     <nd ref="-2"/>
@@ -14,14 +14,15 @@
     <nd ref="-4"/>
     <nd ref="-1"/>
     <tag k="building" v="yes"/>
+    <tag k="building:levels" v="1"/>
     <tag k="addr:street" v="Shell Road"/>
     <tag k="addr:city" v="Lafitte"/>
     <tag k="addr:postcode" v="70067"/>
   </way>
-  <node visible="true" id="-5" lat="29.67638267686200137518426345" lon="-90.10894504559239237551082624"/>
-  <node visible="true" id="-6" lat="29.67635299742076071538576798" lon="-90.10904706223693949596054154"/>
-  <node visible="true" id="-7" lat="29.67642013356326913253724342" lon="-90.10907344395076279397471808"/>
-  <node visible="true" id="-8" lat="29.67644981302493789598884177" lon="-90.10897142724557795645523584"/>
+  <node visible="true" id="-5" lat="29.67635284676684293003745552" lon="-90.10904714810011739700712496"/>
+  <node visible="true" id="-6" lat="29.67642005898537149732874241" lon="-90.10907327054982829395157751"/>
+  <node visible="true" id="-7" lat="29.67644996365857323894488218" lon="-90.10897134141269759766146308"/>
+  <node visible="true" id="-8" lat="29.67638275146000381710109650" lon="-90.10894521896297248986229533"/>
   <way visible="true" id="-2">
     <nd ref="-5"/>
     <nd ref="-6"/>
@@ -29,14 +30,15 @@
     <nd ref="-8"/>
     <nd ref="-5"/>
     <tag k="building" v="yes"/>
+    <tag k="building:levels" v="1"/>
     <tag k="addr:street" v="Privateer Boulevard"/>
     <tag k="addr:city" v="Barataria"/>
     <tag k="addr:postcode" v="70036"/>
   </way>
-  <node visible="true" id="-9" lat="29.67768810544271218532230705" lon="-90.10441257998054709332791390"/>
-  <node visible="true" id="-10" lat="29.67760876064568975607471657" lon="-90.10421740299119619521661662"/>
-  <node visible="true" id="-11" lat="29.67757330566211493305672775" lon="-90.10423645185031205073755700"/>
-  <node visible="true" id="-12" lat="29.67765265132344865151026170" lon="-90.10443162774141967474861303"/>
+  <node visible="true" id="-9" lat="29.67760876763383492971115629" lon="-90.10421738042398942525323946"/>
+  <node visible="true" id="-10" lat="29.67757332571668271725684463" lon="-90.10423645985962082249898231"/>
+  <node visible="true" id="-11" lat="29.67765264391714197245164542" lon="-90.10443165085773387090739561"/>
+  <node visible="true" id="-12" lat="29.67768808580636985539058514" lon="-90.10441257142211668451636797"/>
   <way visible="true" id="-3">
     <nd ref="-9"/>
     <nd ref="-10"/>
@@ -44,18 +46,19 @@
     <nd ref="-12"/>
     <nd ref="-9"/>
     <tag k="building" v="yes"/>
+    <tag k="building:levels" v="1"/>
     <tag k="addr:street" v="Shell Road"/>
     <tag k="addr:city" v="Lafitte"/>
     <tag k="addr:postcode" v="70067"/>
   </way>
-  <node visible="true" id="-13" lat="29.67191444513606057853394304" lon="-90.10750003436184840666101081"/>
-  <node visible="true" id="-14" lat="29.67186843414610919467122585" lon="-90.10732593400398116045835195"/>
-  <node visible="true" id="-15" lat="29.67183478736954072019216255" lon="-90.10733779875380378143745475"/>
-  <node visible="true" id="-16" lat="29.67184643261457210883236257" lon="-90.10737989140950787714245962"/>
-  <node visible="true" id="-17" lat="29.67182026711617481851135381" lon="-90.10738951758966663874161895"/>
-  <node visible="true" id="-18" lat="29.67183644914129914127443044" lon="-90.10744873394668275068397634"/>
-  <node visible="true" id="-19" lat="29.67186324651948226005515608" lon="-90.10743981601521568336465862"/>
-  <node visible="true" id="-20" lat="29.67188204203894130728258460" lon="-90.10751116888042133723502047"/>
+  <node visible="true" id="-13" lat="29.67186828844926083093014313" lon="-90.10732598752753119697445072"/>
+  <node visible="true" id="-14" lat="29.67183498967358801223781484" lon="-90.10733772527635210281005129"/>
+  <node visible="true" id="-15" lat="29.67184627879498393099311215" lon="-90.10738014707976617501117289"/>
+  <node visible="true" id="-16" lat="29.67182041174169881969646667" lon="-90.10738926516032165636715945"/>
+  <node visible="true" id="-17" lat="29.67183631974472746151150204" lon="-90.10744904360277018895430956"/>
+  <node visible="true" id="-18" lat="29.67186309423115986305674596" lon="-90.10743960565244492499914486"/>
+  <node visible="true" id="-19" lat="29.67188216506174569531140151" lon="-90.10751126927048915149498498"/>
+  <node visible="true" id="-20" lat="29.67191455638500841018867504" lon="-90.10749985139143802825856255"/>
   <way visible="true" id="-4">
     <nd ref="-13"/>
     <nd ref="-14"/>
@@ -67,19 +70,20 @@
     <nd ref="-20"/>
     <nd ref="-13"/>
     <tag k="building" v="yes"/>
+    <tag k="building:levels" v="1"/>
     <tag k="addr:housenumber" v="5112"/>
     <tag k="addr:street" v="Charles Court"/>
     <tag k="addr:city" v="Lafitte"/>
     <tag k="addr:postcode" v="70067"/>
   </way>
-  <node visible="true" id="-21" lat="29.67726823431065952263452346" lon="-90.10416687951135372713906690"/>
-  <node visible="true" id="-22" lat="29.67730300041710123082339123" lon="-90.10425450470584962658904260"/>
-  <node visible="true" id="-23" lat="29.67751609436542636899503123" lon="-90.10414363232362688904686365"/>
-  <node visible="true" id="-24" lat="29.67748132818539019694981107" lon="-90.10405600698099704004562227"/>
-  <node visible="true" id="-25" lat="29.67744174997307737839946640" lon="-90.10407659951924586039240239"/>
-  <node visible="true" id="-26" lat="29.67742017021296874190738890" lon="-90.10402220979338494544208515"/>
-  <node visible="true" id="-27" lat="29.67733785058823414715334366" lon="-90.10406504035901775750971865"/>
-  <node visible="true" id="-28" lat="29.67735943033072132379857067" lon="-90.10411943004942258994560689"/>
+  <node visible="true" id="-21" lat="29.67730297609059775254536362" lon="-90.10425472489828280231449753"/>
+  <node visible="true" id="-22" lat="29.67751593433975543234737415" lon="-90.10414350840834174505289411"/>
+  <node visible="true" id="-23" lat="29.67748140779097099084538058" lon="-90.10405592689917853022052441"/>
+  <node visible="true" id="-24" lat="29.67744170529073599595903943" lon="-90.10407666136251236821408384"/>
+  <node visible="true" id="-25" lat="29.67742020125314894585244474" lon="-90.10402211334481137328111799"/>
+  <node visible="true" id="-26" lat="29.67733793408186926399139338" lon="-90.10406507699285327817051439"/>
+  <node visible="true" id="-27" lat="29.67735934410261933180663618" lon="-90.10411938647916940681170672"/>
+  <node visible="true" id="-28" lat="29.67726835543414409812612575" lon="-90.10416690485774893204506952"/>
   <way visible="true" id="-5">
     <nd ref="-21"/>
     <nd ref="-22"/>
@@ -166,342 +170,103 @@
     <tag k="addr:city" v="Lafitte"/>
     <tag k="addr:postcode" v="70067"/>
   </node>
-  <way id="977845470" version="1">
-    <tag k="addr:housenumber" v="5393"/>
-    <tag k="addr:street" v="Jean Lafitte Boulevard"/>
-    <tag k="addr:city" v="Town Of Lafitte"/>
+  <way id="977845682" version="1" action="modify">
     <tag k="addr:postcode" v="70067"/>
-  </way>
-  <way id="977845472" version="1">
-    <tag k="addr:housenumber" v="5394"/>
-    <tag k="addr:street" v="Jean Lafitte Boulevard"/>
-    <tag k="addr:city" v="Lafitte"/>
-    <tag k="addr:postcode" v="70067"/>
-    <tag k="addr:unit" v="1"/>
-  </way>
-  <way id="977845500" version="1">
-    <tag k="addr:housenumber" v="5382"/>
-    <tag k="addr:street" v="Old Kerner Road"/>
-    <tag k="addr:city" v="Lafitte"/>
-    <tag k="addr:postcode" v="70067"/>
-  </way>
-  <way id="977845501" version="1">
-    <tag k="addr:housenumber" v="5368"/>
-    <tag k="addr:street" v="Old Kerner Road"/>
-    <tag k="addr:city" v="Lafitte"/>
-    <tag k="addr:postcode" v="70067"/>
-  </way>
-  <way id="977845681" version="1">
-    <tag k="addr:housenumber" v="5339"/>
-    <tag k="addr:street" v="Fisher Street"/>
-    <tag k="addr:city" v="Lafitte"/>
-    <tag k="addr:postcode" v="70067"/>
-  </way>
-  <way id="977845682" version="1">
-    <tag k="addr:housenumber" v="5108"/>
+    <tag k="addr:state" v="LA"/>
     <tag k="addr:street" v="2nd Street"/>
+    <tag k="building" v="yes"/>
+    <tag k="addr:housenumber" v="5108"/>
     <tag k="addr:city" v="Lafitte"/>
-    <tag k="addr:postcode" v="70067"/>
     <tag k="addr:unit" v="F"/>
+    <nd ref="9048040275"/>
+    <nd ref="9048040274"/>
+    <nd ref="9048040273"/>
+    <nd ref="9048040272"/>
+    <nd ref="9048040275"/>
   </way>
-  <way id="977845684" version="1">
-    <tag k="addr:housenumber" v="5348"/>
-    <tag k="addr:street" v="Fisher Street"/>
-    <tag k="addr:city" v="Lafitte"/>
+  <way id="992667099" version="1" action="modify">
     <tag k="addr:postcode" v="70067"/>
-    <tag k="addr:unit" v="B"/>
-  </way>
-  <way id="977845685" version="1">
-    <tag k="addr:housenumber" v="5348"/>
-    <tag k="addr:street" v="Fisher Street"/>
-    <tag k="addr:city" v="Lafitte"/>
-    <tag k="addr:postcode" v="70067"/>
-    <tag k="addr:unit" v="A"/>
-  </way>
-  <way id="977845686" version="1">
-    <tag k="addr:housenumber" v="5354"/>
-    <tag k="addr:street" v="Fisher Street"/>
-    <tag k="addr:city" v="Lafitte"/>
-    <tag k="addr:postcode" v="70067"/>
-  </way>
-  <way id="977845687" version="1">
-    <tag k="addr:housenumber" v="5358"/>
-    <tag k="addr:street" v="Fisher Street"/>
-    <tag k="addr:city" v="Lafitte"/>
-    <tag k="addr:postcode" v="70067"/>
-    <tag k="addr:unit" v="Ll58"/>
-  </way>
-  <way id="977845688" version="1">
-    <tag k="addr:housenumber" v="5372"/>
-    <tag k="addr:street" v="Fisher Street"/>
-    <tag k="addr:city" v="Lafitte"/>
-    <tag k="addr:postcode" v="70067"/>
-  </way>
-  <way id="992667085" version="1">
-    <tag k="addr:housenumber" v="5080"/>
-    <tag k="addr:street" v="Betty Mae Street"/>
-    <tag k="addr:city" v="Lafitte"/>
-    <tag k="addr:postcode" v="70067"/>
-  </way>
-  <way id="992667086" version="1">
-    <tag k="addr:housenumber" v="5070"/>
-    <tag k="addr:street" v="Betty Mae Street"/>
-    <tag k="addr:city" v="Lafitte"/>
-    <tag k="addr:postcode" v="70067"/>
-  </way>
-  <way id="992667087" version="1">
-    <tag k="addr:housenumber" v="5058"/>
-    <tag k="addr:street" v="Betty Mae Street"/>
-    <tag k="addr:city" v="Lafitte"/>
-    <tag k="addr:postcode" v="70067"/>
-  </way>
-  <way id="992667088" version="1">
-    <tag k="addr:housenumber" v="5053"/>
-    <tag k="addr:street" v="Betty Mae Street"/>
-    <tag k="addr:city" v="Lafitte"/>
-    <tag k="addr:postcode" v="70067"/>
-  </way>
-  <way id="992667089" version="1">
-    <tag k="addr:housenumber" v="5067"/>
-    <tag k="addr:street" v="Betty Mae Street"/>
-    <tag k="addr:city" v="Lafitte"/>
-    <tag k="addr:postcode" v="70067"/>
-  </way>
-  <way id="992667090" version="1">
-    <tag k="addr:housenumber" v="5085"/>
-    <tag k="addr:street" v="Betty Mae Street"/>
-    <tag k="addr:city" v="Lafitte"/>
-    <tag k="addr:postcode" v="70067"/>
-  </way>
-  <way id="992667099" version="1">
+    <tag k="addr:state" v="LA"/>
+    <tag k="addr:street" v="Central Street"/>
+    <tag k="building" v="yes"/>
     <tag k="addr:housenumber" v="4933"/>
-    <tag k="addr:street" v="Central Street"/>
     <tag k="addr:city" v="Lafitte"/>
-    <tag k="addr:postcode" v="70067"/>
     <tag k="addr:unit" v="B"/>
+    <nd ref="9171415693"/>
+    <nd ref="9171415692"/>
+    <nd ref="9171415691"/>
+    <nd ref="9171415690"/>
+    <nd ref="9171415689"/>
+    <nd ref="9171415688"/>
+    <nd ref="9171415693"/>
   </way>
-  <way id="992667100" version="1">
+  <way id="992667100" version="1" action="modify">
+    <tag k="addr:postcode" v="70067"/>
+    <tag k="addr:state" v="LA"/>
+    <tag k="addr:street" v="Central Street"/>
+    <tag k="building" v="yes"/>
     <tag k="addr:housenumber" v="4933"/>
-    <tag k="addr:street" v="Central Street"/>
     <tag k="addr:city" v="Lafitte"/>
-    <tag k="addr:postcode" v="70067"/>
     <tag k="addr:unit" v="A"/>
+    <nd ref="9171415697"/>
+    <nd ref="9171415696"/>
+    <nd ref="9171415695"/>
+    <nd ref="9171415694"/>
+    <nd ref="9171415697"/>
   </way>
-  <way id="992667105" version="1">
-    <tag k="addr:housenumber" v="4961"/>
+  <way id="992667124" version="1" action="modify">
+    <tag k="addr:postcode" v="70067"/>
+    <tag k="addr:state" v="LA"/>
     <tag k="addr:street" v="Central Street"/>
-    <tag k="addr:city" v="Lafitte"/>
-    <tag k="addr:postcode" v="70067"/>
-  </way>
-  <way id="992667106" version="1">
-    <tag k="addr:housenumber" v="4953"/>
-    <tag k="addr:street" v="Central Street"/>
-    <tag k="addr:city" v="Lafitte"/>
-    <tag k="addr:postcode" v="70067"/>
-  </way>
-  <way id="992667107" version="1">
-    <tag k="addr:housenumber" v="4939"/>
-    <tag k="addr:street" v="Central Street"/>
-    <tag k="addr:city" v="Lafitte"/>
-    <tag k="addr:postcode" v="70067"/>
-  </way>
-  <way id="992667114" version="1">
-    <tag k="addr:housenumber" v="5119"/>
-    <tag k="addr:street" v="Randy Street"/>
-    <tag k="addr:city" v="Lafitte"/>
-    <tag k="addr:postcode" v="70067"/>
-  </way>
-  <way id="992667115" version="1">
-    <tag k="addr:housenumber" v="5111"/>
-    <tag k="addr:street" v="Randy Street"/>
-    <tag k="addr:city" v="Lafitte"/>
-    <tag k="addr:postcode" v="70067"/>
-  </way>
-  <way id="992667117" version="1">
-    <tag k="addr:housenumber" v="5116"/>
-    <tag k="addr:street" v="Randy Street"/>
-    <tag k="addr:city" v="Lafitte"/>
-    <tag k="addr:postcode" v="70067"/>
-  </way>
-  <way id="992667118" version="1">
-    <tag k="addr:housenumber" v="5102"/>
-    <tag k="addr:street" v="Randy Street"/>
-    <tag k="addr:city" v="Lafitte"/>
-    <tag k="addr:postcode" v="70067"/>
-  </way>
-  <way id="992667120" version="1">
-    <tag k="addr:housenumber" v="4984"/>
-    <tag k="addr:street" v="Central Street"/>
-    <tag k="addr:city" v="Lafitte"/>
-    <tag k="addr:postcode" v="70067"/>
-  </way>
-  <way id="992667124" version="1">
+    <tag k="building" v="yes"/>
     <tag k="addr:housenumber" v="5141"/>
-    <tag k="addr:street" v="Central Street"/>
     <tag k="addr:city" v="Lafitte"/>
-    <tag k="addr:postcode" v="70067"/>
+    <nd ref="9171415787"/>
+    <nd ref="9171415784"/>
+    <nd ref="9171415785"/>
+    <nd ref="9171415786"/>
+    <nd ref="9171415787"/>
   </way>
-  <way id="992667134" version="1">
-    <tag k="addr:housenumber" v="5132"/>
-    <tag k="addr:street" v="Anna Street"/>
-    <tag k="addr:city" v="Lafitte"/>
+  <way id="992667138" version="1" action="modify">
     <tag k="addr:postcode" v="70067"/>
-  </way>
-  <way id="992667136" version="1">
-    <tag k="addr:housenumber" v="5133"/>
-    <tag k="addr:street" v="Anna Street"/>
-    <tag k="addr:city" v="Lafitte"/>
-    <tag k="addr:postcode" v="70067"/>
-  </way>
-  <way id="992667137" version="1">
-    <tag k="addr:housenumber" v="5118"/>
-    <tag k="addr:street" v="Anna Street"/>
-    <tag k="addr:city" v="Lafitte"/>
-    <tag k="addr:postcode" v="70067"/>
-  </way>
-  <way id="992667138" version="1">
+    <tag k="addr:state" v="LA"/>
+    <tag k="addr:street" v="Jean Lafitte Boulevard"/>
+    <tag k="building" v="yes"/>
     <tag k="addr:housenumber" v="5214"/>
-    <tag k="addr:street" v="Jean Lafitte Boulevard"/>
     <tag k="addr:city" v="Lafitte"/>
-    <tag k="addr:postcode" v="70067"/>
+    <nd ref="9171415894"/>
+    <nd ref="9171415893"/>
+    <nd ref="9171415892"/>
+    <nd ref="9171415891"/>
+    <nd ref="9171415890"/>
+    <nd ref="9171415889"/>
+    <nd ref="9171415894"/>
   </way>
-  <way id="992667143" version="1">
+  <way id="992667143" version="1" action="modify">
+    <tag k="addr:postcode" v="70067"/>
+    <tag k="addr:state" v="LA"/>
+    <tag k="addr:street" v="Jean Lafitte Boulevard"/>
+    <tag k="building" v="yes"/>
     <tag k="addr:housenumber" v="5225"/>
-    <tag k="addr:street" v="Jean Lafitte Boulevard"/>
     <tag k="addr:city" v="Lafitte"/>
-    <tag k="addr:postcode" v="70067"/>
     <tag k="addr:unit" v="A"/>
+    <nd ref="9171415907"/>
+    <nd ref="9171415904"/>
+    <nd ref="9171415905"/>
+    <nd ref="9171415906"/>
+    <nd ref="9171415907"/>
   </way>
-  <way id="992667147" version="1">
-    <tag k="addr:housenumber" v="5178"/>
-    <tag k="addr:street" v="Seth Street"/>
-    <tag k="addr:city" v="Lafitte"/>
+  <way id="992667181" version="1" action="modify">
     <tag k="addr:postcode" v="70067"/>
-  </way>
-  <way id="992667155" version="1">
-    <tag k="addr:housenumber" v="5298"/>
-    <tag k="addr:street" v="Jean Lafitte Boulevard"/>
-    <tag k="addr:city" v="Lafitte"/>
-    <tag k="addr:postcode" v="70067"/>
-  </way>
-  <way id="992667161" version="1">
-    <tag k="addr:housenumber" v="5340"/>
+    <tag k="addr:state" v="LA"/>
     <tag k="addr:street" v="Dufrene Street"/>
-    <tag k="addr:city" v="Lafitte"/>
-    <tag k="addr:postcode" v="70067"/>
-  </way>
-  <way id="992667162" version="1">
-    <tag k="addr:housenumber" v="5342"/>
-    <tag k="addr:street" v="Dufrene Street"/>
-    <tag k="addr:city" v="Lafitte"/>
-    <tag k="addr:postcode" v="70067"/>
-  </way>
-  <way id="992667163" version="1">
-    <tag k="addr:housenumber" v="5348"/>
-    <tag k="addr:street" v="Dufrene Street"/>
-    <tag k="addr:city" v="Lafitte"/>
-    <tag k="addr:postcode" v="70067"/>
-  </way>
-  <way id="992667164" version="1">
-    <tag k="addr:housenumber" v="5349"/>
-    <tag k="addr:street" v="Dufrene Street"/>
-    <tag k="addr:city" v="Lafitte"/>
-    <tag k="addr:postcode" v="70067"/>
-  </way>
-  <way id="992667165" version="1">
-    <tag k="addr:housenumber" v="5343"/>
-    <tag k="addr:street" v="Dufrene Street"/>
-    <tag k="addr:city" v="Lafitte"/>
-    <tag k="addr:postcode" v="70067"/>
-  </way>
-  <way id="992667166" version="1">
-    <tag k="addr:housenumber" v="5124"/>
-    <tag k="addr:street" v="Main Road"/>
-    <tag k="addr:city" v="Lafitte"/>
-    <tag k="addr:postcode" v="70067"/>
-  </way>
-  <way id="992667167" version="1">
-    <tag k="addr:housenumber" v="5118"/>
-    <tag k="addr:street" v="Main Road"/>
-    <tag k="addr:city" v="Lafitte"/>
-    <tag k="addr:postcode" v="70067"/>
-  </way>
-  <way id="992667168" version="1">
-    <tag k="addr:housenumber" v="5142"/>
-    <tag k="addr:street" v="Main Road"/>
-    <tag k="addr:city" v="Lafitte"/>
-    <tag k="addr:postcode" v="70067"/>
-  </way>
-  <way id="992667170" version="1">
-    <tag k="addr:housenumber" v="5146"/>
-    <tag k="addr:street" v="Main Road"/>
-    <tag k="addr:city" v="Lafitte"/>
-    <tag k="addr:postcode" v="70067"/>
-  </way>
-  <way id="992667177" version="1">
-    <tag k="addr:housenumber" v="5327"/>
-    <tag k="addr:street" v="Dufrene Street"/>
-    <tag k="addr:city" v="Lafitte"/>
-    <tag k="addr:postcode" v="70067"/>
-  </way>
-  <way id="992667178" version="1">
-    <tag k="addr:housenumber" v="5134"/>
-    <tag k="addr:street" v="Nunez Street"/>
-    <tag k="addr:city" v="Lafitte"/>
-    <tag k="addr:postcode" v="70067"/>
-  </way>
-  <way id="992667179" version="1">
-    <tag k="addr:housenumber" v="5119"/>
-    <tag k="addr:street" v="Nunez Street"/>
-    <tag k="addr:city" v="Lafitte"/>
-    <tag k="addr:postcode" v="70067"/>
-  </way>
-  <way id="992667181" version="1">
+    <tag k="building" v="yes"/>
     <tag k="addr:housenumber" v="5336"/>
-    <tag k="addr:street" v="Dufrene Street"/>
     <tag k="addr:city" v="Lafitte"/>
-    <tag k="addr:postcode" v="70067"/>
-  </way>
-  <way id="992667182" version="1">
-    <tag k="addr:housenumber" v="5336"/>
-    <tag k="addr:street" v="Jean Lafitte Boulevard"/>
-    <tag k="addr:city" v="Lafitte"/>
-    <tag k="addr:postcode" v="70067"/>
-  </way>
-  <way id="992667184" version="1">
-    <tag k="addr:housenumber" v="5362"/>
-    <tag k="addr:street" v="Jean Lafitte Boulevard"/>
-    <tag k="addr:city" v="Lafitte"/>
-    <tag k="addr:postcode" v="70067"/>
-  </way>
-  <way id="992667185" version="1">
-    <tag k="addr:housenumber" v="5368"/>
-    <tag k="addr:street" v="Jean Lafitte Boulevard"/>
-    <tag k="addr:city" v="Lafitte"/>
-    <tag k="addr:postcode" v="70067"/>
-  </way>
-  <way id="992667186" version="1">
-    <tag k="addr:housenumber" v="4977"/>
-    <tag k="addr:street" v="Main Road"/>
-    <tag k="addr:city" v="Lafitte"/>
-    <tag k="addr:postcode" v="70067"/>
-  </way>
-  <way id="992667187" version="1">
-    <tag k="addr:housenumber" v="4971"/>
-    <tag k="addr:street" v="Main Road"/>
-    <tag k="addr:city" v="Lafitte"/>
-    <tag k="addr:postcode" v="70067"/>
-  </way>
-  <way id="992667189" version="1">
-    <tag k="addr:housenumber" v="4915"/>
-    <tag k="addr:street" v="Main Road"/>
-    <tag k="addr:city" v="Lafitte"/>
-    <tag k="addr:postcode" v="70067"/>
-  </way>
-  <way id="992667190" version="1">
-    <tag k="addr:housenumber" v="4951"/>
-    <tag k="addr:street" v="Main Road"/>
-    <tag k="addr:city" v="Lafitte"/>
-    <tag k="addr:postcode" v="70067"/>
+    <nd ref="9171416075"/>
+    <nd ref="9171416072"/>
+    <nd ref="9171416073"/>
+    <nd ref="9171416074"/>
+    <nd ref="9171416075"/>
   </way>
 </osm>

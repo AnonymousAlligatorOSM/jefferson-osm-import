@@ -1,3 +1,5 @@
-address has no house number: (None, 'Lake Villa Drive') https://osm.org/?mlat=30.003305053721256&mlon=-90.17619218168568&zoom=16
-new building address (('3330', 'Lake Villa Drive') https://osm.org/?mlat=30.005528075109936&mlon=-90.17712075961835&zoom=16) does not match the old one (('4101', 'Veterans Memorial Boulevard'))
-new building address (('3434', 'Houma Boulevard') https://osm.org/?mlat=30.006221950944227&mlon=-90.18057212553998&zoom=16) does not match the old one (('3333', 'Kingman Street'))
+address has no house number: (None, None, 'Lake Villa Drive') https://osm.org/?mlat=30.003305053721256&mlon=-90.17619218168568&zoom=16
+new building tag (addr:housenumber=3330) does not match the old one (addr:housenumber=4101)
+new building tag (addr:street=Lake Villa Drive) does not match the old one (addr:street=Veterans Memorial Boulevard)
+new building tag (addr:housenumber=3434) does not match the old one (addr:housenumber=3333)
+new building tag (addr:street=Houma Boulevard) does not match the old one (addr:street=Kingman Street)

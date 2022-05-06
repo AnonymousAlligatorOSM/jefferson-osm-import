@@ -3,18 +3,18 @@
   <changeset_tag k="comment" v="Import buildings and addresses in Jefferson Parish, see https://wiki.openstreetmap.org/wiki/Import/Catalogue/Jefferson_Parish_Addresses_and_Buildings"/>
   <changeset_tag k="source" v="Jefferson Parish Planning Department"/>
   <changeset_tag k="source_file" v="8169_13528"/>
-  <node visible="true" id="-1" lat="29.91228559454066626699386688" lon="-90.25237177129261567642970476"/>
-  <node visible="true" id="-2" lat="29.91228353834633679753096658" lon="-90.25230601039963573839486344"/>
-  <node visible="true" id="-3" lat="29.91230797545767572387376276" lon="-90.25230574576264075403742027"/>
-  <node visible="true" id="-4" lat="29.91230210601406014347958262" lon="-90.25218109781174291583738523"/>
-  <node visible="true" id="-5" lat="29.91227699534764994382385339" lon="-90.25218239918946494526608149"/>
-  <node visible="true" id="-6" lat="29.91227512044708092275868694" lon="-90.25214265548451919585204450"/>
-  <node visible="true" id="-7" lat="29.91218632278964406623344985" lon="-90.25214699235776549812726444"/>
-  <node visible="true" id="-8" lat="29.91218852098066705025303236" lon="-90.25218205252264169757836498"/>
-  <node visible="true" id="-9" lat="29.91207468183290174579269660" lon="-90.25219105784034923090075608"/>
-  <node visible="true" id="-10" lat="29.91207831754502777243942546" lon="-90.25230222408620761598285753"/>
-  <node visible="true" id="-11" lat="29.91219346170372972437689896" lon="-90.25229721885717992790887365"/>
-  <node visible="true" id="-12" lat="29.91219583720559427320040413" lon="-90.25237493566700663905066904"/>
+  <node visible="true" id="-1" lat="29.91228331260709438765843515" lon="-90.25230651962220917994272895"/>
+  <node visible="true" id="-2" lat="29.91230743653631307665818895" lon="-90.25230527596063723194674822"/>
+  <node visible="true" id="-3" lat="29.91230262583298937784093141" lon="-90.25218107443697590497322381"/>
+  <node visible="true" id="-4" lat="29.91227682779688024083952769" lon="-90.25218240440374017907743109"/>
+  <node visible="true" id="-5" lat="29.91227528320910522552367183" lon="-90.25214252663774061602453003"/>
+  <node visible="true" id="-6" lat="29.91218674671004151832676143" lon="-90.25214709095932619220548077"/>
+  <node visible="true" id="-7" lat="29.91218816234025013045538799" lon="-90.25218363929896270292374538"/>
+  <node visible="true" id="-8" lat="29.91207428682441005207692797" lon="-90.25218950991684607743081870"/>
+  <node visible="true" id="-9" lat="29.91207866992026609409549565" lon="-90.25230267131594530383154051"/>
+  <node visible="true" id="-10" lat="29.91219312699072574446290673" lon="-90.25229677071693856760248309"/>
+  <node visible="true" id="-11" lat="29.91219618220290499266411643" lon="-90.25237564932405120998737402"/>
+  <node visible="true" id="-12" lat="29.91228581123986529632929887" lon="-90.25237102867841088027489604"/>
   <way visible="true" id="-1">
     <nd ref="-1"/>
     <nd ref="-2"/>
@@ -30,6 +30,7 @@
     <nd ref="-12"/>
     <nd ref="-1"/>
     <tag k="building" v="yes"/>
+    <tag k="building:levels" v="2"/>
     <tag k="addr:housenumber" v="5201"/>
     <tag k="addr:street" v="Highway 90"/>
     <tag k="addr:city" v="Waggaman"/>

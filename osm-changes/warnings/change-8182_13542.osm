@@ -3,16 +3,16 @@
   <changeset_tag k="comment" v="Import buildings and addresses in Jefferson Parish, see https://wiki.openstreetmap.org/wiki/Import/Catalogue/Jefferson_Parish_Addresses_and_Buildings"/>
   <changeset_tag k="source" v="Jefferson Parish Planning Department"/>
   <changeset_tag k="source_file" v="8182_13542"/>
-  <node visible="true" id="-1" lat="29.77842568201630513158306712" lon="-90.09939759130622860539006069"/>
-  <node visible="true" id="-2" lat="29.77841221848741426470041915" lon="-90.09929528341355364773335168"/>
-  <node visible="true" id="-3" lat="29.77830361915225054758593615" lon="-90.09931382274980649071949301"/>
-  <node visible="true" id="-4" lat="29.77830021140743710361675767" lon="-90.09928376696672103207674809"/>
-  <node visible="true" id="-5" lat="29.77820034934902082568441983" lon="-90.09930076495369632993970299"/>
-  <node visible="true" id="-6" lat="29.77820169978568287660891656" lon="-90.09931149728288346523186192"/>
-  <node visible="true" id="-7" lat="29.77816550030700781803716382" lon="-90.09931767704351557313202647"/>
-  <node visible="true" id="-8" lat="29.77818030842525942603060685" lon="-90.09943000138349589178687893"/>
-  <node visible="true" id="-9" lat="29.77821650881130821630904393" lon="-90.09942382165148444528313121"/>
-  <node visible="true" id="-10" lat="29.77821722059145770344912307" lon="-90.09943312839146756232366897"/>
+  <node visible="true" id="-1" lat="29.77841239618656032916987897" lon="-90.09929528718441815726691857"/>
+  <node visible="true" id="-2" lat="29.77830383187072271766737686" lon="-90.09931375257396268807497108"/>
+  <node visible="true" id="-3" lat="29.77829999522581516657737666" lon="-90.09928381011511078213516157"/>
+  <node visible="true" id="-4" lat="29.77820033644288244545350608" lon="-90.09930076077013438862195471"/>
+  <node visible="true" id="-5" lat="29.77820171331569909511927108" lon="-90.09931150633512686454196228"/>
+  <node visible="true" id="-6" lat="29.77816570222212533280981006" lon="-90.09931763134690640981716570"/>
+  <node visible="true" id="-7" lat="29.77818010367428058771110955" lon="-90.09943002494732411378208781"/>
+  <node visible="true" id="-8" lat="29.77821627498529366562252108" lon="-90.09942387268380059595074272"/>
+  <node visible="true" id="-9" lat="29.77821745078236403969640378" lon="-90.09943304898942528780025896"/>
+  <node visible="true" id="-10" lat="29.77842551362761369659892807" lon="-90.09939766019658691220683977"/>
   <way visible="true" id="-1">
     <nd ref="-1"/>
     <nd ref="-2"/>
@@ -26,6 +26,7 @@
     <nd ref="-10"/>
     <nd ref="-1"/>
     <tag k="building" v="yes"/>
+    <tag k="building:levels" v="1"/>
     <tag k="addr:street" v="Barataria Boulevard"/>
     <tag k="addr:city" v="Crown Point"/>
     <tag k="addr:postcode" v="70072"/>

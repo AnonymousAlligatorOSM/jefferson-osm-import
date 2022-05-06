@@ -3,14 +3,14 @@
   <changeset_tag k="comment" v="Import buildings and addresses in Jefferson Parish, see https://wiki.openstreetmap.org/wiki/Import/Catalogue/Jefferson_Parish_Addresses_and_Buildings"/>
   <changeset_tag k="source" v="Jefferson Parish Planning Department"/>
   <changeset_tag k="source_file" v="8167_13528"/>
-  <node visible="true" id="-1" lat="29.91470064477186596718638611" lon="-90.26368113520314295783464331"/>
-  <node visible="true" id="-2" lat="29.91466449645863789896793605" lon="-90.26369443818042270777368685"/>
-  <node visible="true" id="-3" lat="29.91471838457923126952664461" lon="-90.26386392538233849336393178"/>
-  <node visible="true" id="-4" lat="29.91475391355407253968223813" lon="-90.26385134576733548783522565"/>
-  <node visible="true" id="-5" lat="29.91474297895847911377131823" lon="-90.26381343164756287933414569"/>
-  <node visible="true" id="-6" lat="29.91476165496575490010400245" lon="-90.26380390341347492721979506"/>
-  <node visible="true" id="-7" lat="29.91474751860038949757836235" lon="-90.26375669546946767241024645"/>
-  <node visible="true" id="-8" lat="29.91472881342691181316695292" lon="-90.26376263651991393999196589"/>
+  <node visible="true" id="-1" lat="29.91466534917410413640936895" lon="-90.26369488131447837986343075"/>
+  <node visible="true" id="-2" lat="29.91471803227251413659359969" lon="-90.26386509905510990847687935"/>
+  <node visible="true" id="-3" lat="29.91475398597244250709081825" lon="-90.26385028739865390434715664"/>
+  <node visible="true" id="-4" lat="29.91474237243229694627189019" lon="-90.26381276432675804244354367"/>
+  <node visible="true" id="-5" lat="29.91476211723744427217752673" lon="-90.26380463016202782000618754"/>
+  <node visible="true" id="-6" lat="29.91474706587515441924551851" lon="-90.26375599956554651726037264"/>
+  <node visible="true" id="-7" lat="29.91472775026299757428205339" lon="-90.26376395691670495580183342"/>
+  <node visible="true" id="-8" lat="29.91470173208915639406768605" lon="-90.26367989284442217012838228"/>
   <way visible="true" id="-1">
     <nd ref="-1"/>
     <nd ref="-2"/>
@@ -22,6 +22,7 @@
     <nd ref="-8"/>
     <nd ref="-1"/>
     <tag k="building" v="yes"/>
+    <tag k="building:levels" v="1"/>
     <tag k="addr:housenumber" v="5800"/>
     <tag k="addr:street" v="Highway 90"/>
     <tag k="addr:city" v="Waggaman"/>
@@ -32,13 +33,13 @@
     <tag k="addr:street" v="Highway 90"/>
     <tag k="addr:city" v="Waggaman"/>
     <tag k="addr:postcode" v="70094"/>
-    <tag k="addr:unit" v="Corps Tlrs"/>
+    <tag k="addr:unit" v="CORPS TLRS"/>
   </node>
   <node visible="true" id="-10" lat="29.91149884349915311076983926" lon="-90.26435397035886865069187479">
     <tag k="addr:housenumber" v="6030"/>
     <tag k="addr:street" v="Highway 90"/>
     <tag k="addr:city" v="Waggaman"/>
     <tag k="addr:postcode" v="70094"/>
-    <tag k="addr:unit" v="Trailer/South"/>
+    <tag k="addr:unit" v="TRAILER/S"/>
   </node>
 </osm>

@@ -3,10 +3,10 @@
   <changeset_tag k="comment" v="Import buildings and addresses in Jefferson Parish, see https://wiki.openstreetmap.org/wiki/Import/Catalogue/Jefferson_Parish_Addresses_and_Buildings"/>
   <changeset_tag k="source" v="Jefferson Parish Planning Department"/>
   <changeset_tag k="source_file" v="8175_13520"/>
-  <node visible="true" id="-1" lat="29.99181239916084606988988526" lon="-90.17990467363549100809905212"/>
-  <node visible="true" id="-2" lat="29.99178940612342358917885576" lon="-90.18006292830209247313177912"/>
-  <node visible="true" id="-3" lat="29.99189272820370533167988469" lon="-90.18008327754964170708262827"/>
-  <node visible="true" id="-4" lat="29.99191572126525784369732719" lon="-90.17992502272376498240191722"/>
+  <node visible="true" id="-1" lat="29.99178931162227712547974079" lon="-90.18006300590067780831304844"/>
+  <node visible="true" id="-2" lat="29.99189266104239592891644861" lon="-90.18008316841223859228193760"/>
+  <node visible="true" id="-3" lat="29.99191581574223874895324116" lon="-90.17992494520483148789935512"/>
+  <node visible="true" id="-4" lat="29.99181246634629971481444954" lon="-90.17990478269327070393046597"/>
   <way visible="true" id="-1">
     <nd ref="-1"/>
     <nd ref="-2"/>
@@ -14,17 +14,18 @@
     <nd ref="-4"/>
     <nd ref="-1"/>
     <tag k="building" v="yes"/>
+    <tag k="building:levels" v="1"/>
     <tag k="addr:housenumber" v="1913"/>
     <tag k="addr:street" v="Green Avenue"/>
     <tag k="addr:city" v="Metairie"/>
     <tag k="addr:postcode" v="70001"/>
   </way>
-  <node visible="true" id="-5" lat="29.98620356180311219418399560" lon="-90.18002964077328442726866342"/>
-  <node visible="true" id="-6" lat="29.98620187259589897621481214" lon="-90.18006575407017066936532501"/>
-  <node visible="true" id="-7" lat="29.98629340388280439810841926" lon="-90.18007530858653808536473662"/>
-  <node visible="true" id="-8" lat="29.98630113102935368374346581" lon="-90.17997178717553197202505544"/>
-  <node visible="true" id="-9" lat="29.98618623187389431450355914" lon="-90.17995918957048218089767033"/>
-  <node visible="true" id="-10" lat="29.98618073897658220516859728" lon="-90.18002702034367246142210206"/>
+  <node visible="true" id="-5" lat="29.98620132471969768062081130" lon="-90.18006577644413823691138532"/>
+  <node visible="true" id="-6" lat="29.98629328772877400410834525" lon="-90.18007521803841086693864781"/>
+  <node visible="true" id="-7" lat="29.98630128380521497888366866" lon="-90.17997140225119778733642306"/>
+  <node visible="true" id="-8" lat="29.98618606809121445166965714" lon="-90.17995957336479762034286978"/>
+  <node visible="true" id="-9" lat="29.98618086155154571770253824" lon="-90.18002717156450387392396806"/>
+  <node visible="true" id="-10" lat="29.98620411426538723276280507" lon="-90.18002955885665983259968925"/>
   <way visible="true" id="-2">
     <nd ref="-5"/>
     <nd ref="-6"/>
@@ -34,15 +35,16 @@
     <nd ref="-10"/>
     <nd ref="-5"/>
     <tag k="building" v="yes"/>
+    <tag k="building:levels" v="1"/>
     <tag k="addr:housenumber" v="1304"/>
     <tag k="addr:street" v="Green Avenue"/>
     <tag k="addr:city" v="Metairie"/>
     <tag k="addr:postcode" v="70001"/>
   </way>
-  <node visible="true" id="-11" lat="29.99238918044343193969325512" lon="-90.18669220773209360686450964"/>
-  <node visible="true" id="-12" lat="29.99239768767557379192112421" lon="-90.18680772985898386195913190"/>
-  <node visible="true" id="-13" lat="29.99251634758383744383536396" lon="-90.18679487559850826983165462"/>
-  <node visible="true" id="-14" lat="29.99250785195064850086055230" lon="-90.18668078974619106702448335"/>
+  <node visible="true" id="-11" lat="29.98744973583170292386057554" lon="-90.17943357481490807003865484"/>
+  <node visible="true" id="-12" lat="29.98740957591719080710390699" lon="-90.17970811095884187125193421"/>
+  <node visible="true" id="-13" lat="29.98751529890398259681205673" lon="-90.17972872634911141176417004"/>
+  <node visible="true" id="-14" lat="29.98755545877578754243586445" lon="-90.17945419020519182140560588"/>
   <way visible="true" id="-3">
     <nd ref="-11"/>
     <nd ref="-12"/>
@@ -50,17 +52,18 @@
     <nd ref="-14"/>
     <nd ref="-11"/>
     <tag k="building" v="yes"/>
-    <tag k="addr:housenumber" v="4741"/>
-    <tag k="addr:street" v="Sturtz Drive"/>
+    <tag k="building:levels" v="1"/>
+    <tag k="addr:housenumber" v="1341"/>
+    <tag k="addr:street" v="Green Avenue"/>
     <tag k="addr:city" v="Metairie"/>
     <tag k="addr:postcode" v="70001"/>
   </way>
-  <node visible="true" id="-15" lat="29.99193433969449884557434416" lon="-90.18560200310889740649145097"/>
-  <node visible="true" id="-16" lat="29.99187504327624509414818021" lon="-90.18575564741979633254231885"/>
-  <node visible="true" id="-17" lat="29.99202511263310810818438767" lon="-90.18583219656810001652047504"/>
-  <node visible="true" id="-18" lat="29.99206118926457875772939587" lon="-90.18573986070769876732811099"/>
-  <node visible="true" id="-19" lat="29.99204736934899173661506211" lon="-90.18573212082760903740563663"/>
-  <node visible="true" id="-20" lat="29.99207122065304176317113161" lon="-90.18567152320181889990635682"/>
+  <node visible="true" id="-15" lat="29.98719005955795324780410738" lon="-90.17963731358618417743855389"/>
+  <node visible="true" id="-16" lat="29.98716063177228008385100111" lon="-90.17963151613699324116169009"/>
+  <node visible="true" id="-17" lat="29.98714907028525544774311129" lon="-90.17970974387223748180986149"/>
+  <node visible="true" id="-18" lat="29.98726002615143571006228740" lon="-90.17973160284579137169203022"/>
+  <node visible="true" id="-19" lat="29.98728356187021404366532806" lon="-90.17957235446074548690376105"/>
+  <node visible="true" id="-20" lat="29.98720203381236260042896902" lon="-90.17955629293638253329845611"/>
   <way visible="true" id="-4">
     <nd ref="-15"/>
     <nd ref="-16"/>
@@ -70,21 +73,20 @@
     <nd ref="-20"/>
     <nd ref="-15"/>
     <tag k="building" v="yes"/>
-    <tag k="addr:housenumber" v="4720"/>
-    <tag k="addr:street" v="Sturtz Drive"/>
+    <tag k="building:levels" v="1"/>
+    <tag k="addr:housenumber" v="1333"/>
+    <tag k="addr:street" v="Green Avenue"/>
     <tag k="addr:city" v="Metairie"/>
     <tag k="addr:postcode" v="70001"/>
   </way>
-  <node visible="true" id="-21" lat="29.99188528824351962498440116" lon="-90.18037564271877215560380137"/>
-  <node visible="true" id="-22" lat="29.99185662582112499308095721" lon="-90.18061752969802569168678019"/>
-  <node visible="true" id="-23" lat="29.99193835089004878113883024" lon="-90.18063131645423879945155932"/>
-  <node visible="true" id="-24" lat="29.99195044781377816889289534" lon="-90.18053519814885987671004841"/>
-  <node visible="true" id="-25" lat="29.99197486034325876858019910" lon="-90.18053905873854603214567760"/>
-  <node visible="true" id="-26" lat="29.99199107232218963758896280" lon="-90.18039165527414979806053452"/>
-  <node visible="true" id="-27" lat="29.99196290102024775592326478" lon="-90.18038695406539773102849722"/>
-  <node visible="true" id="-28" lat="29.99196468219409794642160705" lon="-90.18037616151954694032610860"/>
-  <node visible="true" id="-29" lat="29.99191710903962615475393250" lon="-90.18036881151518002752709435"/>
-  <node visible="true" id="-30" lat="29.99191658449865016677904350" lon="-90.18038030779867142427974613"/>
+  <node visible="true" id="-21" lat="29.98654159123755036375769123" lon="-90.17947596138101573615131201"/>
+  <node visible="true" id="-22" lat="29.98646952123622000385694264" lon="-90.17946220547129598799074301"/>
+  <node visible="true" id="-23" lat="29.98646811012082125103006547" lon="-90.17947206028111395426094532"/>
+  <node visible="true" id="-24" lat="29.98639058535935220106694032" lon="-90.17945726323961253001471050"/>
+  <node visible="true" id="-25" lat="29.98636356808527381190287997" lon="-90.17964594366162600636016577"/>
+  <node visible="true" id="-26" lat="29.98645626687132548227054940" lon="-90.17966363694429787756234873"/>
+  <node visible="true" id="-27" lat="29.98645432508984143282759760" lon="-90.17967719776646617901860736"/>
+  <node visible="true" id="-28" lat="29.98651122110927147446091112" lon="-90.17968805743501548022322822"/>
   <way visible="true" id="-5">
     <nd ref="-21"/>
     <nd ref="-22"/>
@@ -94,160 +96,180 @@
     <nd ref="-26"/>
     <nd ref="-27"/>
     <nd ref="-28"/>
-    <nd ref="-29"/>
-    <nd ref="-30"/>
     <nd ref="-21"/>
     <tag k="building" v="yes"/>
-    <tag k="addr:housenumber" v="1916"/>
+    <tag k="building:levels" v="1"/>
+    <tag k="addr:housenumber" v="1309"/>
     <tag k="addr:street" v="Green Avenue"/>
     <tag k="addr:city" v="Metairie"/>
     <tag k="addr:postcode" v="70001"/>
   </way>
-  <node visible="true" id="-31" lat="29.99198317544994552008574829" lon="-90.18001853905940379263483919">
-    <tag k="addr:housenumber" v="1913"/>
-    <tag k="addr:street" v="Green Avenue"/>
-    <tag k="addr:city" v="Metairie"/>
-    <tag k="addr:postcode" v="70001"/>
-  </node>
-  <node visible="true" id="-32" lat="29.99200180126908321653900202" lon="-90.18002601217517621989827603">
-    <tag k="addr:housenumber" v="1917"/>
-    <tag k="addr:street" v="Green Avenue"/>
-    <tag k="addr:city" v="Metairie"/>
-    <tag k="addr:postcode" v="70001"/>
-  </node>
-  <node visible="true" id="-33" lat="29.98812022171435742734502128" lon="-90.17945230332475148316007107"/>
-  <node visible="true" id="-34" lat="29.98808968277118580658680003" lon="-90.17967670524065226800303208"/>
-  <node visible="true" id="-35" lat="29.98819549306451648362781270" lon="-90.17969558807385510590393096"/>
-  <node visible="true" id="-36" lat="29.98822604463020624621094612" lon="-90.17947262226364557591296034"/>
-  <node visible="true" id="-37" lat="29.98822166303846614709982532" lon="-90.17947195470763688263104996"/>
-  <node visible="true" id="-38" lat="29.98822578027317931059769762" lon="-90.17944246538482389041746501"/>
-  <node visible="true" id="-39" lat="29.98818633875724160020581621" lon="-90.17943574027297870543407043"/>
-  <node visible="true" id="-40" lat="29.98818220264665512786450563" lon="-90.17946307611474310306221014"/>
+  <node visible="true" id="-29" lat="29.98796186756707271570121520" lon="-90.17997609662077707071148325"/>
+  <node visible="true" id="-30" lat="29.98796203455603404108842369" lon="-90.17998624968510057442472316"/>
+  <node visible="true" id="-31" lat="29.98792460578644636370881926" lon="-90.17998707027986426965071587"/>
+  <node visible="true" id="-32" lat="29.98792682684883459387492621" lon="-90.18012211286500701135082636"/>
+  <node visible="true" id="-33" lat="29.98804561348518760155457130" lon="-90.18011950856524094888300169"/>
+  <node visible="true" id="-34" lat="29.98804322543661626809807785" lon="-90.17997431291580312517908169"/>
   <way visible="true" id="-6">
+    <nd ref="-29"/>
+    <nd ref="-30"/>
+    <nd ref="-31"/>
+    <nd ref="-32"/>
     <nd ref="-33"/>
     <nd ref="-34"/>
+    <nd ref="-29"/>
+    <tag k="building" v="yes"/>
+    <tag k="building:levels" v="1"/>
+    <tag k="addr:housenumber" v="1408"/>
+    <tag k="addr:street" v="Green Avenue"/>
+    <tag k="addr:city" v="Metairie"/>
+    <tag k="addr:postcode" v="70001"/>
+  </way>
+  <node visible="true" id="-35" lat="29.99171331738607904071614030" lon="-90.18032817980245852140797069"/>
+  <node visible="true" id="-36" lat="29.99161538065016685550290276" lon="-90.18031255934430134857393568"/>
+  <node visible="true" id="-37" lat="29.99159722262552918436995242" lon="-90.18046432936606038310856093"/>
+  <node visible="true" id="-38" lat="29.99169515937935415195170208" lon="-90.18047994982421755594259594"/>
+  <way visible="true" id="-7">
     <nd ref="-35"/>
     <nd ref="-36"/>
     <nd ref="-37"/>
     <nd ref="-38"/>
-    <nd ref="-39"/>
-    <nd ref="-40"/>
-    <nd ref="-33"/>
+    <nd ref="-35"/>
     <tag k="building" v="yes"/>
-    <tag k="addr:housenumber" v="1413"/>
+    <tag k="building:levels" v="1"/>
+    <tag k="addr:housenumber" v="1908"/>
     <tag k="addr:street" v="Green Avenue"/>
     <tag k="addr:city" v="Metairie"/>
     <tag k="addr:postcode" v="70001"/>
   </way>
-  <node visible="true" id="-41" lat="29.98783547061231757879795623" lon="-90.17945801116097470639942912"/>
-  <node visible="true" id="-42" lat="29.98774903697948701619679923" lon="-90.17943890449500088379863882"/>
-  <node visible="true" id="-43" lat="29.98770323737975829203605826" lon="-90.17970513159743006781354779"/>
-  <node visible="true" id="-44" lat="29.98775836119571636118052993" lon="-90.17971813851978879483795026"/>
-  <node visible="true" id="-45" lat="29.98776010364878175096237101" lon="-90.17970303743351223602076061"/>
-  <node visible="true" id="-46" lat="29.98780770833135633779420459" lon="-90.17971397660761567749432288"/>
-  <node visible="true" id="-47" lat="29.98783269606234469506489404" lon="-90.17956934956757208965427708"/>
-  <node visible="true" id="-48" lat="29.98779010442572712236142252" lon="-90.17955978895113844373554457"/>
-  <node visible="true" id="-49" lat="29.98779605942337056490032410" lon="-90.17952596906974349622032605"/>
-  <node visible="true" id="-50" lat="29.98782236155489755446978961" lon="-90.17953140969953551575599704"/>
-  <way visible="true" id="-7">
+  <node visible="true" id="-39" lat="29.99173374478698050893399341" lon="-90.18049938128395126568648266"/>
+  <node visible="true" id="-40" lat="29.99183831257910171075309336" lon="-90.18051628580124656764382962"/>
+  <node visible="true" id="-41" lat="29.99185771244398779344919603" lon="-90.18035630753118425673164893"/>
+  <node visible="true" id="-42" lat="29.99175314467231601156527176" lon="-90.18033940301388895477430196"/>
+  <way visible="true" id="-8">
+    <nd ref="-39"/>
+    <nd ref="-40"/>
     <nd ref="-41"/>
     <nd ref="-42"/>
+    <nd ref="-39"/>
+    <tag k="building" v="yes"/>
+    <tag k="building:levels" v="1"/>
+    <tag k="addr:housenumber" v="1912"/>
+    <tag k="addr:street" v="Green Avenue"/>
+    <tag k="addr:city" v="Metairie"/>
+    <tag k="addr:postcode" v="70001"/>
+  </way>
+  <node visible="true" id="-43" lat="29.98659251918455126428852964" lon="-90.18018292348739350927644409"/>
+  <node visible="true" id="-44" lat="29.98667900680436915195059555" lon="-90.18018776698362160004762700"/>
+  <node visible="true" id="-45" lat="29.98667940941182763481265283" lon="-90.18017818404656793518370250"/>
+  <node visible="true" id="-46" lat="29.98670619297301342953687708" lon="-90.18017968398554273790068692"/>
+  <node visible="true" id="-47" lat="29.98671372104526255952805514" lon="-90.18000049930084571769839386"/>
+  <node visible="true" id="-48" lat="29.98660044987320816289866343" lon="-90.17999415586564282421022654"/>
+  <way visible="true" id="-9">
     <nd ref="-43"/>
     <nd ref="-44"/>
     <nd ref="-45"/>
     <nd ref="-46"/>
     <nd ref="-47"/>
     <nd ref="-48"/>
-    <nd ref="-49"/>
-    <nd ref="-50"/>
-    <nd ref="-41"/>
+    <nd ref="-43"/>
     <tag k="building" v="yes"/>
-    <tag k="addr:housenumber" v="1401"/>
+    <tag k="building:levels" v="1"/>
+    <tag k="addr:housenumber" v="1316"/>
     <tag k="addr:street" v="Green Avenue"/>
     <tag k="addr:city" v="Metairie"/>
     <tag k="addr:postcode" v="70001"/>
   </way>
-  <node visible="true" id="-51" lat="29.99134425593285513400587661" lon="-90.18026915090786133077926934"/>
-  <node visible="true" id="-52" lat="29.99132678117613082235948241" lon="-90.18041513254242147468175972"/>
-  <node visible="true" id="-53" lat="29.99143069064800570799889101" lon="-90.18043116671799452888080850"/>
-  <node visible="true" id="-54" lat="29.99144942204606678615164128" lon="-90.18028588763597497290902538"/>
-  <way visible="true" id="-8">
+  <node visible="true" id="-49" lat="29.98701229772714071941663860" lon="-90.18020200637808159171981970"/>
+  <node visible="true" id="-50" lat="29.98710300077984314270906907" lon="-90.18020397204878690899931826"/>
+  <node visible="true" id="-51" lat="29.98710355787352810352786037" lon="-90.18016970591503422838286497"/>
+  <node visible="true" id="-52" lat="29.98713059363763733244923060" lon="-90.18017029182080079863226274"/>
+  <node visible="true" id="-53" lat="29.98713309730640830252923479" lon="-90.18001629428529497545241611"/>
+  <node visible="true" id="-54" lat="29.98701535849260935151505691" lon="-90.18001374270879466621408937"/>
+  <way visible="true" id="-10">
+    <nd ref="-49"/>
+    <nd ref="-50"/>
     <nd ref="-51"/>
     <nd ref="-52"/>
     <nd ref="-53"/>
     <nd ref="-54"/>
-    <nd ref="-51"/>
+    <nd ref="-49"/>
     <tag k="building" v="yes"/>
-    <tag k="addr:housenumber" v="1900"/>
+    <tag k="building:levels" v="1"/>
+    <tag k="addr:housenumber" v="1328"/>
     <tag k="addr:street" v="Green Avenue"/>
     <tag k="addr:city" v="Metairie"/>
     <tag k="addr:postcode" v="70001"/>
   </way>
-  <node visible="true" id="-55" lat="29.99094048090835329389847175" lon="-90.18020344250426489907113137"/>
-  <node visible="true" id="-56" lat="29.99091346440739513923290360" lon="-90.18040195655233048910304205"/>
-  <node visible="true" id="-57" lat="29.99100174193057810612117464" lon="-90.18041745307168355338944821"/>
-  <node visible="true" id="-58" lat="29.99102553794062941960874014" lon="-90.18042220481646609187009744"/>
-  <node visible="true" id="-59" lat="29.99103616567647279111952230" lon="-90.18035098751218470169987995"/>
-  <node visible="true" id="-60" lat="29.99105254188898683764818998" lon="-90.18022225417213633136270801"/>
-  <way visible="true" id="-9">
+  <node visible="true" id="-55" lat="29.99232030562197337530960795" lon="-90.18585781738848083932680311"/>
+  <node visible="true" id="-56" lat="29.99248770008396292041652487" lon="-90.18584224652404657263105037"/>
+  <node visible="true" id="-57" lat="29.99247776638040363650361542" lon="-90.18570663330740444507682696"/>
+  <node visible="true" id="-58" lat="29.99231037819555467649479397" lon="-90.18572292259659661795012653"/>
+  <node visible="true" id="-59" lat="29.99231162853789811606475268" lon="-90.18572290821053627496439731"/>
+  <way visible="true" id="-11">
     <nd ref="-55"/>
     <nd ref="-56"/>
     <nd ref="-57"/>
     <nd ref="-58"/>
     <nd ref="-59"/>
-    <nd ref="-60"/>
     <nd ref="-55"/>
     <tag k="building" v="yes"/>
-    <tag k="addr:housenumber" v="1804"/>
-    <tag k="addr:street" v="Green Avenue"/>
+    <tag k="building:levels" v="1"/>
+    <tag k="addr:housenumber" v="4717"/>
+    <tag k="addr:street" v="Sturtz Drive"/>
     <tag k="addr:city" v="Metairie"/>
     <tag k="addr:postcode" v="70001"/>
   </way>
-  <node visible="true" id="-61" lat="29.98755579221133160672252416" lon="-90.17945409726441141629038611"/>
-  <node visible="true" id="-62" lat="29.98744997018420122003590222" lon="-90.17943377847124963864189340"/>
-  <node visible="true" id="-63" lat="29.98740924567078991458402015" lon="-90.17970856283994862678810023"/>
-  <node visible="true" id="-64" lat="29.98751506136207822805772594" lon="-90.17972816375244349273998523"/>
-  <way visible="true" id="-10">
+  <node visible="true" id="-60" lat="29.99239776014427860673094983" lon="-90.18680726715292905737442197"/>
+  <node visible="true" id="-61" lat="29.99251644024149499045961420" lon="-90.18679532168415846626885468"/>
+  <node visible="true" id="-62" lat="29.99250777368763465347001329" lon="-90.18668053431494513461075258"/>
+  <node visible="true" id="-63" lat="29.99238909358023619233790669" lon="-90.18669247978370151486160466"/>
+  <way visible="true" id="-12">
+    <nd ref="-60"/>
     <nd ref="-61"/>
     <nd ref="-62"/>
     <nd ref="-63"/>
-    <nd ref="-64"/>
-    <nd ref="-61"/>
+    <nd ref="-60"/>
     <tag k="building" v="yes"/>
-    <tag k="addr:housenumber" v="1341"/>
-    <tag k="addr:street" v="Green Avenue"/>
+    <tag k="building:levels" v="1"/>
+    <tag k="addr:housenumber" v="4741"/>
+    <tag k="addr:street" v="Sturtz Drive"/>
     <tag k="addr:city" v="Metairie"/>
     <tag k="addr:postcode" v="70001"/>
   </way>
-  <node visible="true" id="-65" lat="29.98720225003811279407273105" lon="-90.17955656648480555759306299"/>
-  <node visible="true" id="-66" lat="29.98718982902313712202158058" lon="-90.17963713685628590610576794"/>
-  <node visible="true" id="-67" lat="29.98716102620828749536485702" lon="-90.17963172515639769244444324"/>
-  <node visible="true" id="-68" lat="29.98714858626489387916080886" lon="-90.17971014100149318437615875"/>
-  <node visible="true" id="-69" lat="29.98726004018773139137010730" lon="-90.17973111312689127316843951"/>
-  <node visible="true" id="-70" lat="29.98728365172724252829539182" lon="-90.17957214121250331118062604"/>
-  <way visible="true" id="-11">
+  <node visible="true" id="-64" lat="29.99187514498057893774785043" lon="-90.18575535478973392855550628"/>
+  <node visible="true" id="-65" lat="29.99202517991087546533890418" lon="-90.18583257617144965934130596"/>
+  <node visible="true" id="-66" lat="29.99206111183440270906430669" lon="-90.18573950740058364772266941"/>
+  <node visible="true" id="-67" lat="29.99204745852141584805394814" lon="-90.18573248017833066114690155"/>
+  <node visible="true" id="-68" lat="29.99207088057726977581296524" lon="-90.18567181372667107552842936"/>
+  <node visible="true" id="-69" lat="29.99193449904647224002474104" lon="-90.18560161956719412046368234"/>
+  <way visible="true" id="-13">
+    <nd ref="-64"/>
     <nd ref="-65"/>
     <nd ref="-66"/>
     <nd ref="-67"/>
     <nd ref="-68"/>
     <nd ref="-69"/>
-    <nd ref="-70"/>
-    <nd ref="-65"/>
+    <nd ref="-64"/>
     <tag k="building" v="yes"/>
-    <tag k="addr:housenumber" v="1333"/>
-    <tag k="addr:street" v="Green Avenue"/>
+    <tag k="building:levels" v="1"/>
+    <tag k="addr:housenumber" v="4720"/>
+    <tag k="addr:street" v="Sturtz Drive"/>
     <tag k="addr:city" v="Metairie"/>
     <tag k="addr:postcode" v="70001"/>
   </way>
-  <node visible="true" id="-71" lat="29.98651140044206186985320528" lon="-90.17968806906264944700524211"/>
-  <node visible="true" id="-72" lat="29.98654142124477672837201681" lon="-90.17947588452632601274672197"/>
-  <node visible="true" id="-73" lat="29.98647003935939991947634553" lon="-90.17946234877312861044629244"/>
-  <node visible="true" id="-74" lat="29.98646762139892985032929573" lon="-90.17947171164956898792297579"/>
-  <node visible="true" id="-75" lat="29.98639060757657759381800133" lon="-90.17945752283003457705490291"/>
-  <node visible="true" id="-76" lat="29.98636350407799966433231020" lon="-90.17964597592005304704798618"/>
-  <node visible="true" id="-77" lat="29.98645617502831939304996922" lon="-90.17966357493897078256850364"/>
-  <node visible="true" id="-78" lat="29.98645441998175442677165847" lon="-90.17967723847976913020829670"/>
-  <way visible="true" id="-12">
+  <node visible="true" id="-70" lat="29.99185661780390077524316439" lon="-90.18061798760547276287979912"/>
+  <node visible="true" id="-71" lat="29.99193876933999902689720329" lon="-90.18063092317346729487326229"/>
+  <node visible="true" id="-72" lat="29.99195008164599229871782882" lon="-90.18053514878917553687642794"/>
+  <node visible="true" id="-73" lat="29.99197427302483376365671575" lon="-90.18053895796235508441895945"/>
+  <node visible="true" id="-74" lat="29.99199167598775517262765788" lon="-90.18039161764912137186911423"/>
+  <node visible="true" id="-75" lat="29.99196313422302040407885215" lon="-90.18038712346371710282255663"/>
+  <node visible="true" id="-76" lat="29.99196442543940577252215007" lon="-90.18037619152113393283798359"/>
+  <node visible="true" id="-77" lat="29.99191752626508744583588850" lon="-90.18036880678128852650843328"/>
+  <node visible="true" id="-78" lat="29.99191616020187822755360685" lon="-90.18038037240080484480131418"/>
+  <node visible="true" id="-79" lat="29.99188525825475082342563837" lon="-90.18037550658490886235085782"/>
+  <way visible="true" id="-14">
+    <nd ref="-70"/>
     <nd ref="-71"/>
     <nd ref="-72"/>
     <nd ref="-73"/>
@@ -256,192 +278,197 @@
     <nd ref="-76"/>
     <nd ref="-77"/>
     <nd ref="-78"/>
-    <nd ref="-71"/>
+    <nd ref="-79"/>
+    <nd ref="-70"/>
     <tag k="building" v="yes"/>
-    <tag k="addr:housenumber" v="1309"/>
+    <tag k="building:levels" v="1"/>
+    <tag k="addr:housenumber" v="1916"/>
     <tag k="addr:street" v="Green Avenue"/>
     <tag k="addr:city" v="Metairie"/>
     <tag k="addr:postcode" v="70001"/>
   </way>
-  <node visible="true" id="-79" lat="29.98804315540996157096742536" lon="-90.17997401763014408970775548"/>
-  <node visible="true" id="-80" lat="29.98796191105944686228212959" lon="-90.17997639248817165480431868"/>
-  <node visible="true" id="-81" lat="29.98796199913843807394187024" lon="-90.17998644475497371786332224"/>
-  <node visible="true" id="-82" lat="29.98792449607988785942325194" lon="-90.17998687839168781010812381"/>
-  <node visible="true" id="-83" lat="29.98792692914874891130239121" lon="-90.18012185443065220624703215"/>
-  <node visible="true" id="-84" lat="29.98804568284368698982689239" lon="-90.18011976323614931061456446"/>
-  <way visible="true" id="-13">
-    <nd ref="-79"/>
-    <nd ref="-80"/>
-    <nd ref="-81"/>
+  <node visible="true" id="-80" lat="29.99198317544994552008574829" lon="-90.18001853905940379263483919">
+    <tag k="addr:housenumber" v="1913"/>
+    <tag k="addr:street" v="Green Avenue"/>
+    <tag k="addr:city" v="Metairie"/>
+    <tag k="addr:postcode" v="70001"/>
+  </node>
+  <node visible="true" id="-81" lat="29.99200180126908321653900202" lon="-90.18002601217517621989827603">
+    <tag k="addr:housenumber" v="1917"/>
+    <tag k="addr:street" v="Green Avenue"/>
+    <tag k="addr:city" v="Metairie"/>
+    <tag k="addr:postcode" v="70001"/>
+  </node>
+  <node visible="true" id="-82" lat="29.98808976140540138999313058" lon="-90.17967660412904251643340103"/>
+  <node visible="true" id="-83" lat="29.98819564234798562551986834" lon="-90.17969573035628627621917985"/>
+  <node visible="true" id="-84" lat="29.98822587189717125966126332" lon="-90.17947265302680648346722592"/>
+  <node visible="true" id="-85" lat="29.98822173033428128974264837" lon="-90.17947190489840636473672930"/>
+  <node visible="true" id="-86" lat="29.98822569474760513230648939" lon="-90.17944264971986001455661608"/>
+  <node visible="true" id="-87" lat="29.98818615444797686109268398" lon="-90.17943550719523670977650909"/>
+  <node visible="true" id="-88" lat="29.98818238538081715205407818" lon="-90.17946332081587001994193997"/>
+  <node visible="true" id="-89" lat="29.98812018633479681284370599" lon="-90.17945208524162126195733435"/>
+  <way visible="true" id="-15">
     <nd ref="-82"/>
     <nd ref="-83"/>
     <nd ref="-84"/>
-    <nd ref="-79"/>
-    <tag k="building" v="yes"/>
-    <tag k="addr:housenumber" v="1408"/>
-    <tag k="addr:street" v="Green Avenue"/>
-    <tag k="addr:city" v="Metairie"/>
-    <tag k="addr:postcode" v="70001"/>
-  </way>
-  <node visible="true" id="-85" lat="29.99169491506335916142234055" lon="-90.18047981746948948966746684"/>
-  <node visible="true" id="-86" lat="29.99171358991587155173874635" lon="-90.18032807633721859019715339"/>
-  <node visible="true" id="-87" lat="29.99161531236295985536344233" lon="-90.18031269538532512797246454"/>
-  <node visible="true" id="-88" lat="29.99159726269887116245627112" lon="-90.18046442914500460119597847"/>
-  <way visible="true" id="-14">
     <nd ref="-85"/>
     <nd ref="-86"/>
     <nd ref="-87"/>
     <nd ref="-88"/>
-    <nd ref="-85"/>
+    <nd ref="-89"/>
+    <nd ref="-82"/>
     <tag k="building" v="yes"/>
-    <tag k="addr:housenumber" v="1908"/>
+    <tag k="building:levels" v="1"/>
+    <tag k="addr:housenumber" v="1413"/>
     <tag k="addr:street" v="Green Avenue"/>
     <tag k="addr:city" v="Metairie"/>
     <tag k="addr:postcode" v="70001"/>
   </way>
-  <node visible="true" id="-89" lat="29.99175306910075988753305865" lon="-90.18033911016992476561426884"/>
-  <node visible="true" id="-90" lat="29.99173384452473811734307674" lon="-90.18049947484473705117125064"/>
-  <node visible="true" id="-91" lat="29.99183838544070468401514518" lon="-90.18051622014303347896202467"/>
-  <node visible="true" id="-92" lat="29.99185761541624373194281361" lon="-90.18035657247260417079814943"/>
-  <way visible="true" id="-15">
-    <nd ref="-89"/>
+  <node visible="true" id="-90" lat="29.98774891312674384380443371" lon="-90.17943859560536168373801047"/>
+  <node visible="true" id="-91" lat="29.98770336928233959383760521" lon="-90.17970539333096269274392398"/>
+  <node visible="true" id="-92" lat="29.98775799719816248511961021" lon="-90.17971782397275148923654342"/>
+  <node visible="true" id="-93" lat="29.98776049695873879841201415" lon="-90.17970318026711140646511922"/>
+  <node visible="true" id="-94" lat="29.98780786106349083297573088" lon="-90.17971395802656786599982297"/>
+  <node visible="true" id="-95" lat="29.98783254131785014351407881" lon="-90.17956937993766075578605523"/>
+  <node visible="true" id="-96" lat="29.98779020268477779609384015" lon="-90.17955974572771538078086451"/>
+  <node visible="true" id="-97" lat="29.98779601667397542996695847" lon="-90.17952568711528726907999953"/>
+  <node visible="true" id="-98" lat="29.98782259575446218491379113" lon="-90.17953173521877374696487095"/>
+  <node visible="true" id="-99" lat="29.98783514555347906593851803" lon="-90.17945821790020488606387516"/>
+  <way visible="true" id="-16">
     <nd ref="-90"/>
     <nd ref="-91"/>
     <nd ref="-92"/>
-    <nd ref="-89"/>
-    <tag k="building" v="yes"/>
-    <tag k="addr:housenumber" v="1912"/>
-    <tag k="addr:street" v="Green Avenue"/>
-    <tag k="addr:city" v="Metairie"/>
-    <tag k="addr:postcode" v="70001"/>
-  </way>
-  <node visible="true" id="-93" lat="29.98660035001860180159383162" lon="-90.17999438370678433329885593"/>
-  <node visible="true" id="-94" lat="29.98659262246608037116857304" lon="-90.18018261407762281578470720"/>
-  <node visible="true" id="-95" lat="29.98667893648559967800792947" lon="-90.18018807823939653189881938"/>
-  <node visible="true" id="-96" lat="29.98667947359333396661895677" lon="-90.18017801887434359286999097"/>
-  <node visible="true" id="-97" lat="29.98670636942488698650777224" lon="-90.18017986263377849809330655"/>
-  <node visible="true" id="-98" lat="29.98671354730377203168245615" lon="-90.18000025613771697408083128"/>
-  <way visible="true" id="-16">
     <nd ref="-93"/>
     <nd ref="-94"/>
     <nd ref="-95"/>
     <nd ref="-96"/>
     <nd ref="-97"/>
     <nd ref="-98"/>
-    <nd ref="-93"/>
+    <nd ref="-99"/>
+    <nd ref="-90"/>
     <tag k="building" v="yes"/>
-    <tag k="addr:housenumber" v="1316"/>
+    <tag k="building:levels" v="1"/>
+    <tag k="addr:housenumber" v="1401"/>
     <tag k="addr:street" v="Green Avenue"/>
     <tag k="addr:city" v="Metairie"/>
     <tag k="addr:postcode" v="70001"/>
   </way>
-  <node visible="true" id="-99" lat="29.98701518973290802705378155" lon="-90.18001390754419333006808301"/>
-  <node visible="true" id="-100" lat="29.98701246261263619885539811" lon="-90.18020207985244951487402432"/>
-  <node visible="true" id="-101" lat="29.98710312048428860975946009" lon="-90.18020390474188729967863765"/>
-  <node visible="true" id="-102" lat="29.98710344371641056682165072" lon="-90.18016943200755974885396427"/>
-  <node visible="true" id="-103" lat="29.98713033325473986678844085" lon="-90.18017055761141875791508937"/>
-  <node visible="true" id="-104" lat="29.98713335601657448137302708" lon="-90.18001613139925609630154213"/>
+  <node visible="true" id="-100" lat="29.99132671538067285155193531" lon="-90.18041474057019968313397840"/>
+  <node visible="true" id="-101" lat="29.99143119217725228509152657" lon="-90.18043162912614718607073883"/>
+  <node visible="true" id="-102" lat="29.99144885951161043635693204" lon="-90.18028592833192647049145307"/>
+  <node visible="true" id="-103" lat="29.99134438273358682636171579" lon="-90.18026903977597896755469264"/>
   <way visible="true" id="-17">
-    <nd ref="-99"/>
     <nd ref="-100"/>
     <nd ref="-101"/>
     <nd ref="-102"/>
     <nd ref="-103"/>
-    <nd ref="-104"/>
-    <nd ref="-99"/>
+    <nd ref="-100"/>
     <tag k="building" v="yes"/>
-    <tag k="addr:housenumber" v="1328"/>
+    <tag k="building:levels" v="1"/>
+    <tag k="addr:housenumber" v="1900"/>
     <tag k="addr:street" v="Green Avenue"/>
     <tag k="addr:city" v="Metairie"/>
     <tag k="addr:postcode" v="70001"/>
   </way>
-  <node visible="true" id="-105" lat="29.99232030562197337530960795" lon="-90.18585781738848083932680311"/>
-  <node visible="true" id="-106" lat="29.99248770008396292041652487" lon="-90.18584224652404657263105037"/>
-  <node visible="true" id="-107" lat="29.99247776638040363650361542" lon="-90.18570663330740444507682696"/>
-  <node visible="true" id="-108" lat="29.99231037819555467649479397" lon="-90.18572292259659661795012653"/>
-  <node visible="true" id="-109" lat="29.99231162853789811606475268" lon="-90.18572290821053627496439731"/>
+  <node visible="true" id="-104" lat="29.99094048090835329389847175" lon="-90.18020344250426489907113137"/>
+  <node visible="true" id="-105" lat="29.99091346440739513923290360" lon="-90.18040195655233048910304205"/>
+  <node visible="true" id="-106" lat="29.99100174193057810612117464" lon="-90.18041745307168355338944821"/>
+  <node visible="true" id="-107" lat="29.99102553794062941960874014" lon="-90.18042220481646609187009744"/>
+  <node visible="true" id="-108" lat="29.99103616567647279111952230" lon="-90.18035098751218470169987995"/>
+  <node visible="true" id="-109" lat="29.99105254188898683764818998" lon="-90.18022225417213633136270801"/>
   <way visible="true" id="-18">
+    <nd ref="-104"/>
     <nd ref="-105"/>
     <nd ref="-106"/>
     <nd ref="-107"/>
     <nd ref="-108"/>
     <nd ref="-109"/>
-    <nd ref="-105"/>
+    <nd ref="-104"/>
     <tag k="building" v="yes"/>
-    <tag k="addr:housenumber" v="4717"/>
-    <tag k="addr:street" v="Sturtz Drive"/>
-    <tag k="addr:city" v="Metairie"/>
-    <tag k="addr:postcode" v="70001"/>
-  </way>
-  <node visible="true" id="-110" lat="29.98426810654346041928874911" lon="-90.17950218085076130591914989"/>
-  <node visible="true" id="-111" lat="29.98415593295029069054180582" lon="-90.17947044681928048248664709"/>
-  <node visible="true" id="-112" lat="29.98411568465304455344266898" lon="-90.17965689411025209665240254"/>
-  <node visible="true" id="-113" lat="29.98422786449615529136281111" lon="-90.17968934647882406352437101"/>
-  <way visible="true" id="-19">
-    <nd ref="-110"/>
-    <nd ref="-111"/>
-    <nd ref="-112"/>
-    <nd ref="-113"/>
-    <nd ref="-110"/>
-    <tag k="building" v="yes"/>
-    <tag k="addr:housenumber" v="1012"/>
+    <tag k="building:levels" v="1"/>
+    <tag k="addr:housenumber" v="1804"/>
     <tag k="addr:street" v="Green Avenue"/>
     <tag k="addr:city" v="Metairie"/>
     <tag k="addr:postcode" v="70001"/>
   </way>
-  <node visible="true" id="-114" lat="29.98492688673669093191165302" lon="-90.17970567628843525653792312"/>
-  <node visible="true" id="-115" lat="29.98482285121779966630128911" lon="-90.17967528413315392299409723"/>
-  <node visible="true" id="-116" lat="29.98479099457016872065651114" lon="-90.17982070443058262299018679"/>
-  <node visible="true" id="-117" lat="29.98489501747832974842822296" lon="-90.17984966147407988046325045"/>
-  <way visible="true" id="-20">
+  <node visible="true" id="-110" lat="29.98912978832070308499169187" lon="-90.17959171881857116659375606">
+    <tag k="addr:housenumber" v="1521"/>
+    <tag k="addr:street" v="Green Avenue"/>
+    <tag k="addr:city" v="Metairie"/>
+    <tag k="addr:postcode" v="70001"/>
+  </node>
+  <node visible="true" id="-111" lat="29.98912979338827966557801119" lon="-90.17959167937546283155825222">
+    <tag k="addr:housenumber" v="1517"/>
+    <tag k="addr:street" v="Green Avenue"/>
+    <tag k="addr:city" v="Metairie"/>
+    <tag k="addr:postcode" v="70001"/>
+  </node>
+  <node visible="true" id="-112" lat="29.98964450789940983099768346" lon="-90.17962023500574275658436818">
+    <tag k="addr:housenumber" v="1617"/>
+    <tag k="addr:street" v="Green Avenue"/>
+    <tag k="addr:city" v="Metairie"/>
+    <tag k="addr:postcode" v="70001"/>
+  </node>
+  <node visible="true" id="-113" lat="29.98964428719147790047827584" lon="-90.17962047904877920245780842">
+    <tag k="addr:housenumber" v="1609"/>
+    <tag k="addr:street" v="Green Avenue"/>
+    <tag k="addr:city" v="Metairie"/>
+    <tag k="addr:postcode" v="70001"/>
+  </node>
+  <node visible="true" id="-114" lat="29.98572178936346688260528026" lon="-90.17934710037707191077060997"/>
+  <node visible="true" id="-115" lat="29.98569019433337601299172093" lon="-90.17957795083263761171110673"/>
+  <node visible="true" id="-116" lat="29.98577170797336322038972867" lon="-90.17959282155614175735536264"/>
+  <node visible="true" id="-117" lat="29.98577377731760407186811790" lon="-90.17957770179295096113492036"/>
+  <node visible="true" id="-118" lat="29.98579790058159844079455070" lon="-90.17958210265871343835897278"/>
+  <node visible="true" id="-119" lat="29.98580521035497881143783161" lon="-90.17952869343156407921924256"/>
+  <node visible="true" id="-120" lat="29.98578102487879348814203695" lon="-90.17952428121596142318594502"/>
+  <node visible="true" id="-121" lat="29.98578230571328262499264383" lon="-90.17951492273635949459276162"/>
+  <node visible="true" id="-122" lat="29.98580928546559576375329925" lon="-90.17951984471872606263787020"/>
+  <node visible="true" id="-123" lat="29.98581781424419290260630078" lon="-90.17945752876102005757275037"/>
+  <node visible="true" id="-124" lat="29.98579029090520364775329654" lon="-90.17945250761039233111659996"/>
+  <node visible="true" id="-125" lat="29.98580269717475843549436831" lon="-90.17936186058247471919457894"/>
+  <way visible="true" id="-19">
     <nd ref="-114"/>
     <nd ref="-115"/>
     <nd ref="-116"/>
     <nd ref="-117"/>
-    <nd ref="-114"/>
-    <tag k="building" v="yes"/>
-    <tag k="addr:housenumber" v="1110"/>
-    <tag k="addr:street" v="Green Avenue"/>
-    <tag k="addr:city" v="Metairie"/>
-    <tag k="addr:postcode" v="70001"/>
-  </way>
-  <node visible="true" id="-118" lat="29.98523564829218557292733749" lon="-90.17978805242205453396309167"/>
-  <node visible="true" id="-119" lat="29.98518505879022200133476872" lon="-90.18006176414215246950334404"/>
-  <node visible="true" id="-120" lat="29.98529811253448684738032171" lon="-90.18008595337148847193020629"/>
-  <node visible="true" id="-121" lat="29.98533948438932128510714392" lon="-90.17985396330993808078346774"/>
-  <node visible="true" id="-122" lat="29.98528233025269784661759331" lon="-90.17984369856586113201046828"/>
-  <node visible="true" id="-123" lat="29.98529417379723582826045458" lon="-90.17979986104276690639380831"/>
-  <way visible="true" id="-21">
     <nd ref="-118"/>
     <nd ref="-119"/>
     <nd ref="-120"/>
     <nd ref="-121"/>
     <nd ref="-122"/>
     <nd ref="-123"/>
-    <nd ref="-118"/>
+    <nd ref="-124"/>
+    <nd ref="-125"/>
+    <nd ref="-114"/>
     <tag k="building" v="yes"/>
-    <tag k="addr:housenumber" v="1124"/>
+    <tag k="building:levels" v="1"/>
+    <tag k="addr:housenumber" v="1213"/>
     <tag k="addr:street" v="Green Avenue"/>
     <tag k="addr:city" v="Metairie"/>
     <tag k="addr:postcode" v="70001"/>
   </way>
-  <node visible="true" id="-124" lat="29.98487638053486747935494350" lon="-90.17936373586248066658299649"/>
-  <node visible="true" id="-125" lat="29.98488822850100987693622301" lon="-90.17921782857237644748238381"/>
-  <node visible="true" id="-126" lat="29.98483754916716392813214043" lon="-90.17921267023162101850175532"/>
-  <node visible="true" id="-127" lat="29.98483864211489446915948065" lon="-90.17919470525968961283069802"/>
-  <node visible="true" id="-128" lat="29.98484489202566649623804551" lon="-90.17919463294647641760093393"/>
-  <node visible="true" id="-129" lat="29.98484721643186645678724744" lon="-90.17917450010838820162462071"/>
-  <node visible="true" id="-130" lat="29.98481217536930287792529271" lon="-90.17917059728318918132572435"/>
-  <node visible="true" id="-131" lat="29.98480877151234835764626041" lon="-90.17921013135932639670500066"/>
-  <node visible="true" id="-132" lat="29.98477936237988572543144983" lon="-90.17920688054144306988746393"/>
-  <node visible="true" id="-133" lat="29.98476625779564486151684832" lon="-90.17935208503064359319978394"/>
-  <node visible="true" id="-134" lat="29.98479254196005783228429209" lon="-90.17935537100622411799122347"/>
-  <node visible="true" id="-135" lat="29.98479139233550228027525009" lon="-90.17936687370621484660659917"/>
-  <node visible="true" id="-136" lat="29.98484770360112250386919186" lon="-90.17937268518734583722107345"/>
-  <node visible="true" id="-137" lat="29.98484884063404365406313445" lon="-90.17935974619160788279259577"/>
-  <way visible="true" id="-22">
-    <nd ref="-124"/>
-    <nd ref="-125"/>
+  <node visible="true" id="-126" lat="29.98543670748448519702833437" lon="-90.17918913455002893897471949"/>
+  <node visible="true" id="-127" lat="29.98539807605229867704110802" lon="-90.17918463979486887183156796"/>
+  <node visible="true" id="-128" lat="29.98540079829965421254200919" lon="-90.17915345280935923710785573"/>
+  <node visible="true" id="-129" lat="29.98535496246536169451246678" lon="-90.17914811982632272702176124"/>
+  <node visible="true" id="-130" lat="29.98535426232550094027828891" lon="-90.17915614086112441327713896"/>
+  <node visible="true" id="-131" lat="29.98533677447201739596494008" lon="-90.17915410615624693946301704"/>
+  <node visible="true" id="-132" lat="29.98533462876032018584737671" lon="-90.17917868813819382012297865"/>
+  <node visible="true" id="-133" lat="29.98532711142620144073589472" lon="-90.17917781349946437785547459"/>
+  <node visible="true" id="-134" lat="29.98531951872114120760670630" lon="-90.17926479803065831220010296"/>
+  <node visible="true" id="-135" lat="29.98533730781392137032526080" lon="-90.17926686778422151746781310"/>
+  <node visible="true" id="-136" lat="29.98533486960990401826165908" lon="-90.17929480065535585708857980"/>
+  <node visible="true" id="-137" lat="29.98530788864771068347181426" lon="-90.17929166143180452763772337"/>
+  <node visible="true" id="-138" lat="29.98530239944156505771388765" lon="-90.17935454757549962323537329"/>
+  <node visible="true" id="-139" lat="29.98531261556219718045213085" lon="-90.17935573621666378585359780"/>
+  <node visible="true" id="-140" lat="29.98530248633984029993371223" lon="-90.17947177990762952504155692"/>
+  <node visible="true" id="-141" lat="29.98537812754148035310208797" lon="-90.17948058073120876088069053"/>
+  <node visible="true" id="-142" lat="29.98538605613052965281895013" lon="-90.17938974814964581128151622"/>
+  <node visible="true" id="-143" lat="29.98540328463716164719699009" lon="-90.17939175268061546830722364"/>
+  <node visible="true" id="-144" lat="29.98541344005334963185305241" lon="-90.17927540878834236082184361"/>
+  <node visible="true" id="-145" lat="29.98542901857362252826533222" lon="-90.17927722134443513368751155"/>
+  <way visible="true" id="-20">
     <nd ref="-126"/>
     <nd ref="-127"/>
     <nd ref="-128"/>
@@ -454,98 +481,91 @@
     <nd ref="-135"/>
     <nd ref="-136"/>
     <nd ref="-137"/>
-    <nd ref="-124"/>
-    <tag k="building" v="yes"/>
-    <tag k="addr:housenumber" v="1109"/>
-    <tag k="addr:street" v="Green Avenue"/>
-    <tag k="addr:city" v="Metairie"/>
-    <tag k="addr:postcode" v="70001"/>
-  </way>
-  <node visible="true" id="-138" lat="29.98422018863570670532681106" lon="-90.17917026574068017907848116"/>
-  <node visible="true" id="-139" lat="29.98421897975970296101877466" lon="-90.17903240978387202630983666"/>
-  <node visible="true" id="-140" lat="29.98411145750324280356835516" lon="-90.17903221758757581483223476"/>
-  <node visible="true" id="-141" lat="29.98411267897363430279256136" lon="-90.17917150967444683828944108"/>
-  <way visible="true" id="-23">
     <nd ref="-138"/>
     <nd ref="-139"/>
     <nd ref="-140"/>
     <nd ref="-141"/>
-    <nd ref="-138"/>
-    <tag k="building" v="yes"/>
-    <tag k="addr:housenumber" v="1013"/>
-    <tag k="addr:street" v="Green Avenue"/>
-    <tag k="addr:city" v="Metairie"/>
-    <tag k="addr:postcode" v="70001"/>
-  </way>
-  <node visible="true" id="-142" lat="29.98383105516089486286546162" lon="-90.17906346735907163747469895"/>
-  <node visible="true" id="-143" lat="29.98383055492852733436848212" lon="-90.17886384802689292428112822"/>
-  <node visible="true" id="-144" lat="29.98373679633173694014658395" lon="-90.17886493313868356835882878"/>
-  <node visible="true" id="-145" lat="29.98373852801267602785628696" lon="-90.17906238340506774875393603"/>
-  <node visible="true" id="-146" lat="29.98376165575319518552532827" lon="-90.17906211578295483377587516"/>
-  <node visible="true" id="-147" lat="29.98376175019970801827184914" lon="-90.17907288576246571665251395"/>
-  <node visible="true" id="-148" lat="29.98379612742030531080672517" lon="-90.17907248797071417811821448"/>
-  <node visible="true" id="-149" lat="29.98379605186677210326706700" lon="-90.17906387239865750871103955"/>
-  <way visible="true" id="-24">
     <nd ref="-142"/>
     <nd ref="-143"/>
     <nd ref="-144"/>
     <nd ref="-145"/>
-    <nd ref="-146"/>
-    <nd ref="-147"/>
-    <nd ref="-148"/>
-    <nd ref="-149"/>
-    <nd ref="-142"/>
+    <nd ref="-126"/>
     <tag k="building" v="yes"/>
-    <tag k="addr:housenumber" v="1001"/>
+    <tag k="building:levels" v="1"/>
+    <tag k="addr:housenumber" v="1201"/>
     <tag k="addr:street" v="Green Avenue"/>
     <tag k="addr:city" v="Metairie"/>
     <tag k="addr:postcode" v="70001"/>
   </way>
-  <node visible="true" id="-150" lat="29.98407783240440238614610280" lon="-90.17947494026458343796548434"/>
-  <node visible="true" id="-151" lat="29.98404459762960527768882457" lon="-90.17946311821407334718969651"/>
-  <node visible="true" id="-152" lat="29.98401064632880164140260604" lon="-90.17958342945581762251094915"/>
-  <node visible="true" id="-153" lat="29.98397049780850309730340086" lon="-90.17956737807747913393541239"/>
-  <node visible="true" id="-154" lat="29.98395230009733936071825156" lon="-90.17963077869309529432939598"/>
-  <node visible="true" id="-155" lat="29.98399306119267038184261764" lon="-90.17964538658651463265414350"/>
-  <node visible="true" id="-156" lat="29.98399971601186209113620862" lon="-90.17962017740356372996757273"/>
-  <node visible="true" id="-157" lat="29.98403420112507333783469221" lon="-90.17963198607613151125406148"/>
-  <node visible="true" id="-158" lat="29.98403298854011111984618765" lon="-90.17963630833386901031190064"/>
-  <node visible="true" id="-159" lat="29.98407939325780091621709289" lon="-90.17965300560517505346069811"/>
-  <node visible="true" id="-160" lat="29.98413154317835704887329484" lon="-90.17946929252158838608011138"/>
-  <node visible="true" id="-161" lat="29.98408388809450642042975232" lon="-90.17945260979048782701283926"/>
-  <way visible="true" id="-25">
+  <node visible="true" id="-146" lat="29.98536863688181597353832331" lon="-90.17981781190356116439943435"/>
+  <node visible="true" id="-147" lat="29.98535850694889148826405290" lon="-90.17988332616702962241106434"/>
+  <node visible="true" id="-148" lat="29.98543893500287538245174801" lon="-90.17989990252402776604867540"/>
+  <node visible="true" id="-149" lat="29.98544906492764283711949247" lon="-90.17983438826057351889176061"/>
+  <way visible="true" id="-21">
+    <nd ref="-146"/>
+    <nd ref="-147"/>
+    <nd ref="-148"/>
+    <nd ref="-149"/>
+    <nd ref="-146"/>
+    <tag k="building" v="yes"/>
+    <tag k="building:levels" v="1"/>
+    <tag k="addr:housenumber" v="1200"/>
+    <tag k="addr:street" v="Green Avenue"/>
+    <tag k="addr:city" v="Metairie"/>
+    <tag k="addr:postcode" v="70001"/>
+  </way>
+  <node visible="true" id="-150" lat="29.98886438905561035994651320" lon="-90.17998351849267635316209635"/>
+  <node visible="true" id="-151" lat="29.98874996034132323075027671" lon="-90.17997981492997894292784622"/>
+  <node visible="true" id="-152" lat="29.98874684955512037731750752" lon="-90.18012419129989609700714936"/>
+  <node visible="true" id="-153" lat="29.98874593890473860824386065" lon="-90.18016297983017182104958920"/>
+  <node visible="true" id="-154" lat="29.98880534359790317466831766" lon="-90.18016516499766055403597420"/>
+  <node visible="true" id="-155" lat="29.98885911727155217931795050" lon="-90.18016669805804497173085110"/>
+  <way visible="true" id="-22">
     <nd ref="-150"/>
     <nd ref="-151"/>
     <nd ref="-152"/>
     <nd ref="-153"/>
     <nd ref="-154"/>
     <nd ref="-155"/>
+    <nd ref="-150"/>
+    <tag k="building" v="yes"/>
+    <tag k="building:levels" v="1"/>
+    <tag k="addr:housenumber" v="1508"/>
+    <tag k="addr:street" v="Green Avenue"/>
+    <tag k="addr:city" v="Metairie"/>
+    <tag k="addr:postcode" v="70001"/>
+  </way>
+  <node visible="true" id="-156" lat="29.99234686536971850046029431" lon="-90.18621200264004755808855407"/>
+  <node visible="true" id="-157" lat="29.99235737780955446396546904" lon="-90.18634217310372491738235112"/>
+  <node visible="true" id="-158" lat="29.99253334393351622111367760" lon="-90.18632322820209878955211025"/>
+  <node visible="true" id="-159" lat="29.99252516690606995553025627" lon="-90.18622197584021193961234530"/>
+  <node visible="true" id="-160" lat="29.99246770973119780023807834" lon="-90.18622816180976542455027811"/>
+  <node visible="true" id="-161" lat="29.99246537433627324276130821" lon="-90.18619924370797491519624600"/>
+  <way visible="true" id="-23">
     <nd ref="-156"/>
     <nd ref="-157"/>
     <nd ref="-158"/>
     <nd ref="-159"/>
     <nd ref="-160"/>
     <nd ref="-161"/>
-    <nd ref="-150"/>
+    <nd ref="-156"/>
     <tag k="building" v="yes"/>
-    <tag k="addr:housenumber" v="1008"/>
-    <tag k="addr:street" v="Green Avenue"/>
+    <tag k="building:levels" v="1"/>
+    <tag k="addr:housenumber" v="4729"/>
+    <tag k="addr:street" v="Sturtz Drive"/>
     <tag k="addr:city" v="Metairie"/>
     <tag k="addr:postcode" v="70001"/>
   </way>
-  <node visible="true" id="-162" lat="29.98580249408914610853571503" lon="-90.17936177639755612744920654"/>
-  <node visible="true" id="-163" lat="29.98572144202995204409489816" lon="-90.17934708414773581353074405"/>
-  <node visible="true" id="-164" lat="29.98569054827757440762070473" lon="-90.17957791876176543155452237"/>
-  <node visible="true" id="-165" lat="29.98577199954088357003456622" lon="-90.17959297138921215264417697"/>
-  <node visible="true" id="-166" lat="29.98577358572331874597693968" lon="-90.17957682150077403093746398"/>
-  <node visible="true" id="-167" lat="29.98579750688574563355359714" lon="-90.17958287617497603605443146"/>
-  <node visible="true" id="-168" lat="29.98580548729698946885946498" lon="-90.17952877298289138252584962"/>
-  <node visible="true" id="-169" lat="29.98578105182507869130859035" lon="-90.17952425710370789602166042"/>
-  <node visible="true" id="-170" lat="29.98578228692427316559587780" lon="-90.17951488724746411662636092"/>
-  <node visible="true" id="-171" lat="29.98580943704394030646653846" lon="-90.17951990443272336506197462"/>
-  <node visible="true" id="-172" lat="29.98581766709645179957988148" lon="-90.17945743667456781622604467"/>
-  <node visible="true" id="-173" lat="29.98579049157314813101038453" lon="-90.17945260946063967821828555"/>
-  <way visible="true" id="-26">
+  <node visible="true" id="-162" lat="29.98927399985775110735630733" lon="-90.18000185946499414058052935"/>
+  <node visible="true" id="-163" lat="29.98916015856664074590298696" lon="-90.17999383958299119967705337"/>
+  <node visible="true" id="-164" lat="29.98916142149409225226008857" lon="-90.17999526147706035317241913"/>
+  <node visible="true" id="-165" lat="29.98916034102275318673491711" lon="-90.18001466357019069164380198"/>
+  <node visible="true" id="-166" lat="29.98914595220773904316047265" lon="-90.18001339344503719530621311"/>
+  <node visible="true" id="-167" lat="29.98914217456160358210581762" lon="-90.18008165724459956891223555"/>
+  <node visible="true" id="-168" lat="29.98915593820479941200574103" lon="-90.18008293460776769734366098"/>
+  <node visible="true" id="-169" lat="29.98915127503031285982615373" lon="-90.18019285980190602458606008"/>
+  <node visible="true" id="-170" lat="29.98926448483777207343337068" lon="-90.18020016792489457202464109"/>
+  <way visible="true" id="-24">
     <nd ref="-162"/>
     <nd ref="-163"/>
     <nd ref="-164"/>
@@ -555,40 +575,44 @@
     <nd ref="-168"/>
     <nd ref="-169"/>
     <nd ref="-170"/>
-    <nd ref="-171"/>
-    <nd ref="-172"/>
-    <nd ref="-173"/>
     <nd ref="-162"/>
     <tag k="building" v="yes"/>
-    <tag k="addr:housenumber" v="1213"/>
+    <tag k="building:levels" v="1"/>
+    <tag k="addr:housenumber" v="1520"/>
     <tag k="addr:street" v="Green Avenue"/>
     <tag k="addr:city" v="Metairie"/>
     <tag k="addr:postcode" v="70001"/>
   </way>
-  <node visible="true" id="-174" lat="29.98542885299762872364226496" lon="-90.17927763744208391472056974"/>
-  <node visible="true" id="-175" lat="29.98543682924026398950445582" lon="-90.17918922047047658452356700"/>
-  <node visible="true" id="-176" lat="29.98539865692904982097388711" lon="-90.17918463562551778522902168"/>
-  <node visible="true" id="-177" lat="29.98540025542596509922077530" lon="-90.17915302160392343466810416"/>
-  <node visible="true" id="-178" lat="29.98535520712942314958127099" lon="-90.17914851633514672357705422"/>
-  <node visible="true" id="-179" lat="29.98535402064225507956507499" lon="-90.17915571020235177002177807"/>
-  <node visible="true" id="-180" lat="29.98533650596269950483474531" lon="-90.17915447745430412851419533"/>
-  <node visible="true" id="-181" lat="29.98533484540650562166774762" lon="-90.17917891100012184324441478"/>
-  <node visible="true" id="-182" lat="29.98532670648560483073197247" lon="-90.17917756872955692415416706"/>
-  <node visible="true" id="-183" lat="29.98531996800045007489643467" lon="-90.17926453484243154434807366"/>
-  <node visible="true" id="-184" lat="29.98533749437909889934417151" lon="-90.17926720495266579291637754"/>
-  <node visible="true" id="-185" lat="29.98533461494109531031426741" lon="-90.17929524370326532789476914"/>
-  <node visible="true" id="-186" lat="29.98530832538299861766972754" lon="-90.17929123956724879462854005"/>
-  <node visible="true" id="-187" lat="29.98530200335997975003010652" lon="-90.17935450369856198449269868"/>
-  <node visible="true" id="-188" lat="29.98531326723428236391555401" lon="-90.17935580983144916444871342"/>
-  <node visible="true" id="-189" lat="29.98530178532121226453455165" lon="-90.17947227162251522258884506"/>
-  <node visible="true" id="-190" lat="29.98537811734264479923695035" lon="-90.17948000626650184585741954"/>
-  <node visible="true" id="-191" lat="29.98538608112954761963919736" lon="-90.17939015305903183161717607"/>
-  <node visible="true" id="-192" lat="29.98540359581584269221821160" lon="-90.17939138688539912891428685"/>
-  <node visible="true" id="-193" lat="29.98541320123165476729809598" lon="-90.17927494563916468450770481"/>
-  <way visible="true" id="-27">
+  <node visible="true" id="-171" lat="29.98929705782710541939195537" lon="-90.18000771531902159949822817"/>
+  <node visible="true" id="-172" lat="29.98928737896028096088230086" lon="-90.18019599155306309512525331"/>
+  <node visible="true" id="-173" lat="29.98937122337662586346596072" lon="-90.18020173732458033555303700"/>
+  <node visible="true" id="-174" lat="29.98937388937740067262893717" lon="-90.18014987743475785464397632"/>
+  <node visible="true" id="-175" lat="29.98940105930100230580137577" lon="-90.18015173936274209154362325"/>
+  <node visible="true" id="-176" lat="29.98940807215705106614223041" lon="-90.18001532301852307682565879"/>
+  <way visible="true" id="-25">
+    <nd ref="-171"/>
+    <nd ref="-172"/>
+    <nd ref="-173"/>
     <nd ref="-174"/>
     <nd ref="-175"/>
     <nd ref="-176"/>
+    <nd ref="-171"/>
+    <tag k="building" v="yes"/>
+    <tag k="building:levels" v="1"/>
+    <tag k="addr:housenumber" v="1600"/>
+    <tag k="addr:street" v="Green Avenue"/>
+    <tag k="addr:city" v="Metairie"/>
+    <tag k="addr:postcode" v="70001"/>
+  </way>
+  <node visible="true" id="-177" lat="29.98956804626992678208807774" lon="-90.18002432360025011348625412"/>
+  <node visible="true" id="-178" lat="29.98956172534915509686470614" lon="-90.18011740119774799495644402"/>
+  <node visible="true" id="-179" lat="29.98956489603392938647630217" lon="-90.18011768823328111466253176"/>
+  <node visible="true" id="-180" lat="29.98956064858731451749918051" lon="-90.18018023325201681927865138"/>
+  <node visible="true" id="-181" lat="29.98958547179748990174630308" lon="-90.18018248044617735104111489"/>
+  <node visible="true" id="-182" lat="29.98958443364766424110712251" lon="-90.18018492688267429002735298"/>
+  <node visible="true" id="-183" lat="29.98967364714608052622679679" lon="-90.18019300320165143602935132"/>
+  <node visible="true" id="-184" lat="29.98968438696737237592060410" lon="-90.18003485568981147935119225"/>
+  <way visible="true" id="-26">
     <nd ref="-177"/>
     <nd ref="-178"/>
     <nd ref="-179"/>
@@ -597,6 +621,23 @@
     <nd ref="-182"/>
     <nd ref="-183"/>
     <nd ref="-184"/>
+    <nd ref="-177"/>
+    <tag k="building" v="yes"/>
+    <tag k="building:levels" v="1"/>
+    <tag k="addr:housenumber" v="1608"/>
+    <tag k="addr:street" v="Green Avenue"/>
+    <tag k="addr:city" v="Metairie"/>
+    <tag k="addr:postcode" v="70001"/>
+  </way>
+  <node visible="true" id="-185" lat="29.98970325019002558519787272" lon="-90.18003391968568394077010453"/>
+  <node visible="true" id="-186" lat="29.98969099323280218527543184" lon="-90.18019604215315609962999588"/>
+  <node visible="true" id="-187" lat="29.98975174227534168380771007" lon="-90.18020216463618510260857875"/>
+  <node visible="true" id="-188" lat="29.98974929919544507583850645" lon="-90.18023447920994328796950867"/>
+  <node visible="true" id="-189" lat="29.98980466070389283572694694" lon="-90.18024005872318582532898290"/>
+  <node visible="true" id="-190" lat="29.98980692504384748531265359" lon="-90.18021010832219985786650795"/>
+  <node visible="true" id="-191" lat="29.98981056782021425988205010" lon="-90.18020657775215909168764483"/>
+  <node visible="true" id="-192" lat="29.98982271105172259240134736" lon="-90.18004595933886946568236453"/>
+  <way visible="true" id="-27">
     <nd ref="-185"/>
     <nd ref="-186"/>
     <nd ref="-187"/>
@@ -605,148 +646,156 @@
     <nd ref="-190"/>
     <nd ref="-191"/>
     <nd ref="-192"/>
-    <nd ref="-193"/>
-    <nd ref="-174"/>
+    <nd ref="-185"/>
     <tag k="building" v="yes"/>
-    <tag k="addr:housenumber" v="1201"/>
+    <tag k="building:levels" v="1"/>
+    <tag k="addr:housenumber" v="1612"/>
     <tag k="addr:street" v="Green Avenue"/>
     <tag k="addr:city" v="Metairie"/>
     <tag k="addr:postcode" v="70001"/>
   </way>
-  <node visible="true" id="-194" lat="29.98544936354471346362515760" lon="-90.17983463351200157376297284"/>
-  <node visible="true" id="-195" lat="29.98536857444894820901026833" lon="-90.17981761533013695952831767"/>
-  <node visible="true" id="-196" lat="29.98535852721897398964756576" lon="-90.17988379542408949873788515"/>
-  <node visible="true" id="-197" lat="29.98543867854858646637694619" lon="-90.17989938458897825057647424"/>
+  <node visible="true" id="-193" lat="29.98845285278166628017970652" lon="-90.17996917981167825928423554"/>
+  <node visible="true" id="-194" lat="29.98833409280363682114511903" lon="-90.17997055302423348166485084"/>
+  <node visible="true" id="-195" lat="29.98833584169069865765777649" lon="-90.18017016588302681157074403"/>
+  <node visible="true" id="-196" lat="29.98838398343746192153957963" lon="-90.18017104580616205566911958"/>
+  <node visible="true" id="-197" lat="29.98838539943072944993218698" lon="-90.18013803586526933031564113"/>
+  <node visible="true" id="-198" lat="29.98842006116078451327666698" lon="-90.18014200159498727771278936"/>
+  <node visible="true" id="-199" lat="29.98841799308127065160078928" lon="-90.18011654186486225626140367"/>
+  <node visible="true" id="-200" lat="29.98845286695189571446462651" lon="-90.18011351858645241463818820"/>
   <way visible="true" id="-28">
+    <nd ref="-193"/>
     <nd ref="-194"/>
     <nd ref="-195"/>
     <nd ref="-196"/>
     <nd ref="-197"/>
-    <nd ref="-194"/>
-    <tag k="building" v="yes"/>
-    <tag k="addr:housenumber" v="1200"/>
-    <tag k="addr:street" v="Green Avenue"/>
-    <tag k="addr:city" v="Metairie"/>
-    <tag k="addr:postcode" v="70001"/>
-  </way>
-  <node visible="true" id="-198" lat="29.98886438905561035994651320" lon="-90.17998351849267635316209635"/>
-  <node visible="true" id="-199" lat="29.98874996034132323075027671" lon="-90.17997981492997894292784622"/>
-  <node visible="true" id="-200" lat="29.98874684955512037731750752" lon="-90.18012419129989609700714936"/>
-  <node visible="true" id="-201" lat="29.98874593890473860824386065" lon="-90.18016297983017182104958920"/>
-  <node visible="true" id="-202" lat="29.98880534359790317466831766" lon="-90.18016516499766055403597420"/>
-  <node visible="true" id="-203" lat="29.98885911727155217931795050" lon="-90.18016669805804497173085110"/>
-  <way visible="true" id="-29">
     <nd ref="-198"/>
     <nd ref="-199"/>
     <nd ref="-200"/>
-    <nd ref="-201"/>
-    <nd ref="-202"/>
-    <nd ref="-203"/>
-    <nd ref="-198"/>
+    <nd ref="-193"/>
     <tag k="building" v="yes"/>
-    <tag k="addr:housenumber" v="1508"/>
+    <tag k="building:levels" v="1"/>
+    <tag k="addr:housenumber" v="1420"/>
     <tag k="addr:street" v="Green Avenue"/>
     <tag k="addr:city" v="Metairie"/>
     <tag k="addr:postcode" v="70001"/>
   </way>
-  <node visible="true" id="-204" lat="29.99246518852379139730146562" lon="-90.18619994269333517422637669"/>
-  <node visible="true" id="-205" lat="29.99234651615539348767924821" lon="-90.18621136125680948225635802"/>
-  <node visible="true" id="-206" lat="29.99235765588504776246736583" lon="-90.18634193360932727046019863"/>
-  <node visible="true" id="-207" lat="29.99253377687457700062623189" lon="-90.18632339114688534209562931"/>
-  <node visible="true" id="-208" lat="29.99252476829905944555321184" lon="-90.18622223803824056176381418"/>
-  <node visible="true" id="-209" lat="29.99246793234846109044156037" lon="-90.18622791855919729187007761"/>
-  <way visible="true" id="-30">
+  <node visible="true" id="-201" lat="29.98415590978827793833261239" lon="-90.17947022579771498840273125"/>
+  <node visible="true" id="-202" lat="29.98411572209574416092436877" lon="-90.17965704874450239003635943"/>
+  <node visible="true" id="-203" lat="29.98422788455589937939294032" lon="-90.17968920833182266960648121"/>
+  <node visible="true" id="-204" lat="29.98426807220306855583658034" lon="-90.17950238538503526797285303"/>
+  <way visible="true" id="-29">
+    <nd ref="-201"/>
+    <nd ref="-202"/>
+    <nd ref="-203"/>
     <nd ref="-204"/>
+    <nd ref="-201"/>
+    <tag k="building" v="yes"/>
+    <tag k="building:levels" v="1"/>
+    <tag k="addr:housenumber" v="1012"/>
+    <tag k="addr:street" v="Green Avenue"/>
+    <tag k="addr:city" v="Metairie"/>
+    <tag k="addr:postcode" v="70001"/>
+  </way>
+  <node visible="true" id="-205" lat="29.98482271121850217809878814" lon="-90.17967536686951746105478378"/>
+  <node visible="true" id="-206" lat="29.98479123050707428888017603" lon="-90.17982018037490377082576742"/>
+  <node visible="true" id="-207" lat="29.98489516379959951564160292" lon="-90.17985029629362259129266022"/>
+  <node visible="true" id="-208" lat="29.98492664447804756377990998" lon="-90.17970548278822207066696137"/>
+  <way visible="true" id="-30">
     <nd ref="-205"/>
     <nd ref="-206"/>
     <nd ref="-207"/>
     <nd ref="-208"/>
-    <nd ref="-209"/>
-    <nd ref="-204"/>
+    <nd ref="-205"/>
     <tag k="building" v="yes"/>
-    <tag k="addr:housenumber" v="4729"/>
-    <tag k="addr:street" v="Sturtz Drive"/>
+    <tag k="building:levels" v="1"/>
+    <tag k="addr:housenumber" v="1110"/>
+    <tag k="addr:street" v="Green Avenue"/>
     <tag k="addr:city" v="Metairie"/>
     <tag k="addr:postcode" v="70001"/>
   </way>
-  <node visible="true" id="-210" lat="29.98927399985775110735630733" lon="-90.18000185946499414058052935"/>
-  <node visible="true" id="-211" lat="29.98916015856664074590298696" lon="-90.17999383958299119967705337"/>
-  <node visible="true" id="-212" lat="29.98916142149409225226008857" lon="-90.17999526147706035317241913"/>
-  <node visible="true" id="-213" lat="29.98916034102275318673491711" lon="-90.18001466357019069164380198"/>
-  <node visible="true" id="-214" lat="29.98914595220773904316047265" lon="-90.18001339344503719530621311"/>
-  <node visible="true" id="-215" lat="29.98914217456160358210581762" lon="-90.18008165724459956891223555"/>
-  <node visible="true" id="-216" lat="29.98915593820479941200574103" lon="-90.18008293460776769734366098"/>
-  <node visible="true" id="-217" lat="29.98915127503031285982615373" lon="-90.18019285980190602458606008"/>
-  <node visible="true" id="-218" lat="29.98926448483777207343337068" lon="-90.18020016792489457202464109"/>
+  <node visible="true" id="-209" lat="29.98518631685059077085497847" lon="-90.18006083091427171893883497"/>
+  <node visible="true" id="-210" lat="29.98529807010419645507681707" lon="-90.18008717314485522820177721"/>
+  <node visible="true" id="-211" lat="29.98533904578745890034952026" lon="-90.17985546367974336590123130"/>
+  <node visible="true" id="-212" lat="29.98528456629414051803905750" lon="-90.17984262188467425858107163"/>
+  <node visible="true" id="-213" lat="29.98529204136545089909304806" lon="-90.17980035183312281787948450"/>
+  <node visible="true" id="-214" lat="29.98523476765557660428385134" lon="-90.17978685139760841593670193"/>
   <way visible="true" id="-31">
+    <nd ref="-209"/>
     <nd ref="-210"/>
     <nd ref="-211"/>
     <nd ref="-212"/>
     <nd ref="-213"/>
     <nd ref="-214"/>
-    <nd ref="-215"/>
-    <nd ref="-216"/>
-    <nd ref="-217"/>
-    <nd ref="-218"/>
-    <nd ref="-210"/>
+    <nd ref="-209"/>
     <tag k="building" v="yes"/>
-    <tag k="addr:housenumber" v="1520"/>
+    <tag k="building:levels" v="1"/>
+    <tag k="addr:housenumber" v="1124"/>
     <tag k="addr:street" v="Green Avenue"/>
     <tag k="addr:city" v="Metairie"/>
     <tag k="addr:postcode" v="70001"/>
   </way>
-  <node visible="true" id="-219" lat="29.98940834720971437832304218" lon="-90.18001519237679985963040963"/>
-  <node visible="true" id="-220" lat="29.98929701289875637826298771" lon="-90.18000786173094240893988172"/>
-  <node visible="true" id="-221" lat="29.98928740981665441722725518" lon="-90.18019611887180531084595714"/>
-  <node visible="true" id="-222" lat="29.98937122311658498574615805" lon="-90.18020161210257867878681282"/>
-  <node visible="true" id="-223" lat="29.98937389606831160904221178" lon="-90.18014987756444611477490980"/>
-  <node visible="true" id="-224" lat="29.98940079188954044298043300" lon="-90.18015172136614410192123614"/>
+  <node visible="true" id="-215" lat="29.98488897685654208657979325" lon="-90.17921845743232722725224448"/>
+  <node visible="true" id="-216" lat="29.98483731909543337224022252" lon="-90.17921210510479568256414495"/>
+  <node visible="true" id="-217" lat="29.98483866047283541433898790" lon="-90.17919756525657248857896775"/>
+  <node visible="true" id="-218" lat="29.98484543792813994400603406" lon="-90.17919124691272259042307269"/>
+  <node visible="true" id="-219" lat="29.98484696700348450804085587" lon="-90.17917467251344021406112006"/>
+  <node visible="true" id="-220" lat="29.98481231421423842675721971" lon="-90.17917041127974187020299723"/>
+  <node visible="true" id="-221" lat="29.98480863451679212516864936" lon="-90.17921029731556359365640674"/>
+  <node visible="true" id="-222" lat="29.98477952307230154360695451" lon="-90.17920671749915584314294392"/>
+  <node visible="true" id="-223" lat="29.98476611132335989395869547" lon="-90.17935209393328932492295280"/>
+  <node visible="true" id="-224" lat="29.98479250069131651912357484" lon="-90.17935533901716382843005704"/>
+  <node visible="true" id="-225" lat="29.98479148682716299845196772" lon="-90.17936632878459590756392572"/>
+  <node visible="true" id="-226" lat="29.98484762482223686674842611" lon="-90.17937323204111521590675693"/>
+  <node visible="true" id="-227" lat="29.98484884113724646681475861" lon="-90.17936004780541736636223504"/>
+  <node visible="true" id="-228" lat="29.98487561071664586620499904" lon="-90.17936333964640027716086479"/>
   <way visible="true" id="-32">
+    <nd ref="-215"/>
+    <nd ref="-216"/>
+    <nd ref="-217"/>
+    <nd ref="-218"/>
     <nd ref="-219"/>
     <nd ref="-220"/>
     <nd ref="-221"/>
     <nd ref="-222"/>
     <nd ref="-223"/>
     <nd ref="-224"/>
-    <nd ref="-219"/>
-    <tag k="building" v="yes"/>
-    <tag k="addr:housenumber" v="1600"/>
-    <tag k="addr:street" v="Green Avenue"/>
-    <tag k="addr:city" v="Metairie"/>
-    <tag k="addr:postcode" v="70001"/>
-  </way>
-  <node visible="true" id="-225" lat="29.98968427857131402447521396" lon="-90.18003465118961514690454351"/>
-  <node visible="true" id="-226" lat="29.98956791773653307586755545" lon="-90.18002450665170499632949941"/>
-  <node visible="true" id="-227" lat="29.98956185419350362053592107" lon="-90.18011721356972998364653904"/>
-  <node visible="true" id="-228" lat="29.98956498543888926633371739" lon="-90.18011789561893465361208655"/>
-  <node visible="true" id="-229" lat="29.98956053224434015191945946" lon="-90.18018042253623889337177388"/>
-  <node visible="true" id="-230" lat="29.98958555345317122942105925" lon="-90.18018228802181113223923603"/>
-  <node visible="true" id="-231" lat="29.98958432827707909495984495" lon="-90.18018517519212196020816918"/>
-  <node visible="true" id="-232" lat="29.98967378608616130009068002" lon="-90.18019275793120925754919881"/>
-  <way visible="true" id="-33">
     <nd ref="-225"/>
     <nd ref="-226"/>
     <nd ref="-227"/>
     <nd ref="-228"/>
-    <nd ref="-229"/>
-    <nd ref="-230"/>
-    <nd ref="-231"/>
-    <nd ref="-232"/>
-    <nd ref="-225"/>
+    <nd ref="-215"/>
     <tag k="building" v="yes"/>
-    <tag k="addr:housenumber" v="1608"/>
+    <tag k="building:levels" v="1"/>
+    <tag k="addr:housenumber" v="1109"/>
     <tag k="addr:street" v="Green Avenue"/>
     <tag k="addr:city" v="Metairie"/>
     <tag k="addr:postcode" v="70001"/>
   </way>
-  <node visible="true" id="-233" lat="29.98982306338905701181829500" lon="-90.18004535111971620153781259"/>
-  <node visible="true" id="-234" lat="29.98970294614973752800324291" lon="-90.18003453277241021623922279"/>
-  <node visible="true" id="-235" lat="29.98969123567307093480849289" lon="-90.18019624384960764018615009"/>
-  <node visible="true" id="-236" lat="29.98975192215685581231809920" lon="-90.18020200550269294126337627"/>
-  <node visible="true" id="-237" lat="29.98974908655154081316140946" lon="-90.18023507169071706357499352"/>
-  <node visible="true" id="-238" lat="29.98980475998392947190041014" lon="-90.18023945481724013006896712"/>
-  <node visible="true" id="-239" lat="29.98980698928441057660165825" lon="-90.18020854934316332673915895"/>
-  <node visible="true" id="-240" lat="29.98981011513991390415867500" lon="-90.18020851320609665435767965"/>
+  <node visible="true" id="-229" lat="29.98421897975968164473670186" lon="-90.17903240978387202630983666"/>
+  <node visible="true" id="-230" lat="29.98411145750881701133039314" lon="-90.17903221758757581483223476"/>
+  <node visible="true" id="-231" lat="29.98411267897364496093359776" lon="-90.17917150967443262743472587"/>
+  <node visible="true" id="-232" lat="29.98422018863528037968535500" lon="-90.17917026574068017907848116"/>
+  <way visible="true" id="-33">
+    <nd ref="-229"/>
+    <nd ref="-230"/>
+    <nd ref="-231"/>
+    <nd ref="-232"/>
+    <nd ref="-229"/>
+    <tag k="building" v="yes"/>
+    <tag k="building:levels" v="1"/>
+    <tag k="addr:housenumber" v="1013"/>
+    <tag k="addr:street" v="Green Avenue"/>
+    <tag k="addr:city" v="Metairie"/>
+    <tag k="addr:postcode" v="70001"/>
+  </way>
+  <node visible="true" id="-233" lat="29.98383013116457007640747179" lon="-90.17886397199714565431349911"/>
+  <node visible="true" id="-234" lat="29.98373699396115910076332511" lon="-90.17886481120602581995626679"/>
+  <node visible="true" id="-235" lat="29.98373832937143390608980553" lon="-90.17906235557958893878094386"/>
+  <node visible="true" id="-236" lat="29.98376166677357801404468773" lon="-90.17906214529898534237872809"/>
+  <node visible="true" id="-237" lat="29.98376173908237873888538161" lon="-90.17907284184400396043201908"/>
+  <node visible="true" id="-238" lat="29.98379611906387864905809693" lon="-90.17907253206463735750730848"/>
+  <node visible="true" id="-239" lat="29.98379606021917709313129308" lon="-90.17906382750152260996401310"/>
+  <node visible="true" id="-240" lat="29.98383148003989973062743957" lon="-90.17906350835259843279345660"/>
   <way visible="true" id="-34">
     <nd ref="-233"/>
     <nd ref="-234"/>
@@ -758,19 +807,24 @@
     <nd ref="-240"/>
     <nd ref="-233"/>
     <tag k="building" v="yes"/>
-    <tag k="addr:housenumber" v="1612"/>
+    <tag k="building:levels" v="1"/>
+    <tag k="addr:housenumber" v="1001"/>
     <tag k="addr:street" v="Green Avenue"/>
     <tag k="addr:city" v="Metairie"/>
     <tag k="addr:postcode" v="70001"/>
   </way>
-  <node visible="true" id="-241" lat="29.98845285278166628017970652" lon="-90.17996917981167825928423554"/>
-  <node visible="true" id="-242" lat="29.98833409280363682114511903" lon="-90.17997055302423348166485084"/>
-  <node visible="true" id="-243" lat="29.98833584169069865765777649" lon="-90.18017016588302681157074403"/>
-  <node visible="true" id="-244" lat="29.98838398343746192153957963" lon="-90.18017104580616205566911958"/>
-  <node visible="true" id="-245" lat="29.98838539943072944993218698" lon="-90.18013803586526933031564113"/>
-  <node visible="true" id="-246" lat="29.98842006116078451327666698" lon="-90.18014200159498727771278936"/>
-  <node visible="true" id="-247" lat="29.98841799308127065160078928" lon="-90.18011654186486225626140367"/>
-  <node visible="true" id="-248" lat="29.98845286695189571446462651" lon="-90.18011351858645241463818820"/>
+  <node visible="true" id="-241" lat="29.98404440540462800868226623" lon="-90.17946280994192420621402562"/>
+  <node visible="true" id="-242" lat="29.98401104891580359890213003" lon="-90.17958297987902938075421844"/>
+  <node visible="true" id="-243" lat="29.98397007548967962975439150" lon="-90.17956782035386709139856976"/>
+  <node visible="true" id="-244" lat="29.98395263129334509244472429" lon="-90.17963066469538091496360721"/>
+  <node visible="true" id="-245" lat="29.98399284626443161982933816" lon="-90.17964554360140994049288565"/>
+  <node visible="true" id="-246" lat="29.98399999100334412105439696" lon="-90.17961980400512800315482309"/>
+  <node visible="true" id="-247" lat="29.98403407570559409123234218" lon="-90.17963241481383818154426990"/>
+  <node visible="true" id="-248" lat="29.98403305373118854504355113" lon="-90.17963609657458334822877077"/>
+  <node visible="true" id="-249" lat="29.98407985773852146849094424" lon="-90.17965341333486151143006282"/>
+  <node visible="true" id="-250" lat="29.98413089988714119726864737" lon="-90.17946952897528944959049113"/>
+  <node visible="true" id="-251" lat="29.98408407225480587499077956" lon="-90.17945220346526014054688858"/>
+  <node visible="true" id="-252" lat="29.98407770798100457909640681" lon="-90.17947513138172155322536128"/>
   <way visible="true" id="-35">
     <nd ref="-241"/>
     <nd ref="-242"/>
@@ -780,41 +834,22 @@
     <nd ref="-246"/>
     <nd ref="-247"/>
     <nd ref="-248"/>
+    <nd ref="-249"/>
+    <nd ref="-250"/>
+    <nd ref="-251"/>
+    <nd ref="-252"/>
     <nd ref="-241"/>
     <tag k="building" v="yes"/>
-    <tag k="addr:housenumber" v="1420"/>
+    <tag k="building:levels" v="1"/>
+    <tag k="addr:housenumber" v="1008"/>
     <tag k="addr:street" v="Green Avenue"/>
     <tag k="addr:city" v="Metairie"/>
     <tag k="addr:postcode" v="70001"/>
   </way>
-  <node visible="true" id="-249" lat="29.98912978832070308499169187" lon="-90.17959171881857116659375606">
-    <tag k="addr:housenumber" v="1521"/>
-    <tag k="addr:street" v="Green Avenue"/>
-    <tag k="addr:city" v="Metairie"/>
-    <tag k="addr:postcode" v="70001"/>
-  </node>
-  <node visible="true" id="-250" lat="29.98912979338827966557801119" lon="-90.17959167937546283155825222">
-    <tag k="addr:housenumber" v="1517"/>
-    <tag k="addr:street" v="Green Avenue"/>
-    <tag k="addr:city" v="Metairie"/>
-    <tag k="addr:postcode" v="70001"/>
-  </node>
-  <node visible="true" id="-251" lat="29.98964450789940983099768346" lon="-90.17962023500574275658436818">
-    <tag k="addr:housenumber" v="1617"/>
-    <tag k="addr:street" v="Green Avenue"/>
-    <tag k="addr:city" v="Metairie"/>
-    <tag k="addr:postcode" v="70001"/>
-  </node>
-  <node visible="true" id="-252" lat="29.98964428719147790047827584" lon="-90.17962047904877920245780842">
-    <tag k="addr:housenumber" v="1609"/>
-    <tag k="addr:street" v="Green Avenue"/>
-    <tag k="addr:city" v="Metairie"/>
-    <tag k="addr:postcode" v="70001"/>
-  </node>
-  <node visible="true" id="-253" lat="29.98859407369914364949181618" lon="-90.17997247613091360562975751"/>
-  <node visible="true" id="-254" lat="29.98847279416964894949160225" lon="-90.17997172478062850586866261"/>
-  <node visible="true" id="-255" lat="29.98847153761374784153304063" lon="-90.18018501618024629351566546"/>
-  <node visible="true" id="-256" lat="29.98859157219809645766872563" lon="-90.18018650146318293536751298"/>
+  <node visible="true" id="-253" lat="29.98847302849220497478199832" lon="-90.17997145082500765056465752"/>
+  <node visible="true" id="-254" lat="29.98847130473709654552294523" lon="-90.18018511086087585226778174"/>
+  <node visible="true" id="-255" lat="29.98859196034917928841423418" lon="-90.18018640845247091419878416"/>
+  <node visible="true" id="-256" lat="29.98859368410219516931647377" lon="-90.17997274841661692335037515"/>
   <way visible="true" id="-36">
     <nd ref="-253"/>
     <nd ref="-254"/>
@@ -822,17 +857,18 @@
     <nd ref="-256"/>
     <nd ref="-253"/>
     <tag k="building" v="yes"/>
+    <tag k="building:levels" v="1"/>
     <tag k="addr:housenumber" v="1500"/>
     <tag k="addr:street" v="Green Avenue"/>
     <tag k="addr:city" v="Metairie"/>
     <tag k="addr:postcode" v="70001"/>
   </way>
-  <node visible="true" id="-257" lat="29.98715925359672240801955923" lon="-90.18000958861247795539384242"/>
-  <node visible="true" id="-258" lat="29.98715780199120928273259779" lon="-90.18020061938329945405712351"/>
-  <node visible="true" id="-259" lat="29.98724782210669914661593793" lon="-90.18020101517741693442076212"/>
-  <node visible="true" id="-260" lat="29.98724752016670080934090947" lon="-90.18016654962055156374844955"/>
-  <node visible="true" id="-261" lat="29.98727378453320469020582095" lon="-90.18016768245274761284235865"/>
-  <node visible="true" id="-262" lat="29.98727553898270059562491952" lon="-90.18001111701471472770208493"/>
+  <node visible="true" id="-257" lat="29.98715438646137343425834842" lon="-90.18019793765429881204909179"/>
+  <node visible="true" id="-258" lat="29.98726381437549903807848750" lon="-90.18020444478243291541730287"/>
+  <node visible="true" id="-259" lat="29.98723338302157159773742023" lon="-90.18016549446605267803533934"/>
+  <node visible="true" id="-260" lat="29.98727116692580452195215912" lon="-90.18016774128594192916352767"/>
+  <node visible="true" id="-261" lat="29.98727802721818491704652843" lon="-90.18001395823061727696767775"/>
+  <node visible="true" id="-262" lat="29.98716289923475031287125603" lon="-90.18000711214720865882554790"/>
   <way visible="true" id="-37">
     <nd ref="-257"/>
     <nd ref="-258"/>
@@ -842,17 +878,18 @@
     <nd ref="-262"/>
     <nd ref="-257"/>
     <tag k="building" v="yes"/>
+    <tag k="building:levels" v="1"/>
     <tag k="addr:housenumber" v="1332"/>
     <tag k="addr:street" v="Green Avenue"/>
     <tag k="addr:city" v="Metairie"/>
     <tag k="addr:postcode" v="70001"/>
   </way>
-  <node visible="true" id="-263" lat="29.98673539323960923752565577" lon="-90.17999641342703398549929261"/>
-  <node visible="true" id="-264" lat="29.98672937673299543348548468" lon="-90.18016595233928001107415184"/>
-  <node visible="true" id="-265" lat="29.98676626811281309414880525" lon="-90.18016696230911577458755346"/>
-  <node visible="true" id="-266" lat="29.98676598262094472602257156" lon="-90.18020574284165036260674242"/>
-  <node visible="true" id="-267" lat="29.98684478290912736042628239" lon="-90.18020985846686699005658738"/>
-  <node visible="true" id="-268" lat="29.98685297210332123540865723" lon="-90.18000295240204877700307406"/>
+  <node visible="true" id="-263" lat="29.98672935305868136879325903" lon="-90.18016557281397638234921033"/>
+  <node visible="true" id="-264" lat="29.98676680748964429312763968" lon="-90.18016736653177645166579168"/>
+  <node visible="true" id="-265" lat="29.98676542354287377634136647" lon="-90.18020588697926598342746729"/>
+  <node visible="true" id="-266" lat="29.98684516617246131886531657" lon="-90.18020970590940521560696652"/>
+  <node visible="true" id="-267" lat="29.98685261125373813229089137" lon="-90.18000248109977690091909608"/>
+  <node visible="true" id="-268" lat="29.98673541420142640845369897" lon="-90.17999686845182338856830029"/>
   <way visible="true" id="-38">
     <nd ref="-263"/>
     <nd ref="-264"/>
@@ -862,6 +899,7 @@
     <nd ref="-268"/>
     <nd ref="-263"/>
     <tag k="building" v="yes"/>
+    <tag k="building:levels" v="1"/>
     <tag k="addr:housenumber" v="1320"/>
     <tag k="addr:street" v="Green Avenue"/>
     <tag k="addr:city" v="Metairie"/>
@@ -886,17 +924,18 @@
     <nd ref="-276"/>
     <nd ref="-269"/>
     <tag k="building" v="yes"/>
+    <tag k="building:levels" v="1"/>
     <tag k="addr:housenumber" v="1512"/>
     <tag k="addr:street" v="Green Avenue"/>
     <tag k="addr:city" v="Metairie"/>
     <tag k="addr:postcode" v="70001"/>
   </way>
-  <node visible="true" id="-277" lat="29.98566264633150524332450004" lon="-90.17956288519162910688464763"/>
-  <node visible="true" id="-278" lat="29.98569009790437789320094453" lon="-90.17934283272103357376181521"/>
-  <node visible="true" id="-279" lat="29.98557428658250856301492604" lon="-90.17932406643781462207698496"/>
-  <node visible="true" id="-280" lat="29.98555674991327890666070743" lon="-90.17946285933271610701922327"/>
-  <node visible="true" id="-281" lat="29.98558429610358899708444369" lon="-90.17946756721033807480125688"/>
-  <node visible="true" id="-282" lat="29.98557438213008197180897696" lon="-90.17954882654726134205702692"/>
+  <node visible="true" id="-277" lat="29.98568994956314881505932135" lon="-90.17934296107908664907881757"/>
+  <node visible="true" id="-278" lat="29.98557411429370844757613668" lon="-90.17932388527826503832329763"/>
+  <node visible="true" id="-279" lat="29.98555693031521585112386674" lon="-90.17946297482247075549821602"/>
+  <node visible="true" id="-280" lat="29.98558436789276271383641870" lon="-90.17946749325147948184167035"/>
+  <node visible="true" id="-281" lat="29.98557434958986789297341602" lon="-90.17954858281881058701401344"/>
+  <node visible="true" id="-282" lat="29.98566274731054193125601159" lon="-90.17956314019060926057136385"/>
   <way visible="true" id="-40">
     <nd ref="-277"/>
     <nd ref="-278"/>
@@ -906,15 +945,16 @@
     <nd ref="-282"/>
     <nd ref="-277"/>
     <tag k="building" v="yes"/>
+    <tag k="building:levels" v="1"/>
     <tag k="addr:housenumber" v="1209"/>
     <tag k="addr:street" v="Green Avenue"/>
     <tag k="addr:city" v="Metairie"/>
     <tag k="addr:postcode" v="70001"/>
   </way>
-  <node visible="true" id="-283" lat="29.99233429370682912917800422" lon="-90.18604767074863559628283838"/>
-  <node visible="true" id="-284" lat="29.99234548366047192757832818" lon="-90.18618398762295385040488327"/>
-  <node visible="true" id="-285" lat="29.99252222979927751111972611" lon="-90.18616543769354620962985791"/>
-  <node visible="true" id="-286" lat="29.99251102730740470292403188" lon="-90.18602768417932225020194892"/>
+  <node visible="true" id="-283" lat="29.99234548954130374909254897" lon="-90.18618434295805741385265719"/>
+  <node visible="true" id="-284" lat="29.99252222997237282697824412" lon="-90.18616508169868950517411577"/>
+  <node visible="true" id="-285" lat="29.99251102770564969546285283" lon="-90.18602804716418575026182225"/>
+  <node visible="true" id="-286" lat="29.99233428725445449458675284" lon="-90.18604730842355365894036368"/>
   <way visible="true" id="-41">
     <nd ref="-283"/>
     <nd ref="-284"/>
@@ -922,15 +962,16 @@
     <nd ref="-286"/>
     <nd ref="-283"/>
     <tag k="building" v="yes"/>
+    <tag k="building:levels" v="1"/>
     <tag k="addr:housenumber" v="4725"/>
     <tag k="addr:street" v="Sturtz Drive"/>
     <tag k="addr:city" v="Metairie"/>
     <tag k="addr:postcode" v="70001"/>
   </way>
-  <node visible="true" id="-287" lat="29.99124415644176977480128699" lon="-90.17997443949543878716212930"/>
-  <node visible="true" id="-288" lat="29.99134872169131327268587484" lon="-90.17999405590130379550828366"/>
-  <node visible="true" id="-289" lat="29.99136920228807312582830491" lon="-90.17983439548009982900111936"/>
-  <node visible="true" id="-290" lat="29.99126464869091535092593404" lon="-90.17981621459344410141056869"/>
+  <node visible="true" id="-287" lat="29.99134852857229205369549163" lon="-90.17999339858440066564071458"/>
+  <node visible="true" id="-288" lat="29.99136946367575973226848873" lon="-90.17983453474724342413537670"/>
+  <node visible="true" id="-289" lat="29.99126483599476600261368731" lon="-90.17981615415077101260976633"/>
+  <node visible="true" id="-290" lat="29.99124390086915070696704788" lon="-90.17997501798792825411510421"/>
   <way visible="true" id="-42">
     <nd ref="-287"/>
     <nd ref="-288"/>
@@ -938,15 +979,16 @@
     <nd ref="-290"/>
     <nd ref="-287"/>
     <tag k="building" v="yes"/>
+    <tag k="building:levels" v="1"/>
     <tag k="addr:housenumber" v="1813"/>
     <tag k="addr:street" v="Green Avenue"/>
     <tag k="addr:city" v="Metairie"/>
     <tag k="addr:postcode" v="70001"/>
   </way>
-  <node visible="true" id="-291" lat="29.99124705312748773167186300" lon="-90.17980564620258121522056172"/>
-  <node visible="true" id="-292" lat="29.99114686224069004083503387" lon="-90.17978597942399687781289686"/>
-  <node visible="true" id="-293" lat="29.99112393854666080983406573" lon="-90.17995213107785446027264697"/>
-  <node visible="true" id="-294" lat="29.99122411053992820484381809" lon="-90.17996964448342112063983222"/>
+  <node visible="true" id="-291" lat="29.99114687454770233898670995" lon="-90.17978652986246856926300097"/>
+  <node visible="true" id="-292" lat="29.99112392334151522277352342" lon="-90.17995160148352340456767706"/>
+  <node visible="true" id="-293" lat="29.99122410769128421748064284" lon="-90.17997017073146537313732551"/>
+  <node visible="true" id="-294" lat="29.99124705887430764050805010" lon="-90.17980509911041053783264942"/>
   <way visible="true" id="-43">
     <nd ref="-291"/>
     <nd ref="-292"/>
@@ -954,19 +996,20 @@
     <nd ref="-294"/>
     <nd ref="-291"/>
     <tag k="building" v="yes"/>
+    <tag k="building:levels" v="1"/>
     <tag k="addr:housenumber" v="1809"/>
     <tag k="addr:street" v="Green Avenue"/>
     <tag k="addr:city" v="Metairie"/>
     <tag k="addr:postcode" v="70001"/>
   </way>
-  <node visible="true" id="-295" lat="29.98831847081498480633854342" lon="-90.17997125705439032117283205"/>
-  <node visible="true" id="-296" lat="29.98827159199430880676118250" lon="-90.17997179910929617108195089"/>
-  <node visible="true" id="-297" lat="29.98827164232676523170084693" lon="-90.17997754342763983004260808"/>
-  <node visible="true" id="-298" lat="29.98820788749088706026668660" lon="-90.17997828061365339635813143"/>
-  <node visible="true" id="-299" lat="29.98820774438912906134646619" lon="-90.18010466895727006431116024"/>
-  <node visible="true" id="-300" lat="29.98820524460626302243326791" lon="-90.18010469785862426306266570"/>
-  <node visible="true" id="-301" lat="29.98820591140722413570074423" lon="-90.18018080925001811465335777"/>
-  <node visible="true" id="-302" lat="29.98831968350513932364265202" lon="-90.18018093043835392563778441"/>
+  <node visible="true" id="-295" lat="29.98827159199387537569236883" lon="-90.17997179910929617108195089"/>
+  <node visible="true" id="-296" lat="29.98827164232675102084613172" lon="-90.17997754342763983004260808"/>
+  <node visible="true" id="-297" lat="29.98820788749001309270170168" lon="-90.17997828061366760721284663"/>
+  <node visible="true" id="-298" lat="29.98820774438912906134646619" lon="-90.18010466895727006431116024"/>
+  <node visible="true" id="-299" lat="29.98820524460583669679181185" lon="-90.18010469785862426306266570"/>
+  <node visible="true" id="-300" lat="29.98820591140724189926913823" lon="-90.18018080925003232550807297"/>
+  <node visible="true" id="-301" lat="29.98831968350045684701399296" lon="-90.18018093043833971478306921"/>
+  <node visible="true" id="-302" lat="29.98831847081498480633854342" lon="-90.17997125705436189946340164"/>
   <way visible="true" id="-44">
     <nd ref="-295"/>
     <nd ref="-296"/>
@@ -978,21 +1021,22 @@
     <nd ref="-302"/>
     <nd ref="-295"/>
     <tag k="building" v="yes"/>
+    <tag k="building:levels" v="1"/>
     <tag k="addr:housenumber" v="1416"/>
     <tag k="addr:street" v="Green Avenue"/>
     <tag k="addr:city" v="Metairie"/>
     <tag k="addr:postcode" v="70001"/>
   </way>
-  <node visible="true" id="-303" lat="29.98790457544881249418722291" lon="-90.17999638158262598608416738"/>
-  <node visible="true" id="-304" lat="29.98783895768068674669848406" lon="-90.17999857677213526585546788"/>
-  <node visible="true" id="-305" lat="29.98783883185590326547753648" lon="-90.17998421655670426844153553"/>
-  <node visible="true" id="-306" lat="29.98778821549156603509800334" lon="-90.17998623829622317771281814"/>
-  <node visible="true" id="-307" lat="29.98779285656506843338320323" lon="-90.18015924697962759637448471"/>
-  <node visible="true" id="-308" lat="29.98784597361713721852538583" lon="-90.18015719641748262347391574"/>
-  <node visible="true" id="-309" lat="29.98784451568277376054538763" lon="-90.18013351553108236657863017"/>
-  <node visible="true" id="-310" lat="29.98787389331997488284287101" lon="-90.18013317588969357530004345"/>
-  <node visible="true" id="-311" lat="29.98787417011117995002678072" lon="-90.18016477003324382621940458"/>
-  <node visible="true" id="-312" lat="29.98790978597556744489338598" lon="-90.18016292180236348485777853"/>
+  <node visible="true" id="-303" lat="29.98783909925269952623239078" lon="-90.17999869863298556538211415"/>
+  <node visible="true" id="-304" lat="29.98783869569071924843228771" lon="-90.17998428776731145717349136"/>
+  <node visible="true" id="-305" lat="29.98778811181583137113193516" lon="-90.17998617603878130921657430"/>
+  <node visible="true" id="-306" lat="29.98779295744359885134144861" lon="-90.18015920934973905787046533"/>
+  <node visible="true" id="-307" lat="29.98784557759204005833453266" lon="-90.18015724506504682267404860"/>
+  <node visible="true" id="-308" lat="29.98784492324380224204105616" lon="-90.18013387882304243703401880"/>
+  <node visible="true" id="-309" lat="29.98787357906327954992775631" lon="-90.18013280911473827927693492"/>
+  <node visible="true" id="-310" lat="29.98787446652388055667870503" lon="-90.18016449961483260722161504"/>
+  <node visible="true" id="-311" lat="29.98790952014782362766709412" lon="-90.18016319107904621432680869"/>
+  <node visible="true" id="-312" lat="29.98790484497499164717737585" lon="-90.17999624437565842072217492"/>
   <way visible="true" id="-45">
     <nd ref="-303"/>
     <nd ref="-304"/>
@@ -1006,19 +1050,20 @@
     <nd ref="-312"/>
     <nd ref="-303"/>
     <tag k="building" v="yes"/>
+    <tag k="building:levels" v="1"/>
     <tag k="addr:housenumber" v="1404"/>
     <tag k="addr:street" v="Green Avenue"/>
     <tag k="addr:city" v="Metairie"/>
     <tag k="addr:postcode" v="70001"/>
   </way>
-  <node visible="true" id="-313" lat="29.98434648041728323164534231" lon="-90.17917239555556818686454790"/>
-  <node visible="true" id="-314" lat="29.98434577255410360407950066" lon="-90.17894908171962242704466917"/>
-  <node visible="true" id="-315" lat="29.98434264669641180489634280" lon="-90.17894911789419154501956655"/>
-  <node visible="true" id="-316" lat="29.98434356328825955984029861" lon="-90.17891104920600753303006059"/>
-  <node visible="true" id="-317" lat="29.98424229184686851112928707" lon="-90.17891078479927102762303548"/>
-  <node visible="true" id="-318" lat="29.98424263819479662629419181" lon="-90.17895027525949558366846759"/>
-  <node visible="true" id="-319" lat="29.98423701345515013372278190" lon="-90.17895034035268508887384087"/>
-  <node visible="true" id="-320" lat="29.98423645837893758425707347" lon="-90.17917223213170530016213888"/>
+  <node visible="true" id="-313" lat="29.98434577255409649865214305" lon="-90.17894908171962242704466917"/>
+  <node visible="true" id="-314" lat="29.98434264669598192654120794" lon="-90.17894911789420575587428175"/>
+  <node visible="true" id="-315" lat="29.98434356328827377069501381" lon="-90.17891104920600753303006059"/>
+  <node visible="true" id="-316" lat="29.98424229184686851112928707" lon="-90.17891078479927102762303548"/>
+  <node visible="true" id="-317" lat="29.98424263819480017900787061" lon="-90.17895027525950979452318279"/>
+  <node visible="true" id="-318" lat="29.98423701345429037701251218" lon="-90.17895034035269929972855607"/>
+  <node visible="true" id="-319" lat="29.98423645837891982068867947" lon="-90.17917223213170530016213888"/>
+  <node visible="true" id="-320" lat="29.98434648041727967893166351" lon="-90.17917239555556818686454790"/>
   <way visible="true" id="-46">
     <nd ref="-313"/>
     <nd ref="-314"/>
@@ -1030,19 +1075,20 @@
     <nd ref="-320"/>
     <nd ref="-313"/>
     <tag k="building" v="yes"/>
+    <tag k="building:levels" v="1"/>
     <tag k="addr:housenumber" v="1017"/>
     <tag k="addr:street" v="Green Avenue"/>
     <tag k="addr:city" v="Metairie"/>
     <tag k="addr:postcode" v="70001"/>
   </way>
-  <node visible="true" id="-321" lat="29.98470798378806634332249814" lon="-90.17933624331449493638501735"/>
-  <node visible="true" id="-322" lat="29.98474990622491631597767991" lon="-90.17934078480125492660590680"/>
-  <node visible="true" id="-323" lat="29.98476688872416673348197946" lon="-90.17913880773012635927443625"/>
-  <node visible="true" id="-324" lat="29.98464862164582456216521678" lon="-90.17912509674854959484946448"/>
-  <node visible="true" id="-325" lat="29.98463165175069988777067920" lon="-90.17932850883242679174145451"/>
-  <node visible="true" id="-326" lat="29.98467482453126464747583668" lon="-90.17933303584740656333451625"/>
-  <node visible="true" id="-327" lat="29.98467652288503515478623740" lon="-90.17931291028995133274293039"/>
-  <node visible="true" id="-328" lat="29.98470968213324283624388045" lon="-90.17931611671409086739004124"/>
+  <node visible="true" id="-321" lat="29.98474998139048253165128699" lon="-90.17934084932694815961440327"/>
+  <node visible="true" id="-322" lat="29.98476683293780098438219284" lon="-90.17913851051568485672760289"/>
+  <node visible="true" id="-323" lat="29.98464858329234772327254177" lon="-90.17912538351245643752918113"/>
+  <node visible="true" id="-324" lat="29.98463167704899134946572303" lon="-90.17932837882432295373291709"/>
+  <node visible="true" id="-325" lat="29.98467482457891364333590900" lon="-90.17933316866916015897004399"/>
+  <node visible="true" id="-326" lat="29.98467653145998212949052686" lon="-90.17931267393468885984475492"/>
+  <node visible="true" id="-327" lat="29.98470965158964673946684343" lon="-90.17931635063057171919354005"/>
+  <node visible="true" id="-328" lat="29.98470799938505848558634170" lon="-90.17933618886445401585660875"/>
   <way visible="true" id="-47">
     <nd ref="-321"/>
     <nd ref="-322"/>
@@ -1054,17 +1100,18 @@
     <nd ref="-328"/>
     <nd ref="-321"/>
     <tag k="building" v="yes"/>
+    <tag k="building:levels" v="1"/>
     <tag k="addr:housenumber" v="1105"/>
     <tag k="addr:street" v="Green Avenue"/>
     <tag k="addr:city" v="Metairie"/>
     <tag k="addr:postcode" v="70001"/>
   </way>
-  <node visible="true" id="-329" lat="29.98505765028376401915011229" lon="-90.17943344724953647073562024"/>
-  <node visible="true" id="-330" lat="29.98511897459617614458693424" lon="-90.17944063619593464409263106"/>
-  <node visible="true" id="-331" lat="29.98513319113495256829082791" lon="-90.17927962165721567089349264"/>
-  <node visible="true" id="-332" lat="29.98505059570227970766609360" lon="-90.17927052424856526613439200"/>
-  <node visible="true" id="-333" lat="29.98503867844281600696376699" lon="-90.17940853423621661022480112"/>
-  <node visible="true" id="-334" lat="29.98505932437186061179090757" lon="-90.17941044902143232775415527"/>
+  <node visible="true" id="-329" lat="29.98511923903157594395452179" lon="-90.17944054981563795081456192"/>
+  <node visible="true" id="-330" lat="29.98513292506111227453402535" lon="-90.17927972729111729677242693"/>
+  <node visible="true" id="-331" lat="29.98505052168883011631805857" lon="-90.17927038003755058070964878"/>
+  <node visible="true" id="-332" lat="29.98503878190491178656884586" lon="-90.17940833240152187499916181"/>
+  <node visible="true" id="-333" lat="29.98505944655119748176730354" lon="-90.17941067645128327967540827"/>
+  <node visible="true" id="-334" lat="29.98505750029444527626765193" lon="-90.17943354661180421771859983"/>
   <way visible="true" id="-48">
     <nd ref="-329"/>
     <nd ref="-330"/>
@@ -1074,17 +1121,18 @@
     <nd ref="-334"/>
     <nd ref="-329"/>
     <tag k="building" v="yes"/>
+    <tag k="building:levels" v="1"/>
     <tag k="addr:housenumber" v="1117"/>
     <tag k="addr:street" v="Green Avenue"/>
     <tag k="addr:city" v="Metairie"/>
     <tag k="addr:postcode" v="70001"/>
   </way>
-  <node visible="true" id="-335" lat="29.98477283674531790325090697" lon="-90.17981732435939079550735187"/>
-  <node visible="true" id="-336" lat="29.98480772393827109567610023" lon="-90.17966109681634634398506023"/>
-  <node visible="true" id="-337" lat="29.98476636375805526313342853" lon="-90.17964936859365820964740124"/>
-  <node visible="true" id="-338" lat="29.98476034579212168296180607" lon="-90.17967600703651953608641634"/>
-  <node visible="true" id="-339" lat="29.98468513825748971157736378" lon="-90.17965389806857956500607543"/>
-  <node visible="true" id="-340" lat="29.98465689961971847310451267" lon="-90.17978419690450664347736165"/>
+  <node visible="true" id="-335" lat="29.98480734584038387424698158" lon="-90.17966114864735516221116995"/>
+  <node visible="true" id="-336" lat="29.98476630567284928474691696" lon="-90.17964918966015375190181658"/>
+  <node visible="true" id="-337" lat="29.98476045708061477057526645" lon="-90.17967594260464636590768350"/>
+  <node visible="true" id="-338" lat="29.98468523429211529673921177" lon="-90.17965402291379461985343369"/>
+  <node visible="true" id="-339" lat="29.98465685111673550977684499" lon="-90.17978385463752033501805272"/>
+  <node visible="true" id="-340" lat="29.98477311410834644789247250" lon="-90.17981773331554506967222551"/>
   <way visible="true" id="-49">
     <nd ref="-335"/>
     <nd ref="-336"/>
@@ -1094,21 +1142,22 @@
     <nd ref="-340"/>
     <nd ref="-335"/>
     <tag k="building" v="yes"/>
+    <tag k="building:levels" v="1"/>
     <tag k="addr:housenumber" v="1108"/>
     <tag k="addr:street" v="Green Avenue"/>
     <tag k="addr:city" v="Metairie"/>
     <tag k="addr:postcode" v="70001"/>
   </way>
-  <node visible="true" id="-341" lat="29.98395989057112132059046417" lon="-90.17956965436226823840115685"/>
-  <node visible="true" id="-342" lat="29.98399817400081701634917408" lon="-90.17944426662130297245312249"/>
-  <node visible="true" id="-343" lat="29.98388336751823501913349901" lon="-90.17939748388573661941336468"/>
-  <node visible="true" id="-344" lat="29.98383536731676102249366522" lon="-90.17955529713326257024164079"/>
-  <node visible="true" id="-345" lat="29.98382971650351436210257816" lon="-90.17955249068945988710765960"/>
-  <node visible="true" id="-346" lat="29.98381816192539872645284049" lon="-90.17958924579437507418333553"/>
-  <node visible="true" id="-347" lat="29.98392606089163336946512572" lon="-90.17963251859211482042155694"/>
-  <node visible="true" id="-348" lat="29.98393699659571254301226872" lon="-90.17959648778509063049568795"/>
-  <node visible="true" id="-349" lat="29.98393324017345662468869705" lon="-90.17959581302156379933876451"/>
-  <node visible="true" id="-350" lat="29.98394421453926739218331932" lon="-90.17956409102640691344277002"/>
+  <node visible="true" id="-341" lat="29.98399817506005149425618583" lon="-90.17944422090866396501951385"/>
+  <node visible="true" id="-342" lat="29.98388342216380308968837198" lon="-90.17939755225285125561640598"/>
+  <node visible="true" id="-343" lat="29.98383536913489777475660958" lon="-90.17955504370922881207661703"/>
+  <node visible="true" id="-344" lat="29.98382949626555671329697361" lon="-90.17955265528482300396717619"/>
+  <node visible="true" id="-345" lat="29.98381839574703278117340233" lon="-90.17958903667935999237670330"/>
+  <node visible="true" id="-346" lat="29.98392595259504034288511320" lon="-90.17963277875659855453704949"/>
+  <node visible="true" id="-347" lat="29.98393702400966986942876247" lon="-90.17959649270943600640748627"/>
+  <node visible="true" id="-348" lat="29.98393385427239365981222363" lon="-90.17959592333171769951150054"/>
+  <node visible="true" id="-349" lat="29.98394374847979904075145896" lon="-90.17956349552397909974388313"/>
+  <node visible="true" id="-350" lat="29.98395979184519077875847870" lon="-90.17957002017308809627138544"/>
   <way visible="true" id="-50">
     <nd ref="-341"/>
     <nd ref="-342"/>
@@ -1122,17 +1171,18 @@
     <nd ref="-350"/>
     <nd ref="-341"/>
     <tag k="building" v="yes"/>
+    <tag k="building:levels" v="1"/>
     <tag k="addr:housenumber" v="1004"/>
     <tag k="addr:street" v="Green Avenue"/>
     <tag k="addr:city" v="Metairie"/>
     <tag k="addr:postcode" v="70001"/>
   </way>
-  <node visible="true" id="-351" lat="29.98384763972095612416524091" lon="-90.17910133334227396062487969"/>
-  <node visible="true" id="-352" lat="29.98396016244288375673932023" lon="-90.17910146671532345408195397"/>
-  <node visible="true" id="-353" lat="29.98396033692585405106001417" lon="-90.17890758500564629684959073"/>
-  <node visible="true" id="-354" lat="29.98387032306138522130822821" lon="-90.17890790852939630894979928"/>
-  <node visible="true" id="-355" lat="29.98387060643608492682687938" lon="-90.17894021850287344932439737"/>
-  <node visible="true" id="-356" lat="29.98384872994147087865712820" lon="-90.17894047167324345082306536"/>
+  <node visible="true" id="-351" lat="29.98396016244287309859828383" lon="-90.17910146671532345408195397"/>
+  <node visible="true" id="-352" lat="29.98396033692583984020529897" lon="-90.17890758500564629684959073"/>
+  <node visible="true" id="-353" lat="29.98387032306139232673558581" lon="-90.17890790852939630894979928"/>
+  <node visible="true" id="-354" lat="29.98387060643608492682687938" lon="-90.17894021850287344932439737"/>
+  <node visible="true" id="-355" lat="29.98384872994189720429858426" lon="-90.17894047167324345082306536"/>
+  <node visible="true" id="-356" lat="29.98384763972095612416524091" lon="-90.17910133334227396062487969"/>
   <way visible="true" id="-51">
     <nd ref="-351"/>
     <nd ref="-352"/>
@@ -1142,21 +1192,22 @@
     <nd ref="-356"/>
     <nd ref="-351"/>
     <tag k="building" v="yes"/>
+    <tag k="building:levels" v="1"/>
     <tag k="addr:housenumber" v="1005"/>
     <tag k="addr:street" v="Green Avenue"/>
     <tag k="addr:city" v="Metairie"/>
     <tag k="addr:postcode" v="70001"/>
   </way>
-  <node visible="true" id="-357" lat="29.98631897126315948298724834" lon="-90.18015166335882781822874676"/>
-  <node visible="true" id="-358" lat="29.98636588892299315034506435" lon="-90.18015658280224045029171975"/>
-  <node visible="true" id="-359" lat="29.98636131840434870809986023" lon="-90.18017770574486746681941440"/>
-  <node visible="true" id="-360" lat="29.98642656849925458573125070" lon="-90.18018163389268693208578043"/>
-  <node visible="true" id="-361" lat="29.98642774936084265391400550" lon="-90.18016133053663452301407233"/>
-  <node visible="true" id="-362" lat="29.98643590004438763685357117" lon="-90.18016123630842173497512704"/>
-  <node visible="true" id="-363" lat="29.98644282106493719197715109" lon="-90.18002068916777602680667769"/>
-  <node visible="true" id="-364" lat="29.98640743096829197611441487" lon="-90.18001329526114773216249887"/>
-  <node visible="true" id="-365" lat="29.98640715817164092982238799" lon="-90.17999894524241710769274505"/>
-  <node visible="true" id="-366" lat="29.98632568716163504518590344" lon="-90.17998770742028114000277128"/>
+  <node visible="true" id="-357" lat="29.98636456086768120599117537" lon="-90.18015687192914242586994078"/>
+  <node visible="true" id="-358" lat="29.98636279699460871484006930" lon="-90.18017580113620113024808234"/>
+  <node visible="true" id="-359" lat="29.98642602467535667187803483" lon="-90.18018365460804375288716983"/>
+  <node visible="true" id="-360" lat="29.98642775664659865242356318" lon="-90.18016506774624474473966984"/>
+  <node visible="true" id="-361" lat="29.98643290120963555978050863" lon="-90.18016028199809852594626136"/>
+  <node visible="true" id="-362" lat="29.98644601158327205325804243" lon="-90.18001958639889892310748110"/>
+  <node visible="true" id="-363" lat="29.98641390963265251912162057" lon="-90.18001559903368047343974467"/>
+  <node visible="true" id="-364" lat="29.98640139768653867236025690" lon="-90.17999767055584925401490182"/>
+  <node visible="true" id="-365" lat="29.98632986764533825407852419" lon="-90.17998878585542854580126004"/>
+  <node visible="true" id="-366" lat="29.98631478109790649000387930" lon="-90.18015068881757656527042855"/>
   <way visible="true" id="-52">
     <nd ref="-357"/>
     <nd ref="-358"/>
@@ -1170,49 +1221,47 @@
     <nd ref="-366"/>
     <nd ref="-357"/>
     <tag k="building" v="yes"/>
+    <tag k="building:levels" v="1"/>
     <tag k="addr:housenumber" v="1308"/>
     <tag k="addr:street" v="Green Avenue"/>
     <tag k="addr:city" v="Metairie"/>
     <tag k="addr:postcode" v="70001"/>
   </way>
-  <node visible="true" id="-367" lat="29.98422621180024094655891531" lon="-90.17797733744161803315364523">
-    <tag k="addr:street" v="North Woodlawn Avenue"/>
-    <tag k="addr:city" v="Metairie"/>
-    <tag k="addr:postcode" v="70001"/>
-  </node>
-  <node visible="true" id="-368" lat="29.98728292788523575040926517" lon="-90.17970356067880288719607051"/>
-  <node visible="true" id="-369" lat="29.98739750136935811042349087" lon="-90.17972377851069154530705418"/>
-  <node visible="true" id="-370" lat="29.98742454832826709321125236" lon="-90.17952886105580034836748382"/>
-  <node visible="true" id="-371" lat="29.98733939651006963345025724" lon="-90.17951332972053535286249826"/>
-  <node visible="true" id="-372" lat="29.98732880069562511948788597" lon="-90.17958813528740336096234387"/>
-  <node visible="true" id="-373" lat="29.98729936641320037438163126" lon="-90.17958201266296214271278586"/>
+  <node visible="true" id="-367" lat="29.98739754159697668001172133" lon="-90.17972419653926863247761503"/>
+  <node visible="true" id="-368" lat="29.98742444586757116553599190" lon="-90.17952889478564770797675010"/>
+  <node visible="true" id="-369" lat="29.98733926176571173982665641" lon="-90.17951325243274141030269675"/>
+  <node visible="true" id="-370" lat="29.98732899070859758694496122" lon="-90.17958781137339485667325789"/>
+  <node visible="true" id="-371" lat="29.98729946725222106351793627" lon="-90.17958238998608067049644887"/>
+  <node visible="true" id="-372" lat="29.98728283401075955794112815" lon="-90.17970313279909078119089827"/>
   <way visible="true" id="-53">
+    <nd ref="-367"/>
     <nd ref="-368"/>
     <nd ref="-369"/>
     <nd ref="-370"/>
     <nd ref="-371"/>
     <nd ref="-372"/>
-    <nd ref="-373"/>
-    <nd ref="-368"/>
+    <nd ref="-367"/>
     <tag k="building" v="yes"/>
+    <tag k="building:levels" v="1"/>
     <tag k="addr:housenumber" v="1337"/>
     <tag k="addr:street" v="Green Avenue"/>
     <tag k="addr:city" v="Metairie"/>
     <tag k="addr:postcode" v="70001"/>
   </way>
-  <node visible="true" id="-374" lat="29.98826959270385117406476638" lon="-90.17929941495913226390257478"/>
-  <node visible="true" id="-375" lat="29.98826124974659990130021470" lon="-90.17936947634468936030316399"/>
-  <node visible="true" id="-376" lat="29.98829173517900414935866138" lon="-90.17937323930304671648627846"/>
-  <node visible="true" id="-377" lat="29.98827802004033316052300506" lon="-90.17944336284394069025438512"/>
-  <node visible="true" id="-378" lat="29.98824216066345016429295356" lon="-90.17943966203168315587390680"/>
-  <node visible="true" id="-379" lat="29.98821487862473489371950564" lon="-90.17966755143415014117636019"/>
-  <node visible="true" id="-380" lat="29.98830065558493274124884920" lon="-90.17968307580677844725869363"/>
-  <node visible="true" id="-381" lat="29.98831061460241187432984589" lon="-90.17960684143896799014328280"/>
-  <node visible="true" id="-382" lat="29.98832439084127798878398607" lon="-90.17960955506532627623528242"/>
-  <node visible="true" id="-383" lat="29.98833259388147709501026839" lon="-90.17954698448286876555357594"/>
-  <node visible="true" id="-384" lat="29.98833760693901595573152008" lon="-90.17954836298120824267243734"/>
-  <node visible="true" id="-385" lat="29.98836824973629688884102507" lon="-90.17931473507776729547913419"/>
+  <node visible="true" id="-373" lat="29.98826102672948579197509389" lon="-90.17936871406612908685929142"/>
+  <node visible="true" id="-374" lat="29.98828933362410964491573395" lon="-90.17937355292953327534632990"/>
+  <node visible="true" id="-375" lat="29.98828017831435488460556371" lon="-90.17944494633246677040006034"/>
+  <node visible="true" id="-376" lat="29.98824326321409472484447178" lon="-90.17943863595803577482001856"/>
+  <node visible="true" id="-377" lat="29.98821387443556574226022349" lon="-90.17966781048052382629975909"/>
+  <node visible="true" id="-378" lat="29.98830079912914925444056280" lon="-90.17968266963937651325977640"/>
+  <node visible="true" id="-379" lat="29.98831050260146469099709066" lon="-90.17960700163057197187299607"/>
+  <node visible="true" id="-380" lat="29.98832450099935797993566666" lon="-90.17960939455871027803368634"/>
+  <node visible="true" id="-381" lat="29.98833247350397712693848007" lon="-90.17954722468071793173294282"/>
+  <node visible="true" id="-382" lat="29.98833797382054910940496484" lon="-90.17954816492151337570248870"/>
+  <node visible="true" id="-383" lat="29.98836781866476286495526438" lon="-90.17931543369441271806863369"/>
+  <node visible="true" id="-384" lat="29.98827000350677352003003762" lon="-90.17929871287763887721666833"/>
   <way visible="true" id="-54">
+    <nd ref="-373"/>
     <nd ref="-374"/>
     <nd ref="-375"/>
     <nd ref="-376"/>
@@ -1224,30 +1273,36 @@
     <nd ref="-382"/>
     <nd ref="-383"/>
     <nd ref="-384"/>
-    <nd ref="-385"/>
-    <nd ref="-374"/>
+    <nd ref="-373"/>
     <tag k="building" v="yes"/>
+    <tag k="building:levels" v="1"/>
     <tag k="addr:housenumber" v="1509"/>
     <tag k="addr:street" v="Green Avenue"/>
     <tag k="addr:city" v="Metairie"/>
     <tag k="addr:postcode" v="70001"/>
   </way>
-  <node visible="true" id="-386" lat="29.98786461223120625163574005" lon="-90.17945555146236813470750349"/>
-  <node visible="true" id="-387" lat="29.98783279776166210695009795" lon="-90.17967709459875891297997441"/>
-  <node visible="true" id="-388" lat="29.98793862064730220140518213" lon="-90.17969741371757663728203624"/>
-  <node visible="true" id="-389" lat="29.98797043424845298886793898" lon="-90.17947587036302081742178416"/>
+  <node visible="true" id="-385" lat="29.98783277826779425367931253" lon="-90.17967711092467197886435315"/>
+  <node visible="true" id="-386" lat="29.98793860634555841215842520" lon="-90.17969739091536496289336355"/>
+  <node visible="true" id="-387" lat="29.98797045415954443114969763" lon="-90.17947585414617606147658080"/>
+  <node visible="true" id="-388" lat="29.98786462611572645187152375" lon="-90.17945557415549728830228560"/>
   <way visible="true" id="-55">
+    <nd ref="-385"/>
     <nd ref="-386"/>
     <nd ref="-387"/>
     <nd ref="-388"/>
-    <nd ref="-389"/>
-    <nd ref="-386"/>
+    <nd ref="-385"/>
     <tag k="building" v="yes"/>
+    <tag k="building:levels" v="1"/>
     <tag k="addr:housenumber" v="1405"/>
     <tag k="addr:street" v="Green Avenue"/>
     <tag k="addr:city" v="Metairie"/>
     <tag k="addr:postcode" v="70001"/>
   </way>
+  <node visible="true" id="-389" lat="29.98422621180024094655891531" lon="-90.17797733744161803315364523">
+    <tag k="addr:street" v="North Woodlawn Avenue"/>
+    <tag k="addr:city" v="Metairie"/>
+    <tag k="addr:postcode" v="70001"/>
+  </node>
   <node visible="true" id="-390" lat="29.98872926749546863334217051" lon="-90.17997254319661237786931451"/>
   <node visible="true" id="-391" lat="29.98860798257778981223964365" lon="-90.17997107366304021525138523"/>
   <node visible="true" id="-392" lat="29.98860717416350851749484718" lon="-90.18016425347067865914141294"/>
@@ -1267,19 +1322,20 @@
     <nd ref="-397"/>
     <nd ref="-390"/>
     <tag k="building" v="yes"/>
+    <tag k="building:levels" v="1"/>
     <tag k="addr:housenumber" v="1504"/>
     <tag k="addr:street" v="Green Avenue"/>
     <tag k="addr:city" v="Metairie"/>
     <tag k="addr:postcode" v="70001"/>
   </way>
-  <node visible="true" id="-398" lat="29.99237487721983441701922857" lon="-90.18654426214843056186509784"/>
-  <node visible="true" id="-399" lat="29.99238405443957944385147130" lon="-90.18666480340776558932702756"/>
-  <node visible="true" id="-400" lat="29.99254644853699502959898382" lon="-90.18664929241160166384361219"/>
-  <node visible="true" id="-401" lat="29.99254374233133901839210012" lon="-90.18662562467885379646759247"/>
-  <node visible="true" id="-402" lat="29.99256684412921813986940833" lon="-90.18662248599439124063792406"/>
-  <node visible="true" id="-403" lat="29.99256185580260236633876048" lon="-90.18655216610602565197041258"/>
-  <node visible="true" id="-404" lat="29.99254124753221617538656574" lon="-90.18655455786510799498501001"/>
-  <node visible="true" id="-405" lat="29.99253851629084977048478322" lon="-90.18652801837065169365814654"/>
+  <node visible="true" id="-398" lat="29.99238419798171761954108661" lon="-90.18666544278534047407447360"/>
+  <node visible="true" id="-399" lat="29.99254596785518955925908813" lon="-90.18664868795232791853777599"/>
+  <node visible="true" id="-400" lat="29.99254414384344968880213855" lon="-90.18662521010223542816675035"/>
+  <node visible="true" id="-401" lat="29.99256710841913786680379417" lon="-90.18662283161251025376259349"/>
+  <node visible="true" id="-402" lat="29.99256163017512477608761401" lon="-90.18655231813323780443170108"/>
+  <node visible="true" id="-403" lat="29.99254090560394203635041777" lon="-90.18655446462085478742665146"/>
+  <node visible="true" id="-404" lat="29.99253882114939173675338679" lon="-90.18652763447063591684127459"/>
+  <node visible="true" id="-405" lat="29.99237481125473436804895755" lon="-90.18654462130575666378717870"/>
   <way visible="true" id="-57">
     <nd ref="-398"/>
     <nd ref="-399"/>
@@ -1291,6 +1347,7 @@
     <nd ref="-405"/>
     <nd ref="-398"/>
     <tag k="building" v="yes"/>
+    <tag k="building:levels" v="1"/>
     <tag k="addr:housenumber" v="4737"/>
     <tag k="addr:street" v="Sturtz Drive"/>
     <tag k="addr:city" v="Metairie"/>
@@ -1301,14 +1358,14 @@
     <tag k="addr:city" v="Metairie"/>
     <tag k="addr:postcode" v="70001"/>
   </node>
-  <node visible="true" id="-407" lat="29.98818334417788733503584808" lon="-90.17997885563842430656222859"/>
-  <node visible="true" id="-408" lat="29.98815145417426109020198055" lon="-90.17997778789383289677061839"/>
-  <node visible="true" id="-409" lat="29.98815137868002977938886033" lon="-90.17996917194490436031628633"/>
-  <node visible="true" id="-410" lat="29.98806699589835744745869306" lon="-90.17997014765393259949632920"/>
-  <node visible="true" id="-411" lat="29.98806768793724231159103510" lon="-90.18004913057410476540098898"/>
-  <node visible="true" id="-412" lat="29.98810519189732204381471092" lon="-90.18004869694973990590369795"/>
-  <node visible="true" id="-413" lat="29.98810469646494070161679701" lon="-90.18013487603769817724241875"/>
-  <node visible="true" id="-414" lat="29.98818471562323040302544541" lon="-90.18013538636310499896353576"/>
+  <node visible="true" id="-407" lat="29.98815145417427530105669575" lon="-90.17997778789383289677061839"/>
+  <node visible="true" id="-408" lat="29.98815137868002977938886033" lon="-90.17996917194491857117100153"/>
+  <node visible="true" id="-409" lat="29.98806699589749058532106574" lon="-90.17997014765394681035104441"/>
+  <node visible="true" id="-410" lat="29.98806768793725296973207151" lon="-90.18004913057410476540098898"/>
+  <node visible="true" id="-411" lat="29.98810519189689571817325486" lon="-90.18004869694973990590369795"/>
+  <node visible="true" id="-412" lat="29.98810469646493359618943941" lon="-90.18013487603768396638770355"/>
+  <node visible="true" id="-413" lat="29.98818471562324106116648181" lon="-90.18013538636310499896353576"/>
+  <node visible="true" id="-414" lat="29.98818334417788733503584808" lon="-90.17997885563842430656222859"/>
   <way visible="true" id="-58">
     <nd ref="-407"/>
     <nd ref="-408"/>
@@ -1320,15 +1377,16 @@
     <nd ref="-414"/>
     <nd ref="-407"/>
     <tag k="building" v="yes"/>
+    <tag k="building:levels" v="1"/>
     <tag k="addr:housenumber" v="1412"/>
     <tag k="addr:street" v="Green Avenue"/>
     <tag k="addr:city" v="Metairie"/>
     <tag k="addr:postcode" v="70001"/>
   </way>
-  <node visible="true" id="-415" lat="29.98954906173900880617111397" lon="-90.18002237610666327327635372"/>
-  <node visible="true" id="-416" lat="29.98942896336134467105694057" lon="-90.18001371131340704323520185"/>
-  <node visible="true" id="-417" lat="29.98941639256622693210374564" lon="-90.18021995512381749904307071"/>
-  <node visible="true" id="-418" lat="29.98953649093055062735402316" lon="-90.18022862016431417941930704"/>
+  <node visible="true" id="-415" lat="29.98942870049126696585517493" lon="-90.18001336400719480934640160"/>
+  <node visible="true" id="-416" lat="29.98941669331415837973509042" lon="-90.18021965167424980336363660"/>
+  <node visible="true" id="-417" lat="29.98953675381448746861678956" lon="-90.18022896734689197728584986"/>
+  <node visible="true" id="-418" lat="29.98954876097720401162405324" lon="-90.18002267967985119412333006"/>
   <way visible="true" id="-59">
     <nd ref="-415"/>
     <nd ref="-416"/>
@@ -1336,18 +1394,19 @@
     <nd ref="-418"/>
     <nd ref="-415"/>
     <tag k="building" v="yes"/>
+    <tag k="building:levels" v="1"/>
     <tag k="addr:housenumber" v="1604"/>
     <tag k="addr:street" v="Green Avenue"/>
     <tag k="addr:city" v="Metairie"/>
     <tag k="addr:postcode" v="70001"/>
   </way>
-  <node visible="true" id="-419" lat="29.98913699025723289537381788" lon="-90.17998937200881925946305273"/>
-  <node visible="true" id="-420" lat="29.98909321123442239809264720" lon="-90.17998700626176855621451978"/>
-  <node visible="true" id="-421" lat="29.98909325527360181240510428" lon="-90.17999203245216222057933919"/>
-  <node visible="true" id="-422" lat="29.98902696829776459708227776" lon="-90.17998920767595905090274755"/>
-  <node visible="true" id="-423" lat="29.98902071839040672784904018" lon="-90.17998927994240432326478185"/>
-  <node visible="true" id="-424" lat="29.98901252922037841130986635" lon="-90.18019619050481594513257733"/>
-  <node visible="true" id="-425" lat="29.98912948287242485889692034" lon="-90.18020273812830112092342461"/>
+  <node visible="true" id="-419" lat="29.98909098454887001139468339" lon="-90.17998661109275815306318691"/>
+  <node visible="true" id="-420" lat="29.98909589477743509178253589" lon="-90.17999296152170529694558354"/>
+  <node visible="true" id="-421" lat="29.98902475285597901688561251" lon="-90.17998830635495721708139172"/>
+  <node visible="true" id="-422" lat="29.98902158987809585255490674" lon="-90.17999156650668624024547171"/>
+  <node visible="true" id="-423" lat="29.98901157568097275429863657" lon="-90.18019557549426679088355741"/>
+  <node visible="true" id="-424" lat="29.98912797752431913522741525" lon="-90.18020319224167735683295177"/>
+  <node visible="true" id="-425" lat="29.98913845635945918388642895" lon="-90.17998971740915692407725146"/>
   <way visible="true" id="-60">
     <nd ref="-419"/>
     <nd ref="-420"/>
@@ -1358,17 +1417,18 @@
     <nd ref="-425"/>
     <nd ref="-419"/>
     <tag k="building" v="yes"/>
+    <tag k="building:levels" v="1"/>
     <tag k="addr:housenumber" v="1516"/>
     <tag k="addr:street" v="Green Avenue"/>
     <tag k="addr:city" v="Metairie"/>
     <tag k="addr:postcode" v="70001"/>
   </way>
-  <node visible="true" id="-426" lat="29.99139691374913851973360579" lon="-90.18000068026437077151058475"/>
-  <node visible="true" id="-427" lat="29.99149272301328394974007097" lon="-90.18001967970597831936174771"/>
-  <node visible="true" id="-428" lat="29.99151454746145262220125005" lon="-90.17987077542790075312950648"/>
-  <node visible="true" id="-429" lat="29.99146195493042554858220683" lon="-90.17986132894803574799880153"/>
-  <node visible="true" id="-430" lat="29.99146725966642179628252052" lon="-90.17982464333655912014364731"/>
-  <node visible="true" id="-431" lat="29.99142404919403759322449332" lon="-90.17981580768478977461199975"/>
+  <node visible="true" id="-426" lat="29.99149276618599557764355268" lon="-90.18001953017524385813885601"/>
+  <node visible="true" id="-427" lat="29.99151446918988028755848063" lon="-90.17987116490030530258081853"/>
+  <node visible="true" id="-428" lat="29.99146198251379047405862366" lon="-90.17986092959101540600386215"/>
+  <node visible="true" id="-429" lat="29.99146731875070770456659375" lon="-90.17982445021952742081339238"/>
+  <node visible="true" id="-430" lat="29.99142397531922554776429024" lon="-90.17981599791754376838071039"/>
+  <node visible="true" id="-431" lat="29.99139693605516399088628532" lon="-90.18000084256398451998393284"/>
   <way visible="true" id="-61">
     <nd ref="-426"/>
     <nd ref="-427"/>
@@ -1378,15 +1438,16 @@
     <nd ref="-431"/>
     <nd ref="-426"/>
     <tag k="building" v="yes"/>
+    <tag k="building:levels" v="1"/>
     <tag k="addr:housenumber" v="1901"/>
     <tag k="addr:street" v="Green Avenue"/>
     <tag k="addr:city" v="Metairie"/>
     <tag k="addr:postcode" v="70001"/>
   </way>
-  <node visible="true" id="-432" lat="29.99218174958350502379289537" lon="-90.17993745090058155255974270"/>
-  <node visible="true" id="-433" lat="29.99208596573059537604422076" lon="-90.17991579154619330438436009"/>
-  <node visible="true" id="-434" lat="29.99205884136347677326739358" lon="-90.18011615721887608287943294"/>
-  <node visible="true" id="-435" lat="29.99215526228662653807077731" lon="-90.18013371328522964631702052"/>
+  <node visible="true" id="-432" lat="29.99208632473882829572175979" lon="-90.17991764947697674870141782"/>
+  <node visible="true" id="-433" lat="29.99205827984124184126812906" lon="-90.18011572963698085914074909"/>
+  <node visible="true" id="-434" lat="29.99215458475662998694133421" lon="-90.18013390699846354436886031"/>
+  <node visible="true" id="-435" lat="29.99218262962700265461535309" lon="-90.17993582683845943392952904"/>
   <way visible="true" id="-62">
     <nd ref="-432"/>
     <nd ref="-433"/>
@@ -1394,6 +1455,7 @@
     <nd ref="-435"/>
     <nd ref="-432"/>
     <tag k="building" v="yes"/>
+    <tag k="building:levels" v="1"/>
     <tag k="addr:housenumber" v="2001"/>
     <tag k="addr:street" v="Green Avenue"/>
     <tag k="addr:city" v="Metairie"/>
@@ -1418,21 +1480,22 @@
     <nd ref="-443"/>
     <nd ref="-436"/>
     <tag k="building" v="yes"/>
+    <tag k="building:levels" v="1"/>
     <tag k="addr:housenumber" v="1009"/>
     <tag k="addr:street" v="Green Avenue"/>
     <tag k="addr:city" v="Metairie"/>
     <tag k="addr:postcode" v="70001"/>
   </way>
-  <node visible="true" id="-444" lat="29.98500309404359853715504869" lon="-90.17941397237576950374204898"/>
-  <node visible="true" id="-445" lat="29.98501726647346998788634664" lon="-90.17924793099926716877234867"/>
-  <node visible="true" id="-446" lat="29.98501476668967313798930263" lon="-90.17924795992117026344203623"/>
-  <node visible="true" id="-447" lat="29.98501700206485764965691487" lon="-90.17921777509110370374401100"/>
-  <node visible="true" id="-448" lat="29.98493315718562257643498015" lon="-90.17920869220047563885600539"/>
-  <node visible="true" id="-449" lat="29.98493155867528159319590486" lon="-90.17924030607318286456575152"/>
-  <node visible="true" id="-450" lat="29.98489964976020516473909083" lon="-90.17923708416449812830251176"/>
-  <node visible="true" id="-451" lat="29.98489227348038710374567017" lon="-90.17932262187997594082844444"/>
-  <node visible="true" id="-452" lat="29.98493294557355426377398544" lon="-90.17932717783456553206633544"/>
-  <node visible="true" id="-453" lat="29.98492612515309474474634044" lon="-90.17940480874258923904562835"/>
+  <node visible="true" id="-444" lat="29.98501738484145207053188642" lon="-90.17924664950132296326046344"/>
+  <node visible="true" id="-445" lat="29.98501447065878977582542575" lon="-90.17924940969403735380183207"/>
+  <node visible="true" id="-446" lat="29.98501715272196932460246899" lon="-90.17921802636416828136134427"/>
+  <node visible="true" id="-447" lat="29.98493372331054018786744564" lon="-90.17920852257896058290498331"/>
+  <node visible="true" id="-448" lat="29.98493099488881341585511109" lon="-90.17924044833200980519904988"/>
+  <node visible="true" id="-449" lat="29.98489963450572659553472477" lon="-90.17923687594478110440832097"/>
+  <node visible="true" id="-450" lat="29.98489230947655670433960040" lon="-90.17932258739702433558704797"/>
+  <node visible="true" id="-451" lat="29.98493285022002297068866028" lon="-90.17932720555587877697689692"/>
+  <node visible="true" id="-452" lat="29.98492620049157864059452550" lon="-90.17940501522134866263513686"/>
+  <node visible="true" id="-453" lat="29.98500310202895491329400102" lon="-90.17941377538878100494912360"/>
   <way visible="true" id="-64">
     <nd ref="-444"/>
     <nd ref="-445"/>
@@ -1446,21 +1509,22 @@
     <nd ref="-453"/>
     <nd ref="-444"/>
     <tag k="building" v="yes"/>
+    <tag k="building:levels" v="1"/>
     <tag k="addr:housenumber" v="1113"/>
     <tag k="addr:street" v="Green Avenue"/>
     <tag k="addr:city" v="Metairie"/>
     <tag k="addr:postcode" v="70001"/>
   </way>
-  <node visible="true" id="-454" lat="29.98422280585569055233463587" lon="-90.18081213034943743878102396"/>
-  <node visible="true" id="-455" lat="29.98418208351345626283546153" lon="-90.18080182973857006345497211"/>
-  <node visible="true" id="-456" lat="29.98418631421086288924016117" lon="-90.18078526507548531299107708"/>
-  <node visible="true" id="-457" lat="29.98416188045066377299008309" lon="-90.18077908554994337464449927"/>
-  <node visible="true" id="-458" lat="29.98415888752084157431454514" lon="-90.18079419948311681309860433"/>
-  <node visible="true" id="-459" lat="29.98415074951715197926205292" lon="-90.18079285708614634131663479"/>
-  <node visible="true" id="-460" lat="29.98412554041084376876824535" lon="-90.18091234877888950904889498"/>
-  <node visible="true" id="-461" lat="29.98416438184436927372189530" lon="-90.18092195294637747338128975"/>
-  <node visible="true" id="-462" lat="29.98416734963839402894336672" lon="-90.18090396645683881615696009"/>
-  <node visible="true" id="-463" lat="29.98420056543859502085069835" lon="-90.18091363665428161766612902"/>
+  <node visible="true" id="-454" lat="29.98418255971313683971857245" lon="-90.18080155350364179867028724"/>
+  <node visible="true" id="-455" lat="29.98418586942508667902984598" lon="-90.18078538787585785030387342"/>
+  <node visible="true" id="-456" lat="29.98416197584452902447083034" lon="-90.18077886740174164970085258"/>
+  <node visible="true" id="-457" lat="29.98415875430855948025055113" lon="-90.18079460234757505077141104"/>
+  <node visible="true" id="-458" lat="29.98415048205946220605255803" lon="-90.18079234488030238026112784"/>
+  <node visible="true" id="-459" lat="29.98412598955227537089740508" lon="-90.18091197358793920102471020"/>
+  <node visible="true" id="-460" lat="29.98416394687795971663035743" lon="-90.18092233200560770001175115"/>
+  <node visible="true" id="-461" lat="29.98416762936141566342485021" lon="-90.18090434565300483882310800"/>
+  <node visible="true" id="-462" lat="29.98420131471424454616681032" lon="-90.18091353826829958961752709"/>
+  <node visible="true" id="-463" lat="29.98422203654464013311553572" lon="-90.18081232659524459904787363"/>
   <way visible="true" id="-65">
     <nd ref="-454"/>
     <nd ref="-455"/>
@@ -1474,15 +1538,16 @@
     <nd ref="-463"/>
     <nd ref="-454"/>
     <tag k="building" v="yes"/>
+    <tag k="building:levels" v="1"/>
     <tag k="addr:housenumber" v="1020"/>
     <tag k="addr:street" v="Clearview Parkway West"/>
     <tag k="addr:city" v="Metairie"/>
     <tag k="addr:postcode" v="70001"/>
   </way>
-  <node visible="true" id="-464" lat="29.98447971867573613735658000" lon="-90.17982430401229976268950850"/>
-  <node visible="true" id="-465" lat="29.98453702786691366100058076" lon="-90.17958739408628332512307679"/>
-  <node visible="true" id="-466" lat="29.98442355989977770036603033" lon="-90.17955064838071166377631016"/>
-  <node visible="true" id="-467" lat="29.98436625077373918202283676" lon="-90.17978755805836499348515645"/>
+  <node visible="true" id="-464" lat="29.98453708068189271784831362" lon="-90.17958735980700168965995545"/>
+  <node visible="true" id="-465" lat="29.98442358967758991639129817" lon="-90.17955070933230388163792668"/>
+  <node visible="true" id="-466" lat="29.98436619789334400820735027" lon="-90.17978759246183528830442810"/>
+  <node visible="true" id="-467" lat="29.98447968896325832588445337" lon="-90.17982424293653309632645687"/>
   <way visible="true" id="-66">
     <nd ref="-464"/>
     <nd ref="-465"/>
@@ -1490,19 +1555,20 @@
     <nd ref="-467"/>
     <nd ref="-464"/>
     <tag k="building" v="yes"/>
+    <tag k="building:levels" v="1"/>
     <tag k="addr:housenumber" v="1100"/>
     <tag k="addr:street" v="Green Avenue"/>
     <tag k="addr:city" v="Metairie"/>
     <tag k="addr:postcode" v="70001"/>
   </way>
-  <node visible="true" id="-468" lat="29.98493116324027596419909969" lon="-90.17983703586050125977635616"/>
-  <node visible="true" id="-469" lat="29.98499256933667922453423671" lon="-90.17985355990390416991431266"/>
-  <node visible="true" id="-470" lat="29.98498662773178580209787469" lon="-90.17988881405997858564660419"/>
-  <node visible="true" id="-471" lat="29.98503299466153038110860507" lon="-90.17990120376859408679592889"/>
-  <node visible="true" id="-472" lat="29.98503895604257252216484630" lon="-90.17986810298835109733772697"/>
-  <node visible="true" id="-473" lat="29.98504584371162451361669810" lon="-90.17986945978016422031942056"/>
-  <node visible="true" id="-474" lat="29.98507342579071632826526184" lon="-90.17973557695889041951886611"/>
-  <node visible="true" id="-475" lat="29.98495875158104695401561912" lon="-90.17970387132965015553054400"/>
+  <node visible="true" id="-468" lat="29.98499312093344570939734695" lon="-90.17985367982913658124743961"/>
+  <node visible="true" id="-469" lat="29.98498608578485757902853948" lon="-90.17988864617248623289924581"/>
+  <node visible="true" id="-470" lat="29.98503265902655456898173725" lon="-90.17990113630393977928179083"/>
+  <node visible="true" id="-471" lat="29.98503933417774192093929742" lon="-90.17986795921686393739946652"/>
+  <node visible="true" id="-472" lat="29.98504610298206074503468699" lon="-90.17986977449278640506236115"/>
+  <node visible="true" id="-473" lat="29.98507321058344388120531221" lon="-90.17973504324233147144695977"/>
+  <node visible="true" id="-474" lat="29.98495828312319133601704380" lon="-90.17970422169916844268300338"/>
+  <node visible="true" id="-475" lat="29.98493153548494305482563504" lon="-90.17983716369336377738363808"/>
   <way visible="true" id="-67">
     <nd ref="-468"/>
     <nd ref="-469"/>
@@ -1514,17 +1580,18 @@
     <nd ref="-475"/>
     <nd ref="-468"/>
     <tag k="building" v="yes"/>
+    <tag k="building:levels" v="1"/>
     <tag k="addr:housenumber" v="1112"/>
     <tag k="addr:street" v="Green Avenue"/>
     <tag k="addr:city" v="Metairie"/>
     <tag k="addr:postcode" v="70001"/>
   </way>
-  <node visible="true" id="-476" lat="29.98687745623017875118421216" lon="-90.18001487717849329328601016"/>
-  <node visible="true" id="-477" lat="29.98687479830507740530265437" lon="-90.18021094794278269546339288"/>
-  <node visible="true" id="-478" lat="29.98699045761103221252596995" lon="-90.18021248277666757076076465"/>
-  <node visible="true" id="-479" lat="29.98699301487661728060629684" lon="-90.18000492329566952776076505"/>
-  <node visible="true" id="-480" lat="29.98692987262388953695335658" lon="-90.18000421794320686785795260"/>
-  <node visible="true" id="-481" lat="29.98692997328572218407316541" lon="-90.18001570642540798417030601"/>
+  <node visible="true" id="-476" lat="29.98687391005188018766602909" lon="-90.18020992653261203031433979"/>
+  <node visible="true" id="-477" lat="29.98698934245340907978061296" lon="-90.18021344315340570574335288"/>
+  <node visible="true" id="-478" lat="29.98699409341336163947744353" lon="-90.18000556528402000822097762"/>
+  <node visible="true" id="-479" lat="29.98692457027273405856249155" lon="-90.18000344727740014150185743"/>
+  <node visible="true" id="-480" lat="29.98693508704575449996809766" lon="-90.18001624755106604425236583"/>
+  <node visible="true" id="-481" lat="29.98687837599387151499286119" lon="-90.18001451986270922134281136"/>
   <way visible="true" id="-68">
     <nd ref="-476"/>
     <nd ref="-477"/>
@@ -1534,6 +1601,7 @@
     <nd ref="-481"/>
     <nd ref="-476"/>
     <tag k="building" v="yes"/>
+    <tag k="building:levels" v="1"/>
     <tag k="addr:housenumber" v="1324"/>
     <tag k="addr:street" v="Green Avenue"/>
     <tag k="addr:city" v="Metairie"/>
@@ -1551,10 +1619,10 @@
     <tag k="addr:city" v="Metairie"/>
     <tag k="addr:postcode" v="70001"/>
   </node>
-  <node visible="true" id="-484" lat="29.99004394539683460152446060" lon="-90.17958999503258610275224783"/>
-  <node visible="true" id="-485" lat="29.99001440396737905302870786" lon="-90.17978566469166423757997109"/>
-  <node visible="true" id="-486" lat="29.99013274010381380207945767" lon="-90.17980727616757974374195328"/>
-  <node visible="true" id="-487" lat="29.99016039975711933607271931" lon="-90.17961090979339644491119543"/>
+  <node visible="true" id="-484" lat="29.99001533019099241528238053" lon="-90.17978546069613798863429110"/>
+  <node visible="true" id="-485" lat="29.99013259720431179289334978" lon="-90.17980762823846418996254215"/>
+  <node visible="true" id="-486" lat="29.99016041440534507955817389" lon="-90.17961146214645395957631990"/>
+  <node visible="true" id="-487" lat="29.99004314742476395849735127" lon="-90.17958929460411354739335366"/>
   <way visible="true" id="-69">
     <nd ref="-484"/>
     <nd ref="-485"/>
@@ -1562,6 +1630,7 @@
     <nd ref="-487"/>
     <nd ref="-484"/>
     <tag k="building" v="yes"/>
+    <tag k="building:levels" v="1"/>
     <tag k="addr:housenumber" v="1701"/>
     <tag k="addr:street" v="Green Avenue"/>
     <tag k="addr:city" v="Metairie"/>
@@ -1591,10 +1660,10 @@
     <tag k="addr:city" v="Metairie"/>
     <tag k="addr:postcode" v="70001"/>
   </node>
-  <node visible="true" id="-492" lat="29.98646462591022299193355138" lon="-90.17998589987584523441910278"/>
-  <node visible="true" id="-493" lat="29.98645320484952137007894635" lon="-90.18018063467877709626918659"/>
-  <node visible="true" id="-494" lat="29.98656892706937782122622593" lon="-90.18018935000561953074793564"/>
-  <node visible="true" id="-495" lat="29.98658034904487834637620836" lon="-90.17999461496734170395939145"/>
+  <node visible="true" id="-492" lat="29.98645329520260460753888765" lon="-90.18018054323322019172337605"/>
+  <node visible="true" id="-493" lat="29.98656900655723234194738325" lon="-90.18018945453115975396940485"/>
+  <node visible="true" id="-494" lat="29.98658025822786754588378244" lon="-90.17999470653057869640178978"/>
+  <node visible="true" id="-495" lat="29.98646454688636708851845469" lon="-90.17998579523262492330104578"/>
   <way visible="true" id="-70">
     <nd ref="-492"/>
     <nd ref="-493"/>
@@ -1602,6 +1671,7 @@
     <nd ref="-495"/>
     <nd ref="-492"/>
     <tag k="building" v="yes"/>
+    <tag k="building:levels" v="1"/>
     <tag k="addr:housenumber" v="1312"/>
     <tag k="addr:street" v="Green Avenue"/>
     <tag k="addr:city" v="Metairie"/>
@@ -1619,20 +1689,20 @@
     <tag k="addr:city" v="Metairie"/>
     <tag k="addr:postcode" v="70001"/>
   </node>
-  <node visible="true" id="-498" lat="29.99207960415600027204163780" lon="-90.18599755513447746579913655"/>
-  <node visible="true" id="-499" lat="29.99207331579608748484133685" lon="-90.18599331889092240999161731"/>
-  <node visible="true" id="-500" lat="29.99198578584406149616370385" lon="-90.18620689278357360763038741"/>
-  <node visible="true" id="-501" lat="29.99210825361178223147362587" lon="-90.18627227091285192273062421"/>
-  <node visible="true" id="-502" lat="29.99213762977990782587767171" lon="-90.18620011960214810642355587"/>
-  <node visible="true" id="-503" lat="29.99212192902125906357468921" lon="-90.18619168301471233917254722"/>
-  <node visible="true" id="-504" lat="29.99213417317142216234060470" lon="-90.18616209832713082050759112"/>
-  <node visible="true" id="-505" lat="29.99210967710260433705116156" lon="-90.18614873501864792615378974"/>
-  <node visible="true" id="-506" lat="29.99213231581174099460440630" lon="-90.18609246102117538157472154"/>
-  <node visible="true" id="-507" lat="29.99211097062936559609624965" lon="-90.18608193456547894584218739"/>
-  <node visible="true" id="-508" lat="29.99213360930091809564146388" lon="-90.18602565951577787473070202"/>
-  <node visible="true" id="-509" lat="29.99212292686657121976168128" lon="-90.18601931900346357906528283"/>
-  <node visible="true" id="-510" lat="29.99213272127416018975054612" lon="-90.18599550862955993579817005"/>
-  <node visible="true" id="-511" lat="29.99208939229973580609112105" lon="-90.18597302657151715266081737"/>
+  <node visible="true" id="-498" lat="29.99207277138049931863861275" lon="-90.18599344444373855367302895"/>
+  <node visible="true" id="-499" lat="29.99198632017169074970297515" lon="-90.18620679212737911711883498"/>
+  <node visible="true" id="-500" lat="29.99210818144195300760657119" lon="-90.18627262122515730879968032"/>
+  <node visible="true" id="-501" lat="29.99213756506326333806100592" lon="-90.18620010710390033636940643"/>
+  <node visible="true" id="-502" lat="29.99212204152967942150098679" lon="-90.18619172132997618973604403"/>
+  <node visible="true" id="-503" lat="29.99213408983777640059997793" lon="-90.18616198801319683298061136"/>
+  <node visible="true" id="-504" lat="29.99210958803356064095169131" lon="-90.18614875220109183828753885"/>
+  <node visible="true" id="-505" lat="29.99213221626089165283701732" lon="-90.18609290932273836460808525"/>
+  <node visible="true" id="-506" lat="29.99211106998999909478698100" lon="-90.18608148616117148321791319"/>
+  <node visible="true" id="-507" lat="29.99213377158006466061124229" lon="-90.18602546223449678564065835"/>
+  <node visible="true" id="-508" lat="29.99212289209056336858338909" lon="-90.18601958516164529555680929"/>
+  <node visible="true" id="-509" lat="29.99213250771078165257677028" lon="-90.18599585533357299027557019"/>
+  <node visible="true" id="-510" lat="29.99208960790962663622849504" lon="-90.18597268097298069733369630"/>
+  <node visible="true" id="-511" lat="29.99207968166575000168450060" lon="-90.18599717736047693961154437"/>
   <way visible="true" id="-71">
     <nd ref="-498"/>
     <nd ref="-499"/>
@@ -1650,15 +1720,16 @@
     <nd ref="-511"/>
     <nd ref="-498"/>
     <tag k="building" v="yes"/>
+    <tag k="building:levels" v="1"/>
     <tag k="addr:housenumber" v="4724"/>
     <tag k="addr:street" v="Sturtz Drive"/>
     <tag k="addr:city" v="Metairie"/>
     <tag k="addr:postcode" v="70001"/>
   </way>
-  <node visible="true" id="-512" lat="29.99232747721887903935567010" lon="-90.18591110977260427716828417"/>
-  <node visible="true" id="-513" lat="29.99233536711813385977620783" lon="-90.18602735610478760008845711"/>
-  <node visible="true" id="-514" lat="29.99246840319085549708688632" lon="-90.18601433659350163907220121"/>
-  <node visible="true" id="-515" lat="29.99246052579194454779099033" lon="-90.18589952547068833155208267"/>
+  <node visible="true" id="-512" lat="29.99233539778543544684907829" lon="-90.18602695154727655335591407"/>
+  <node visible="true" id="-513" lat="29.99246844594175342990638455" lon="-90.18601473440939741976762889"/>
+  <node visible="true" id="-514" lat="29.99246048887979654296032095" lon="-90.18589921242352147601195611"/>
+  <node visible="true" id="-515" lat="29.99232744071282397158029198" lon="-90.18591142956140060960024130"/>
   <way visible="true" id="-72">
     <nd ref="-512"/>
     <nd ref="-513"/>
@@ -1666,17 +1737,18 @@
     <nd ref="-515"/>
     <nd ref="-512"/>
     <tag k="building" v="yes"/>
+    <tag k="building:levels" v="1"/>
     <tag k="addr:housenumber" v="4721"/>
     <tag k="addr:street" v="Sturtz Drive"/>
     <tag k="addr:city" v="Metairie"/>
     <tag k="addr:postcode" v="70001"/>
   </way>
-  <node visible="true" id="-516" lat="29.99159435209454471760182059" lon="-90.18032700864876005653059110"/>
-  <node visible="true" id="-517" lat="29.99147477292937225001878687" lon="-90.18030612991177008552767802"/>
-  <node visible="true" id="-518" lat="29.99145364143887348973294138" lon="-90.18046292589826862240443006"/>
-  <node visible="true" id="-519" lat="29.99147681227472261866751069" lon="-90.18046768490133047180279391"/>
-  <node visible="true" id="-520" lat="29.99147152084123746362820384" lon="-90.18050580685653017098957207"/>
-  <node visible="true" id="-521" lat="29.99156855432146784323776956" lon="-90.18052192062076244383206358"/>
+  <node visible="true" id="-516" lat="29.99147462075757886168503319" lon="-90.18030597586252383734972682"/>
+  <node visible="true" id="-517" lat="29.99145376707263110915846482" lon="-90.18046328013046775140537648"/>
+  <node visible="true" id="-518" lat="29.99147673918357526190447970" lon="-90.18046733995488750679214718"/>
+  <node visible="true" id="-519" lat="29.99147170396368622391491954" lon="-90.18050532181096912154316669"/>
+  <node visible="true" id="-520" lat="29.99156846702404521920470870" lon="-90.18052242260128537054697517"/>
+  <node visible="true" id="-521" lat="29.99159435589884026285290020" lon="-90.18032713647725984174030600"/>
   <way visible="true" id="-73">
     <nd ref="-516"/>
     <nd ref="-517"/>
@@ -1686,6 +1758,7 @@
     <nd ref="-521"/>
     <nd ref="-516"/>
     <tag k="building" v="yes"/>
+    <tag k="building:levels" v="1"/>
     <tag k="addr:housenumber" v="1904"/>
     <tag k="addr:street" v="Green Avenue"/>
     <tag k="addr:city" v="Metairie"/>
@@ -1715,14 +1788,14 @@
     <tag k="addr:city" v="Metairie"/>
     <tag k="addr:postcode" v="70001"/>
   </node>
-  <node visible="true" id="-526" lat="29.99120653691086246794839099" lon="-90.18024704443469374837150099"/>
-  <node visible="true" id="-527" lat="29.99118729358350066149796476" lon="-90.18040525471387525158206699"/>
-  <node visible="true" id="-528" lat="29.99121735298161794958105020" lon="-90.18041137059363165917602601"/>
-  <node visible="true" id="-529" lat="29.99121096124506635760553763" lon="-90.18046673934223633750661975"/>
-  <node visible="true" id="-530" lat="29.99129797584393841702876671" lon="-90.18048081507082258667651331"/>
-  <node visible="true" id="-531" lat="29.99132243606129577528918162" lon="-90.18027586545487395142117748"/>
-  <node visible="true" id="-532" lat="29.99129301441047346088453196" lon="-90.18027117876461318246583687"/>
-  <node visible="true" id="-533" lat="29.99129355152424025732216251" lon="-90.18026111893466634228389012"/>
+  <node visible="true" id="-526" lat="29.99118727964750874548371939" lon="-90.18040588929014234054193366"/>
+  <node visible="true" id="-527" lat="29.99121757507046481805446092" lon="-90.18041076954847312663332559"/>
+  <node visible="true" id="-528" lat="29.99121081116443576775054680" lon="-90.18046674448071087226708187"/>
+  <node visible="true" id="-529" lat="29.99129782949180977880132559" lon="-90.18048076218028086259437259"/>
+  <node visible="true" id="-530" lat="29.99132258275782803025322210" lon="-90.18027591549511612356582191"/>
+  <node visible="true" id="-531" lat="29.99129268477027210337837460" lon="-90.18027109925414208646543557"/>
+  <node visible="true" id="-532" lat="29.99129388769656756608128489" lon="-90.18026114438873719336697832"/>
+  <node visible="true" id="-533" lat="29.99120647196211564278200967" lon="-90.18024706267179624319396680"/>
   <way visible="true" id="-74">
     <nd ref="-526"/>
     <nd ref="-527"/>
@@ -1734,17 +1807,18 @@
     <nd ref="-533"/>
     <nd ref="-526"/>
     <tag k="building" v="yes"/>
+    <tag k="building:levels" v="1"/>
     <tag k="addr:housenumber" v="1812"/>
     <tag k="addr:street" v="Green Avenue"/>
     <tag k="addr:city" v="Metairie"/>
     <tag k="addr:postcode" v="70001"/>
   </way>
-  <node visible="true" id="-534" lat="29.99118149055318127693681163" lon="-90.18024230717767864007328171"/>
-  <node visible="true" id="-535" lat="29.99106879181891471830567752" lon="-90.18022361062705272161110770"/>
-  <node visible="true" id="-536" lat="29.99104305799074765559453226" lon="-90.18042415709355452690942911"/>
-  <node visible="true" id="-537" lat="29.99113132202711895502034167" lon="-90.18043821728325326603226131"/>
-  <node visible="true" id="-538" lat="29.99114068145999212333663309" lon="-90.18036485977769700639328221"/>
-  <node visible="true" id="-539" lat="29.99116635298441835288940638" lon="-90.18036958983702788827940822"/>
+  <node visible="true" id="-534" lat="29.99106844515285530405890313" lon="-90.18022352938174890368827619"/>
+  <node visible="true" id="-535" lat="29.99104344540656441608916793" lon="-90.18042391171510985259374138"/>
+  <node visible="true" id="-536" lat="29.99113138572356973554633441" lon="-90.18043853768934070558316307"/>
+  <node visible="true" id="-537" lat="29.99114055175828852384256606" lon="-90.18036506842820188012410654"/>
+  <node visible="true" id="-538" lat="29.99116601755380528970817977" lon="-90.18036930382703530995058827"/>
+  <node visible="true" id="-539" lat="29.99118185123926494384249963" lon="-90.18024239075481318650417961"/>
   <way visible="true" id="-75">
     <nd ref="-534"/>
     <nd ref="-535"/>
@@ -1754,17 +1828,18 @@
     <nd ref="-539"/>
     <nd ref="-534"/>
     <tag k="building" v="yes"/>
+    <tag k="building:levels" v="1"/>
     <tag k="addr:housenumber" v="1808"/>
     <tag k="addr:street" v="Green Avenue"/>
     <tag k="addr:city" v="Metairie"/>
     <tag k="addr:postcode" v="70001"/>
   </way>
-  <node visible="true" id="-540" lat="29.98715047772967068340221886" lon="-90.17956937220057511694903951"/>
-  <node visible="true" id="-541" lat="29.98706782031216633299663954" lon="-90.17955309482383086105983239"/>
-  <node visible="true" id="-542" lat="29.98706484549791184690548107" lon="-90.17957036269000070660695201"/>
-  <node visible="true" id="-543" lat="29.98703416806793242699313851" lon="-90.17956497269953786144469632"/>
-  <node visible="true" id="-544" lat="29.98701358710666653450971353" lon="-90.17971313878223327265004627"/>
-  <node visible="true" id="-545" lat="29.98712691744733405130318715" lon="-90.17973408918153666036232607"/>
+  <node visible="true" id="-540" lat="29.98706752173747247525170678" lon="-90.17955335537477878915524343"/>
+  <node visible="true" id="-541" lat="29.98706507148808242391169188" lon="-90.17957061337854440807859646"/>
+  <node visible="true" id="-542" lat="29.98703441851227324832507293" lon="-90.17956481217815678519400535"/>
+  <node visible="true" id="-543" lat="29.98701339982556390850731987" lon="-90.17971285442197881820902694"/>
+  <node visible="true" id="-544" lat="29.98712696784425446594468667" lon="-90.17973434763592877061455511"/>
+  <node visible="true" id="-545" lat="29.98715043675414904100762215" lon="-90.17956904738834111867618049"/>
   <way visible="true" id="-76">
     <nd ref="-540"/>
     <nd ref="-541"/>
@@ -1774,15 +1849,16 @@
     <nd ref="-545"/>
     <nd ref="-540"/>
     <tag k="building" v="yes"/>
+    <tag k="building:levels" v="1"/>
     <tag k="addr:housenumber" v="1329"/>
     <tag k="addr:street" v="Green Avenue"/>
     <tag k="addr:city" v="Metairie"/>
     <tag k="addr:postcode" v="70001"/>
   </way>
-  <node visible="true" id="-546" lat="29.98797814514558623955053918" lon="-90.17947490642507091251900420"/>
-  <node visible="true" id="-547" lat="29.98794929198360748046070512" lon="-90.17967774546889359044143930"/>
-  <node visible="true" id="-548" lat="29.98806262141211220750847133" lon="-90.17969869603498977994604502"/>
-  <node visible="true" id="-549" lat="29.98809148090117915330665710" lon="-90.17949657493473125668970169"/>
+  <node visible="true" id="-546" lat="29.98794935617924295456759864" lon="-90.17967751141890175858861767"/>
+  <node visible="true" id="-547" lat="29.98806267026194660729743191" lon="-90.17969895147419379100028891"/>
+  <node visible="true" id="-548" lat="29.98809141352562335214315681" lon="-90.17949645001291969492740463"/>
+  <node visible="true" id="-549" lat="29.98797809947567571953186416" lon="-90.17947500995764187337044859"/>
   <way visible="true" id="-77">
     <nd ref="-546"/>
     <nd ref="-547"/>
@@ -1790,17 +1866,18 @@
     <nd ref="-549"/>
     <nd ref="-546"/>
     <tag k="building" v="yes"/>
+    <tag k="building:levels" v="1"/>
     <tag k="addr:housenumber" v="1409"/>
     <tag k="addr:street" v="Green Avenue"/>
     <tag k="addr:city" v="Metairie"/>
     <tag k="addr:postcode" v="70001"/>
   </way>
-  <node visible="true" id="-550" lat="29.99236141776350095256020722" lon="-90.18636695106810918787232367"/>
-  <node visible="true" id="-551" lat="29.99236850066526471891847905" lon="-90.18646238103170276190212462"/>
-  <node visible="true" id="-552" lat="29.99237725125784947977081174" lon="-90.18646228041480128467810573"/>
-  <node visible="true" id="-553" lat="29.99238010763664874502865132" lon="-90.18650318177829205978923710"/>
-  <node visible="true" id="-554" lat="29.99254811574148149588836532" lon="-90.18648616942427054254949326"/>
-  <node visible="true" id="-555" lat="29.99253817554133050293785345" lon="-90.18634983787126202514627948"/>
+  <node visible="true" id="-550" lat="29.99236845735368461873804335" lon="-90.18646275918437993368570460"/>
+  <node visible="true" id="-551" lat="29.99237716533671616048195574" lon="-90.18646191479346896358038066"/>
+  <node visible="true" id="-552" lat="29.99238014050935419163579354" lon="-90.18650281807991575533378636"/>
+  <node visible="true" id="-553" lat="29.99254812991340557459807314" lon="-90.18648652856084879658737918"/>
+  <node visible="true" id="-554" lat="29.99253818644868374576617498" lon="-90.18634982352992324194929097"/>
+  <node visible="true" id="-555" lat="29.99236148904409304805085412" lon="-90.18636695743990117080102209"/>
   <way visible="true" id="-78">
     <nd ref="-550"/>
     <nd ref="-551"/>
@@ -1810,19 +1887,20 @@
     <nd ref="-555"/>
     <nd ref="-550"/>
     <tag k="building" v="yes"/>
+    <tag k="building:levels" v="1"/>
     <tag k="addr:housenumber" v="4733"/>
     <tag k="addr:street" v="Sturtz Drive"/>
     <tag k="addr:city" v="Metairie"/>
     <tag k="addr:postcode" v="70001"/>
   </way>
-  <node visible="true" id="-556" lat="29.98461840541745004884433001" lon="-90.17931492373888602287479443"/>
-  <node visible="true" id="-557" lat="29.98463539417474876813685114" lon="-90.17911366507271964110259432"/>
-  <node visible="true" id="-558" lat="29.98454403553258629244737676" lon="-90.17910323281647322346543660"/>
-  <node visible="true" id="-559" lat="29.98453895764513887911562051" lon="-90.17916576386538451970409369"/>
-  <node visible="true" id="-560" lat="29.98452581916426495922678441" lon="-90.17916448049062694281019503"/>
-  <node visible="true" id="-561" lat="29.98452298381737080035236431" lon="-90.17919754497580697716330178"/>
-  <node visible="true" id="-562" lat="29.98453487825177532499765221" lon="-90.17919956096399403122632066"/>
-  <node visible="true" id="-563" lat="29.98452578385519728954022867" lon="-90.17930306948080954043689417"/>
+  <node visible="true" id="-556" lat="29.98463569377663873183337273" lon="-90.17911381260081782329507405"/>
+  <node visible="true" id="-557" lat="29.98454424065027268397898297" lon="-90.17910314416630512823758181"/>
+  <node visible="true" id="-558" lat="29.98453875148210201473375491" lon="-90.17916586446027338297426468"/>
+  <node visible="true" id="-559" lat="29.98452585886680665794301603" lon="-90.17916436047734407566167647"/>
+  <node visible="true" id="-560" lat="29.98452292769092863977675734" lon="-90.17919785265225129933241988"/>
+  <node visible="true" id="-561" lat="29.98453488789616017129446846" lon="-90.17919924786521335136058042"/>
+  <node visible="true" id="-562" lat="29.98452575597121949613210745" lon="-90.17930359098905057635420235"/>
+  <node visible="true" id="-563" lat="29.98461814152435778169092373" lon="-90.17931436819351631584140705"/>
   <way visible="true" id="-79">
     <nd ref="-556"/>
     <nd ref="-557"/>
@@ -1834,17 +1912,18 @@
     <nd ref="-563"/>
     <nd ref="-556"/>
     <tag k="building" v="yes"/>
+    <tag k="building:levels" v="1"/>
     <tag k="addr:housenumber" v="1101"/>
     <tag k="addr:street" v="Green Avenue"/>
     <tag k="addr:city" v="Metairie"/>
     <tag k="addr:postcode" v="70001"/>
   </way>
-  <node visible="true" id="-564" lat="29.98460342817369550516559684" lon="-90.17960314193167903340508929"/>
-  <node visible="true" id="-565" lat="29.98455704232857854663052422" lon="-90.17958859798726223289122572"/>
-  <node visible="true" id="-566" lat="29.98450104551129413721355377" lon="-90.17983267493343646492576227"/>
-  <node visible="true" id="-567" lat="29.98461575115498689569903945" lon="-90.17986797024403244904533494"/>
-  <node visible="true" id="-568" lat="29.98466456874792029907439428" lon="-90.17966059887726260058116168"/>
-  <node visible="true" id="-569" lat="29.98459498594933947401841579" lon="-90.17963842488754266923933756"/>
+  <node visible="true" id="-564" lat="29.98455746176833969229846844" lon="-90.17958879029957586226373678"/>
+  <node visible="true" id="-565" lat="29.98450065213653559226258949" lon="-90.17983237086207282118266448"/>
+  <node visible="true" id="-566" lat="29.98461592280683518652040220" lon="-90.17986820538786219003668521"/>
+  <node visible="true" id="-567" lat="29.98466441655938652388613264" lon="-90.17966028028151015405455837"/>
+  <node visible="true" id="-568" lat="29.98459502638770857174677076" lon="-90.17963870874314125103410333"/>
+  <node visible="true" id="-569" lat="29.98460334220685652439897240" lon="-90.17960305328702474980673287"/>
   <way visible="true" id="-80">
     <nd ref="-564"/>
     <nd ref="-565"/>
@@ -1854,6 +1933,7 @@
     <nd ref="-569"/>
     <nd ref="-564"/>
     <tag k="building" v="yes"/>
+    <tag k="building:levels" v="1"/>
     <tag k="addr:housenumber" v="1104"/>
     <tag k="addr:street" v="Green Avenue"/>
     <tag k="addr:city" v="Metairie"/>
@@ -1865,10 +1945,10 @@
     <tag k="addr:city" v="Metairie"/>
     <tag k="addr:postcode" v="70001"/>
   </node>
-  <node visible="true" id="-571" lat="29.99043495245605939203414891" lon="-90.17961882616209834395704092"/>
-  <node visible="true" id="-572" lat="29.99033687265678693734116678" lon="-90.17960121234965242820180720"/>
-  <node visible="true" id="-573" lat="29.99030560091293651225896610" lon="-90.17982552092453829573059920"/>
-  <node visible="true" id="-574" lat="29.99040266055997960847889772" lon="-90.17984450553055353339004796"/>
+  <node visible="true" id="-571" lat="29.99033711036387472859132686" lon="-90.17960084184258562345348764"/>
+  <node visible="true" id="-572" lat="29.99030536995261897459386091" lon="-90.17982584360426301373081515"/>
+  <node visible="true" id="-573" lat="29.99040293294451942074374529" lon="-90.17984419064082146633154480"/>
+  <node visible="true" id="-574" lat="29.99043467332468893005170685" lon="-90.17961918887912986519950209"/>
   <way visible="true" id="-81">
     <nd ref="-571"/>
     <nd ref="-572"/>
@@ -1876,19 +1956,20 @@
     <nd ref="-574"/>
     <nd ref="-571"/>
     <tag k="building" v="yes"/>
+    <tag k="building:levels" v="1"/>
     <tag k="addr:housenumber" v="1709"/>
     <tag k="addr:street" v="Green Avenue"/>
     <tag k="addr:city" v="Metairie"/>
     <tag k="addr:postcode" v="70001"/>
   </way>
-  <node visible="true" id="-575" lat="29.99028717232823026961341384" lon="-90.17964999851747620596142951"/>
-  <node visible="true" id="-576" lat="29.99024499465790327690228878" lon="-90.17964371215515484436764382"/>
-  <node visible="true" id="-577" lat="29.99025068390342596558184596" lon="-90.17961024380248602483334253"/>
-  <node visible="true" id="-578" lat="29.99020633009928005208166724" lon="-90.17960406139997076024883427"/>
-  <node visible="true" id="-579" lat="29.99020020716058709808748972" lon="-90.17963694294469689793913858"/>
-  <node visible="true" id="-580" lat="29.99017044113502450386476994" lon="-90.17963259939573106294119498"/>
-  <node visible="true" id="-581" lat="29.99015361051911199297137500" lon="-90.17978271568540549196768552"/>
-  <node visible="true" id="-582" lat="29.99027095482749416532897158" lon="-90.17979482201877772240550257"/>
+  <node visible="true" id="-575" lat="29.99024596631902284116222290" lon="-90.17964388436402600746077951"/>
+  <node visible="true" id="-576" lat="29.99024968906141452862357255" lon="-90.17961028083823293854948133"/>
+  <node visible="true" id="-577" lat="29.99020513002396270962890412" lon="-90.17960370021155824815650703"/>
+  <node visible="true" id="-578" lat="29.99020142443197300963220187" lon="-90.17963714891268978135485668"/>
+  <node visible="true" id="-579" lat="29.99017034556284855284502555" lon="-90.17963255908397002258425346"/>
+  <node visible="true" id="-580" lat="29.99015399362819778161792783" lon="-90.17978016053355361236754106"/>
+  <node visible="true" id="-581" lat="29.99027075542051790080222418" lon="-90.17979740430030233255820349"/>
+  <node visible="true" id="-582" lat="29.99028709018375238315456954" lon="-90.17964995767538027848786442"/>
   <way visible="true" id="-82">
     <nd ref="-575"/>
     <nd ref="-576"/>
@@ -1900,19 +1981,20 @@
     <nd ref="-582"/>
     <nd ref="-575"/>
     <tag k="building" v="yes"/>
+    <tag k="building:levels" v="1"/>
     <tag k="addr:housenumber" v="1705"/>
     <tag k="addr:street" v="Green Avenue"/>
     <tag k="addr:city" v="Metairie"/>
     <tag k="addr:postcode" v="70001"/>
   </way>
-  <node visible="true" id="-583" lat="29.99213815752153067251128959" lon="-90.18041740585908883076626807"/>
-  <node visible="true" id="-584" lat="29.99202027265627279462023580" lon="-90.18040135900027109983057017"/>
-  <node visible="true" id="-585" lat="29.99200637459379947813431500" lon="-90.18054481896879792657273356"/>
-  <node visible="true" id="-586" lat="29.99203672830408606841956498" lon="-90.18054982459619850487797521"/>
-  <node visible="true" id="-587" lat="29.99203345449541302514262497" lon="-90.18057530864659554481477244"/>
-  <node visible="true" id="-588" lat="29.99207315689616493159519450" lon="-90.18058288446214021405467065"/>
-  <node visible="true" id="-589" lat="29.99207096653639226246923499" lon="-90.18059898118420392165717203"/>
-  <node visible="true" id="-590" lat="29.99211415474828967830944748" lon="-90.18060517865121994418586837"/>
+  <node visible="true" id="-583" lat="29.99202166011153636304698011" lon="-90.18040056298283957403327804"/>
+  <node visible="true" id="-584" lat="29.99200508105354501253714261" lon="-90.18054479794017197491484694"/>
+  <node visible="true" id="-585" lat="29.99203657902497965892507636" lon="-90.18054962453432210622850107"/>
+  <node visible="true" id="-586" lat="29.99203353952336570387160464" lon="-90.18057606768238088079669978"/>
+  <node visible="true" id="-587" lat="29.99207307404178379783843411" lon="-90.18058212575942889088764787"/>
+  <node visible="true" id="-588" lat="29.99207115740410500848156516" lon="-90.18059880018843443849618779"/>
+  <node visible="true" id="-589" lat="29.99211531970908595212677028" lon="-90.18060556740766742223058827"/>
+  <node visible="true" id="-590" lat="29.99213685488371439191723766" lon="-90.18041821487329912088171113"/>
   <way visible="true" id="-83">
     <nd ref="-583"/>
     <nd ref="-584"/>
@@ -1924,17 +2006,18 @@
     <nd ref="-590"/>
     <nd ref="-583"/>
     <tag k="building" v="yes"/>
+    <tag k="building:levels" v="1"/>
     <tag k="addr:housenumber" v="2000"/>
     <tag k="addr:street" v="Green Avenue"/>
     <tag k="addr:city" v="Metairie"/>
     <tag k="addr:postcode" v="70001"/>
   </way>
-  <node visible="true" id="-591" lat="29.99281396079318895431242709" lon="-90.18681467458972633721714374"/>
-  <node visible="true" id="-592" lat="29.99280888499749764264379337" lon="-90.18673430071996222068264615"/>
-  <node visible="true" id="-593" lat="29.99273558582099497016315581" lon="-90.18674261421560345297621097"/>
-  <node visible="true" id="-594" lat="29.99273337225627855673337763" lon="-90.18667700000857223585626343"/>
-  <node visible="true" id="-595" lat="29.99266809487067320105779800" lon="-90.18668419832543747816089308"/>
-  <node visible="true" id="-596" lat="29.99267908756840483874839265" lon="-90.18683202383566310800233623"/>
+  <node visible="true" id="-591" lat="29.99280837666490384663120494" lon="-90.18673476276941869400616270"/>
+  <node visible="true" id="-592" lat="29.99273695263232042407253175" lon="-90.18674206440444152121926891"/>
+  <node visible="true" id="-593" lat="29.99273199421803326458757510" lon="-90.18667740341183503005595412"/>
+  <node visible="true" id="-594" lat="29.99266790470614552077677217" lon="-90.18668395523850733752624365"/>
+  <node visible="true" id="-595" lat="29.99267912227628229970832763" lon="-90.18683023966622158695827238"/>
+  <node visible="true" id="-596" lat="29.99281463580924622647216893" lon="-90.18681638620451224142016144"/>
   <way visible="true" id="-84">
     <nd ref="-591"/>
     <nd ref="-592"/>
@@ -1948,12 +2031,12 @@
     <tag k="addr:city" v="Metairie"/>
     <tag k="addr:postcode" v="70001"/>
   </way>
-  <node visible="true" id="-597" lat="29.99238770181615976184730243" lon="-90.18068321409273835342901293"/>
-  <node visible="true" id="-598" lat="29.99241034972216368714725832" lon="-90.18048546492032357946300181"/>
-  <node visible="true" id="-599" lat="29.99236653927995632784586633" lon="-90.18047950788368893881852273"/>
-  <node visible="true" id="-600" lat="29.99237181274590469115537417" lon="-90.18043923201436484760051826"/>
-  <node visible="true" id="-601" lat="29.99231548271964697960356716" lon="-90.18043126489735072937037330"/>
-  <node visible="true" id="-602" lat="29.99228194202366282183902513" lon="-90.18067007293154802027856931"/>
+  <node visible="true" id="-597" lat="29.99241070866398573002697958" lon="-90.18048601302065492291148985"/>
+  <node visible="true" id="-598" lat="29.99236683605852604728170263" lon="-90.18047906364877519536094042"/>
+  <node visible="true" id="-599" lat="29.99237151754152108651396702" lon="-90.18043966300051295092998771"/>
+  <node visible="true" id="-600" lat="29.99231300309076075905068137" lon="-90.18043039438100549887167290"/>
+  <node visible="true" id="-601" lat="29.99228468793517876633814012" lon="-90.18066870234886778234795202"/>
+  <node visible="true" id="-602" lat="29.99238707501856637804849015" lon="-90.18068492034024075110210106"/>
   <way visible="true" id="-85">
     <nd ref="-597"/>
     <nd ref="-598"/>
@@ -1963,17 +2046,18 @@
     <nd ref="-602"/>
     <nd ref="-597"/>
     <tag k="building" v="yes"/>
+    <tag k="building:levels" v="1"/>
     <tag k="addr:housenumber" v="2008"/>
     <tag k="addr:street" v="Green Avenue"/>
     <tag k="addr:city" v="Metairie"/>
     <tag k="addr:postcode" v="70001"/>
   </way>
-  <node visible="true" id="-603" lat="29.99213078444649127618504281" lon="-90.18063558289149739266576944"/>
-  <node visible="true" id="-604" lat="29.99218463353847496932758077" lon="-90.18064573255445282029540977"/>
-  <node visible="true" id="-605" lat="29.99219060677671322423520905" lon="-90.18061406585101735799980816"/>
-  <node visible="true" id="-606" lat="29.99225445051078509095532354" lon="-90.18062338173146486042242032"/>
-  <node visible="true" id="-607" lat="29.99227793103733574753277935" lon="-90.18044932197875596102676354"/>
-  <node visible="true" id="-608" lat="29.99216149481551241251509055" lon="-90.18043056039761040665325709"/>
+  <node visible="true" id="-603" lat="29.99218545310371908385604911" lon="-90.18064572297214454010827467"/>
+  <node visible="true" id="-604" lat="29.99218996481173959978150378" lon="-90.18061277860067548317601904"/>
+  <node visible="true" id="-605" lat="29.99225412012807368000721908" lon="-90.18062449145996595234464621"/>
+  <node visible="true" id="-606" lat="29.99227793833343014284764649" lon="-90.18045057142151676998764742"/>
+  <node visible="true" id="-607" lat="29.99216037734646178591901844" lon="-90.18042910827027469622407807"/>
+  <node visible="true" id="-608" lat="29.99213204740252436408809444" lon="-90.18063597268019293551333249"/>
   <way visible="true" id="-86">
     <nd ref="-603"/>
     <nd ref="-604"/>
@@ -1983,15 +2067,16 @@
     <nd ref="-608"/>
     <nd ref="-603"/>
     <tag k="building" v="yes"/>
+    <tag k="building:levels" v="1"/>
     <tag k="addr:housenumber" v="2004"/>
     <tag k="addr:street" v="Green Avenue"/>
     <tag k="addr:city" v="Metairie"/>
     <tag k="addr:postcode" v="70001"/>
   </way>
-  <node visible="true" id="-609" lat="29.99253307771775922674351023" lon="-90.17717314541005180217325687"/>
-  <node visible="true" id="-610" lat="29.99259819635379997748714231" lon="-90.17718531640224455259158276"/>
-  <node visible="true" id="-611" lat="29.99261223277012433641175448" lon="-90.17707527858095772899105214"/>
-  <node visible="true" id="-612" lat="29.99254714565771351431067160" lon="-90.17706669762216620256367605"/>
+  <node visible="true" id="-609" lat="29.99259837925156091387179913" lon="-90.17718471381427036703826161"/>
+  <node visible="true" id="-610" lat="29.99261198516841275818478607" lon="-90.17707639628090987571340520"/>
+  <node visible="true" id="-611" lat="29.99254694700260515105583181" lon="-90.17706550519342556526680710"/>
+  <node visible="true" id="-612" lat="29.99253334107687862797320122" lon="-90.17717382272678605659166351"/>
   <way visible="true" id="-87">
     <nd ref="-609"/>
     <nd ref="-610"/>
@@ -2003,10 +2088,10 @@
     <tag k="addr:city" v="Metairie"/>
     <tag k="addr:postcode" v="70001"/>
   </way>
-  <node visible="true" id="-613" lat="29.99200201122344111581696779" lon="-90.18469829960339723129436607"/>
-  <node visible="true" id="-614" lat="29.99204119412204860850579280" lon="-90.18460377380027637173043331"/>
-  <node visible="true" id="-615" lat="29.99195578603486822544255119" lon="-90.18455879655357421142980456"/>
-  <node visible="true" id="-616" lat="29.99191785351942129977942386" lon="-90.18465330893036480119917542"/>
+  <node visible="true" id="-613" lat="29.99204059370903507897310192" lon="-90.18460389846212876818754012"/>
+  <node visible="true" id="-614" lat="29.99195599358149166846487788" lon="-90.18455846088835414775530808"/>
+  <node visible="true" id="-615" lat="29.99191782872475187105010264" lon="-90.18465319098167753963934956"/>
+  <node visible="true" id="-616" lat="29.99200242888484169156981807" lon="-90.18469862855546637092629680"/>
   <way visible="true" id="-88">
     <nd ref="-613"/>
     <nd ref="-614"/>
@@ -2035,10 +2120,10 @@
     <tag k="addr:city" v="Metairie"/>
     <tag k="addr:postcode" v="70001"/>
   </way>
-  <node visible="true" id="-622" lat="29.98544874979168639583804179" lon="-90.17952589333485491351893870"/>
-  <node visible="true" id="-623" lat="29.98553510701660940185320214" lon="-90.17953638392334880791167961"/>
-  <node visible="true" id="-624" lat="29.98556034204547415811248356" lon="-90.17934867220537853427231312"/>
-  <node visible="true" id="-625" lat="29.98547395871913323617263814" lon="-90.17933530919054874175344594"/>
+  <node visible="true" id="-622" lat="29.98553593035682496292793076" lon="-90.17953835724222244607517496"/>
+  <node visible="true" id="-623" lat="29.98555924818097295769803168" lon="-90.17934889693221123252442339"/>
+  <node visible="true" id="-624" lat="29.98547314843995081901084632" lon="-90.17933477208482884179829853"/>
+  <node visible="true" id="-625" lat="29.98544983059571933381448616" lon="-90.17952423239484005534905009"/>
   <way visible="true" id="-90">
     <nd ref="-622"/>
     <nd ref="-623"/>
@@ -2046,15 +2131,16 @@
     <nd ref="-625"/>
     <nd ref="-622"/>
     <tag k="building" v="yes"/>
+    <tag k="building:levels" v="1"/>
     <tag k="addr:housenumber" v="1205"/>
     <tag k="addr:street" v="Green Avenue"/>
     <tag k="addr:city" v="Metairie"/>
     <tag k="addr:postcode" v="70001"/>
   </way>
-  <node visible="true" id="-626" lat="29.98689610891912238344048092" lon="-90.17971808861629767761769472"/>
-  <node visible="true" id="-627" lat="29.98700378215117368085884664" lon="-90.17973551325653147614502814"/>
-  <node visible="true" id="-628" lat="29.98703441560923366182578320" lon="-90.17952188413480030249047559"/>
-  <node visible="true" id="-629" lat="29.98692732346286149436309643" lon="-90.17949942640711924468632787"/>
+  <node visible="true" id="-626" lat="29.98700375747300128637107264" lon="-90.17973696517098858294048114"/>
+  <node visible="true" id="-627" lat="29.98703439312612673006697150" lon="-90.17952076504428760017617606"/>
+  <node visible="true" id="-628" lat="29.98692705761479260218038689" lon="-90.17950049103637866210192442"/>
+  <node visible="true" id="-629" lat="29.98689642192861271041692817" lon="-90.17971669116307964486622950"/>
   <way visible="true" id="-91">
     <nd ref="-626"/>
     <nd ref="-627"/>
@@ -2062,55 +2148,57 @@
     <nd ref="-629"/>
     <nd ref="-626"/>
     <tag k="building" v="yes"/>
+    <tag k="building:levels" v="1"/>
     <tag k="addr:housenumber" v="1325"/>
     <tag k="addr:street" v="Green Avenue"/>
     <tag k="addr:city" v="Metairie"/>
     <tag k="addr:postcode" v="70001"/>
   </way>
-  <node visible="true" id="-630" lat="29.99233928230415457960589265" lon="-90.18015420450393548890133388"/>
-  <node visible="true" id="-631" lat="29.99235189538443080436991295" lon="-90.18006791896125662333361106"/>
-  <node visible="true" id="-632" lat="29.99238669532840617648616899" lon="-90.18007396652497220657096477"/>
-  <node visible="true" id="-633" lat="29.99239584832332283781397564" lon="-90.17999951801020586117374478"/>
-  <node visible="true" id="-634" lat="29.99227308236499567328792182" lon="-90.17997347536127961120655527"/>
-  <node visible="true" id="-635" lat="29.99227958292630091818864457" lon="-90.17992694578586565512523521"/>
-  <node visible="true" id="-636" lat="29.99222936532196115422266303" lon="-90.17991681151204375055385754"/>
-  <node visible="true" id="-637" lat="29.99219832888830339356900367" lon="-90.18012911614118820580188185"/>
+  <node visible="true" id="-630" lat="29.99052736867447777058259817" lon="-90.18016431924537812392372871"/>
+  <node visible="true" id="-631" lat="29.99050110429450555216135399" lon="-90.18036969383801704225334106"/>
+  <node visible="true" id="-632" lat="29.99059399841496897920478659" lon="-90.18038553053250439006660599"/>
+  <node visible="true" id="-633" lat="29.99062026277031023369090690" lon="-90.18018015593986547173699364"/>
   <way visible="true" id="-92">
     <nd ref="-630"/>
     <nd ref="-631"/>
     <nd ref="-632"/>
     <nd ref="-633"/>
-    <nd ref="-634"/>
-    <nd ref="-635"/>
-    <nd ref="-636"/>
-    <nd ref="-637"/>
     <nd ref="-630"/>
-    <tag k="building" v="yes"/>
-    <tag k="addr:housenumber" v="2005"/>
-    <tag k="addr:street" v="Green Avenue"/>
-    <tag k="addr:city" v="Metairie"/>
-    <tag k="addr:postcode" v="70001"/>
-  </way>
-  <node visible="true" id="-638" lat="29.99062085424043644366065564" lon="-90.18017901051173623727663653"/>
-  <node visible="true" id="-639" lat="29.99052739704123737851659826" lon="-90.18016557034407298942824127"/>
-  <node visible="true" id="-640" lat="29.99050098441768241741556267" lon="-90.18036915830269606431102147"/>
-  <node visible="true" id="-641" lat="29.99059349845458655181573704" lon="-90.18038596039724552611005493"/>
-  <way visible="true" id="-93">
-    <nd ref="-638"/>
-    <nd ref="-639"/>
-    <nd ref="-640"/>
-    <nd ref="-641"/>
-    <nd ref="-638"/>
     <tag k="building" v="yes"/>
     <tag k="addr:housenumber" v="1716"/>
     <tag k="addr:street" v="Green Avenue"/>
     <tag k="addr:city" v="Metairie"/>
     <tag k="addr:postcode" v="70001"/>
   </way>
-  <node visible="true" id="-642" lat="29.98600362838488209149545582" lon="-90.18008432589043366078840336"/>
-  <node visible="true" id="-643" lat="29.98601951713423119372237124" lon="-90.17992687041760291322134435"/>
-  <node visible="true" id="-644" lat="29.98591455023366236787296657" lon="-90.17991249773854178783949465"/>
-  <node visible="true" id="-645" lat="29.98589863668656008144353109" lon="-90.18006712085447418303374434"/>
+  <node visible="true" id="-634" lat="29.99235180406508050054981140" lon="-90.18006760756628636954701506"/>
+  <node visible="true" id="-635" lat="29.99238592658466018292529043" lon="-90.18007411392619587786612101"/>
+  <node visible="true" id="-636" lat="29.99239675950975581031343609" lon="-90.17999837471029422886203974"/>
+  <node visible="true" id="-637" lat="29.99227282377271563973408774" lon="-90.17997474309558469940384384"/>
+  <node visible="true" id="-638" lat="29.99227969705730956206934934" lon="-90.17992668806205358578154119"/>
+  <node visible="true" id="-639" lat="29.99222900000916780527404626" lon="-90.17991702134148113145784009"/>
+  <node visible="true" id="-640" lat="29.99219877976861425850074738" lon="-90.18012830806173951714299619"/>
+  <node visible="true" id="-641" lat="29.99233929007462151616891788" lon="-90.18015510003712620346050244"/>
+  <way visible="true" id="-93">
+    <nd ref="-634"/>
+    <nd ref="-635"/>
+    <nd ref="-636"/>
+    <nd ref="-637"/>
+    <nd ref="-638"/>
+    <nd ref="-639"/>
+    <nd ref="-640"/>
+    <nd ref="-641"/>
+    <nd ref="-634"/>
+    <tag k="building" v="yes"/>
+    <tag k="building:levels" v="1"/>
+    <tag k="addr:housenumber" v="2005"/>
+    <tag k="addr:street" v="Green Avenue"/>
+    <tag k="addr:city" v="Metairie"/>
+    <tag k="addr:postcode" v="70001"/>
+  </way>
+  <node visible="true" id="-642" lat="29.98601993568741264084565046" lon="-90.17992720686595475854119286"/>
+  <node visible="true" id="-643" lat="29.98591486596270883069337287" lon="-90.17991226570684659691323759"/>
+  <node visible="true" id="-644" lat="29.98589823052333613873088325" lon="-90.18006820058458572475501569"/>
+  <node visible="true" id="-645" lat="29.98600330026566496144369012" lon="-90.18008314174367967552825576"/>
   <way visible="true" id="-94">
     <nd ref="-642"/>
     <nd ref="-643"/>
@@ -2123,18 +2211,18 @@
     <tag k="addr:city" v="Metairie"/>
     <tag k="addr:postcode" v="70001"/>
   </way>
-  <node visible="true" id="-646" lat="29.98586698122600324722952791" lon="-90.18011424296558686819480499"/>
-  <node visible="true" id="-647" lat="29.98587399565473887719235790" lon="-90.18007023926159604343411047"/>
-  <node visible="true" id="-648" lat="29.98586410430841908691945719" lon="-90.18006752010577997680229601"/>
-  <node visible="true" id="-649" lat="29.98586758138406338503045845" lon="-90.18004197618880368736427044"/>
-  <node visible="true" id="-650" lat="29.98588115992658842401397123" lon="-90.18004323595314986050652806"/>
-  <node visible="true" id="-651" lat="29.98589605039124350582824263" lon="-90.17991271165600153381092241"/>
-  <node visible="true" id="-652" lat="29.98583304082817946323302749" lon="-90.17990068943046821914322209"/>
-  <node visible="true" id="-653" lat="29.98582953984615073750319425" lon="-90.17992339906892595990939299"/>
-  <node visible="true" id="-654" lat="29.98581471478431481614279619" lon="-90.17992073697796229225787101"/>
-  <node visible="true" id="-655" lat="29.98581363055101434156313189" lon="-90.17993775163807868011645041"/>
-  <node visible="true" id="-656" lat="29.98578150251146468008300872" lon="-90.17993103934882981320697581"/>
-  <node visible="true" id="-657" lat="29.98576200194108309915463906" lon="-90.18009845453468642517691478"/>
+  <node visible="true" id="-646" lat="29.98587331384006304801914666" lon="-90.18006958857705512855318375"/>
+  <node visible="true" id="-647" lat="29.98586418121409735704219202" lon="-90.18006807022034365672880085"/>
+  <node visible="true" id="-648" lat="29.98586749977984311499312753" lon="-90.18004146374447316247824347"/>
+  <node visible="true" id="-649" lat="29.98588041831488482102940907" lon="-90.18004361153261072558962042"/>
+  <node visible="true" id="-650" lat="29.98589682552873014742544910" lon="-90.17991206728339648179826327"/>
+  <node visible="true" id="-651" lat="29.98583261890298956586775603" lon="-90.17990139252692927129828604"/>
+  <node visible="true" id="-652" lat="29.98582987934203103463914886" lon="-90.17992335684623128599923803"/>
+  <node visible="true" id="-653" lat="29.98581521116852499631022511" lon="-90.17992091817092159544699825"/>
+  <node visible="true" id="-654" lat="29.98581320586234966185656958" lon="-90.17993699562912013334425865"/>
+  <node visible="true" id="-655" lat="29.98578209511800807263171009" lon="-90.17993182327515455654065590"/>
+  <node visible="true" id="-656" lat="29.98576142731070959257522190" lon="-90.18009752648463006607926218"/>
+  <node visible="true" id="-657" lat="29.98586762697079421968737734" lon="-90.18011518283896066350280307"/>
   <way visible="true" id="-95">
     <nd ref="-646"/>
     <nd ref="-647"/>
@@ -2155,18 +2243,18 @@
     <tag k="addr:city" v="Metairie"/>
     <tag k="addr:postcode" v="70001"/>
   </way>
-  <node visible="true" id="-658" lat="29.98573018421286562329441949" lon="-90.18012715958263925131177530"/>
-  <node visible="true" id="-659" lat="29.98575233832982789294874237" lon="-90.17998096615556846700201277"/>
-  <node visible="true" id="-660" lat="29.98574370500965002861448738" lon="-90.17998106597833896103111329"/>
-  <node visible="true" id="-661" lat="29.98575179211587382610559871" lon="-90.17991863104673200268734945"/>
-  <node visible="true" id="-662" lat="29.98568260321431822035265213" lon="-90.17990526249624849697283935"/>
-  <node visible="true" id="-663" lat="29.98567805524570673014750355" lon="-90.17994923760878123175643850"/>
-  <node visible="true" id="-664" lat="29.98566321777089171973784687" lon="-90.17994515890646312072931323"/>
-  <node visible="true" id="-665" lat="29.98566092515776659865878173" lon="-90.17996502102261047184583731"/>
-  <node visible="true" id="-666" lat="29.98562756391629235963591782" lon="-90.17995832299401115506043425"/>
-  <node visible="true" id="-667" lat="29.98560070042653435962165531" lon="-90.18013007330119990001549013"/>
-  <node visible="true" id="-668" lat="29.98570695015484588452636672" lon="-90.18015009835589523845555959"/>
-  <node visible="true" id="-669" lat="29.98571164713590064820891712" lon="-90.18012312362311888591648312"/>
+  <node visible="true" id="-658" lat="29.98575252136352631282534276" lon="-90.17998096403925956110469997"/>
+  <node visible="true" id="-659" lat="29.98574293847990901440425660" lon="-90.17998107484133640809886856"/>
+  <node visible="true" id="-660" lat="29.98575247127289600257427082" lon="-90.17991918938440676356549375"/>
+  <node visible="true" id="-661" lat="29.98568374460476348986048833" lon="-90.17990507796551469255064148"/>
+  <node visible="true" id="-662" lat="29.98567705346278344791244308" lon="-90.17994851582896842501213541"/>
+  <node visible="true" id="-663" lat="29.98566351242165950452545076" lon="-90.17994573549322012695483863"/>
+  <node visible="true" id="-664" lat="29.98566054210450104733354237" lon="-90.17996501833130196246202104"/>
+  <node visible="true" id="-665" lat="29.98562737792004995185379812" lon="-90.17995820884435431707970565"/>
+  <node visible="true" id="-666" lat="29.98560103146587962896774116" lon="-90.18012924585453049530769931"/>
+  <node visible="true" id="-667" lat="29.98570707905386001357328496" lon="-90.18015102024010332115722122"/>
+  <node visible="true" id="-668" lat="29.98571136737936271288162970" lon="-90.18012318108308988939825213"/>
+  <node visible="true" id="-669" lat="29.98573002426342171133910597" lon="-90.18012701183931767445756122"/>
   <way visible="true" id="-96">
     <nd ref="-658"/>
     <nd ref="-659"/>
@@ -2187,10 +2275,10 @@
     <tag k="addr:city" v="Metairie"/>
     <tag k="addr:postcode" v="70001"/>
   </way>
-  <node visible="true" id="-670" lat="29.98997842282756565168710949" lon="-90.18006553048090268021041993"/>
-  <node visible="true" id="-671" lat="29.98996114578502059089260001" lon="-90.18029111386260865401709452"/>
-  <node visible="true" id="-672" lat="29.99006020192598853668641823" lon="-90.18030123595474378817016259"/>
-  <node visible="true" id="-673" lat="29.99008243566816034331168339" lon="-90.18007873235484339602407999"/>
+  <node visible="true" id="-670" lat="29.98995999116341693024878623" lon="-90.18029026419749527576641412"/>
+  <node visible="true" id="-671" lat="29.99006151014886256689351285" lon="-90.18030210353326481254043756"/>
+  <node visible="true" id="-672" lat="29.99008111192994618932061712" lon="-90.18007804212903977258974919"/>
+  <node visible="true" id="-673" lat="29.98997959296438153842245811" lon="-90.18006620279328444667044096"/>
   <way visible="true" id="-97">
     <nd ref="-670"/>
     <nd ref="-671"/>
@@ -2198,15 +2286,16 @@
     <nd ref="-673"/>
     <nd ref="-670"/>
     <tag k="building" v="yes"/>
+    <tag k="building:levels" v="2"/>
     <tag k="addr:housenumber" v="1700"/>
     <tag k="addr:street" v="Green Avenue"/>
     <tag k="addr:city" v="Metairie"/>
     <tag k="addr:postcode" v="70001"/>
   </way>
-  <node visible="true" id="-674" lat="29.99251224492293488310679095" lon="-90.18066855054073016617621761"/>
-  <node visible="true" id="-675" lat="29.99253502107388058561809885" lon="-90.18047442416636272355390247"/>
-  <node visible="true" id="-676" lat="29.99243608583292797220565262" lon="-90.18045790939498829175136052"/>
-  <node visible="true" id="-677" lat="29.99241115352159781082264089" lon="-90.18065060529856680204829900"/>
+  <node visible="true" id="-674" lat="29.99253579902244837285252288" lon="-90.18047457577208092516229954"/>
+  <node visible="true" id="-675" lat="29.99243572522112089018264669" lon="-90.18045782763395834535913309"/>
+  <node visible="true" id="-676" lat="29.99241145364090854741334624" lon="-90.18065116892823596117523266"/>
+  <node visible="true" id="-677" lat="29.99251152746667870019336988" lon="-90.18066791706635854097839911"/>
   <way visible="true" id="-98">
     <nd ref="-674"/>
     <nd ref="-675"/>
@@ -2214,23 +2303,24 @@
     <nd ref="-677"/>
     <nd ref="-674"/>
     <tag k="building" v="yes"/>
+    <tag k="building:levels" v="1"/>
     <tag k="addr:housenumber" v="2012"/>
     <tag k="addr:street" v="Green Avenue"/>
     <tag k="addr:city" v="Metairie"/>
     <tag k="addr:postcode" v="70001"/>
   </way>
-  <node visible="true" id="-678" lat="29.99253496842338506667147158" lon="-90.17993604564280474278348265"/>
-  <node visible="true" id="-679" lat="29.99252627676722227079153527" lon="-90.18000846574648221576353535"/>
-  <node visible="true" id="-680" lat="29.99247839026442363774549449" lon="-90.17999830548833983812073711"/>
-  <node visible="true" id="-681" lat="29.99247404487068280332096037" lon="-90.18003451499509992572711781"/>
-  <node visible="true" id="-682" lat="29.99242382728514044742951228" lon="-90.18002438168376500016165664"/>
-  <node visible="true" id="-683" lat="29.99240421625790986581705511" lon="-90.18015995138044615941907978"/>
-  <node visible="true" id="-684" lat="29.99255816734988400185102364" lon="-90.18018889552128314335277537"/>
-  <node visible="true" id="-685" lat="29.99256031074001427327857527" lon="-90.18016744278261853651201818"/>
-  <node visible="true" id="-686" lat="29.99260235688647924234828679" lon="-90.18017633153405654411471914"/>
-  <node visible="true" id="-687" lat="29.99261436928403767865347618" lon="-90.18008378414452863580663688"/>
-  <node visible="true" id="-688" lat="29.99260854157326505742275913" lon="-90.18008385152612049751041923"/>
-  <node visible="true" id="-689" lat="29.99262599533039974630810320" lon="-90.17994704613468570641998667"/>
+  <node visible="true" id="-678" lat="29.99252581067144873827601259" lon="-90.18000764166396265864023007"/>
+  <node visible="true" id="-679" lat="29.99247857441316256199570489" lon="-90.17999907845815243945253314"/>
+  <node visible="true" id="-680" lat="29.99247383089271323797220248" lon="-90.18003396138333016551769106"/>
+  <node visible="true" id="-681" lat="29.99242318525343264923321840" lon="-90.18002478011425182558014058"/>
+  <node visible="true" id="-682" lat="29.99240472127543100100410811" lon="-90.18016056052518081287416862"/>
+  <node visible="true" id="-683" lat="29.99255785843108057520112197" lon="-90.18018832192611000664328458"/>
+  <node visible="true" id="-684" lat="29.99256060431460113591128902" lon="-90.18016812921662506141728954"/>
+  <node visible="true" id="-685" lat="29.99260216153306757291829854" lon="-90.18017566290603781453683041"/>
+  <node visible="true" id="-686" lat="29.99261506375668062673867098" lon="-90.18008078234169033748912625"/>
+  <node visible="true" id="-687" lat="29.99260752132745366793642461" lon="-90.18008712738445353807037463"/>
+  <node visible="true" id="-688" lat="29.99262619123911832730300375" lon="-90.17994983229839078830991639"/>
+  <node visible="true" id="-689" lat="29.99253589771629435745126102" lon="-90.17993346346092664589377819"/>
   <way visible="true" id="-99">
     <nd ref="-678"/>
     <nd ref="-679"/>
@@ -2246,17 +2336,18 @@
     <nd ref="-689"/>
     <nd ref="-678"/>
     <tag k="building" v="yes"/>
+    <tag k="building:levels" v="2"/>
     <tag k="addr:housenumber" v="2013"/>
     <tag k="addr:street" v="Green Avenue"/>
     <tag k="addr:city" v="Metairie"/>
     <tag k="addr:postcode" v="70001"/>
   </way>
-  <node visible="true" id="-690" lat="29.98990706799500927104418224" lon="-90.17956366898708608914603246"/>
-  <node visible="true" id="-691" lat="29.98988176346071199418474862" lon="-90.17974349091319652416132158"/>
-  <node visible="true" id="-692" lat="29.98993623781062112243489537" lon="-90.17975363263545318659453187"/>
-  <node visible="true" id="-693" lat="29.98993271331650589672790375" lon="-90.17977952536135433092567837"/>
-  <node visible="true" id="-694" lat="29.98999031261638492651400156" lon="-90.17978963096862798920483328"/>
-  <node visible="true" id="-695" lat="29.99001914706666838128512609" lon="-90.17958463429741300387831870"/>
+  <node visible="true" id="-690" lat="29.98988187440027175512113899" lon="-90.17974351942336852516746148"/>
+  <node visible="true" id="-691" lat="29.98993628081307249999554188" lon="-90.17975363274071298747003311"/>
+  <node visible="true" id="-692" lat="29.98993271224502521477006667" lon="-90.17977922454996075884992024"/>
+  <node visible="true" id="-693" lat="29.98999039328974447471409803" lon="-90.17978994657678981639037374"/>
+  <node visible="true" id="-694" lat="29.99001903447250327872097841" lon="-90.17958454760821496165590361"/>
+  <node visible="true" id="-695" lat="29.98990694704524528901856684" lon="-90.17956371226402723095816327"/>
   <way visible="true" id="-100">
     <nd ref="-690"/>
     <nd ref="-691"/>
@@ -2266,55 +2357,56 @@
     <nd ref="-695"/>
     <nd ref="-690"/>
     <tag k="building" v="yes"/>
+    <tag k="building:levels" v="1"/>
     <tag k="addr:housenumber" v="1621"/>
     <tag k="addr:street" v="Green Avenue"/>
     <tag k="addr:city" v="Metairie"/>
     <tag k="addr:postcode" v="70001"/>
   </way>
-  <node visible="true" id="-696" lat="29.98439019545608275052472891" lon="-90.17954904340192001654941123"/>
-  <node visible="true" id="-697" lat="29.98428966488364011411249521" lon="-90.17951812393137345225113677"/>
-  <node visible="true" id="-698" lat="29.98423923163221971321945603" lon="-90.17972847836630023721227190"/>
-  <node visible="true" id="-699" lat="29.98433832868172999042144511" lon="-90.17975941461070021887280745"/>
+  <node visible="true" id="-696" lat="29.98984723225454729345074156" lon="-90.18005553321415845857700333"/>
+  <node visible="true" id="-697" lat="29.98983167494331070201951661" lon="-90.18024423706349068652343703"/>
+  <node visible="true" id="-698" lat="29.98988292405465116985396890" lon="-90.18024986941857434885605471"/>
+  <node visible="true" id="-699" lat="29.98988702940776462924077350" lon="-90.18020007313654673453129362"/>
+  <node visible="true" id="-700" lat="29.98994467709714228931261459" lon="-90.18020640870879844896990107"/>
+  <node visible="true" id="-701" lat="29.98995612904082719296638970" lon="-90.18006750114150804620294366"/>
   <way visible="true" id="-101">
     <nd ref="-696"/>
     <nd ref="-697"/>
     <nd ref="-698"/>
     <nd ref="-699"/>
-    <nd ref="-696"/>
-    <tag k="building" v="yes"/>
-    <tag k="addr:housenumber" v="1020"/>
-    <tag k="addr:street" v="Green Avenue"/>
-    <tag k="addr:city" v="Metairie"/>
-    <tag k="addr:postcode" v="70001"/>
-  </way>
-  <node visible="true" id="-700" lat="29.98995636169754774869034009" lon="-90.18006839220628023667813977"/>
-  <node visible="true" id="-701" lat="29.98984643310044972963623877" lon="-90.18005457989049489242461277"/>
-  <node visible="true" id="-702" lat="29.98983257587969220026025141" lon="-90.18024395581261387633276172"/>
-  <node visible="true" id="-703" lat="29.98988276058081936525923084" lon="-90.18025023171767884377914015"/>
-  <node visible="true" id="-704" lat="29.98988710135436974724143511" lon="-90.18020082102781032062921440"/>
-  <node visible="true" id="-705" lat="29.98994443418576238968853431" lon="-90.18020564202822697552619502"/>
-  <way visible="true" id="-102">
     <nd ref="-700"/>
     <nd ref="-701"/>
-    <nd ref="-702"/>
-    <nd ref="-703"/>
-    <nd ref="-704"/>
-    <nd ref="-705"/>
-    <nd ref="-700"/>
+    <nd ref="-696"/>
     <tag k="building" v="yes"/>
     <tag k="addr:housenumber" v="1616"/>
     <tag k="addr:street" v="Green Avenue"/>
     <tag k="addr:city" v="Metairie"/>
     <tag k="addr:postcode" v="70001"/>
   </way>
-  <node visible="true" id="-706" lat="29.99037270479016825674989377" lon="-90.18034174498724553359352285"/>
-  <node visible="true" id="-707" lat="29.99042289563669427820968849" lon="-90.18034954759033894333697390"/>
-  <node visible="true" id="-708" lat="29.99042514007454585112100176" lon="-90.18033077025204136134561850"/>
-  <node visible="true" id="-709" lat="29.99047531836078306355375389" lon="-90.18033868389876772653224180"/>
-  <node visible="true" id="-710" lat="29.99049291194640787239222846" lon="-90.18019144698438083196379011"/>
-  <node visible="true" id="-711" lat="29.99044279697830006625736132" lon="-90.18018365601538732789776986"/>
-  <node visible="true" id="-712" lat="29.99044935219020402428213856" lon="-90.18012801216161733464105055"/>
-  <node visible="true" id="-713" lat="29.99039880898535770370472164" lon="-90.18012015466415220998896984"/>
+  <node visible="true" id="-702" lat="29.98428975583028943674435141" lon="-90.17951757512919641612825217"/>
+  <node visible="true" id="-703" lat="29.98423934495863818483485375" lon="-90.17972817378829120116279228"/>
+  <node visible="true" id="-704" lat="29.98433895452208375331792922" lon="-90.17975995502594344088720391"/>
+  <node visible="true" id="-705" lat="29.98438936534320475857384736" lon="-90.17954935636684865585266380"/>
+  <way visible="true" id="-102">
+    <nd ref="-702"/>
+    <nd ref="-703"/>
+    <nd ref="-704"/>
+    <nd ref="-705"/>
+    <nd ref="-702"/>
+    <tag k="building" v="yes"/>
+    <tag k="addr:housenumber" v="1020"/>
+    <tag k="addr:street" v="Green Avenue"/>
+    <tag k="addr:city" v="Metairie"/>
+    <tag k="addr:postcode" v="70001"/>
+  </way>
+  <node visible="true" id="-706" lat="29.99042290493131801554227422" lon="-90.18034959390310234539356316"/>
+  <node visible="true" id="-707" lat="29.99042512423584483371996612" lon="-90.18033077941750264017173322"/>
+  <node visible="true" id="-708" lat="29.99047543062266640845336951" lon="-90.18033868989544998839846812"/>
+  <node visible="true" id="-709" lat="29.99049279585716121232508158" lon="-90.18019147343507313507871004"/>
+  <node visible="true" id="-710" lat="29.99044279804126489352711360" lon="-90.18018361147727546267560683"/>
+  <node visible="true" id="-711" lat="29.99044935108049614314040809" lon="-90.18012805709565782308345661"/>
+  <node visible="true" id="-712" lat="29.99039883089699998208743636" lon="-90.18012011300113783818233060"/>
+  <node visible="true" id="-713" lat="29.99037269329672028561617481" lon="-90.18034169832873203631606884"/>
   <way visible="true" id="-103">
     <nd ref="-706"/>
     <nd ref="-707"/>
@@ -2331,12 +2423,12 @@
     <tag k="addr:city" v="Metairie"/>
     <tag k="addr:postcode" v="70001"/>
   </way>
-  <node visible="true" id="-714" lat="29.99176541557540076610166579" lon="-90.18006820557634739543573232"/>
-  <node visible="true" id="-715" lat="29.99179600572764670118885988" lon="-90.17985769905068593743635574"/>
-  <node visible="true" id="-716" lat="29.99171929808317571541920188" lon="-90.17983921054445772824692540"/>
-  <node visible="true" id="-717" lat="29.99171302076555178928174428" lon="-90.17986313001432563396519981"/>
-  <node visible="true" id="-718" lat="29.99168052416684204786179180" lon="-90.17985605367131540788250277"/>
-  <node visible="true" id="-719" lat="29.99165238399628208298963727" lon="-90.18005013690996918285236461"/>
+  <node visible="true" id="-714" lat="29.99179671914941280874700169" lon="-90.17985626994982339965645224"/>
+  <node visible="true" id="-715" lat="29.99171776425396274134982377" lon="-90.17984047552823767546215095"/>
+  <node visible="true" id="-716" lat="29.99171436753424302423809422" lon="-90.17986311162148638231883524"/>
+  <node visible="true" id="-717" lat="29.99168095966910740912680922" lon="-90.17985642859586903341551078"/>
+  <node visible="true" id="-718" lat="29.99165223745616515316214645" lon="-90.18004783631222665007953765"/>
+  <node visible="true" id="-719" lat="29.99176460025190493752234033" lon="-90.18007031375944393403187860"/>
   <way visible="true" id="-104">
     <nd ref="-714"/>
     <nd ref="-715"/>
@@ -2386,15 +2478,30 @@
     <tag k="addr:city" v="Metairie"/>
     <tag k="addr:postcode" v="70001"/>
   </node>
-  <way id="733791739" version="1">
+  <way id="733791739" version="1" action="modify">
     <tag k="addr:housenumber" v="1329"/>
     <tag k="addr:street" v="Clearview Parkway East"/>
+    <tag k="building" v="yes"/>
+    <tag k="name" v="Blue Sky Massage"/>
+    <tag k="phone" v="+1-504-766-0855"/>
+    <tag k="shop" v="massage"/>
     <tag k="addr:city" v="Metairie"/>
     <tag k="addr:postcode" v="70001"/>
+    <nd ref="6872525514"/>
+    <nd ref="6872525515"/>
+    <nd ref="6872525516"/>
+    <nd ref="6872525517"/>
+    <nd ref="6872525514"/>
   </way>
-  <way id="733791742" version="1">
+  <way id="733791742" version="1" action="modify">
+    <tag k="building" v="yes"/>
     <tag k="addr:street" v="Shaw Street"/>
     <tag k="addr:city" v="Metairie"/>
     <tag k="addr:postcode" v="70001"/>
+    <nd ref="6872525530"/>
+    <nd ref="6872525531"/>
+    <nd ref="6872525532"/>
+    <nd ref="6872525533"/>
+    <nd ref="6872525530"/>
   </way>
 </osm>

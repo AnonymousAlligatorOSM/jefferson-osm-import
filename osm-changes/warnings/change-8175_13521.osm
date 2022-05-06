@@ -33,10 +33,24 @@
     <tag k="addr:city" v="Metairie"/>
     <tag k="addr:postcode" v="70001"/>
   </node>
-  <way id="725692164" version="2">
-    <tag k="addr:housenumber" v="4425"/>
-    <tag k="addr:street" v="Flamingo Street"/>
+  <way id="725692164" version="2" action="modify">
     <tag k="addr:city" v="Metairie"/>
+    <tag k="addr:housenumber" v="4425"/>
     <tag k="addr:postcode" v="70001"/>
+    <tag k="addr:state" v="LA"/>
+    <tag k="addr:street" v="Flamingo Street"/>
+    <tag k="building" v="yes"/>
+    <tag k="healthcare" v="alternative"/>
+    <tag k="healthcare:speciality" v="chiropractic"/>
+    <tag k="name" v="Hannan Wellness"/>
+    <nd ref="4994242388"/>
+    <nd ref="6804186869"/>
+    <nd ref="6804186870"/>
+    <nd ref="6804186871"/>
+    <nd ref="6804186872"/>
+    <nd ref="6804186873"/>
+    <nd ref="6804186874"/>
+    <nd ref="6804186875"/>
+    <nd ref="4994242388"/>
   </way>
 </osm>

@@ -3,16 +3,70 @@
   <changeset_tag k="comment" v="Import buildings and addresses in Jefferson Parish, see https://wiki.openstreetmap.org/wiki/Import/Catalogue/Jefferson_Parish_Addresses_and_Buildings"/>
   <changeset_tag k="source" v="Jefferson Parish Planning Department"/>
   <changeset_tag k="source_file" v="8169_13521"/>
-  <way id="656101461" version="2">
+  <way id="606701300" version="3" action="modify">
+    <tag k="addr:city" v="Kenner"/>
+    <tag k="addr:housenumber" v="2008"/>
+    <tag k="addr:postcode" v="70062"/>
+    <tag k="addr:state" v="LA"/>
+    <tag k="addr:street" v="Short Street"/>
+    <tag k="amenity" v="place_of_worship"/>
+    <tag k="building" v="church"/>
+    <tag k="denomination" v="roman_catholic"/>
+    <tag k="diocese" v="New Orleans"/>
+    <tag k="ele" v="2"/>
+    <tag k="fax" v="+1 504-465-0930"/>
+    <tag k="gnis:county_id" v="051"/>
+    <tag k="gnis:created" v="02/01/1994"/>
+    <tag k="gnis:feature_id" v="557534"/>
+    <tag k="gnis:state_id" v="22"/>
+    <tag k="name" v="Our Lady of Perpetual Help Catholic Church"/>
+    <tag k="phone" v="+1 504-464-0361"/>
+    <tag k="religion" v="christian"/>
+    <tag k="website" v="https://www.olphla.net/"/>
+    <nd ref="5751560721"/>
+    <nd ref="5751560220"/>
+    <nd ref="5751560219"/>
+    <nd ref="5751560218"/>
+    <nd ref="5751560217"/>
+    <nd ref="5751560216"/>
+    <nd ref="5751560215"/>
+    <nd ref="5751560214"/>
+    <nd ref="5751560213"/>
+    <nd ref="5751560212"/>
+    <nd ref="9536135337"/>
+    <nd ref="9536135336"/>
+    <nd ref="5751560721"/>
+  </way>
+  <way id="656101461" version="2" action="modify">
     <tag k="addr:housenumber" v="1015"/>
     <tag k="addr:street" v="Compromise Street"/>
+    <tag k="building" v="yes"/>
     <tag k="addr:city" v="Kenner"/>
     <tag k="addr:postcode" v="70062"/>
+    <nd ref="6146499078"/>
+    <nd ref="6146499079"/>
+    <nd ref="6146499080"/>
+    <nd ref="6146499081"/>
+    <nd ref="6146499082"/>
+    <nd ref="6146499083"/>
+    <nd ref="6146499084"/>
+    <nd ref="6146499785"/>
+    <nd ref="6146499786"/>
+    <nd ref="6146499787"/>
+    <nd ref="6146499788"/>
+    <nd ref="6146499789"/>
+    <nd ref="6146499078"/>
   </way>
-  <way id="924409664" version="1">
+  <way id="924409664" version="1" action="modify">
+    <tag k="building" v="yes"/>
     <tag k="addr:housenumber" v="1610"/>
     <tag k="addr:street" v="Rev Richard Wilson Drive"/>
     <tag k="addr:city" v="Kenner"/>
     <tag k="addr:postcode" v="70062"/>
+    <nd ref="8579492786"/>
+    <nd ref="8579492787"/>
+    <nd ref="8579492788"/>
+    <nd ref="8579492789"/>
+    <nd ref="8579492786"/>
   </way>
 </osm>

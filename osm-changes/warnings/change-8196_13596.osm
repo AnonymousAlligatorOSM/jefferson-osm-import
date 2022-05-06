@@ -3,14 +3,26 @@
   <changeset_tag k="comment" v="Import buildings and addresses in Jefferson Parish, see https://wiki.openstreetmap.org/wiki/Import/Catalogue/Jefferson_Parish_Addresses_and_Buildings"/>
   <changeset_tag k="source" v="Jefferson Parish Planning Department"/>
   <changeset_tag k="source_file" v="8196_13596"/>
-  <way id="361573191" version="1">
+  <way id="361573191" version="1" action="modify">
+    <tag k="building" v="yes"/>
     <tag k="addr:housenumber" v="379"/>
     <tag k="addr:street" v="Admirial Craik Road"/>
     <tag k="addr:city" v="Grand Isle"/>
+    <nd ref="3660275118"/>
+    <nd ref="3660275101"/>
+    <nd ref="3660275115"/>
+    <nd ref="3660275925"/>
+    <nd ref="3660275118"/>
   </way>
-  <way id="361573229" version="1">
+  <way id="361573229" version="1" action="modify">
+    <tag k="building" v="yes"/>
     <tag k="addr:housenumber" v="411"/>
     <tag k="addr:street" v="Admirial Craik Road"/>
     <tag k="addr:city" v="Grand Isle"/>
+    <nd ref="3660276087"/>
+    <nd ref="3660276079"/>
+    <nd ref="3660276050"/>
+    <nd ref="3660276059"/>
+    <nd ref="3660276087"/>
   </way>
 </osm>

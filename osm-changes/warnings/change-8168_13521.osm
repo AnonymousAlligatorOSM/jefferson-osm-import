@@ -3,14 +3,14 @@
   <changeset_tag k="comment" v="Import buildings and addresses in Jefferson Parish, see https://wiki.openstreetmap.org/wiki/Import/Catalogue/Jefferson_Parish_Addresses_and_Buildings"/>
   <changeset_tag k="source" v="Jefferson Parish Planning Department"/>
   <changeset_tag k="source_file" v="8168_13521"/>
-  <node visible="true" id="-1" lat="29.97990040376605946903509903" lon="-90.26364477003235720076190773"/>
-  <node visible="true" id="-2" lat="29.98007155876405249728122726" lon="-90.26362929244926647243119078"/>
-  <node visible="true" id="-3" lat="29.98006869043147304410013021" lon="-90.26358408628701113229908515"/>
-  <node visible="true" id="-4" lat="29.97995001116066049462460796" lon="-90.26359541137298947433009744"/>
-  <node visible="true" id="-5" lat="29.97994926434471807397130760" lon="-90.26358034077162528774351813"/>
-  <node visible="true" id="-6" lat="29.97992427347172750273784914" lon="-90.26358204512058591717504896"/>
-  <node visible="true" id="-7" lat="29.97992502118966484658812988" lon="-90.26359711570850663520104717"/>
-  <node visible="true" id="-8" lat="29.97989691117280486309937260" lon="-90.26359957167784386911080219"/>
+  <node visible="true" id="-1" lat="29.98007164709919081246880523" lon="-90.26362936533325864729704335"/>
+  <node visible="true" id="-2" lat="29.98006863101196728393915691" lon="-90.26358444406916703428578330"/>
+  <node visible="true" id="-3" lat="29.97995011937047493688623945" lon="-90.26359504922476162391831167"/>
+  <node visible="true" id="-4" lat="29.97994911485853108956689539" lon="-90.26358008815481070996611379"/>
+  <node visible="true" id="-5" lat="29.97992415993948256414114439" lon="-90.26358232127388703247561352"/>
+  <node visible="true" id="-6" lat="29.97992515048952455458675104" lon="-90.26359707439468138545635156"/>
+  <node visible="true" id="-7" lat="29.97989714073879241595932399" lon="-90.26359958087816437455330743"/>
+  <node visible="true" id="-8" lat="29.97990017079327884630401968" lon="-90.26364471009139833768131211"/>
   <way visible="true" id="-1">
     <nd ref="-1"/>
     <nd ref="-2"/>
@@ -27,10 +27,36 @@
     <tag k="addr:city" v="Kenner"/>
     <tag k="addr:postcode" v="70062"/>
   </way>
-  <way id="929812160" version="1">
+  <way id="929812160" version="1" action="modify">
+    <tag k="building" v="yes"/>
     <tag k="addr:housenumber" v="1100"/>
     <tag k="addr:street" v="Rev Richard Wilson Drive"/>
     <tag k="addr:city" v="Kenner"/>
     <tag k="addr:postcode" v="70062"/>
+    <nd ref="8622701232"/>
+    <nd ref="8622701233"/>
+    <nd ref="8622701234"/>
+    <nd ref="8622701235"/>
+    <nd ref="8622701236"/>
+    <nd ref="8622701237"/>
+    <nd ref="8622701238"/>
+    <nd ref="8622701239"/>
+    <nd ref="8622701240"/>
+    <nd ref="8622701241"/>
+    <nd ref="8622701242"/>
+    <nd ref="8622701243"/>
+    <nd ref="8622701244"/>
+    <nd ref="8622701245"/>
+    <nd ref="8622701246"/>
+    <nd ref="8622701247"/>
+    <nd ref="8622701248"/>
+    <nd ref="8622701249"/>
+    <nd ref="8622701250"/>
+    <nd ref="8622701251"/>
+    <nd ref="8622701252"/>
+    <nd ref="8622701253"/>
+    <nd ref="8622701254"/>
+    <nd ref="8622701255"/>
+    <nd ref="8622701232"/>
   </way>
 </osm>

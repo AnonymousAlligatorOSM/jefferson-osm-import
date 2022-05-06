@@ -3,10 +3,10 @@
   <changeset_tag k="comment" v="Import buildings and addresses in Jefferson Parish, see https://wiki.openstreetmap.org/wiki/Import/Catalogue/Jefferson_Parish_Addresses_and_Buildings"/>
   <changeset_tag k="source" v="Jefferson Parish Planning Department"/>
   <changeset_tag k="source_file" v="8170_13517"/>
-  <node visible="true" id="-1" lat="30.01948209059183625413425034" lon="-90.24089515939974148750479799"/>
-  <node visible="true" id="-2" lat="30.01936548623323020024145080" lon="-90.24090671927197604418324772"/>
-  <node visible="true" id="-3" lat="30.01937261147629953939031111" lon="-90.24099628312775678296020487"/>
-  <node visible="true" id="-4" lat="30.01948932188811269838879525" lon="-90.24098456461271666739776265"/>
+  <node visible="true" id="-1" lat="30.01936561708704331863373227" lon="-90.24090691101010008878802182"/>
+  <node visible="true" id="-2" lat="30.01937250631474540796261863" lon="-90.24099642521696296171285212"/>
+  <node visible="true" id="-3" lat="30.01948913800364948656351771" lon="-90.24098445219600250766234240"/>
+  <node visible="true" id="-4" lat="30.01948224878408311155908450" lon="-90.24089493798912542388279689"/>
   <way visible="true" id="-1">
     <nd ref="-1"/>
     <nd ref="-2"/>
@@ -18,16 +18,43 @@
     <tag k="addr:city" v="Kenner"/>
     <tag k="addr:postcode" v="70065"/>
   </way>
-  <way id="640987572" version="1">
-    <tag k="addr:housenumber" v="3243"/>
-    <tag k="addr:street" v="Williams Boulevard"/>
+  <way id="640987572" version="1" action="modify">
     <tag k="addr:city" v="Kenner"/>
+    <tag k="addr:housenumber" v="3243"/>
     <tag k="addr:postcode" v="70065"/>
+    <tag k="addr:state" v="LA"/>
+    <tag k="addr:street" v="Williams Boulevard"/>
+    <tag k="amenity" v="cafe"/>
+    <tag k="building" v="yes"/>
+    <tag k="name" v="Café du Monde"/>
+    <nd ref="6037618939"/>
+    <nd ref="6037618940"/>
+    <nd ref="6037618941"/>
+    <nd ref="6037618942"/>
+    <nd ref="6037618943"/>
+    <nd ref="6037618944"/>
+    <nd ref="6037618945"/>
+    <nd ref="6037618946"/>
+    <nd ref="6037618947"/>
+    <nd ref="6037618948"/>
+    <nd ref="6037618949"/>
+    <nd ref="6037618950"/>
+    <nd ref="6037618951"/>
+    <nd ref="6037618952"/>
+    <nd ref="6037618953"/>
+    <nd ref="6037618954"/>
+    <nd ref="6037618939"/>
   </way>
-  <way id="747419327" version="1">
+  <way id="747419327" version="1" action="modify">
     <tag k="addr:housenumber" v="1900"/>
     <tag k="addr:street" v="West Esplanade Avenue North"/>
+    <tag k="building" v="yes"/>
     <tag k="addr:city" v="Kenner"/>
     <tag k="addr:postcode" v="70065"/>
+    <nd ref="6993639192"/>
+    <nd ref="6993639193"/>
+    <nd ref="6993639194"/>
+    <nd ref="6993639195"/>
+    <nd ref="6993639192"/>
   </way>
 </osm>

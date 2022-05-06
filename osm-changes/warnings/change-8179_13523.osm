@@ -3,12 +3,12 @@
   <changeset_tag k="comment" v="Import buildings and addresses in Jefferson Parish, see https://wiki.openstreetmap.org/wiki/Import/Catalogue/Jefferson_Parish_Addresses_and_Buildings"/>
   <changeset_tag k="source" v="Jefferson Parish Planning Department"/>
   <changeset_tag k="source_file" v="8179_13523"/>
-  <node visible="true" id="-1" lat="29.95780886979417800830560736" lon="-90.13537022333555626119050430"/>
-  <node visible="true" id="-2" lat="29.95788975988547164774900011" lon="-90.13532904992179339842550689"/>
-  <node visible="true" id="-3" lat="29.95787502421223891246881976" lon="-90.13528974266340298981958767"/>
-  <node visible="true" id="-4" lat="29.95788684185566808082512580" lon="-90.13528314060297930154774804"/>
-  <node visible="true" id="-5" lat="29.95787342839687283913008287" lon="-90.13525171369120414510689443"/>
-  <node visible="true" id="-6" lat="29.95778347701091348653790192" lon="-90.13530197076207173267903272"/>
+  <node visible="true" id="-1" lat="29.95788985773624801822734298" lon="-90.13532825578695906187931541"/>
+  <node visible="true" id="-2" lat="29.95787462262528677570116997" lon="-90.13528976951313609333737986"/>
+  <node visible="true" id="-3" lat="29.95788650000144670570989547" lon="-90.13528350581709958078135969"/>
+  <node visible="true" id="-4" lat="29.95787429257838141438696766" lon="-90.13525266795717527656961465"/>
+  <node visible="true" id="-5" lat="29.95778234282803964561026078" lon="-90.13530115888443106086924672"/>
+  <node visible="true" id="-6" lat="29.95780978538559580215405731" lon="-90.13537048301819254447764251"/>
   <way visible="true" id="-1">
     <nd ref="-1"/>
     <nd ref="-2"/>
@@ -18,6 +18,7 @@
     <nd ref="-6"/>
     <nd ref="-1"/>
     <tag k="building" v="yes"/>
+    <tag k="building:levels" v="1"/>
     <tag k="addr:housenumber" v="132"/>
     <tag k="addr:street" v="Goldsmith Street"/>
     <tag k="addr:city" v="Jefferson"/>
@@ -39,239 +40,632 @@
     <tag k="addr:city" v="Jefferson"/>
     <tag k="addr:postcode" v="70121"/>
   </node>
-  <way id="970350558" version="1">
+  <way id="970350558" version="1" action="modify">
+    <tag k="building" v="yes"/>
     <tag k="addr:housenumber" v="1116"/>
     <tag k="addr:street" v="Odwyer Place"/>
     <tag k="addr:city" v="Jefferson"/>
     <tag k="addr:postcode" v="70121"/>
+    <nd ref="8979822723"/>
+    <nd ref="8979822722"/>
+    <nd ref="8979822721"/>
+    <nd ref="8979822720"/>
+    <nd ref="8979822723"/>
   </way>
-  <way id="970350559" version="1">
+  <way id="970350559" version="1" action="modify">
+    <tag k="building" v="yes"/>
     <tag k="addr:housenumber" v="1112"/>
     <tag k="addr:street" v="Odwyer Place"/>
     <tag k="addr:city" v="Jefferson"/>
     <tag k="addr:postcode" v="70121"/>
+    <nd ref="8979822731"/>
+    <nd ref="8979822730"/>
+    <nd ref="8979822729"/>
+    <nd ref="8979822728"/>
+    <nd ref="8979822727"/>
+    <nd ref="8979822726"/>
+    <nd ref="8979822725"/>
+    <nd ref="8979822724"/>
+    <nd ref="8979822731"/>
   </way>
-  <way id="970350560" version="1">
+  <way id="970350560" version="1" action="modify">
+    <tag k="building" v="yes"/>
     <tag k="addr:housenumber" v="1108"/>
     <tag k="addr:street" v="Odwyer Place"/>
     <tag k="addr:city" v="Jefferson"/>
     <tag k="addr:postcode" v="70121"/>
+    <nd ref="8979822741"/>
+    <nd ref="8979822740"/>
+    <nd ref="8979822739"/>
+    <nd ref="8979822738"/>
+    <nd ref="8979822737"/>
+    <nd ref="8979822736"/>
+    <nd ref="8979822735"/>
+    <nd ref="8979822734"/>
+    <nd ref="8979822733"/>
+    <nd ref="8979822732"/>
+    <nd ref="8979822741"/>
   </way>
-  <way id="970350561" version="1">
+  <way id="970350561" version="1" action="modify">
+    <tag k="building" v="yes"/>
     <tag k="addr:housenumber" v="1104"/>
     <tag k="addr:street" v="Odwyer Place"/>
     <tag k="addr:city" v="Jefferson"/>
     <tag k="addr:postcode" v="70121"/>
+    <nd ref="8979822755"/>
+    <nd ref="8979822754"/>
+    <nd ref="8979822753"/>
+    <nd ref="8979822752"/>
+    <nd ref="8979822751"/>
+    <nd ref="8979822750"/>
+    <nd ref="8979822749"/>
+    <nd ref="8979822748"/>
+    <nd ref="8979822747"/>
+    <nd ref="8979822746"/>
+    <nd ref="8979822745"/>
+    <nd ref="8979822744"/>
+    <nd ref="8979822743"/>
+    <nd ref="8979822742"/>
+    <nd ref="8979822755"/>
   </way>
-  <way id="970350563" version="1">
+  <way id="970350563" version="1" action="modify">
+    <tag k="building" v="yes"/>
     <tag k="addr:housenumber" v="1100"/>
     <tag k="addr:street" v="Odwyer Place"/>
     <tag k="addr:city" v="Jefferson"/>
     <tag k="addr:postcode" v="70121"/>
+    <nd ref="8979822765"/>
+    <nd ref="8979822764"/>
+    <nd ref="8979822763"/>
+    <nd ref="8979822762"/>
+    <nd ref="8979822761"/>
+    <nd ref="8979822760"/>
+    <nd ref="8979822765"/>
   </way>
-  <way id="970350564" version="1">
+  <way id="970350564" version="1" action="modify">
+    <tag k="building" v="yes"/>
     <tag k="addr:housenumber" v="1024"/>
     <tag k="addr:street" v="Odwyer Place"/>
     <tag k="addr:city" v="Jefferson"/>
     <tag k="addr:postcode" v="70121"/>
+    <nd ref="8979822771"/>
+    <nd ref="8979822770"/>
+    <nd ref="8979822769"/>
+    <nd ref="8979822768"/>
+    <nd ref="8979822767"/>
+    <nd ref="8979822766"/>
+    <nd ref="8979822771"/>
   </way>
-  <way id="970350566" version="1">
+  <way id="970350566" version="1" action="modify">
+    <tag k="building" v="yes"/>
     <tag k="addr:housenumber" v="1020"/>
     <tag k="addr:street" v="Odwyer Place"/>
     <tag k="addr:city" v="Jefferson"/>
     <tag k="addr:postcode" v="70121"/>
+    <nd ref="8979822779"/>
+    <nd ref="8979822778"/>
+    <nd ref="8979822777"/>
+    <nd ref="8979822776"/>
+    <nd ref="8979822779"/>
   </way>
-  <way id="970350568" version="1">
+  <way id="970350568" version="1" action="modify">
+    <tag k="building" v="yes"/>
     <tag k="addr:housenumber" v="1016"/>
     <tag k="addr:street" v="Odwyer Place"/>
     <tag k="addr:city" v="Jefferson"/>
     <tag k="addr:postcode" v="70121"/>
+    <nd ref="8979822791"/>
+    <nd ref="8979822790"/>
+    <nd ref="8979822789"/>
+    <nd ref="8979822788"/>
+    <nd ref="8979822787"/>
+    <nd ref="8979822786"/>
+    <nd ref="8979822785"/>
+    <nd ref="8979822784"/>
+    <nd ref="8979822791"/>
   </way>
-  <way id="970350569" version="1">
+  <way id="970350569" version="1" action="modify">
+    <tag k="building" v="yes"/>
     <tag k="addr:housenumber" v="1012"/>
     <tag k="addr:street" v="Odwyer Place"/>
     <tag k="addr:city" v="Jefferson"/>
     <tag k="addr:postcode" v="70121"/>
+    <nd ref="8979822807"/>
+    <nd ref="8979822806"/>
+    <nd ref="8979822805"/>
+    <nd ref="8979822804"/>
+    <nd ref="8979822803"/>
+    <nd ref="8979822802"/>
+    <nd ref="8979822801"/>
+    <nd ref="8979822800"/>
+    <nd ref="8979822799"/>
+    <nd ref="8979822798"/>
+    <nd ref="8979822797"/>
+    <nd ref="8979822796"/>
+    <nd ref="8979822795"/>
+    <nd ref="8979822794"/>
+    <nd ref="8979822793"/>
+    <nd ref="8979822792"/>
+    <nd ref="8979822807"/>
   </way>
-  <way id="970350570" version="1">
+  <way id="970350570" version="1" action="modify">
+    <tag k="building" v="yes"/>
     <tag k="addr:housenumber" v="1008"/>
     <tag k="addr:street" v="Odwyer Place"/>
     <tag k="addr:city" v="Jefferson"/>
     <tag k="addr:postcode" v="70121"/>
+    <nd ref="8979822821"/>
+    <nd ref="8979822820"/>
+    <nd ref="8979822819"/>
+    <nd ref="8979822818"/>
+    <nd ref="8979822817"/>
+    <nd ref="8979822816"/>
+    <nd ref="8979822815"/>
+    <nd ref="8979822814"/>
+    <nd ref="8979822813"/>
+    <nd ref="8979822812"/>
+    <nd ref="8979822811"/>
+    <nd ref="8979822810"/>
+    <nd ref="8979822809"/>
+    <nd ref="8979822808"/>
+    <nd ref="8979822821"/>
   </way>
-  <way id="970350571" version="1">
+  <way id="970350571" version="1" action="modify">
+    <tag k="building" v="yes"/>
     <tag k="addr:housenumber" v="1004"/>
     <tag k="addr:street" v="Odwyer Place"/>
     <tag k="addr:city" v="Jefferson"/>
     <tag k="addr:postcode" v="70121"/>
+    <nd ref="8979822827"/>
+    <nd ref="8979822826"/>
+    <nd ref="8979822825"/>
+    <nd ref="8979822824"/>
+    <nd ref="8979822823"/>
+    <nd ref="8979822822"/>
+    <nd ref="8979822827"/>
   </way>
-  <way id="970350572" version="1">
+  <way id="970350572" version="1" action="modify">
+    <tag k="building" v="yes"/>
     <tag k="addr:housenumber" v="1000"/>
     <tag k="addr:street" v="Odwyer Place"/>
     <tag k="addr:city" v="Jefferson"/>
     <tag k="addr:postcode" v="70121"/>
+    <nd ref="8979822831"/>
+    <nd ref="8979822830"/>
+    <nd ref="8979822829"/>
+    <nd ref="8979822828"/>
+    <nd ref="8979822831"/>
   </way>
-  <way id="970350574" version="1">
+  <way id="970350574" version="1" action="modify">
+    <tag k="building" v="yes"/>
     <tag k="addr:housenumber" v="924"/>
     <tag k="addr:street" v="Odwyer Place"/>
     <tag k="addr:city" v="Jefferson"/>
     <tag k="addr:postcode" v="70121"/>
+    <nd ref="8979822843"/>
+    <nd ref="8979822842"/>
+    <nd ref="8979822841"/>
+    <nd ref="8979822840"/>
+    <nd ref="8979822839"/>
+    <nd ref="8979822838"/>
+    <nd ref="8979822837"/>
+    <nd ref="8979822836"/>
+    <nd ref="8979822843"/>
   </way>
-  <way id="970350576" version="1">
+  <way id="970350576" version="1" action="modify">
+    <tag k="building" v="yes"/>
     <tag k="addr:housenumber" v="920"/>
     <tag k="addr:street" v="Odwyer Place"/>
     <tag k="addr:city" v="Jefferson"/>
     <tag k="addr:postcode" v="70121"/>
+    <nd ref="8979822855"/>
+    <nd ref="8979822854"/>
+    <nd ref="8979822853"/>
+    <nd ref="8979822852"/>
+    <nd ref="8979822851"/>
+    <nd ref="8979822850"/>
+    <nd ref="8979822849"/>
+    <nd ref="8979822848"/>
+    <nd ref="8979822855"/>
   </way>
-  <way id="970350577" version="1">
+  <way id="970350577" version="1" action="modify">
+    <tag k="building" v="yes"/>
     <tag k="addr:housenumber" v="916"/>
     <tag k="addr:street" v="Odwyer Place"/>
     <tag k="addr:city" v="Jefferson"/>
     <tag k="addr:postcode" v="70121"/>
+    <nd ref="8979822871"/>
+    <nd ref="8979822870"/>
+    <nd ref="8979822869"/>
+    <nd ref="8979822868"/>
+    <nd ref="8979822867"/>
+    <nd ref="8979822866"/>
+    <nd ref="8979822865"/>
+    <nd ref="8979822864"/>
+    <nd ref="8979822863"/>
+    <nd ref="8979822862"/>
+    <nd ref="8979822861"/>
+    <nd ref="8979822860"/>
+    <nd ref="8979822859"/>
+    <nd ref="8979822858"/>
+    <nd ref="8979822857"/>
+    <nd ref="8979822856"/>
+    <nd ref="8979822871"/>
   </way>
-  <way id="970350579" version="1">
+  <way id="970350579" version="1" action="modify">
+    <tag k="building" v="yes"/>
     <tag k="addr:housenumber" v="912"/>
     <tag k="addr:street" v="Odwyer Place"/>
     <tag k="addr:city" v="Jefferson"/>
     <tag k="addr:postcode" v="70121"/>
+    <nd ref="8979822885"/>
+    <nd ref="8979822884"/>
+    <nd ref="8979822883"/>
+    <nd ref="8979822882"/>
+    <nd ref="8979822881"/>
+    <nd ref="8979822880"/>
+    <nd ref="8979822879"/>
+    <nd ref="8979822878"/>
+    <nd ref="8979822885"/>
   </way>
-  <way id="970350581" version="1">
+  <way id="970350581" version="1" action="modify">
+    <tag k="building" v="yes"/>
     <tag k="addr:housenumber" v="908"/>
     <tag k="addr:street" v="Odwyer Place"/>
     <tag k="addr:city" v="Jefferson"/>
     <tag k="addr:postcode" v="70121"/>
+    <nd ref="8979822901"/>
+    <nd ref="8979822900"/>
+    <nd ref="8979822899"/>
+    <nd ref="8979822898"/>
+    <nd ref="8979822897"/>
+    <nd ref="8979822896"/>
+    <nd ref="8979822895"/>
+    <nd ref="8979822894"/>
+    <nd ref="8979822893"/>
+    <nd ref="8979822892"/>
+    <nd ref="8979822891"/>
+    <nd ref="8979822890"/>
+    <nd ref="8979822901"/>
   </way>
-  <way id="970350583" version="1">
+  <way id="970350583" version="1" action="modify">
+    <tag k="building" v="yes"/>
     <tag k="addr:housenumber" v="904"/>
     <tag k="addr:street" v="Odwyer Place"/>
     <tag k="addr:city" v="Jefferson"/>
     <tag k="addr:postcode" v="70121"/>
+    <nd ref="8979822911"/>
+    <nd ref="8979822910"/>
+    <nd ref="8979822909"/>
+    <nd ref="8979822908"/>
+    <nd ref="8979822907"/>
+    <nd ref="8979822906"/>
+    <nd ref="8979822911"/>
   </way>
-  <way id="970350584" version="1">
+  <way id="970350584" version="1" action="modify">
+    <tag k="building" v="yes"/>
     <tag k="addr:housenumber" v="900"/>
     <tag k="addr:street" v="Odwyer Place"/>
     <tag k="addr:city" v="Jefferson"/>
     <tag k="addr:postcode" v="70121"/>
+    <nd ref="8979822919"/>
+    <nd ref="8979822918"/>
+    <nd ref="8979822917"/>
+    <nd ref="8979822916"/>
+    <nd ref="8979822915"/>
+    <nd ref="8979822914"/>
+    <nd ref="8979822913"/>
+    <nd ref="8979822912"/>
+    <nd ref="8979822919"/>
   </way>
-  <way id="970350587" version="1">
+  <way id="970350587" version="1" action="modify">
+    <tag k="building" v="yes"/>
     <tag k="addr:housenumber" v="1117"/>
     <tag k="addr:street" v="Odwyer Place"/>
     <tag k="addr:city" v="Jefferson"/>
     <tag k="addr:postcode" v="70121"/>
+    <nd ref="8979822935"/>
+    <nd ref="8979822934"/>
+    <nd ref="8979822933"/>
+    <nd ref="8979822932"/>
+    <nd ref="8979822931"/>
+    <nd ref="8979822930"/>
+    <nd ref="8979822929"/>
+    <nd ref="8979822928"/>
+    <nd ref="8979822935"/>
   </way>
-  <way id="970350588" version="1">
+  <way id="970350588" version="1" action="modify">
+    <tag k="building" v="yes"/>
     <tag k="addr:housenumber" v="1113"/>
     <tag k="addr:street" v="Odwyer Place"/>
     <tag k="addr:city" v="Jefferson"/>
     <tag k="addr:postcode" v="70121"/>
+    <nd ref="8979822945"/>
+    <nd ref="8979822944"/>
+    <nd ref="8979822943"/>
+    <nd ref="8979822942"/>
+    <nd ref="8979822941"/>
+    <nd ref="8979822940"/>
+    <nd ref="8979822939"/>
+    <nd ref="8979822938"/>
+    <nd ref="8979822937"/>
+    <nd ref="8979822936"/>
+    <nd ref="8979822945"/>
   </way>
-  <way id="970350589" version="1">
+  <way id="970350589" version="1" action="modify">
+    <tag k="building" v="yes"/>
     <tag k="addr:housenumber" v="1109"/>
     <tag k="addr:street" v="Odwyer Place"/>
     <tag k="addr:city" v="Jefferson"/>
     <tag k="addr:postcode" v="70121"/>
+    <nd ref="8979822949"/>
+    <nd ref="8979822948"/>
+    <nd ref="8979822947"/>
+    <nd ref="8979822946"/>
+    <nd ref="8979822949"/>
   </way>
-  <way id="970350590" version="1">
+  <way id="970350590" version="1" action="modify">
+    <tag k="building" v="yes"/>
     <tag k="addr:housenumber" v="1105"/>
     <tag k="addr:street" v="Odwyer Place"/>
     <tag k="addr:city" v="Jefferson"/>
     <tag k="addr:postcode" v="70121"/>
+    <nd ref="8979822957"/>
+    <nd ref="8979822956"/>
+    <nd ref="8979822955"/>
+    <nd ref="8979822954"/>
+    <nd ref="8979822953"/>
+    <nd ref="8979822952"/>
+    <nd ref="8979822951"/>
+    <nd ref="8979822950"/>
+    <nd ref="8979822957"/>
   </way>
-  <way id="970350591" version="1">
+  <way id="970350591" version="1" action="modify">
+    <tag k="building" v="yes"/>
     <tag k="addr:housenumber" v="1101"/>
     <tag k="addr:street" v="Odwyer Place"/>
     <tag k="addr:city" v="Jefferson"/>
     <tag k="addr:postcode" v="70121"/>
+    <nd ref="8979822961"/>
+    <nd ref="8979822960"/>
+    <nd ref="8979822959"/>
+    <nd ref="8979822958"/>
+    <nd ref="8979822961"/>
   </way>
-  <way id="970350593" version="1">
+  <way id="970350593" version="1" action="modify">
+    <tag k="building" v="yes"/>
     <tag k="addr:housenumber" v="1025"/>
     <tag k="addr:street" v="Odwyer Place"/>
     <tag k="addr:city" v="Jefferson"/>
     <tag k="addr:postcode" v="70121"/>
+    <nd ref="8979822973"/>
+    <nd ref="8979822972"/>
+    <nd ref="8979822971"/>
+    <nd ref="8979822970"/>
+    <nd ref="8979822969"/>
+    <nd ref="8979822968"/>
+    <nd ref="8979822967"/>
+    <nd ref="8979822966"/>
+    <nd ref="8979822973"/>
   </way>
-  <way id="970350594" version="1">
+  <way id="970350594" version="1" action="modify">
+    <tag k="building" v="yes"/>
     <tag k="addr:housenumber" v="1021"/>
     <tag k="addr:street" v="Odwyer Place"/>
     <tag k="addr:city" v="Jefferson"/>
     <tag k="addr:postcode" v="70121"/>
+    <nd ref="8979822981"/>
+    <nd ref="8979822980"/>
+    <nd ref="8979822979"/>
+    <nd ref="8979822978"/>
+    <nd ref="8979822977"/>
+    <nd ref="8979822976"/>
+    <nd ref="8979822975"/>
+    <nd ref="8979822974"/>
+    <nd ref="8979822981"/>
   </way>
-  <way id="970350596" version="1">
+  <way id="970350596" version="1" action="modify">
+    <tag k="building" v="yes"/>
     <tag k="addr:housenumber" v="1017"/>
     <tag k="addr:street" v="Odwyer Place"/>
     <tag k="addr:city" v="Jefferson"/>
     <tag k="addr:postcode" v="70121"/>
+    <nd ref="8979822989"/>
+    <nd ref="8979822988"/>
+    <nd ref="8979822987"/>
+    <nd ref="8979822986"/>
+    <nd ref="8979822989"/>
   </way>
-  <way id="970350598" version="1">
+  <way id="970350598" version="1" action="modify">
+    <tag k="building" v="yes"/>
     <tag k="addr:housenumber" v="1013"/>
     <tag k="addr:street" v="Odwyer Place"/>
     <tag k="addr:city" v="Jefferson"/>
     <tag k="addr:postcode" v="70121"/>
+    <nd ref="8979823003"/>
+    <nd ref="8979823002"/>
+    <nd ref="8979823001"/>
+    <nd ref="8979823000"/>
+    <nd ref="8979822999"/>
+    <nd ref="8979822998"/>
+    <nd ref="8979822997"/>
+    <nd ref="8979822996"/>
+    <nd ref="8979822995"/>
+    <nd ref="8979822994"/>
+    <nd ref="8979823003"/>
   </way>
-  <way id="970350599" version="1">
+  <way id="970350599" version="1" action="modify">
+    <tag k="building" v="yes"/>
     <tag k="addr:housenumber" v="1009"/>
     <tag k="addr:street" v="Odwyer Place"/>
     <tag k="addr:city" v="Jefferson"/>
     <tag k="addr:postcode" v="70121"/>
+    <nd ref="8979823013"/>
+    <nd ref="8979823012"/>
+    <nd ref="8979823011"/>
+    <nd ref="8979823010"/>
+    <nd ref="8979823009"/>
+    <nd ref="8979823008"/>
+    <nd ref="8979823007"/>
+    <nd ref="8979823006"/>
+    <nd ref="8979823005"/>
+    <nd ref="8979823004"/>
+    <nd ref="8979823013"/>
   </way>
-  <way id="970350600" version="1">
+  <way id="970350600" version="1" action="modify">
+    <tag k="building" v="yes"/>
     <tag k="addr:housenumber" v="1005"/>
     <tag k="addr:street" v="Odwyer Place"/>
     <tag k="addr:city" v="Jefferson"/>
     <tag k="addr:postcode" v="70121"/>
+    <nd ref="8979823025"/>
+    <nd ref="8979823024"/>
+    <nd ref="8979823023"/>
+    <nd ref="8979823022"/>
+    <nd ref="8979823021"/>
+    <nd ref="8979823020"/>
+    <nd ref="8979823019"/>
+    <nd ref="8979823018"/>
+    <nd ref="8979823017"/>
+    <nd ref="8979823016"/>
+    <nd ref="8979823015"/>
+    <nd ref="8979823014"/>
+    <nd ref="8979823025"/>
   </way>
-  <way id="970350602" version="1">
+  <way id="970350602" version="1" action="modify">
+    <tag k="building" v="yes"/>
     <tag k="addr:housenumber" v="1001"/>
     <tag k="addr:street" v="Odwyer Place"/>
     <tag k="addr:city" v="Jefferson"/>
     <tag k="addr:postcode" v="70121"/>
+    <nd ref="8979823037"/>
+    <nd ref="8979823036"/>
+    <nd ref="8979823035"/>
+    <nd ref="8979823034"/>
+    <nd ref="8979823033"/>
+    <nd ref="8979823032"/>
+    <nd ref="8979823031"/>
+    <nd ref="8979823030"/>
+    <nd ref="8979823037"/>
   </way>
-  <way id="970350604" version="1">
+  <way id="970350604" version="1" action="modify">
+    <tag k="building" v="yes"/>
     <tag k="addr:housenumber" v="925"/>
     <tag k="addr:street" v="Odwyer Place"/>
     <tag k="addr:city" v="Jefferson"/>
     <tag k="addr:postcode" v="70121"/>
+    <nd ref="8979823045"/>
+    <nd ref="8979823044"/>
+    <nd ref="8979823043"/>
+    <nd ref="8979823042"/>
+    <nd ref="8979823045"/>
   </way>
-  <way id="970350605" version="1">
+  <way id="970350605" version="1" action="modify">
+    <tag k="building" v="yes"/>
     <tag k="addr:housenumber" v="921"/>
     <tag k="addr:street" v="Odwyer Place"/>
     <tag k="addr:city" v="Jefferson"/>
     <tag k="addr:postcode" v="70121"/>
+    <nd ref="8979823053"/>
+    <nd ref="8979823052"/>
+    <nd ref="8979823051"/>
+    <nd ref="8979823050"/>
+    <nd ref="8979823049"/>
+    <nd ref="8979823048"/>
+    <nd ref="8979823047"/>
+    <nd ref="8979823046"/>
+    <nd ref="8979823053"/>
   </way>
-  <way id="970350607" version="1">
+  <way id="970350607" version="1" action="modify">
+    <tag k="building" v="yes"/>
     <tag k="addr:housenumber" v="917"/>
     <tag k="addr:street" v="Odwyer Place"/>
     <tag k="addr:city" v="Jefferson"/>
     <tag k="addr:postcode" v="70121"/>
+    <nd ref="8979823065"/>
+    <nd ref="8979823064"/>
+    <nd ref="8979823063"/>
+    <nd ref="8979823062"/>
+    <nd ref="8979823061"/>
+    <nd ref="8979823060"/>
+    <nd ref="8979823059"/>
+    <nd ref="8979823058"/>
+    <nd ref="8979823065"/>
   </way>
-  <way id="970350609" version="1">
+  <way id="970350609" version="1" action="modify">
+    <tag k="building" v="yes"/>
     <tag k="addr:housenumber" v="913"/>
     <tag k="addr:street" v="Odwyer Place"/>
     <tag k="addr:city" v="Jefferson"/>
     <tag k="addr:postcode" v="70121"/>
+    <nd ref="8979823081"/>
+    <nd ref="8979823080"/>
+    <nd ref="8979823079"/>
+    <nd ref="8979823078"/>
+    <nd ref="8979823077"/>
+    <nd ref="8979823066"/>
+    <nd ref="8979823076"/>
+    <nd ref="8979823075"/>
+    <nd ref="8979823074"/>
+    <nd ref="8979823073"/>
+    <nd ref="8979823072"/>
+    <nd ref="8979823081"/>
   </way>
-  <way id="970350611" version="1">
+  <way id="970350611" version="1" action="modify">
+    <tag k="building" v="yes"/>
     <tag k="addr:housenumber" v="909"/>
     <tag k="addr:street" v="Odwyer Place"/>
     <tag k="addr:city" v="Jefferson"/>
     <tag k="addr:postcode" v="70121"/>
+    <nd ref="8979823089"/>
+    <nd ref="8979823088"/>
+    <nd ref="8979823087"/>
+    <nd ref="8979823086"/>
+    <nd ref="8979823089"/>
   </way>
-  <way id="970350613" version="1">
+  <way id="970350613" version="1" action="modify">
+    <tag k="building" v="yes"/>
     <tag k="addr:housenumber" v="905"/>
     <tag k="addr:street" v="Odwyer Place"/>
     <tag k="addr:city" v="Jefferson"/>
     <tag k="addr:postcode" v="70121"/>
+    <nd ref="8979823105"/>
+    <nd ref="8979823104"/>
+    <nd ref="8979823103"/>
+    <nd ref="8979823102"/>
+    <nd ref="8979823101"/>
+    <nd ref="8979823100"/>
+    <nd ref="8979823099"/>
+    <nd ref="8979823098"/>
+    <nd ref="8979823105"/>
   </way>
-  <way id="970350615" version="1">
+  <way id="970350615" version="1" action="modify">
+    <tag k="building" v="yes"/>
     <tag k="addr:housenumber" v="901"/>
     <tag k="addr:street" v="Odwyer Place"/>
     <tag k="addr:city" v="Jefferson"/>
     <tag k="addr:postcode" v="70121"/>
+    <nd ref="8979823113"/>
+    <nd ref="8979823112"/>
+    <nd ref="8979823111"/>
+    <nd ref="8979823110"/>
+    <nd ref="8979823113"/>
   </way>
-  <way id="970350677" version="1">
+  <way id="970350677" version="1" action="modify">
+    <tag k="building" v="yes"/>
     <tag k="addr:housenumber" v="123"/>
     <tag k="addr:street" v="Goldsmith Street"/>
     <tag k="addr:city" v="Jefferson"/>
     <tag k="addr:postcode" v="70121"/>
+    <nd ref="8979823539"/>
+    <nd ref="8979823538"/>
+    <nd ref="8979823537"/>
+    <nd ref="8979823536"/>
+    <nd ref="8979823535"/>
+    <nd ref="8979823534"/>
+    <nd ref="8979823533"/>
+    <nd ref="8979823532"/>
+    <nd ref="8979823539"/>
   </way>
   <node visible="true" id="-10" lat="29.95807148478346348952072731" lon="-90.13485131199357169862196315">
     <tag k="addr:housenumber" v="127"/>
@@ -309,28 +703,66 @@
     <tag k="addr:city" v="Jefferson"/>
     <tag k="addr:postcode" v="70121"/>
   </node>
-  <way id="970350688" version="1">
+  <way id="970350688" version="1" action="modify">
+    <tag k="building" v="yes"/>
     <tag k="addr:housenumber" v="130"/>
     <tag k="addr:street" v="Goldsmith Street"/>
     <tag k="addr:city" v="Jefferson"/>
     <tag k="addr:postcode" v="70121"/>
+    <nd ref="8979823599"/>
+    <nd ref="8979823598"/>
+    <nd ref="8979823597"/>
+    <nd ref="8979823596"/>
+    <nd ref="8979823595"/>
+    <nd ref="8979823594"/>
+    <nd ref="8979823593"/>
+    <nd ref="8979823592"/>
+    <nd ref="8979823591"/>
+    <nd ref="8979823590"/>
+    <nd ref="8979823589"/>
+    <nd ref="8979823588"/>
+    <nd ref="8979823599"/>
   </way>
-  <way id="970350689" version="1">
+  <way id="970350689" version="1" action="modify">
+    <tag k="building" v="yes"/>
     <tag k="addr:housenumber" v="128"/>
     <tag k="addr:street" v="Goldsmith Street"/>
     <tag k="addr:city" v="Jefferson"/>
     <tag k="addr:postcode" v="70121"/>
+    <nd ref="8979823607"/>
+    <nd ref="8979823606"/>
+    <nd ref="8979823605"/>
+    <nd ref="8979823604"/>
+    <nd ref="8979823603"/>
+    <nd ref="8979823602"/>
+    <nd ref="8979823601"/>
+    <nd ref="8979823600"/>
+    <nd ref="8979823607"/>
   </way>
-  <way id="970350690" version="1">
+  <way id="970350690" version="1" action="modify">
+    <tag k="building" v="yes"/>
     <tag k="addr:housenumber" v="124"/>
     <tag k="addr:street" v="Goldsmith Street"/>
     <tag k="addr:city" v="Jefferson"/>
     <tag k="addr:postcode" v="70121"/>
+    <nd ref="8979823611"/>
+    <nd ref="8979823610"/>
+    <nd ref="8979823609"/>
+    <nd ref="8979823608"/>
+    <nd ref="8979823611"/>
   </way>
-  <way id="970350691" version="1">
+  <way id="970350691" version="1" action="modify">
+    <tag k="building" v="yes"/>
     <tag k="addr:housenumber" v="126"/>
     <tag k="addr:street" v="Goldsmith Street"/>
     <tag k="addr:city" v="Jefferson"/>
     <tag k="addr:postcode" v="70121"/>
+    <nd ref="8979823617"/>
+    <nd ref="8979823616"/>
+    <nd ref="8979823615"/>
+    <nd ref="8979823614"/>
+    <nd ref="8979823613"/>
+    <nd ref="8979823612"/>
+    <nd ref="8979823617"/>
   </way>
 </osm>

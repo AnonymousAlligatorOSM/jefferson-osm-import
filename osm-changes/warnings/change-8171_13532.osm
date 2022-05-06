@@ -3,10 +3,10 @@
   <changeset_tag k="comment" v="Import buildings and addresses in Jefferson Parish, see https://wiki.openstreetmap.org/wiki/Import/Catalogue/Jefferson_Parish_Addresses_and_Buildings"/>
   <changeset_tag k="source" v="Jefferson Parish Planning Department"/>
   <changeset_tag k="source_file" v="8171_13532"/>
-  <node visible="true" id="-1" lat="29.87233725300097830768208951" lon="-90.22878580809555160158197396"/>
-  <node visible="true" id="-2" lat="29.87230164886673122737192898" lon="-90.22878907047834218246862292"/>
-  <node visible="true" id="-3" lat="29.87230806992534937194250233" lon="-90.22888367932932851545047015"/>
-  <node visible="true" id="-4" lat="29.87234054903880320352982380" lon="-90.22888045050608241126610665"/>
+  <node visible="true" id="-1" lat="29.87230213054663252592035860" lon="-90.22878875940536147481907392"/>
+  <node visible="true" id="-2" lat="29.87230755109720092832503724" lon="-90.22888334220168360388925066"/>
+  <node visible="true" id="-3" lat="29.87234162986851870869031700" lon="-90.22888074479928377513715532"/>
+  <node visible="true" id="-4" lat="29.87233620931966271427882020" lon="-90.22878616200294743521226337"/>
   <way visible="true" id="-1">
     <nd ref="-1"/>
     <nd ref="-2"/>
@@ -19,14 +19,14 @@
     <tag k="addr:city" v="Avondale"/>
     <tag k="addr:postcode" v="70094"/>
   </way>
-  <node visible="true" id="-5" lat="29.87712749356887442786501197" lon="-90.22647331972652295917214360"/>
-  <node visible="true" id="-6" lat="29.87710529666367165191331878" lon="-90.22643554870435878001444507"/>
-  <node visible="true" id="-7" lat="29.87699848031611438159416139" lon="-90.22651922162212656530755339"/>
-  <node visible="true" id="-8" lat="29.87699024516751578062212502" lon="-90.22650640210440542432479560"/>
-  <node visible="true" id="-9" lat="29.87695485847139309498743387" lon="-90.22653548669093481748859631"/>
-  <node visible="true" id="-10" lat="29.87696308667638689371415239" lon="-90.22654758884476677849306725"/>
-  <node visible="true" id="-11" lat="29.87691962873598328087609843" lon="-90.22658321877281650813529268"/>
-  <node visible="true" id="-12" lat="29.87693929467629416762974870" lon="-90.22661743061455297265638364"/>
+  <node visible="true" id="-5" lat="29.87710520583438977837431594" lon="-90.22643549312986976929096272"/>
+  <node visible="true" id="-6" lat="29.87699830542217682705086190" lon="-90.22651948597827242792845936"/>
+  <node visible="true" id="-7" lat="29.87699072967782853993412573" lon="-90.22650666186248713529494125"/>
+  <node visible="true" id="-8" lat="29.87695496852751020355754008" lon="-90.22653475977564596632873872"/>
+  <node visible="true" id="-9" lat="29.87696301771179818729251565" lon="-90.22654838531919097022182541"/>
+  <node visible="true" id="-10" lat="29.87691914331908904500778590" lon="-90.22658285788155296813783934"/>
+  <node visible="true" id="-11" lat="29.87694023893617867315697367" lon="-90.22661856822865900085162139"/>
+  <node visible="true" id="-12" lat="29.87712677484852719089758466" lon="-90.22647200490476393497374374"/>
   <way visible="true" id="-2">
     <nd ref="-5"/>
     <nd ref="-6"/>
@@ -42,7 +42,7 @@
     <tag k="addr:street" v="Highway 90"/>
     <tag k="addr:city" v="Avondale"/>
     <tag k="addr:postcode" v="70094"/>
-    <tag k="addr:unit" v="Heli Bldg"/>
+    <tag k="addr:unit" v="HELI BLDG"/>
   </way>
   <node visible="true" id="-13" lat="29.87228762149406335879575636" lon="-90.22883121814265905413776636">
     <tag k="addr:housenumber" v="3901"/>
@@ -56,21 +56,21 @@
     <tag k="addr:street" v="Highway 90"/>
     <tag k="addr:city" v="Avondale"/>
     <tag k="addr:postcode" v="70094"/>
-    <tag k="addr:unit" v="Sh"/>
+    <tag k="addr:unit" v="SH"/>
   </node>
   <node visible="true" id="-15" lat="29.87113549957255642652853567" lon="-90.22846489966026695128675783">
     <tag k="addr:housenumber" v="3901"/>
     <tag k="addr:street" v="Highway 90"/>
     <tag k="addr:city" v="Avondale"/>
     <tag k="addr:postcode" v="70094"/>
-    <tag k="addr:unit" v="Sh"/>
+    <tag k="addr:unit" v="SH"/>
   </node>
   <node visible="true" id="-16" lat="29.87232527711351792731875321" lon="-90.22889957111868852734914981">
     <tag k="addr:housenumber" v="3901"/>
     <tag k="addr:street" v="Highway 90"/>
     <tag k="addr:city" v="Avondale"/>
     <tag k="addr:postcode" v="70094"/>
-    <tag k="addr:unit" v="Tp"/>
+    <tag k="addr:unit" v="TP"/>
   </node>
   <node visible="true" id="-17" lat="29.87297969589202750739787007" lon="-90.22866217033082136822486063">
     <tag k="addr:housenumber" v="3901"/>
@@ -84,7 +84,7 @@
     <tag k="addr:street" v="Highway 90"/>
     <tag k="addr:city" v="Avondale"/>
     <tag k="addr:postcode" v="70094"/>
-    <tag k="addr:unit" v="Sh"/>
+    <tag k="addr:unit" v="SH"/>
   </node>
   <node visible="true" id="-19" lat="29.87229355539661312946009275" lon="-90.22886977126152885375631740">
     <tag k="addr:housenumber" v="3901"/>
@@ -98,6 +98,6 @@
     <tag k="addr:street" v="Highway 90"/>
     <tag k="addr:city" v="Avondale"/>
     <tag k="addr:postcode" v="70094"/>
-    <tag k="addr:unit" v="Bp"/>
+    <tag k="addr:unit" v="BP"/>
   </node>
 </osm>

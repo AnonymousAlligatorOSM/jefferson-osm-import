@@ -3,10 +3,10 @@
   <changeset_tag k="comment" v="Import buildings and addresses in Jefferson Parish, see https://wiki.openstreetmap.org/wiki/Import/Catalogue/Jefferson_Parish_Addresses_and_Buildings"/>
   <changeset_tag k="source" v="Jefferson Parish Planning Department"/>
   <changeset_tag k="source_file" v="8167_13519"/>
-  <node visible="true" id="-1" lat="30.00095733173669643178982369" lon="-90.26601102868757209307659650"/>
-  <node visible="true" id="-2" lat="30.00092545414764799716067500" lon="-90.26601136983006767877668608"/>
-  <node visible="true" id="-3" lat="30.00093130234663973965325567" lon="-90.26619300899317011044331593"/>
-  <node visible="true" id="-4" lat="30.00096630580908652063953923" lon="-90.26619263446245611248741625"/>
+  <node visible="true" id="-1" lat="30.00092521488226893211503921" lon="-90.26601195548695955039875116"/>
+  <node visible="true" id="-2" lat="30.00093158379811697500372247" lon="-90.26619362667358359431091230"/>
+  <node visible="true" id="-3" lat="30.00096498213676099453550705" lon="-90.26619206549966634156589862"/>
+  <node visible="true" id="-4" lat="30.00095861322303392171306768" lon="-90.26601039431304229765373748"/>
   <way visible="true" id="-1">
     <nd ref="-1"/>
     <nd ref="-2"/>
@@ -14,15 +14,16 @@
     <nd ref="-4"/>
     <nd ref="-1"/>
     <tag k="building" v="yes"/>
+    <tag k="building:levels" v="2"/>
   </way>
-  <node visible="true" id="-5" lat="30.00220634775224226586942677" lon="-90.26614104023688867073360598"/>
-  <node visible="true" id="-6" lat="30.00216382071674203757538635" lon="-90.26613862194858484144788235"/>
-  <node visible="true" id="-7" lat="30.00216367518447668771841563" lon="-90.26612066922957922088244231"/>
-  <node visible="true" id="-8" lat="30.00212550018514079397391470" lon="-90.26611533207122306521341670"/>
-  <node visible="true" id="-9" lat="30.00211291911200106596879777" lon="-90.26625982435383832580555463"/>
-  <node visible="true" id="-10" lat="30.00215421997796028108496103" lon="-90.26626512812241287520009791"/>
-  <node visible="true" id="-11" lat="30.00215122216109975283870881" lon="-90.26628096049674354617309291"/>
-  <node visible="true" id="-12" lat="30.00219251720419677553763904" lon="-90.26628554600129916707373923"/>
+  <node visible="true" id="-5" lat="30.00216896305069980144253350" lon="-90.26613744140247774794261204"/>
+  <node visible="true" id="-6" lat="30.00215720954265563591434329" lon="-90.26611987162431205433676951"/>
+  <node visible="true" id="-7" lat="30.00212723060453967605099024" lon="-90.26611542776073804361658404"/>
+  <node visible="true" id="-8" lat="30.00211125103225739962908847" lon="-90.26625916790162307279388187"/>
+  <node visible="true" id="-9" lat="30.00215356639184705045408919" lon="-90.26626544042754574093123665"/>
+  <node visible="true" id="-10" lat="30.00215191497758482341851050" lon="-90.26628029530523633638949832"/>
+  <node visible="true" id="-11" lat="30.00219133426881512605177704" lon="-90.26628613854101956803788198"/>
+  <node visible="true" id="-12" lat="30.00220723422507518307611463" lon="-90.26614311445050020665803459"/>
   <way visible="true" id="-2">
     <nd ref="-5"/>
     <nd ref="-6"/>
@@ -34,6 +35,7 @@
     <nd ref="-12"/>
     <nd ref="-5"/>
     <tag k="building" v="yes"/>
+    <tag k="building:levels" v="2"/>
     <tag k="addr:housenumber" v="2601"/>
     <tag k="addr:street" v="Aberdeen Street"/>
     <tag k="addr:city" v="Kenner"/>
@@ -70,6 +72,7 @@
     <nd ref="-26"/>
     <nd ref="-13"/>
     <tag k="building" v="yes"/>
+    <tag k="building:levels" v="2"/>
   </way>
   <node visible="true" id="-27" lat="30.00211309802679338076814020" lon="-90.26842746129490535622608149">
     <tag k="addr:housenumber" v="2602"/>
@@ -83,10 +86,10 @@
     <tag k="addr:city" v="Kenner"/>
     <tag k="addr:postcode" v="70062"/>
   </node>
-  <node visible="true" id="-29" lat="29.99909003720834377304527152" lon="-90.27045385918525255419808673"/>
-  <node visible="true" id="-30" lat="29.99908660983634689500831882" lon="-90.27041655061262304116098676"/>
-  <node visible="true" id="-31" lat="29.99890720912922148500001640" lon="-90.27043557870013046340318397"/>
-  <node visible="true" id="-32" lat="29.99891511113101927321622497" lon="-90.27047888351086157854297198"/>
+  <node visible="true" id="-29" lat="29.99859718270570496656546311" lon="-90.26853326885348849373258417"/>
+  <node visible="true" id="-30" lat="29.99860968336703592740377644" lon="-90.26867992172540766659949441"/>
+  <node visible="true" id="-31" lat="29.99865523703734027094469639" lon="-90.26867474455531237254035659"/>
+  <node visible="true" id="-32" lat="29.99864273638174338998396706" lon="-90.26852809168339319967344636"/>
   <way visible="true" id="-4">
     <nd ref="-29"/>
     <nd ref="-30"/>
@@ -94,11 +97,12 @@
     <nd ref="-32"/>
     <nd ref="-29"/>
     <tag k="building" v="yes"/>
+    <tag k="building:levels" v="2"/>
   </way>
-  <node visible="true" id="-33" lat="30.00147304778566592631250387" lon="-90.27215095184565996078163153"/>
-  <node visible="true" id="-34" lat="30.00147338930925755562384438" lon="-90.27219332148256114578543929"/>
-  <node visible="true" id="-35" lat="30.00160777573895742875720316" lon="-90.27219189164823376358981477"/>
-  <node visible="true" id="-36" lat="30.00160743421493947380440659" lon="-90.27214952195424757519504055"/>
+  <node visible="true" id="-33" lat="29.99908618477013177994194848" lon="-90.27041403764779659013584023"/>
+  <node visible="true" id="-34" lat="29.99890920488547507716248219" lon="-90.27043788006466229489888065"/>
+  <node visible="true" id="-35" lat="29.99891329888618685117762652" lon="-90.27047839835663012308941688"/>
+  <node visible="true" id="-36" lat="29.99909027876347877850093937" lon="-90.27045455593979284003580688"/>
   <way visible="true" id="-5">
     <nd ref="-33"/>
     <nd ref="-34"/>
@@ -106,11 +110,12 @@
     <nd ref="-36"/>
     <nd ref="-33"/>
     <tag k="building" v="yes"/>
+    <tag k="building:levels" v="2"/>
   </way>
-  <node visible="true" id="-37" lat="29.99864335188305375368145178" lon="-90.26852696515999241455574520"/>
-  <node visible="true" id="-38" lat="29.99859685426764244198238885" lon="-90.26853436275216324702341808"/>
-  <node visible="true" id="-39" lat="29.99861004004587172744322743" lon="-90.26867915913705076036421815"/>
-  <node visible="true" id="-40" lat="29.99865459329530281706865935" lon="-90.26867553976839531060250010"/>
+  <node visible="true" id="-37" lat="30.00147338797626872519686003" lon="-90.27219332306503929430618882"/>
+  <node visible="true" id="-38" lat="30.00160777438089709789892368" lon="-90.27219189009446154159377329"/>
+  <node visible="true" id="-39" lat="30.00160743554838305158227740" lon="-90.27214952040030482294241665"/>
+  <node visible="true" id="-40" lat="30.00147304914422008437213663" lon="-90.27215095337088257565483218"/>
   <way visible="true" id="-6">
     <nd ref="-37"/>
     <nd ref="-38"/>
@@ -118,11 +123,12 @@
     <nd ref="-40"/>
     <nd ref="-37"/>
     <tag k="building" v="yes"/>
+    <tag k="building:levels" v="2"/>
   </way>
-  <node visible="true" id="-41" lat="30.00029413060497063270304352" lon="-90.27339733923730591413914226"/>
-  <node visible="true" id="-42" lat="30.00029082060785157182181138" lon="-90.27337439222476689337781863"/>
-  <node visible="true" id="-43" lat="30.00018589777952371377978125" lon="-90.27338628007630916272319155"/>
-  <node visible="true" id="-44" lat="30.00018795832666640421848570" lon="-90.27340924034346869575529126"/>
+  <node visible="true" id="-41" lat="30.00029141104098684422751830" lon="-90.27337399339704404610529309"/>
+  <node visible="true" id="-42" lat="30.00018592776505244046347798" lon="-90.27338660472821629809914157"/>
+  <node visible="true" id="-43" lat="30.00018799261967927805017098" lon="-90.27340963254388839231978636"/>
+  <node visible="true" id="-44" lat="30.00029347589332218149138498" lon="-90.27339702121273035118065309"/>
   <way visible="true" id="-7">
     <nd ref="-41"/>
     <nd ref="-42"/>
@@ -130,11 +136,12 @@
     <nd ref="-44"/>
     <nd ref="-41"/>
     <tag k="building" v="yes"/>
+    <tag k="building:levels" v="2"/>
   </way>
-  <node visible="true" id="-45" lat="30.00040972673749450905233971" lon="-90.26610293132344509103859309"/>
-  <node visible="true" id="-46" lat="30.00037597362159402791803586" lon="-90.26610329250401321132812882"/>
-  <node visible="true" id="-47" lat="30.00037914637380964677504380" lon="-90.26626341371955675185745349"/>
-  <node visible="true" id="-48" lat="30.00041414983946097549960541" lon="-90.26626303921561600418499438"/>
+  <node visible="true" id="-45" lat="30.00037591646659862476553826" lon="-90.26610357707093612589233089"/>
+  <node visible="true" id="-46" lat="30.00037921539914975710416911" lon="-90.26626370533185195199621376"/>
+  <node visible="true" id="-47" lat="30.00041358181900719159784785" lon="-90.26626276131038650873961160"/>
+  <node visible="true" id="-48" lat="30.00041028288760713849114836" lon="-90.26610263304948489349044394"/>
   <way visible="true" id="-8">
     <nd ref="-45"/>
     <nd ref="-46"/>
@@ -147,10 +154,10 @@
     <tag k="addr:city" v="Kenner"/>
     <tag k="addr:postcode" v="70062"/>
   </way>
-  <node visible="true" id="-49" lat="30.00089247851203566597177996" lon="-90.27465499476258514732762706"/>
-  <node visible="true" id="-50" lat="30.00092685682367843469364743" lon="-90.27465462983799682206154102"/>
-  <node visible="true" id="-51" lat="30.00092660272040490099243470" lon="-90.27462303234466389767476358"/>
-  <node visible="true" id="-52" lat="30.00089220707995707471127389" lon="-90.27462124248235397772077704"/>
+  <node visible="true" id="-49" lat="30.00092685682274407099612290" lon="-90.27465462983799682206154102"/>
+  <node visible="true" id="-50" lat="30.00092660272044042812922271" lon="-90.27462303234466389767476358"/>
+  <node visible="true" id="-51" lat="30.00089220708007076154899551" lon="-90.27462124248235397772077704"/>
+  <node visible="true" id="-52" lat="30.00089247851202856054442236" lon="-90.27465499476258514732762706"/>
   <way visible="true" id="-9">
     <nd ref="-49"/>
     <nd ref="-50"/>
@@ -159,12 +166,12 @@
     <nd ref="-49"/>
     <tag k="building" v="yes"/>
   </way>
-  <node visible="true" id="-53" lat="30.00234231065035217511649535" lon="-90.26894355441726247590850107"/>
-  <node visible="true" id="-54" lat="30.00242177377311136865500885" lon="-90.26895276102247578364767833"/>
-  <node visible="true" id="-55" lat="30.00243332901424153646985360" lon="-90.26883557130045687699748669"/>
-  <node visible="true" id="-56" lat="30.00237826550307218553825805" lon="-90.26882897667316285605920712"/>
-  <node visible="true" id="-57" lat="30.00237595152431069323029078" lon="-90.26885198404998789101227885"/>
-  <node visible="true" id="-58" lat="30.00235092002056447313407261" lon="-90.26884866056505529741116334"/>
+  <node visible="true" id="-53" lat="30.00242206219695617619436234" lon="-90.26895312582220753938599955"/>
+  <node visible="true" id="-54" lat="30.00243299922078676900127903" lon="-90.26883565085370264569064602"/>
+  <node visible="true" id="-55" lat="30.00237819159033847427053843" lon="-90.26882884700358999907621183"/>
+  <node visible="true" id="-56" lat="30.00237604646994427071149403" lon="-90.26885188780596536162192933"/>
+  <node visible="true" id="-57" lat="30.00235102146002574841077148" lon="-90.26884878118843857919273432"/>
+  <node visible="true" id="-58" lat="30.00234222954797758120548679" lon="-90.26894321535456811034237035"/>
   <way visible="true" id="-10">
     <nd ref="-53"/>
     <nd ref="-54"/>
@@ -179,10 +186,10 @@
     <tag k="addr:city" v="Kenner"/>
     <tag k="addr:postcode" v="70062"/>
   </way>
-  <node visible="true" id="-59" lat="29.99945593871739291103040159" lon="-90.26890666308119648419960868"/>
-  <node visible="true" id="-60" lat="29.99937099197517298421189480" lon="-90.26892167375979170174105093"/>
-  <node visible="true" id="-61" lat="29.99938412842790214085653133" lon="-90.26902169883943827244365821"/>
-  <node visible="true" id="-62" lat="29.99946715671874741815372545" lon="-90.26900887403407125475496287"/>
+  <node visible="true" id="-59" lat="29.99937136469623766288350453" lon="-90.26892103441360859505948611"/>
+  <node visible="true" id="-60" lat="29.99938372924945539921282034" lon="-90.26902212188052487817913061"/>
+  <node visible="true" id="-61" lat="29.99946774321813336428022012" lon="-90.26900842044364026151015423"/>
+  <node visible="true" id="-62" lat="29.99945537867537481702129298" lon="-90.26890733297672397839050973"/>
   <way visible="true" id="-11">
     <nd ref="-59"/>
     <nd ref="-60"/>
@@ -195,10 +202,10 @@
     <tag k="addr:city" v="Kenner"/>
     <tag k="addr:postcode" v="70062"/>
   </way>
-  <node visible="true" id="-63" lat="29.99836309687189128680984140" lon="-90.27034497459975170841062209"/>
-  <node visible="true" id="-64" lat="29.99835799674166736394909094" lon="-90.27026487061945658751938026"/>
-  <node visible="true" id="-65" lat="29.99829197641440714505733922" lon="-90.27026983751956379364855820"/>
-  <node visible="true" id="-66" lat="29.99829633499206593683084066" lon="-90.27034994935040401742298855"/>
+  <node visible="true" id="-63" lat="29.99835823458116124129446689" lon="-90.27026479945740788934926968"/>
+  <node visible="true" id="-64" lat="29.99829185095430261753790546" lon="-90.27026990004692663660534890"/>
+  <node visible="true" id="-65" lat="29.99829646793043025354563724" lon="-90.27035001658718726957886247"/>
+  <node visible="true" id="-66" lat="29.99836285155430815052568505" lon="-90.27034491599766852232278325"/>
   <way visible="true" id="-12">
     <nd ref="-63"/>
     <nd ref="-64"/>
@@ -207,10 +214,10 @@
     <nd ref="-63"/>
     <tag k="building" v="yes"/>
   </way>
-  <node visible="true" id="-67" lat="29.99920010255491931161486718" lon="-90.26865905588907423862110591"/>
-  <node visible="true" id="-68" lat="29.99919680544766720231564250" lon="-90.26862285710120659132371657"/>
-  <node visible="true" id="-69" lat="29.99903985192673161463972065" lon="-90.26863162972935583638900425"/>
-  <node visible="true" id="-70" lat="29.99904267786478229140811891" lon="-90.26867181790588290368759772"/>
+  <node visible="true" id="-67" lat="29.99919734597791531882648997" lon="-90.26862130356893487714842195"/>
+  <node visible="true" id="-68" lat="29.99904021575275336886079458" lon="-90.26863311527982602910924470"/>
+  <node visible="true" id="-69" lat="29.99904237292090414257472730" lon="-90.26867137674383911871700548"/>
+  <node visible="true" id="-70" lat="29.99919950314237837574182777" lon="-90.26865956503296217761089792"/>
   <way visible="true" id="-13">
     <nd ref="-67"/>
     <nd ref="-68"/>
@@ -223,10 +230,10 @@
     <tag k="addr:city" v="Kenner"/>
     <tag k="addr:postcode" v="70062"/>
   </way>
-  <node visible="true" id="-71" lat="30.00235481283766247884159384" lon="-90.27014140263045760548266117"/>
-  <node visible="true" id="-72" lat="30.00225097249565564538897888" lon="-90.27013245495764692805096274"/>
-  <node visible="true" id="-73" lat="30.00224077083461438064659887" lon="-90.27026255787141906239412492"/>
-  <node visible="true" id="-74" lat="30.00234337332076250959289609" lon="-90.27027295554900376828300068"/>
+  <node visible="true" id="-71" lat="30.00225093143306764886801830" lon="-90.27013160893773147108731791"/>
+  <node visible="true" id="-72" lat="30.00224088010152101446692541" lon="-90.27026251561200353989988798"/>
+  <node visible="true" id="-73" lat="30.00234403331647925483594008" lon="-90.27027307656652510559069924"/>
+  <node visible="true" id="-74" lat="30.00235408463766262343597191" lon="-90.27014216989228145848755958"/>
   <way visible="true" id="-14">
     <nd ref="-71"/>
     <nd ref="-72"/>
@@ -247,10 +254,10 @@
     <tag k="addr:city" v="Kenner"/>
     <tag k="addr:postcode" v="70062"/>
   </node>
-  <node visible="true" id="-77" lat="30.00041184695516705005502445" lon="-90.26640301684864198250579648"/>
-  <node visible="true" id="-78" lat="30.00041430569280365148188139" lon="-90.26633569713877136564406101"/>
-  <node visible="true" id="-79" lat="30.00028365591645851395696809" lon="-90.26633709487117585013038479"/>
-  <node visible="true" id="-80" lat="30.00028723331345048563889577" lon="-90.26640780056770552164380206"/>
+  <node visible="true" id="-77" lat="29.99818528429980801774945576" lon="-90.27394170319156785353698069"/>
+  <node visible="true" id="-78" lat="29.99808281054799508069663716" lon="-90.27395273456299662484525470"/>
+  <node visible="true" id="-79" lat="29.99808991418764492209447781" lon="-90.27404071502829197015671525"/>
+  <node visible="true" id="-80" lat="29.99819238793211795268689457" lon="-90.27402968365687740970315645"/>
   <way visible="true" id="-15">
     <nd ref="-77"/>
     <nd ref="-78"/>
@@ -259,10 +266,10 @@
     <nd ref="-77"/>
     <tag k="building" v="yes"/>
   </way>
-  <node visible="true" id="-81" lat="29.99819194659503196476180165" lon="-90.27402992320529051539779175"/>
-  <node visible="true" id="-82" lat="29.99818576699882299863020307" lon="-90.27394197592123248341522412"/>
-  <node visible="true" id="-83" lat="29.99808188426489863331880770" lon="-90.27395250958539918428868987"/>
-  <node visible="true" id="-84" lat="29.99809079910871290053364646" lon="-90.27404042772782588599511655"/>
+  <node visible="true" id="-81" lat="30.00041184695516705005502445" lon="-90.26640301684864198250579648"/>
+  <node visible="true" id="-82" lat="30.00041430569280365148188139" lon="-90.26633569713877136564406101"/>
+  <node visible="true" id="-83" lat="30.00028365591645851395696809" lon="-90.26633709487117585013038479"/>
+  <node visible="true" id="-84" lat="30.00028723331345048563889577" lon="-90.26640780056770552164380206"/>
   <way visible="true" id="-16">
     <nd ref="-81"/>
     <nd ref="-82"/>
@@ -355,11 +362,21 @@
     <tag k="addr:city" v="Kenner"/>
     <tag k="addr:postcode" v="70062"/>
   </node>
-  <way id="923454468" version="1">
+  <way id="923454468" version="1" action="modify">
+    <tag k="building" v="yes"/>
     <tag k="addr:housenumber" v="2610"/>
     <tag k="addr:street" v="Decatur Street"/>
     <tag k="addr:city" v="Kenner"/>
     <tag k="addr:postcode" v="70062"/>
+    <nd ref="8572369210"/>
+    <nd ref="8572369211"/>
+    <nd ref="8572369212"/>
+    <nd ref="8572369213"/>
+    <nd ref="8572369214"/>
+    <nd ref="8572369215"/>
+    <nd ref="8572369216"/>
+    <nd ref="8572369217"/>
+    <nd ref="8572369210"/>
   </way>
   <node visible="true" id="-99" lat="30.00223913129961772483511595" lon="-90.26469506478608195720880758">
     <tag k="addr:housenumber" v="2602"/>
@@ -433,11 +450,19 @@
     <tag k="addr:city" v="Kenner"/>
     <tag k="addr:postcode" v="70062"/>
   </node>
-  <way id="923595980" version="1">
+  <way id="923595980" version="1" action="modify">
+    <tag k="building" v="yes"/>
     <tag k="addr:housenumber" v="2609"/>
     <tag k="addr:street" v="Aberdeen Street"/>
     <tag k="addr:city" v="Kenner"/>
     <tag k="addr:postcode" v="70062"/>
+    <nd ref="8573447332"/>
+    <nd ref="8573447333"/>
+    <nd ref="8573447334"/>
+    <nd ref="8573447335"/>
+    <nd ref="8573447336"/>
+    <nd ref="8573447337"/>
+    <nd ref="8573447332"/>
   </way>
   <node visible="true" id="-111" lat="30.00232537887732320314171375" lon="-90.26615711549837328675494064">
     <tag k="addr:housenumber" v="2607"/>
@@ -541,11 +566,21 @@
     <tag k="addr:city" v="Kenner"/>
     <tag k="addr:postcode" v="70062"/>
   </node>
-  <way id="923595999" version="1">
+  <way id="923595999" version="1" action="modify">
+    <tag k="building" v="yes"/>
     <tag k="addr:housenumber" v="2600"/>
     <tag k="addr:street" v="Kingston Street"/>
     <tag k="addr:city" v="Kenner"/>
     <tag k="addr:postcode" v="70062"/>
+    <nd ref="8573447442"/>
+    <nd ref="8573447443"/>
+    <nd ref="8573447444"/>
+    <nd ref="8573447445"/>
+    <nd ref="8573447446"/>
+    <nd ref="8573447447"/>
+    <nd ref="8573447448"/>
+    <nd ref="8573447449"/>
+    <nd ref="8573447442"/>
   </way>
   <node visible="true" id="-128" lat="30.00226552958414316663038335" lon="-90.26926612788001591525244294">
     <tag k="addr:housenumber" v="2610"/>
@@ -589,11 +624,17 @@
     <tag k="addr:city" v="Kenner"/>
     <tag k="addr:postcode" v="70062"/>
   </node>
-  <way id="923596007" version="1">
+  <way id="923596007" version="1" action="modify">
+    <tag k="building" v="yes"/>
     <tag k="addr:housenumber" v="2614"/>
     <tag k="addr:street" v="Richland Street"/>
     <tag k="addr:city" v="Kenner"/>
     <tag k="addr:postcode" v="70062"/>
+    <nd ref="8573447486"/>
+    <nd ref="8573447487"/>
+    <nd ref="8573447488"/>
+    <nd ref="8573447489"/>
+    <nd ref="8573447486"/>
   </way>
   <node visible="true" id="-135" lat="30.00214617430852115376183065" lon="-90.27019962387173279694252415">
     <tag k="addr:housenumber" v="2602"/>
@@ -619,17 +660,29 @@
     <tag k="addr:city" v="Kenner"/>
     <tag k="addr:postcode" v="70062"/>
   </node>
-  <way id="923602409" version="1">
+  <way id="923602409" version="1" action="modify">
+    <tag k="building" v="yes"/>
     <tag k="addr:housenumber" v="2611"/>
     <tag k="addr:street" v="Richland Street"/>
     <tag k="addr:city" v="Kenner"/>
     <tag k="addr:postcode" v="70062"/>
+    <nd ref="8573498529"/>
+    <nd ref="8573498530"/>
+    <nd ref="8573498531"/>
+    <nd ref="8573498532"/>
+    <nd ref="8573498529"/>
   </way>
-  <way id="923602413" version="1">
+  <way id="923602413" version="1" action="modify">
+    <tag k="building" v="yes"/>
     <tag k="addr:housenumber" v="2609"/>
     <tag k="addr:street" v="Piedmont Street"/>
     <tag k="addr:city" v="Kenner"/>
     <tag k="addr:postcode" v="70062"/>
+    <nd ref="8573498550"/>
+    <nd ref="8573498551"/>
+    <nd ref="8573498552"/>
+    <nd ref="8573498553"/>
+    <nd ref="8573498550"/>
   </way>
   <node visible="true" id="-139" lat="30.00249210781819897420064081" lon="-90.27216740049580323557165684">
     <tag k="addr:housenumber" v="2616"/>
@@ -703,77 +756,165 @@
     <tag k="addr:city" v="Kenner"/>
     <tag k="addr:postcode" v="70062"/>
   </node>
-  <way id="923602416" version="1">
+  <way id="923602416" version="1" action="modify">
+    <tag k="building" v="yes"/>
     <tag k="addr:housenumber" v="27"/>
     <tag k="addr:street" v="26th Street"/>
     <tag k="addr:city" v="Kenner"/>
     <tag k="addr:postcode" v="70062"/>
+    <nd ref="8573498564"/>
+    <nd ref="8573498565"/>
+    <nd ref="8573498566"/>
+    <nd ref="8573498567"/>
+    <nd ref="8573498568"/>
+    <nd ref="8573498569"/>
+    <nd ref="8573498570"/>
+    <nd ref="8573498571"/>
+    <nd ref="8573498564"/>
   </way>
-  <way id="923602429" version="1">
+  <way id="923602429" version="1" action="modify">
+    <tag k="building" v="yes"/>
     <tag k="addr:housenumber" v="2436"/>
     <tag k="addr:street" v="Fayette Street"/>
     <tag k="addr:city" v="Kenner"/>
     <tag k="addr:postcode" v="70062"/>
+    <nd ref="8573498644"/>
+    <nd ref="8573498645"/>
+    <nd ref="8573498646"/>
+    <nd ref="8573498647"/>
+    <nd ref="8573498644"/>
   </way>
-  <way id="923602430" version="1">
+  <way id="923602430" version="1" action="modify">
+    <tag k="building" v="yes"/>
     <tag k="addr:housenumber" v="2432"/>
     <tag k="addr:street" v="Fayette Street"/>
     <tag k="addr:city" v="Kenner"/>
     <tag k="addr:postcode" v="70062"/>
+    <nd ref="8573498648"/>
+    <nd ref="8573498649"/>
+    <nd ref="8573498650"/>
+    <nd ref="8573498651"/>
+    <nd ref="8573498648"/>
   </way>
-  <way id="923602431" version="1">
+  <way id="923602431" version="1" action="modify">
+    <tag k="building" v="yes"/>
     <tag k="addr:housenumber" v="2428"/>
     <tag k="addr:street" v="Fayette Street"/>
     <tag k="addr:city" v="Kenner"/>
     <tag k="addr:postcode" v="70062"/>
+    <nd ref="8573498652"/>
+    <nd ref="8573498653"/>
+    <nd ref="8573498654"/>
+    <nd ref="8573498655"/>
+    <nd ref="8573498652"/>
   </way>
-  <way id="923602432" version="1">
+  <way id="923602432" version="1" action="modify">
+    <tag k="building" v="yes"/>
     <tag k="addr:housenumber" v="2424"/>
     <tag k="addr:street" v="Fayette Street"/>
     <tag k="addr:city" v="Kenner"/>
     <tag k="addr:postcode" v="70062"/>
+    <nd ref="8573498656"/>
+    <nd ref="8573498657"/>
+    <nd ref="8573498658"/>
+    <nd ref="8573498659"/>
+    <nd ref="8573498656"/>
   </way>
-  <way id="923602433" version="1">
+  <way id="923602433" version="1" action="modify">
+    <tag k="building" v="yes"/>
     <tag k="addr:housenumber" v="2420"/>
     <tag k="addr:street" v="Fayette Street"/>
     <tag k="addr:city" v="Kenner"/>
     <tag k="addr:postcode" v="70062"/>
+    <nd ref="8573498660"/>
+    <nd ref="8573498661"/>
+    <nd ref="8573498662"/>
+    <nd ref="8573498663"/>
+    <nd ref="8573498660"/>
   </way>
-  <way id="923602434" version="1">
+  <way id="923602434" version="1" action="modify">
+    <tag k="building" v="yes"/>
     <tag k="addr:housenumber" v="2414"/>
     <tag k="addr:street" v="Fayette Street"/>
     <tag k="addr:city" v="Kenner"/>
     <tag k="addr:postcode" v="70062"/>
+    <nd ref="8573498664"/>
+    <nd ref="8573498665"/>
+    <nd ref="8573498666"/>
+    <nd ref="8573498667"/>
+    <nd ref="8573498664"/>
   </way>
-  <way id="923602435" version="1">
+  <way id="923602435" version="1" action="modify">
+    <tag k="building" v="yes"/>
     <tag k="addr:housenumber" v="2408"/>
     <tag k="addr:street" v="Fayette Street"/>
     <tag k="addr:city" v="Kenner"/>
     <tag k="addr:postcode" v="70062"/>
+    <nd ref="8573498668"/>
+    <nd ref="8573498669"/>
+    <nd ref="8573498670"/>
+    <nd ref="8573498671"/>
+    <nd ref="8573498668"/>
   </way>
-  <way id="923602438" version="1">
+  <way id="923602438" version="1" action="modify">
+    <tag k="building" v="yes"/>
     <tag k="addr:housenumber" v="2424"/>
     <tag k="addr:street" v="Greenwood Street"/>
     <tag k="addr:city" v="Kenner"/>
     <tag k="addr:postcode" v="70062"/>
+    <nd ref="8573498680"/>
+    <nd ref="8573498681"/>
+    <nd ref="8573498748"/>
+    <nd ref="8573498747"/>
+    <nd ref="8573498682"/>
+    <nd ref="8573498683"/>
+    <nd ref="8573498680"/>
   </way>
-  <way id="923602439" version="1">
+  <way id="923602439" version="1" action="modify">
+    <tag k="building" v="yes"/>
     <tag k="addr:housenumber" v="2445"/>
     <tag k="addr:street" v="Aberdeen Street"/>
     <tag k="addr:city" v="Kenner"/>
     <tag k="addr:postcode" v="70062"/>
+    <nd ref="8573498684"/>
+    <nd ref="8573498685"/>
+    <nd ref="8573498686"/>
+    <nd ref="8573498687"/>
+    <nd ref="8573498684"/>
   </way>
-  <way id="923602443" version="1">
+  <way id="923602443" version="1" action="modify">
+    <tag k="building" v="yes"/>
     <tag k="addr:housenumber" v="2321"/>
     <tag k="addr:street" v="Fayette Street"/>
     <tag k="addr:city" v="Kenner"/>
     <tag k="addr:postcode" v="70062"/>
+    <nd ref="8573498702"/>
+    <nd ref="8573498703"/>
+    <nd ref="8573498704"/>
+    <nd ref="8573498705"/>
+    <nd ref="8573498706"/>
+    <nd ref="8573498707"/>
+    <nd ref="8573498708"/>
+    <nd ref="8573498709"/>
+    <nd ref="8573498702"/>
   </way>
-  <way id="923602444" version="1">
+  <way id="923602444" version="1" action="modify">
+    <tag k="building" v="yes"/>
     <tag k="addr:housenumber" v="2321"/>
     <tag k="addr:street" v="Greenwood Street"/>
     <tag k="addr:city" v="Kenner"/>
     <tag k="addr:postcode" v="70062"/>
+    <nd ref="8573498710"/>
+    <nd ref="8573498711"/>
+    <nd ref="8573498712"/>
+    <nd ref="8573498713"/>
+    <nd ref="8573498714"/>
+    <nd ref="8573498715"/>
+    <nd ref="8573498716"/>
+    <nd ref="8573498717"/>
+    <nd ref="8573498718"/>
+    <nd ref="8573498719"/>
+    <nd ref="8573498710"/>
   </way>
   <node visible="true" id="-151" lat="30.00088376900107789424509974" lon="-90.26706956118262326071999269">
     <tag k="addr:housenumber" v="2413"/>
@@ -787,65 +928,153 @@
     <tag k="addr:city" v="Kenner"/>
     <tag k="addr:postcode" v="70062"/>
   </node>
-  <way id="923602446" version="1">
+  <way id="923602446" version="1" action="modify">
+    <tag k="building" v="yes"/>
     <tag k="addr:housenumber" v="300"/>
     <tag k="addr:street" v="23rd Street"/>
     <tag k="addr:city" v="Kenner"/>
     <tag k="addr:postcode" v="70062"/>
+    <nd ref="8573498728"/>
+    <nd ref="8573498729"/>
+    <nd ref="8573498730"/>
+    <nd ref="8573498731"/>
+    <nd ref="8573498732"/>
+    <nd ref="8573498733"/>
+    <nd ref="8573498728"/>
   </way>
-  <way id="923602447" version="1">
+  <way id="923602447" version="1" action="modify">
+    <tag k="building" v="yes"/>
     <tag k="addr:housenumber" v="226"/>
     <tag k="addr:street" v="23rd Street"/>
     <tag k="addr:city" v="Kenner"/>
     <tag k="addr:postcode" v="70062"/>
+    <nd ref="8573498734"/>
+    <nd ref="8573498735"/>
+    <nd ref="8573498736"/>
+    <nd ref="8573498737"/>
+    <nd ref="8573498734"/>
   </way>
-  <way id="923602448" version="1">
+  <way id="923602448" version="1" action="modify">
+    <tag k="building" v="yes"/>
     <tag k="addr:housenumber" v="2419"/>
     <tag k="addr:street" v="Aberdeen Street"/>
     <tag k="addr:city" v="Kenner"/>
     <tag k="addr:postcode" v="70062"/>
+    <nd ref="8573498738"/>
+    <nd ref="8573498739"/>
+    <nd ref="8573498740"/>
+    <nd ref="8573498741"/>
+    <nd ref="8573498738"/>
   </way>
-  <way id="923602449" version="1">
+  <way id="923602449" version="1" action="modify">
+    <tag k="building" v="yes"/>
     <tag k="addr:housenumber" v="2425"/>
     <tag k="addr:street" v="Aberdeen Street"/>
     <tag k="addr:city" v="Kenner"/>
     <tag k="addr:postcode" v="70062"/>
+    <nd ref="8573498742"/>
+    <nd ref="8573498743"/>
+    <nd ref="8573498744"/>
+    <nd ref="8573498745"/>
+    <nd ref="8573498746"/>
+    <nd ref="8573498747"/>
+    <nd ref="8573498748"/>
+    <nd ref="8573498749"/>
+    <nd ref="8573498750"/>
+    <nd ref="8573498751"/>
+    <nd ref="8573498752"/>
+    <nd ref="8573498753"/>
+    <nd ref="8573498754"/>
+    <nd ref="8573498755"/>
+    <nd ref="8573498742"/>
   </way>
-  <way id="923602450" version="1">
+  <way id="923602450" version="1" action="modify">
+    <tag k="building" v="yes"/>
     <tag k="addr:housenumber" v="2333"/>
     <tag k="addr:street" v="Aberdeen Street"/>
     <tag k="addr:city" v="Kenner"/>
     <tag k="addr:postcode" v="70062"/>
+    <nd ref="8573498756"/>
+    <nd ref="8573498757"/>
+    <nd ref="8573498758"/>
+    <nd ref="8573498759"/>
+    <nd ref="8573498760"/>
+    <nd ref="8573498761"/>
+    <nd ref="8573498762"/>
+    <nd ref="8573498763"/>
+    <nd ref="8573498764"/>
+    <nd ref="8573498765"/>
+    <nd ref="8573498766"/>
+    <nd ref="8573498767"/>
+    <nd ref="8573498756"/>
   </way>
-  <way id="923602451" version="1">
+  <way id="923602451" version="1" action="modify">
+    <tag k="building" v="yes"/>
     <tag k="addr:housenumber" v="2314"/>
     <tag k="addr:street" v="Greenwood Street"/>
     <tag k="addr:city" v="Kenner"/>
     <tag k="addr:postcode" v="70062"/>
+    <nd ref="8573498768"/>
+    <nd ref="8573498769"/>
+    <nd ref="8573498770"/>
+    <nd ref="8573498771"/>
+    <nd ref="8573498772"/>
+    <nd ref="8573498773"/>
+    <nd ref="8573498768"/>
   </way>
-  <way id="923602452" version="1">
+  <way id="923602452" version="1" action="modify">
+    <tag k="building" v="yes"/>
     <tag k="addr:housenumber" v="2323"/>
     <tag k="addr:street" v="Aberdeen Street"/>
     <tag k="addr:city" v="Kenner"/>
     <tag k="addr:postcode" v="70062"/>
+    <nd ref="8573498774"/>
+    <nd ref="8573498775"/>
+    <nd ref="8573498776"/>
+    <nd ref="8573498777"/>
+    <nd ref="8573498774"/>
   </way>
-  <way id="923602453" version="1">
+  <way id="923602453" version="1" action="modify">
+    <tag k="building" v="yes"/>
     <tag k="addr:housenumber" v="2307"/>
     <tag k="addr:street" v="Aberdeen Street"/>
     <tag k="addr:city" v="Kenner"/>
     <tag k="addr:postcode" v="70062"/>
+    <nd ref="8573498778"/>
+    <nd ref="8573498779"/>
+    <nd ref="8573498780"/>
+    <nd ref="8573498781"/>
+    <nd ref="8573498782"/>
+    <nd ref="8573498783"/>
+    <nd ref="8573498784"/>
+    <nd ref="8573498785"/>
+    <nd ref="8573498778"/>
   </way>
-  <way id="923602454" version="1">
+  <way id="923602454" version="1" action="modify">
+    <tag k="building" v="yes"/>
     <tag k="addr:housenumber" v="2306"/>
     <tag k="addr:street" v="Greenwood Street"/>
     <tag k="addr:city" v="Kenner"/>
     <tag k="addr:postcode" v="70062"/>
+    <nd ref="8573498786"/>
+    <nd ref="8573498787"/>
+    <nd ref="8573498788"/>
+    <nd ref="8573498789"/>
+    <nd ref="8573498790"/>
+    <nd ref="8573498791"/>
+    <nd ref="8573498786"/>
   </way>
-  <way id="923602455" version="1">
+  <way id="923602455" version="1" action="modify">
+    <tag k="building" v="yes"/>
     <tag k="addr:housenumber" v="326"/>
     <tag k="addr:street" v="23rd Street"/>
     <tag k="addr:city" v="Kenner"/>
     <tag k="addr:postcode" v="70062"/>
+    <nd ref="8573498792"/>
+    <nd ref="8573498793"/>
+    <nd ref="8573498794"/>
+    <nd ref="8573498795"/>
+    <nd ref="8573498792"/>
   </way>
   <node visible="true" id="-153" lat="30.00058555119298375757352915" lon="-90.26891849334904804891266394">
     <tag k="addr:housenumber" v="2313"/>
@@ -859,47 +1088,111 @@
     <tag k="addr:city" v="Kenner"/>
     <tag k="addr:postcode" v="70062"/>
   </node>
-  <way id="923602458" version="1">
+  <way id="923602458" version="1" action="modify">
+    <tag k="building" v="yes"/>
     <tag k="addr:housenumber" v="2309"/>
     <tag k="addr:street" v="Salem Street"/>
     <tag k="addr:city" v="Kenner"/>
     <tag k="addr:postcode" v="70062"/>
+    <nd ref="8573498816"/>
+    <nd ref="8573498817"/>
+    <nd ref="8573498818"/>
+    <nd ref="8573498819"/>
+    <nd ref="8573498816"/>
   </way>
-  <way id="923602459" version="1">
+  <way id="923602459" version="1" action="modify">
+    <tag k="building" v="yes"/>
     <tag k="addr:housenumber" v="212"/>
     <tag k="addr:street" v="23rd Street"/>
     <tag k="addr:city" v="Kenner"/>
     <tag k="addr:postcode" v="70062"/>
+    <nd ref="8573498820"/>
+    <nd ref="8573498821"/>
+    <nd ref="8573498822"/>
+    <nd ref="8573498823"/>
+    <nd ref="8573498820"/>
   </way>
-  <way id="923602461" version="1">
+  <way id="923602461" version="1" action="modify">
+    <tag k="building" v="yes"/>
     <tag k="addr:housenumber" v="2306"/>
     <tag k="addr:street" v="Kingston Street"/>
     <tag k="addr:city" v="Kenner"/>
     <tag k="addr:postcode" v="70062"/>
+    <nd ref="8573498828"/>
+    <nd ref="8573498829"/>
+    <nd ref="8573498830"/>
+    <nd ref="8573498831"/>
+    <nd ref="8573498832"/>
+    <nd ref="8573498833"/>
+    <nd ref="8573498834"/>
+    <nd ref="8573498835"/>
+    <nd ref="8573498836"/>
+    <nd ref="8573498837"/>
+    <nd ref="8573498828"/>
   </way>
-  <way id="923602462" version="1">
+  <way id="923602462" version="1" action="modify">
+    <tag k="building" v="yes"/>
     <tag k="addr:housenumber" v="2316"/>
     <tag k="addr:street" v="Kingston Street"/>
     <tag k="addr:city" v="Kenner"/>
     <tag k="addr:postcode" v="70062"/>
+    <nd ref="8573498838"/>
+    <nd ref="8573498839"/>
+    <nd ref="8573498840"/>
+    <nd ref="8573498841"/>
+    <nd ref="8573498842"/>
+    <nd ref="8573498843"/>
+    <nd ref="8573498844"/>
+    <nd ref="8573498845"/>
+    <nd ref="8573498846"/>
+    <nd ref="8573498847"/>
+    <nd ref="8573498838"/>
   </way>
-  <way id="923602463" version="1">
+  <way id="923602463" version="1" action="modify">
+    <tag k="building" v="yes"/>
     <tag k="addr:housenumber" v="2360"/>
     <tag k="addr:street" v="Kingston Street"/>
     <tag k="addr:city" v="Kenner"/>
     <tag k="addr:postcode" v="70062"/>
+    <nd ref="8573498848"/>
+    <nd ref="8573498849"/>
+    <nd ref="8573498850"/>
+    <nd ref="8573498851"/>
+    <nd ref="8573498852"/>
+    <nd ref="8573498853"/>
+    <nd ref="8573498854"/>
+    <nd ref="8573498855"/>
+    <nd ref="8573498856"/>
+    <nd ref="8573498857"/>
+    <nd ref="8573498858"/>
+    <nd ref="8573498859"/>
+    <nd ref="8573498860"/>
+    <nd ref="8573498861"/>
+    <nd ref="8573498848"/>
   </way>
-  <way id="923602467" version="1">
+  <way id="923602467" version="1" action="modify">
+    <tag k="building" v="yes"/>
     <tag k="addr:housenumber" v="2418"/>
     <tag k="addr:street" v="Piedmont Street"/>
     <tag k="addr:city" v="Kenner"/>
     <tag k="addr:postcode" v="70062"/>
+    <nd ref="8573498874"/>
+    <nd ref="8573498875"/>
+    <nd ref="8573498876"/>
+    <nd ref="8573498877"/>
+    <nd ref="8573498874"/>
   </way>
-  <way id="923602468" version="1">
+  <way id="923602468" version="1" action="modify">
+    <tag k="building" v="yes"/>
     <tag k="addr:housenumber" v="2332"/>
     <tag k="addr:street" v="Piedmont Street"/>
     <tag k="addr:city" v="Kenner"/>
     <tag k="addr:postcode" v="70062"/>
+    <nd ref="8573498878"/>
+    <nd ref="8573498879"/>
+    <nd ref="8573498880"/>
+    <nd ref="8573498881"/>
+    <nd ref="8573498878"/>
   </way>
   <node visible="true" id="-155" lat="30.00038619219123603443222237" lon="-90.27116926390900175647402648">
     <tag k="addr:housenumber" v="2308"/>
@@ -913,143 +1206,305 @@
     <tag k="addr:city" v="Kenner"/>
     <tag k="addr:postcode" v="70062"/>
   </node>
-  <way id="923602471" version="1">
+  <way id="923602471" version="1" action="modify">
+    <tag k="building" v="yes"/>
     <tag k="addr:housenumber" v="2321"/>
     <tag k="addr:street" v="Richland Street"/>
     <tag k="addr:city" v="Kenner"/>
     <tag k="addr:postcode" v="70062"/>
+    <nd ref="8573498900"/>
+    <nd ref="8573498901"/>
+    <nd ref="8573498902"/>
+    <nd ref="8573498903"/>
+    <nd ref="8573498904"/>
+    <nd ref="8573498905"/>
+    <nd ref="8573498900"/>
   </way>
-  <way id="923602472" version="1">
+  <way id="923602472" version="1" action="modify">
+    <tag k="building" v="yes"/>
     <tag k="addr:housenumber" v="2320"/>
     <tag k="addr:street" v="Piedmont Street"/>
     <tag k="addr:city" v="Kenner"/>
     <tag k="addr:postcode" v="70062"/>
+    <nd ref="8573498906"/>
+    <nd ref="8573498907"/>
+    <nd ref="8573498908"/>
+    <nd ref="8573498909"/>
+    <nd ref="8573498906"/>
   </way>
-  <way id="923602474" version="1">
+  <way id="923602474" version="1" action="modify">
+    <tag k="building" v="yes"/>
     <tag k="addr:housenumber" v="2308"/>
     <tag k="addr:street" v="Richland Street"/>
     <tag k="addr:city" v="Kenner"/>
     <tag k="addr:postcode" v="70062"/>
+    <nd ref="8573498914"/>
+    <nd ref="8573498915"/>
+    <nd ref="8573498916"/>
+    <nd ref="8573498917"/>
+    <nd ref="8573498914"/>
   </way>
-  <way id="923602475" version="1">
+  <way id="923602475" version="1" action="modify">
+    <tag k="building" v="yes"/>
     <tag k="addr:housenumber" v="2312"/>
     <tag k="addr:street" v="Richland Street"/>
     <tag k="addr:city" v="Kenner"/>
     <tag k="addr:postcode" v="70062"/>
+    <nd ref="8573498918"/>
+    <nd ref="8573498919"/>
+    <nd ref="8573498920"/>
+    <nd ref="8573498921"/>
+    <nd ref="8573498918"/>
   </way>
-  <way id="923602476" version="1">
+  <way id="923602476" version="1" action="modify">
+    <tag k="building" v="yes"/>
     <tag k="addr:housenumber" v="2400"/>
     <tag k="addr:street" v="Richland Street"/>
     <tag k="addr:city" v="Kenner"/>
     <tag k="addr:postcode" v="70062"/>
+    <nd ref="8573498922"/>
+    <nd ref="8573498923"/>
+    <nd ref="8573498924"/>
+    <nd ref="8573498925"/>
+    <nd ref="8573498922"/>
   </way>
-  <way id="923602477" version="1">
+  <way id="923602477" version="1" action="modify">
+    <tag k="building" v="yes"/>
     <tag k="addr:housenumber" v="2401"/>
     <tag k="addr:street" v="Kingston Street"/>
     <tag k="addr:city" v="Kenner"/>
     <tag k="addr:postcode" v="70062"/>
+    <nd ref="8573498926"/>
+    <nd ref="8573498927"/>
+    <nd ref="8573498928"/>
+    <nd ref="8573498929"/>
+    <nd ref="8573498926"/>
   </way>
-  <way id="923602478" version="1">
+  <way id="923602478" version="1" action="modify">
+    <tag k="building" v="yes"/>
     <tag k="addr:housenumber" v="2317"/>
     <tag k="addr:street" v="Kingston Street"/>
     <tag k="addr:city" v="Kenner"/>
     <tag k="addr:postcode" v="70062"/>
+    <nd ref="8573498930"/>
+    <nd ref="8573498931"/>
+    <nd ref="8573498932"/>
+    <nd ref="8573498933"/>
+    <nd ref="8573498930"/>
   </way>
-  <way id="923602479" version="1">
+  <way id="923602479" version="1" action="modify">
+    <tag k="building" v="yes"/>
     <tag k="addr:housenumber" v="2305"/>
     <tag k="addr:street" v="Kingston Street"/>
     <tag k="addr:city" v="Kenner"/>
     <tag k="addr:postcode" v="70062"/>
+    <nd ref="8573498934"/>
+    <nd ref="8573498935"/>
+    <nd ref="8573498936"/>
+    <nd ref="8573498937"/>
+    <nd ref="8573498938"/>
+    <nd ref="8573498939"/>
+    <nd ref="8573498940"/>
+    <nd ref="8573498941"/>
+    <nd ref="8573498934"/>
   </way>
-  <way id="923602482" version="1">
+  <way id="923602482" version="1" action="modify">
+    <tag k="building" v="yes"/>
     <tag k="addr:housenumber" v="2313"/>
     <tag k="addr:street" v="Piedmont Street"/>
     <tag k="addr:city" v="Kenner"/>
     <tag k="addr:postcode" v="70062"/>
+    <nd ref="8573498952"/>
+    <nd ref="8573498953"/>
+    <nd ref="8573498954"/>
+    <nd ref="8573498955"/>
+    <nd ref="8573498956"/>
+    <nd ref="8573498957"/>
+    <nd ref="8573498952"/>
   </way>
-  <way id="923602483" version="1">
+  <way id="923602483" version="1" action="modify">
+    <tag k="building" v="yes"/>
     <tag k="addr:housenumber" v="2400"/>
     <tag k="addr:street" v="Piedmont Street"/>
     <tag k="addr:city" v="Kenner"/>
     <tag k="addr:postcode" v="70062"/>
+    <nd ref="8573498958"/>
+    <nd ref="8573498959"/>
+    <nd ref="8573498960"/>
+    <nd ref="8573498961"/>
+    <nd ref="8573498962"/>
+    <nd ref="8573498963"/>
+    <nd ref="8573498958"/>
   </way>
-  <way id="923602484" version="1">
+  <way id="923602484" version="1" action="modify">
+    <tag k="building" v="yes"/>
     <tag k="addr:housenumber" v="2417"/>
     <tag k="addr:street" v="Sharon Street"/>
     <tag k="addr:city" v="Kenner"/>
     <tag k="addr:postcode" v="70062"/>
+    <nd ref="8573498964"/>
+    <nd ref="8573498965"/>
+    <nd ref="8573498966"/>
+    <nd ref="8573498967"/>
+    <nd ref="8573498964"/>
   </way>
-  <way id="923602485" version="1">
+  <way id="923602485" version="1" action="modify">
+    <tag k="building" v="yes"/>
     <tag k="addr:housenumber" v="2400"/>
     <tag k="addr:street" v="Albion Street"/>
     <tag k="addr:city" v="Kenner"/>
     <tag k="addr:postcode" v="70062"/>
+    <nd ref="8573498968"/>
+    <nd ref="8573498969"/>
+    <nd ref="8573498970"/>
+    <nd ref="8573498971"/>
+    <nd ref="8573498968"/>
   </way>
-  <way id="923602487" version="1">
+  <way id="923602487" version="1" action="modify">
+    <tag k="building" v="yes"/>
     <tag k="addr:housenumber" v="27"/>
     <tag k="addr:street" v="24th Street"/>
     <tag k="addr:city" v="Kenner"/>
     <tag k="addr:postcode" v="70062"/>
+    <nd ref="8573498976"/>
+    <nd ref="8573498977"/>
+    <nd ref="8573498978"/>
+    <nd ref="8573498979"/>
+    <nd ref="8573498976"/>
   </way>
-  <way id="923602488" version="1">
+  <way id="923602488" version="1" action="modify">
+    <tag k="building" v="yes"/>
     <tag k="addr:housenumber" v="30"/>
     <tag k="addr:street" v="23rd Street"/>
     <tag k="addr:city" v="Kenner"/>
     <tag k="addr:postcode" v="70062"/>
+    <nd ref="8573498980"/>
+    <nd ref="8573498981"/>
+    <nd ref="8573498982"/>
+    <nd ref="8573498983"/>
+    <nd ref="8573498980"/>
   </way>
-  <way id="923602489" version="1">
+  <way id="923602489" version="1" action="modify">
+    <tag k="building" v="yes"/>
     <tag k="addr:housenumber" v="33"/>
     <tag k="addr:street" v="24th Street"/>
     <tag k="addr:city" v="Kenner"/>
     <tag k="addr:postcode" v="70062"/>
+    <nd ref="8573498984"/>
+    <nd ref="8573498985"/>
+    <nd ref="8573498986"/>
+    <nd ref="8573498987"/>
+    <nd ref="8573498984"/>
   </way>
-  <way id="923602491" version="1">
+  <way id="923602491" version="1" action="modify">
+    <tag k="building" v="yes"/>
     <tag k="addr:housenumber" v="18"/>
     <tag k="addr:street" v="23rd Street"/>
     <tag k="addr:city" v="Kenner"/>
     <tag k="addr:postcode" v="70062"/>
+    <nd ref="8573498992"/>
+    <nd ref="8573498993"/>
+    <nd ref="8573498994"/>
+    <nd ref="8573498995"/>
+    <nd ref="8573498992"/>
   </way>
-  <way id="923602496" version="1">
+  <way id="923602496" version="1" action="modify">
+    <tag k="building" v="yes"/>
     <tag k="addr:housenumber" v="51"/>
     <tag k="addr:street" v="23rd Street"/>
     <tag k="addr:city" v="Kenner"/>
     <tag k="addr:postcode" v="70062"/>
+    <nd ref="8573499012"/>
+    <nd ref="8573499013"/>
+    <nd ref="8573499014"/>
+    <nd ref="8573499015"/>
+    <nd ref="8573499012"/>
   </way>
-  <way id="923602497" version="1">
+  <way id="923602497" version="1" action="modify">
+    <tag k="building" v="yes"/>
     <tag k="addr:housenumber" v="40"/>
     <tag k="addr:street" v="West Union Street"/>
     <tag k="addr:city" v="Kenner"/>
     <tag k="addr:postcode" v="70062"/>
+    <nd ref="8573499016"/>
+    <nd ref="8573499017"/>
+    <nd ref="8573499018"/>
+    <nd ref="8573499019"/>
+    <nd ref="8573499016"/>
   </way>
-  <way id="923602498" version="1">
+  <way id="923602498" version="1" action="modify">
+    <tag k="building" v="yes"/>
     <tag k="addr:housenumber" v="83"/>
     <tag k="addr:street" v="23rd Street"/>
     <tag k="addr:city" v="Kenner"/>
     <tag k="addr:postcode" v="70062"/>
+    <nd ref="8573499020"/>
+    <nd ref="8573499021"/>
+    <nd ref="8573499022"/>
+    <nd ref="8573499023"/>
+    <nd ref="8573499020"/>
   </way>
-  <way id="923602500" version="1">
+  <way id="923602500" version="1" action="modify">
+    <tag k="building" v="yes"/>
     <tag k="addr:housenumber" v="2249"/>
     <tag k="addr:street" v="Piedmont Street"/>
     <tag k="addr:city" v="Kenner"/>
     <tag k="addr:postcode" v="70062"/>
+    <nd ref="8573499028"/>
+    <nd ref="8573499029"/>
+    <nd ref="8573499030"/>
+    <nd ref="8573499031"/>
+    <nd ref="8573499028"/>
   </way>
-  <way id="923602503" version="1">
+  <way id="923602503" version="1" action="modify">
+    <tag k="building" v="yes"/>
     <tag k="addr:housenumber" v="111"/>
     <tag k="addr:street" v="23rd Street"/>
     <tag k="addr:city" v="Kenner"/>
     <tag k="addr:postcode" v="70062"/>
+    <nd ref="8573499040"/>
+    <nd ref="8573499041"/>
+    <nd ref="8573499042"/>
+    <nd ref="8573499043"/>
+    <nd ref="8573499044"/>
+    <nd ref="8573499045"/>
+    <nd ref="8573499040"/>
   </way>
-  <way id="923602507" version="1">
+  <way id="923602507" version="1" action="modify">
+    <tag k="building" v="yes"/>
     <tag k="addr:housenumber" v="2238"/>
     <tag k="addr:street" v="Richland Street"/>
     <tag k="addr:city" v="Kenner"/>
     <tag k="addr:postcode" v="70062"/>
+    <nd ref="8573499058"/>
+    <nd ref="8573499059"/>
+    <nd ref="8573499060"/>
+    <nd ref="8573499061"/>
+    <nd ref="8573499062"/>
+    <nd ref="8573499063"/>
+    <nd ref="8573499064"/>
+    <nd ref="8573499065"/>
+    <nd ref="8573499066"/>
+    <nd ref="8573499067"/>
+    <nd ref="8573499068"/>
+    <nd ref="8573499069"/>
+    <nd ref="8573499058"/>
   </way>
-  <way id="923602508" version="1">
+  <way id="923602508" version="1" action="modify">
+    <tag k="building" v="yes"/>
     <tag k="addr:housenumber" v="2249"/>
     <tag k="addr:street" v="Kingston Street"/>
     <tag k="addr:city" v="Kenner"/>
     <tag k="addr:postcode" v="70062"/>
+    <nd ref="8573499070"/>
+    <nd ref="8573499071"/>
+    <nd ref="8573499072"/>
+    <nd ref="8573499073"/>
+    <nd ref="8573499074"/>
+    <nd ref="8573499075"/>
+    <nd ref="8573499076"/>
+    <nd ref="8573499077"/>
+    <nd ref="8573499070"/>
   </way>
   <node visible="true" id="-157" lat="29.99955664482701678252851707" lon="-90.27023656300410436870151898">
     <tag k="addr:housenumber" v="129"/>
@@ -1063,23 +1518,47 @@
     <tag k="addr:city" v="Kenner"/>
     <tag k="addr:postcode" v="70062"/>
   </node>
-  <way id="923602511" version="1">
+  <way id="923602511" version="1" action="modify">
+    <tag k="building" v="yes"/>
     <tag k="addr:housenumber" v="205"/>
     <tag k="addr:street" v="23rd Street"/>
     <tag k="addr:city" v="Kenner"/>
     <tag k="addr:postcode" v="70062"/>
+    <nd ref="8573499098"/>
+    <nd ref="8573499099"/>
+    <nd ref="8573499100"/>
+    <nd ref="8573499101"/>
+    <nd ref="8573499102"/>
+    <nd ref="8573499103"/>
+    <nd ref="8573499104"/>
+    <nd ref="8573499105"/>
+    <nd ref="8573499098"/>
   </way>
-  <way id="923602514" version="1">
+  <way id="923602514" version="1" action="modify">
+    <tag k="building" v="yes"/>
     <tag k="addr:housenumber" v="2239"/>
     <tag k="addr:street" v="Salem Street"/>
     <tag k="addr:city" v="Kenner"/>
     <tag k="addr:postcode" v="70062"/>
+    <nd ref="8573499114"/>
+    <nd ref="8573499115"/>
+    <nd ref="8573499116"/>
+    <nd ref="8573499117"/>
+    <nd ref="8573499114"/>
   </way>
-  <way id="923602515" version="1">
+  <way id="923602515" version="1" action="modify">
+    <tag k="building" v="yes"/>
     <tag k="addr:housenumber" v="17"/>
     <tag k="addr:street" v="West Union Street"/>
     <tag k="addr:city" v="Kenner"/>
     <tag k="addr:postcode" v="70062"/>
+    <nd ref="8573499118"/>
+    <nd ref="8573499119"/>
+    <nd ref="8573499120"/>
+    <nd ref="8573499121"/>
+    <nd ref="8573499122"/>
+    <nd ref="8573499123"/>
+    <nd ref="8573499118"/>
   </way>
   <node visible="true" id="-159" lat="29.99851394132423720861879701" lon="-90.27193825734192955678736325">
     <tag k="addr:housenumber" v="2233"/>
@@ -1093,17 +1572,29 @@
     <tag k="addr:city" v="Kenner"/>
     <tag k="addr:postcode" v="70062"/>
   </node>
-  <way id="923602518" version="1">
+  <way id="923602518" version="1" action="modify">
+    <tag k="building" v="yes"/>
     <tag k="addr:housenumber" v="2225"/>
     <tag k="addr:street" v="Piedmont Street"/>
     <tag k="addr:city" v="Kenner"/>
     <tag k="addr:postcode" v="70062"/>
+    <nd ref="8573499140"/>
+    <nd ref="8573499141"/>
+    <nd ref="8573499142"/>
+    <nd ref="8573499143"/>
+    <nd ref="8573499140"/>
   </way>
-  <way id="923602519" version="1">
+  <way id="923602519" version="1" action="modify">
+    <tag k="building" v="yes"/>
     <tag k="addr:housenumber" v="2230"/>
     <tag k="addr:street" v="Richland Street"/>
     <tag k="addr:city" v="Kenner"/>
     <tag k="addr:postcode" v="70062"/>
+    <nd ref="8573499144"/>
+    <nd ref="8573499145"/>
+    <nd ref="8573499146"/>
+    <nd ref="8573499147"/>
+    <nd ref="8573499144"/>
   </way>
   <node visible="true" id="-161" lat="29.99751550752624495999043575" lon="-90.27021738429560571148613235">
     <tag k="addr:housenumber" v="120"/>
@@ -1117,47 +1608,93 @@
     <tag k="addr:city" v="Kenner"/>
     <tag k="addr:postcode" v="70062"/>
   </node>
-  <way id="923602525" version="1">
+  <way id="923602525" version="1" action="modify">
+    <tag k="building" v="yes"/>
     <tag k="addr:housenumber" v="2215"/>
     <tag k="addr:street" v="Salem Street"/>
     <tag k="addr:city" v="Kenner"/>
     <tag k="addr:postcode" v="70062"/>
+    <nd ref="8573499172"/>
+    <nd ref="8573499173"/>
+    <nd ref="8573499174"/>
+    <nd ref="8573499175"/>
+    <nd ref="8573499172"/>
   </way>
-  <way id="923602526" version="1">
+  <way id="923602526" version="1" action="modify">
+    <tag k="building" v="yes"/>
     <tag k="addr:housenumber" v="229"/>
     <tag k="addr:street" v="23rd Street"/>
     <tag k="addr:city" v="Kenner"/>
     <tag k="addr:postcode" v="70062"/>
+    <nd ref="8573499176"/>
+    <nd ref="8573499177"/>
+    <nd ref="8573499178"/>
+    <nd ref="8573499179"/>
+    <nd ref="8573499176"/>
   </way>
-  <way id="923602527" version="1">
+  <way id="923602527" version="1" action="modify">
+    <tag k="building" v="yes"/>
     <tag k="addr:housenumber" v="225"/>
     <tag k="addr:street" v="23rd Street"/>
     <tag k="addr:city" v="Kenner"/>
     <tag k="addr:postcode" v="70062"/>
+    <nd ref="8573499180"/>
+    <nd ref="8573499181"/>
+    <nd ref="8573499182"/>
+    <nd ref="8573499183"/>
+    <nd ref="8573499184"/>
+    <nd ref="8573499185"/>
+    <nd ref="8573499186"/>
+    <nd ref="8573499187"/>
+    <nd ref="8573499180"/>
   </way>
-  <way id="923602529" version="1">
+  <way id="923602529" version="1" action="modify">
+    <tag k="building" v="yes"/>
     <tag k="addr:housenumber" v="2245"/>
     <tag k="addr:street" v="Fayette Street"/>
     <tag k="addr:city" v="Kenner"/>
     <tag k="addr:postcode" v="70062"/>
+    <nd ref="8573499192"/>
+    <nd ref="8573499193"/>
+    <nd ref="8573499194"/>
+    <nd ref="8573499195"/>
+    <nd ref="8573499192"/>
   </way>
-  <way id="923602530" version="1">
+  <way id="923602530" version="1" action="modify">
+    <tag k="building" v="yes"/>
     <tag k="addr:housenumber" v="2241"/>
     <tag k="addr:street" v="Fayette Street"/>
     <tag k="addr:city" v="Kenner"/>
     <tag k="addr:postcode" v="70062"/>
+    <nd ref="8573499196"/>
+    <nd ref="8573499197"/>
+    <nd ref="8573499198"/>
+    <nd ref="8573499199"/>
+    <nd ref="8573499196"/>
   </way>
-  <way id="923602533" version="1">
+  <way id="923602533" version="1" action="modify">
+    <tag k="building" v="yes"/>
     <tag k="addr:housenumber" v="2225"/>
     <tag k="addr:street" v="Fayette Street"/>
     <tag k="addr:city" v="Kenner"/>
     <tag k="addr:postcode" v="70062"/>
+    <nd ref="8573499212"/>
+    <nd ref="8573499213"/>
+    <nd ref="8573499214"/>
+    <nd ref="8573499215"/>
+    <nd ref="8573499212"/>
   </way>
-  <way id="923602534" version="1">
+  <way id="923602534" version="1" action="modify">
+    <tag k="building" v="yes"/>
     <tag k="addr:housenumber" v="2214"/>
     <tag k="addr:street" v="Salem Street"/>
     <tag k="addr:city" v="Kenner"/>
     <tag k="addr:postcode" v="70062"/>
+    <nd ref="8573499216"/>
+    <nd ref="8573499217"/>
+    <nd ref="8573499218"/>
+    <nd ref="8573499219"/>
+    <nd ref="8573499216"/>
   </way>
   <node visible="true" id="-163" lat="29.99774954820601990945760917" lon="-90.26785139894784038006037008">
     <tag k="addr:housenumber" v="2218"/>
@@ -1171,47 +1708,89 @@
     <tag k="addr:city" v="Kenner"/>
     <tag k="addr:postcode" v="70062"/>
   </node>
-  <way id="923602539" version="1">
+  <way id="923602539" version="1" action="modify">
+    <tag k="building" v="yes"/>
     <tag k="addr:housenumber" v="2207"/>
     <tag k="addr:street" v="Greenwood Street"/>
     <tag k="addr:city" v="Kenner"/>
     <tag k="addr:postcode" v="70062"/>
+    <nd ref="8573499248"/>
+    <nd ref="8573499249"/>
+    <nd ref="8573499250"/>
+    <nd ref="8573499251"/>
+    <nd ref="8573499248"/>
   </way>
-  <way id="923602540" version="1">
+  <way id="923602540" version="1" action="modify">
+    <tag k="building" v="yes"/>
     <tag k="addr:housenumber" v="2221"/>
     <tag k="addr:street" v="Greenwood Street"/>
     <tag k="addr:city" v="Kenner"/>
     <tag k="addr:postcode" v="70062"/>
+    <nd ref="8573499252"/>
+    <nd ref="8573499253"/>
+    <nd ref="8573499254"/>
+    <nd ref="8573499255"/>
+    <nd ref="8573499252"/>
   </way>
-  <way id="923602543" version="1">
+  <way id="923602543" version="1" action="modify">
+    <tag k="building" v="yes"/>
     <tag k="addr:housenumber" v="2237"/>
     <tag k="addr:street" v="Greenwood Street"/>
     <tag k="addr:city" v="Kenner"/>
     <tag k="addr:postcode" v="70062"/>
+    <nd ref="8573499270"/>
+    <nd ref="8573499271"/>
+    <nd ref="8573499272"/>
+    <nd ref="8573499273"/>
+    <nd ref="8573499270"/>
   </way>
-  <way id="923602545" version="1">
+  <way id="923602545" version="1" action="modify">
+    <tag k="building" v="yes"/>
     <tag k="addr:housenumber" v="2248"/>
     <tag k="addr:street" v="Fayette Street"/>
     <tag k="addr:city" v="Kenner"/>
     <tag k="addr:postcode" v="70062"/>
+    <nd ref="8573499278"/>
+    <nd ref="8573499279"/>
+    <nd ref="8573499280"/>
+    <nd ref="8573499281"/>
+    <nd ref="8573499278"/>
   </way>
-  <way id="923602546" version="1">
+  <way id="923602546" version="1" action="modify">
+    <tag k="building" v="yes"/>
     <tag k="addr:housenumber" v="2255"/>
     <tag k="addr:street" v="Greenwood Street"/>
     <tag k="addr:city" v="Kenner"/>
     <tag k="addr:postcode" v="70062"/>
+    <nd ref="8573499282"/>
+    <nd ref="8573499283"/>
+    <nd ref="8573499284"/>
+    <nd ref="8573499285"/>
+    <nd ref="8573499282"/>
   </way>
-  <way id="923602548" version="1">
+  <way id="923602548" version="1" action="modify">
+    <tag k="building" v="yes"/>
     <tag k="addr:housenumber" v="301"/>
     <tag k="addr:street" v="23rd Street"/>
     <tag k="addr:city" v="Kenner"/>
     <tag k="addr:postcode" v="70062"/>
+    <nd ref="8573499290"/>
+    <nd ref="8573499291"/>
+    <nd ref="8573499292"/>
+    <nd ref="8573499293"/>
+    <nd ref="8573499290"/>
   </way>
-  <way id="923602549" version="1">
+  <way id="923602549" version="1" action="modify">
+    <tag k="building" v="yes"/>
     <tag k="addr:housenumber" v="2275"/>
     <tag k="addr:street" v="Aberdeen Street"/>
     <tag k="addr:city" v="Kenner"/>
     <tag k="addr:postcode" v="70062"/>
+    <nd ref="8573499294"/>
+    <nd ref="8573499295"/>
+    <nd ref="8573499296"/>
+    <nd ref="8573499297"/>
+    <nd ref="8573499294"/>
   </way>
   <node visible="true" id="-165" lat="29.99881019709481222434988013" lon="-90.26636493574633846037613694">
     <tag k="addr:housenumber" v="2255"/>
@@ -1225,22 +1804,42 @@
     <tag k="addr:city" v="Kenner"/>
     <tag k="addr:postcode" v="70062"/>
   </node>
-  <way id="923602559" version="1">
+  <way id="923602559" version="1" action="modify">
+    <tag k="building" v="yes"/>
     <tag k="addr:housenumber" v="2215"/>
     <tag k="addr:street" v="Aberdeen Street"/>
     <tag k="addr:city" v="Kenner"/>
     <tag k="addr:postcode" v="70062"/>
+    <nd ref="8573499348"/>
+    <nd ref="8573499349"/>
+    <nd ref="8573499350"/>
+    <nd ref="8573499351"/>
+    <nd ref="8573499352"/>
+    <nd ref="8573499353"/>
+    <nd ref="8573499348"/>
   </way>
-  <way id="923602561" version="1">
+  <way id="923602561" version="1" action="modify">
+    <tag k="building" v="yes"/>
     <tag k="addr:housenumber" v="2201"/>
     <tag k="addr:street" v="Richland Street"/>
     <tag k="addr:city" v="Kenner"/>
     <tag k="addr:postcode" v="70062"/>
+    <nd ref="8573499360"/>
+    <nd ref="8573499361"/>
+    <nd ref="8573499362"/>
+    <nd ref="8573499363"/>
+    <nd ref="8573499360"/>
   </way>
-  <way id="923602564" version="1">
+  <way id="923602564" version="1" action="modify">
+    <tag k="building" v="yes"/>
     <tag k="addr:housenumber" v="2119"/>
     <tag k="addr:street" v="Aberdeen Street"/>
     <tag k="addr:city" v="Kenner"/>
     <tag k="addr:postcode" v="70062"/>
+    <nd ref="8573499372"/>
+    <nd ref="8573499373"/>
+    <nd ref="8573499374"/>
+    <nd ref="8573499375"/>
+    <nd ref="8573499372"/>
   </way>
 </osm>

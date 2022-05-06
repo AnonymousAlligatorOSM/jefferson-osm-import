@@ -3,16 +3,16 @@
   <changeset_tag k="comment" v="Import buildings and addresses in Jefferson Parish, see https://wiki.openstreetmap.org/wiki/Import/Catalogue/Jefferson_Parish_Addresses_and_Buildings"/>
   <changeset_tag k="source" v="Jefferson Parish Planning Department"/>
   <changeset_tag k="source_file" v="8175_13525"/>
-  <node visible="true" id="-1" lat="29.94461042534919670288218185" lon="-90.17953906076574810413148953"/>
-  <node visible="true" id="-2" lat="29.94460452231824731939013873" lon="-90.17953229264516323837597156"/>
-  <node visible="true" id="-3" lat="29.94463198768571032815088984" lon="-90.17949700277043234564189333"/>
-  <node visible="true" id="-4" lat="29.94456279454100666725935298" lon="-90.17942641927105285049037775"/>
-  <node visible="true" id="-5" lat="29.94453119603263147041616321" lon="-90.17947383841580233365675667"/>
-  <node visible="true" id="-6" lat="29.94454538411776667317099054" lon="-90.17948543780535430869349511"/>
-  <node visible="true" id="-7" lat="29.94450733160334365834387427" lon="-90.17952704930799256999307545"/>
-  <node visible="true" id="-8" lat="29.94446214174183751310920343" lon="-90.17948492922846526198554784"/>
-  <node visible="true" id="-9" lat="29.94441401317312667629266798" lon="-90.17954577289656015182117699"/>
-  <node visible="true" id="-10" lat="29.94451426644471681015602371" lon="-90.17966249368069497904798482"/>
+  <node visible="true" id="-1" lat="29.94460452231826863567221153" lon="-90.17953229264517744923068676"/>
+  <node visible="true" id="-2" lat="29.94463198768571032815088984" lon="-90.17949700277044655649660854"/>
+  <node visible="true" id="-3" lat="29.94455995463767905562235683" lon="-90.17942352230429037263093051"/>
+  <node visible="true" id="-4" lat="29.94453398299487645317640272" lon="-90.17947684407633346381771844"/>
+  <node visible="true" id="-5" lat="29.94454607158960968149585824" lon="-90.17948468603525213893590262"/>
+  <node visible="true" id="-6" lat="29.94451100651061636881422601" lon="-90.17952303069344566210929770"/>
+  <node visible="true" id="-7" lat="29.94445879469709126396992360" lon="-90.17948916053079244647960877"/>
+  <node visible="true" id="-8" lat="29.94441401317311957086531038" lon="-90.17954577289656015182117699"/>
+  <node visible="true" id="-9" lat="29.94451426644472391558338131" lon="-90.17966249368070918990270002"/>
+  <node visible="true" id="-10" lat="29.94461042534920380830953945" lon="-90.17953906076576231498620473"/>
   <way visible="true" id="-1">
     <nd ref="-1"/>
     <nd ref="-2"/>
@@ -26,17 +26,18 @@
     <nd ref="-10"/>
     <nd ref="-1"/>
     <tag k="building" v="yes"/>
+    <tag k="building:levels" v="2"/>
     <tag k="addr:housenumber" v="117"/>
     <tag k="addr:street" v="Bourgeois Court"/>
     <tag k="addr:city" v="Jefferson"/>
     <tag k="addr:postcode" v="70123"/>
   </way>
-  <node visible="true" id="-11" lat="29.93968050580985362785213511" lon="-90.18656232341291456577891950"/>
-  <node visible="true" id="-12" lat="29.93986703702072560417946079" lon="-90.18678829702675159296632046"/>
-  <node visible="true" id="-13" lat="29.94026938200379106547188712" lon="-90.18636483438490358821582049"/>
-  <node visible="true" id="-14" lat="29.94015413828484284408659732" lon="-90.18622155943580764869693667"/>
-  <node visible="true" id="-15" lat="29.94017241926978201149722736" lon="-90.18620140465262124962464441"/>
-  <node visible="true" id="-16" lat="29.94010436509360673085211602" lon="-90.18611617522211076902749483"/>
+  <node visible="true" id="-11" lat="29.93986630964237960483842471" lon="-90.18679122191977626243897248"/>
+  <node visible="true" id="-12" lat="29.94026822018975408923324721" lon="-90.18636391804729157684050733"/>
+  <node visible="true" id="-13" lat="29.94015421582165004110720474" lon="-90.18622111762061877016094513"/>
+  <node visible="true" id="-14" lat="29.94017257136894727409526240" lon="-90.18620160232283922141505172"/>
+  <node visible="true" id="-15" lat="29.94010339865927150526658806" lon="-90.18611495752716677998250816"/>
+  <node visible="true" id="-16" lat="29.93968313181179752291427576" lon="-90.18656177669741680347215151"/>
   <way visible="true" id="-2">
     <nd ref="-11"/>
     <nd ref="-12"/>
@@ -46,6 +47,7 @@
     <nd ref="-16"/>
     <nd ref="-11"/>
     <tag k="building" v="yes"/>
+    <tag k="building:levels" v="1"/>
     <tag k="addr:housenumber" v="130"/>
     <tag k="addr:street" v="Brookhollow Esplanade"/>
     <tag k="addr:city" v="Jefferson"/>
@@ -57,10 +59,10 @@
     <tag k="addr:city" v="Jefferson"/>
     <tag k="addr:postcode" v="70123"/>
   </node>
-  <node visible="true" id="-18" lat="29.94514503629537216511380393" lon="-90.18601533186401297825796064"/>
-  <node visible="true" id="-19" lat="29.94524663141167408753062773" lon="-90.18590936540149982647562865"/>
-  <node visible="true" id="-20" lat="29.94517141121835024364372657" lon="-90.18581404613149743454414420"/>
-  <node visible="true" id="-21" lat="29.94506981617777796600421425" lon="-90.18592001261119150967715541"/>
+  <node visible="true" id="-18" lat="29.94524646622020469521885389" lon="-90.18590935609111625126388390"/>
+  <node visible="true" id="-19" lat="29.94517141932022141759262013" lon="-90.18581385553822826750547392"/>
+  <node visible="true" id="-20" lat="29.94506998129323349644437258" lon="-90.18592002191299172864091815"/>
+  <node visible="true" id="-21" lat="29.94514502826978841198979353" lon="-90.18601552246587971239932813"/>
   <way visible="true" id="-3">
     <nd ref="-18"/>
     <nd ref="-19"/>
@@ -68,21 +70,22 @@
     <nd ref="-21"/>
     <nd ref="-18"/>
     <tag k="building" v="yes"/>
+    <tag k="building:levels" v="1"/>
     <tag k="addr:housenumber" v="100"/>
     <tag k="addr:street" v="Edwards Avenue"/>
     <tag k="addr:city" v="Jefferson"/>
     <tag k="addr:postcode" v="70123"/>
   </way>
-  <node visible="true" id="-22" lat="29.94509215849733507752716832" lon="-90.18652701960833439898124197"/>
-  <node visible="true" id="-23" lat="29.94518284841287325548364606" lon="-90.18643331448943456507549854"/>
-  <node visible="true" id="-24" lat="29.94499614540165666198845429" lon="-90.18619895872662084457260789"/>
-  <node visible="true" id="-25" lat="29.94488905124971722671034513" lon="-90.18631229869652088382281363"/>
-  <node visible="true" id="-26" lat="29.94493233090160089204800897" lon="-90.18636282500543188689334784"/>
-  <node visible="true" id="-27" lat="29.94491826109688759061100427" lon="-90.18637766024950508381152758"/>
-  <node visible="true" id="-28" lat="29.94500729529028859587924671" lon="-90.18649239567568542952358257"/>
-  <node visible="true" id="-29" lat="29.94501711946649180617896491" lon="-90.18647923985200520746730035"/>
-  <node visible="true" id="-30" lat="29.94504871002972379301354522" lon="-90.18651963722633979614329292"/>
-  <node visible="true" id="-31" lat="29.94506840191462515576859005" lon="-90.18649821590901183299138211"/>
+  <node visible="true" id="-22" lat="29.94518154023641542949007999" lon="-90.18643459459707401038031094"/>
+  <node visible="true" id="-23" lat="29.94499796266169155956049508" lon="-90.18619833379597139355610125"/>
+  <node visible="true" id="-24" lat="29.94488962455830716180571471" lon="-90.18631044969770016450638650"/>
+  <node visible="true" id="-25" lat="29.94493127595635684201624827" lon="-90.18636405414777357236744137"/>
+  <node visible="true" id="-26" lat="29.94491816955286012102988025" lon="-90.18637761757486259739380330"/>
+  <node visible="true" id="-27" lat="29.94501163692592626830446534" lon="-90.18649790813194044858391862"/>
+  <node visible="true" id="-28" lat="29.94501278693489254578707914" lon="-90.18647353444721659343485953"/>
+  <node visible="true" id="-29" lat="29.94504842969473656921763904" lon="-90.18651940596501503932813648"/>
+  <node visible="true" id="-30" lat="29.94506900774689128752470424" lon="-90.18649811032230445562163368"/>
+  <node visible="true" id="-31" lat="29.94509180895226307939083199" lon="-90.18652745503149503747408744"/>
   <way visible="true" id="-4">
     <nd ref="-22"/>
     <nd ref="-23"/>
@@ -96,19 +99,20 @@
     <nd ref="-31"/>
     <nd ref="-22"/>
     <tag k="building" v="yes"/>
+    <tag k="building:levels" v="1"/>
     <tag k="addr:housenumber" v="203"/>
     <tag k="addr:street" v="Plauche Court"/>
     <tag k="addr:city" v="Jefferson"/>
     <tag k="addr:postcode" v="70123"/>
   </way>
-  <node visible="true" id="-32" lat="29.94345048479148374553915346" lon="-90.18639995741699522113776766"/>
-  <node visible="true" id="-33" lat="29.94328572736521110186913575" lon="-90.18657483607115921131480718"/>
-  <node visible="true" id="-34" lat="29.94361371502199276051214838" lon="-90.18698235761993942105618771"/>
-  <node visible="true" id="-35" lat="29.94377971707823604674558737" lon="-90.18680674684880216318560997"/>
-  <node visible="true" id="-36" lat="29.94373358702467768921451352" lon="-90.18674985351459838511800626"/>
-  <node visible="true" id="-37" lat="29.94376145897744834201148478" lon="-90.18672010471492228589340812"/>
-  <node visible="true" id="-38" lat="29.94371152869425500853139965" lon="-90.18665751276587627671688097"/>
-  <node visible="true" id="-39" lat="29.94368303874719217105848657" lon="-90.18668798762602989427250577"/>
+  <node visible="true" id="-32" lat="29.94328624981096353963039292" lon="-90.18657487498198577213770477"/>
+  <node visible="true" id="-33" lat="29.94361383785909680455006310" lon="-90.18698312287489216032554395"/>
+  <node visible="true" id="-34" lat="29.94377920123737979452016589" lon="-90.18680640159142569700634340"/>
+  <node visible="true" id="-35" lat="29.94373372368984931313207198" lon="-90.18674972623271912652853644"/>
+  <node visible="true" id="-36" lat="29.94376153024191822282773501" lon="-90.18672000978554592620639596"/>
+  <node visible="true" id="-37" lat="29.94371145538952561082624015" lon="-90.18665760515271756503352663"/>
+  <node visible="true" id="-38" lat="29.94368264728329620538715972" lon="-90.18668839193020403399714269"/>
+  <node visible="true" id="-39" lat="29.94345061219136283625630313" lon="-90.18639922402887521002412541"/>
   <way visible="true" id="-5">
     <nd ref="-32"/>
     <nd ref="-33"/>
@@ -120,15 +124,16 @@
     <nd ref="-39"/>
     <nd ref="-32"/>
     <tag k="building" v="yes"/>
+    <tag k="building:levels" v="1"/>
     <tag k="addr:housenumber" v="5749"/>
     <tag k="addr:street" v="Jefferson Highway"/>
     <tag k="addr:city" v="Jefferson"/>
     <tag k="addr:postcode" v="70123"/>
   </way>
-  <node visible="true" id="-40" lat="29.94278341408922017308213981" lon="-90.18402093488161597178986995"/>
-  <node visible="true" id="-41" lat="29.94212559375584703502681805" lon="-90.18321168502504292519006412"/>
-  <node visible="true" id="-42" lat="29.94182273932957727424764016" lon="-90.18353530107390270131872967"/>
-  <node visible="true" id="-43" lat="29.94247993879259084337718377" lon="-90.18434527564593850001983810"/>
+  <node visible="true" id="-40" lat="29.94212579137946761420607800" lon="-90.18321009032929680415691109"/>
+  <node visible="true" id="-41" lat="29.94182380846888591463539342" lon="-90.18353553060879335134814028"/>
+  <node visible="true" id="-42" lat="29.94248005260627110146742780" lon="-90.18434650798396035042969743"/>
+  <node visible="true" id="-43" lat="29.94278203352457978780876147" lon="-90.18402106770444959238375304"/>
   <way visible="true" id="-6">
     <nd ref="-40"/>
     <nd ref="-41"/>
@@ -136,60 +141,61 @@
     <nd ref="-43"/>
     <nd ref="-40"/>
     <tag k="building" v="yes"/>
+    <tag k="building:levels" v="1"/>
   </way>
   <node visible="true" id="-44" lat="29.94227321288956389366830990" lon="-90.18374629831586730688286480">
     <tag k="addr:housenumber" v="5600"/>
     <tag k="addr:street" v="Jefferson Highway"/>
     <tag k="addr:city" v="Jefferson"/>
     <tag k="addr:postcode" v="70123"/>
-    <tag k="addr:unit" v="West-3"/>
+    <tag k="addr:unit" v="W-3"/>
   </node>
   <node visible="true" id="-45" lat="29.94214770997481522840644175" lon="-90.18331604608380303034209646">
     <tag k="addr:housenumber" v="5600"/>
     <tag k="addr:street" v="Jefferson Highway"/>
     <tag k="addr:city" v="Jefferson"/>
     <tag k="addr:postcode" v="70123"/>
-    <tag k="addr:unit" v="West-3 284"/>
+    <tag k="addr:unit" v="W-3 284"/>
   </node>
   <node visible="true" id="-46" lat="29.94224201963396936321260000" lon="-90.18345474671208705785829807">
     <tag k="addr:housenumber" v="5600"/>
     <tag k="addr:street" v="Jefferson Highway"/>
     <tag k="addr:city" v="Jefferson"/>
     <tag k="addr:postcode" v="70123"/>
-    <tag k="addr:unit" v="West-3 292"/>
+    <tag k="addr:unit" v="W-3 292"/>
   </node>
   <node visible="true" id="-47" lat="29.94234707080615720542482450" lon="-90.18359332488164170626987470">
     <tag k="addr:housenumber" v="5600"/>
     <tag k="addr:street" v="Jefferson Highway"/>
     <tag k="addr:city" v="Jefferson"/>
     <tag k="addr:postcode" v="70123"/>
-    <tag k="addr:unit" v="West-3 296"/>
+    <tag k="addr:unit" v="W-3 296"/>
   </node>
   <node visible="true" id="-48" lat="29.94248456049716367033397546" lon="-90.18375619766116813025291776">
     <tag k="addr:housenumber" v="5600"/>
     <tag k="addr:street" v="Jefferson Highway"/>
     <tag k="addr:city" v="Jefferson"/>
     <tag k="addr:postcode" v="70123"/>
-    <tag k="addr:unit" v="West-3  300"/>
+    <tag k="addr:unit" v="W-3  300"/>
   </node>
   <node visible="true" id="-49" lat="29.94266956408998581196101441" lon="-90.18402953296202895216993056">
     <tag k="addr:housenumber" v="5600"/>
     <tag k="addr:street" v="Jefferson Highway"/>
     <tag k="addr:city" v="Jefferson"/>
     <tag k="addr:postcode" v="70123"/>
-    <tag k="addr:unit" v="West-3  308"/>
+    <tag k="addr:unit" v="W-3  308"/>
   </node>
   <node visible="true" id="-50" lat="29.94258262982537743823741039" lon="-90.18391541428175628425378818">
     <tag k="addr:housenumber" v="5600"/>
     <tag k="addr:street" v="Jefferson Highway"/>
     <tag k="addr:city" v="Jefferson"/>
     <tag k="addr:postcode" v="70123"/>
-    <tag k="addr:unit" v="West-3 304"/>
+    <tag k="addr:unit" v="W-3 304"/>
   </node>
-  <node visible="true" id="-51" lat="29.94537358675472660252125934" lon="-90.18053259931981813224410871"/>
-  <node visible="true" id="-52" lat="29.94536134377925762350969308" lon="-90.18056216979954342605196871"/>
-  <node visible="true" id="-53" lat="29.94538898441953023166206549" lon="-90.18057764295993194991751807"/>
-  <node visible="true" id="-54" lat="29.94540122738931486878755095" lon="-90.18054807143798257129674312"/>
+  <node visible="true" id="-51" lat="29.94536128586367951243119023" lon="-90.18056219344869361975725042"/>
+  <node visible="true" id="-52" lat="29.94538896415269135786729748" lon="-90.18057757586032607832748909"/>
+  <node visible="true" id="-53" lat="29.94540128530602629552959115" lon="-90.18054804830993020914320368"/>
+  <node visible="true" id="-54" lat="29.94537360702040373894305958" lon="-90.18053266589831196142768022"/>
   <way visible="true" id="-7">
     <nd ref="-51"/>
     <nd ref="-52"/>
@@ -223,6 +229,7 @@
     <nd ref="-65"/>
     <nd ref="-55"/>
     <tag k="building" v="yes"/>
+    <tag k="building:levels" v="1"/>
   </way>
   <node visible="true" id="-66" lat="29.94376905661015797477375600" lon="-90.18099393620917680891579948">
     <tag k="addr:housenumber" v="141"/>
@@ -263,6 +270,7 @@
     <nd ref="-77"/>
     <nd ref="-69"/>
     <tag k="building" v="yes"/>
+    <tag k="building:levels" v="1"/>
     <tag k="addr:housenumber" v="101"/>
     <tag k="addr:street" v="Evans Road"/>
     <tag k="addr:city" v="Jefferson"/>
@@ -284,14 +292,14 @@
     <nd ref="-78"/>
     <tag k="building" v="yes"/>
   </way>
-  <node visible="true" id="-84" lat="29.94219382192211043047791463" lon="-90.18467566862838680208369624"/>
-  <node visible="true" id="-85" lat="29.94193584051578227445133962" lon="-90.18494296818325040021591121"/>
-  <node visible="true" id="-86" lat="29.94216674106988662629191822" lon="-90.18522497530467774140561232"/>
-  <node visible="true" id="-87" lat="29.94224572969773134900606237" lon="-90.18514476800193335748190293"/>
-  <node visible="true" id="-88" lat="29.94236538342487463637553446" lon="-90.18529556054772911011241376"/>
-  <node visible="true" id="-89" lat="29.94253198964817386240611086" lon="-90.18511778948860069249349181"/>
-  <node visible="true" id="-90" lat="29.94242335066192595149914268" lon="-90.18497575340246896757889772"/>
-  <node visible="true" id="-91" lat="29.94242291666571631481019722" lon="-90.18495362951637162041151896"/>
+  <node visible="true" id="-84" lat="29.94482020309574821226306085" lon="-90.17829771582559317266714061"/>
+  <node visible="true" id="-85" lat="29.94475448042139476001466392" lon="-90.17836725457691215979139088"/>
+  <node visible="true" id="-86" lat="29.94473990404403096476926294" lon="-90.17834890636302702660032082"/>
+  <node visible="true" id="-87" lat="29.94470187797191940148877620" lon="-90.17838914032839170431543607"/>
+  <node visible="true" id="-88" lat="29.94471841520515198453722405" lon="-90.17840995678859883355471538"/>
+  <node visible="true" id="-89" lat="29.94461650691828680237449589" lon="-90.17851778207945301346626366"/>
+  <node visible="true" id="-90" lat="29.94471074255078235637483886" lon="-90.17863640236775779612798942"/>
+  <node visible="true" id="-91" lat="29.94491639938160076894746453" lon="-90.17841880436026258394122124"/>
   <way visible="true" id="-11">
     <nd ref="-84"/>
     <nd ref="-85"/>
@@ -303,168 +311,173 @@
     <nd ref="-91"/>
     <nd ref="-84"/>
     <tag k="building" v="yes"/>
-    <tag k="addr:housenumber" v="5734"/>
-    <tag k="addr:street" v="Jefferson Highway"/>
-    <tag k="addr:city" v="Jefferson"/>
-    <tag k="addr:postcode" v="70123"/>
+    <tag k="building:levels" v="1"/>
   </way>
-  <node visible="true" id="-92" lat="29.94112455452860288573901926" lon="-90.18667335856774514013523003"/>
-  <node visible="true" id="-93" lat="29.94140451494939725307631306" lon="-90.18637585690488833733979845"/>
-  <node visible="true" id="-94" lat="29.94131035477470703654034878" lon="-90.18625922568769226472795708"/>
-  <node visible="true" id="-95" lat="29.94103039461403525933747005" lon="-90.18655672739701856244209921"/>
-  <way visible="true" id="-12">
-    <nd ref="-92"/>
-    <nd ref="-93"/>
-    <nd ref="-94"/>
-    <nd ref="-95"/>
-    <nd ref="-92"/>
-    <tag k="building" v="yes"/>
-    <tag k="addr:housenumber" v="175"/>
-    <tag k="addr:street" v="Brookhollow Esplanade"/>
-    <tag k="addr:city" v="Jefferson"/>
-    <tag k="addr:postcode" v="70123"/>
-  </way>
-  <node visible="true" id="-96" lat="29.93973473229463522216065030" lon="-90.18635402013758550765487598"/>
-  <node visible="true" id="-97" lat="29.93950349042237490948537015" lon="-90.18607316487970138041418977"/>
-  <node visible="true" id="-98" lat="29.93925144448238029326603282" lon="-90.18634593683147215870121727"/>
-  <node visible="true" id="-99" lat="29.93948269293871078389202012" lon="-90.18662750982038289748743409"/>
-  <way visible="true" id="-13">
-    <nd ref="-96"/>
-    <nd ref="-97"/>
-    <nd ref="-98"/>
-    <nd ref="-99"/>
-    <nd ref="-96"/>
-    <tag k="building" v="yes"/>
-    <tag k="addr:housenumber" v="5901"/>
-    <tag k="addr:street" v="River Road"/>
-    <tag k="addr:city" v="Jefferson"/>
-    <tag k="addr:postcode" v="70123"/>
-  </way>
-  <node visible="true" id="-100" lat="29.94491684233477002408108092" lon="-90.17841895011939357118535554"/>
-  <node visible="true" id="-101" lat="29.94482013755145999311935157" lon="-90.17829804513591795966931386"/>
-  <node visible="true" id="-102" lat="29.94475448017509222609078279" lon="-90.17836699487720863999129506"/>
-  <node visible="true" id="-103" lat="29.94473994635430713628920785" lon="-90.17834921901130940113944234"/>
-  <node visible="true" id="-104" lat="29.94470153923091970682435203" lon="-90.17838914132229888309666421"/>
-  <node visible="true" id="-105" lat="29.94471859896054866112535819" lon="-90.17840976070456804336572532"/>
-  <node visible="true" id="-106" lat="29.94461640269290825244752341" lon="-90.17851789401564133186184336"/>
-  <node visible="true" id="-107" lat="29.94471058228791804367574514" lon="-90.17863595750363003844540799"/>
-  <way visible="true" id="-14">
-    <nd ref="-100"/>
-    <nd ref="-101"/>
-    <nd ref="-102"/>
-    <nd ref="-103"/>
-    <nd ref="-104"/>
-    <nd ref="-105"/>
-    <nd ref="-106"/>
-    <nd ref="-107"/>
-    <nd ref="-100"/>
-    <tag k="building" v="yes"/>
-  </way>
-  <node visible="true" id="-108" lat="29.94481473469035748280475673" lon="-90.17835792165621455751534086">
+  <node visible="true" id="-92" lat="29.94481473469035748280475673" lon="-90.17835792165621455751534086">
     <tag k="addr:housenumber" v="5333"/>
     <tag k="addr:street" v="River Road"/>
     <tag k="addr:city" v="Jefferson"/>
     <tag k="addr:postcode" v="70123"/>
     <tag k="addr:unit" v="D"/>
   </node>
-  <node visible="true" id="-109" lat="29.94474411732442220568373159" lon="-90.17852426354905048810906010">
+  <node visible="true" id="-93" lat="29.94474411732442220568373159" lon="-90.17852426354905048810906010">
     <tag k="addr:housenumber" v="5333"/>
     <tag k="addr:street" v="River Road"/>
     <tag k="addr:city" v="Jefferson"/>
     <tag k="addr:postcode" v="70123"/>
-    <tag k="addr:unit" v="East"/>
+    <tag k="addr:unit" v="E"/>
   </node>
-  <node visible="true" id="-110" lat="29.94481537029957962658954784" lon="-90.17843033089826576542691328">
+  <node visible="true" id="-94" lat="29.94481537029957962658954784" lon="-90.17843033089826576542691328">
     <tag k="addr:housenumber" v="5333"/>
     <tag k="addr:street" v="River Road"/>
     <tag k="addr:city" v="Jefferson"/>
     <tag k="addr:postcode" v="70123"/>
     <tag k="addr:unit" v="B"/>
   </node>
-  <node visible="true" id="-111" lat="29.94485598232093437331968744" lon="-90.17846789251316863555985037">
+  <node visible="true" id="-95" lat="29.94485598232093437331968744" lon="-90.17846789251316863555985037">
     <tag k="addr:housenumber" v="5333"/>
     <tag k="addr:street" v="River Road"/>
     <tag k="addr:city" v="Jefferson"/>
     <tag k="addr:postcode" v="70123"/>
   </node>
-  <node visible="true" id="-112" lat="29.94480288805834078402767773" lon="-90.17848233824169312811136479">
+  <node visible="true" id="-96" lat="29.94480288805834078402767773" lon="-90.17848233824169312811136479">
     <tag k="addr:housenumber" v="5333"/>
     <tag k="addr:street" v="River Road"/>
     <tag k="addr:city" v="Jefferson"/>
     <tag k="addr:postcode" v="70123"/>
     <tag k="addr:unit" v="A"/>
   </node>
-  <node visible="true" id="-113" lat="29.94476575529817097276463755" lon="-90.17846577905224592086597113">
+  <node visible="true" id="-97" lat="29.94476575529817097276463755" lon="-90.17846577905224592086597113">
     <tag k="addr:housenumber" v="5333"/>
     <tag k="addr:street" v="River Road"/>
     <tag k="addr:city" v="Jefferson"/>
     <tag k="addr:postcode" v="70123"/>
     <tag k="addr:unit" v="C"/>
   </node>
-  <node visible="true" id="-114" lat="29.94467195639478163116109499" lon="-90.17851475340168576622090768">
+  <node visible="true" id="-98" lat="29.94467195639478163116109499" lon="-90.17851475340168576622090768">
     <tag k="addr:housenumber" v="5333"/>
     <tag k="addr:street" v="River Road"/>
     <tag k="addr:city" v="Jefferson"/>
     <tag k="addr:postcode" v="70123"/>
     <tag k="addr:unit" v="F"/>
   </node>
-  <node visible="true" id="-115" lat="29.94225120329927847251383355" lon="-90.18025715441132206251495518"/>
-  <node visible="true" id="-116" lat="29.94222976314836515143724682" lon="-90.18023586896659082867699908"/>
-  <node visible="true" id="-117" lat="29.94220566258126581260512467" lon="-90.18026772929250967081316048"/>
-  <node visible="true" id="-118" lat="29.94222710901805584171597729" lon="-90.18028973257689528963965131"/>
-  <way visible="true" id="-15">
-    <nd ref="-115"/>
-    <nd ref="-116"/>
-    <nd ref="-117"/>
-    <nd ref="-118"/>
-    <nd ref="-115"/>
+  <node visible="true" id="-99" lat="29.94222976683771264561073622" lon="-90.18023577548211733301286586"/>
+  <node visible="true" id="-100" lat="29.94220558965109191262854438" lon="-90.18026791482049020487465896"/>
+  <node visible="true" id="-101" lat="29.94222710218835104001300351" lon="-90.18028946714152027652744437"/>
+  <node visible="true" id="-102" lat="29.94225127936977415288311022" lon="-90.18025732780314740466565127"/>
+  <way visible="true" id="-12">
+    <nd ref="-99"/>
+    <nd ref="-100"/>
+    <nd ref="-101"/>
+    <nd ref="-102"/>
+    <nd ref="-99"/>
     <tag k="building" v="yes"/>
   </way>
-  <node visible="true" id="-119" lat="29.94183427514999706886555941" lon="-90.17997486359450931558967568"/>
-  <node visible="true" id="-120" lat="29.94191074996690815623878734" lon="-90.18007016186197688512038440"/>
-  <node visible="true" id="-121" lat="29.94200675870395400579582201" lon="-90.17996928161937830736860633"/>
-  <node visible="true" id="-122" lat="29.94192965955088325813449046" lon="-90.17987399158899108897458063"/>
-  <way visible="true" id="-16">
-    <nd ref="-119"/>
-    <nd ref="-120"/>
-    <nd ref="-121"/>
-    <nd ref="-122"/>
-    <nd ref="-119"/>
+  <node visible="true" id="-103" lat="29.94191089048138820771782775" lon="-90.18007059759217725058988435"/>
+  <node visible="true" id="-104" lat="29.94200622324343896707432577" lon="-90.17996926568889648478943855"/>
+  <node visible="true" id="-105" lat="29.94192983124141704820431187" lon="-90.17987355174022923165466636"/>
+  <node visible="true" id="-106" lat="29.94183449840616262349612953" lon="-90.17997488364352420830982737"/>
+  <way visible="true" id="-13">
+    <nd ref="-103"/>
+    <nd ref="-104"/>
+    <nd ref="-105"/>
+    <nd ref="-106"/>
+    <nd ref="-103"/>
     <tag k="building" v="yes"/>
     <tag k="addr:housenumber" v="5802"/>
     <tag k="addr:street" v="River Road"/>
     <tag k="addr:city" v="Jefferson"/>
     <tag k="addr:postcode" v="70123"/>
   </way>
-  <node visible="true" id="-123" lat="29.94156546290465215065523807" lon="-90.17933197826289415388600901"/>
-  <node visible="true" id="-124" lat="29.94151949328713868681006716" lon="-90.17929375019274118585599354"/>
-  <node visible="true" id="-125" lat="29.94148990667113707786484156" lon="-90.17934146580988397090550279"/>
-  <node visible="true" id="-126" lat="29.94153587537291016928975296" lon="-90.17937969390106900391401723"/>
-  <way visible="true" id="-17">
-    <nd ref="-123"/>
-    <nd ref="-124"/>
-    <nd ref="-125"/>
-    <nd ref="-126"/>
-    <nd ref="-123"/>
+  <node visible="true" id="-107" lat="29.94151950371237447257044550" lon="-90.17929382191606180185772246"/>
+  <node visible="true" id="-108" lat="29.94148984428346338404480775" lon="-90.17934147757790697141899727"/>
+  <node visible="true" id="-109" lat="29.94153586541239775442591053" lon="-90.17937962216726077713246923"/>
+  <node visible="true" id="-110" lat="29.94156552482758115729666315" lon="-90.17933196650537297500704881"/>
+  <way visible="true" id="-14">
+    <nd ref="-107"/>
+    <nd ref="-108"/>
+    <nd ref="-109"/>
+    <nd ref="-110"/>
+    <nd ref="-107"/>
     <tag k="building" v="yes"/>
   </way>
-  <node visible="true" id="-127" lat="29.94546527646197020544605039" lon="-90.18244833764515533403027803"/>
-  <node visible="true" id="-128" lat="29.94514684588598996128894214" lon="-90.18192012433642901214625454"/>
-  <node visible="true" id="-129" lat="29.94456092421397386260650819" lon="-90.18254203151317938136344310"/>
-  <node visible="true" id="-130" lat="29.94502910487508984260784928" lon="-90.18312188268737372709438205"/>
-  <node visible="true" id="-131" lat="29.94553708616931686492534936" lon="-90.18258792830432923892658437"/>
-  <node visible="true" id="-132" lat="29.94544348663620425554654503" lon="-90.18247150895521713209745940"/>
-  <way visible="true" id="-18">
+  <node visible="true" id="-111" lat="29.94513044010466273903148249" lon="-90.18195224183807567897019908"/>
+  <node visible="true" id="-112" lat="29.94456252196175682911416516" lon="-90.18252484423663872803444974"/>
+  <node visible="true" id="-113" lat="29.94501614413017875904188259" lon="-90.18312405988164925929595483"/>
+  <node visible="true" id="-114" lat="29.94554021133539123411537730" lon="-90.18259566781509306565567385"/>
+  <node visible="true" id="-115" lat="29.94544477910953261812210258" lon="-90.18246960500107434199890122"/>
+  <node visible="true" id="-116" lat="29.94548862749915585368398752" lon="-90.18242539466908169742964674"/>
+  <way visible="true" id="-15">
+    <nd ref="-111"/>
+    <nd ref="-112"/>
+    <nd ref="-113"/>
+    <nd ref="-114"/>
+    <nd ref="-115"/>
+    <nd ref="-116"/>
+    <nd ref="-111"/>
+    <tag k="building" v="yes"/>
+    <tag k="building:levels" v="1"/>
+    <tag k="addr:housenumber" v="301"/>
+    <tag k="addr:street" v="Evans Road"/>
+    <tag k="addr:city" v="Jefferson"/>
+    <tag k="addr:postcode" v="70123"/>
+  </way>
+  <node visible="true" id="-117" lat="29.94219382192211043047791463" lon="-90.18467566862838680208369624"/>
+  <node visible="true" id="-118" lat="29.94193584051578227445133962" lon="-90.18494296818325040021591121"/>
+  <node visible="true" id="-119" lat="29.94216674106988662629191822" lon="-90.18522497530467774140561232"/>
+  <node visible="true" id="-120" lat="29.94224572969773134900606237" lon="-90.18514476800193335748190293"/>
+  <node visible="true" id="-121" lat="29.94236538342487463637553446" lon="-90.18529556054772911011241376"/>
+  <node visible="true" id="-122" lat="29.94253198964817386240611086" lon="-90.18511778948860069249349181"/>
+  <node visible="true" id="-123" lat="29.94242335066192595149914268" lon="-90.18497575340246896757889772"/>
+  <node visible="true" id="-124" lat="29.94242291666571631481019722" lon="-90.18495362951637162041151896"/>
+  <way visible="true" id="-16">
+    <nd ref="-117"/>
+    <nd ref="-118"/>
+    <nd ref="-119"/>
+    <nd ref="-120"/>
+    <nd ref="-121"/>
+    <nd ref="-122"/>
+    <nd ref="-123"/>
+    <nd ref="-124"/>
+    <nd ref="-117"/>
+    <tag k="building" v="yes"/>
+    <tag k="building:levels" v="1"/>
+    <tag k="addr:housenumber" v="5734"/>
+    <tag k="addr:street" v="Jefferson Highway"/>
+    <tag k="addr:city" v="Jefferson"/>
+    <tag k="addr:postcode" v="70123"/>
+  </way>
+  <node visible="true" id="-125" lat="29.94140409693905624521903519" lon="-90.18637583776762767229229212"/>
+  <node visible="true" id="-126" lat="29.94131037147797158581852273" lon="-90.18625874345860893299686722"/>
+  <node visible="true" id="-127" lat="29.94103081236336194592695392" lon="-90.18655674651105869088496547"/>
+  <node visible="true" id="-128" lat="29.94112453808786966646948713" lon="-90.18667384082007743018039037"/>
+  <way visible="true" id="-17">
+    <nd ref="-125"/>
+    <nd ref="-126"/>
     <nd ref="-127"/>
     <nd ref="-128"/>
+    <nd ref="-125"/>
+    <tag k="building" v="yes"/>
+    <tag k="building:levels" v="1"/>
+    <tag k="addr:housenumber" v="175"/>
+    <tag k="addr:street" v="Brookhollow Esplanade"/>
+    <tag k="addr:city" v="Jefferson"/>
+    <tag k="addr:postcode" v="70123"/>
+  </way>
+  <node visible="true" id="-129" lat="29.93950350708818319844795042" lon="-90.18607225884872491405985784"/>
+  <node visible="true" id="-130" lat="29.93925207561927948063384974" lon="-90.18634613722703363691834966"/>
+  <node visible="true" id="-131" lat="29.93948267327380463598274218" lon="-90.18662805698582474178692792"/>
+  <node visible="true" id="-132" lat="29.93973410415988922750329948" lon="-90.18635417860751601892843610"/>
+  <way visible="true" id="-18">
     <nd ref="-129"/>
     <nd ref="-130"/>
     <nd ref="-131"/>
     <nd ref="-132"/>
-    <nd ref="-127"/>
+    <nd ref="-129"/>
     <tag k="building" v="yes"/>
-    <tag k="addr:housenumber" v="301"/>
-    <tag k="addr:street" v="Evans Road"/>
+    <tag k="building:levels" v="1"/>
+    <tag k="addr:housenumber" v="5901"/>
+    <tag k="addr:street" v="River Road"/>
     <tag k="addr:city" v="Jefferson"/>
     <tag k="addr:postcode" v="70123"/>
   </way>
@@ -484,10 +497,10 @@
     <nd ref="-133"/>
     <tag k="building" v="yes"/>
   </way>
-  <node visible="true" id="-139" lat="29.94477268957933802084880881" lon="-90.18385332250483088500914164"/>
-  <node visible="true" id="-140" lat="29.94322532195241493013782019" lon="-90.18191976400582632322766585"/>
-  <node visible="true" id="-141" lat="29.94292120155664704839182377" lon="-90.18224124843462163880758453"/>
-  <node visible="true" id="-142" lat="29.94445630048995710126291669" lon="-90.18418336139365010239998810"/>
+  <node visible="true" id="-139" lat="29.94322843801693068144231802" lon="-90.18191636110523745628597680"/>
+  <node visible="true" id="-140" lat="29.94291922868569599813781679" lon="-90.18224344205933107332384679"/>
+  <node visible="true" id="-141" lat="29.94445932117671915762002754" lon="-90.18418248706426254557300126"/>
+  <node visible="true" id="-142" lat="29.94476852572021741138996731" lon="-90.18385540611014050682570087"/>
   <way visible="true" id="-20">
     <nd ref="-139"/>
     <nd ref="-140"/>
@@ -495,116 +508,117 @@
     <nd ref="-142"/>
     <nd ref="-139"/>
     <tag k="building" v="yes"/>
+    <tag k="building:levels" v="1"/>
   </way>
   <node visible="true" id="-143" lat="29.94393682436930959056553547" lon="-90.18319865970725857096113032">
     <tag k="addr:housenumber" v="5600"/>
     <tag k="addr:street" v="Jefferson Highway"/>
     <tag k="addr:city" v="Jefferson"/>
     <tag k="addr:postcode" v="70123"/>
-    <tag k="addr:unit" v="West-1"/>
+    <tag k="addr:unit" v="W-1"/>
   </node>
   <node visible="true" id="-144" lat="29.94325476214802250751745305" lon="-90.18207285364934477911447175">
     <tag k="addr:housenumber" v="5600"/>
     <tag k="addr:street" v="Jefferson Highway"/>
     <tag k="addr:city" v="Jefferson"/>
     <tag k="addr:postcode" v="70123"/>
-    <tag k="addr:unit" v="West-1 160"/>
+    <tag k="addr:unit" v="W-1 160"/>
   </node>
   <node visible="true" id="-145" lat="29.94332906980099551219609566" lon="-90.18216244894634314732684288">
     <tag k="addr:housenumber" v="5600"/>
     <tag k="addr:street" v="Jefferson Highway"/>
     <tag k="addr:city" v="Jefferson"/>
     <tag k="addr:postcode" v="70123"/>
-    <tag k="addr:unit" v="West-1 164"/>
+    <tag k="addr:unit" v="W-1 164"/>
   </node>
   <node visible="true" id="-146" lat="29.94342490915480325952557905" lon="-90.18231209708008577763393987">
     <tag k="addr:housenumber" v="5600"/>
     <tag k="addr:street" v="Jefferson Highway"/>
     <tag k="addr:city" v="Jefferson"/>
     <tag k="addr:postcode" v="70123"/>
-    <tag k="addr:unit" v="West-1 168"/>
+    <tag k="addr:unit" v="W-1 168"/>
   </node>
   <node visible="true" id="-147" lat="29.94350977197340313296081149" lon="-90.18240760128936983619496459">
     <tag k="addr:housenumber" v="5600"/>
     <tag k="addr:street" v="Jefferson Highway"/>
     <tag k="addr:city" v="Jefferson"/>
     <tag k="addr:postcode" v="70123"/>
-    <tag k="addr:unit" v="West-1 174"/>
+    <tag k="addr:unit" v="W-1 174"/>
   </node>
   <node visible="true" id="-148" lat="29.94369052640980655155544810" lon="-90.18265878320606532270176103">
     <tag k="addr:housenumber" v="5600"/>
     <tag k="addr:street" v="Jefferson Highway"/>
     <tag k="addr:city" v="Jefferson"/>
     <tag k="addr:postcode" v="70123"/>
-    <tag k="addr:unit" v="West-1 186"/>
+    <tag k="addr:unit" v="W-1 186"/>
   </node>
   <node visible="true" id="-149" lat="29.94377538807162508760484343" lon="-90.18275428797475967712671263">
     <tag k="addr:housenumber" v="5600"/>
     <tag k="addr:street" v="Jefferson Highway"/>
     <tag k="addr:city" v="Jefferson"/>
     <tag k="addr:postcode" v="70123"/>
-    <tag k="addr:unit" v="West-1 190"/>
+    <tag k="addr:unit" v="W-1 190"/>
   </node>
   <node visible="true" id="-150" lat="29.94388162388461438467857079" lon="-90.18289175680259006639971631">
     <tag k="addr:housenumber" v="5600"/>
     <tag k="addr:street" v="Jefferson Highway"/>
     <tag k="addr:city" v="Jefferson"/>
     <tag k="addr:postcode" v="70123"/>
-    <tag k="addr:unit" v="West-1 192"/>
+    <tag k="addr:unit" v="W-1 192"/>
   </node>
   <node visible="true" id="-151" lat="29.94400361343804917169109103" lon="-90.18302904536324149376014248">
     <tag k="addr:housenumber" v="5600"/>
     <tag k="addr:street" v="Jefferson Highway"/>
     <tag k="addr:city" v="Jefferson"/>
     <tag k="addr:postcode" v="70123"/>
-    <tag k="addr:unit" v="West-1 196"/>
+    <tag k="addr:unit" v="W-1 196"/>
   </node>
   <node visible="true" id="-152" lat="29.94411504663971967943325581" lon="-90.18316042453592729088995839">
     <tag k="addr:housenumber" v="5600"/>
     <tag k="addr:street" v="Jefferson Highway"/>
     <tag k="addr:city" v="Jefferson"/>
     <tag k="addr:postcode" v="70123"/>
-    <tag k="addr:unit" v="West-1 200"/>
+    <tag k="addr:unit" v="W-1 200"/>
   </node>
   <node visible="true" id="-153" lat="29.94425830368706442641268950" lon="-90.18332761943065634113736451">
     <tag k="addr:housenumber" v="5600"/>
     <tag k="addr:street" v="Jefferson Highway"/>
     <tag k="addr:city" v="Jefferson"/>
     <tag k="addr:postcode" v="70123"/>
-    <tag k="addr:unit" v="West-1 206"/>
+    <tag k="addr:unit" v="W-1 206"/>
   </node>
   <node visible="true" id="-154" lat="29.94435970916140021813589556" lon="-90.18351338710785114471946144">
     <tag k="addr:housenumber" v="5600"/>
     <tag k="addr:street" v="Jefferson Highway"/>
     <tag k="addr:city" v="Jefferson"/>
     <tag k="addr:postcode" v="70123"/>
-    <tag k="addr:unit" v="West-1 210"/>
+    <tag k="addr:unit" v="W-1 210"/>
   </node>
   <node visible="true" id="-155" lat="29.94458782665726914729020791" lon="-90.18377608829844405136100249">
     <tag k="addr:housenumber" v="5600"/>
     <tag k="addr:street" v="Jefferson Highway"/>
     <tag k="addr:city" v="Jefferson"/>
     <tag k="addr:postcode" v="70123"/>
-    <tag k="addr:unit" v="West-1 220"/>
+    <tag k="addr:unit" v="W-1 220"/>
   </node>
   <node visible="true" id="-156" lat="29.94445003223837886707769940" lon="-90.18363295077853081238572486">
     <tag k="addr:housenumber" v="5600"/>
     <tag k="addr:street" v="Jefferson Highway"/>
     <tag k="addr:city" v="Jefferson"/>
     <tag k="addr:postcode" v="70123"/>
-    <tag k="addr:unit" v="West-1 216"/>
+    <tag k="addr:unit" v="W-1 216"/>
   </node>
   <node visible="true" id="-157" lat="29.94360576925205208453917294" lon="-90.18257533804325021264958195">
     <tag k="addr:housenumber" v="5600"/>
     <tag k="addr:street" v="Jefferson Highway"/>
     <tag k="addr:city" v="Jefferson"/>
     <tag k="addr:postcode" v="70123"/>
-    <tag k="addr:unit" v="West-1 182"/>
+    <tag k="addr:unit" v="W-1 182"/>
   </node>
-  <node visible="true" id="-158" lat="29.94446743393269372290887986" lon="-90.18206262814788942705490626"/>
-  <node visible="true" id="-159" lat="29.94406233136193051791451580" lon="-90.18155982593408737102436135"/>
-  <node visible="true" id="-160" lat="29.94391615704061493374865677" lon="-90.18171440158313600932160625"/>
-  <node visible="true" id="-161" lat="29.94432125812653566754306667" lon="-90.18221720369837157704751007"/>
+  <node visible="true" id="-158" lat="29.94406236113245967089824262" lon="-90.18155894227476210289751180"/>
+  <node visible="true" id="-159" lat="29.94391692224559164969832636" lon="-90.18171443531112174696318107"/>
+  <node visible="true" id="-160" lat="29.94432122939618068357958691" lon="-90.18221808740698008932668017"/>
+  <node visible="true" id="-161" lat="29.94446666769186293777238461" lon="-90.18206259437062044526101090"/>
   <way visible="true" id="-21">
     <nd ref="-158"/>
     <nd ref="-159"/>
@@ -612,6 +626,7 @@
     <nd ref="-161"/>
     <nd ref="-158"/>
     <tag k="building" v="yes"/>
+    <tag k="building:levels" v="1"/>
   </way>
   <node visible="true" id="-162" lat="29.94419774729320593564807496" lon="-90.18197555028949352617928525">
     <tag k="addr:housenumber" v="201"/>
@@ -675,10 +690,10 @@
     <tag k="addr:postcode" v="70123"/>
     <tag k="addr:unit" v="100"/>
   </node>
-  <node visible="true" id="-171" lat="29.94501248229284584567722050" lon="-90.18148497599908353095088387"/>
-  <node visible="true" id="-172" lat="29.94447587648045328023727052" lon="-90.18081357640122064367460553"/>
-  <node visible="true" id="-173" lat="29.94432908415611649388665683" lon="-90.18096887885643297977367183"/>
-  <node visible="true" id="-174" lat="29.94486568200089138258590538" lon="-90.18163956045511042702855775"/>
+  <node visible="true" id="-171" lat="29.94447589928566344497085083" lon="-90.18081317597825830034707906"/>
+  <node visible="true" id="-172" lat="29.94432958447561077264253981" lon="-90.18096872314629308675648645"/>
+  <node visible="true" id="-173" lat="29.94486566357556256434691022" lon="-90.18164031987768680664885323"/>
+  <node visible="true" id="-174" lat="29.94501197759697674882772844" lon="-90.18148477270963780938473064"/>
   <way visible="true" id="-22">
     <nd ref="-171"/>
     <nd ref="-172"/>
@@ -686,6 +701,7 @@
     <nd ref="-174"/>
     <nd ref="-171"/>
     <tag k="building" v="yes"/>
+    <tag k="building:levels" v="1"/>
   </way>
   <node visible="true" id="-175" lat="29.94476627922100675505134859" lon="-90.18135287309532088784180814">
     <tag k="addr:housenumber" v="301"/>
@@ -797,60 +813,61 @@
     <nd ref="-193"/>
     <nd ref="-189"/>
     <tag k="building" v="yes"/>
+    <tag k="building:levels" v="1"/>
   </way>
   <node visible="true" id="-194" lat="29.94274235363207381510619598" lon="-90.18157001450576615297904937">
     <tag k="addr:housenumber" v="5600"/>
     <tag k="addr:street" v="Jefferson Highway"/>
     <tag k="addr:city" v="Jefferson"/>
     <tag k="addr:postcode" v="70123"/>
-    <tag k="addr:unit" v="West-4 122"/>
+    <tag k="addr:unit" v="W-4 122"/>
   </node>
   <node visible="true" id="-195" lat="29.94238201641886121251445729" lon="-90.18212921542151150333666010">
     <tag k="addr:housenumber" v="5600"/>
     <tag k="addr:street" v="Jefferson Highway"/>
     <tag k="addr:city" v="Jefferson"/>
     <tag k="addr:postcode" v="70123"/>
-    <tag k="addr:unit" v="West-4 136"/>
+    <tag k="addr:unit" v="W-4 136"/>
   </node>
   <node visible="true" id="-196" lat="29.94224447006957845474062196" lon="-90.18236926451200474730285350">
     <tag k="addr:housenumber" v="5600"/>
     <tag k="addr:street" v="Jefferson Highway"/>
     <tag k="addr:city" v="Jefferson"/>
     <tag k="addr:postcode" v="70123"/>
-    <tag k="addr:unit" v="West-4 150"/>
+    <tag k="addr:unit" v="W-4 150"/>
   </node>
   <node visible="true" id="-197" lat="29.94206496519580085191591934" lon="-90.18272491710256133501388831">
     <tag k="addr:housenumber" v="5600"/>
     <tag k="addr:street" v="Jefferson Highway"/>
     <tag k="addr:city" v="Jefferson"/>
     <tag k="addr:postcode" v="70123"/>
-    <tag k="addr:unit" v="West-4 156"/>
+    <tag k="addr:unit" v="W-4 156"/>
   </node>
   <node visible="true" id="-198" lat="29.94257173787460502012436336" lon="-90.18212291616586639975139406">
     <tag k="addr:housenumber" v="5600"/>
     <tag k="addr:street" v="Jefferson Highway"/>
     <tag k="addr:city" v="Jefferson"/>
     <tag k="addr:postcode" v="70123"/>
-    <tag k="addr:unit" v="West-4"/>
+    <tag k="addr:unit" v="W-4"/>
   </node>
   <node visible="true" id="-199" lat="29.94289450777034744533011690" lon="-90.18136268597503146793314954">
     <tag k="addr:housenumber" v="5600"/>
     <tag k="addr:street" v="Jefferson Highway"/>
     <tag k="addr:city" v="Jefferson"/>
     <tag k="addr:postcode" v="70123"/>
-    <tag k="addr:unit" v="West-4 112"/>
+    <tag k="addr:unit" v="W-4 112"/>
   </node>
   <node visible="true" id="-200" lat="29.94255507819279316095162358" lon="-90.18185586448235824263974791">
     <tag k="addr:housenumber" v="5600"/>
     <tag k="addr:street" v="Jefferson Highway"/>
     <tag k="addr:city" v="Jefferson"/>
     <tag k="addr:postcode" v="70123"/>
-    <tag k="addr:unit" v="West-4 128"/>
+    <tag k="addr:unit" v="W-4 128"/>
   </node>
-  <node visible="true" id="-201" lat="29.94183947537079859557707096" lon="-90.18465534669034866510628490"/>
-  <node visible="true" id="-202" lat="29.94201960230975956278598460" lon="-90.18445835743617067237209994"/>
-  <node visible="true" id="-203" lat="29.94164448683216761537551065" lon="-90.18399583693651777593913721"/>
-  <node visible="true" id="-204" lat="29.94145993861975796335173072" lon="-90.18418392255762228160165250"/>
+  <node visible="true" id="-201" lat="29.94201956918231743998148886" lon="-90.18446053372403525827394333"/>
+  <node visible="true" id="-202" lat="29.94164342486450891556160059" lon="-90.18399229744218814630585257"/>
+  <node visible="true" id="-203" lat="29.94146218204453191447100835" lon="-90.18418619808628022838092875"/>
+  <node visible="true" id="-204" lat="29.94183832704769088195462245" lon="-90.18465443436816997291316511"/>
   <way visible="true" id="-24">
     <nd ref="-201"/>
     <nd ref="-202"/>
@@ -859,64 +876,33 @@
     <nd ref="-201"/>
     <tag k="building" v="yes"/>
   </way>
-  <node visible="true" id="-205" lat="29.94429029782863338482457038" lon="-90.18132247874689255695557222"/>
-  <node visible="true" id="-206" lat="29.94414536066988574702918413" lon="-90.18147560497108372601360315"/>
-  <node visible="true" id="-207" lat="29.94454544958360031614574837" lon="-90.18197702822027395086479373"/>
-  <node visible="true" id="-208" lat="29.94469038731812915443697420" lon="-90.18182390211043752969999332"/>
+  <node visible="true" id="-205" lat="29.94020301972659581224434078" lon="-90.18486897083752751314023044"/>
+  <node visible="true" id="-206" lat="29.94022949812594447394076269" lon="-90.18489450519702188557857880"/>
+  <node visible="true" id="-207" lat="29.93988144816935204062247067" lon="-90.18526887312198425661335932"/>
+  <node visible="true" id="-208" lat="29.94020624617481374230010260" lon="-90.18566851738907530489086639"/>
+  <node visible="true" id="-209" lat="29.94025393117945554877223913" lon="-90.18561700770112565805902705"/>
+  <node visible="true" id="-210" lat="29.94026693821450635368819349" lon="-90.18560322118929661883157678"/>
+  <node visible="true" id="-211" lat="29.94025369953096316066876170" lon="-90.18559045338608370911970269"/>
+  <node visible="true" id="-212" lat="29.94024171745966000912630989" lon="-90.18557838902964363114733715"/>
+  <node visible="true" id="-213" lat="29.94025343656449678064745967" lon="-90.18556030995138428352220217"/>
+  <node visible="true" id="-214" lat="29.94079817223958173144637840" lon="-90.18480182946674972299661022"/>
+  <node visible="true" id="-215" lat="29.94084292749781539555442578" lon="-90.18484438012156090280768694"/>
+  <node visible="true" id="-216" lat="29.94114743576590242923884944" lon="-90.18428030144660567657410866"/>
+  <node visible="true" id="-217" lat="29.94101853269216562125620840" lon="-90.18412244151150503057579044"/>
+  <node visible="true" id="-218" lat="29.94104200902091150737760472" lon="-90.18409058969507441361201927"/>
+  <node visible="true" id="-219" lat="29.94093459006449009507377923" lon="-90.18395903988620432301104302"/>
+  <node visible="true" id="-220" lat="29.94055991010233697124931496" lon="-90.18436171321567940140084829"/>
+  <node visible="true" id="-221" lat="29.94061362297485828776189010" lon="-90.18442784592679117849911563"/>
+  <node visible="true" id="-222" lat="29.94024698559973884925966559" lon="-90.18482109304643756786390441"/>
   <way visible="true" id="-25">
     <nd ref="-205"/>
     <nd ref="-206"/>
     <nd ref="-207"/>
     <nd ref="-208"/>
-    <nd ref="-205"/>
-    <tag k="building" v="yes"/>
-  </way>
-  <node visible="true" id="-209" lat="29.94451945971893280784570379" lon="-90.18180490541111282709607622">
-    <tag k="addr:housenumber" v="100"/>
-    <tag k="addr:street" v="Evans Road"/>
-    <tag k="addr:city" v="Jefferson"/>
-    <tag k="addr:postcode" v="70123"/>
-  </node>
-  <node visible="true" id="-210" lat="29.94451589898026711011880252" lon="-90.18173948460518829506327165">
-    <tag k="addr:housenumber" v="201"/>
-    <tag k="addr:street" v="Evans Road"/>
-    <tag k="addr:city" v="Jefferson"/>
-    <tag k="addr:postcode" v="70123"/>
-    <tag k="addr:unit" v="210"/>
-  </node>
-  <node visible="true" id="-211" lat="29.94445646527403681602663710" lon="-90.18168289795204373149317689">
-    <tag k="addr:housenumber" v="201"/>
-    <tag k="addr:street" v="Evans Road"/>
-    <tag k="addr:city" v="Jefferson"/>
-    <tag k="addr:postcode" v="70123"/>
-    <tag k="addr:unit" v="200"/>
-  </node>
-  <node visible="true" id="-212" lat="29.94444076183658509648921608" lon="-90.18165874426691175358428154">
-    <tag k="addr:housenumber" v="201"/>
-    <tag k="addr:street" v="Evans Road"/>
-    <tag k="addr:city" v="Jefferson"/>
-    <tag k="addr:postcode" v="70123"/>
-    <tag k="addr:unit" v="201"/>
-  </node>
-  <node visible="true" id="-213" lat="29.94024698559861974445084343" lon="-90.18482109304765970136941178"/>
-  <node visible="true" id="-214" lat="29.94020301972661712852641358" lon="-90.18486897083751330228551524"/>
-  <node visible="true" id="-215" lat="29.94022949812594092122708389" lon="-90.18489450519702188557857880"/>
-  <node visible="true" id="-216" lat="29.93988144816937335690454347" lon="-90.18526887312198425661335932"/>
-  <node visible="true" id="-217" lat="29.94020624617481374230010260" lon="-90.18566851738906109403615119"/>
-  <node visible="true" id="-218" lat="29.94025393118049294116644887" lon="-90.18561700770001721139124129"/>
-  <node visible="true" id="-219" lat="29.94026693821450280097451468" lon="-90.18560322118929661883157678"/>
-  <node visible="true" id="-220" lat="29.94025369953084947383104009" lon="-90.18559045338595581142726587"/>
-  <node visible="true" id="-221" lat="29.94024171745963869284423708" lon="-90.18557838902964363114733715"/>
-  <node visible="true" id="-222" lat="29.94025343656456783492103568" lon="-90.18556030995128480753919575"/>
-  <node visible="true" id="-223" lat="29.94079817223956752059166320" lon="-90.18480182946674972299661022"/>
-  <node visible="true" id="-224" lat="29.94084292749781894826810458" lon="-90.18484438012156090280768694"/>
-  <node visible="true" id="-225" lat="29.94114743576590242923884944" lon="-90.18428030144660567657410866"/>
-  <node visible="true" id="-226" lat="29.94101853269216562125620840" lon="-90.18412244151151924143050564"/>
-  <node visible="true" id="-227" lat="29.94104200902091150737760472" lon="-90.18409058969507441361201927"/>
-  <node visible="true" id="-228" lat="29.94093459006447943693274283" lon="-90.18395903988620432301104302"/>
-  <node visible="true" id="-229" lat="29.94055991010235473481770896" lon="-90.18436171321567940140084829"/>
-  <node visible="true" id="-230" lat="29.94061362297485118233453250" lon="-90.18442784592680538935383083"/>
-  <way visible="true" id="-26">
+    <nd ref="-209"/>
+    <nd ref="-210"/>
+    <nd ref="-211"/>
+    <nd ref="-212"/>
     <nd ref="-213"/>
     <nd ref="-214"/>
     <nd ref="-215"/>
@@ -927,175 +913,192 @@
     <nd ref="-220"/>
     <nd ref="-221"/>
     <nd ref="-222"/>
-    <nd ref="-223"/>
-    <nd ref="-224"/>
-    <nd ref="-225"/>
-    <nd ref="-226"/>
-    <nd ref="-227"/>
-    <nd ref="-228"/>
-    <nd ref="-229"/>
-    <nd ref="-230"/>
-    <nd ref="-213"/>
+    <nd ref="-205"/>
     <tag k="building" v="yes"/>
+    <tag k="building:levels" v="1"/>
   </way>
-  <node visible="true" id="-231" lat="29.94074840479121846215093683" lon="-90.18429396136860987098771147">
+  <node visible="true" id="-223" lat="29.94074840479121846215093683" lon="-90.18429396136860987098771147">
     <tag k="addr:housenumber" v="5801"/>
     <tag k="addr:street" v="River Road"/>
     <tag k="addr:city" v="Jefferson"/>
     <tag k="addr:postcode" v="70123"/>
   </node>
-  <node visible="true" id="-232" lat="29.94044745308196198152472789" lon="-90.18486600556936139128083596">
+  <node visible="true" id="-224" lat="29.94044745308196198152472789" lon="-90.18486600556936139128083596">
     <tag k="addr:housenumber" v="5841"/>
     <tag k="addr:street" v="River Road"/>
     <tag k="addr:city" v="Jefferson"/>
     <tag k="addr:postcode" v="70123"/>
   </node>
-  <node visible="true" id="-233" lat="29.94012482672755837143085955" lon="-90.18527385615458058509830153">
+  <node visible="true" id="-225" lat="29.94012482672755837143085955" lon="-90.18527385615458058509830153">
     <tag k="addr:housenumber" v="5843"/>
     <tag k="addr:street" v="River Road"/>
     <tag k="addr:city" v="Jefferson"/>
     <tag k="addr:postcode" v="70123"/>
   </node>
-  <node visible="true" id="-234" lat="29.94089681845767714207795507" lon="-90.18414968342752047192334430">
+  <node visible="true" id="-226" lat="29.94089681845767714207795507" lon="-90.18414968342752047192334430">
     <tag k="addr:housenumber" v="5825"/>
     <tag k="addr:street" v="River Road"/>
     <tag k="addr:city" v="Jefferson"/>
     <tag k="addr:postcode" v="70123"/>
   </node>
-  <node visible="true" id="-235" lat="29.94011833053338023091782816" lon="-90.18547143286909317794197705">
+  <node visible="true" id="-227" lat="29.94011833053338023091782816" lon="-90.18547143286909317794197705">
     <tag k="addr:housenumber" v="121"/>
     <tag k="addr:street" v="Brookhollow Esplanade"/>
     <tag k="addr:city" v="Jefferson"/>
     <tag k="addr:postcode" v="70123"/>
   </node>
-  <node visible="true" id="-236" lat="29.94018333545347232416133920" lon="-90.18553482133002319187653484">
+  <node visible="true" id="-228" lat="29.94018333545347232416133920" lon="-90.18553482133002319187653484">
     <tag k="addr:housenumber" v="123"/>
     <tag k="addr:street" v="Brookhollow Esplanade"/>
     <tag k="addr:city" v="Jefferson"/>
     <tag k="addr:postcode" v="70123"/>
   </node>
-  <node visible="true" id="-237" lat="29.94020792569432742880053411" lon="-90.18515485551351673620956717">
+  <node visible="true" id="-229" lat="29.94020792569432742880053411" lon="-90.18515485551351673620956717">
     <tag k="addr:housenumber" v="5845"/>
     <tag k="addr:street" v="River Road"/>
     <tag k="addr:city" v="Jefferson"/>
     <tag k="addr:postcode" v="70123"/>
   </node>
-  <node visible="true" id="-238" lat="29.94058671477723265752501902" lon="-90.18469635455468846885196399">
+  <node visible="true" id="-230" lat="29.94058671477723265752501902" lon="-90.18469635455468846885196399">
     <tag k="addr:housenumber" v="5833"/>
     <tag k="addr:street" v="River Road"/>
     <tag k="addr:city" v="Jefferson"/>
     <tag k="addr:postcode" v="70123"/>
   </node>
-  <node visible="true" id="-239" lat="29.94008270098163393413415179" lon="-90.18540173863793540931510506">
+  <node visible="true" id="-231" lat="29.94008270098163393413415179" lon="-90.18540173863793540931510506">
     <tag k="addr:housenumber" v="101"/>
     <tag k="addr:street" v="Brookhollow Esplanade"/>
     <tag k="addr:city" v="Jefferson"/>
     <tag k="addr:postcode" v="70123"/>
   </node>
-  <node visible="true" id="-240" lat="29.94280874321466967558080796" lon="-90.18259994077301655579503858"/>
-  <node visible="true" id="-241" lat="29.94250401479450118813474546" lon="-90.18292358251456164452974917"/>
-  <node visible="true" id="-242" lat="29.94385859015428152929416683" lon="-90.18461360911983604182751151"/>
-  <node visible="true" id="-243" lat="29.94417094383986466255009873" lon="-90.18429308049141468472953420"/>
-  <way visible="true" id="-27">
-    <nd ref="-240"/>
-    <nd ref="-241"/>
-    <nd ref="-242"/>
-    <nd ref="-243"/>
-    <nd ref="-240"/>
+  <node visible="true" id="-232" lat="29.94250504159072079346515238" lon="-90.18292293996857722504500998"/>
+  <node visible="true" id="-233" lat="29.94386037974753378421155503" lon="-90.18461777353238062460150104"/>
+  <node visible="true" id="-234" lat="29.94416610235325748590184958" lon="-90.18429216648080171125911875"/>
+  <node visible="true" id="-235" lat="29.94281076836224642079287150" lon="-90.18259733291699831170262769"/>
+  <way visible="true" id="-26">
+    <nd ref="-232"/>
+    <nd ref="-233"/>
+    <nd ref="-234"/>
+    <nd ref="-235"/>
+    <nd ref="-232"/>
     <tag k="building" v="yes"/>
+    <tag k="building:levels" v="1"/>
   </way>
-  <node visible="true" id="-244" lat="29.94362208448363915636036836" lon="-90.18394556800623718118004035">
+  <node visible="true" id="-236" lat="29.94362208448363915636036836" lon="-90.18394556800623718118004035">
     <tag k="addr:housenumber" v="5600"/>
     <tag k="addr:street" v="Jefferson Highway"/>
     <tag k="addr:city" v="Jefferson"/>
     <tag k="addr:postcode" v="70123"/>
-    <tag k="addr:unit" v="West-2"/>
+    <tag k="addr:unit" v="W-2"/>
   </node>
-  <node visible="true" id="-245" lat="29.94301070148804555515198444" lon="-90.18293689000994106663711136">
+  <node visible="true" id="-237" lat="29.94301070148804555515198444" lon="-90.18293689000994106663711136">
     <tag k="addr:housenumber" v="5600"/>
     <tag k="addr:street" v="Jefferson Highway"/>
     <tag k="addr:city" v="Jefferson"/>
     <tag k="addr:postcode" v="70123"/>
-    <tag k="addr:unit" v="West-2 242"/>
+    <tag k="addr:unit" v="W-2 242"/>
   </node>
-  <node visible="true" id="-246" lat="29.94375294179397428706579376" lon="-90.18389581918626163314911537">
+  <node visible="true" id="-238" lat="29.94375294179397428706579376" lon="-90.18389581918626163314911537">
     <tag k="addr:housenumber" v="5600"/>
     <tag k="addr:street" v="Jefferson Highway"/>
     <tag k="addr:city" v="Jefferson"/>
     <tag k="addr:postcode" v="70123"/>
-    <tag k="addr:unit" v="West-2 274"/>
+    <tag k="addr:unit" v="W-2 274"/>
   </node>
-  <node visible="true" id="-247" lat="29.94391189912207806855803938" lon="-90.18405680336185525902692461">
+  <node visible="true" id="-239" lat="29.94391189912207806855803938" lon="-90.18405680336185525902692461">
     <tag k="addr:housenumber" v="5600"/>
     <tag k="addr:street" v="Jefferson Highway"/>
     <tag k="addr:city" v="Jefferson"/>
     <tag k="addr:postcode" v="70123"/>
-    <tag k="addr:unit" v="West-2 278"/>
+    <tag k="addr:unit" v="W-2 278"/>
   </node>
-  <node visible="true" id="-248" lat="29.94404459978639465589367319" lon="-90.18421809039719505562970880">
+  <node visible="true" id="-240" lat="29.94404459978639465589367319" lon="-90.18421809039719505562970880">
     <tag k="addr:housenumber" v="5600"/>
     <tag k="addr:street" v="Jefferson Highway"/>
     <tag k="addr:city" v="Jefferson"/>
     <tag k="addr:postcode" v="70123"/>
-    <tag k="addr:unit" v="West-2 280"/>
+    <tag k="addr:unit" v="W-2 280"/>
   </node>
-  <node visible="true" id="-249" lat="29.94286582777836258628667565" lon="-90.18274222429040776205511065">
+  <node visible="true" id="-241" lat="29.94286582777836258628667565" lon="-90.18274222429040776205511065">
     <tag k="addr:housenumber" v="5600"/>
     <tag k="addr:street" v="Jefferson Highway"/>
     <tag k="addr:city" v="Jefferson"/>
     <tag k="addr:postcode" v="70123"/>
-    <tag k="addr:unit" v="West-2 226"/>
+    <tag k="addr:unit" v="W-2 226"/>
   </node>
-  <node visible="true" id="-250" lat="29.94297294821478416793070210" lon="-90.18284775459835600486258045">
+  <node visible="true" id="-242" lat="29.94297294821478416793070210" lon="-90.18284775459835600486258045">
     <tag k="addr:housenumber" v="5600"/>
     <tag k="addr:street" v="Jefferson Highway"/>
     <tag k="addr:city" v="Jefferson"/>
     <tag k="addr:postcode" v="70123"/>
-    <tag k="addr:unit" v="West-2 234"/>
+    <tag k="addr:unit" v="W-2 234"/>
   </node>
-  <node visible="true" id="-251" lat="29.94306784945135291309270542" lon="-90.18302331149122608167090220">
+  <node visible="true" id="-243" lat="29.94306784945135291309270542" lon="-90.18302331149122608167090220">
     <tag k="addr:housenumber" v="5600"/>
     <tag k="addr:street" v="Jefferson Highway"/>
     <tag k="addr:city" v="Jefferson"/>
     <tag k="addr:postcode" v="70123"/>
-    <tag k="addr:unit" v="West-2 246"/>
+    <tag k="addr:unit" v="W-2 246"/>
   </node>
-  <node visible="true" id="-252" lat="29.94347666803601981655447162" lon="-90.18353116142122871679021046">
+  <node visible="true" id="-244" lat="29.94347666803601981655447162" lon="-90.18353116142122871679021046">
     <tag k="addr:housenumber" v="5600"/>
     <tag k="addr:street" v="Jefferson Highway"/>
     <tag k="addr:city" v="Jefferson"/>
     <tag k="addr:postcode" v="70123"/>
-    <tag k="addr:unit" v="West-2 266"/>
+    <tag k="addr:unit" v="W-2 266"/>
   </node>
-  <node visible="true" id="-253" lat="29.94332264605445814709128172" lon="-90.18333394213365750147204380">
+  <node visible="true" id="-245" lat="29.94332264605445814709128172" lon="-90.18333394213365750147204380">
     <tag k="addr:housenumber" v="5600"/>
     <tag k="addr:street" v="Jefferson Highway"/>
     <tag k="addr:city" v="Jefferson"/>
     <tag k="addr:postcode" v="70123"/>
-    <tag k="addr:unit" v="West-2 260"/>
+    <tag k="addr:unit" v="W-2 260"/>
   </node>
-  <node visible="true" id="-254" lat="29.94362538665201611820521066" lon="-90.18372241311956827303220052">
+  <node visible="true" id="-246" lat="29.94362538665201611820521066" lon="-90.18372241311956827303220052">
     <tag k="addr:housenumber" v="5600"/>
     <tag k="addr:street" v="Jefferson Highway"/>
     <tag k="addr:city" v="Jefferson"/>
     <tag k="addr:postcode" v="70123"/>
-    <tag k="addr:unit" v="West-2 270"/>
+    <tag k="addr:unit" v="W-2 270"/>
   </node>
-  <node visible="true" id="-255" lat="29.94320065680802400720494916" lon="-90.18319665413710595203156117">
+  <node visible="true" id="-247" lat="29.94320065680802400720494916" lon="-90.18319665413710595203156117">
     <tag k="addr:housenumber" v="5600"/>
     <tag k="addr:street" v="Jefferson Highway"/>
     <tag k="addr:city" v="Jefferson"/>
     <tag k="addr:postcode" v="70123"/>
-    <tag k="addr:unit" v="West-2 254"/>
+    <tag k="addr:unit" v="W-2 254"/>
   </node>
-  <node visible="true" id="-256" lat="29.94099883918165971863345476" lon="-90.18596487619755919240560615"/>
-  <node visible="true" id="-257" lat="29.94079912980017965651313716" lon="-90.18571595493673953569668811"/>
-  <node visible="true" id="-258" lat="29.94080594323479260765452636" lon="-90.18570869965456893169175601"/>
-  <node visible="true" id="-259" lat="29.94066564650311690343187365" lon="-90.18553446090515990363201126"/>
-  <node visible="true" id="-260" lat="29.94065573315087647188192932" lon="-90.18554462343898592280311277"/>
-  <node visible="true" id="-261" lat="29.94062223573941139420639956" lon="-90.18550266096501388801698340"/>
-  <node visible="true" id="-262" lat="29.94031936309577091037681384" lon="-90.18582482953735279807006009"/>
-  <node visible="true" id="-263" lat="29.94069348975155975267625763" lon="-90.18628994463537651427031960"/>
+  <node visible="true" id="-248" lat="29.94079918901278958287548448" lon="-90.18571590027934803401876707"/>
+  <node visible="true" id="-249" lat="29.94080576463408505105689983" lon="-90.18570888174174626783496933"/>
+  <node visible="true" id="-250" lat="29.94066573101840944559626223" lon="-90.18553416142711398606479634"/>
+  <node visible="true" id="-251" lat="29.94065585976663967926469923" lon="-90.18554469756504943234176608"/>
+  <node visible="true" id="-252" lat="29.94062196114748886088818836" lon="-90.18550240220895375387044623"/>
+  <node visible="true" id="-253" lat="29.94031996488322278082705452" lon="-90.18582473906148777587077348"/>
+  <node visible="true" id="-254" lat="29.94069330962845398858007684" lon="-90.18629056121994835848454386"/>
+  <node visible="true" id="-255" lat="29.94099860036928362205799203" lon="-90.18596470676710907810047502"/>
+  <way visible="true" id="-27">
+    <nd ref="-248"/>
+    <nd ref="-249"/>
+    <nd ref="-250"/>
+    <nd ref="-251"/>
+    <nd ref="-252"/>
+    <nd ref="-253"/>
+    <nd ref="-254"/>
+    <nd ref="-255"/>
+    <nd ref="-248"/>
+    <tag k="building" v="yes"/>
+    <tag k="building:levels" v="1"/>
+    <tag k="addr:housenumber" v="151"/>
+    <tag k="addr:street" v="Brookhollow Esplanade"/>
+    <tag k="addr:city" v="Jefferson"/>
+    <tag k="addr:postcode" v="70123"/>
+  </way>
+  <node visible="true" id="-256" lat="29.94525403603772772953561798" lon="-90.18093868964068349214358022"/>
+  <node visible="true" id="-257" lat="29.94527357233539888170525956" lon="-90.18096560995226695922610816"/>
+  <node visible="true" id="-258" lat="29.94526596273275131920854619" lon="-90.18106492337113877511001192"/>
+  <node visible="true" id="-259" lat="29.94537603511390599919650413" lon="-90.18121659921827415473671863"/>
+  <node visible="true" id="-260" lat="29.94557733300031543421937386" lon="-90.18102203520584225771017373"/>
+  <node visible="true" id="-261" lat="29.94540850177721580394063494" lon="-90.18078939135115490444150055"/>
   <way visible="true" id="-28">
     <nd ref="-256"/>
     <nd ref="-257"/>
@@ -1103,43 +1106,47 @@
     <nd ref="-259"/>
     <nd ref="-260"/>
     <nd ref="-261"/>
-    <nd ref="-262"/>
-    <nd ref="-263"/>
     <nd ref="-256"/>
-    <tag k="building" v="yes"/>
-    <tag k="addr:housenumber" v="151"/>
-    <tag k="addr:street" v="Brookhollow Esplanade"/>
-    <tag k="addr:city" v="Jefferson"/>
-    <tag k="addr:postcode" v="70123"/>
-  </way>
-  <node visible="true" id="-264" lat="29.94539988051017331827097223" lon="-90.18079030822534036815341096"/>
-  <node visible="true" id="-265" lat="29.94525681951766316046814609" lon="-90.18094341526624191374139627"/>
-  <node visible="true" id="-266" lat="29.94529283750575032740925963" lon="-90.18099126657419617458799621"/>
-  <node visible="true" id="-267" lat="29.94524602263102863730637182" lon="-90.18104807525264732248615474"/>
-  <node visible="true" id="-268" lat="29.94538337087189461271918844" lon="-90.18121607902092762287793448"/>
-  <node visible="true" id="-269" lat="29.94557998878379834195584408" lon="-90.18101289810589094031456625"/>
-  <way visible="true" id="-29">
-    <nd ref="-264"/>
-    <nd ref="-265"/>
-    <nd ref="-266"/>
-    <nd ref="-267"/>
-    <nd ref="-268"/>
-    <nd ref="-269"/>
-    <nd ref="-264"/>
     <tag k="building" v="yes"/>
     <tag k="addr:housenumber" v="5420"/>
     <tag k="addr:street" v="Toler Street"/>
     <tag k="addr:city" v="Jefferson"/>
     <tag k="addr:postcode" v="70123"/>
   </way>
-  <node visible="true" id="-270" lat="29.94360865133090143785921100" lon="-90.18015031108700441109249368"/>
-  <node visible="true" id="-271" lat="29.94356523058178609630886058" lon="-90.18018885537591700085613411"/>
-  <node visible="true" id="-272" lat="29.94355699816957994130461884" lon="-90.18017674793270543887047097"/>
-  <node visible="true" id="-273" lat="29.94340690459561571401536639" lon="-90.18031199045282164661330171"/>
-  <node visible="true" id="-274" lat="29.94341450552950689711906307" lon="-90.18032338726578700516256504"/>
-  <node visible="true" id="-275" lat="29.94326069308490900766628329" lon="-90.18046225985217745346744778"/>
-  <node visible="true" id="-276" lat="29.94343293429524521798157366" lon="-90.18071436579361943586263806"/>
-  <node visible="true" id="-277" lat="29.94378025537490373153559631" lon="-90.18040098889359512668306706"/>
+  <node visible="true" id="-262" lat="29.94356538449772031640350178" lon="-90.18018908716889825427642791"/>
+  <node visible="true" id="-263" lat="29.94355688264970183354307665" lon="-90.18017657265779973840835737"/>
+  <node visible="true" id="-264" lat="29.94340697846702070705759979" lon="-90.18031220341065079537656857"/>
+  <node visible="true" id="-265" lat="29.94341448751101708580790728" lon="-90.18032325652193037512915907"/>
+  <node visible="true" id="-266" lat="29.94326105543437321898636583" lon="-90.18046207905197775289707351"/>
+  <node visible="true" id="-267" lat="29.94343281761486963432616903" lon="-90.18071490821128577408671845"/>
+  <node visible="true" id="-268" lat="29.94377966777831190370307013" lon="-90.18040108369527274589927401"/>
+  <node visible="true" id="-269" lat="29.94360889901162892101638136" lon="-90.18014971593576944997039391"/>
+  <way visible="true" id="-29">
+    <nd ref="-262"/>
+    <nd ref="-263"/>
+    <nd ref="-264"/>
+    <nd ref="-265"/>
+    <nd ref="-266"/>
+    <nd ref="-267"/>
+    <nd ref="-268"/>
+    <nd ref="-269"/>
+    <nd ref="-262"/>
+    <tag k="building" v="yes"/>
+    <tag k="building:levels" v="1"/>
+    <tag k="addr:housenumber" v="5531"/>
+    <tag k="addr:street" v="River Road"/>
+    <tag k="addr:city" v="Jefferson"/>
+    <tag k="addr:postcode" v="70123"/>
+  </way>
+  <node visible="true" id="-270" lat="29.94536981127551555914578785" lon="-90.17945531924712554427969735"/>
+  <node visible="true" id="-271" lat="29.94550935818093151397079055" lon="-90.17930519166660019436676521"/>
+  <node visible="true" id="-272" lat="29.94537358610024924132630986" lon="-90.17900973525338770286907675"/>
+  <node visible="true" id="-273" lat="29.94538119123177821734316240" lon="-90.17900082488377222489361884"/>
+  <node visible="true" id="-274" lat="29.94517135898217574663249252" lon="-90.17872975216928921327053104"/>
+  <node visible="true" id="-275" lat="29.94495771162984354418767907" lon="-90.17846166690831921641802182"/>
+  <node visible="true" id="-276" lat="29.94475471973936109293390473" lon="-90.17867923216159908861300210"/>
+  <node visible="true" id="-277" lat="29.94500120631715489594171231" lon="-90.17898574922166687883873237"/>
+  <node visible="true" id="-278" lat="29.94499563102004557890722936" lon="-90.17899155612450101671129232"/>
   <way visible="true" id="-30">
     <nd ref="-270"/>
     <nd ref="-271"/>
@@ -1149,24 +1156,30 @@
     <nd ref="-275"/>
     <nd ref="-276"/>
     <nd ref="-277"/>
+    <nd ref="-278"/>
     <nd ref="-270"/>
     <tag k="building" v="yes"/>
-    <tag k="addr:housenumber" v="5531"/>
-    <tag k="addr:street" v="River Road"/>
+    <tag k="building:levels" v="1"/>
+    <tag k="addr:housenumber" v="109"/>
+    <tag k="addr:street" v="Research Drive"/>
     <tag k="addr:city" v="Jefferson"/>
     <tag k="addr:postcode" v="70123"/>
   </way>
-  <node visible="true" id="-278" lat="29.94536981127551555914578785" lon="-90.17945531924712554427969735"/>
-  <node visible="true" id="-279" lat="29.94550935818093151397079055" lon="-90.17930519166660019436676521"/>
-  <node visible="true" id="-280" lat="29.94537358610024924132630986" lon="-90.17900973525338770286907675"/>
-  <node visible="true" id="-281" lat="29.94538119123177821734316240" lon="-90.17900082488377222489361884"/>
-  <node visible="true" id="-282" lat="29.94517135898217574663249252" lon="-90.17872975216928921327053104"/>
-  <node visible="true" id="-283" lat="29.94495771162984354418767907" lon="-90.17846166690831921641802182"/>
-  <node visible="true" id="-284" lat="29.94475471973936109293390473" lon="-90.17867923216159908861300210"/>
-  <node visible="true" id="-285" lat="29.94500120631715489594171231" lon="-90.17898574922166687883873237"/>
-  <node visible="true" id="-286" lat="29.94499563102004557890722936" lon="-90.17899155612450101671129232"/>
+  <node visible="true" id="-279" lat="29.94171900317086709719660576" lon="-90.17962751565431744893430732"/>
+  <node visible="true" id="-280" lat="29.94171059846029336881656491" lon="-90.17963638961225569801172242"/>
+  <node visible="true" id="-281" lat="29.94166834185181613747772644" lon="-90.17958308937792821780021768"/>
+  <node visible="true" id="-282" lat="29.94161774045715063152783841" lon="-90.17963651588455320506909629"/>
+  <node visible="true" id="-283" lat="29.94160981385203612603618240" lon="-90.17962651769481396968330955"/>
+  <node visible="true" id="-284" lat="29.94166731534470216047338909" lon="-90.17956580585551762396789854"/>
+  <node visible="true" id="-285" lat="29.94164373542564661079268262" lon="-90.17953606341221473030600464"/>
+  <node visible="true" id="-286" lat="29.94148824735443170652615663" lon="-90.17970023236620136231067590"/>
+  <node visible="true" id="-287" lat="29.94151460831497502113052178" lon="-90.17973348261433841344114626"/>
+  <node visible="true" id="-288" lat="29.94159292671477956560011080" lon="-90.17965079171661102463986026"/>
+  <node visible="true" id="-289" lat="29.94160180468212573146047362" lon="-90.17965124695560064083110774"/>
+  <node visible="true" id="-290" lat="29.94142186741595423882245086" lon="-90.17984122999723695102147758"/>
+  <node visible="true" id="-291" lat="29.94150452358211467185356014" lon="-90.17994548784373876060271868"/>
+  <node visible="true" id="-292" lat="29.94175849866113026109815110" lon="-90.17967733318593559488363098"/>
   <way visible="true" id="-31">
-    <nd ref="-278"/>
     <nd ref="-279"/>
     <nd ref="-280"/>
     <nd ref="-281"/>
@@ -1175,132 +1188,144 @@
     <nd ref="-284"/>
     <nd ref="-285"/>
     <nd ref="-286"/>
-    <nd ref="-278"/>
-    <tag k="building" v="yes"/>
-    <tag k="addr:housenumber" v="109"/>
-    <tag k="addr:street" v="Research Drive"/>
-    <tag k="addr:city" v="Jefferson"/>
-    <tag k="addr:postcode" v="70123"/>
-  </way>
-  <node visible="true" id="-287" lat="29.94175851926062037478004640" lon="-90.17967642874855016543733655"/>
-  <node visible="true" id="-288" lat="29.94171871339130319711330230" lon="-90.17962808056216772456537001"/>
-  <node visible="true" id="-289" lat="29.94171065624585281739200582" lon="-90.17963606965099643275607377"/>
-  <node visible="true" id="-290" lat="29.94166831190014121943931968" lon="-90.17958344444737406320200535"/>
-  <node visible="true" id="-291" lat="29.94161751687124350951307861" lon="-90.17963642850780559001577785"/>
-  <node visible="true" id="-292" lat="29.94160992846533630995509156" lon="-90.17962646761942835382797057"/>
-  <node visible="true" id="-293" lat="29.94166752937917053145611135" lon="-90.17956550893447342787112575"/>
-  <node visible="true" id="-294" lat="29.94164351917643429601412208" lon="-90.17953635753976016076194355"/>
-  <node visible="true" id="-295" lat="29.94148805317530559477745555" lon="-90.17970037158119112064014189"/>
-  <node visible="true" id="-296" lat="29.94151459459358122217054188" lon="-90.17973308116521025112888310"/>
-  <node visible="true" id="-297" lat="29.94159512205927242689540435" lon="-90.17964888974221082662552362"/>
-  <node visible="true" id="-298" lat="29.94159953514234118188142020" lon="-90.17965314512547081449156394"/>
-  <node visible="true" id="-299" lat="29.94142178022509170887133223" lon="-90.17984182013486815776559524"/>
-  <node visible="true" id="-300" lat="29.94150520665699843902984867" lon="-90.17994564932108403354504844"/>
-  <way visible="true" id="-32">
     <nd ref="-287"/>
     <nd ref="-288"/>
     <nd ref="-289"/>
     <nd ref="-290"/>
     <nd ref="-291"/>
     <nd ref="-292"/>
-    <nd ref="-293"/>
-    <nd ref="-294"/>
-    <nd ref="-295"/>
-    <nd ref="-296"/>
-    <nd ref="-297"/>
-    <nd ref="-298"/>
-    <nd ref="-299"/>
-    <nd ref="-300"/>
-    <nd ref="-287"/>
+    <nd ref="-279"/>
     <tag k="building" v="yes"/>
+    <tag k="building:levels" v="1"/>
     <tag k="addr:housenumber" v="5800"/>
     <tag k="addr:street" v="River Road"/>
     <tag k="addr:city" v="Jefferson"/>
     <tag k="addr:postcode" v="70123"/>
   </way>
-  <node visible="true" id="-301" lat="29.94493991843122060458881606" lon="-90.18624441612358566544571659"/>
-  <node visible="true" id="-302" lat="29.94480555974506685856795229" lon="-90.18607976365908029947604518"/>
-  <node visible="true" id="-303" lat="29.94468260388739011546022084" lon="-90.18620667269729551662749145"/>
-  <node visible="true" id="-304" lat="29.94480959749433779393257282" lon="-90.18637089904521531025238801"/>
-  <way visible="true" id="-33">
-    <nd ref="-301"/>
-    <nd ref="-302"/>
-    <nd ref="-303"/>
-    <nd ref="-304"/>
-    <nd ref="-301"/>
+  <node visible="true" id="-293" lat="29.94480750077878283832433226" lon="-90.18607782508914283425838221"/>
+  <node visible="true" id="-294" lat="29.94468253467130125500261784" lon="-90.18620668118177263750112616"/>
+  <node visible="true" id="-295" lat="29.94481133908345427130370808" lon="-90.18637305067343845621508081"/>
+  <node visible="true" id="-296" lat="29.94493630502908843027398689" lon="-90.18624419458085128553648246"/>
+  <way visible="true" id="-32">
+    <nd ref="-293"/>
+    <nd ref="-294"/>
+    <nd ref="-295"/>
+    <nd ref="-296"/>
+    <nd ref="-293"/>
     <tag k="building" v="yes"/>
   </way>
-  <node visible="true" id="-305" lat="29.94478288525657561081061431" lon="-90.18625009885087706607009750">
+  <node visible="true" id="-297" lat="29.94478288525657561081061431" lon="-90.18625009885087706607009750">
     <tag k="addr:housenumber" v="201"/>
     <tag k="addr:street" v="Plauche Court"/>
     <tag k="addr:city" v="Jefferson"/>
     <tag k="addr:postcode" v="70123"/>
     <tag k="addr:unit" v="B"/>
   </node>
-  <node visible="true" id="-306" lat="29.94474853206675035721673339" lon="-90.18618321669150361685751704">
+  <node visible="true" id="-298" lat="29.94474853206675035721673339" lon="-90.18618321669150361685751704">
     <tag k="addr:housenumber" v="201"/>
     <tag k="addr:street" v="Plauche Court"/>
     <tag k="addr:city" v="Jefferson"/>
     <tag k="addr:postcode" v="70123"/>
     <tag k="addr:unit" v="A"/>
   </node>
-  <node visible="true" id="-307" lat="29.94482506082847805828350829" lon="-90.18630892865859038920461899">
+  <node visible="true" id="-299" lat="29.94482506082847805828350829" lon="-90.18630892865859038920461899">
     <tag k="addr:housenumber" v="201"/>
     <tag k="addr:street" v="Plauche Court"/>
     <tag k="addr:city" v="Jefferson"/>
     <tag k="addr:postcode" v="70123"/>
     <tag k="addr:unit" v="C"/>
   </node>
-  <node visible="true" id="-308" lat="29.93908585021406310033853515" lon="-90.18654621738363630356616341"/>
-  <node visible="true" id="-309" lat="29.93902833818399145116018190" lon="-90.18647438511811742500867695"/>
-  <node visible="true" id="-310" lat="29.93898746005874045295058750" lon="-90.18651792085515239705273416"/>
-  <node visible="true" id="-311" lat="29.93888509315582169278968649" lon="-90.18639205516133472428919049"/>
-  <node visible="true" id="-312" lat="29.93874325710144645995569590" lon="-90.18654297636948058425332420"/>
-  <node visible="true" id="-313" lat="29.93912115645900229310427676" lon="-90.18701091396624747176247183"/>
-  <node visible="true" id="-314" lat="29.93917194196514586224111554" lon="-90.18695649935176561484695412"/>
-  <node visible="true" id="-315" lat="29.93918710607340116780505923" lon="-90.18697498715036431349290069"/>
-  <node visible="true" id="-316" lat="29.93922922845487732956826221" lon="-90.18693072036909086364175892"/>
-  <node visible="true" id="-317" lat="29.93921153237140586611531035" lon="-90.18690867324860960252408404"/>
-  <node visible="true" id="-318" lat="29.93926107464016794779126940" lon="-90.18685499070379307795519708"/>
-  <node visible="true" id="-319" lat="29.93904559097555662106060481" lon="-90.18658902708131108738598414"/>
-  <way visible="true" id="-34">
+  <node visible="true" id="-300" lat="29.93902815405132855630654376" lon="-90.18647440596312492289143847"/>
+  <node visible="true" id="-301" lat="29.93898729821131610151496716" lon="-90.18651827147706967480189633"/>
+  <node visible="true" id="-302" lat="29.93888503691740510248564533" lon="-90.18639143404163860395783558"/>
+  <node visible="true" id="-303" lat="29.93874372039945086498846649" lon="-90.18654316044445806710427860"/>
+  <node visible="true" id="-304" lat="29.93912101190120012006445904" lon="-90.18701112523190488445834490"/>
+  <node visible="true" id="-305" lat="29.93917198703468329767929390" lon="-90.18695639490334770016488619"/>
+  <node visible="true" id="-306" lat="29.93918724392292318725594669" lon="-90.18697531847878678945562569"/>
+  <node visible="true" id="-307" lat="29.93922904251339289771749463" lon="-90.18693044067558162169007119"/>
+  <node visible="true" id="-308" lat="29.93921140516362200401090377" lon="-90.18690856453348203558562091"/>
+  <node visible="true" id="-309" lat="29.93926089820055835843959358" lon="-90.18685542543548194771574344"/>
+  <node visible="true" id="-310" lat="29.93904596315478272572363494" lon="-90.18658883513052160196821205"/>
+  <node visible="true" id="-311" lat="29.93908586818494654835376423" lon="-90.18654599044347719427605625"/>
+  <way visible="true" id="-33">
+    <nd ref="-300"/>
+    <nd ref="-301"/>
+    <nd ref="-302"/>
+    <nd ref="-303"/>
+    <nd ref="-304"/>
+    <nd ref="-305"/>
+    <nd ref="-306"/>
+    <nd ref="-307"/>
     <nd ref="-308"/>
     <nd ref="-309"/>
     <nd ref="-310"/>
     <nd ref="-311"/>
-    <nd ref="-312"/>
-    <nd ref="-313"/>
-    <nd ref="-314"/>
-    <nd ref="-315"/>
-    <nd ref="-316"/>
-    <nd ref="-317"/>
-    <nd ref="-318"/>
-    <nd ref="-319"/>
-    <nd ref="-308"/>
+    <nd ref="-300"/>
     <tag k="building" v="yes"/>
+    <tag k="building:levels" v="1"/>
     <tag k="addr:housenumber" v="6117"/>
     <tag k="addr:street" v="River Road"/>
     <tag k="addr:city" v="Jefferson"/>
     <tag k="addr:postcode" v="70123"/>
   </way>
-  <node visible="true" id="-320" lat="29.94147497781864686317021551" lon="-90.18370566812637889597681351"/>
-  <node visible="true" id="-321" lat="29.94142571517063444730410993" lon="-90.18364809674434923181252088"/>
-  <node visible="true" id="-322" lat="29.94143562837533778520082706" lon="-90.18363793394371441536350176"/>
-  <node visible="true" id="-323" lat="29.94143752898395405281917192" lon="-90.18364078263073224661638960"/>
-  <node visible="true" id="-324" lat="29.94149696338313049182033865" lon="-90.18357478096484669549681712"/>
-  <node visible="true" id="-325" lat="29.94143380526007192088400188" lon="-90.18350086103363594247639412"/>
-  <node visible="true" id="-326" lat="29.94137562124854667899853666" lon="-90.18356684829605285358411493"/>
-  <node visible="true" id="-327" lat="29.94138066565370337457352434" lon="-90.18357181447248649419634603"/>
-  <node visible="true" id="-328" lat="29.94137014609760782946068502" lon="-90.18358413797295725089497864"/>
-  <node visible="true" id="-329" lat="29.94134929939910350071841094" lon="-90.18355925668531369865377201"/>
-  <node visible="true" id="-330" lat="29.94142420362799228428229981" lon="-90.18347513227398337676277151"/>
-  <node visible="true" id="-331" lat="29.94130798949674243658591877" lon="-90.18333865967737494884204352"/>
-  <node visible="true" id="-332" lat="29.94123432225506675763426756" lon="-90.18342133403396587709721643"/>
-  <node visible="true" id="-333" lat="29.94118569093082982135456405" lon="-90.18336447355768825673294486"/>
-  <node visible="true" id="-334" lat="29.94094798399742884953411703" lon="-90.18363206754662542152800597"/>
-  <node visible="true" id="-335" lat="29.94116082957002689113323868" lon="-90.18388155165169450810935814"/>
-  <node visible="true" id="-336" lat="29.94114906589568292361036583" lon="-90.18389460628866061142616672"/>
-  <node visible="true" id="-337" lat="29.94122675060659233281512570" lon="-90.18398558551881194489396876"/>
+  <node visible="true" id="-312" lat="29.94414566344984862666933623" lon="-90.18147561961293945387296844"/>
+  <node visible="true" id="-313" lat="29.94454543716099692574061919" lon="-90.18197737800683455589023652"/>
+  <node visible="true" id="-314" lat="29.94469008396044173991867865" lon="-90.18182388741139732246665517"/>
+  <node visible="true" id="-315" lat="29.94429031083067016538734606" lon="-90.18132212901751643130410230"/>
+  <way visible="true" id="-34">
+    <nd ref="-312"/>
+    <nd ref="-313"/>
+    <nd ref="-314"/>
+    <nd ref="-315"/>
+    <nd ref="-312"/>
+    <tag k="building" v="yes"/>
+    <tag k="building:levels" v="1"/>
+  </way>
+  <node visible="true" id="-316" lat="29.94451945971893280784570379" lon="-90.18180490541111282709607622">
+    <tag k="addr:housenumber" v="100"/>
+    <tag k="addr:street" v="Evans Road"/>
+    <tag k="addr:city" v="Jefferson"/>
+    <tag k="addr:postcode" v="70123"/>
+  </node>
+  <node visible="true" id="-317" lat="29.94451589898026711011880252" lon="-90.18173948460518829506327165">
+    <tag k="addr:housenumber" v="201"/>
+    <tag k="addr:street" v="Evans Road"/>
+    <tag k="addr:city" v="Jefferson"/>
+    <tag k="addr:postcode" v="70123"/>
+    <tag k="addr:unit" v="210"/>
+  </node>
+  <node visible="true" id="-318" lat="29.94445646527403681602663710" lon="-90.18168289795204373149317689">
+    <tag k="addr:housenumber" v="201"/>
+    <tag k="addr:street" v="Evans Road"/>
+    <tag k="addr:city" v="Jefferson"/>
+    <tag k="addr:postcode" v="70123"/>
+    <tag k="addr:unit" v="200"/>
+  </node>
+  <node visible="true" id="-319" lat="29.94444076183658509648921608" lon="-90.18165874426691175358428154">
+    <tag k="addr:housenumber" v="201"/>
+    <tag k="addr:street" v="Evans Road"/>
+    <tag k="addr:city" v="Jefferson"/>
+    <tag k="addr:postcode" v="70123"/>
+    <tag k="addr:unit" v="201"/>
+  </node>
+  <node visible="true" id="-320" lat="29.94142622898144878718085238" lon="-90.18364794689696850582549814"/>
+  <node visible="true" id="-321" lat="29.94143532328926227137344540" lon="-90.18363785210412686410563765"/>
+  <node visible="true" id="-322" lat="29.94143764580357114368780458" lon="-90.18364063859340262752084527"/>
+  <node visible="true" id="-323" lat="29.94149656794587954777853156" lon="-90.18357523427143007666018093"/>
+  <node visible="true" id="-324" lat="29.94143451047697368494482362" lon="-90.18350077939192033227300271"/>
+  <node visible="true" id="-325" lat="29.94137285937153691861567495" lon="-90.18356921285382554742682260"/>
+  <node visible="true" id="-326" lat="29.94137555246475912440473621" lon="-90.18356927326425420687883161"/>
+  <node visible="true" id="-327" lat="29.94137519888608878204649955" lon="-90.18359026516334608913894044"/>
+  <node visible="true" id="-328" lat="29.94134911543256549748548423" lon="-90.18355897097094953096529935"/>
+  <node visible="true" id="-329" lat="29.94142377544745770023837395" lon="-90.18347609747884519038052531"/>
+  <node visible="true" id="-330" lat="29.94130882524600067995379504" lon="-90.18333818346118846420722548"/>
+  <node visible="true" id="-331" lat="29.94123380513320142881639185" lon="-90.18342145656981756474124268"/>
+  <node visible="true" id="-332" lat="29.94118682161893829629661923" lon="-90.18336508715968591332057258"/>
+  <node visible="true" id="-333" lat="29.94094844808424227267096285" lon="-90.18362968373058663473784691"/>
+  <node visible="true" id="-334" lat="29.94115955577411014587596583" lon="-90.18388296400232206906366628"/>
+  <node visible="true" id="-335" lat="29.94114954812430084984953282" lon="-90.18389407258509038456395501"/>
+  <node visible="true" id="-336" lat="29.94122532040381656770478003" lon="-90.18398498187080747356958454"/>
+  <node visible="true" id="-337" lat="29.94147559470865260777827643" lon="-90.18370717455796636841114378"/>
   <way visible="true" id="-35">
     <nd ref="-320"/>
     <nd ref="-321"/>
@@ -1322,15 +1347,16 @@
     <nd ref="-337"/>
     <nd ref="-320"/>
     <tag k="building" v="yes"/>
+    <tag k="building:levels" v="1"/>
     <tag k="addr:housenumber" v="5791"/>
     <tag k="addr:street" v="River Road"/>
     <tag k="addr:city" v="Jefferson"/>
     <tag k="addr:postcode" v="70123"/>
   </way>
-  <node visible="true" id="-338" lat="29.94473799935133939698062022" lon="-90.18105029166200381496310001"/>
-  <node visible="true" id="-339" lat="29.94532148334384302756916441" lon="-90.18043629893122670182492584"/>
-  <node visible="true" id="-340" lat="29.94515398810110085037194949" lon="-90.18022648457152001810754882"/>
-  <node visible="true" id="-341" lat="29.94457051136249958744883770" lon="-90.18084119535338061268703314"/>
+  <node visible="true" id="-338" lat="29.94532072390589760857437795" lon="-90.18043608054507842552993679"/>
+  <node visible="true" id="-339" lat="29.94515402384174507233183249" lon="-90.18022579001963379141670885"/>
+  <node visible="true" id="-340" lat="29.94457126668789470613774029" lon="-90.18084105471398004283400951"/>
+  <node visible="true" id="-341" lat="29.94473796772878060323819227" lon="-90.18105134523941046609252226"/>
   <way visible="true" id="-36">
     <nd ref="-338"/>
     <nd ref="-339"/>
@@ -1338,6 +1364,7 @@
     <nd ref="-341"/>
     <nd ref="-338"/>
     <tag k="building" v="yes"/>
+    <tag k="building:levels" v="1"/>
   </way>
   <node visible="true" id="-342" lat="29.94485421519730650175006303" lon="-90.18077361700449046111316420">
     <tag k="addr:housenumber" v="400"/>
@@ -1359,10 +1386,10 @@
     <tag k="addr:postcode" v="70123"/>
     <tag k="addr:unit" v="424"/>
   </node>
-  <node visible="true" id="-345" lat="29.94067156470726231987100618" lon="-90.17805249601534001158142928"/>
-  <node visible="true" id="-346" lat="29.94052433312250727226455638" lon="-90.17822861664770073275576578"/>
-  <node visible="true" id="-347" lat="29.94057103444498224575909262" lon="-90.17827903759012997397803701"/>
-  <node visible="true" id="-348" lat="29.94071826699842731045464461" lon="-90.17810291693928093081922270"/>
+  <node visible="true" id="-345" lat="29.94052486540024560213169025" lon="-90.17822860343996183019044111"/>
+  <node visible="true" id="-346" lat="29.94057104616472386737768829" lon="-90.17827965213825791579438373"/>
+  <node visible="true" id="-347" lat="29.94071773420280635491508292" lon="-90.17810293015629952151357429"/>
+  <node visible="true" id="-348" lat="29.94067155350644426903272688" lon="-90.17805188145800343590963166"/>
   <way visible="true" id="-37">
     <nd ref="-345"/>
     <nd ref="-346"/>
@@ -1371,14 +1398,14 @@
     <nd ref="-345"/>
     <tag k="building" v="yes"/>
   </way>
-  <node visible="true" id="-349" lat="29.94526998549165242025082989" lon="-90.18622185839186045086535159"/>
-  <node visible="true" id="-350" lat="29.94539013217289635804263526" lon="-90.18609271005630034778732806"/>
-  <node visible="true" id="-351" lat="29.94528018328822938087796501" lon="-90.18595759284750101869576611"/>
-  <node visible="true" id="-352" lat="29.94522383514926389125321293" lon="-90.18601925354433035408874275"/>
-  <node visible="true" id="-353" lat="29.94520992752961419114399177" lon="-90.18600146825663443905796157"/>
-  <node visible="true" id="-354" lat="29.94512941481638534924059059" lon="-90.18608781118071249238710152"/>
-  <node visible="true" id="-355" lat="29.94514647332945855850994121" lon="-90.18610843093152595884021139"/>
-  <node visible="true" id="-356" lat="29.94516257409347304019320291" lon="-90.18609101962124441342893988"/>
+  <node visible="true" id="-349" lat="29.94138866260582076961327402" lon="-90.18655940616201860393630341"/>
+  <node visible="true" id="-350" lat="29.94113247686086154430995521" lon="-90.18683326441839653853094205"/>
+  <node visible="true" id="-351" lat="29.94145403153377316129990504" lon="-90.18723386291860322216962231"/>
+  <node visible="true" id="-352" lat="29.94200558795726152538918541" lon="-90.18664425558900177293253364"/>
+  <node visible="true" id="-353" lat="29.94208056496376002542092465" lon="-90.18673766397422753016144270"/>
+  <node visible="true" id="-354" lat="29.94268974041878550451656338" lon="-90.18608645828729208915319759"/>
+  <node visible="true" id="-355" lat="29.94237930026591953946990543" lon="-90.18569970162668880675482797"/>
+  <node visible="true" id="-356" lat="29.94147475070387898199442134" lon="-90.18666665638683355155080790"/>
   <way visible="true" id="-38">
     <nd ref="-349"/>
     <nd ref="-350"/>
@@ -1390,86 +1417,89 @@
     <nd ref="-356"/>
     <nd ref="-349"/>
     <tag k="building" v="yes"/>
-    <tag k="addr:housenumber" v="108"/>
-    <tag k="addr:street" v="Edwards Avenue"/>
-    <tag k="addr:city" v="Jefferson"/>
-    <tag k="addr:postcode" v="70123"/>
+    <tag k="building:levels" v="1"/>
   </way>
-  <node visible="true" id="-357" lat="29.94147417482792405962754856" lon="-90.18666613408568366594408872"/>
-  <node visible="true" id="-358" lat="29.94138885404697703052079305" lon="-90.18655944952639913481107214"/>
-  <node visible="true" id="-359" lat="29.94113182007110296467544686" lon="-90.18683371850269736569316592"/>
-  <node visible="true" id="-360" lat="29.94145410631285741942519962" lon="-90.18723268375657653450616635"/>
-  <node visible="true" id="-361" lat="29.94200596605109865322447149" lon="-90.18664495063430308618990239"/>
-  <node visible="true" id="-362" lat="29.94208053638670108398400771" lon="-90.18673740436621244498383021"/>
-  <node visible="true" id="-363" lat="29.94269059794143217345663288" lon="-90.18608583175350190686003771"/>
-  <node visible="true" id="-364" lat="29.94237905965973922661760298" lon="-90.18570109673774481962027494"/>
-  <way visible="true" id="-39">
-    <nd ref="-357"/>
-    <nd ref="-358"/>
-    <nd ref="-359"/>
-    <nd ref="-360"/>
-    <nd ref="-361"/>
-    <nd ref="-362"/>
-    <nd ref="-363"/>
-    <nd ref="-364"/>
-    <nd ref="-357"/>
-    <tag k="building" v="yes"/>
-  </way>
-  <node visible="true" id="-365" lat="29.94218385674878746272042918" lon="-90.18642365291755425005248981">
+  <node visible="true" id="-357" lat="29.94218385674878746272042918" lon="-90.18642365291755425005248981">
     <tag k="addr:housenumber" v="5800"/>
     <tag k="addr:street" v="Jefferson Highway"/>
     <tag k="addr:city" v="Jefferson"/>
     <tag k="addr:postcode" v="70123"/>
     <tag k="addr:unit" v="C"/>
   </node>
-  <node visible="true" id="-366" lat="29.94192161729593593122444872" lon="-90.18655745451113148192234803">
+  <node visible="true" id="-358" lat="29.94192161729593593122444872" lon="-90.18655745451113148192234803">
     <tag k="addr:housenumber" v="5800"/>
     <tag k="addr:street" v="Jefferson Highway"/>
     <tag k="addr:city" v="Jefferson"/>
     <tag k="addr:postcode" v="70123"/>
     <tag k="addr:unit" v="D"/>
   </node>
-  <node visible="true" id="-367" lat="29.94177334277567581466428237" lon="-90.18669812054207568507990800">
+  <node visible="true" id="-359" lat="29.94177334277567581466428237" lon="-90.18669812054207568507990800">
     <tag k="addr:housenumber" v="5800"/>
     <tag k="addr:street" v="Jefferson Highway"/>
     <tag k="addr:city" v="Jefferson"/>
     <tag k="addr:postcode" v="70123"/>
-    <tag k="addr:unit" v="East"/>
+    <tag k="addr:unit" v="E"/>
   </node>
-  <node visible="true" id="-368" lat="29.94250054863866594700994028" lon="-90.18600312580834099662752124">
+  <node visible="true" id="-360" lat="29.94250054863866594700994028" lon="-90.18600312580834099662752124">
     <tag k="addr:housenumber" v="5800"/>
     <tag k="addr:street" v="Jefferson Highway"/>
     <tag k="addr:city" v="Jefferson"/>
     <tag k="addr:postcode" v="70123"/>
     <tag k="addr:unit" v="A"/>
   </node>
-  <node visible="true" id="-369" lat="29.94235989137590436826030782" lon="-90.18620092541733868074516067">
+  <node visible="true" id="-361" lat="29.94235989137590436826030782" lon="-90.18620092541733868074516067">
     <tag k="addr:housenumber" v="5800"/>
     <tag k="addr:street" v="Jefferson Highway"/>
     <tag k="addr:city" v="Jefferson"/>
     <tag k="addr:postcode" v="70123"/>
     <tag k="addr:unit" v="B"/>
   </node>
-  <node visible="true" id="-370" lat="29.93969399488225846539535269" lon="-90.18574654975303417359100422"/>
-  <node visible="true" id="-371" lat="29.93950254918565434536503744" lon="-90.18551332762038441615004558"/>
-  <node visible="true" id="-372" lat="29.93924864230288918065525650" lon="-90.18578755817338787892367691"/>
-  <node visible="true" id="-373" lat="29.93944071895548120210150955" lon="-90.18602149086972019631502917"/>
-  <way visible="true" id="-40">
-    <nd ref="-370"/>
-    <nd ref="-371"/>
-    <nd ref="-372"/>
-    <nd ref="-373"/>
-    <nd ref="-370"/>
+  <node visible="true" id="-362" lat="29.93950240722699618345359340" lon="-90.18551254132927397222374566"/>
+  <node visible="true" id="-363" lat="29.93924932734894284180882096" lon="-90.18578775388346002728212625"/>
+  <node visible="true" id="-364" lat="29.93944054568056500897910155" lon="-90.18602192187898936026613228"/>
+  <node visible="true" id="-365" lat="29.93969362507216303015411540" lon="-90.18574670932478909435303649"/>
+  <way visible="true" id="-39">
+    <nd ref="-362"/>
+    <nd ref="-363"/>
+    <nd ref="-364"/>
+    <nd ref="-365"/>
+    <nd ref="-362"/>
     <tag k="building" v="yes"/>
+    <tag k="building:levels" v="1"/>
     <tag k="addr:housenumber" v="5901"/>
     <tag k="addr:street" v="River Road"/>
     <tag k="addr:city" v="Jefferson"/>
     <tag k="addr:postcode" v="70123"/>
   </way>
-  <node visible="true" id="-374" lat="29.93988472363061603687128809" lon="-90.18614188095075689943769248"/>
-  <node visible="true" id="-375" lat="29.93996623015608804507792229" lon="-90.18604948139824273312115110"/>
-  <node visible="true" id="-376" lat="29.93977039702905429408019700" lon="-90.18582003056506835036998382"/>
-  <node visible="true" id="-377" lat="29.93968894382563306066913356" lon="-90.18591852589746338253462454"/>
+  <node visible="true" id="-366" lat="29.94538990086410379376502533" lon="-90.18609250285149414594343398"/>
+  <node visible="true" id="-367" lat="29.94528035978141033979227359" lon="-90.18595773261149872723763110"/>
+  <node visible="true" id="-368" lat="29.94522383793364284088056593" lon="-90.18601891970536144071957096"/>
+  <node visible="true" id="-369" lat="29.94520960548813093282660702" lon="-90.18600140930867326005682116"/>
+  <node visible="true" id="-370" lat="29.94512967050163965154752077" lon="-90.18608794196209998972335598"/>
+  <node visible="true" id="-371" lat="29.94514639783627529823206714" lon="-90.18610852184299631062458502"/>
+  <node visible="true" id="-372" lat="29.94516285356443674459114845" lon="-90.18609070789609916118934052"/>
+  <node visible="true" id="-373" lat="29.94526989990200149804877583" lon="-90.18622240865187222880194895"/>
+  <way visible="true" id="-40">
+    <nd ref="-366"/>
+    <nd ref="-367"/>
+    <nd ref="-368"/>
+    <nd ref="-369"/>
+    <nd ref="-370"/>
+    <nd ref="-371"/>
+    <nd ref="-372"/>
+    <nd ref="-373"/>
+    <nd ref="-366"/>
+    <tag k="building" v="yes"/>
+    <tag k="building:levels" v="1"/>
+    <tag k="addr:housenumber" v="108"/>
+    <tag k="addr:street" v="Edwards Avenue"/>
+    <tag k="addr:city" v="Jefferson"/>
+    <tag k="addr:postcode" v="70123"/>
+  </way>
+  <node visible="true" id="-374" lat="29.93996623015608804507792229" lon="-90.18604948139824273312115110"/>
+  <node visible="true" id="-375" lat="29.93977039702904363593916059" lon="-90.18582003056506835036998382"/>
+  <node visible="true" id="-376" lat="29.93968894382565437695120636" lon="-90.18591852589746338253462454"/>
+  <node visible="true" id="-377" lat="29.93988472363062314229864569" lon="-90.18614188095077111029240768"/>
   <way visible="true" id="-41">
     <nd ref="-374"/>
     <nd ref="-375"/>
@@ -1482,14 +1512,14 @@
     <tag k="addr:city" v="Jefferson"/>
     <tag k="addr:postcode" v="70123"/>
   </way>
-  <node visible="true" id="-378" lat="29.94510564549246822707573301" lon="-90.17952915271852987189049600"/>
-  <node visible="true" id="-379" lat="29.94495085144997048587356403" lon="-90.17969375830730882626085076"/>
-  <node visible="true" id="-380" lat="29.94497343354418461558452691" lon="-90.17972364825331510473915841"/>
-  <node visible="true" id="-381" lat="29.94497993795943813211124507" lon="-90.17971678949749048115336336"/>
-  <node visible="true" id="-382" lat="29.94503964071930113277630880" lon="-90.17978770800360166504106019"/>
-  <node visible="true" id="-383" lat="29.94515027609699586719216313" lon="-90.17967788465189471480698558"/>
-  <node visible="true" id="-384" lat="29.94509850923988381055096397" lon="-90.17961365795245853860251373"/>
-  <node visible="true" id="-385" lat="29.94514017408294748179287126" lon="-90.17957398007867197975429008"/>
+  <node visible="true" id="-378" lat="29.94494987638561767084866005" lon="-90.17969300263490595170878805"/>
+  <node visible="true" id="-379" lat="29.94497362617142499630062957" lon="-90.17972340240494588670117082"/>
+  <node visible="true" id="-380" lat="29.94498114286696832664347312" lon="-90.17971558119438668654765934"/>
+  <node visible="true" id="-381" lat="29.94503959612307752991000598" lon="-90.17979040150760283722775057"/>
+  <node visible="true" id="-382" lat="29.94514869686235059020873450" lon="-90.17967688076599586111115059"/>
+  <node visible="true" id="-383" lat="29.94509973957621085105529346" lon="-90.17961421524618970124720363"/>
+  <node visible="true" id="-384" lat="29.94513951812561458609707188" lon="-90.17957282513633288090204587"/>
+  <node visible="true" id="-385" lat="29.94510627247514733539901499" lon="-90.17953027057289716594823403"/>
   <way visible="true" id="-42">
     <nd ref="-378"/>
     <nd ref="-379"/>
@@ -1506,12 +1536,12 @@
     <tag k="addr:city" v="Jefferson"/>
     <tag k="addr:postcode" v="70123"/>
   </way>
-  <node visible="true" id="-386" lat="29.94044604570748191463280818" lon="-90.18657970429910619714064524"/>
-  <node visible="true" id="-387" lat="29.94036044923927875061053783" lon="-90.18647473128648073270596797"/>
-  <node visible="true" id="-388" lat="29.94029589220848919239870156" lon="-90.18654153933330519521405222"/>
-  <node visible="true" id="-389" lat="29.94020593203319080544133612" lon="-90.18643412422606786549295066"/>
-  <node visible="true" id="-390" lat="29.93994343699333882113933214" lon="-90.18671013328803098829666851"/>
-  <node visible="true" id="-391" lat="29.94010809438696441020510974" lon="-90.18691766166030276963283541"/>
+  <node visible="true" id="-386" lat="29.94036125771895839875469392" lon="-90.18647361712822885237983428"/>
+  <node visible="true" id="-387" lat="29.94029440950684417543925520" lon="-90.18654335687635636986669851"/>
+  <node visible="true" id="-388" lat="29.94020799708834346120056580" lon="-90.18643305006447974392358446"/>
+  <node visible="true" id="-389" lat="29.93994354443409733335101919" lon="-90.18670894098491430668218527"/>
+  <node visible="true" id="-390" lat="29.94011067073261500581793371" lon="-90.18692227985393117251078365"/>
+  <node visible="true" id="-391" lat="29.94044197110042304643684474" lon="-90.18657664918538330312003382"/>
   <way visible="true" id="-43">
     <nd ref="-386"/>
     <nd ref="-387"/>
@@ -1560,24 +1590,24 @@
     <tag k="addr:city" v="Jefferson"/>
     <tag k="addr:postcode" v="70123"/>
   </relation>
-  <node visible="true" id="-400" lat="29.94429816889058315609872807" lon="-90.17980093784476025575713720"/>
-  <node visible="true" id="-401" lat="29.94423896196657253199191473" lon="-90.17986632667515323191764764"/>
-  <node visible="true" id="-402" lat="29.94425991537883291471189295" lon="-90.17989239286892200198053615"/>
-  <node visible="true" id="-403" lat="29.94421748515565795401016658" lon="-90.17993925213946226904226933"/>
-  <node visible="true" id="-404" lat="29.94420207408222367462258262" lon="-90.17992008047538377013552235"/>
-  <node visible="true" id="-405" lat="29.94415437295497284253542603" lon="-90.17997505629979571040166775"/>
-  <node visible="true" id="-406" lat="29.94418831643297451705620915" lon="-90.18001881688616094834287651"/>
-  <node visible="true" id="-407" lat="29.94418492979947643561899895" lon="-90.18002255649865617215255043"/>
-  <node visible="true" id="-408" lat="29.94421165263952033797067998" lon="-90.18005580054945369283814216"/>
-  <node visible="true" id="-409" lat="29.94422786947359327314188704" lon="-90.18006726361790015289443545"/>
-  <node visible="true" id="-410" lat="29.94425293991634973167492717" lon="-90.18006793319042913026351016"/>
-  <node visible="true" id="-411" lat="29.94427407198562107737416227" lon="-90.18004140855046557589957956"/>
-  <node visible="true" id="-412" lat="29.94428961397025190649401338" lon="-90.18005791629731504599476466"/>
-  <node visible="true" id="-413" lat="29.94431936120342641061142785" lon="-90.18002015749596012028632686"/>
-  <node visible="true" id="-414" lat="29.94429153148884381607786054" lon="-90.17999073960827161045017419"/>
-  <node visible="true" id="-415" lat="29.94438039961980635439431353" lon="-90.17988158433027479077281896"/>
-  <node visible="true" id="-416" lat="29.94433159900038532441612915" lon="-90.17982071342161987104191212"/>
-  <node visible="true" id="-417" lat="29.94432228522877892373799114" lon="-90.17983108959607818633230636"/>
+  <node visible="true" id="-400" lat="29.94423896196657608470559353" lon="-90.17986632667513902106293244"/>
+  <node visible="true" id="-401" lat="29.94425991537882580928453535" lon="-90.17989239286890779112582095"/>
+  <node visible="true" id="-402" lat="29.94421748515566150672384538" lon="-90.17993925213946226904226933"/>
+  <node visible="true" id="-403" lat="29.94420207408223078004994022" lon="-90.17992008047538377013552235"/>
+  <node visible="true" id="-404" lat="29.94415437295499060610382003" lon="-90.17997505629978149954695255"/>
+  <node visible="true" id="-405" lat="29.94418831643296741162885155" lon="-90.18001881688614673748816131"/>
+  <node visible="true" id="-406" lat="29.94418492979947643561899895" lon="-90.18002255649864196129783522"/>
+  <node visible="true" id="-407" lat="29.94421165263947415269285557" lon="-90.18005580054939684941928135"/>
+  <node visible="true" id="-408" lat="29.94422786947358616771452944" lon="-90.18006726361788594203972025"/>
+  <node visible="true" id="-409" lat="29.94425293991596959131129552" lon="-90.18006793319042913026351016"/>
+  <node visible="true" id="-410" lat="29.94427407198562818280151987" lon="-90.18004140855046557589957956"/>
+  <node visible="true" id="-411" lat="29.94428961397022348478458298" lon="-90.18005791629731504599476466"/>
+  <node visible="true" id="-412" lat="29.94431936120341219975671265" lon="-90.18002015749598854199575726"/>
+  <node visible="true" id="-413" lat="29.94429153148883671065050294" lon="-90.17999073960827161045017419"/>
+  <node visible="true" id="-414" lat="29.94438039961980280168063473" lon="-90.17988158433027479077281896"/>
+  <node visible="true" id="-415" lat="29.94433159900038532441612915" lon="-90.17982071342161987104191212"/>
+  <node visible="true" id="-416" lat="29.94432228522875760745591833" lon="-90.17983108959607818633230636"/>
+  <node visible="true" id="-417" lat="29.94429816889059381423976447" lon="-90.17980093784476025575713720"/>
   <way visible="true" id="-47">
     <nd ref="-400"/>
     <nd ref="-401"/>
@@ -1604,10 +1634,10 @@
     <tag k="addr:city" v="Jefferson"/>
     <tag k="addr:postcode" v="70123"/>
   </way>
-  <node visible="true" id="-418" lat="29.94379914254513153082370991" lon="-90.18007589906461873852094868"/>
-  <node visible="true" id="-419" lat="29.94383844158786800448979193" lon="-90.18005512345190766154701123"/>
-  <node visible="true" id="-420" lat="29.94381462881105449014285114" lon="-90.17997880060885051989316707"/>
-  <node visible="true" id="-421" lat="29.94376988453163335179851856" lon="-90.17999963917942807256622473"/>
+  <node visible="true" id="-418" lat="29.94384023173131481598829851" lon="-90.18005531383595041461376240"/>
+  <node visible="true" id="-419" lat="29.94381308904879901433560008" lon="-90.17997931132100575268850662"/>
+  <node visible="true" id="-420" lat="29.94377081700064735514388303" lon="-90.17999941731642365994048305"/>
+  <node visible="true" id="-421" lat="29.94379795969469881811164669" lon="-90.18007541983138253272045404"/>
   <way visible="true" id="-48">
     <nd ref="-418"/>
     <nd ref="-419"/>
@@ -1640,22 +1670,22 @@
     <tag k="addr:city" v="Jefferson"/>
     <tag k="addr:postcode" v="70123"/>
   </way>
-  <node visible="true" id="-430" lat="29.94394829294866866575830500" lon="-90.18017192584630947749246843"/>
-  <node visible="true" id="-431" lat="29.94389924924056600730182254" lon="-90.18023349321947534917853773"/>
-  <node visible="true" id="-432" lat="29.94395642686611935801010986" lon="-90.18029179960588237463525729"/>
-  <node visible="true" id="-433" lat="29.94407574523216908346512355" lon="-90.18016638688301611637143651"/>
-  <node visible="true" id="-434" lat="29.94406499702035517884723959" lon="-90.18015227692410462623229250"/>
-  <node visible="true" id="-435" lat="29.94407723098350615487106552" lon="-90.18013383522138326497952221"/>
-  <node visible="true" id="-436" lat="29.94405755710305783168223570" lon="-90.18011169608605825942504453"/>
-  <node visible="true" id="-437" lat="29.94406809236690847342288180" lon="-90.18010140737408164568478242"/>
-  <node visible="true" id="-438" lat="29.94401973159850527395065001" lon="-90.18003893193662179328384809"/>
-  <node visible="true" id="-439" lat="29.94402849598732530012057396" lon="-90.18002866472303935552190524"/>
-  <node visible="true" id="-440" lat="29.94398734345416457358624029" lon="-90.17998033915000632987357676"/>
-  <node visible="true" id="-441" lat="29.94387852399767524502749438" lon="-90.18009139859323397558910074"/>
-  <node visible="true" id="-442" lat="29.94391618908430174883505970" lon="-90.18014586317816849714290584"/>
-  <node visible="true" id="-443" lat="29.94394072919971705459829536" lon="-90.18011711337643987462797668"/>
-  <node visible="true" id="-444" lat="29.94398009387550274595923838" lon="-90.18016342500871473930601496"/>
-  <node visible="true" id="-445" lat="29.94395898859576732320419978" lon="-90.18017993560539480313309468"/>
+  <node visible="true" id="-430" lat="29.94389924924056600730182254" lon="-90.18023349321948956003325293"/>
+  <node visible="true" id="-431" lat="29.94395642686613712157850387" lon="-90.18029179960589658548997249"/>
+  <node visible="true" id="-432" lat="29.94407574523220816331559035" lon="-90.18016638688298769466200611"/>
+  <node visible="true" id="-433" lat="29.94406499702036228427459719" lon="-90.18015227692409041537757730"/>
+  <node visible="true" id="-434" lat="29.94407723098352391843945952" lon="-90.18013383522136905412480701"/>
+  <node visible="true" id="-435" lat="29.94405666811799449078534963" lon="-90.18011069570593463140539825"/>
+  <node visible="true" id="-436" lat="29.94406890599847770317865070" lon="-90.18010245847403894003946334"/>
+  <node visible="true" id="-437" lat="29.94401973159850172123697121" lon="-90.18003893193662179328384809"/>
+  <node visible="true" id="-438" lat="29.94402849598732174740689516" lon="-90.18002866472303935552190524"/>
+  <node visible="true" id="-439" lat="29.94398734345417878444095550" lon="-90.17998033915000632987357676"/>
+  <node visible="true" id="-440" lat="29.94388186854079947352147428" lon="-90.18008798520639857088099234"/>
+  <node visible="true" id="-441" lat="29.94391300481311191106215119" lon="-90.18014959368842653475439874"/>
+  <node visible="true" id="-442" lat="29.94394072919973126545301056" lon="-90.18011711337643987462797668"/>
+  <node visible="true" id="-443" lat="29.94398071693763441203373077" lon="-90.18016415802706831073010108"/>
+  <node visible="true" id="-444" lat="29.94395817817454741316396394" lon="-90.18017932869689445851690834"/>
+  <node visible="true" id="-445" lat="29.94394829294870419289509300" lon="-90.18017192584632368834718363"/>
   <way visible="true" id="-50">
     <nd ref="-430"/>
     <nd ref="-431"/>
@@ -1680,10 +1710,10 @@
     <tag k="addr:city" v="Jefferson"/>
     <tag k="addr:postcode" v="70123"/>
   </way>
-  <node visible="true" id="-446" lat="29.94444730161030321369253215" lon="-90.18631007474769489817845169"/>
-  <node visible="true" id="-447" lat="29.94406947088619475039195095" lon="-90.18671063577534141586511396"/>
-  <node visible="true" id="-448" lat="29.94428307237892639136589423" lon="-90.18697591674155944474478019"/>
-  <node visible="true" id="-449" lat="29.94466027872433855350209342" lon="-90.18657536304512234437424922"/>
+  <node visible="true" id="-446" lat="29.94407025523125653876377328" lon="-90.18671066314192330537480302"/>
+  <node visible="true" id="-447" lat="29.94428289118555852610370493" lon="-90.18697664384021095429488923"/>
+  <node visible="true" id="-448" lat="29.94465980616759281929262215" lon="-90.18657533201293574620649451"/>
+  <node visible="true" id="-449" lat="29.94444717101906405787303811" lon="-90.18630935131464809728640830"/>
   <way visible="true" id="-51">
     <nd ref="-446"/>
     <nd ref="-447"/>
@@ -1691,25 +1721,26 @@
     <nd ref="-449"/>
     <nd ref="-446"/>
     <tag k="building" v="yes"/>
+    <tag k="building:levels" v="1"/>
     <tag k="addr:housenumber" v="5700"/>
     <tag k="addr:street" v="Plauche Court"/>
     <tag k="addr:city" v="Jefferson"/>
     <tag k="addr:postcode" v="70123"/>
   </way>
-  <node visible="true" id="-450" lat="29.94273050640278555079021316" lon="-90.18589884171396420242672320"/>
-  <node visible="true" id="-451" lat="29.94279939434500903416846995" lon="-90.18598490070323236977856141"/>
-  <node visible="true" id="-452" lat="29.94295236836167362071137177" lon="-90.18582092407804395861603552"/>
-  <node visible="true" id="-453" lat="29.94298586566115716323110973" lon="-90.18586288763862057749065571"/>
-  <node visible="true" id="-454" lat="29.94304966487861108248580422" lon="-90.18579540129631766376405722"/>
-  <node visible="true" id="-455" lat="29.94304019515275783192009840" lon="-90.18578474351976126399677014"/>
-  <node visible="true" id="-456" lat="29.94311946985270012078217405" lon="-90.18569985119168563869607169"/>
-  <node visible="true" id="-457" lat="29.94289323255180690352972306" lon="-90.18541964825681134243495762"/>
-  <node visible="true" id="-458" lat="29.94288702458956663576827850" lon="-90.18542629071377803029463394"/>
-  <node visible="true" id="-459" lat="29.94277535821668934090666880" lon="-90.18528705978840775969729293"/>
-  <node visible="true" id="-460" lat="29.94249083390784349489877059" lon="-90.18559126050502072757808492"/>
-  <node visible="true" id="-461" lat="29.94271770744918015338953410" lon="-90.18587048883721024594706250"/>
-  <node visible="true" id="-462" lat="29.94278588505396498931077076" lon="-90.18579771663496558176120743"/>
-  <node visible="true" id="-463" lat="29.94280421184942753143332084" lon="-90.18582047501209331130667124"/>
+  <node visible="true" id="-450" lat="29.94279895123120027733421011" lon="-90.18598454501464800614485284"/>
+  <node visible="true" id="-451" lat="29.94295274183872734852229769" lon="-90.18582135365942065163835650"/>
+  <node visible="true" id="-452" lat="29.94298589469469007440238784" lon="-90.18586296324136242219537962"/>
+  <node visible="true" id="-453" lat="29.94305416523747354062834347" lon="-90.18579051942487012638594024"/>
+  <node visible="true" id="-454" lat="29.94303525115626030128623825" lon="-90.18578960391762677772931056"/>
+  <node visible="true" id="-455" lat="29.94311882826754711572903034" lon="-90.18570091781492692462052219"/>
+  <node visible="true" id="-456" lat="29.94289405258881231475243112" lon="-90.18541880560337631322909147"/>
+  <node visible="true" id="-457" lat="29.94288681423438092110700381" lon="-90.18542648641729897462937515"/>
+  <node visible="true" id="-458" lat="29.94277604996854691421503958" lon="-90.18528746827618647330382373"/>
+  <node visible="true" id="-459" lat="29.94249153131608309763578291" lon="-90.18558937794567498258402338"/>
+  <node visible="true" id="-460" lat="29.94271642454876314332068432" lon="-90.18587163655520555494149448"/>
+  <node visible="true" id="-461" lat="29.94278602977977854493474297" lon="-90.18579777666263908031396568"/>
+  <node visible="true" id="-462" lat="29.94280419300892148726234154" lon="-90.18582057298065990380564472"/>
+  <node visible="true" id="-463" lat="29.94273055928177029727521585" lon="-90.18589870762629345790628577"/>
   <way visible="true" id="-52">
     <nd ref="-450"/>
     <nd ref="-451"/>
@@ -1727,17 +1758,18 @@
     <nd ref="-463"/>
     <nd ref="-450"/>
     <tag k="building" v="yes"/>
+    <tag k="building:levels" v="1"/>
     <tag k="addr:housenumber" v="5734"/>
     <tag k="addr:street" v="Jefferson Highway"/>
     <tag k="addr:city" v="Jefferson"/>
     <tag k="addr:postcode" v="70123"/>
   </way>
-  <node visible="true" id="-464" lat="29.94423272262987367753339640" lon="-90.18031608616824712498782901"/>
-  <node visible="true" id="-465" lat="29.94415048396565381949585571" lon="-90.18020506190394769419071963"/>
-  <node visible="true" id="-466" lat="29.94401770297395160014275461" lon="-90.18031857055696320912829833"/>
-  <node visible="true" id="-467" lat="29.94404745187469885081554821" lon="-90.18036057604696509315544972"/>
-  <node visible="true" id="-468" lat="29.94400718210396306062648364" lon="-90.18040195570257822055282304"/>
-  <node visible="true" id="-469" lat="29.94405149596759585506333678" lon="-90.18046532651443669692525873"/>
+  <node visible="true" id="-464" lat="29.94415178827442147735382605" lon="-90.18020127818654430029710056"/>
+  <node visible="true" id="-465" lat="29.94401928329582318610846414" lon="-90.18031977460987036465667188"/>
+  <node visible="true" id="-466" lat="29.94404809550978541210497497" lon="-90.18036268409045419502945151"/>
+  <node visible="true" id="-467" lat="29.94400660685314363718134700" lon="-90.18039978650426746753510088"/>
+  <node visible="true" id="-468" lat="29.94405363603802072702819714" lon="-90.18046982616954210243420675"/>
+  <node visible="true" id="-469" lat="29.94422762955263550566087360" lon="-90.18031422733243118727841647"/>
   <way visible="true" id="-53">
     <nd ref="-464"/>
     <nd ref="-465"/>
@@ -1772,18 +1804,18 @@
     <tag k="addr:city" v="Jefferson"/>
     <tag k="addr:postcode" v="70123"/>
   </way>
-  <node visible="true" id="-476" lat="29.94481281411027495664711751" lon="-90.18596394244924852046096930"/>
-  <node visible="true" id="-477" lat="29.94479208581265083921607584" lon="-90.18592351265009199323685607"/>
-  <node visible="true" id="-478" lat="29.94480590932373331725102616" lon="-90.18591416773804780859791208"/>
-  <node visible="true" id="-479" lat="29.94477158882708067721978296" lon="-90.18584722625062966017139843"/>
-  <node visible="true" id="-480" lat="29.94475776532070554480924329" lon="-90.18585657116872766891901847"/>
-  <node visible="true" id="-481" lat="29.94475238589361509866648703" lon="-90.18584607750831594330520602"/>
-  <node visible="true" id="-482" lat="29.94476658602584251411826699" lon="-90.18583646822946775500895455"/>
-  <node visible="true" id="-483" lat="29.94473064522523841901602282" lon="-90.18576643751268306914425921"/>
-  <node visible="true" id="-484" lat="29.94467606189172315112045908" lon="-90.18580337184695849828131031"/>
-  <node visible="true" id="-485" lat="29.94468610648237572036123311" lon="-90.18582294393729625880951062"/>
-  <node visible="true" id="-486" lat="29.94447006696037405504284834" lon="-90.18596897930575551072251983"/>
-  <node visible="true" id="-487" lat="29.94455636042357582482509315" lon="-90.18613729568045300766243599"/>
+  <node visible="true" id="-476" lat="29.94479214057019689221306180" lon="-90.18592349320464052198076388"/>
+  <node visible="true" id="-477" lat="29.94480582317111228007888712" lon="-90.18591420848753159589250572"/>
+  <node visible="true" id="-478" lat="29.94477166157057368423011212" lon="-90.18584715918289873570756754"/>
+  <node visible="true" id="-479" lat="29.94475775979718434882670408" lon="-90.18585659262247133938217303"/>
+  <node visible="true" id="-480" lat="29.94475240315975739235909714" lon="-90.18584607910186434764909791"/>
+  <node visible="true" id="-481" lat="29.94476648432683774103679752" lon="-90.18583652393019178816757631"/>
+  <node visible="true" id="-482" lat="29.94473072206520569693566358" lon="-90.18576633302083678245253395"/>
+  <node visible="true" id="-483" lat="29.94467610868781903832314129" lon="-90.18580339244211074856139021"/>
+  <node visible="true" id="-484" lat="29.94468597272976850831582851" lon="-90.18582275267193892887007678"/>
+  <node visible="true" id="-485" lat="29.94447037291564583938452415" lon="-90.18596905371867933354224078"/>
+  <node visible="true" id="-486" lat="29.94455628817108205907970842" lon="-90.18613767995663010879070498"/>
+  <node visible="true" id="-487" lat="29.94481263913285218336568505" lon="-90.18596372593783883075957419"/>
   <way visible="true" id="-55">
     <nd ref="-476"/>
     <nd ref="-477"/>
@@ -1799,15 +1831,16 @@
     <nd ref="-487"/>
     <nd ref="-476"/>
     <tag k="building" v="yes"/>
+    <tag k="building:levels" v="1"/>
     <tag k="addr:housenumber" v="5725"/>
     <tag k="addr:street" v="Jefferson Highway"/>
     <tag k="addr:city" v="Jefferson"/>
     <tag k="addr:postcode" v="70123"/>
   </way>
-  <node visible="true" id="-488" lat="29.94482906779871456137698260" lon="-90.18552848232599217226379551"/>
-  <node visible="true" id="-489" lat="29.94477161368630646620658808" lon="-90.18541711832517648872453719"/>
-  <node visible="true" id="-490" lat="29.94424859415917694605013821" lon="-90.18577288636426203538576374"/>
-  <node visible="true" id="-491" lat="29.94430604797451067611291364" lon="-90.18588424998625896478188224"/>
+  <node visible="true" id="-488" lat="29.94477168778372799806675175" lon="-90.18541678711373776877735509"/>
+  <node visible="true" id="-489" lat="29.94424888108976645639813796" lon="-90.18577297161023409444169374"/>
+  <node visible="true" id="-490" lat="29.94430597417632355927707977" lon="-90.18588458138709995637327665"/>
+  <node visible="true" id="-491" lat="29.94482878057015540207430604" lon="-90.18552839689063205241836840"/>
   <way visible="true" id="-56">
     <nd ref="-488"/>
     <nd ref="-489"/>
@@ -1815,13 +1848,14 @@
     <nd ref="-491"/>
     <nd ref="-488"/>
     <tag k="building" v="yes"/>
+    <tag k="building:levels" v="1"/>
   </way>
-  <node visible="true" id="-492" lat="29.93898614932129831345264392" lon="-90.18443505967979945125989616"/>
-  <node visible="true" id="-493" lat="29.93908904341015642103229766" lon="-90.18428737006104256579419598"/>
-  <node visible="true" id="-494" lat="29.93902292628548522657183639" lon="-90.18422294341996803268557414"/>
-  <node visible="true" id="-495" lat="29.93900094522994592693976301" lon="-90.18425276663779754926508758"/>
-  <node visible="true" id="-496" lat="29.93900980015282797808140458" lon="-90.18426140156559256411128445"/>
-  <node visible="true" id="-497" lat="29.93892774555435920547097339" lon="-90.18438264054319120077707339"/>
+  <node visible="true" id="-492" lat="29.93908971332677282362055848" lon="-90.18428647894604921475547599"/>
+  <node visible="true" id="-493" lat="29.93902192652935312366935250" lon="-90.18422352822750553968944587"/>
+  <node visible="true" id="-494" lat="29.93900121737048891645827098" lon="-90.18425322523370368799078278"/>
+  <node visible="true" id="-495" lat="29.93901064331001293794543017" lon="-90.18426197869882798840990290"/>
+  <node visible="true" id="-496" lat="29.93892737424787853228735912" lon="-90.18438138677392146291822428"/>
+  <node visible="true" id="-497" lat="29.93898573516872474442607199" lon="-90.18443558402734083756513428"/>
   <way visible="true" id="-57">
     <nd ref="-492"/>
     <nd ref="-493"/>
@@ -1836,14 +1870,14 @@
     <tag k="addr:city" v="Jefferson"/>
     <tag k="addr:postcode" v="70123"/>
   </way>
-  <node visible="true" id="-498" lat="29.93891302356395200945371471" lon="-90.18450646470550680078304140"/>
-  <node visible="true" id="-499" lat="29.93896213010367546303314157" lon="-90.18443264800656322677241405"/>
-  <node visible="true" id="-500" lat="29.93892022591904122919004294" lon="-90.18439280757034737234789645"/>
-  <node visible="true" id="-501" lat="29.93890981994818645262057544" lon="-90.18440771189889915149251465"/>
-  <node visible="true" id="-502" lat="29.93885436119275667010697362" lon="-90.18435727583016614516964182"/>
-  <node visible="true" id="-503" lat="29.93882660337139256512273278" lon="-90.18439590130778071852546418"/>
-  <node visible="true" id="-504" lat="29.93888147754130102384806378" lon="-90.18444634514955282611481380"/>
-  <node visible="true" id="-505" lat="29.93886819877224780839242158" lon="-90.18446733122239322710811393"/>
+  <node visible="true" id="-498" lat="29.93896289140479893831070513" lon="-90.18443245963386800667649368"/>
+  <node visible="true" id="-499" lat="29.93891978254676189408201026" lon="-90.18439328485816020020138239"/>
+  <node visible="true" id="-500" lat="29.93890990068247859312577930" lon="-90.18440776603138431255501928"/>
+  <node visible="true" id="-501" lat="29.93885392102088260912751139" lon="-90.18435689506245012125873473"/>
+  <node visible="true" id="-502" lat="29.93882691382217231534923485" lon="-90.18439647217252286282018758"/>
+  <node visible="true" id="-503" lat="29.93888192074381748852829332" lon="-90.18444645915973012506583473"/>
+  <node visible="true" id="-504" lat="29.93886821427807376494456548" lon="-90.18446654500783665753260721"/>
+  <node visible="true" id="-505" lat="29.93891229591331182291469304" lon="-90.18450660376525718220364070"/>
   <way visible="true" id="-58">
     <nd ref="-498"/>
     <nd ref="-499"/>
@@ -1856,10 +1890,10 @@
     <nd ref="-498"/>
     <tag k="building" v="yes"/>
   </way>
-  <node visible="true" id="-506" lat="29.93892060510653152505256003" lon="-90.18436928179912115410843398"/>
-  <node visible="true" id="-507" lat="29.93894833357403939544383320" lon="-90.18432729611788545298622921"/>
-  <node visible="true" id="-508" lat="29.93892709415073127843243128" lon="-90.18430805205306910465878900"/>
-  <node visible="true" id="-509" lat="29.93889937246228427625283075" lon="-90.18435070995916191805008566"/>
+  <node visible="true" id="-506" lat="29.93894844865375404197038733" lon="-90.18432710983498168388905469"/>
+  <node visible="true" id="-507" lat="29.93892711164527753453512560" lon="-90.18430835486711316661967430"/>
+  <node visible="true" id="-508" lat="29.93889925399001228356610227" lon="-90.18435056012963002558535663"/>
+  <node visible="true" id="-509" lat="29.93892059100447156083646405" lon="-90.18436931509751275370945223"/>
   <way visible="true" id="-59">
     <nd ref="-506"/>
     <nd ref="-507"/>
@@ -2024,13 +2058,24 @@
     <tag k="addr:street" v="Jefferson Highway"/>
     <tag k="addr:city" v="Jefferson"/>
     <tag k="addr:postcode" v="70123"/>
-    <tag k="addr:unit" v="Cell Tower"/>
+    <tag k="addr:unit" v="CELL TOWER"/>
   </node>
-  <way id="737431060" version="1">
+  <way id="737431060" version="1" action="modify">
+    <tag k="building" v="yes"/>
+    <tag k="name" v="Red White &amp; Blue"/>
+    <tag k="payment:cash" v="yes"/>
+    <tag k="shop" v="charity"/>
     <tag k="addr:housenumber" v="5728"/>
     <tag k="addr:street" v="Jefferson Highway"/>
     <tag k="addr:city" v="Jefferson"/>
     <tag k="addr:postcode" v="70123"/>
+    <nd ref="6904060260"/>
+    <nd ref="6904060261"/>
+    <nd ref="6904060262"/>
+    <nd ref="6904060263"/>
+    <nd ref="6904060264"/>
+    <nd ref="6904060265"/>
+    <nd ref="6904060260"/>
   </way>
   <node visible="true" id="-538" lat="29.94509155243099840504328313" lon="-90.18425660561049994612403680">
     <tag k="addr:housenumber" v="5602"/>

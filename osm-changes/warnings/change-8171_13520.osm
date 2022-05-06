@@ -3,14 +3,14 @@
   <changeset_tag k="comment" v="Import buildings and addresses in Jefferson Parish, see https://wiki.openstreetmap.org/wiki/Import/Catalogue/Jefferson_Parish_Addresses_and_Buildings"/>
   <changeset_tag k="source" v="Jefferson Parish Planning Department"/>
   <changeset_tag k="source_file" v="8171_13520"/>
-  <node visible="true" id="-1" lat="29.99049075475889125641515420" lon="-90.22574244574859392287180526"/>
-  <node visible="true" id="-2" lat="29.99042169424518888831698860" lon="-90.22578127285909488364268327"/>
-  <node visible="true" id="-3" lat="29.99044912106471016954856168" lon="-90.22584631707786684273742139"/>
-  <node visible="true" id="-4" lat="29.99043916238115059513802407" lon="-90.22585145439867915229115169"/>
-  <node visible="true" id="-5" lat="29.99046277861517140195246611" lon="-90.22590935944086254494322930"/>
-  <node visible="true" id="-6" lat="29.99047273730092655341650243" lon="-90.22590422212461191975307884"/>
-  <node visible="true" id="-7" lat="29.99052057071305910085357027" lon="-90.22601715364291408150165807"/>
-  <node visible="true" id="-8" lat="29.99058964428078866149007808" lon="-90.22597976302492384093056899"/>
+  <node visible="true" id="-1" lat="29.99042175599784343376086326" lon="-90.22578096811642467400815804"/>
+  <node visible="true" id="-2" lat="29.99044890307019173292246705" lon="-90.22584624612034076562849805"/>
+  <node visible="true" id="-3" lat="29.99043903840602709465201769" lon="-90.22585171493891209593130043"/>
+  <node visible="true" id="-4" lat="29.99046303223724052600118739" lon="-90.22590941065053016245656181"/>
+  <node visible="true" id="-5" lat="29.99047302547661786320531974" lon="-90.22590387055049632181180641"/>
+  <node visible="true" id="-6" lat="29.99052037025724004593030259" lon="-90.22601771614850463265611324"/>
+  <node visible="true" id="-7" lat="29.99058941176421555496744986" lon="-90.22597944055289076459303033"/>
+  <node visible="true" id="-8" lat="29.99049092615090472691008472" lon="-90.22574262123936250645783730"/>
   <way visible="true" id="-1">
     <nd ref="-1"/>
     <nd ref="-2"/>
@@ -22,9 +22,38 @@
     <nd ref="-8"/>
     <nd ref="-1"/>
     <tag k="building" v="yes"/>
+    <tag k="building:levels" v="1"/>
     <tag k="addr:housenumber" v="8701"/>
     <tag k="addr:street" v="North Hackett Street"/>
     <tag k="addr:city" v="Metairie"/>
     <tag k="addr:postcode" v="70003"/>
+  </way>
+  <way id="1034971155" version="1" action="modify">
+    <tag k="addr:city" v="Metairie"/>
+    <tag k="addr:housenumber" v="1000"/>
+    <tag k="addr:postcode" v="70003"/>
+    <tag k="addr:state" v="LA"/>
+    <tag k="addr:street" v="North Atlanta Street"/>
+    <tag k="amenity" v="place_of_worship"/>
+    <tag k="building" v="church"/>
+    <tag k="denomination" v="roman_catholic"/>
+    <tag k="diocese" v="New Orleans"/>
+    <tag k="name" v="Our Lady of Divine Providence Catholic Church"/>
+    <tag k="religion" v="christian"/>
+    <tag k="website" v="https://oldp.org/"/>
+    <nd ref="9533828946"/>
+    <nd ref="9533828947"/>
+    <nd ref="9533828948"/>
+    <nd ref="9533828949"/>
+    <nd ref="9533828993"/>
+    <nd ref="9533828950"/>
+    <nd ref="9533828944"/>
+    <nd ref="9533828945"/>
+    <nd ref="9533828943"/>
+    <nd ref="9533828996"/>
+    <nd ref="9533828994"/>
+    <nd ref="9533828995"/>
+    <nd ref="9533828926"/>
+    <nd ref="9533828946"/>
   </way>
 </osm>

@@ -3,12 +3,12 @@
   <changeset_tag k="comment" v="Import buildings and addresses in Jefferson Parish, see https://wiki.openstreetmap.org/wiki/Import/Catalogue/Jefferson_Parish_Addresses_and_Buildings"/>
   <changeset_tag k="source" v="Jefferson Parish Planning Department"/>
   <changeset_tag k="source_file" v="8169_13523"/>
-  <node visible="true" id="-1" lat="29.95523326597695046302760602" lon="-90.24177497599187347532279091"/>
-  <node visible="true" id="-2" lat="29.95528708480822288606759685" lon="-90.24188950360148453455622075"/>
-  <node visible="true" id="-3" lat="29.95539285108418781078398752" lon="-90.24181855547359987212985288"/>
-  <node visible="true" id="-4" lat="29.95532891698929489621150424" lon="-90.24170070695801371130073676"/>
-  <node visible="true" id="-5" lat="29.95527172708669283451854426" lon="-90.24173937942235568243631860"/>
-  <node visible="true" id="-6" lat="29.95527740637483660179896106" lon="-90.24174577826252630075032357"/>
+  <node visible="true" id="-1" lat="29.95528794970668329256113793" lon="-90.24188833783560426127223764"/>
+  <node visible="true" id="-2" lat="29.95539096743180351722912746" lon="-90.24182039315309111771057360"/>
+  <node visible="true" id="-3" lat="29.95533120072478538986615604" lon="-90.24169967735714692480541999"/>
+  <node visible="true" id="-4" lat="29.95527146025691678232760751" lon="-90.24173907878596878617827315"/>
+  <node visible="true" id="-5" lat="29.95527743023403388633596478" lon="-90.24174580514461752045463072"/>
+  <node visible="true" id="-6" lat="29.95523216297832291843405983" lon="-90.24177566084853197025950067"/>
   <way visible="true" id="-1">
     <nd ref="-1"/>
     <nd ref="-2"/>
@@ -18,19 +18,20 @@
     <nd ref="-6"/>
     <nd ref="-1"/>
     <tag k="building" v="yes"/>
+    <tag k="building:levels" v="2"/>
     <tag k="addr:housenumber" v="276"/>
     <tag k="addr:street" v="Jeffer Drive"/>
     <tag k="addr:city" v="Waggaman"/>
     <tag k="addr:postcode" v="70094"/>
   </way>
-  <node visible="true" id="-7" lat="29.95527325443847743713376985" lon="-90.24192350970822928957204567"/>
-  <node visible="true" id="-8" lat="29.95519759264148618171930138" lon="-90.24176999730033799096418079"/>
-  <node visible="true" id="-9" lat="29.95516214337261473588114313" lon="-90.24179192095684243213327136"/>
-  <node visible="true" id="-10" lat="29.95517363203327221299332450" lon="-90.24182051009969995902793016"/>
-  <node visible="true" id="-11" lat="29.95510214401885207280429313" lon="-90.24186867075972884322254686"/>
-  <node visible="true" id="-12" lat="29.95516950160502034350429312" lon="-90.24200073806204613902082201"/>
-  <node visible="true" id="-13" lat="29.95520244514633390053859330" lon="-90.24197812388474915223923745"/>
-  <node visible="true" id="-14" lat="29.95519676587801782829956210" lon="-90.24197172607212280581734376"/>
+  <node visible="true" id="-7" lat="29.95519804028321786404376326" lon="-90.24176927836704464880313026"/>
+  <node visible="true" id="-8" lat="29.95516142206732723707318655" lon="-90.24179281579525024881149875"/>
+  <node visible="true" id="-9" lat="29.95517491904787377166030637" lon="-90.24182078766816061943245586"/>
+  <node visible="true" id="-10" lat="29.95510312339940384163128329" lon="-90.24186693640007206340669654"/>
+  <node visible="true" id="-11" lat="29.95516785038197937751647260" lon="-90.24200108005767617669334868"/>
+  <node visible="true" id="-12" lat="29.95520285173431673797495023" lon="-90.24197858191449483911128482"/>
+  <node visible="true" id="-13" lat="29.95519703404074718378069520" lon="-90.24197202816293383875745349"/>
+  <node visible="true" id="-14" lat="29.95527247325011899192759302" lon="-90.24192353738006033836427378"/>
   <way visible="true" id="-2">
     <nd ref="-7"/>
     <nd ref="-8"/>
@@ -42,19 +43,20 @@
     <nd ref="-14"/>
     <nd ref="-7"/>
     <tag k="building" v="yes"/>
+    <tag k="building:levels" v="1"/>
     <tag k="addr:housenumber" v="280"/>
     <tag k="addr:street" v="Jeffer Drive"/>
     <tag k="addr:city" v="Waggaman"/>
     <tag k="addr:postcode" v="70094"/>
   </way>
-  <node visible="true" id="-15" lat="29.95497642936058824147949053" lon="-90.24193608934456278802827001"/>
-  <node visible="true" id="-16" lat="29.95502099926633121640406898" lon="-90.24203394904849062641005730"/>
-  <node visible="true" id="-17" lat="29.95506514062512337659427430" lon="-90.24200475148589362106577028"/>
-  <node visible="true" id="-18" lat="29.95507595048339055665564956" lon="-90.24202688709104336339805741"/>
-  <node visible="true" id="-19" lat="29.95511699661791027438084711" lon="-90.24200131232487365195993334"/>
-  <node visible="true" id="-20" lat="29.95505276401721417300905159" lon="-90.24186921090864643701934256"/>
-  <node visible="true" id="-21" lat="29.95501484378698364707815927" lon="-90.24189475048467556916875765"/>
-  <node visible="true" id="-22" lat="29.95501995147527196650116821" lon="-90.24190761652387493541027652"/>
+  <node visible="true" id="-15" lat="29.95502168585666780131759879" lon="-90.24203299106355302683368791"/>
+  <node visible="true" id="-16" lat="29.95506541185273619021245395" lon="-90.24200509848394347045541508"/>
+  <node visible="true" id="-17" lat="29.95507598157686857121007051" lon="-90.24202717143566587765235454"/>
+  <node visible="true" id="-18" lat="29.95511651149524823267711326" lon="-90.24200131760325405139155919"/>
+  <node visible="true" id="-19" lat="29.95505338524617044981823710" lon="-90.24186948986286438412207644"/>
+  <node visible="true" id="-20" lat="29.95501419269484699725580867" lon="-90.24189449057982415070000570"/>
+  <node visible="true" id="-21" lat="29.95502048515952608909174160" lon="-90.24190763124390457505796803"/>
+  <node visible="true" id="-22" lat="29.95497542175039029643812682" lon="-90.24193637693900882368325256"/>
   <way visible="true" id="-3">
     <nd ref="-15"/>
     <nd ref="-16"/>
@@ -66,19 +68,20 @@
     <nd ref="-22"/>
     <nd ref="-15"/>
     <tag k="building" v="yes"/>
+    <tag k="building:levels" v="1"/>
     <tag k="addr:housenumber" v="284"/>
     <tag k="addr:street" v="Jeffer Drive"/>
     <tag k="addr:city" v="Waggaman"/>
     <tag k="addr:postcode" v="70094"/>
   </way>
-  <node visible="true" id="-23" lat="29.95553874359124080228866660" lon="-90.24175047227416257555887569"/>
-  <node visible="true" id="-24" lat="29.95546565286361939683956734" lon="-90.24160554540971190817799652"/>
-  <node visible="true" id="-25" lat="29.95541403508714495274034562" lon="-90.24163769603772777827543905"/>
-  <node visible="true" id="-26" lat="29.95541086246007722593276412" lon="-90.24163198777119987425976433"/>
-  <node visible="true" id="-27" lat="29.95535116681441323294166068" lon="-90.24166996971997889431804651"/>
-  <node visible="true" id="-28" lat="29.95543188878818341436272021" lon="-90.24183060591877847400610335"/>
-  <node visible="true" id="-29" lat="29.95546483229906087331073650" lon="-90.24180799162584776240692008"/>
-  <node visible="true" id="-30" lat="29.95545915302270145730290096" lon="-90.24180159380613019948214060"/>
+  <node visible="true" id="-23" lat="29.95546639869668226197063632" lon="-90.24160441326546333584701642"/>
+  <node visible="true" id="-24" lat="29.95541412454969787404479575" lon="-90.24163828691031596918037394"/>
+  <node visible="true" id="-25" lat="29.95541088337774837668803229" lon="-90.24163162381462655048380839"/>
+  <node visible="true" id="-26" lat="29.95535227825968505044329504" lon="-90.24166959990604652830370469"/>
+  <node visible="true" id="-27" lat="29.95543067265768755191857053" lon="-90.24183076052239016462408472"/>
+  <node visible="true" id="-28" lat="29.95546518926811785377140041" lon="-90.24180839375868856677698204"/>
+  <node visible="true" id="-29" lat="29.95545928071448216201133619" lon="-90.24180173765348911274486454"/>
+  <node visible="true" id="-30" lat="29.95553767397536759631293535" lon="-90.24175093879428288801136659"/>
   <way visible="true" id="-4">
     <nd ref="-23"/>
     <nd ref="-24"/>
@@ -90,109 +93,110 @@
     <nd ref="-30"/>
     <nd ref="-23"/>
     <tag k="building" v="yes"/>
+    <tag k="building:levels" v="1"/>
     <tag k="addr:housenumber" v="272"/>
     <tag k="addr:street" v="Jeffer Drive"/>
     <tag k="addr:city" v="Waggaman"/>
     <tag k="addr:postcode" v="70094"/>
   </way>
-  <node visible="true" id="-31" lat="29.95733843773375681962534145" lon="-90.24374595278791844066290651">
-    <tag k="addr:housenumber" v="7"/>
-    <tag k="addr:street" v="East Priscilla Lane"/>
-    <tag k="addr:city" v="Waggaman"/>
-    <tag k="addr:postcode" v="70094"/>
-  </node>
-  <node visible="true" id="-32" lat="29.95750659653128522563747538" lon="-90.24402598518732077081949683">
-    <tag k="addr:housenumber" v="3"/>
-    <tag k="addr:street" v="East Priscilla Lane"/>
-    <tag k="addr:city" v="Waggaman"/>
-    <tag k="addr:postcode" v="70094"/>
-  </node>
-  <node visible="true" id="-33" lat="29.95680072686094064238204737" lon="-90.24289860913826544219773496">
-    <tag k="addr:housenumber" v="19"/>
-    <tag k="addr:street" v="East Priscilla Lane"/>
-    <tag k="addr:city" v="Waggaman"/>
-    <tag k="addr:postcode" v="70094"/>
-  </node>
-  <node visible="true" id="-34" lat="29.95697571015922733295155922" lon="-90.24320141717699073069525184">
-    <tag k="addr:housenumber" v="15"/>
-    <tag k="addr:street" v="East Priscilla Lane"/>
-    <tag k="addr:city" v="Waggaman"/>
-    <tag k="addr:postcode" v="70094"/>
-  </node>
-  <node visible="true" id="-35" lat="29.95715044130990278858917009" lon="-90.24347375745546173675393220">
+  <node visible="true" id="-31" lat="29.95715044130990278858917009" lon="-90.24347375745546173675393220">
     <tag k="addr:housenumber" v="11"/>
     <tag k="addr:street" v="East Priscilla Lane"/>
     <tag k="addr:city" v="Waggaman"/>
     <tag k="addr:postcode" v="70094"/>
   </node>
-  <node visible="true" id="-36" lat="29.95796103110364683175248501" lon="-90.24490986741358256040257402">
+  <node visible="true" id="-32" lat="29.95796103110364683175248501" lon="-90.24490986741358256040257402">
     <tag k="addr:housenumber" v="5"/>
     <tag k="addr:street" v="West Priscilla Lane"/>
     <tag k="addr:city" v="Waggaman"/>
     <tag k="addr:postcode" v="70094"/>
   </node>
-  <node visible="true" id="-37" lat="29.95778598873371123545439332" lon="-90.24459943561835473246901529">
+  <node visible="true" id="-33" lat="29.95778598873371123545439332" lon="-90.24459943561835473246901529">
     <tag k="addr:housenumber" v="1"/>
     <tag k="addr:street" v="West Priscilla Lane"/>
     <tag k="addr:city" v="Waggaman"/>
     <tag k="addr:postcode" v="70094"/>
   </node>
-  <node visible="true" id="-38" lat="29.95786282668282751728838775" lon="-90.24378593511576696073461790">
+  <node visible="true" id="-34" lat="29.95786282668282751728838775" lon="-90.24378593511576696073461790">
     <tag k="addr:housenumber" v="4"/>
     <tag k="addr:street" v="East Priscilla Lane"/>
     <tag k="addr:city" v="Waggaman"/>
     <tag k="addr:postcode" v="70094"/>
   </node>
-  <node visible="true" id="-39" lat="29.95769466648918921691802097" lon="-90.24350590316704767701594392">
+  <node visible="true" id="-35" lat="29.95769466648918921691802097" lon="-90.24350590316704767701594392">
     <tag k="addr:housenumber" v="8"/>
     <tag k="addr:street" v="East Priscilla Lane"/>
     <tag k="addr:city" v="Waggaman"/>
     <tag k="addr:postcode" v="70094"/>
   </node>
-  <node visible="true" id="-40" lat="29.95750666956952912300948810" lon="-90.24323370627907081598095829">
+  <node visible="true" id="-36" lat="29.95750666956952912300948810" lon="-90.24323370627907081598095829">
     <tag k="addr:housenumber" v="12"/>
     <tag k="addr:street" v="East Priscilla Lane"/>
     <tag k="addr:city" v="Waggaman"/>
     <tag k="addr:postcode" v="70094"/>
   </node>
-  <node visible="true" id="-41" lat="29.95733193883279810165731760" lon="-90.24296136543883051217562752">
+  <node visible="true" id="-37" lat="29.95733193883279810165731760" lon="-90.24296136543883051217562752">
     <tag k="addr:housenumber" v="16"/>
     <tag k="addr:street" v="East Priscilla Lane"/>
     <tag k="addr:city" v="Waggaman"/>
     <tag k="addr:postcode" v="70094"/>
   </node>
-  <node visible="true" id="-42" lat="29.95715695408865997251268709" lon="-90.24265855674993019874818856">
+  <node visible="true" id="-38" lat="29.95715695408865997251268709" lon="-90.24265855674993019874818856">
     <tag k="addr:housenumber" v="20"/>
     <tag k="addr:street" v="East Priscilla Lane"/>
     <tag k="addr:city" v="Waggaman"/>
     <tag k="addr:postcode" v="70094"/>
   </node>
-  <node visible="true" id="-43" lat="29.95898873121831229582312517" lon="-90.24645276300125829038734082">
+  <node visible="true" id="-39" lat="29.95898873121831229582312517" lon="-90.24645276300125829038734082">
     <tag k="addr:housenumber" v="29"/>
     <tag k="addr:street" v="West Priscilla Lane"/>
     <tag k="addr:city" v="Waggaman"/>
     <tag k="addr:postcode" v="70094"/>
   </node>
-  <node visible="true" id="-44" lat="29.95860017652647044883451599" lon="-90.24599228867705846823810134">
+  <node visible="true" id="-40" lat="29.95860017652647044883451599" lon="-90.24599228867705846823810134">
     <tag k="addr:housenumber" v="21"/>
     <tag k="addr:street" v="West Priscilla Lane"/>
     <tag k="addr:city" v="Waggaman"/>
     <tag k="addr:postcode" v="70094"/>
   </node>
-  <node visible="true" id="-45" lat="29.95845204618701629328825220" lon="-90.24572726863743810099549592">
+  <node visible="true" id="-41" lat="29.95845204618701629328825220" lon="-90.24572726863743810099549592">
     <tag k="addr:housenumber" v="17"/>
     <tag k="addr:street" v="West Priscilla Lane"/>
     <tag k="addr:city" v="Waggaman"/>
     <tag k="addr:postcode" v="70094"/>
   </node>
-  <node visible="true" id="-46" lat="29.95828382716005577890427958" lon="-90.24543961395457358776184265">
+  <node visible="true" id="-42" lat="29.95828382716005577890427958" lon="-90.24543961395457358776184265">
     <tag k="addr:housenumber" v="13"/>
     <tag k="addr:street" v="West Priscilla Lane"/>
     <tag k="addr:city" v="Waggaman"/>
     <tag k="addr:postcode" v="70094"/>
   </node>
-  <node visible="true" id="-47" lat="29.95658006867748923696126440" lon="-90.24268771667495059318753192">
+  <node visible="true" id="-43" lat="29.95658006867748923696126440" lon="-90.24268771667495059318753192">
     <tag k="addr:housenumber" v="23"/>
+    <tag k="addr:street" v="East Priscilla Lane"/>
+    <tag k="addr:city" v="Waggaman"/>
+    <tag k="addr:postcode" v="70094"/>
+  </node>
+  <node visible="true" id="-44" lat="29.95733843773375681962534145" lon="-90.24374595278791844066290651">
+    <tag k="addr:housenumber" v="7"/>
+    <tag k="addr:street" v="East Priscilla Lane"/>
+    <tag k="addr:city" v="Waggaman"/>
+    <tag k="addr:postcode" v="70094"/>
+  </node>
+  <node visible="true" id="-45" lat="29.95750659653128522563747538" lon="-90.24402598518732077081949683">
+    <tag k="addr:housenumber" v="3"/>
+    <tag k="addr:street" v="East Priscilla Lane"/>
+    <tag k="addr:city" v="Waggaman"/>
+    <tag k="addr:postcode" v="70094"/>
+  </node>
+  <node visible="true" id="-46" lat="29.95680072686094064238204737" lon="-90.24289860913826544219773496">
+    <tag k="addr:housenumber" v="19"/>
+    <tag k="addr:street" v="East Priscilla Lane"/>
+    <tag k="addr:city" v="Waggaman"/>
+    <tag k="addr:postcode" v="70094"/>
+  </node>
+  <node visible="true" id="-47" lat="29.95697571015922733295155922" lon="-90.24320141717699073069525184">
+    <tag k="addr:housenumber" v="15"/>
     <tag k="addr:street" v="East Priscilla Lane"/>
     <tag k="addr:city" v="Waggaman"/>
     <tag k="addr:postcode" v="70094"/>

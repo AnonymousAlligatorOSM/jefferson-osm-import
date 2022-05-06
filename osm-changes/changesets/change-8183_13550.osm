@@ -3,14 +3,14 @@
   <changeset_tag k="comment" v="Import buildings and addresses in Jefferson Parish, see https://wiki.openstreetmap.org/wiki/Import/Catalogue/Jefferson_Parish_Addresses_and_Buildings"/>
   <changeset_tag k="source" v="Jefferson Parish Planning Department"/>
   <changeset_tag k="source_file" v="8183_13550"/>
-  <node visible="true" id="-1" lat="29.69838449740850450098150759" lon="-90.09867641776665436736948323"/>
-  <node visible="true" id="-2" lat="29.69842817483586472349088581" lon="-90.09853482078331410320970463"/>
-  <node visible="true" id="-3" lat="29.69829200360777221590069530" lon="-90.09847993482156880418187939"/>
-  <node visible="true" id="-4" lat="29.69825016721939903163729468" lon="-90.09861792912168709790421417"/>
-  <node visible="true" id="-5" lat="29.69828028521207130552284070" lon="-90.09862973014166698249027831"/>
-  <node visible="true" id="-6" lat="29.69827664859351301629430964" lon="-90.09864194673694726134272059"/>
-  <node visible="true" id="-7" lat="29.69834943945760485917162441" lon="-90.09867112214836026851116912"/>
-  <node visible="true" id="-8" lat="29.69835187194199122018289927" lon="-90.09866393150127805711235851"/>
+  <node visible="true" id="-1" lat="29.69842787843539255732139281" lon="-90.09853464768322339750739047"/>
+  <node visible="true" id="-2" lat="29.69829201117057237979679485" lon="-90.09847999172949073454219615"/>
+  <node visible="true" id="-3" lat="29.69825018764598567599932721" lon="-90.09861778000227161555812927"/>
+  <node visible="true" id="-4" lat="29.69828027453025143245213258" lon="-90.09862988318113252717012074"/>
+  <node visible="true" id="-5" lat="29.69827663111844628929247847" lon="-90.09864188646074012467579450"/>
+  <node visible="true" id="-6" lat="29.69834953639639607558819989" lon="-90.09867121439080506206664722"/>
+  <node visible="true" id="-7" lat="29.69835184690880680591362761" lon="-90.09866360236449622789223213"/>
+  <node visible="true" id="-8" lat="29.69838472207106505607043800" lon="-90.09867682720931725270929746"/>
   <way visible="true" id="-1">
     <nd ref="-1"/>
     <nd ref="-2"/>
@@ -22,15 +22,16 @@
     <nd ref="-8"/>
     <nd ref="-1"/>
     <tag k="building" v="yes"/>
+    <tag k="building:levels" v="1"/>
     <tag k="addr:housenumber" v="4241"/>
     <tag k="addr:street" v="Jean Lafitte Boulevard"/>
     <tag k="addr:city" v="Lafitte"/>
     <tag k="addr:postcode" v="70067"/>
   </way>
-  <node visible="true" id="-9" lat="29.69763514100879575607905281" lon="-90.09802024517031782124831807"/>
-  <node visible="true" id="-10" lat="29.69764865866104130986968812" lon="-90.09798757611913799792091595"/>
-  <node visible="true" id="-11" lat="29.69759891932299211703139008" lon="-90.09795985392891282117489027"/>
-  <node visible="true" id="-12" lat="29.69758538690132354531669989" lon="-90.09799085727603085160808405"/>
+  <node visible="true" id="-9" lat="29.69764876418859600448740821" lon="-90.09798795296586604308686219"/>
+  <node visible="true" id="-10" lat="29.69759895001386240664942306" lon="-90.09795955473803985569247743"/>
+  <node visible="true" id="-11" lat="29.69758528875508218902723456" lon="-90.09799131328132659746188438"/>
+  <node visible="true" id="-12" lat="29.69763510293654462657286786" lon="-90.09801971150915278485626914"/>
   <way visible="true" id="-2">
     <nd ref="-9"/>
     <nd ref="-10"/>

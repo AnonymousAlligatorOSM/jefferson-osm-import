@@ -3,12 +3,12 @@
   <changeset_tag k="comment" v="Import buildings and addresses in Jefferson Parish, see https://wiki.openstreetmap.org/wiki/Import/Catalogue/Jefferson_Parish_Addresses_and_Buildings"/>
   <changeset_tag k="source" v="Jefferson Parish Planning Department"/>
   <changeset_tag k="source_file" v="8179_13546"/>
-  <node visible="true" id="-1" lat="29.73654723058839266514041810" lon="-90.13182199349756729134242050"/>
-  <node visible="true" id="-2" lat="29.73650086443476681097308756" lon="-90.13181037322620170471054735"/>
-  <node visible="true" id="-3" lat="29.73647574499256407420944015" lon="-90.13193459481749414408113807"/>
-  <node visible="true" id="-4" lat="29.73645631541094758176768664" lon="-90.13192909778273076426557964"/>
-  <node visible="true" id="-5" lat="29.73644254832826661072431307" lon="-90.13199587936782108954503201"/>
-  <node visible="true" id="-6" lat="29.73650834493669492530898424" lon="-90.13201299572567393170174910"/>
+  <node visible="true" id="-1" lat="29.73650089439380650446764776" lon="-90.13180999643272173216246301"/>
+  <node visible="true" id="-2" lat="29.73647581776550197218966787" lon="-90.13193446171156608670571586"/>
+  <node visible="true" id="-3" lat="29.73645613808958998447451449" lon="-90.13192920295149690446123714"/>
+  <node visible="true" id="-4" lat="29.73644274099828521684685256" lon="-90.13199569801774657662463142"/>
+  <node visible="true" id="-5" lat="29.73650849187270139850625128" lon="-90.13201326782454714248160599"/>
+  <node visible="true" id="-6" lat="29.73654696557193588546397223" lon="-90.13182230747946732662967406"/>
   <way visible="true" id="-1">
     <nd ref="-1"/>
     <nd ref="-2"/>
@@ -18,15 +18,16 @@
     <nd ref="-6"/>
     <nd ref="-1"/>
     <tag k="building" v="yes"/>
+    <tag k="building:levels" v="1"/>
     <tag k="addr:housenumber" v="4966"/>
     <tag k="addr:street" v="Rj Pizani Street"/>
     <tag k="addr:city" v="Barataria"/>
     <tag k="addr:postcode" v="70036"/>
   </way>
-  <node visible="true" id="-7" lat="29.74498568628449746142905497" lon="-90.13220557282593858872132841"/>
-  <node visible="true" id="-8" lat="29.74493828985144006082919077" lon="-90.13228637435460655069618952"/>
-  <node visible="true" id="-9" lat="29.74500376823100467049698636" lon="-90.13233716640695547539507970"/>
-  <node visible="true" id="-10" lat="29.74505116468564125398188480" lon="-90.13225636381568506294570398"/>
+  <node visible="true" id="-7" lat="29.74493833065317360819790338" lon="-90.13228636548502947789529571"/>
+  <node visible="true" id="-8" lat="29.74500377617571444943678216" lon="-90.13233721314989566053554881"/>
+  <node visible="true" id="-9" lat="29.74505112385766736338155170" lon="-90.13225637321654915012913989"/>
+  <node visible="true" id="-10" lat="29.74498567836603513114823727" lon="-90.13220552555169717834360199"/>
   <way visible="true" id="-2">
     <nd ref="-7"/>
     <nd ref="-8"/>

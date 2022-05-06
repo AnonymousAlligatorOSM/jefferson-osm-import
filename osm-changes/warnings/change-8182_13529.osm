@@ -3,10 +3,10 @@
   <changeset_tag k="comment" v="Import buildings and addresses in Jefferson Parish, see https://wiki.openstreetmap.org/wiki/Import/Catalogue/Jefferson_Parish_Addresses_and_Buildings"/>
   <changeset_tag k="source" v="Jefferson Parish Planning Department"/>
   <changeset_tag k="source_file" v="8182_13529"/>
-  <node visible="true" id="-1" lat="29.90287994825528272713199840" lon="-90.10046529131290071745752357"/>
-  <node visible="true" id="-2" lat="29.90289275779397826227068435" lon="-90.10036468313690249942737864"/>
-  <node visible="true" id="-3" lat="29.90276816313573959860150353" lon="-90.10034397946519391098263441"/>
-  <node visible="true" id="-4" lat="29.90275535361268310907689738" lon="-90.10044458751829665743571240"/>
+  <node visible="true" id="-1" lat="29.90289267645287551999899733" lon="-90.10036475319797943939192919"/>
+  <node visible="true" id="-2" lat="29.90276810243627281238332216" lon="-90.10034388561068396938935621"/>
+  <node visible="true" id="-3" lat="29.90275543493804377703781938" lon="-90.10044451751865324240498012"/>
+  <node visible="true" id="-4" lat="29.90288000897041342796001118" lon="-90.10046538510596292326226830"/>
   <way visible="true" id="-1">
     <nd ref="-1"/>
     <nd ref="-2"/>
@@ -23,12 +23,12 @@
     <tag k="addr:city" v="Marrero"/>
     <tag k="addr:postcode" v="70072"/>
   </node>
-  <node visible="true" id="-6" lat="29.90145720366346182572669932" lon="-90.10977429632932000913569937"/>
-  <node visible="true" id="-7" lat="29.90134213402121332592287217" lon="-90.10976924905243379271269077"/>
-  <node visible="true" id="-8" lat="29.90134020064525088855589274" lon="-90.10983025916388555742742028"/>
-  <node visible="true" id="-9" lat="29.90146591070176640414501890" lon="-90.10983661135404076958366204"/>
-  <node visible="true" id="-10" lat="29.90146743158769737647162401" lon="-90.10979856598875414874783019"/>
-  <node visible="true" id="-11" lat="29.90145680542414297065079154" lon="-90.10979869621925786304927897"/>
+  <node visible="true" id="-6" lat="29.90134286862115331473432889" lon="-90.10976775425432094834832242"/>
+  <node visible="true" id="-7" lat="29.90133961527590145124122500" lon="-90.10982894705075807451066794"/>
+  <node visible="true" id="-8" lat="29.90146559343137866449069406" lon="-90.10983785960824832272919593"/>
+  <node visible="true" id="-9" lat="29.90146799794114329529293173" lon="-90.10979263267289240957325092"/>
+  <node visible="true" id="-10" lat="29.90145602909148792036830855" lon="-90.10980484376409549440722913"/>
+  <node visible="true" id="-11" lat="29.90145756954835221108623955" lon="-90.10977586898322044817177812"/>
   <way visible="true" id="-2">
     <nd ref="-6"/>
     <nd ref="-7"/>
@@ -38,15 +38,16 @@
     <nd ref="-11"/>
     <nd ref="-6"/>
     <tag k="building" v="yes"/>
+    <tag k="building:levels" v="1"/>
     <tag k="addr:housenumber" v="5901"/>
     <tag k="addr:street" v="Railroad"/>
     <tag k="addr:city" v="Marrero"/>
     <tag k="addr:postcode" v="70072"/>
   </way>
-  <node visible="true" id="-12" lat="29.90382711685787597843955155" lon="-90.10521994218635200013522990"/>
-  <node visible="true" id="-13" lat="29.90388589830073584607816883" lon="-90.10522208962743206939194351"/>
-  <node visible="true" id="-14" lat="29.90389139621060365925586666" lon="-90.10500748804679460590705276"/>
-  <node visible="true" id="-15" lat="29.90383262057358138008567039" lon="-90.10500605933553686099912738"/>
+  <node visible="true" id="-12" lat="29.90388596722214842316134309" lon="-90.10522199594529979549406562"/>
+  <node visible="true" id="-13" lat="29.90389132310969699801717070" lon="-90.10500774890834918551263399"/>
+  <node visible="true" id="-14" lat="29.90383254875023411045731336" lon="-90.10500579365273665644053835"/>
+  <node visible="true" id="-15" lat="29.90382719286013468718010699" lon="-90.10522004068967305556725478"/>
   <way visible="true" id="-3">
     <nd ref="-12"/>
     <nd ref="-13"/>
@@ -54,13 +55,20 @@
     <nd ref="-15"/>
     <nd ref="-12"/>
     <tag k="building" v="yes"/>
+    <tag k="building:levels" v="1"/>
     <tag k="addr:street" v="Douglas Lane"/>
     <tag k="addr:city" v="Marrero"/>
     <tag k="addr:postcode" v="70072"/>
   </way>
-  <way id="330513541" version="1">
+  <way id="330513541" version="1" action="modify">
+    <tag k="building" v="yes"/>
     <tag k="addr:street" v="Maxwell Lane"/>
     <tag k="addr:city" v="Marrero"/>
     <tag k="addr:postcode" v="70072"/>
+    <nd ref="3374796731"/>
+    <nd ref="3374796732"/>
+    <nd ref="3374796720"/>
+    <nd ref="3374796718"/>
+    <nd ref="3374796731"/>
   </way>
 </osm>

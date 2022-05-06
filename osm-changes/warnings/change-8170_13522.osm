@@ -3,10 +3,10 @@
   <changeset_tag k="comment" v="Import buildings and addresses in Jefferson Parish, see https://wiki.openstreetmap.org/wiki/Import/Catalogue/Jefferson_Parish_Addresses_and_Buildings"/>
   <changeset_tag k="source" v="Jefferson Parish Planning Department"/>
   <changeset_tag k="source_file" v="8170_13522"/>
-  <node visible="true" id="-1" lat="29.97082992854691596562588529" lon="-90.23412195795775403439620277"/>
-  <node visible="true" id="-2" lat="29.97100104585357271957946068" lon="-90.23402745343467756811151048"/>
-  <node visible="true" id="-3" lat="29.97096212575591778204397997" lon="-90.23393310884269169491744833"/>
-  <node visible="true" id="-4" lat="29.97079100251824712586312671" lon="-90.23402689544390398168616230"/>
+  <node visible="true" id="-1" lat="29.97100111941679401184046583" lon="-90.23402766246911710368294735"/>
+  <node visible="true" id="-2" lat="29.97096209868795213537850941" lon="-90.23393301258862209124345100"/>
+  <node visible="true" id="-3" lat="29.97079093188685305904073175" lon="-90.23402704537041074672742980"/>
+  <node visible="true" id="-4" lat="29.97082995268291227830559365" lon="-90.23412169525091997002164135"/>
   <way visible="true" id="-1">
     <nd ref="-1"/>
     <nd ref="-2"/>
@@ -14,17 +14,18 @@
     <nd ref="-4"/>
     <nd ref="-1"/>
     <tag k="building" v="yes"/>
+    <tag k="building:levels" v="1"/>
     <tag k="addr:housenumber" v="219"/>
     <tag k="addr:street" v="South Starrett Road"/>
     <tag k="addr:city" v="River Ridge"/>
     <tag k="addr:postcode" v="70123"/>
   </way>
-  <node visible="true" id="-5" lat="29.97103282590778405847231625" lon="-90.23110062607693748759629671"/>
-  <node visible="true" id="-6" lat="29.97099910264913802393493825" lon="-90.23102991878897682909155264"/>
-  <node visible="true" id="-7" lat="29.97097423242255231912167801" lon="-90.23104598898942185769556090"/>
-  <node visible="true" id="-8" lat="29.97094688025856967783511209" lon="-90.23098957157520771943381988"/>
-  <node visible="true" id="-9" lat="29.97092946914971989258447138" lon="-90.23100053359708283551299246"/>
-  <node visible="true" id="-10" lat="29.97098929420232948928060068" lon="-90.23112767208559148457425181"/>
+  <node visible="true" id="-5" lat="29.97099922298538032805481635" lon="-90.23103001058383654253702844"/>
+  <node visible="true" id="-6" lat="29.97097395316824730571170221" lon="-90.23104599773535028361948207"/>
+  <node visible="true" id="-7" lat="29.97094708848121413780063449" lon="-90.23098941321669030912744347"/>
+  <node visible="true" id="-8" lat="29.97092927253963168254813354" lon="-90.23100068460882994259009138"/>
+  <node visible="true" id="-9" lat="29.97098959083812985682016006" lon="-90.23112773175608936071512289"/>
+  <node visible="true" id="-10" lat="29.97103267657753633557149442" lon="-90.23110047321243598617002135"/>
   <way visible="true" id="-2">
     <nd ref="-5"/>
     <nd ref="-6"/>
@@ -38,10 +39,10 @@
     <tag k="addr:city" v="River Ridge"/>
     <tag k="addr:postcode" v="70123"/>
   </way>
-  <node visible="true" id="-11" lat="29.97104464852559502219264687" lon="-90.23124337338259692842257209"/>
-  <node visible="true" id="-12" lat="29.97108446527135328096846933" lon="-90.23122067610444219099008478"/>
-  <node visible="true" id="-13" lat="29.97104365651907542655862926" lon="-90.23112491817870761678932467"/>
-  <node visible="true" id="-14" lat="29.97100321370324138570140349" lon="-90.23114762136653155266685644"/>
+  <node visible="true" id="-11" lat="29.97108452902979180976217322" lon="-90.23122063835097605988266878"/>
+  <node visible="true" id="-12" lat="29.97104353143097910106007475" lon="-90.23112481258324635291501181"/>
+  <node visible="true" id="-13" lat="29.97100346297161621578197810" lon="-90.23114765616516308455175022"/>
+  <node visible="true" id="-14" lat="29.97104446058698812294096570" lon="-90.23124348193290700237412238"/>
   <way visible="true" id="-3">
     <nd ref="-11"/>
     <nd ref="-12"/>
@@ -49,18 +50,19 @@
     <nd ref="-14"/>
     <nd ref="-11"/>
     <tag k="building" v="yes"/>
+    <tag k="building:levels" v="1"/>
     <tag k="addr:street" v="Marmandie Avenue"/>
     <tag k="addr:city" v="River Ridge"/>
     <tag k="addr:postcode" v="70123"/>
   </way>
-  <node visible="true" id="-15" lat="29.97185661218394514548890584" lon="-90.23790016131316349401458865"/>
-  <node visible="true" id="-16" lat="29.97191522801941232501121704" lon="-90.23803306328923667933850084"/>
-  <node visible="true" id="-17" lat="29.97196498808974141070393671" lon="-90.23800307919104568554757861"/>
-  <node visible="true" id="-18" lat="29.97195415875808421901638212" lon="-90.23797878715443232522375183"/>
-  <node visible="true" id="-19" lat="29.97200890049738930542844173" lon="-90.23794659499152714943193132"/>
-  <node visible="true" id="-20" lat="29.97197005582261297718105197" lon="-90.23786086250191829094546847"/>
-  <node visible="true" id="-21" lat="29.97191655758537365272786701" lon="-90.23789232396090653764986200"/>
-  <node visible="true" id="-22" lat="29.97190699650675327347926213" lon="-90.23787017134760901626577834"/>
+  <node visible="true" id="-15" lat="29.97191534438909954474183905" lon="-90.23803275208800300788425375"/>
+  <node visible="true" id="-16" lat="29.97196506453728659380431054" lon="-90.23800327608284987945808098"/>
+  <node visible="true" id="-17" lat="29.97195421349116983833482664" lon="-90.23797888513006171251618071"/>
+  <node visible="true" id="-18" lat="29.97200857603827373054627969" lon="-90.23794665691993088785238797"/>
+  <node visible="true" id="-19" lat="29.97197028959974929307463754" lon="-90.23786059673844306416867767"/>
+  <node visible="true" id="-20" lat="29.97191671874640306327819417" lon="-90.23789235558993482300138567"/>
+  <node visible="true" id="-21" lat="29.97190690127689194355298241" lon="-90.23787028791841180463961791"/>
+  <node visible="true" id="-22" lat="29.97185638938444185441767331" lon="-90.23790023328220399889687542"/>
   <way visible="true" id="-4">
     <nd ref="-15"/>
     <nd ref="-16"/>
@@ -72,20 +74,21 @@
     <nd ref="-22"/>
     <nd ref="-15"/>
     <tag k="building" v="yes"/>
+    <tag k="building:levels" v="1"/>
     <tag k="addr:street" v="Providence Lane"/>
     <tag k="addr:city" v="River Ridge"/>
     <tag k="addr:postcode" v="70062"/>
   </way>
-  <node visible="true" id="-23" lat="29.97259025908225993362066220" lon="-90.23389865284080713081493741"/>
-  <node visible="true" id="-24" lat="29.97263937808840950083322241" lon="-90.23401657955621146811608924"/>
-  <node visible="true" id="-25" lat="29.97272276357596609841493773" lon="-90.23397114617023362370673567"/>
-  <node visible="true" id="-26" lat="29.97269276892687628333078464" lon="-90.23389752313389067239768337"/>
-  <node visible="true" id="-27" lat="29.97269214974984308241801045" lon="-90.23389824808414516610355349"/>
-  <node visible="true" id="-28" lat="29.97264428098909405662197969" lon="-90.23378030758368595343199559"/>
-  <node visible="true" id="-29" lat="29.97254160780526888174790656" lon="-90.23383672451419101889769081"/>
-  <node visible="true" id="-30" lat="29.97255818952452699477362330" lon="-90.23387603038635518259980017"/>
-  <node visible="true" id="-31" lat="29.97257685721858777583292976" lon="-90.23386577296710697737580631"/>
-  <node visible="true" id="-32" lat="29.97259089025626721536355035" lon="-90.23389936401088107231771573"/>
+  <node visible="true" id="-23" lat="29.97263910583610169169332949" lon="-90.23401680848748185326257953"/>
+  <node visible="true" id="-24" lat="29.97272282400070153585147636" lon="-90.23397103306200506267487071"/>
+  <node visible="true" id="-25" lat="29.97269269676121439260896295" lon="-90.23389760762751166112138890"/>
+  <node visible="true" id="-26" lat="29.97269232656127257996558910" lon="-90.23389804106822964513412444"/>
+  <node visible="true" id="-27" lat="29.97264411366995062735441024" lon="-90.23378053773427609485224821"/>
+  <node visible="true" id="-28" lat="29.97254174677047799946194573" lon="-90.23383650986704651586478576"/>
+  <node visible="true" id="-29" lat="29.97255799565980893817140895" lon="-90.23387611123382612277055159"/>
+  <node visible="true" id="-30" lat="29.97257696784810931944775803" lon="-90.23386573763090723332425114"/>
+  <node visible="true" id="-31" lat="29.97259065753959106359616271" lon="-90.23389910179930950562265934"/>
+  <node visible="true" id="-32" lat="29.97259094012281721575163829" lon="-90.23389942019760212588153081"/>
   <way visible="true" id="-5">
     <nd ref="-23"/>
     <nd ref="-24"/>
@@ -99,14 +102,15 @@
     <nd ref="-32"/>
     <nd ref="-23"/>
     <tag k="building" v="yes"/>
+    <tag k="building:levels" v="1"/>
     <tag k="addr:street" v="Newton Street"/>
     <tag k="addr:city" v="River Ridge"/>
     <tag k="addr:postcode" v="70123"/>
   </way>
-  <node visible="true" id="-33" lat="29.97326436773234092925122241" lon="-90.23325364597647535447322298"/>
-  <node visible="true" id="-34" lat="29.97334476350152954182703979" lon="-90.23344877200190694566117600"/>
-  <node visible="true" id="-35" lat="29.97344308427549464113326394" lon="-90.23339527369601853479252895"/>
-  <node visible="true" id="-36" lat="29.97336268933021585780807072" lon="-90.23320014751149642506788950"/>
+  <node visible="true" id="-33" lat="29.97334470616011259380684351" lon="-90.23344895696072853752411902"/>
+  <node visible="true" id="-34" lat="29.97344292427412426604860229" lon="-90.23339520767677868207101710"/>
+  <node visible="true" id="-35" lat="29.97336274629942920455505373" lon="-90.23319996263221298704593210"/>
+  <node visible="true" id="-36" lat="29.97326452810618135913500737" lon="-90.23325371191614863164431881"/>
   <way visible="true" id="-6">
     <nd ref="-33"/>
     <nd ref="-34"/>
@@ -114,6 +118,7 @@
     <nd ref="-36"/>
     <nd ref="-33"/>
     <tag k="building" v="yes"/>
+    <tag k="building:levels" v="1"/>
     <tag k="addr:housenumber" v="520"/>
     <tag k="addr:street" v="South Starrett Road"/>
     <tag k="addr:city" v="River Ridge"/>
@@ -126,26 +131,26 @@
     <tag k="addr:postcode" v="70123"/>
     <tag k="addr:unit" v="A"/>
   </node>
-  <node visible="true" id="-38" lat="29.97346265713503754568591830" lon="-90.23323511648654005057323957">
-    <tag k="addr:housenumber" v="524"/>
-    <tag k="addr:street" v="South Starrett Road"/>
-    <tag k="addr:city" v="River Ridge"/>
-    <tag k="addr:postcode" v="70123"/>
-    <tag k="addr:unit" v="C"/>
-  </node>
-  <node visible="true" id="-39" lat="29.97343025868538290978904115" lon="-90.23321449973803964894614182">
+  <node visible="true" id="-38" lat="29.97343025868538290978904115" lon="-90.23321449973803964894614182">
     <tag k="addr:housenumber" v="524"/>
     <tag k="addr:street" v="South Starrett Road"/>
     <tag k="addr:city" v="River Ridge"/>
     <tag k="addr:postcode" v="70123"/>
     <tag k="addr:unit" v="B"/>
   </node>
-  <node visible="true" id="-40" lat="29.97309480111852764139257488" lon="-90.23345870706690163842722541"/>
-  <node visible="true" id="-41" lat="29.97303291079080622694164049" lon="-90.23330861130848745688126655"/>
-  <node visible="true" id="-42" lat="29.97297254961619827895447088" lon="-90.23334158644831859419355169"/>
-  <node visible="true" id="-43" lat="29.97302294947422396376168763" lon="-90.23346308987062514006538549"/>
-  <node visible="true" id="-44" lat="29.97303477110267166949597595" lon="-90.23345649741294494106114144"/>
-  <node visible="true" id="-45" lat="29.97304626843958175186344306" lon="-90.23348580773446769853762817"/>
+  <node visible="true" id="-39" lat="29.97346265713503754568591830" lon="-90.23323511648654005057323957">
+    <tag k="addr:housenumber" v="524"/>
+    <tag k="addr:street" v="South Starrett Road"/>
+    <tag k="addr:city" v="River Ridge"/>
+    <tag k="addr:postcode" v="70123"/>
+    <tag k="addr:unit" v="C"/>
+  </node>
+  <node visible="true" id="-40" lat="29.97303287802162685693474486" lon="-90.23330853283303554235317279"/>
+  <node visible="true" id="-41" lat="29.97297270375785060991802311" lon="-90.23334159823035349745623535"/>
+  <node visible="true" id="-42" lat="29.97302281153994485407565662" lon="-90.23346311739369696169887902"/>
+  <node visible="true" id="-43" lat="29.97303454738939265666886058" lon="-90.23345666861308700390509330"/>
+  <node visible="true" id="-44" lat="29.97304643572754656588585931" lon="-90.23348549969412601967633236"/>
+  <node visible="true" id="-45" lat="29.97309487410575457033701241" lon="-90.23345888307740381151234033"/>
   <way visible="true" id="-7">
     <nd ref="-40"/>
     <nd ref="-41"/>
@@ -155,6 +160,7 @@
     <nd ref="-45"/>
     <nd ref="-40"/>
     <tag k="building" v="yes"/>
+    <tag k="building:levels" v="1"/>
     <tag k="addr:housenumber" v="508"/>
     <tag k="addr:street" v="South Starrett Road"/>
     <tag k="addr:city" v="River Ridge"/>
@@ -179,19 +185,20 @@
     <nd ref="-53"/>
     <nd ref="-46"/>
     <tag k="building" v="yes"/>
+    <tag k="building:levels" v="1"/>
     <tag k="addr:housenumber" v="512"/>
     <tag k="addr:street" v="South Starrett Road"/>
     <tag k="addr:city" v="River Ridge"/>
     <tag k="addr:postcode" v="70123"/>
   </way>
-  <node visible="true" id="-54" lat="29.97183425521687993864361488" lon="-90.23342091000679943135764915"/>
-  <node visible="true" id="-55" lat="29.97190253426080985832413717" lon="-90.23358744727617875014402671"/>
-  <node visible="true" id="-56" lat="29.97196912145630420809538919" lon="-90.23355153151912588782579405"/>
-  <node visible="true" id="-57" lat="29.97190340907548034010687843" lon="-90.23339286415823323750373675"/>
-  <node visible="true" id="-58" lat="29.97192892185412205208194791" lon="-90.23337894063888597884215415"/>
-  <node visible="true" id="-59" lat="29.97190275503538359203048458" lon="-90.23331461069207648506562691"/>
-  <node visible="true" id="-60" lat="29.97186790153276803039261722" lon="-90.23333294490402067822287790"/>
-  <node visible="true" id="-61" lat="29.97189150253722189631844230" lon="-90.23338940482881298521533608"/>
+  <node visible="true" id="-54" lat="29.97190262131578464277481544" lon="-90.23358763669062909684726037"/>
+  <node visible="true" id="-55" lat="29.97196877978177198542653059" lon="-90.23355148125369851186405867"/>
+  <node visible="true" id="-56" lat="29.97190367456144954871888331" lon="-90.23339272864483007197122788"/>
+  <node visible="true" id="-57" lat="29.97192900655138103616081935" lon="-90.23337888477810508902621223"/>
+  <node visible="true" id="-58" lat="29.97190254767412653791325283" lon="-90.23331436744904010538448347"/>
+  <node visible="true" id="-59" lat="29.97186820336520796104196052" lon="-90.23333313651885134731855942"/>
+  <node visible="true" id="-60" lat="29.97189135696048012391656812" lon="-90.23338959422754612660355633"/>
+  <node visible="true" id="-61" lat="29.97183421075911269326752517" lon="-90.23342082446139045259769773"/>
   <way visible="true" id="-9">
     <nd ref="-54"/>
     <nd ref="-55"/>
@@ -203,85 +210,89 @@
     <nd ref="-61"/>
     <nd ref="-54"/>
     <tag k="building" v="yes"/>
+    <tag k="building:levels" v="1"/>
     <tag k="addr:housenumber" v="413"/>
     <tag k="addr:street" v="South Starrett Road"/>
     <tag k="addr:city" v="River Ridge"/>
     <tag k="addr:postcode" v="70123"/>
   </way>
-  <node visible="true" id="-62" lat="29.97049766535504033981851535" lon="-90.23715546676923793256719364"/>
-  <node visible="true" id="-63" lat="29.97056080167864067220762081" lon="-90.23730554839946194078947883"/>
-  <node visible="true" id="-64" lat="29.97059066629390144953504205" lon="-90.23728870685354763736540917"/>
-  <node visible="true" id="-65" lat="29.97052753683437842369130522" lon="-90.23713934322422858258505585"/>
+  <node visible="true" id="-62" lat="29.97206474274342724584130337" lon="-90.23480781358119884316693060"/>
+  <node visible="true" id="-63" lat="29.97198243711495635466235399" lon="-90.23485291547467568307183683"/>
+  <node visible="true" id="-64" lat="29.97205006624374945545241644" lon="-90.23501737632567198943434050"/>
+  <node visible="true" id="-65" lat="29.97207519677967724192058085" lon="-90.23500360527233965513005387"/>
+  <node visible="true" id="-66" lat="29.97209788570779309679892322" lon="-90.23505878035935268144385191"/>
+  <node visible="true" id="-67" lat="29.97208216912525458042182436" lon="-90.23506739274851895515894284"/>
+  <node visible="true" id="-68" lat="29.97209089583301633297196531" lon="-90.23508861441479211862315424"/>
+  <node visible="true" id="-69" lat="29.97213343480996172729646787" lon="-90.23506530385689927697967505"/>
+  <node visible="true" id="-70" lat="29.97212891440475601712023490" lon="-90.23505431110035601705021691"/>
+  <node visible="true" id="-71" lat="29.97213658032209337989115738" lon="-90.23505011032123945824423572"/>
+  <node visible="true" id="-72" lat="29.97214371480336225772589387" lon="-90.23506746000973066657024901"/>
+  <node visible="true" id="-73" lat="29.97217715983267183332827699" lon="-90.23504913275488092949672136"/>
+  <node visible="true" id="-74" lat="29.97215891382490582373065990" lon="-90.23500476195492581155122025"/>
+  <node visible="true" id="-75" lat="29.97214815549866528954225942" lon="-90.23501065731745995890378254"/>
   <way visible="true" id="-10">
     <nd ref="-62"/>
     <nd ref="-63"/>
     <nd ref="-64"/>
     <nd ref="-65"/>
-    <nd ref="-62"/>
-    <tag k="building" v="yes"/>
-    <tag k="addr:street" v="South Bengal Road"/>
-    <tag k="addr:city" v="River Ridge"/>
-    <tag k="addr:postcode" v="70123"/>
-  </way>
-  <node visible="true" id="-66" lat="29.97062966804253392183454707" lon="-90.23424478336873733042011736"/>
-  <node visible="true" id="-67" lat="29.97057926889752721422155446" lon="-90.23412328350239874907856574"/>
-  <node visible="true" id="-68" lat="29.97049837114733250587050861" lon="-90.23416725319017928086395841"/>
-  <node visible="true" id="-69" lat="29.97055579016951654125477944" lon="-90.23430590720680299909872701"/>
-  <node visible="true" id="-70" lat="29.97060743601838339600362815" lon="-90.23427733709760900637775194"/>
-  <node visible="true" id="-71" lat="29.97060042210270225382373610" lon="-90.23426090194573134795064107"/>
-  <way visible="true" id="-11">
     <nd ref="-66"/>
     <nd ref="-67"/>
     <nd ref="-68"/>
     <nd ref="-69"/>
     <nd ref="-70"/>
     <nd ref="-71"/>
-    <nd ref="-66"/>
-    <tag k="building" v="yes"/>
-    <tag k="addr:housenumber" v="211"/>
-    <tag k="addr:street" v="South Starrett Road"/>
-    <tag k="addr:city" v="River Ridge"/>
-    <tag k="addr:postcode" v="70123"/>
-  </way>
-  <node visible="true" id="-72" lat="29.97214821215957414324293495" lon="-90.23501065812817500955134165"/>
-  <node visible="true" id="-73" lat="29.97206462780459901296126191" lon="-90.23480767104999245020735543"/>
-  <node visible="true" id="-74" lat="29.97198249238034151176179876" lon="-90.23485309070585458357527386"/>
-  <node visible="true" id="-75" lat="29.97205012645769173218468495" lon="-90.23501748191762317219399847"/>
-  <node visible="true" id="-76" lat="29.97207501424066578010751982" lon="-90.23500356671219435611419613"/>
-  <node visible="true" id="-77" lat="29.97209797736772074472355598" lon="-90.23505859791920613588445121"/>
-  <node visible="true" id="-78" lat="29.97208242348209594752006524" lon="-90.23506738557803430467174621"/>
-  <node visible="true" id="-79" lat="29.97209072868895063379568455" lon="-90.23508883366984889562445460"/>
-  <node visible="true" id="-80" lat="29.97213304080236895288180676" lon="-90.23506539210238486248272238"/>
-  <node visible="true" id="-81" lat="29.97212919479311210579908220" lon="-90.23505394655471434361970751"/>
-  <node visible="true" id="-82" lat="29.97213666514421959163883002" lon="-90.23505027473839845697511919"/>
-  <node visible="true" id="-83" lat="29.97214368496055314494697086" lon="-90.23506742929167501188203460"/>
-  <node visible="true" id="-84" lat="29.97217728835212113835950731" lon="-90.23504910939992385010555154"/>
-  <node visible="true" id="-85" lat="29.97215879041029396034900856" lon="-90.23500479772400240108254366"/>
-  <way visible="true" id="-12">
     <nd ref="-72"/>
     <nd ref="-73"/>
     <nd ref="-74"/>
     <nd ref="-75"/>
+    <nd ref="-62"/>
+    <tag k="building" v="yes"/>
+    <tag k="building:levels" v="1"/>
+    <tag k="addr:street" v="South Cumberland Street"/>
+    <tag k="addr:city" v="River Ridge"/>
+    <tag k="addr:postcode" v="70123"/>
+  </way>
+  <node visible="true" id="-76" lat="29.97056075595282464973934111" lon="-90.23730551544352351811539847"/>
+  <node visible="true" id="-77" lat="29.97059054105471531670445984" lon="-90.23728883555125435123045463"/>
+  <node visible="true" id="-78" lat="29.97052757913764509112297674" lon="-90.23713901717970031768345507"/>
+  <node visible="true" id="-79" lat="29.97049779401693569980125176" lon="-90.23715569707196948456839891"/>
+  <way visible="true" id="-11">
     <nd ref="-76"/>
     <nd ref="-77"/>
     <nd ref="-78"/>
     <nd ref="-79"/>
+    <nd ref="-76"/>
+    <tag k="building" v="yes"/>
+    <tag k="building:levels" v="1"/>
+    <tag k="addr:street" v="South Bengal Road"/>
+    <tag k="addr:city" v="River Ridge"/>
+    <tag k="addr:postcode" v="70123"/>
+  </way>
+  <node visible="true" id="-80" lat="29.97057922594590451126350672" lon="-90.23412299987410278845345601"/>
+  <node visible="true" id="-81" lat="29.97049850472087939579068916" lon="-90.23416748687508004422852537"/>
+  <node visible="true" id="-82" lat="29.97055574206426342698250664" lon="-90.23430588017437514736229787"/>
+  <node visible="true" id="-83" lat="29.97060736585808271570385841" lon="-90.23427742930843464819190558"/>
+  <node visible="true" id="-84" lat="29.97060051020111970387915790" lon="-90.23426085310725852650648449"/>
+  <node visible="true" id="-85" lat="29.97062960758781713366261101" lon="-90.23424481697223598075652262"/>
+  <way visible="true" id="-12">
     <nd ref="-80"/>
     <nd ref="-81"/>
     <nd ref="-82"/>
     <nd ref="-83"/>
     <nd ref="-84"/>
     <nd ref="-85"/>
-    <nd ref="-72"/>
+    <nd ref="-80"/>
     <tag k="building" v="yes"/>
-    <tag k="addr:street" v="South Cumberland Street"/>
+    <tag k="building:levels" v="1"/>
+    <tag k="addr:housenumber" v="211"/>
+    <tag k="addr:street" v="South Starrett Road"/>
     <tag k="addr:city" v="River Ridge"/>
     <tag k="addr:postcode" v="70123"/>
   </way>
-  <node visible="true" id="-86" lat="29.97216345758580757774325320" lon="-90.23571411687288446046295576"/>
-  <node visible="true" id="-87" lat="29.97224191432585982397540647" lon="-90.23590208382141497622797033"/>
-  <node visible="true" id="-88" lat="29.97227551094336206460866379" lon="-90.23588304614513333490322111"/>
-  <node visible="true" id="-89" lat="29.97219768025421515744710632" lon="-90.23569507225987251786136767"/>
+  <node visible="true" id="-86" lat="29.97224179643918517967904336" lon="-90.23590195833254767876496771"/>
+  <node visible="true" id="-87" lat="29.97227577765881179061580042" lon="-90.23588308899124399431457277"/>
+  <node visible="true" id="-88" lat="29.97219748512873138679424301" lon="-90.23569520121709786053543212"/>
+  <node visible="true" id="-89" lat="29.97216350388237060542451218" lon="-90.23571407055840154498582706"/>
   <way visible="true" id="-13">
     <nd ref="-86"/>
     <nd ref="-87"/>
@@ -289,18 +300,19 @@
     <nd ref="-89"/>
     <nd ref="-86"/>
     <tag k="building" v="yes"/>
+    <tag k="building:levels" v="1"/>
     <tag k="addr:street" v="Wilker Neal Avenue"/>
     <tag k="addr:city" v="River Ridge"/>
     <tag k="addr:postcode" v="70123"/>
   </way>
-  <node visible="true" id="-90" lat="29.97169848508049483370996313" lon="-90.23348128129197220914647914"/>
-  <node visible="true" id="-91" lat="29.97172151007064044847538753" lon="-90.23346882149034797748754499"/>
-  <node visible="true" id="-92" lat="29.97169405094398086930596037" lon="-90.23339948010233513286948437"/>
-  <node visible="true" id="-93" lat="29.97166293047873253385660064" lon="-90.23341561873105831637076335"/>
-  <node visible="true" id="-94" lat="29.97168526310339231599755294" lon="-90.23346993922054082304384792"/>
-  <node visible="true" id="-95" lat="29.97162551595306823060127499" lon="-90.23350147080968497448338894"/>
-  <node visible="true" id="-96" lat="29.97169959363898072979282006" lon="-90.23368876622421907995885704"/>
-  <node visible="true" id="-97" lat="29.97176618686391336154883902" lon="-90.23365356866172248828661395"/>
+  <node visible="true" id="-90" lat="29.97172157040502682434635062" lon="-90.23346893816811586930271005"/>
+  <node visible="true" id="-91" lat="29.97169399006538270668897894" lon="-90.23339936205177025385637535"/>
+  <node visible="true" id="-92" lat="29.97166331032760666630565538" lon="-90.23341556828907528142735828"/>
+  <node visible="true" id="-93" lat="29.97168492770576975203766779" lon="-90.23347010179827520914841443"/>
+  <node visible="true" id="-94" lat="29.97162545159470781186428212" lon="-90.23350151939867203054745914"/>
+  <node visible="true" id="-95" lat="29.97169965943738034752641397" lon="-90.23368872126813755585317267"/>
+  <node visible="true" id="-96" lat="29.97176643571015830502801691" lon="-90.23365344741009153040067758"/>
+  <node visible="true" id="-97" lat="29.97169819088695774667030491" lon="-90.23348128814775748196552740"/>
   <way visible="true" id="-14">
     <nd ref="-90"/>
     <nd ref="-91"/>
@@ -312,19 +324,20 @@
     <nd ref="-97"/>
     <nd ref="-90"/>
     <tag k="building" v="yes"/>
+    <tag k="building:levels" v="1"/>
     <tag k="addr:housenumber" v="401"/>
     <tag k="addr:street" v="South Starrett Road"/>
     <tag k="addr:city" v="River Ridge"/>
     <tag k="addr:postcode" v="70123"/>
   </way>
-  <node visible="true" id="-98" lat="29.97076843761561804058146663" lon="-90.23416930346849085253779776"/>
-  <node visible="true" id="-99" lat="29.97072248058909949008921103" lon="-90.23405565168806674591905903"/>
-  <node visible="true" id="-100" lat="29.97062415949973868123379361" lon="-90.23410914684818351361172972"/>
-  <node visible="true" id="-101" lat="29.97068158368525558898909367" lon="-90.23424852009831909072090639"/>
-  <node visible="true" id="-102" lat="29.97071269826030004423955688" lon="-90.23423166384191063116304576"/>
-  <node visible="true" id="-103" lat="29.97070631640501403580856277" lon="-90.23421593878843793845589971"/>
-  <node visible="true" id="-104" lat="29.97075298570858947755368717" lon="-90.23419029483201825314608868"/>
-  <node visible="true" id="-105" lat="29.97074852044371695569680014" lon="-90.23417957441074577218387276"/>
+  <node visible="true" id="-98" lat="29.97072232660700663586794690" lon="-90.23405576336887179422774352"/>
+  <node visible="true" id="-99" lat="29.97062438622530677889699291" lon="-90.23410899563018006119818892"/>
+  <node visible="true" id="-100" lat="29.97068135680458311753682210" lon="-90.23424867093571322129719192"/>
+  <node visible="true" id="-101" lat="29.97071270219023375602773740" lon="-90.23423163418203785113291815"/>
+  <node visible="true" id="-102" lat="29.97070625681480038338122540" lon="-90.23421583198538087344786618"/>
+  <node visible="true" id="-103" lat="29.97075299426577288386397413" lon="-90.23419042937238998547400115"/>
+  <node visible="true" id="-104" lat="29.97074865090282003166066715" lon="-90.23417978069811340446904069"/>
+  <node visible="true" id="-105" lat="29.97076850839694728279027913" lon="-90.23416898780344297392730368"/>
   <way visible="true" id="-15">
     <nd ref="-98"/>
     <nd ref="-99"/>
@@ -336,15 +349,16 @@
     <nd ref="-105"/>
     <nd ref="-98"/>
     <tag k="building" v="yes"/>
+    <tag k="building:levels" v="1"/>
     <tag k="addr:housenumber" v="213"/>
     <tag k="addr:street" v="South Starrett Road"/>
     <tag k="addr:city" v="River Ridge"/>
     <tag k="addr:postcode" v="70123"/>
   </way>
-  <node visible="true" id="-106" lat="29.97288243080748415536618268" lon="-90.23355366932524646017554915"/>
-  <node visible="true" id="-107" lat="29.97281739071247130823394400" lon="-90.23340073708226327653392218"/>
-  <node visible="true" id="-108" lat="29.97273214789927919809997547" lon="-90.23344834584813156652671751"/>
-  <node visible="true" id="-109" lat="29.97279718794849401319879689" lon="-90.23360127902761007590015652"/>
+  <node visible="true" id="-106" lat="29.97281746710678973499852873" lon="-90.23340048053279360829037614"/>
+  <node visible="true" id="-107" lat="29.97273236991053835254206206" lon="-90.23344843424105476969998563"/>
+  <node visible="true" id="-108" lat="29.97279711160494741761795012" lon="-90.23360153510883208127779653"/>
+  <node visible="true" id="-109" lat="29.97288220874574093954834098" lon="-90.23355358140059934157761745"/>
   <way visible="true" id="-16">
     <nd ref="-106"/>
     <nd ref="-107"/>
@@ -352,15 +366,16 @@
     <nd ref="-109"/>
     <nd ref="-106"/>
     <tag k="building" v="yes"/>
+    <tag k="building:levels" v="1"/>
     <tag k="addr:housenumber" v="500"/>
     <tag k="addr:street" v="South Starrett Road"/>
     <tag k="addr:city" v="River Ridge"/>
     <tag k="addr:postcode" v="70123"/>
   </way>
-  <node visible="true" id="-110" lat="29.97173593440119176989355765" lon="-90.23347440638858074635209050"/>
-  <node visible="true" id="-111" lat="29.97180483855398946957393491" lon="-90.23364093663913365617190721"/>
-  <node visible="true" id="-112" lat="29.97187016942234905059194716" lon="-90.23360431771757816932222340"/>
-  <node visible="true" id="-113" lat="29.97180127122489423641127360" lon="-90.23343850543734845359722385"/>
+  <node visible="true" id="-110" lat="29.97180485731647436864477640" lon="-90.23364069076698967819538666"/>
+  <node visible="true" id="-111" lat="29.97187022840267189849328133" lon="-90.23360452057417546711803880"/>
+  <node visible="true" id="-112" lat="29.97180124950737578615189705" lon="-90.23343839232434504538105102"/>
+  <node visible="true" id="-113" lat="29.97173587837580299719775212" lon="-90.23347456251714504560368368"/>
   <way visible="true" id="-17">
     <nd ref="-110"/>
     <nd ref="-111"/>
@@ -368,17 +383,18 @@
     <nd ref="-113"/>
     <nd ref="-110"/>
     <tag k="building" v="yes"/>
+    <tag k="building:levels" v="1"/>
     <tag k="addr:housenumber" v="405"/>
     <tag k="addr:street" v="South Starrett Road"/>
     <tag k="addr:city" v="River Ridge"/>
     <tag k="addr:postcode" v="70123"/>
   </way>
-  <node visible="true" id="-114" lat="29.97040070271272682589369651" lon="-90.23437366936443027043424081"/>
-  <node visible="true" id="-115" lat="29.97051523890520385862146213" lon="-90.23431568833116500627511414"/>
-  <node visible="true" id="-116" lat="29.97046728055870090656753746" lon="-90.23418698057236042586737312"/>
-  <node visible="true" id="-117" lat="29.97038385900683721274617710" lon="-90.23422810655964099169068504"/>
-  <node visible="true" id="-118" lat="29.97037936976634853181167273" lon="-90.23421451503699586282891687"/>
-  <node visible="true" id="-119" lat="29.97034637965603920406465477" lon="-90.23423139086877142744924640"/>
+  <node visible="true" id="-114" lat="29.97051551643394873281067703" lon="-90.23431584605614830252307002"/>
+  <node visible="true" id="-115" lat="29.97046699066391184373969736" lon="-90.23418678995982133983488893"/>
+  <node visible="true" id="-116" lat="29.97038422665458767824020470" lon="-90.23422825821484138941741548"/>
+  <node visible="true" id="-117" lat="29.97037916318598504972214869" lon="-90.23421479174602666262217099"/>
+  <node visible="true" id="-118" lat="29.97034667218544257139001274" lon="-90.23423107109569230033230269"/>
+  <node visible="true" id="-119" lat="29.97040026148203040179396339" lon="-90.23437359366084820067044348"/>
   <way visible="true" id="-18">
     <nd ref="-114"/>
     <nd ref="-115"/>
@@ -388,15 +404,16 @@
     <nd ref="-119"/>
     <nd ref="-114"/>
     <tag k="building" v="yes"/>
+    <tag k="building:levels" v="1"/>
     <tag k="addr:housenumber" v="209"/>
     <tag k="addr:street" v="South Starrett Road"/>
     <tag k="addr:city" v="River Ridge"/>
     <tag k="addr:postcode" v="70123"/>
   </way>
-  <node visible="true" id="-120" lat="29.97034297683864778605311585" lon="-90.23161080854661975081398850"/>
-  <node visible="true" id="-121" lat="29.97024622569455232223845087" lon="-90.23139737062959397917438764"/>
-  <node visible="true" id="-122" lat="29.97019112412194630223893910" lon="-90.23143251892523153401270974"/>
-  <node visible="true" id="-123" lat="29.97028629287492762500733079" lon="-90.23164597423183863611484412"/>
+  <node visible="true" id="-120" lat="29.97024641405663558657579415" lon="-90.23139813427371791476616636"/>
+  <node visible="true" id="-121" lat="29.97019006320065415138742537" lon="-90.23143228407002425228711218"/>
+  <node visible="true" id="-122" lat="29.97028689573530613188268035" lon="-90.23164520189293114071915625"/>
+  <node visible="true" id="-123" lat="29.97034324653638748259254498" lon="-90.23161105209661059234349523"/>
   <way visible="true" id="-19">
     <nd ref="-120"/>
     <nd ref="-121"/>

@@ -3,10 +3,10 @@
   <changeset_tag k="comment" v="Import buildings and addresses in Jefferson Parish, see https://wiki.openstreetmap.org/wiki/Import/Catalogue/Jefferson_Parish_Addresses_and_Buildings"/>
   <changeset_tag k="source" v="Jefferson Parish Planning Department"/>
   <changeset_tag k="source_file" v="8177_13517"/>
-  <node visible="true" id="-1" lat="30.01670455467239762015196902" lon="-90.15407572419614723457925720"/>
-  <node visible="true" id="-2" lat="30.01657332611146955514414003" lon="-90.15408086833421918981912313"/>
-  <node visible="true" id="-3" lat="30.01658153734632961118222738" lon="-90.15436953223318994332657894"/>
-  <node visible="true" id="-4" lat="30.01671338375095388073532376" lon="-90.15436366272130896959424717"/>
+  <node visible="true" id="-1" lat="30.01657307728359924681171833" lon="-90.15408094803997585131583037"/>
+  <node visible="true" id="-2" lat="30.01658177981648378818135825" lon="-90.15436924190946399448876036"/>
+  <node visible="true" id="-3" lat="30.01671332365145872245193459" lon="-90.15436394570242839563434245"/>
+  <node visible="true" id="-4" lat="30.01670462112986115243984386" lon="-90.15407565183295446331612766"/>
   <way visible="true" id="-1">
     <nd ref="-1"/>
     <nd ref="-2"/>
@@ -14,6 +14,7 @@
     <nd ref="-4"/>
     <nd ref="-1"/>
     <tag k="building" v="yes"/>
+    <tag k="building:levels" v="1"/>
     <tag k="addr:housenumber" v="3729"/>
     <tag k="addr:street" v="North Causeway Boulevard East"/>
     <tag k="addr:city" v="Metairie"/>
@@ -368,14 +369,14 @@
     <tag k="addr:postcode" v="70002"/>
     <tag k="addr:unit" v="304"/>
   </node>
-  <node visible="true" id="-55" lat="30.01270054858411384657301824" lon="-90.16354984601368016683409223"/>
-  <node visible="true" id="-56" lat="30.01269628137678679991040553" lon="-90.16342132393995711936440784"/>
-  <node visible="true" id="-57" lat="30.01236634515898771269348799" lon="-90.16343525041395423613721505"/>
-  <node visible="true" id="-58" lat="30.01237121838357779779471457" lon="-90.16356161074070030281291110"/>
-  <node visible="true" id="-59" lat="30.01241245859003825557920209" lon="-90.16355969014661297933344031"/>
-  <node visible="true" id="-60" lat="30.01241172494204789700233960" lon="-90.16354748773694893770880299"/>
-  <node visible="true" id="-61" lat="30.01265793680746085669852619" lon="-90.16353813585986642920033773"/>
-  <node visible="true" id="-62" lat="30.01265805804363751008168038" lon="-90.16355178128432612538745161"/>
+  <node visible="true" id="-55" lat="30.01269634771261607397718763" lon="-90.16342121816786914223484928"/>
+  <node visible="true" id="-56" lat="30.01236675534951814370288048" lon="-90.16343533577476421214669244"/>
+  <node visible="true" id="-57" lat="30.01237080902238218982347462" lon="-90.16356155120875826014525956"/>
+  <node visible="true" id="-58" lat="30.01241229042548397387690784" lon="-90.16355977441601510236068862"/>
+  <node visible="true" id="-59" lat="30.01241191472998437461683352" lon="-90.16354807673189952765824273"/>
+  <node visible="true" id="-60" lat="30.01265775936677115964812401" lon="-90.16353754633604467016994022"/>
+  <node visible="true" id="-61" lat="30.01265821448466297738377762" lon="-90.16355171695950332377833547"/>
+  <node visible="true" id="-62" lat="30.01270048079507546390232164" lon="-90.16354990654120626913936576"/>
   <way visible="true" id="-2">
     <nd ref="-55"/>
     <nd ref="-56"/>
@@ -387,62 +388,63 @@
     <nd ref="-62"/>
     <nd ref="-55"/>
     <tag k="building" v="yes"/>
+    <tag k="building:levels" v="2"/>
     <tag k="addr:street" v="Hessmer Avenue"/>
     <tag k="addr:city" v="Metairie"/>
     <tag k="addr:postcode" v="70002"/>
   </way>
-  <node visible="true" id="-63" lat="30.01201671365675593960986589" lon="-90.16047051921211163971747737"/>
-  <node visible="true" id="-64" lat="30.01201813033952348064303806" lon="-90.16048917821348140932968818"/>
-  <node visible="true" id="-65" lat="30.01200500452007702278933721" lon="-90.16048933258709041638212511"/>
-  <node visible="true" id="-66" lat="30.01200754446468366154476826" lon="-90.16056400328629649720824091"/>
-  <node visible="true" id="-67" lat="30.01201942085057794429303613" lon="-90.16056386361624674918857636"/>
-  <node visible="true" id="-68" lat="30.01202101024039237131546543" lon="-90.16060191362963394112739479"/>
-  <node visible="true" id="-69" lat="30.01200789631540999380376888" lon="-90.16060350467706996369088301"/>
-  <node visible="true" id="-70" lat="30.01201105586735451424829080" lon="-90.16067744968026431706675794"/>
-  <node visible="true" id="-71" lat="30.01202293135122545209014788" lon="-90.16067731003431617864407599"/>
-  <node visible="true" id="-72" lat="30.01202453350375876084399351" lon="-90.16071679672916161507600918"/>
-  <node visible="true" id="-73" lat="30.01201204564742397451482248" lon="-90.16071838039972874412342208"/>
-  <node visible="true" id="-74" lat="30.01201394749956463670059748" lon="-90.16079162178267836225131759"/>
-  <node visible="true" id="-75" lat="30.01202644905359662175214908" lon="-90.16079147478896516076929402"/>
-  <node visible="true" id="-76" lat="30.01202743240104808819523896" lon="-90.16083168717668172575940844"/>
-  <node visible="true" id="-77" lat="30.01201430567911287994320446" lon="-90.16083184151582941012748051"/>
-  <node visible="true" id="-78" lat="30.01201745870611858890697476" lon="-90.16090506819188021836453117"/>
-  <node visible="true" id="-79" lat="30.01202933419020979499691748" lon="-90.16090492857304639073845465"/>
-  <node visible="true" id="-80" lat="30.01203093627445639413053868" lon="-90.16094441527405933811678551"/>
-  <node visible="true" id="-81" lat="30.01201781685100300478552526" lon="-90.16094528792692130991781596"/>
-  <node visible="true" id="-82" lat="30.01201908791504990858811652" lon="-90.16101781831794426125270547"/>
-  <node visible="true" id="-83" lat="30.01203283890303197267712676" lon="-90.16101765666454070924373809"/>
-  <node visible="true" id="-84" lat="30.01203382218142579063169251" lon="-90.16105786905711738654645160"/>
-  <node visible="true" id="-85" lat="30.01202194579510518224196858" lon="-90.16105800866834840689989505"/>
-  <node visible="true" id="-86" lat="30.01202448631930863598427095" lon="-90.16113267938418118774279719"/>
-  <node visible="true" id="-87" lat="30.01203823730742215047939681" lon="-90.16113251774659431703184964"/>
-  <node visible="true" id="-88" lat="30.01203922055071871000109240" lon="-90.16117273014242528006434441"/>
-  <node visible="true" id="-89" lat="30.01202421922672769483142474" lon="-90.16117290647116533364169300"/>
-  <node visible="true" id="-90" lat="30.01202674689609395386469259" lon="-90.16124614051317109897354385"/>
-  <node visible="true" id="-91" lat="30.01204112305228477453056257" lon="-90.16124597154333741855225526"/>
-  <node visible="true" id="-92" lat="30.01204147469839256245904835" lon="-90.16128547294981387949519558"/>
-  <node visible="true" id="-93" lat="30.01202709854215555651535396" lon="-90.16128564191394900717568817"/>
-  <node visible="true" id="-94" lat="30.01203026320311550989572424" lon="-90.16136030530284983797173481"/>
-  <node visible="true" id="-95" lat="30.01204650207479929235887539" lon="-90.16135867762918110202008393"/>
-  <node visible="true" id="-96" lat="30.01204810951488610726300976" lon="-90.16139888269427160594204906"/>
-  <node visible="true" id="-97" lat="30.01203248392474520755968115" lon="-90.16139906632535883090895368"/>
-  <node visible="true" id="-98" lat="30.01203563574339483466246747" lon="-90.16147229407982877091853879"/>
-  <node visible="true" id="-99" lat="30.01204876156393197561556008" lon="-90.16147213983555275262915529"/>
-  <node visible="true" id="-100" lat="30.01205038264906477252225159" lon="-90.16151378053500309306400595"/>
-  <node visible="true" id="-101" lat="30.01203600649255776033896836" lon="-90.16151394946625430293352110"/>
-  <node visible="true" id="-102" lat="30.01203792159027727848297218" lon="-90.16158862754996050625777571"/>
-  <node visible="true" id="-103" lat="30.01205291012882625523161551" lon="-90.16158701460487634449236793"/>
-  <node visible="true" id="-104" lat="30.01205310187977914893053821" lon="-90.16160856064128381603950402"/>
-  <node visible="true" id="-105" lat="30.01202997517600934429538029" lon="-90.16160883237641598952905042"/>
-  <node visible="true" id="-106" lat="30.01203158893238764903799165" lon="-90.16164975577810025697544916"/>
-  <node visible="true" id="-107" lat="30.01205157791325106586555194" lon="-90.16164808408987596521910746"/>
-  <node visible="true" id="-108" lat="30.01205232452244686669473595" lon="-90.16166172312036053426709259"/>
-  <node visible="true" id="-109" lat="30.01213606161229563440429047" lon="-90.16165858402096944246295607"/>
-  <node visible="true" id="-110" lat="30.01213594656336169919086387" lon="-90.16164565597368607541284291"/>
-  <node visible="true" id="-111" lat="30.01214907238391305099867168" lon="-90.16164550175206215953949140"/>
-  <node visible="true" id="-112" lat="30.01211242308097837394598173" lon="-90.16047801349202472920296714"/>
-  <node visible="true" id="-113" lat="30.01210242219902468718828459" lon="-90.16047813111427444709988777"/>
-  <node visible="true" id="-114" lat="30.01210231983238685415926739" lon="-90.16046663975210151420469629"/>
+  <node visible="true" id="-63" lat="30.01201771117646543984847085" lon="-90.16048899638072100515273632"/>
+  <node visible="true" id="-64" lat="30.01200510041704561103870219" lon="-90.16048952804869998089998262"/>
+  <node visible="true" id="-65" lat="30.01200746056519719218158571" lon="-90.16056418734191879593709018"/>
+  <node visible="true" id="-66" lat="30.01201960816583280688973900" lon="-90.16056367520062053699803073"/>
+  <node visible="true" id="-67" lat="30.01202083361345884782167559" lon="-90.16060244015922364724247018"/>
+  <node visible="true" id="-68" lat="30.01200829037286510470039502" lon="-90.16060296898064052584231831"/>
+  <node visible="true" id="-69" lat="30.01201065112109844790211355" lon="-90.16067764725578115303505911"/>
+  <node visible="true" id="-70" lat="30.01202310236164549905879539" lon="-90.16067712231307496040244587"/>
+  <node visible="true" id="-71" lat="30.01202437348225871005524823" lon="-90.16071733206769067692221142"/>
+  <node visible="true" id="-72" lat="30.01201182249855037298402749" lon="-90.16071786121558773174911039"/>
+  <node visible="true" id="-73" lat="30.01201415996012755726951582" lon="-90.16079180286048710968316300"/>
+  <node visible="true" id="-74" lat="30.01202629931786347583511088" lon="-90.16079129106668688109493814"/>
+  <node visible="true" id="-75" lat="30.01202756983810004953738826" lon="-90.16083148184144135939277476"/>
+  <node visible="true" id="-76" lat="30.01201473050433321532182163" lon="-90.16083202314615618888637982"/>
+  <node visible="true" id="-77" lat="30.01201704587950658265071979" lon="-90.16090526612165945152810309"/>
+  <node visible="true" id="-78" lat="30.01202950516596246188782970" lon="-90.16090474083966910257004201"/>
+  <node visible="true" id="-79" lat="30.01203076464332397677026165" lon="-90.16094458227979657749528997"/>
+  <node visible="true" id="-80" lat="30.01201730159507619077885465" lon="-90.16094514988024855028925231"/>
+  <node visible="true" id="-81" lat="30.01201960472682728209292691" lon="-90.16101800557251522150181700"/>
+  <node visible="true" id="-82" lat="30.01203268853227257295657182" lon="-90.16101745396086641903821146"/>
+  <node visible="true" id="-83" lat="30.01203396025260516921662202" lon="-90.16105768268818110300344415"/>
+  <node visible="true" id="-84" lat="30.01202204138286333545693196" lon="-90.16105818518626335844601272"/>
+  <node visible="true" id="-85" lat="30.01202440303122997988793941" lon="-90.16113289194679225602158112"/>
+  <node visible="true" id="-86" lat="30.01203808691916918860442820" lon="-90.16113231503572933434043080"/>
+  <node visible="true" id="-87" lat="30.01203935713941461926879128" lon="-90.16117249632122820912627503"/>
+  <node visible="true" id="-88" lat="30.01202433257358492824096174" lon="-90.16117312975511310924048303"/>
+  <node visible="true" id="-89" lat="30.01202664764915439832293487" lon="-90.16124636326100016958662309"/>
+  <node visible="true" id="-90" lat="30.01204066820832494499882159" lon="-90.16124577215590818468626821"/>
+  <node visible="true" id="-91" lat="30.01204191574209190207511710" lon="-90.16128523578900910706579452"/>
+  <node visible="true" id="-92" lat="30.01202750709862954181517125" lon="-90.16128584325569761404040037"/>
+  <node visible="true" id="-93" lat="30.01202984666049289330658212" lon="-90.16135985134185659717331873"/>
+  <node visible="true" id="-94" lat="30.01204668497087979517345957" lon="-90.16135914144066987319092732"/>
+  <node visible="true" id="-95" lat="30.01204793400462023100772058" lon="-90.16139865252276308638101909"/>
+  <node visible="true" id="-96" lat="30.01203290933068146273399179" lon="-90.16139928596128072513238294"/>
+  <node visible="true" id="-97" lat="30.01203522413818447489575192" lon="-90.16147251100244375265901908"/>
+  <node visible="true" id="-98" lat="30.01204890742542730208697321" lon="-90.16147193411664773066149792"/>
+  <node visible="true" id="-99" lat="30.01205022358638885293657950" lon="-90.16151356865813681906729471"/>
+  <node visible="true" id="-100" lat="30.01203579086778461260109907" lon="-90.16151417713989246749406448"/>
+  <node visible="true" id="-101" lat="30.01203812862995690124989778" lon="-90.16158812830619240230589639"/>
+  <node visible="true" id="-102" lat="30.01205268125664460399093514" lon="-90.16158751476910993005731143"/>
+  <node visible="true" id="-103" lat="30.01205333513641093645674118" lon="-90.16160819916520097194734262"/>
+  <node visible="true" id="-104" lat="30.01203014610260311201272998" lon="-90.16160917681217767949419795"/>
+  <node visible="true" id="-105" lat="30.01203141602232093987367989" lon="-90.16164934859041579784388887"/>
+  <node visible="true" id="-106" lat="30.01205174851314083639408636" lon="-90.16164849137496162256866228"/>
+  <node visible="true" id="-107" lat="30.01205217318379681046280893" lon="-90.16166192512500288103183266"/>
+  <node visible="true" id="-108" lat="30.01213620205857424139139766" lon="-90.16165838247553665496525355"/>
+  <node visible="true" id="-109" lat="30.01213580624199295243670349" lon="-90.16164586147063175758376019"/>
+  <node visible="true" id="-110" lat="30.01214919470214681496145204" lon="-90.16164529701413243856222834"/>
+  <node visible="true" id="-111" lat="30.01211228966289468189643230" lon="-90.16047786710988987124437699"/>
+  <node visible="true" id="-112" lat="30.01210255727502485001423338" lon="-90.16047827742650611071439926"/>
+  <node visible="true" id="-113" lat="30.01210219382249988484545611" lon="-90.16046678022112814687716309"/>
+  <node visible="true" id="-114" lat="30.01201712225439166559226578" lon="-90.16047036682921600458939793"/>
   <way visible="true" id="-3">
     <nd ref="-63"/>
     <nd ref="-64"/>
@@ -498,6 +500,7 @@
     <nd ref="-114"/>
     <nd ref="-63"/>
     <tag k="building" v="yes"/>
+    <tag k="building:levels" v="2"/>
     <tag k="addr:street" v="North Arnoult Road"/>
     <tag k="addr:city" v="Metairie"/>
     <tag k="addr:postcode" v="70002"/>
@@ -789,18 +792,18 @@
     <tag k="addr:postcode" v="70002"/>
     <tag k="addr:unit" v="304"/>
   </node>
-  <node visible="true" id="-156" lat="30.01265572743784204590156151" lon="-90.16102566761210823642613832"/>
-  <node visible="true" id="-157" lat="30.01265305984383147119842761" lon="-90.16093663161481686074694153"/>
-  <node visible="true" id="-158" lat="30.01224374199793487605347764" lon="-90.16095149955373244665679522"/>
-  <node visible="true" id="-159" lat="30.01224644245470685177679115" lon="-90.16104412584267890906630782"/>
-  <node visible="true" id="-160" lat="30.01228080759183214354379743" lon="-90.16104228606644710453110747"/>
-  <node visible="true" id="-161" lat="30.01228236486451805831165984" lon="-90.16107674448191744431824191"/>
-  <node visible="true" id="-162" lat="30.01224674300459938081075961" lon="-90.16107788164005398812150816"/>
-  <node visible="true" id="-163" lat="30.01225003657329537531950336" lon="-90.16116690991928805942734471"/>
-  <node visible="true" id="-164" lat="30.01265997870888924126120401" lon="-90.16115203552566015332558891"/>
-  <node visible="true" id="-165" lat="30.01265729111068125689598673" lon="-90.16106084450063917756779119"/>
-  <node visible="true" id="-166" lat="30.01262167655090351559010742" lon="-90.16106270000155120669660391"/>
-  <node visible="true" id="-167" lat="30.01262073165037236321950331" lon="-90.16102679743276837598386919"/>
+  <node visible="true" id="-156" lat="30.01265308562337352782378730" lon="-90.16093613362066605532163521"/>
+  <node visible="true" id="-157" lat="30.01224376093212953264810494" lon="-90.16095199581512531494809082"/>
+  <node visible="true" id="-158" lat="30.01224643057239660492996336" lon="-90.16104387227453287323442055"/>
+  <node visible="true" id="-159" lat="30.01228109266214616468460008" lon="-90.16104252904800375745253405"/>
+  <node visible="true" id="-160" lat="30.01228208363692928628552181" lon="-90.16107663374933167688141111"/>
+  <node visible="true" id="-161" lat="30.01224709948127511438542570" lon="-90.16107798945658657885360299"/>
+  <node visible="true" id="-162" lat="30.01224969830921907032461604" lon="-90.16116742889228419244318502"/>
+  <node visible="true" id="-163" lat="30.01265994510537993278376234" lon="-90.16115153096330914195277728"/>
+  <node visible="true" id="-164" lat="30.01265731693056437734412611" lon="-90.16106108117955386660469230"/>
+  <node visible="true" id="-165" lat="30.01262171875282547262031585" lon="-90.16106246068662244397273753"/>
+  <node visible="true" id="-166" lat="30.01262068583485387307518977" lon="-90.16102691237944100066670217"/>
+  <node visible="true" id="-167" lat="30.01265568394899929671737482" lon="-90.16102555612617663882701891"/>
   <way visible="true" id="-4">
     <nd ref="-156"/>
     <nd ref="-157"/>
@@ -816,6 +819,7 @@
     <nd ref="-167"/>
     <nd ref="-156"/>
     <tag k="building" v="yes"/>
+    <tag k="building:levels" v="3"/>
     <tag k="addr:street" v="North Arnoult Road"/>
     <tag k="addr:city" v="Metairie"/>
     <tag k="addr:postcode" v="70002"/>
@@ -1009,7 +1013,7 @@
     <tag k="addr:street" v="North Causeway Boulevard East"/>
     <tag k="addr:city" v="Metairie"/>
     <tag k="addr:postcode" v="70002"/>
-    <tag k="addr:unit" v="Tmobil Twr"/>
+    <tag k="addr:unit" v="TMOBIL TWR"/>
   </node>
   <node visible="true" id="-196" lat="30.01497320123158729643364495" lon="-90.15437704295405296761600766">
     <tag k="addr:housenumber" v="3613"/>
@@ -1029,7 +1033,7 @@
     <tag k="addr:street" v="North Causeway Boulevard East"/>
     <tag k="addr:city" v="Metairie"/>
     <tag k="addr:postcode" v="70002"/>
-    <tag k="addr:unit" v="Cell Tower"/>
+    <tag k="addr:unit" v="CELL TOWER"/>
   </node>
   <node visible="true" id="-199" lat="30.01360711773343226127508387" lon="-90.15445335267389737055054866">
     <tag k="addr:housenumber" v="3525"/>
@@ -1072,58 +1076,168 @@
     <tag k="addr:postcode" v="70002"/>
     <tag k="addr:unit" v="201"/>
   </node>
-  <way id="773659563" version="1">
+  <way id="773659563" version="1" action="modify">
+    <tag k="addr:housename" v="Chase Bank"/>
     <tag k="addr:housenumber" v="3420"/>
+    <tag k="addr:postcode" v="70002"/>
     <tag k="addr:street" v="Severn Avenue"/>
+    <tag k="amenity" v="bank"/>
+    <tag k="atm" v="yes"/>
+    <tag k="brand" v="Chase"/>
+    <tag k="brand:wikidata" v="Q524629"/>
+    <tag k="brand:wikipedia" v="en:Chase Bank"/>
+    <tag k="building" v="yes"/>
+    <tag k="designation" v="Investment Banking &amp; training branch"/>
+    <tag k="name" v="Chase"/>
     <tag k="addr:city" v="Metairie"/>
-    <tag k="addr:postcode" v="70002"/>
+    <nd ref="1559338712"/>
+    <nd ref="7221468887"/>
+    <nd ref="7221468888"/>
+    <nd ref="7221468889"/>
+    <nd ref="7221468890"/>
+    <nd ref="7221468891"/>
+    <nd ref="1559338712"/>
   </way>
-  <way id="777890664" version="1">
+  <way id="777890664" version="1" action="modify">
+    <tag k="building" v="yes"/>
     <tag k="addr:street" v="Edenborn Avenue"/>
     <tag k="addr:city" v="Metairie"/>
     <tag k="addr:postcode" v="70002"/>
+    <nd ref="7259837532"/>
+    <nd ref="7259837533"/>
+    <nd ref="7259837534"/>
+    <nd ref="7259837535"/>
+    <nd ref="7259837532"/>
   </way>
-  <way id="777890666" version="1">
+  <way id="777890666" version="1" action="modify">
+    <tag k="building" v="yes"/>
     <tag k="addr:street" v="Edenborn Avenue"/>
     <tag k="addr:city" v="Metairie"/>
     <tag k="addr:postcode" v="70002"/>
+    <nd ref="7259837540"/>
+    <nd ref="7259837541"/>
+    <nd ref="7259837542"/>
+    <nd ref="7259837543"/>
+    <nd ref="7259837540"/>
   </way>
-  <way id="777890667" version="1">
+  <way id="777890667" version="1" action="modify">
+    <tag k="building" v="yes"/>
     <tag k="addr:street" v="Edenborn Avenue"/>
     <tag k="addr:city" v="Metairie"/>
     <tag k="addr:postcode" v="70002"/>
+    <nd ref="7259837544"/>
+    <nd ref="7259837545"/>
+    <nd ref="7259837546"/>
+    <nd ref="7259837547"/>
+    <nd ref="7259837544"/>
   </way>
-  <way id="777890668" version="1">
+  <way id="777890668" version="1" action="modify">
+    <tag k="building" v="yes"/>
     <tag k="addr:street" v="Edenborn Avenue"/>
     <tag k="addr:city" v="Metairie"/>
     <tag k="addr:postcode" v="70002"/>
+    <nd ref="7259837548"/>
+    <nd ref="7259837549"/>
+    <nd ref="7259837550"/>
+    <nd ref="7259837551"/>
+    <nd ref="7259837548"/>
   </way>
-  <way id="777890669" version="1">
+  <way id="777890669" version="1" action="modify">
+    <tag k="building" v="yes"/>
     <tag k="addr:street" v="Edenborn Avenue"/>
     <tag k="addr:city" v="Metairie"/>
     <tag k="addr:postcode" v="70002"/>
+    <nd ref="7259837552"/>
+    <nd ref="7259837553"/>
+    <nd ref="7259837554"/>
+    <nd ref="7259837555"/>
+    <nd ref="7259837552"/>
   </way>
-  <way id="777890670" version="1">
+  <way id="777890670" version="1" action="modify">
+    <tag k="building" v="yes"/>
     <tag k="addr:street" v="Edenborn Avenue"/>
     <tag k="addr:city" v="Metairie"/>
     <tag k="addr:postcode" v="70002"/>
+    <nd ref="7259837556"/>
+    <nd ref="7259837557"/>
+    <nd ref="7259837558"/>
+    <nd ref="7259837559"/>
+    <nd ref="7259837556"/>
   </way>
-  <way id="777890677" version="1">
+  <way id="777890677" version="1" action="modify">
+    <tag k="addr:postcode" v="70002"/>
+    <tag k="addr:street" v="Severn Avenue"/>
+    <tag k="amenity" v="fast_food"/>
+    <tag k="brand" v="McDonald's"/>
+    <tag k="brand:wikidata" v="Q38076"/>
+    <tag k="brand:wikipedia" v="en:McDonald's"/>
+    <tag k="building" v="yes"/>
+    <tag k="cuisine" v="burger"/>
+    <tag k="drive_through" v="yes"/>
+    <tag k="name" v="McDonald's"/>
+    <tag k="takeaway" v="yes"/>
+    <tag k="website" v="http://www.mcdonalds.com/"/>
     <tag k="addr:housenumber" v="3532"/>
-    <tag k="addr:street" v="Severn Avenue"/>
     <tag k="addr:city" v="Metairie"/>
-    <tag k="addr:postcode" v="70002"/>
+    <nd ref="1559358850"/>
+    <nd ref="7259837598"/>
+    <nd ref="7259837599"/>
+    <nd ref="7259837600"/>
+    <nd ref="7259837601"/>
+    <nd ref="7259837602"/>
+    <nd ref="7259837603"/>
+    <nd ref="7259837604"/>
+    <nd ref="7259837605"/>
+    <nd ref="7259837606"/>
+    <nd ref="7259837607"/>
+    <nd ref="7259837608"/>
+    <nd ref="7259837609"/>
+    <nd ref="7259837610"/>
+    <nd ref="7259837611"/>
+    <nd ref="7259837612"/>
+    <nd ref="7259837613"/>
+    <nd ref="1559358850"/>
   </way>
-  <way id="777890685" version="1">
-    <tag k="addr:housenumber" v="3501"/>
+  <way id="777890685" version="1" action="modify">
+    <tag k="addr:postcode" v="70002"/>
     <tag k="addr:street" v="North Arnoult Road"/>
+    <tag k="amenity" v="restaurant"/>
+    <tag k="building" v="yes"/>
+    <tag k="cuisine" v="chinese"/>
+    <tag k="name" v="China Rose"/>
+    <tag k="source" v="local knowledge"/>
+    <tag k="addr:housenumber" v="3501"/>
     <tag k="addr:city" v="Metairie"/>
-    <tag k="addr:postcode" v="70002"/>
+    <nd ref="1559340171"/>
+    <nd ref="7259837653"/>
+    <nd ref="7259837654"/>
+    <nd ref="7259837646"/>
+    <nd ref="7259837641"/>
+    <nd ref="7259837640"/>
+    <nd ref="7259837655"/>
+    <nd ref="7259837656"/>
+    <nd ref="7259837657"/>
+    <nd ref="1559340171"/>
   </way>
-  <way id="793049162" version="1">
+  <way id="793049162" version="1" action="modify">
+    <tag k="addr:housenumber" v="3500"/>
     <tag k="addr:street" v="North Causeway Boulevard"/>
+    <tag k="building" v="yes"/>
+    <tag k="building:levels" v="14"/>
+    <tag k="name" v="Executive Tower"/>
     <tag k="addr:city" v="Metairie"/>
     <tag k="addr:postcode" v="70002"/>
     <tag k="addr:unit" v="904"/>
+    <nd ref="7415736059"/>
+    <nd ref="7415736060"/>
+    <nd ref="7415736061"/>
+    <nd ref="7415736062"/>
+    <nd ref="7415736063"/>
+    <nd ref="7415736064"/>
+    <nd ref="7415736065"/>
+    <nd ref="7415736066"/>
+    <nd ref="7415736067"/>
+    <nd ref="7415736068"/>
+    <nd ref="7415736059"/>
   </way>
 </osm>

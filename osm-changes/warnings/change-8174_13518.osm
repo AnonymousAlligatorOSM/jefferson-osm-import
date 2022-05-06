@@ -32,6 +32,7 @@
     <nd ref="-10"/>
     <nd ref="-3"/>
     <tag k="building" v="yes"/>
+    <tag k="building:levels" v="1"/>
     <tag k="addr:housenumber" v="2917"/>
     <tag k="addr:street" v="Ken Avenue"/>
     <tag k="addr:city" v="Metairie"/>
@@ -42,11 +43,19 @@
     <tag k="addr:city" v="Metairie"/>
     <tag k="addr:postcode" v="70006"/>
   </node>
-  <way id="712573002" version="2">
+  <way id="712573002" version="2" action="modify">
     <tag k="addr:housenumber" v="4852"/>
     <tag k="addr:street" v="Veterans Memorial Boulevard"/>
+    <tag k="building" v="yes"/>
     <tag k="addr:city" v="Metairie"/>
     <tag k="addr:postcode" v="70006"/>
+    <nd ref="6699633281"/>
+    <nd ref="6699633282"/>
+    <nd ref="6699633283"/>
+    <nd ref="6699633284"/>
+    <nd ref="6699633285"/>
+    <nd ref="6699633286"/>
+    <nd ref="6699633281"/>
   </way>
   <node visible="true" id="-12" lat="30.00951696835948112607184157" lon="-90.19382236444526768082141643">
     <tag k="addr:street" v="Loveland Street"/>

@@ -3,12 +3,12 @@
   <changeset_tag k="comment" v="Import buildings and addresses in Jefferson Parish, see https://wiki.openstreetmap.org/wiki/Import/Catalogue/Jefferson_Parish_Addresses_and_Buildings"/>
   <changeset_tag k="source" v="Jefferson Parish Planning Department"/>
   <changeset_tag k="source_file" v="8172_13518"/>
-  <node visible="true" id="-1" lat="30.00834571173613340988595155" lon="-90.20901539538981239729764638"/>
-  <node visible="true" id="-2" lat="30.00835054047659866682806751" lon="-90.20899523032019828860939015"/>
-  <node visible="true" id="-3" lat="30.00845212427054420345484687" lon="-90.20903215222412541152152698"/>
-  <node visible="true" id="-4" lat="30.00847576453897858073105454" lon="-90.20894569599825274508475559"/>
-  <node visible="true" id="-5" lat="30.00831334322327847985434346" lon="-90.20888503918965284356090706"/>
-  <node visible="true" id="-6" lat="30.00828363529082665195346635" lon="-90.20899311212136240101244766"/>
+  <node visible="true" id="-1" lat="30.00835088009023010613418592" lon="-90.20899525985714717535302043"/>
+  <node visible="true" id="-2" lat="30.00845208069177516563286190" lon="-90.20903223083566047080239514"/>
+  <node visible="true" id="-3" lat="30.00847594898973369481609552" lon="-90.20894510315442005321528995"/>
+  <node visible="true" id="-4" lat="30.00831313258040466962484061" lon="-90.20888562246499020602641394"/>
+  <node visible="true" id="-5" lat="30.00828373066680043734777428" lon="-90.20899294961014902582974173"/>
+  <node visible="true" id="-6" lat="30.00834534651722762532699562" lon="-90.20901545932105136671452783"/>
   <way visible="true" id="-1">
     <nd ref="-1"/>
     <nd ref="-2"/>
@@ -18,6 +18,7 @@
     <nd ref="-6"/>
     <nd ref="-1"/>
     <tag k="building" v="yes"/>
+    <tag k="building:levels" v="1"/>
     <tag k="addr:street" v="Academy Drive"/>
     <tag k="addr:city" v="Metairie"/>
     <tag k="addr:postcode" v="70003"/>
@@ -32,12 +33,22 @@
     <tag k="addr:street" v="I-10"/>
     <tag k="addr:city" v="Metairie"/>
     <tag k="addr:postcode" v="70003"/>
-    <tag k="addr:unit" v="Msy Sign"/>
+    <tag k="addr:unit" v="MSY SIGN"/>
   </node>
-  <way id="535940070" version="2">
-    <tag k="addr:housenumber" v="3444"/>
-    <tag k="addr:street" v="Olympic Drive"/>
+  <way id="535940070" version="2" action="modify">
     <tag k="addr:city" v="Metairie"/>
+    <tag k="addr:housenumber" v="3444"/>
     <tag k="addr:postcode" v="70003"/>
+    <tag k="addr:state" v="LA"/>
+    <tag k="addr:street" v="Olympic Drive"/>
+    <tag k="building" v="yes"/>
+    <tag k="name" v="Safeguard Self Storage"/>
+    <tag k="phone" v="+1-504-208-1878"/>
+    <tag k="shop" v="storage_rental"/>
+    <nd ref="5193103859"/>
+    <nd ref="5193103860"/>
+    <nd ref="5193103861"/>
+    <nd ref="5193103862"/>
+    <nd ref="5193103859"/>
   </way>
 </osm>

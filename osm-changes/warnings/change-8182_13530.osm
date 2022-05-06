@@ -3,12 +3,12 @@
   <changeset_tag k="comment" v="Import buildings and addresses in Jefferson Parish, see https://wiki.openstreetmap.org/wiki/Import/Catalogue/Jefferson_Parish_Addresses_and_Buildings"/>
   <changeset_tag k="source" v="Jefferson Parish Planning Department"/>
   <changeset_tag k="source_file" v="8182_13530"/>
-  <node visible="true" id="-1" lat="29.89367998647089308406066266" lon="-90.10180354651980394464771962"/>
-  <node visible="true" id="-2" lat="29.89337487922998448652833758" lon="-90.10179870019435099948168499"/>
-  <node visible="true" id="-3" lat="29.89337864239968567403593624" lon="-90.10186680998540964537824038"/>
-  <node visible="true" id="-4" lat="29.89343239750230907247896539" lon="-90.10186614696473839103418868"/>
-  <node visible="true" id="-5" lat="29.89342779235473557264413103" lon="-90.10204197299975703572272323"/>
-  <node visible="true" id="-6" lat="29.89369104204466154328656557" lon="-90.10204948793696644315787125"/>
+  <node visible="true" id="-1" lat="29.89337487923091885022586212" lon="-90.10179870019436521033640020"/>
+  <node visible="true" id="-2" lat="29.89337864239968212132225744" lon="-90.10186680998539543452352518"/>
+  <node visible="true" id="-3" lat="29.89343239750191827397429734" lon="-90.10186614696473839103418868"/>
+  <node visible="true" id="-4" lat="29.89342779235475333621252503" lon="-90.10204197299974282486800803"/>
+  <node visible="true" id="-5" lat="29.89369104204432403548707953" lon="-90.10204948793695223230315605"/>
+  <node visible="true" id="-6" lat="29.89367998647088597863330506" lon="-90.10180354651978973379300442"/>
   <way visible="true" id="-1">
     <nd ref="-1"/>
     <nd ref="-2"/>
@@ -27,10 +27,20 @@
     <tag k="addr:city" v="Marrero"/>
     <tag k="addr:postcode" v="70072"/>
   </node>
-  <way id="936577402" version="1">
-    <tag k="addr:housenumber" v="990"/>
-    <tag k="addr:street" v="Avenue K"/>
+  <way id="936577402" version="1" action="modify">
     <tag k="addr:city" v="Marrero"/>
+    <tag k="addr:housenumber" v="990"/>
     <tag k="addr:postcode" v="70072"/>
+    <tag k="addr:state" v="LA"/>
+    <tag k="addr:street" v="Avenue K"/>
+    <tag k="building" v="yes"/>
+    <tag k="layer" v="1"/>
+    <tag k="name" v="Siesta Motel"/>
+    <tag k="tourism" v="motel"/>
+    <nd ref="8678327217"/>
+    <nd ref="8678327218"/>
+    <nd ref="8678327219"/>
+    <nd ref="8678327220"/>
+    <nd ref="8678327217"/>
   </way>
 </osm>

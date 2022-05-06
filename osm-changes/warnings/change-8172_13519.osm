@@ -38,7 +38,7 @@
     <tag k="addr:street" v="West Napoleon Avenue South"/>
     <tag k="addr:city" v="Metairie"/>
     <tag k="addr:postcode" v="70003"/>
-    <tag k="addr:unit" v="Meter"/>
+    <tag k="addr:unit" v="METER"/>
   </node>
   <node visible="true" id="-7" lat="29.99634578027226083918321820" lon="-90.21773691524960270271549234">
     <tag k="addr:housenumber" v="7207"/>
@@ -46,23 +46,64 @@
     <tag k="addr:city" v="Metairie"/>
     <tag k="addr:postcode" v="70003"/>
   </node>
-  <way id="722613445" version="2">
+  <way id="722613445" version="2" action="modify">
     <tag k="addr:housenumber" v="2815"/>
     <tag k="addr:street" v="David Drive"/>
+    <tag k="building" v="yes"/>
+    <tag k="office" v="accountant"/>
     <tag k="addr:city" v="Metairie"/>
     <tag k="addr:postcode" v="70003"/>
+    <nd ref="6778281156"/>
+    <nd ref="6778281157"/>
+    <nd ref="6778281158"/>
+    <nd ref="6778281159"/>
+    <nd ref="6778281160"/>
+    <nd ref="6778281161"/>
+    <nd ref="6778281162"/>
+    <nd ref="6778281163"/>
+    <nd ref="6778281156"/>
   </way>
-  <way id="722613446" version="2">
+  <way id="722613446" version="2" action="modify">
     <tag k="addr:housenumber" v="2811"/>
     <tag k="addr:street" v="David Drive"/>
+    <tag k="building" v="yes"/>
+    <tag k="craft" v="signmaker"/>
+    <tag k="name" v="Excel Signs"/>
+    <tag k="phone" v="+1-504-885-1490"/>
+    <tag k="website" v="https://www.excelsignsnola.com/"/>
     <tag k="addr:city" v="Metairie"/>
     <tag k="addr:postcode" v="70003"/>
+    <nd ref="6778281164"/>
+    <nd ref="6778281165"/>
+    <nd ref="6778281166"/>
+    <nd ref="6778281167"/>
+    <nd ref="6778281168"/>
+    <nd ref="6778281169"/>
+    <nd ref="6778281170"/>
+    <nd ref="6778281171"/>
+    <nd ref="6778281172"/>
+    <nd ref="6778281173"/>
+    <nd ref="6778281164"/>
   </way>
-  <way id="819659935" version="1">
+  <way id="819659935" version="1" action="modify">
+    <tag k="building" v="yes"/>
     <tag k="addr:street" v="Park Manor Drive"/>
     <tag k="addr:city" v="Metairie"/>
     <tag k="addr:postcode" v="70003"/>
     <tag k="addr:unit" v="A, B"/>
+    <nd ref="7654173771"/>
+    <nd ref="7654173772"/>
+    <nd ref="7654173773"/>
+    <nd ref="7654173774"/>
+    <nd ref="7654173775"/>
+    <nd ref="7654173776"/>
+    <nd ref="7654173777"/>
+    <nd ref="7654173778"/>
+    <nd ref="7654173779"/>
+    <nd ref="7654173780"/>
+    <nd ref="7654173781"/>
+    <nd ref="7654173782"/>
+    <nd ref="7654173771"/>
   </way>
   <node visible="true" id="-8" lat="30.00206024083080436071213626" lon="-90.20917262093080069007555721">
     <tag k="addr:street" v="Park Manor Drive"/>

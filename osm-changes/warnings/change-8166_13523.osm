@@ -3,10 +3,10 @@
   <changeset_tag k="comment" v="Import buildings and addresses in Jefferson Parish, see https://wiki.openstreetmap.org/wiki/Import/Catalogue/Jefferson_Parish_Addresses_and_Buildings"/>
   <changeset_tag k="source" v="Jefferson Parish Planning Department"/>
   <changeset_tag k="source_file" v="8166_13523"/>
-  <node visible="true" id="-1" lat="29.96080576853789878555289761" lon="-90.27797348451227321675105486"/>
-  <node visible="true" id="-2" lat="29.96079842502404844140073692" lon="-90.27807119676053559942374704"/>
-  <node visible="true" id="-3" lat="29.96093606484954818824917311" lon="-90.27808553478394060221035033"/>
-  <node visible="true" id="-4" lat="29.96094343139741056347702397" lon="-90.27799069328008840784605127"/>
+  <node visible="true" id="-1" lat="29.96079810646473617907759035" lon="-90.27807077740914110108860768"/>
+  <node visible="true" id="-2" lat="29.96093581213295209408897790" lon="-90.27808589143437245638779132"/>
+  <node visible="true" id="-3" lat="29.96094373843417102420971787" lon="-90.27798967725928491745435167"/>
+  <node visible="true" id="-4" lat="29.96080603277692233632478747" lon="-90.27797456323403935130045284"/>
   <way visible="true" id="-1">
     <nd ref="-1"/>
     <nd ref="-2"/>
@@ -14,6 +14,7 @@
     <nd ref="-4"/>
     <nd ref="-1"/>
     <tag k="building" v="yes"/>
+    <tag k="building:levels" v="1"/>
     <tag k="addr:housenumber" v="124"/>
     <tag k="addr:street" v="Petit Lane"/>
     <tag k="addr:city" v="Waggaman"/>
@@ -40,15 +41,16 @@
     <nd ref="-13"/>
     <nd ref="-5"/>
     <tag k="building" v="yes"/>
+    <tag k="building:levels" v="1"/>
     <tag k="addr:housenumber" v="105"/>
     <tag k="addr:street" v="Fortier Hts"/>
     <tag k="addr:city" v="Waggaman"/>
     <tag k="addr:postcode" v="70094"/>
   </way>
-  <node visible="true" id="-14" lat="29.96205046181312425801479549" lon="-90.27510518884713519582874142"/>
-  <node visible="true" id="-15" lat="29.96212236690624308721453417" lon="-90.27510729735898564740637084"/>
-  <node visible="true" id="-16" lat="29.96212418643150954267184716" lon="-90.27502256496080690340022556"/>
-  <node visible="true" id="-17" lat="29.96205537745700553386996035" lon="-90.27501683343093930034228833"/>
+  <node visible="true" id="-14" lat="29.96212153493481622490435257" lon="-90.27510812971068787646800047"/>
+  <node visible="true" id="-15" lat="29.96212502405873578936734702" lon="-90.27502159233245038194581866"/>
+  <node visible="true" id="-16" lat="29.96205466137057271680532722" lon="-90.27501781258825985787552781"/>
+  <node visible="true" id="-17" lat="29.96205117224398506436955358" lon="-90.27510434996646893068827922"/>
   <way visible="true" id="-3">
     <nd ref="-14"/>
     <nd ref="-15"/>
@@ -76,15 +78,16 @@
     <nd ref="-23"/>
     <nd ref="-18"/>
     <tag k="building" v="yes"/>
+    <tag k="building:levels" v="1"/>
     <tag k="addr:housenumber" v="10011"/>
     <tag k="addr:street" v="River"/>
     <tag k="addr:city" v="Waggaman"/>
     <tag k="addr:postcode" v="70094"/>
   </way>
-  <node visible="true" id="-24" lat="29.95997143602413004259688023" lon="-90.27817130225744790550379548"/>
-  <node visible="true" id="-25" lat="29.95997879032190169823479664" lon="-90.27806435057767941998463357"/>
-  <node visible="true" id="-26" lat="29.95986921462600349741478567" lon="-90.27805293616390258648607414"/>
-  <node visible="true" id="-27" lat="29.95986074581171010322577786" lon="-90.27816457656255977326509310"/>
+  <node visible="true" id="-24" lat="29.95997873639840847204141028" lon="-90.27806350730573115015431540"/>
+  <node visible="true" id="-25" lat="29.95986865098699070131260669" lon="-90.27805372455613053261913592"/>
+  <node visible="true" id="-26" lat="29.95986135698948160666077456" lon="-90.27816307547504948161076754"/>
+  <node visible="true" id="-27" lat="29.95997144240909548784657090" lon="-90.27817285822467852085537743"/>
   <way visible="true" id="-5">
     <nd ref="-24"/>
     <nd ref="-25"/>

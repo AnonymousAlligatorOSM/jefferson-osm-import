@@ -3,14 +3,14 @@
   <changeset_tag k="comment" v="Import buildings and addresses in Jefferson Parish, see https://wiki.openstreetmap.org/wiki/Import/Catalogue/Jefferson_Parish_Addresses_and_Buildings"/>
   <changeset_tag k="source" v="Jefferson Parish Planning Department"/>
   <changeset_tag k="source_file" v="8178_13517"/>
-  <node visible="true" id="-1" lat="30.01656576054029201827688667" lon="-90.15318168849788094121322501"/>
-  <node visible="true" id="-2" lat="30.01656908440256188441708218" lon="-90.15334326877089665686071385"/>
-  <node visible="true" id="-3" lat="30.01658346053836012856663729" lon="-90.15334309865406225981132593"/>
-  <node visible="true" id="-4" lat="30.01659332119086798229545821" lon="-90.15350060194742809471790679"/>
-  <node visible="true" id="-5" lat="30.01671587929872586641977250" lon="-90.15349453223930709100386593"/>
-  <node visible="true" id="-6" lat="30.01671036936404490802487999" lon="-90.15332829886605736646743026"/>
-  <node visible="true" id="-7" lat="30.01666012415693529646887328" lon="-90.15332889343964950512599899"/>
-  <node visible="true" id="-8" lat="30.01665387907464577210703283" lon="-90.15317920872659840370033635"/>
+  <node visible="true" id="-1" lat="30.01657022733883906084884075" lon="-90.15334346296747014548600418"/>
+  <node visible="true" id="-2" lat="30.01658565126676947443229437" lon="-90.15334275045879053323005792"/>
+  <node visible="true" id="-3" lat="30.01659111486544517788388475" lon="-90.15350049980401081484160386"/>
+  <node visible="true" id="-4" lat="30.01671600990660238039708929" lon="-90.15349473027056603768869536"/>
+  <node visible="true" id="-5" lat="30.01671021596173005718810600" lon="-90.15332744269885267840436427"/>
+  <node visible="true" id="-6" lat="30.01665962445313340367647470" lon="-90.15332977977715245287981816"/>
+  <node visible="true" id="-7" lat="30.01665438112334172160444723" lon="-90.15317839010064915328257484"/>
+  <node visible="true" id="-8" lat="30.01656465365031678516061220" lon="-90.15318253506445955736126052"/>
   <way visible="true" id="-1">
     <nd ref="-1"/>
     <nd ref="-2"/>
@@ -22,6 +22,7 @@
     <nd ref="-8"/>
     <nd ref="-1"/>
     <tag k="building" v="yes"/>
+    <tag k="building:levels" v="1"/>
     <tag k="addr:housenumber" v="3701"/>
     <tag k="addr:street" v="North Causeway Boulevard East"/>
     <tag k="addr:city" v="Metairie"/>
@@ -62,19 +63,20 @@
     <nd ref="-24"/>
     <nd ref="-9"/>
     <tag k="building" v="yes"/>
+    <tag k="building:levels" v="1"/>
     <tag k="addr:housenumber" v="3701"/>
     <tag k="addr:street" v="North Causeway Boulevard East"/>
     <tag k="addr:city" v="Metairie"/>
     <tag k="addr:postcode" v="70002"/>
   </way>
-  <node visible="true" id="-25" lat="30.01485220981593471378801041" lon="-90.14462191425531045751995407"/>
-  <node visible="true" id="-26" lat="30.01485326293568078881435213" lon="-90.14466930913444286943558836"/>
-  <node visible="true" id="-27" lat="30.01481514795254312844008382" lon="-90.14467120033827995939645916"/>
-  <node visible="true" id="-28" lat="30.01481707260223430466794525" lon="-90.14474588017890255287056789"/>
-  <node visible="true" id="-29" lat="30.01490456026146702583901060" lon="-90.14474268311553828425530810"/>
-  <node visible="true" id="-30" lat="30.01490359794104989532570471" lon="-90.14470534316211569603183307"/>
-  <node visible="true" id="-31" lat="30.01495172027252422708443191" lon="-90.14470405112129469671344850"/>
-  <node visible="true" id="-32" lat="30.01494969184940586615084612" lon="-90.14461787950676807668060064"/>
+  <node visible="true" id="-25" lat="30.01485337890619220502230746" lon="-90.14466956888985293971927604"/>
+  <node visible="true" id="-26" lat="30.01481510178965450563737249" lon="-90.14467093808579534197633620"/>
+  <node visible="true" id="-27" lat="30.01481711078911729373430717" lon="-90.14474584502526965934521286"/>
+  <node visible="true" id="-28" lat="30.01490458071551614693817100" lon="-90.14474271617153533497912576"/>
+  <node visible="true" id="-29" lat="30.01490358414447001678126981" lon="-90.14470555831867670804058434"/>
+  <node visible="true" id="-30" lat="30.01495185573109836241201265" lon="-90.14470383161280153672123561"/>
+  <node visible="true" id="-31" lat="30.01494955797739194736095669" lon="-90.14461815817250567306473386"/>
+  <node visible="true" id="-32" lat="30.01485209357851147160545224" lon="-90.14462164453615855563839432"/>
   <way visible="true" id="-3">
     <nd ref="-25"/>
     <nd ref="-26"/>
@@ -86,14 +88,15 @@
     <nd ref="-32"/>
     <nd ref="-25"/>
     <tag k="building" v="yes"/>
+    <tag k="building:levels" v="1"/>
     <tag k="addr:street" v="Hesper Avenue"/>
     <tag k="addr:city" v="Metairie"/>
     <tag k="addr:postcode" v="70005"/>
   </way>
-  <node visible="true" id="-33" lat="30.01861333122364072778509581" lon="-90.14668375717364767751860199"/>
-  <node visible="true" id="-34" lat="30.01867204721010651269352820" lon="-90.14667874869219588163105072"/>
-  <node visible="true" id="-35" lat="30.01866691735465408896743611" lon="-90.14652580611607390892459080"/>
-  <node visible="true" id="-36" lat="30.01860628793520646695469623" lon="-90.14652652772119267865491565"/>
+  <node visible="true" id="-33" lat="30.01867244473071494326177344" lon="-90.14667973498669084619905334"/>
+  <node visible="true" id="-34" lat="30.01866651299763333327064174" lon="-90.14652464107356877320853528"/>
+  <node visible="true" id="-35" lat="30.01860684712951155006521731" lon="-90.14652768486485001631081104"/>
+  <node visible="true" id="-36" lat="30.01861277886598244890592468" lon="-90.14668277877798630015604431"/>
   <way visible="true" id="-4">
     <nd ref="-33"/>
     <nd ref="-34"/>
@@ -125,14 +128,14 @@
     <tag k="addr:city" v="Metairie"/>
     <tag k="addr:postcode" v="70002"/>
   </node>
-  <node visible="true" id="-41" lat="30.01640854401897229308815440" lon="-90.15255418898435380015143892">
-    <tag k="addr:street" v="8th Street"/>
+  <node visible="true" id="-41" lat="30.01680658438417736988412798" lon="-90.15323270547709455513540888">
+    <tag k="addr:housenumber" v="3701"/>
+    <tag k="addr:street" v="North Causeway Boulevard East"/>
     <tag k="addr:city" v="Metairie"/>
     <tag k="addr:postcode" v="70002"/>
   </node>
-  <node visible="true" id="-42" lat="30.01680658438417736988412798" lon="-90.15323270547709455513540888">
-    <tag k="addr:housenumber" v="3701"/>
-    <tag k="addr:street" v="North Causeway Boulevard East"/>
+  <node visible="true" id="-42" lat="30.01640854401897229308815440" lon="-90.15255418898435380015143892">
+    <tag k="addr:street" v="8th Street"/>
     <tag k="addr:city" v="Metairie"/>
     <tag k="addr:postcode" v="70002"/>
   </node>

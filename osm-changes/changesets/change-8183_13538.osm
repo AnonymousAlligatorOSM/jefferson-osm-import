@@ -3,14 +3,14 @@
   <changeset_tag k="comment" v="Import buildings and addresses in Jefferson Parish, see https://wiki.openstreetmap.org/wiki/Import/Catalogue/Jefferson_Parish_Addresses_and_Buildings"/>
   <changeset_tag k="source" v="Jefferson Parish Planning Department"/>
   <changeset_tag k="source_file" v="8183_13538"/>
-  <node visible="true" id="-1" lat="29.81922757650640676274633734" lon="-90.09862755047261373420042219"/>
-  <node visible="true" id="-2" lat="29.81919426658421556908251659" lon="-90.09862091075943624218780315"/>
-  <node visible="true" id="-3" lat="29.81919335053806463520231773" lon="-90.09862817931268352822371526"/>
-  <node visible="true" id="-4" lat="29.81917441131394852504854498" lon="-90.09862468954300140921986895"/>
-  <node visible="true" id="-5" lat="29.81917351035945173975960643" lon="-90.09863039554440433676063549"/>
-  <node visible="true" id="-6" lat="29.81912727691699060983410163" lon="-90.09862098843058220154489391"/>
-  <node visible="true" id="-7" lat="29.81909803290036720113675983" lon="-90.09881393842698571461369283"/>
-  <node visible="true" id="-8" lat="29.81919635724792172482011665" lon="-90.09883353717943066385487327"/>
+  <node visible="true" id="-1" lat="29.81919435547579055878486542" lon="-90.09862091489635815833025845"/>
+  <node visible="true" id="-2" lat="29.81919324163741080724321364" lon="-90.09862830798549282462772680"/>
+  <node visible="true" id="-3" lat="29.81917441327856721500211279" lon="-90.09862453946679750060866354"/>
+  <node visible="true" id="-4" lat="29.81917354162095890046657587" lon="-90.09863032508255287211795803"/>
+  <node visible="true" id="-5" lat="29.81912718111696491973816592" lon="-90.09862104597496568203496281"/>
+  <node visible="true" id="-6" lat="29.81909812340166965327625803" lon="-90.09881391605244971287902445"/>
+  <node visible="true" id="-7" lat="29.81919644132696589622355532" lon="-90.09883359449642625804699492"/>
+  <node visible="true" id="-8" lat="29.81922748450895710448094178" lon="-90.09862754571403797854145523"/>
   <way visible="true" id="-1">
     <nd ref="-1"/>
     <nd ref="-2"/>
@@ -22,6 +22,7 @@
     <nd ref="-8"/>
     <nd ref="-1"/>
     <tag k="building" v="yes"/>
+    <tag k="building:levels" v="1"/>
     <tag k="addr:housenumber" v="5037"/>
     <tag k="addr:street" v="Park Shore Drive"/>
     <tag k="addr:city" v="Marrero"/>
@@ -52,19 +53,20 @@
     <nd ref="-19"/>
     <nd ref="-9"/>
     <tag k="building" v="yes"/>
+    <tag k="building:levels" v="1"/>
     <tag k="addr:housenumber" v="5017"/>
     <tag k="addr:street" v="Park Shore Drive"/>
     <tag k="addr:city" v="Marrero"/>
     <tag k="addr:postcode" v="70072"/>
   </way>
-  <node visible="true" id="-20" lat="29.81895539246371740205177048" lon="-90.09882402787187061221629847"/>
-  <node visible="true" id="-21" lat="29.81900753100834933206897404" lon="-90.09883400670803155207977397"/>
-  <node visible="true" id="-22" lat="29.81900876928877508476034564" lon="-90.09882492660948116736108204"/>
-  <node visible="true" id="-23" lat="29.81905796937086350339995988" lon="-90.09883415126351735580101376"/>
-  <node visible="true" id="-24" lat="29.81909025751452446684197639" lon="-90.09861306086679633153835312"/>
-  <node visible="true" id="-25" lat="29.81902068295942598297187942" lon="-90.09859969899780196556093870"/>
-  <node visible="true" id="-26" lat="29.81901100300226303829731478" lon="-90.09866222719305994814931182"/>
-  <node visible="true" id="-27" lat="29.81898043593066915946110385" lon="-90.09865655205183543330349494"/>
+  <node visible="true" id="-20" lat="29.81900747442636401274285163" lon="-90.09883407952794698303478071"/>
+  <node visible="true" id="-21" lat="29.81900883885596087452540814" lon="-90.09882476514493987451714929"/>
+  <node visible="true" id="-22" lat="29.81905789653650984405430791" lon="-90.09883431209225079783209367"/>
+  <node visible="true" id="-23" lat="29.81909029276217637516310788" lon="-90.09861315662622871514031431"/>
+  <node visible="true" id="-24" lat="29.81902044261675399638988893" lon="-90.09859956332553565516718663"/>
+  <node visible="true" id="-25" lat="29.81901123653629070986426086" lon="-90.09866240934515246863156790"/>
+  <node visible="true" id="-26" lat="29.81898020720480957379550091" lon="-90.09865637083544243068899959"/>
+  <node visible="true" id="-27" lat="29.81895565259964087090338580" lon="-90.09882399466486901928874431"/>
   <way visible="true" id="-3">
     <nd ref="-20"/>
     <nd ref="-21"/>
@@ -76,6 +78,7 @@
     <nd ref="-27"/>
     <nd ref="-20"/>
     <tag k="building" v="yes"/>
+    <tag k="building:levels" v="1"/>
     <tag k="addr:housenumber" v="5041"/>
     <tag k="addr:street" v="Park Shore Drive"/>
     <tag k="addr:city" v="Marrero"/>
@@ -164,6 +167,6 @@
     <tag k="addr:street" v="Leo Kerner/Lafitte Parkway"/>
     <tag k="addr:city" v="Marrero"/>
     <tag k="addr:postcode" v="70072"/>
-    <tag k="addr:unit" v="Cell Tower"/>
+    <tag k="addr:unit" v="CELL TOWER"/>
   </node>
 </osm>

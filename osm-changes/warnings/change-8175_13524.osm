@@ -15,10 +15,10 @@
     <tag k="addr:city" v="Jefferson"/>
     <tag k="addr:postcode" v="70123"/>
   </node>
-  <node visible="true" id="-3" lat="29.94794754526844826614251360" lon="-90.17715210317760465841274709"/>
-  <node visible="true" id="-4" lat="29.94768651418696592259038880" lon="-90.17682708755053511140431510"/>
-  <node visible="true" id="-5" lat="29.94756388315067496819210646" lon="-90.17695699685781107746151974"/>
-  <node visible="true" id="-6" lat="29.94782491933003498729704006" lon="-90.17728273134970606861315900"/>
+  <node visible="true" id="-3" lat="29.94768652243936912782373838" lon="-90.17682663094900874511949951"/>
+  <node visible="true" id="-4" lat="29.94756412426100666834827280" lon="-90.17695718747566502315748949"/>
+  <node visible="true" id="-5" lat="29.94782490868963975572114578" lon="-90.17728282851881260739901336"/>
+  <node visible="true" id="-6" lat="29.94794730654703940331273770" lon="-90.17715227199217054021573858"/>
   <way visible="true" id="-1">
     <nd ref="-3"/>
     <nd ref="-4"/>
@@ -26,15 +26,16 @@
     <nd ref="-6"/>
     <nd ref="-3"/>
     <tag k="building" v="yes"/>
+    <tag k="building:levels" v="1"/>
     <tag k="addr:housenumber" v="5123"/>
     <tag k="addr:street" v="Storey Street"/>
     <tag k="addr:city" v="Jefferson"/>
     <tag k="addr:postcode" v="70123"/>
   </way>
-  <node visible="true" id="-7" lat="29.94785571212950614494729962" lon="-90.17587904688522826290864032"/>
-  <node visible="true" id="-8" lat="29.94754726924360710427208687" lon="-90.17620492263196751991927158"/>
-  <node visible="true" id="-9" lat="29.94765028897367997728906630" lon="-90.17633293415698858552786987"/>
-  <node visible="true" id="-10" lat="29.94795874480106689929925778" lon="-90.17600849422738917837705230"/>
+  <node visible="true" id="-7" lat="29.94754770284956180148583371" lon="-90.17620458574829456210864009"/>
+  <node visible="true" id="-8" lat="29.94765027316759642417309806" lon="-90.17633379735825371881219326"/>
+  <node visible="true" id="-9" lat="29.94795830456640217676067550" lon="-90.17600811320249931668513454"/>
+  <node visible="true" id="-10" lat="29.94785573456607608022750355" lon="-90.17587890159254015998158138"/>
   <way visible="true" id="-2">
     <nd ref="-7"/>
     <nd ref="-8"/>
@@ -42,6 +43,7 @@
     <nd ref="-10"/>
     <nd ref="-7"/>
     <tag k="building" v="yes"/>
+    <tag k="building:levels" v="1"/>
     <tag k="addr:housenumber" v="140"/>
     <tag k="addr:street" v="Laitram Lane"/>
     <tag k="addr:city" v="Jefferson"/>
@@ -79,6 +81,7 @@
     <nd ref="-20"/>
     <nd ref="-13"/>
     <tag k="building" v="yes"/>
+    <tag k="building:levels" v="1"/>
     <tag k="addr:street" v="Toler Street"/>
     <tag k="addr:city" v="Jefferson"/>
     <tag k="addr:postcode" v="70123"/>
@@ -113,14 +116,14 @@
     <tag k="addr:city" v="Jefferson"/>
     <tag k="addr:postcode" v="70123"/>
   </node>
-  <node visible="true" id="-26" lat="29.94948151956969795151053404" lon="-90.17685670171326250965648796"/>
-  <node visible="true" id="-27" lat="29.94976984454649127087577654" lon="-90.17653872977801654542417964"/>
-  <node visible="true" id="-28" lat="29.94949350175279789709748002" lon="-90.17616081920471060584532097"/>
-  <node visible="true" id="-29" lat="29.94913366456968972784125071" lon="-90.17654256681800006845151074"/>
-  <node visible="true" id="-30" lat="29.94919307549830023162940051" lon="-90.17661653256655540644715074"/>
-  <node visible="true" id="-31" lat="29.94909398139715150932715915" lon="-90.17672176478254186804406345"/>
-  <node visible="true" id="-32" lat="29.94938072567776998766930774" lon="-90.17707909448155589871021220"/>
-  <node visible="true" id="-33" lat="29.94953781717431340325674682" lon="-90.17692979124865360063267872"/>
+  <node visible="true" id="-26" lat="29.94977892940556074563573929" lon="-90.17653814758958219499618281"/>
+  <node visible="true" id="-27" lat="29.94948976594508849302656017" lon="-90.17616824402762176760006696"/>
+  <node visible="true" id="-28" lat="29.94913257936080697163561126" lon="-90.17654016184707188585889526"/>
+  <node visible="true" id="-29" lat="29.94919307935408525622733578" lon="-90.17661755425639569239137927"/>
+  <node visible="true" id="-30" lat="29.94909558158634865776548395" lon="-90.17671907289663124629441882"/>
+  <node visible="true" id="-31" lat="29.94938175771531163604777248" lon="-90.17708515354901521732244873"/>
+  <node visible="true" id="-32" lat="29.94953497405393960661967867" lon="-90.17692561796337713531102054"/>
+  <node visible="true" id="-33" lat="29.94947746274360156348848250" lon="-90.17685204846360136343719205"/>
   <way visible="true" id="-4">
     <nd ref="-26"/>
     <nd ref="-27"/>
@@ -132,15 +135,16 @@
     <nd ref="-33"/>
     <nd ref="-26"/>
     <tag k="building" v="yes"/>
+    <tag k="building:levels" v="1"/>
     <tag k="addr:housenumber" v="221"/>
     <tag k="addr:street" v="Laitram Lane"/>
     <tag k="addr:city" v="Jefferson"/>
     <tag k="addr:postcode" v="70123"/>
   </way>
-  <node visible="true" id="-34" lat="29.94812433219430047870446288" lon="-90.17671146928280734300642507"/>
-  <node visible="true" id="-35" lat="29.94832623799647208784335817" lon="-90.17649737275743859754584264"/>
-  <node visible="true" id="-36" lat="29.94817518403366207735416538" lon="-90.17630962040284714476001682"/>
-  <node visible="true" id="-37" lat="29.94797390911689660697447835" lon="-90.17652442762606312953721499"/>
+  <node visible="true" id="-34" lat="29.94832577343526835988996027" lon="-90.17649718123077207110327436"/>
+  <node visible="true" id="-35" lat="29.94817535383432982598606031" lon="-90.17630944404128001679055160"/>
+  <node visible="true" id="-36" lat="29.94797405808370172053400893" lon="-90.17652426380382735260354821"/>
+  <node visible="true" id="-37" lat="29.94812447798913979113422101" lon="-90.17671200099333361777098617"/>
   <way visible="true" id="-5">
     <nd ref="-34"/>
     <nd ref="-35"/>
@@ -148,6 +152,7 @@
     <nd ref="-37"/>
     <nd ref="-34"/>
     <tag k="building" v="yes"/>
+    <tag k="building:levels" v="1"/>
     <tag k="addr:housenumber" v="200"/>
     <tag k="addr:street" v="Laitram Lane"/>
     <tag k="addr:city" v="Jefferson"/>
@@ -184,6 +189,7 @@
     <nd ref="-47"/>
     <nd ref="-40"/>
     <tag k="building" v="yes"/>
+    <tag k="building:levels" v="1"/>
     <tag k="addr:street" v="Edwards Avenue"/>
     <tag k="addr:city" v="Jefferson"/>
     <tag k="addr:postcode" v="70123"/>

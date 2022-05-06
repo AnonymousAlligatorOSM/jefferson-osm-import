@@ -8,10 +8,10 @@
     <tag k="addr:city" v="Metairie"/>
     <tag k="addr:postcode" v="70001"/>
   </node>
-  <node visible="true" id="-2" lat="29.97640688738060887885694683" lon="-90.16591265557131862351525342"/>
-  <node visible="true" id="-3" lat="29.97625940669995259213465033" lon="-90.16591797119814089001010871"/>
-  <node visible="true" id="-4" lat="29.97626024726943327891603985" lon="-90.16601274040313285240699770"/>
-  <node visible="true" id="-5" lat="29.97641091657996526009810623" lon="-90.16601456710797890536923660"/>
+  <node visible="true" id="-2" lat="29.97625940669968613860874029" lon="-90.16591797119814089001010871"/>
+  <node visible="true" id="-3" lat="29.97626024726944038434339745" lon="-90.16601274040311864155228250"/>
+  <node visible="true" id="-4" lat="29.97641091658078238424423034" lon="-90.16601456710799311622395180"/>
+  <node visible="true" id="-5" lat="29.97640688738064085328005604" lon="-90.16591265557131862351525342"/>
   <way visible="true" id="-1">
     <nd ref="-2"/>
     <nd ref="-3"/>
@@ -33,4 +33,27 @@
     <tag k="addr:city" v="Metairie"/>
     <tag k="addr:postcode" v="70001"/>
   </node>
+  <way id="1035864812" version="1" action="modify">
+    <tag k="addr:city" v="Metairie"/>
+    <tag k="addr:housenumber" v="3949"/>
+    <tag k="addr:postcode" v="70001"/>
+    <tag k="addr:state" v="LA"/>
+    <tag k="addr:street" v="Derbigny Street"/>
+    <tag k="building" v="church"/>
+    <nd ref="9543898230"/>
+    <nd ref="9543898226"/>
+    <nd ref="9543898223"/>
+    <nd ref="9543898224"/>
+    <nd ref="9543898225"/>
+    <nd ref="9543898227"/>
+    <nd ref="9543871799"/>
+    <nd ref="9543871808"/>
+    <nd ref="9543898228"/>
+    <nd ref="9543871809"/>
+    <nd ref="9543871810"/>
+    <nd ref="9543898229"/>
+    <nd ref="9543871813"/>
+    <nd ref="9543871812"/>
+    <nd ref="9543898230"/>
+  </way>
 </osm>

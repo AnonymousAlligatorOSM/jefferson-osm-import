@@ -3,12 +3,12 @@
   <changeset_tag k="comment" v="Import buildings and addresses in Jefferson Parish, see https://wiki.openstreetmap.org/wiki/Import/Catalogue/Jefferson_Parish_Addresses_and_Buildings"/>
   <changeset_tag k="source" v="Jefferson Parish Planning Department"/>
   <changeset_tag k="source_file" v="8168_13528"/>
-  <node visible="true" id="-1" lat="29.91213652144003987132236944" lon="-90.25649290306897398750152206"/>
-  <node visible="true" id="-2" lat="29.91213556390332328760450764" lon="-90.25637595277025582163332729"/>
-  <node visible="true" id="-3" lat="29.91202557615293855519666977" lon="-90.25638000909333413801505230"/>
-  <node visible="true" id="-4" lat="29.91202879854841611972915416" lon="-90.25646823349033809336106060"/>
-  <node visible="true" id="-5" lat="29.91200442187111363523399632" lon="-90.25646849645561076158628566"/>
-  <node visible="true" id="-6" lat="29.91200713316623804871596803" lon="-90.25649429882301433281099889"/>
+  <node visible="true" id="-1" lat="29.91213475787692743779189186" lon="-90.25637638448881716612959281"/>
+  <node visible="true" id="-2" lat="29.91202620148516899689639104" lon="-90.25637958269828686752589419"/>
+  <node visible="true" id="-3" lat="29.91202815915683288494619774" lon="-90.25646802472651586413121549"/>
+  <node visible="true" id="-4" lat="29.91200549628703342364133277" lon="-90.25646869240307523796218447"/>
+  <node visible="true" id="-5" lat="29.91200609050874348326942709" lon="-90.25649553763545895890274551"/>
+  <node visible="true" id="-6" lat="29.91213730976704354702633282" lon="-90.25649167174941567282075994"/>
   <way visible="true" id="-1">
     <nd ref="-1"/>
     <nd ref="-2"/>
@@ -18,15 +18,16 @@
     <nd ref="-6"/>
     <nd ref="-1"/>
     <tag k="building" v="yes"/>
+    <tag k="building:levels" v="1"/>
     <tag k="addr:housenumber" v="5800"/>
     <tag k="addr:street" v="Highway 90"/>
     <tag k="addr:city" v="Waggaman"/>
     <tag k="addr:postcode" v="70094"/>
   </way>
-  <node visible="true" id="-7" lat="29.91253641701553078746655956" lon="-90.25328876447967729745869292"/>
-  <node visible="true" id="-8" lat="29.91252696573462799278786406" lon="-90.25312741592539111934456741"/>
-  <node visible="true" id="-9" lat="29.91225456852417252662235114" lon="-90.25314615067959778116346570"/>
-  <node visible="true" id="-10" lat="29.91226151904749741561317933" lon="-90.25330752481586671365221264"/>
+  <node visible="true" id="-7" lat="29.91252755840219634819732164" lon="-90.25312745177370743476785719"/>
+  <node visible="true" id="-8" lat="29.91225390671310790935422119" lon="-90.25314611954793519998929696"/>
+  <node visible="true" id="-9" lat="29.91226217677007781503562001" lon="-90.25330747617654481018689694"/>
+  <node visible="true" id="-10" lat="29.91253582843659941659097967" lon="-90.25328880840231704496545717"/>
   <way visible="true" id="-2">
     <nd ref="-7"/>
     <nd ref="-8"/>
@@ -34,6 +35,7 @@
     <nd ref="-10"/>
     <nd ref="-7"/>
     <tag k="building" v="yes"/>
+    <tag k="building:levels" v="1"/>
     <tag k="addr:housenumber" v="5221"/>
     <tag k="addr:street" v="Highway 90"/>
     <tag k="addr:city" v="Waggaman"/>
@@ -44,7 +46,7 @@
     <tag k="addr:street" v="Highway 90"/>
     <tag k="addr:city" v="Waggaman"/>
     <tag k="addr:postcode" v="70094"/>
-    <tag k="addr:unit" v="Sprint Twr"/>
+    <tag k="addr:unit" v="SPRINT TWR"/>
   </node>
   <node visible="true" id="-12" lat="29.91276813400085288208174461" lon="-90.25965507357369688179460354">
     <tag k="addr:housenumber" v="5901"/>
@@ -57,6 +59,6 @@
     <tag k="addr:street" v="Highway 90"/>
     <tag k="addr:city" v="Waggaman"/>
     <tag k="addr:postcode" v="70094"/>
-    <tag k="addr:unit" v="Irrg Meter"/>
+    <tag k="addr:unit" v="IRRG METER"/>
   </node>
 </osm>

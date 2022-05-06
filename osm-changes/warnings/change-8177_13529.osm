@@ -13,21 +13,54 @@
     <tag k="addr:city" v="Bridge City"/>
     <tag k="addr:postcode" v="70094"/>
   </node>
-  <way id="298788040" version="1">
+  <way id="298788040" version="1" action="modify">
+    <tag k="building" v="yes"/>
     <tag k="addr:housenumber" v="2000"/>
     <tag k="addr:street" v="Segnette"/>
     <tag k="addr:city" v="Bridge City"/>
     <tag k="addr:postcode" v="70094"/>
+    <nd ref="3027240780"/>
+    <nd ref="3027240776"/>
+    <nd ref="3027240774"/>
+    <nd ref="3027240767"/>
+    <nd ref="3027240771"/>
+    <nd ref="3027240775"/>
+    <nd ref="3027240778"/>
+    <nd ref="3027240782"/>
+    <nd ref="3027240792"/>
+    <nd ref="3027240790"/>
+    <nd ref="3027240780"/>
   </way>
-  <way id="298788045" version="1">
+  <way id="298788045" version="1" action="modify">
+    <tag k="building" v="yes"/>
     <tag k="addr:housenumber" v="2000"/>
     <tag k="addr:street" v="Segnette"/>
     <tag k="addr:city" v="Bridge City"/>
     <tag k="addr:postcode" v="70094"/>
+    <nd ref="3027240768"/>
+    <nd ref="3027240773"/>
+    <nd ref="3027240763"/>
+    <nd ref="3027240760"/>
+    <nd ref="3027240768"/>
   </way>
-  <way id="891398115" version="1">
+  <way id="891398115" version="1" action="modify">
+    <tag k="addr:city" v="Bridge City"/>
+    <tag k="addr:housenumber" v="940"/>
+    <tag k="addr:postcode" v="70094"/>
+    <tag k="addr:state" v="LA"/>
     <tag k="addr:street" v="Wayne Avenue"/>
-    <tag k="addr:city" v="Bridge City"/>
-    <tag k="addr:postcode" v="70094"/>
+    <tag k="amenity" v="restaurant"/>
+    <tag k="brand" v="Waffle House"/>
+    <tag k="brand:wikidata" v="Q1701206"/>
+    <tag k="brand:wikipedia" v="en:Waffle House"/>
+    <tag k="building" v="yes"/>
+    <tag k="cuisine" v="american"/>
+    <tag k="name" v="Waffle House"/>
+    <tag k="opening_hours" v="24/7"/>
+    <nd ref="8285415388"/>
+    <nd ref="8285415389"/>
+    <nd ref="8285415390"/>
+    <nd ref="8285415391"/>
+    <nd ref="8285415388"/>
   </way>
 </osm>

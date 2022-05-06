@@ -75,14 +75,14 @@
     <tag k="addr:city" v="Terrytown"/>
     <tag k="addr:postcode" v="70056"/>
   </node>
-  <node visible="true" id="-13" lat="29.89518656044335287447211158" lon="-90.00947649655714144500961993"/>
-  <node visible="true" id="-14" lat="29.89515445206622246132610599" lon="-90.00932984558818361620069481"/>
-  <node visible="true" id="-15" lat="29.89509082024436281699308893" lon="-90.00934288627014723260799656"/>
-  <node visible="true" id="-16" lat="29.89509245968155326522719406" lon="-90.00938160678173005635471782"/>
-  <node visible="true" id="-17" lat="29.89503007819197932803945150" lon="-90.00939463084239378076745197"/>
-  <node visible="true" id="-18" lat="29.89506498955531199612778437" lon="-90.00957137676226693656644784"/>
-  <node visible="true" id="-19" lat="29.89511792312703164498088881" lon="-90.00955130431287898318259977"/>
-  <node visible="true" id="-20" lat="29.89510675636148562261951156" lon="-90.00949764397020658179826569"/>
+  <node visible="true" id="-13" lat="29.89515592899812901350742322" lon="-90.00932779875189737595064798"/>
+  <node visible="true" id="-14" lat="29.89508834135304482515493874" lon="-90.00934519093820540547312703"/>
+  <node visible="true" id="-15" lat="29.89509496668087606963126746" lon="-90.00937944744767094107373850"/>
+  <node visible="true" id="-16" lat="29.89503070394093242612143513" lon="-90.00939598403330421660939464"/>
+  <node visible="true" id="-17" lat="29.89506404851289644852840865" lon="-90.00956839333404957415041281"/>
+  <node visible="true" id="-18" lat="29.89511814175006776395093766" lon="-90.00955447363962491635902552"/>
+  <node visible="true" id="-19" lat="29.89510707566404690282979573" lon="-90.00949725600889905763324350"/>
+  <node visible="true" id="-20" lat="29.89518483277186788882318069" lon="-90.00947724693136819951178040"/>
   <way visible="true" id="-1">
     <nd ref="-13"/>
     <nd ref="-14"/>
@@ -94,6 +94,7 @@
     <nd ref="-20"/>
     <nd ref="-13"/>
     <tag k="building" v="yes"/>
+    <tag k="building:levels" v="1"/>
     <tag k="addr:housenumber" v="724"/>
     <tag k="addr:street" v="Eton Court"/>
     <tag k="addr:city" v="Terrytown"/>
@@ -122,15 +123,16 @@
     <nd ref="-30"/>
     <nd ref="-21"/>
     <tag k="building" v="yes"/>
+    <tag k="building:levels" v="1"/>
     <tag k="addr:housenumber" v="728"/>
     <tag k="addr:street" v="Eton Court"/>
     <tag k="addr:city" v="Terrytown"/>
     <tag k="addr:postcode" v="70056"/>
   </way>
-  <node visible="true" id="-31" lat="29.89481535042483528741286136" lon="-90.00930205753228108278563013"/>
-  <node visible="true" id="-32" lat="29.89469414165294480767443019" lon="-90.00930868696488573732494842"/>
-  <node visible="true" id="-33" lat="29.89469776809783141402476758" lon="-90.00942056072311459047341486"/>
-  <node visible="true" id="-34" lat="29.89481899131153497251034423" lon="-90.00941536536191733830492012"/>
+  <node visible="true" id="-31" lat="29.89469399601649968190031359" lon="-90.00930817723677535013848683"/>
+  <node visible="true" id="-32" lat="29.89469790280184113839823112" lon="-90.00942075542018017131340457"/>
+  <node visible="true" id="-33" lat="29.89481912972467014810717956" lon="-90.00941515805432402430596994"/>
+  <node visible="true" id="-34" lat="29.89481522294409643336621230" lon="-90.00930257987093341398576740"/>
   <way visible="true" id="-3">
     <nd ref="-31"/>
     <nd ref="-32"/>
@@ -138,6 +140,7 @@
     <nd ref="-34"/>
     <nd ref="-31"/>
     <tag k="building" v="yes"/>
+    <tag k="building:levels" v="2"/>
     <tag k="addr:housenumber" v="732"/>
     <tag k="addr:street" v="Eton Court"/>
     <tag k="addr:city" v="Terrytown"/>
@@ -162,15 +165,16 @@
     <nd ref="-42"/>
     <nd ref="-35"/>
     <tag k="building" v="yes"/>
+    <tag k="building:levels" v="1"/>
     <tag k="addr:housenumber" v="736"/>
     <tag k="addr:street" v="Eton Court"/>
     <tag k="addr:city" v="Terrytown"/>
     <tag k="addr:postcode" v="70056"/>
   </way>
-  <node visible="true" id="-43" lat="29.89437115673754874478618149" lon="-90.00932947137077633215085370"/>
-  <node visible="true" id="-44" lat="29.89437780068292127566564886" lon="-90.00943054315334279635862913"/>
-  <node visible="true" id="-45" lat="29.89448591972836055674633826" lon="-90.00942767432175628528057132"/>
-  <node visible="true" id="-46" lat="29.89448173312453249650388898" lon="-90.00932226540432168349070707"/>
+  <node visible="true" id="-43" lat="29.89437670631606280835512734" lon="-90.00943223842693896585842595"/>
+  <node visible="true" id="-44" lat="29.89448600435725822421773046" lon="-90.00942603634537420020933496"/>
+  <node visible="true" id="-45" lat="29.89448159882308431178898900" lon="-90.00932273869818800449138507"/>
+  <node visible="true" id="-46" lat="29.89437230077685114792984677" lon="-90.00932894077973855928576086"/>
   <way visible="true" id="-5">
     <nd ref="-43"/>
     <nd ref="-44"/>
@@ -178,19 +182,20 @@
     <nd ref="-46"/>
     <nd ref="-43"/>
     <tag k="building" v="yes"/>
+    <tag k="building:levels" v="2"/>
     <tag k="addr:housenumber" v="740"/>
     <tag k="addr:street" v="Eton Court"/>
     <tag k="addr:city" v="Terrytown"/>
     <tag k="addr:postcode" v="70056"/>
   </way>
-  <node visible="true" id="-47" lat="29.89433934698051231748650025" lon="-90.00906107173156556200410705"/>
-  <node visible="true" id="-48" lat="29.89440287668072571136690385" lon="-90.00905814054813447455671849"/>
-  <node visible="true" id="-49" lat="29.89440268487112817297202128" lon="-90.00903909361174726200260920"/>
-  <node visible="true" id="-50" lat="29.89447908326254577104919008" lon="-90.00903195546879942412488163"/>
-  <node visible="true" id="-51" lat="29.89447720619019932541959861" lon="-90.00887674929705895010556560"/>
-  <node visible="true" id="-52" lat="29.89439230816973136484193674" lon="-90.00888123665113482729793759"/>
-  <node visible="true" id="-53" lat="29.89439363406842531389884243" lon="-90.00891595586037396969913971"/>
-  <node visible="true" id="-54" lat="29.89433314109179207207489526" lon="-90.00892011943888348923792364"/>
+  <node visible="true" id="-47" lat="29.89440313713801344874809729" lon="-90.00905798528195589369715890"/>
+  <node visible="true" id="-48" lat="29.89440235691607483659026911" lon="-90.00903747446939462406589882"/>
+  <node visible="true" id="-49" lat="29.89448115494439051076369651" lon="-90.00903348635792156073875958"/>
+  <node visible="true" id="-50" lat="29.89447520022800119932071539" lon="-90.00887694607808953151106834"/>
+  <node visible="true" id="-51" lat="29.89439230714592099502624478" lon="-90.00888114144734686306037474"/>
+  <node visible="true" id="-52" lat="29.89439365239358181725037866" lon="-90.00891650589359471723582828"/>
+  <node visible="true" id="-53" lat="29.89433354142502352601695748" lon="-90.00891954821662466201814823"/>
+  <node visible="true" id="-54" lat="29.89433893112386542156855285" lon="-90.00906123486275589584693080"/>
   <way visible="true" id="-6">
     <nd ref="-47"/>
     <nd ref="-48"/>
@@ -202,15 +207,16 @@
     <nd ref="-54"/>
     <nd ref="-47"/>
     <tag k="building" v="yes"/>
+    <tag k="building:levels" v="1"/>
     <tag k="addr:housenumber" v="741"/>
     <tag k="addr:street" v="Eton Court"/>
     <tag k="addr:city" v="Terrytown"/>
     <tag k="addr:postcode" v="70056"/>
   </way>
-  <node visible="true" id="-55" lat="29.89451281954283956565632252" lon="-90.00905710267984716210776241"/>
-  <node visible="true" id="-56" lat="29.89463155019630491437965247" lon="-90.00905265752810180401866091"/>
-  <node visible="true" id="-57" lat="29.89462898407936464195699955" lon="-90.00892067754671188595239073"/>
-  <node visible="true" id="-58" lat="29.89450894218007448444041074" lon="-90.00892563106101817993476288"/>
+  <node visible="true" id="-55" lat="29.89463205579592397498345235" lon="-90.00905272309391591534222243"/>
+  <node visible="true" id="-56" lat="29.89462848924956617224779620" lon="-90.00892100971648801532865036"/>
+  <node visible="true" id="-57" lat="29.89450909220066421312367311" lon="-90.00892531131395912780135404"/>
+  <node visible="true" id="-58" lat="29.89451265875186081188985554" lon="-90.00905702469137281696021091"/>
   <way visible="true" id="-7">
     <nd ref="-55"/>
     <nd ref="-56"/>
@@ -218,6 +224,7 @@
     <nd ref="-58"/>
     <nd ref="-55"/>
     <tag k="building" v="yes"/>
+    <tag k="building:levels" v="2"/>
     <tag k="addr:housenumber" v="737"/>
     <tag k="addr:street" v="Eton Court"/>
     <tag k="addr:city" v="Terrytown"/>
@@ -236,6 +243,7 @@
     <nd ref="-63"/>
     <nd ref="-59"/>
     <tag k="building" v="yes"/>
+    <tag k="building:levels" v="1"/>
     <tag k="addr:housenumber" v="733"/>
     <tag k="addr:street" v="Eton Court"/>
     <tag k="addr:city" v="Terrytown"/>
@@ -260,15 +268,16 @@
     <nd ref="-71"/>
     <nd ref="-64"/>
     <tag k="building" v="yes"/>
+    <tag k="building:levels" v="1"/>
     <tag k="addr:housenumber" v="729"/>
     <tag k="addr:street" v="Eton Court"/>
     <tag k="addr:city" v="Terrytown"/>
     <tag k="addr:postcode" v="70056"/>
   </way>
-  <node visible="true" id="-72" lat="29.89499514955908665569950244" lon="-90.00892366395292754077672726"/>
-  <node visible="true" id="-73" lat="29.89511883148635362772438384" lon="-90.00898925557385155116207898"/>
-  <node visible="true" id="-74" lat="29.89519041226157369806060160" lon="-90.00882582764741357550519751"/>
-  <node visible="true" id="-75" lat="29.89506423577137184111052193" lon="-90.00875506187948360548034543"/>
+  <node visible="true" id="-72" lat="29.89511967416682836073960061" lon="-90.00899127089515161515009822"/>
+  <node visible="true" id="-73" lat="29.89518916286227678824616305" lon="-90.00882478676308551257534418"/>
+  <node visible="true" id="-74" lat="29.89506464041632227690570289" lon="-90.00875563363169362673943397"/>
+  <node visible="true" id="-75" lat="29.89499515163405263251661381" lon="-90.00892211776374551845947281"/>
   <way visible="true" id="-10">
     <nd ref="-72"/>
     <nd ref="-73"/>
@@ -276,6 +285,7 @@
     <nd ref="-75"/>
     <nd ref="-72"/>
     <tag k="building" v="yes"/>
+    <tag k="building:levels" v="1"/>
     <tag k="addr:housenumber" v="725"/>
     <tag k="addr:street" v="Eton Court"/>
     <tag k="addr:city" v="Terrytown"/>
@@ -294,15 +304,16 @@
     <nd ref="-80"/>
     <nd ref="-76"/>
     <tag k="building" v="yes"/>
+    <tag k="building:levels" v="2"/>
     <tag k="addr:housenumber" v="721"/>
     <tag k="addr:street" v="Eton Court"/>
     <tag k="addr:city" v="Terrytown"/>
     <tag k="addr:postcode" v="70056"/>
   </way>
-  <node visible="true" id="-81" lat="29.89521716426686026579773170" lon="-90.00916328408420952200685861"/>
-  <node visible="true" id="-82" lat="29.89518680286835561332736688" lon="-90.00931435041817962883214932"/>
-  <node visible="true" id="-83" lat="29.89529780536357606024466804" lon="-90.00934946794593827235075878"/>
-  <node visible="true" id="-84" lat="29.89532812256330629452349967" lon="-90.00919409756659206323092803"/>
+  <node visible="true" id="-81" lat="29.89518578148477701006413554" lon="-90.00931615365925608784891665"/>
+  <node visible="true" id="-82" lat="29.89529716372647172306642460" lon="-90.00934720114261722301307600"/>
+  <node visible="true" id="-83" lat="29.89532916602788858995154442" lon="-90.00919444634817523365200032"/>
+  <node visible="true" id="-84" lat="29.89521778382200523083156440" lon="-90.00916339886484252019727137"/>
   <way visible="true" id="-12">
     <nd ref="-81"/>
     <nd ref="-82"/>
@@ -310,15 +321,16 @@
     <nd ref="-84"/>
     <nd ref="-81"/>
     <tag k="building" v="yes"/>
+    <tag k="building:levels" v="2"/>
     <tag k="addr:housenumber" v="720"/>
     <tag k="addr:street" v="Eton Court"/>
     <tag k="addr:city" v="Terrytown"/>
     <tag k="addr:postcode" v="70056"/>
   </way>
-  <node visible="true" id="-85" lat="29.89545357968099636991610168" lon="-90.01064968703180113607231760"/>
-  <node visible="true" id="-86" lat="29.89542436483238319055999455" lon="-90.01003856061969088386831572"/>
-  <node visible="true" id="-87" lat="29.89529293187489500382980623" lon="-90.01004295036453584089031210"/>
-  <node visible="true" id="-88" lat="29.89532453238269127382409351" lon="-90.01066198543399821119237458"/>
+  <node visible="true" id="-85" lat="29.89542384141828534893647884" lon="-90.01003648916390886824956397"/>
+  <node visible="true" id="-86" lat="29.89529361004784391298016999" lon="-90.01004501169275329175434308"/>
+  <node visible="true" id="-87" lat="29.89532386298698440896259854" lon="-90.01066010256110416776209604"/>
+  <node visible="true" id="-88" lat="29.89545409431759992457955377" lon="-90.01065158003228816596674733"/>
   <way visible="true" id="-13">
     <nd ref="-85"/>
     <nd ref="-86"/>
@@ -326,17 +338,18 @@
     <nd ref="-88"/>
     <nd ref="-85"/>
     <tag k="building" v="yes"/>
+    <tag k="building:levels" v="2"/>
     <tag k="addr:housenumber" v="700"/>
     <tag k="addr:street" v="Gladstone Court"/>
     <tag k="addr:city" v="Terrytown"/>
     <tag k="addr:postcode" v="70056"/>
   </way>
-  <node visible="true" id="-89" lat="29.89648554657780010757051059" lon="-90.01030752846713767212349921"/>
-  <node visible="true" id="-90" lat="29.89647885659233139676871360" lon="-90.01010442950477852264157264"/>
-  <node visible="true" id="-91" lat="29.89636895938591010235541034" lon="-90.01010973287715444257628405"/>
-  <node visible="true" id="-92" lat="29.89637531608408593797321373" lon="-90.01028131891463601732539246"/>
-  <node visible="true" id="-93" lat="29.89640471738138316482036316" lon="-90.01027988448564087775594089"/>
-  <node visible="true" id="-94" lat="29.89640587279396299891232047" lon="-90.01031141633114884825772606"/>
+  <node visible="true" id="-89" lat="29.89647859485313219352065062" lon="-90.01010449515615619020536542"/>
+  <node visible="true" id="-90" lat="29.89636908654356872716562066" lon="-90.01010967358988068554026540"/>
+  <node visible="true" id="-91" lat="29.89637518625392686999475700" lon="-90.01028130300424834331352031"/>
+  <node visible="true" id="-92" lat="29.89640473551980193178678746" lon="-90.01027990567773429120279616"/>
+  <node visible="true" id="-93" lat="29.89640585330445077261174447" lon="-90.01031135712987918395810993"/>
+  <node visible="true" id="-94" lat="29.89648581234012780782904883" lon="-90.01030757602265452987921890"/>
   <way visible="true" id="-14">
     <nd ref="-89"/>
     <nd ref="-90"/>
@@ -346,6 +359,7 @@
     <nd ref="-94"/>
     <nd ref="-89"/>
     <tag k="building" v="yes"/>
+    <tag k="building:levels" v="1"/>
     <tag k="addr:housenumber" v="2461"/>
     <tag k="addr:street" v="Avenue Mont Martre"/>
     <tag k="addr:city" v="Terrytown"/>
@@ -372,6 +386,7 @@
     <nd ref="-103"/>
     <nd ref="-95"/>
     <tag k="building" v="yes"/>
+    <tag k="building:levels" v="1"/>
     <tag k="addr:housenumber" v="2472"/>
     <tag k="addr:street" v="Avenue Mont Martre"/>
     <tag k="addr:city" v="Terrytown"/>
@@ -409,18 +424,18 @@
     <tag k="addr:city" v="Terrytown"/>
     <tag k="addr:postcode" v="70056"/>
   </way>
-  <node visible="true" id="-116" lat="29.89656161151425095567901735" lon="-90.01063371737889440282742726"/>
-  <node visible="true" id="-117" lat="29.89652014486154740779966232" lon="-90.01063509202839441059040837"/>
-  <node visible="true" id="-118" lat="29.89652004014154940136904770" lon="-90.01062468054368537195841782"/>
-  <node visible="true" id="-119" lat="29.89641194198383544744501705" lon="-90.01062908659501715646911180"/>
-  <node visible="true" id="-120" lat="29.89641295935610543210714241" lon="-90.01068116952114905870985240"/>
-  <node visible="true" id="-121" lat="29.89642177572916992289719929" lon="-90.01068077935428846103604883"/>
-  <node visible="true" id="-122" lat="29.89642274567011526187343406" lon="-90.01074214295273634434124688"/>
-  <node visible="true" id="-123" lat="29.89648372694646027980525105" lon="-90.01074050672681892137916293"/>
-  <node visible="true" id="-124" lat="29.89648385918849271547514945" lon="-90.01075365567368180563789792"/>
-  <node visible="true" id="-125" lat="29.89655068086696587670303416" lon="-90.01075186028135988181020366"/>
-  <node visible="true" id="-126" lat="29.89654884170225912498608523" lon="-90.01068758907670996904926142"/>
-  <node visible="true" id="-127" lat="29.89656307812591862216322625" lon="-90.01068740772345222467265557"/>
+  <node visible="true" id="-116" lat="29.89652021267875170451588929" lon="-90.01063504523507674548454816"/>
+  <node visible="true" id="-117" lat="29.89651998356974971216004633" lon="-90.01062521006247152399737388"/>
+  <node visible="true" id="-118" lat="29.89641183182382278005206899" lon="-90.01062856224413621930580121"/>
+  <node visible="true" id="-119" lat="29.89641305587048947245421004" lon="-90.01068110807865707556629786"/>
+  <node visible="true" id="-120" lat="29.89642154749874691788136261" lon="-90.01068084487934584103641100"/>
+  <node visible="true" id="-121" lat="29.89642297821665550827674451" lon="-90.01074226269432188018981833"/>
+  <node visible="true" id="-122" lat="29.89648363702455213797293254" lon="-90.01074038256454912243498256"/>
+  <node visible="true" id="-123" lat="29.89648394936546793587694992" lon="-90.01075379075760451996757183"/>
+  <node visible="true" id="-124" lat="29.89655050679121828238749004" lon="-90.01075172779788147181534441"/>
+  <node visible="true" id="-125" lat="29.89654901559351785067519813" lon="-90.01068771364064957651862642"/>
+  <node visible="true" id="-126" lat="29.89656296722594674974970985" lon="-90.01068728120705486617225688"/>
+  <node visible="true" id="-127" lat="29.89656172042936788102451828" lon="-90.01063375869435390086437110"/>
   <way visible="true" id="-17">
     <nd ref="-116"/>
     <nd ref="-117"/>
@@ -436,6 +451,7 @@
     <nd ref="-127"/>
     <nd ref="-116"/>
     <tag k="building" v="yes"/>
+    <tag k="building:levels" v="1"/>
     <tag k="addr:housenumber" v="2453"/>
     <tag k="addr:street" v="Avenue Mont Martre"/>
     <tag k="addr:city" v="Terrytown"/>
@@ -470,6 +486,7 @@
     <nd ref="-140"/>
     <nd ref="-128"/>
     <tag k="building" v="yes"/>
+    <tag k="building:levels" v="1"/>
     <tag k="addr:housenumber" v="2462"/>
     <tag k="addr:street" v="Avenue Mont Martre"/>
     <tag k="addr:city" v="Terrytown"/>

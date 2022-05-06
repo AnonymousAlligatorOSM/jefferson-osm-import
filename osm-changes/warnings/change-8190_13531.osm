@@ -3,10 +3,10 @@
   <changeset_tag k="comment" v="Import buildings and addresses in Jefferson Parish, see https://wiki.openstreetmap.org/wiki/Import/Catalogue/Jefferson_Parish_Addresses_and_Buildings"/>
   <changeset_tag k="source" v="Jefferson Parish Planning Department"/>
   <changeset_tag k="source_file" v="8190_13531"/>
-  <node visible="true" id="-1" lat="29.88475036605720802640462352" lon="-90.02005262106239058539358666"/>
-  <node visible="true" id="-2" lat="29.88465790186084447555003862" lon="-90.02005814120151683255244279"/>
-  <node visible="true" id="-3" lat="29.88466179332576189153769519" lon="-90.02013484883912042278097942"/>
-  <node visible="true" id="-4" lat="29.88475363235491855107284209" lon="-90.02012933699289476408011978"/>
+  <node visible="true" id="-1" lat="29.88465809688077357009206025" lon="-90.02005817932484887933242135"/>
+  <node visible="true" id="-2" lat="29.88466160218350964328237751" lon="-90.02013489558119374578382121"/>
+  <node visible="true" id="-3" lat="29.88475374991698174653720343" lon="-90.02012929472310531764378538"/>
+  <node visible="true" id="-4" lat="29.88475024461748219550827343" lon="-90.02005257846674624033767032"/>
   <way visible="true" id="-1">
     <nd ref="-1"/>
     <nd ref="-2"/>
@@ -14,6 +14,7 @@
     <nd ref="-4"/>
     <nd ref="-1"/>
     <tag k="building" v="yes"/>
+    <tag k="building:levels" v="1"/>
     <tag k="addr:street" v="Behrman Highway"/>
     <tag k="addr:city" v="Terrytown"/>
     <tag k="addr:postcode" v="70056"/>
@@ -23,4 +24,27 @@
     <tag k="addr:city" v="Terrytown"/>
     <tag k="addr:postcode" v="70056"/>
   </node>
+  <way id="818915255" version="1" action="modify">
+    <tag k="addr:city" v="Terrytown"/>
+    <tag k="addr:housenumber" v="1130"/>
+    <tag k="addr:postcode" v="70056"/>
+    <tag k="addr:state" v="LA"/>
+    <tag k="addr:street" v="Behrman Highway"/>
+    <tag k="building" v="retail"/>
+    <tag k="name" v="Rouses Market"/>
+    <tag k="shop" v="supermarket"/>
+    <nd ref="7647644213"/>
+    <nd ref="7647644214"/>
+    <nd ref="7647644215"/>
+    <nd ref="7647644216"/>
+    <nd ref="7647644217"/>
+    <nd ref="7647644218"/>
+    <nd ref="7647644219"/>
+    <nd ref="7647644220"/>
+    <nd ref="7647644221"/>
+    <nd ref="7647644222"/>
+    <nd ref="7647644223"/>
+    <nd ref="7647644224"/>
+    <nd ref="7647644213"/>
+  </way>
 </osm>

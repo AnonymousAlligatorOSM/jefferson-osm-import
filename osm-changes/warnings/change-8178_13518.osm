@@ -3,24 +3,20 @@
   <changeset_tag k="comment" v="Import buildings and addresses in Jefferson Parish, see https://wiki.openstreetmap.org/wiki/Import/Catalogue/Jefferson_Parish_Addresses_and_Buildings"/>
   <changeset_tag k="source" v="Jefferson Parish Planning Department"/>
   <changeset_tag k="source_file" v="8178_13518"/>
-  <node visible="true" id="-1" lat="30.00757609178237927949339792" lon="-90.14391709862063351010874612">
-    <tag k="addr:street" v="Helios Avenue"/>
-    <tag k="addr:city" v="Metairie"/>
-    <tag k="addr:postcode" v="70005"/>
-  </node>
-  <node visible="true" id="-2" lat="30.01140460768320394890906755" lon="-90.15372865606953212136431830"/>
-  <node visible="true" id="-3" lat="30.01140167998579499908373691" lon="-90.15359744967207689114729874"/>
-  <node visible="true" id="-4" lat="30.01142392530622515778304660" lon="-90.15359718650752540725079598"/>
-  <node visible="true" id="-5" lat="30.01142273842929597549300524" lon="-90.15346473622300038641697029"/>
-  <node visible="true" id="-6" lat="30.01139644801338590696104802" lon="-90.15346504727638432541425573"/>
-  <node visible="true" id="-7" lat="30.01139243245714993690853589" lon="-90.15334667837554150082723936"/>
-  <node visible="true" id="-8" lat="30.01093625061810499232706206" lon="-90.15336356861600108913989970"/>
-  <node visible="true" id="-9" lat="30.01094086875190214414033107" lon="-90.15353015330852315400989028"/>
-  <node visible="true" id="-10" lat="30.01092899327363028305626358" lon="-90.15353029380403881987149362"/>
-  <node visible="true" id="-11" lat="30.01092945019388835703466611" lon="-90.15358128492600542358559323"/>
-  <node visible="true" id="-12" lat="30.01094256313412245162908221" lon="-90.15357969298302975857950514"/>
-  <node visible="true" id="-13" lat="30.01094716812291451901728578" lon="-90.15374484103419661096268101"/>
+  <node visible="true" id="-1" lat="30.01140148157112719218275743" lon="-90.15359770212901935337868053"/>
+  <node visible="true" id="-2" lat="30.01142500918653865937812952" lon="-90.15359690401335512888181256"/>
+  <node visible="true" id="-3" lat="30.01142164092403064046266081" lon="-90.15346448306144111484172754"/>
+  <node visible="true" id="-4" lat="30.01139595346619159954570932" lon="-90.15346535444433584416401573"/>
+  <node visible="true" id="-5" lat="30.01139295237083359779717284" lon="-90.15334736846290297762607224"/>
+  <node visible="true" id="-6" lat="30.01093642289805174527828058" lon="-90.15336285504773172760906164"/>
+  <node visible="true" id="-7" lat="30.01094067515194296902336646" lon="-90.15353002870163834359118482"/>
+  <node visible="true" id="-8" lat="30.01092857692080428932968061" lon="-90.15353043910197072818846209"/>
+  <node visible="true" id="-9" lat="30.01092985530397783122680266" lon="-90.15358069762308446115639526"/>
+  <node visible="true" id="-10" lat="30.01094277966541312707704492" lon="-90.15358025919844919826573459"/>
+  <node visible="true" id="-11" lat="30.01094695768573217264929553" lon="-90.15374451441988412625505589"/>
+  <node visible="true" id="-12" lat="30.01140482082460181345595629" lon="-90.15372898259209932803059928"/>
   <way visible="true" id="-1">
+    <nd ref="-1"/>
     <nd ref="-2"/>
     <nd ref="-3"/>
     <nd ref="-4"/>
@@ -32,22 +28,27 @@
     <nd ref="-10"/>
     <nd ref="-11"/>
     <nd ref="-12"/>
-    <nd ref="-13"/>
-    <nd ref="-2"/>
+    <nd ref="-1"/>
     <tag k="building" v="yes"/>
+    <tag k="building:levels" v="2"/>
     <tag k="addr:housenumber" v="3421"/>
     <tag k="addr:street" v="North Causeway Boulevard East"/>
     <tag k="addr:city" v="Metairie"/>
     <tag k="addr:postcode" v="70002"/>
   </way>
-  <node visible="true" id="-14" lat="30.00726953175576738885865780" lon="-90.14500941335131756204646081"/>
-  <node visible="true" id="-15" lat="30.00727600355180513247432827" lon="-90.14517237766727930647903122"/>
-  <node visible="true" id="-16" lat="30.00728412892499363806564361" lon="-90.14517228086079114746098639"/>
-  <node visible="true" id="-17" lat="30.00728766288100501924418495" lon="-90.14525605716134748490730999"/>
-  <node visible="true" id="-18" lat="30.00734051274528724206902552" lon="-90.14525205125680429318890674"/>
-  <node visible="true" id="-19" lat="30.00733786953856352397451701" lon="-90.14517020382621126373123843"/>
-  <node visible="true" id="-20" lat="30.00734412031132336551308981" lon="-90.14517012935370132709067548"/>
-  <node visible="true" id="-21" lat="30.00733826072250209904268559" lon="-90.14500572190505067737831268"/>
+  <node visible="true" id="-13" lat="30.00757609178237927949339792" lon="-90.14391709862063351010874612">
+    <tag k="addr:street" v="Helios Avenue"/>
+    <tag k="addr:city" v="Metairie"/>
+    <tag k="addr:postcode" v="70005"/>
+  </node>
+  <node visible="true" id="-14" lat="30.00727594848148882533678261" lon="-90.14517254318798222811892629"/>
+  <node visible="true" id="-15" lat="30.00728425742911653628652857" lon="-90.14517211152505637983267661"/>
+  <node visible="true" id="-16" lat="30.00728750355370877400673635" lon="-90.14525543530375273348909104"/>
+  <node visible="true" id="-17" lat="30.00734080939423620293382555" lon="-90.14525266598032260390027659"/>
+  <node visible="true" id="-18" lat="30.00733760225404012089711614" lon="-90.14517034284467911220417591"/>
+  <node visible="true" id="-19" lat="30.00734438758871647223713808" lon="-90.14516999033561717169504846"/>
+  <node visible="true" id="-20" lat="30.00733799092943243636000261" lon="-90.14500579635483745732926764"/>
+  <node visible="true" id="-21" lat="30.00726959080047251404721464" lon="-90.14500934985024116485874401"/>
   <way visible="true" id="-2">
     <nd ref="-14"/>
     <nd ref="-15"/>
@@ -63,10 +64,10 @@
     <tag k="addr:city" v="Metairie"/>
     <tag k="addr:postcode" v="70005"/>
   </way>
-  <node visible="true" id="-22" lat="30.00628746673681845891223929" lon="-90.14300450738772951808641665"/>
-  <node visible="true" id="-23" lat="30.00636674145653515211051854" lon="-90.14299849835467171033087652"/>
-  <node visible="true" id="-24" lat="30.00636111380074666499240266" lon="-90.14286353387890926569525618"/>
-  <node visible="true" id="-25" lat="30.00628035518141700777050573" lon="-90.14286787312323667720193043"/>
+  <node visible="true" id="-22" lat="30.00636715831250000974250725" lon="-90.14299896326888017483724980"/>
+  <node visible="true" id="-23" lat="30.00636070172087954688322498" lon="-90.14286316941421262072253739"/>
+  <node visible="true" id="-24" lat="30.00628068027262784767117410" lon="-90.14286824310339341081999009"/>
+  <node visible="true" id="-25" lat="30.00628713686946369421093550" lon="-90.14300403695807517578941770"/>
   <way visible="true" id="-3">
     <nd ref="-22"/>
     <nd ref="-23"/>
@@ -83,10 +84,26 @@
     <tag k="addr:city" v="Metairie"/>
     <tag k="addr:postcode" v="70002"/>
   </node>
-  <way id="1035463803" version="1">
-    <tag k="addr:housenumber" v="835"/>
-    <tag k="addr:street" v="Melody Drive"/>
+  <way id="1035463803" version="1" action="modify">
     <tag k="addr:city" v="Metairie"/>
+    <tag k="addr:housenumber" v="835"/>
     <tag k="addr:postcode" v="70002"/>
+    <tag k="addr:state" v="LA"/>
+    <tag k="addr:street" v="Melody Drive"/>
+    <tag k="amenity" v="place_of_worship"/>
+    <tag k="building" v="yes"/>
+    <tag k="denomination" v="roman_catholic"/>
+    <tag k="diocese" v="New Orleans"/>
+    <tag k="fax" v="+1 504-834-9709"/>
+    <tag k="name" v="Saint Angela Merici Catholic Church"/>
+    <tag k="phone" v="+1 504-835-0324"/>
+    <tag k="religion" v="christian"/>
+    <tag k="website" v="https://stangela.org/"/>
+    <nd ref="9538550904"/>
+    <nd ref="9538550901"/>
+    <nd ref="9538550891"/>
+    <nd ref="9538550902"/>
+    <nd ref="9538550903"/>
+    <nd ref="9538550904"/>
   </way>
 </osm>

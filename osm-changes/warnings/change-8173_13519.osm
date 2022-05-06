@@ -7,7 +7,7 @@
     <tag k="addr:street" v="Elizabeth Street"/>
     <tag k="addr:city" v="Metairie"/>
     <tag k="addr:postcode" v="70003"/>
-    <tag k="addr:unit" v="Swr Lift"/>
+    <tag k="addr:unit" v="SWR LIFT"/>
   </node>
   <node visible="true" id="-2" lat="29.99462834671079392023784749" lon="-90.19797795963117437167966273">
     <tag k="addr:housenumber" v="5510"/>
@@ -21,12 +21,18 @@
     <tag k="addr:city" v="Metairie"/>
     <tag k="addr:postcode" v="70003"/>
   </node>
-  <way id="819659926" version="1">
+  <way id="819659926" version="1" action="modify">
+    <tag k="building" v="yes"/>
     <tag k="addr:housenumber" v="2900"/>
     <tag k="addr:street" v="Bryant Street"/>
     <tag k="addr:city" v="Metairie"/>
     <tag k="addr:postcode" v="70003"/>
     <tag k="addr:unit" v="A, B"/>
+    <nd ref="7654173715"/>
+    <nd ref="7654173716"/>
+    <nd ref="7654173717"/>
+    <nd ref="7654173718"/>
+    <nd ref="7654173715"/>
   </way>
   <node visible="true" id="-4" lat="30.00227570578215718910541909" lon="-90.20832029621462311297364067">
     <tag k="addr:housenumber" v="2808"/>
@@ -40,29 +46,53 @@
     <tag k="addr:city" v="Metairie"/>
     <tag k="addr:postcode" v="70003"/>
   </node>
-  <way id="819659940" version="1">
+  <way id="819659940" version="1" action="modify">
+    <tag k="building" v="yes"/>
     <tag k="addr:housenumber" v="2813"/>
     <tag k="addr:street" v="Bryant Street"/>
     <tag k="addr:city" v="Metairie"/>
     <tag k="addr:postcode" v="70003"/>
+    <nd ref="7654173819"/>
+    <nd ref="7654173820"/>
+    <nd ref="7654173821"/>
+    <nd ref="7654173822"/>
+    <nd ref="7654173819"/>
   </way>
-  <way id="819659941" version="1">
+  <way id="819659941" version="1" action="modify">
+    <tag k="building" v="yes"/>
     <tag k="addr:housenumber" v="2809"/>
     <tag k="addr:street" v="Bryant Street"/>
     <tag k="addr:city" v="Metairie"/>
     <tag k="addr:postcode" v="70003"/>
+    <nd ref="7654173823"/>
+    <nd ref="7654173824"/>
+    <nd ref="7654173825"/>
+    <nd ref="7654173826"/>
+    <nd ref="7654173823"/>
   </way>
-  <way id="819659942" version="1">
+  <way id="819659942" version="1" action="modify">
+    <tag k="building" v="yes"/>
     <tag k="addr:housenumber" v="2812"/>
     <tag k="addr:street" v="Tugie Street"/>
     <tag k="addr:city" v="Metairie"/>
     <tag k="addr:postcode" v="70003"/>
+    <nd ref="7654173827"/>
+    <nd ref="7654173828"/>
+    <nd ref="7654173829"/>
+    <nd ref="7654173830"/>
+    <nd ref="7654173827"/>
   </way>
-  <way id="819659943" version="1">
+  <way id="819659943" version="1" action="modify">
+    <tag k="building" v="yes"/>
     <tag k="addr:housenumber" v="2818"/>
     <tag k="addr:street" v="Tugie Street"/>
     <tag k="addr:city" v="Metairie"/>
     <tag k="addr:postcode" v="70003"/>
+    <nd ref="7654173839"/>
+    <nd ref="7654173840"/>
+    <nd ref="7654173841"/>
+    <nd ref="7654173842"/>
+    <nd ref="7654173839"/>
   </way>
   <node visible="true" id="-6" lat="30.00250768936155054689152166" lon="-90.20747094177862379638099810">
     <tag k="addr:housenumber" v="2904"/>
@@ -172,11 +202,25 @@
     <tag k="addr:city" v="Metairie"/>
     <tag k="addr:postcode" v="70003"/>
   </node>
-  <way id="830859502" version="1">
+  <way id="830859502" version="1" action="modify">
+    <tag k="building" v="yes"/>
     <tag k="addr:housenumber" v="2903"/>
     <tag k="addr:street" v="Bryant Street"/>
     <tag k="addr:city" v="Metairie"/>
     <tag k="addr:postcode" v="70003"/>
+    <nd ref="7757576147"/>
+    <nd ref="7757576148"/>
+    <nd ref="7757576149"/>
+    <nd ref="7757576150"/>
+    <nd ref="7757576151"/>
+    <nd ref="7757576152"/>
+    <nd ref="7757576153"/>
+    <nd ref="7757576154"/>
+    <nd ref="7757576155"/>
+    <nd ref="7757576156"/>
+    <nd ref="7757576157"/>
+    <nd ref="7757576158"/>
+    <nd ref="7757576147"/>
   </way>
   <node visible="true" id="-24" lat="30.00205853961125157525202667" lon="-90.20704316634285646614443976">
     <tag k="addr:housenumber" v="2819"/>
@@ -190,10 +234,24 @@
     <tag k="addr:city" v="Metairie"/>
     <tag k="addr:postcode" v="70003"/>
   </node>
-  <way id="830859506" version="1">
+  <way id="830859506" version="1" action="modify">
+    <tag k="building" v="yes"/>
     <tag k="addr:housenumber" v="2823"/>
     <tag k="addr:street" v="Tugie Street"/>
     <tag k="addr:city" v="Metairie"/>
     <tag k="addr:postcode" v="70003"/>
+    <nd ref="7757583989"/>
+    <nd ref="7757583990"/>
+    <nd ref="7757583991"/>
+    <nd ref="7757583992"/>
+    <nd ref="7757583993"/>
+    <nd ref="7757583994"/>
+    <nd ref="7757583995"/>
+    <nd ref="7757583996"/>
+    <nd ref="7757583997"/>
+    <nd ref="7757583998"/>
+    <nd ref="7757583999"/>
+    <nd ref="7757584000"/>
+    <nd ref="7757583989"/>
   </way>
 </osm>

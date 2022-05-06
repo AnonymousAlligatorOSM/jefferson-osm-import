@@ -3,10 +3,10 @@
   <changeset_tag k="comment" v="Import buildings and addresses in Jefferson Parish, see https://wiki.openstreetmap.org/wiki/Import/Catalogue/Jefferson_Parish_Addresses_and_Buildings"/>
   <changeset_tag k="source" v="Jefferson Parish Planning Department"/>
   <changeset_tag k="source_file" v="8175_13523"/>
-  <node visible="true" id="-1" lat="29.96280535904044484141195426" lon="-90.18014452802070479719986906"/>
-  <node visible="true" id="-2" lat="29.96260606961197936470853165" lon="-90.18008724407552278989896877"/>
-  <node visible="true" id="-3" lat="29.96258862887596663426847954" lon="-90.18016569939698001689976081"/>
-  <node visible="true" id="-4" lat="29.96278853086161220176109055" lon="-90.18022154029159764832002111"/>
+  <node visible="true" id="-1" lat="29.96260575734272180170592037" lon="-90.18008730014874174685246544"/>
+  <node visible="true" id="-2" lat="29.96258904597464578500876087" lon="-90.18016515494555562781897606"/>
+  <node visible="true" id="-3" lat="29.96278853686915510934341000" lon="-90.18022220574366087930684444"/>
+  <node visible="true" id="-4" lat="29.96280524820371482519476558" lon="-90.18014435094686120919504901"/>
   <way visible="true" id="-1">
     <nd ref="-1"/>
     <nd ref="-2"/>
@@ -14,14 +14,15 @@
     <nd ref="-4"/>
     <nd ref="-1"/>
     <tag k="building" v="yes"/>
+    <tag k="building:levels" v="1"/>
     <tag k="addr:street" v="Hill Street"/>
     <tag k="addr:city" v="Jefferson"/>
     <tag k="addr:postcode" v="70121"/>
   </way>
-  <node visible="true" id="-5" lat="29.95743977189149376272325753" lon="-90.17980329342303491557686357"/>
-  <node visible="true" id="-6" lat="29.95732531249294794406523579" lon="-90.17987900369283238433126826"/>
-  <node visible="true" id="-7" lat="29.95742415583802298328919278" lon="-90.18008991008187535953766201"/>
-  <node visible="true" id="-8" lat="29.95754344860155526930611813" lon="-90.18000669244365496979298769"/>
+  <node visible="true" id="-5" lat="29.95732306226561902917637781" lon="-90.17988055502740962765528820"/>
+  <node visible="true" id="-6" lat="29.95742564614321779004058044" lon="-90.18008683069962216904968955"/>
+  <node visible="true" id="-7" lat="29.95754328208458261428859259" lon="-90.18000889479328918696410256"/>
+  <node visible="true" id="-8" lat="29.95744069832835521083325148" lon="-90.17980261912109085642441642"/>
   <way visible="true" id="-2">
     <nd ref="-5"/>
     <nd ref="-6"/>
@@ -43,12 +44,20 @@
     <tag k="addr:city" v="Jefferson"/>
     <tag k="addr:postcode" v="70121"/>
   </node>
-  <way id="484580197" version="1">
-    <tag k="addr:housenumber" v="800"/>
-    <tag k="addr:street" v="West Commerce Road"/>
+  <way id="484580197" version="1" action="modify">
     <tag k="addr:city" v="Jefferson"/>
+    <tag k="addr:housenumber" v="800"/>
     <tag k="addr:postcode" v="70123"/>
+    <tag k="addr:state" v="LA"/>
+    <tag k="addr:street" v="West Commerce Road"/>
+    <tag k="building" v="yes"/>
+    <tag k="name" v="Tulane University Elmwood Campus"/>
     <tag k="addr:unit" v="300"/>
+    <nd ref="4773289088"/>
+    <nd ref="4773289089"/>
+    <nd ref="4773289090"/>
+    <nd ref="4773289091"/>
+    <nd ref="4773289088"/>
   </way>
   <node visible="true" id="-11" lat="29.95686321961795783863635734" lon="-90.18605030798011057413532399">
     <tag k="addr:housenumber" v="990"/>

@@ -3,10 +3,10 @@
   <changeset_tag k="comment" v="Import buildings and addresses in Jefferson Parish, see https://wiki.openstreetmap.org/wiki/Import/Catalogue/Jefferson_Parish_Addresses_and_Buildings"/>
   <changeset_tag k="source" v="Jefferson Parish Planning Department"/>
   <changeset_tag k="source_file" v="8184_13528"/>
-  <node visible="true" id="-1" lat="29.90804030429199400487050298" lon="-90.08008674545015992407570593"/>
-  <node visible="true" id="-2" lat="29.90806922604510731389382272" lon="-90.07997301199084461131860735"/>
-  <node visible="true" id="-3" lat="29.90799773837839836687635398" lon="-90.07994951389596849367080722"/>
-  <node visible="true" id="-4" lat="29.90796881574321730568044586" lon="-90.08006324729193181610753527"/>
+  <node visible="true" id="-1" lat="29.90806901816315388487055316" lon="-90.07997314418916801059822319"/>
+  <node visible="true" id="-2" lat="29.90799762358335200929104758" lon="-90.07994927381236038854694925"/>
+  <node visible="true" id="-3" lat="29.90796902405602253338656737" lon="-90.08006311512525599027867429"/>
+  <node visible="true" id="-4" lat="29.90804041865630580332435784" lon="-90.08008698550204940147523303"/>
   <way visible="true" id="-1">
     <nd ref="-1"/>
     <nd ref="-2"/>
@@ -14,6 +14,7 @@
     <nd ref="-4"/>
     <nd ref="-1"/>
     <tag k="building" v="yes"/>
+    <tag k="building:levels" v="1"/>
     <tag k="addr:housenumber" v="405"/>
     <tag k="addr:street" v="Saint Joseph Lane"/>
     <tag k="addr:city" v="Harvey"/>
@@ -70,6 +71,7 @@
     <nd ref="-28"/>
     <nd ref="-5"/>
     <tag k="building" v="yes"/>
+    <tag k="building:levels" v="1"/>
     <tag k="addr:street" v="Pailet Avenue"/>
     <tag k="addr:city" v="Harvey"/>
     <tag k="addr:postcode" v="70058"/>
@@ -86,10 +88,10 @@
     <tag k="addr:city" v="Harvey"/>
     <tag k="addr:postcode" v="70058"/>
   </node>
-  <node visible="true" id="-31" lat="29.90759744131993613791564712" lon="-90.07993503434344972902181325"/>
-  <node visible="true" id="-32" lat="29.90763175017019293022713100" lon="-90.07979612047877537861495512"/>
-  <node visible="true" id="-33" lat="29.90755963638365244605665794" lon="-90.07977262943981600074039306"/>
-  <node visible="true" id="-34" lat="29.90752470329758239131479058" lon="-90.07991155208590328129503177"/>
+  <node visible="true" id="-31" lat="29.90925623906158037357272406" lon="-90.08319357459006937460799236"/>
+  <node visible="true" id="-32" lat="29.90905293708365420002337487" lon="-90.08310621956269415022688918"/>
+  <node visible="true" id="-33" lat="29.90901546267738453366291651" lon="-90.08322229304262407367787091"/>
+  <node visible="true" id="-34" lat="29.90921876473176865829373128" lon="-90.08330964806997087634954369"/>
   <way visible="true" id="-3">
     <nd ref="-31"/>
     <nd ref="-32"/>
@@ -97,15 +99,15 @@
     <nd ref="-34"/>
     <nd ref="-31"/>
     <tag k="building" v="yes"/>
-    <tag k="addr:housenumber" v="417"/>
-    <tag k="addr:street" v="Saint Joseph Lane"/>
+    <tag k="building:levels" v="1"/>
+    <tag k="addr:street" v="Destrehan Avenue"/>
     <tag k="addr:city" v="Harvey"/>
     <tag k="addr:postcode" v="70058"/>
   </way>
-  <node visible="true" id="-35" lat="29.90921870784065461634781968" lon="-90.08330950442523032961616991"/>
-  <node visible="true" id="-36" lat="29.90925636343550664264512307" lon="-90.08319350921266277509857900"/>
-  <node visible="true" id="-37" lat="29.90905299389359583983605262" lon="-90.08310636279144034688215470"/>
-  <node visible="true" id="-38" lat="29.90901533838445658375349012" lon="-90.08322235883603923412010772"/>
+  <node visible="true" id="-35" lat="29.90763173409662556423427304" lon="-90.07979622874766789664136013"/>
+  <node visible="true" id="-36" lat="29.90755938457727935997354507" lon="-90.07977243306552850299340207"/>
+  <node visible="true" id="-37" lat="29.90752503147664498328595073" lon="-90.07991143942632561447680928"/>
+  <node visible="true" id="-38" lat="29.90759738102097387013600382" lon="-90.07993523510846500812476734"/>
   <way visible="true" id="-4">
     <nd ref="-35"/>
     <nd ref="-36"/>
@@ -113,14 +115,16 @@
     <nd ref="-38"/>
     <nd ref="-35"/>
     <tag k="building" v="yes"/>
-    <tag k="addr:street" v="Destrehan Avenue"/>
+    <tag k="building:levels" v="1"/>
+    <tag k="addr:housenumber" v="417"/>
+    <tag k="addr:street" v="Saint Joseph Lane"/>
     <tag k="addr:city" v="Harvey"/>
     <tag k="addr:postcode" v="70058"/>
   </way>
-  <node visible="true" id="-39" lat="29.90775700438325301888653485" lon="-90.07999009652456834373879246"/>
-  <node visible="true" id="-40" lat="29.90778466977240768187584763" lon="-90.07987566146452707016578643"/>
-  <node visible="true" id="-41" lat="29.90771255601132239121398015" lon="-90.07985217136756261879781960"/>
-  <node visible="true" id="-42" lat="29.90768489064234358920657542" lon="-90.07996660635147634366148850"/>
+  <node visible="true" id="-39" lat="29.90778475555263327123611816" lon="-90.07987560585560515846736962"/>
+  <node visible="true" id="-40" lat="29.90771260424136102074044175" lon="-90.07985227031876718228886602"/>
+  <node visible="true" id="-41" lat="29.90768480484193148072336044" lon="-90.07996666199846913514193147"/>
+  <node visible="true" id="-42" lat="29.90775695617334761777783569" lon="-90.07998999753529290046571987"/>
   <way visible="true" id="-5">
     <nd ref="-39"/>
     <nd ref="-40"/>
@@ -128,15 +132,16 @@
     <nd ref="-42"/>
     <nd ref="-39"/>
     <tag k="building" v="yes"/>
+    <tag k="building:levels" v="1"/>
     <tag k="addr:housenumber" v="413"/>
     <tag k="addr:street" v="Saint Joseph Lane"/>
     <tag k="addr:city" v="Harvey"/>
     <tag k="addr:postcode" v="70058"/>
   </way>
-  <node visible="true" id="-43" lat="29.90959004971757551061273261" lon="-90.08378427869976690089970361"/>
-  <node visible="true" id="-44" lat="29.90964966793291068825055845" lon="-90.08380864615993743882427225"/>
-  <node visible="true" id="-45" lat="29.90968847205916958387206250" lon="-90.08368187308856533945800038"/>
-  <node visible="true" id="-46" lat="29.90962947808106875413614034" lon="-90.08365749684418233300675638"/>
+  <node visible="true" id="-43" lat="29.90964950894820262305984215" lon="-90.08380864123498099615972023"/>
+  <node visible="true" id="-44" lat="29.90968863428514268321123382" lon="-90.08368186751090433972422034"/>
+  <node visible="true" id="-45" lat="29.90962932495878945360345824" lon="-90.08365750616124500993464608"/>
+  <node visible="true" id="-46" lat="29.90959019959856846071488690" lon="-90.08378427988533587722486118"/>
   <way visible="true" id="-6">
     <nd ref="-43"/>
     <nd ref="-44"/>
@@ -144,14 +149,15 @@
     <nd ref="-46"/>
     <nd ref="-43"/>
     <tag k="building" v="yes"/>
+    <tag k="building:levels" v="1"/>
     <tag k="addr:street" v="Destrehan Avenue"/>
     <tag k="addr:city" v="Harvey"/>
     <tag k="addr:postcode" v="70058"/>
   </way>
-  <node visible="true" id="-47" lat="29.90743994381393733306140348" lon="-90.07987707676970501324831275"/>
-  <node visible="true" id="-48" lat="29.90746765013292218782225973" lon="-90.07976694649501325784513028"/>
-  <node visible="true" id="-49" lat="29.90739678668439793796096637" lon="-90.07974343981452136631560279"/>
-  <node visible="true" id="-50" lat="29.90736907354585483176379057" lon="-90.07985285243684359102189774"/>
+  <node visible="true" id="-47" lat="29.90746766894967478833677887" lon="-90.07976711507592426642077044"/>
+  <node visible="true" id="-48" lat="29.90739679437425024843832944" lon="-90.07974328014773846007301472"/>
+  <node visible="true" id="-49" lat="29.90736905812901369472456281" lon="-90.07985304268214576950413175"/>
+  <node visible="true" id="-50" lat="29.90743993272414513739931863" lon="-90.07987687761031736499717226"/>
   <way visible="true" id="-7">
     <nd ref="-47"/>
     <nd ref="-48"/>
@@ -159,15 +165,16 @@
     <nd ref="-50"/>
     <nd ref="-47"/>
     <tag k="building" v="yes"/>
+    <tag k="building:levels" v="1"/>
     <tag k="addr:housenumber" v="421"/>
     <tag k="addr:street" v="Saint Joseph Lane"/>
     <tag k="addr:city" v="Harvey"/>
     <tag k="addr:postcode" v="70058"/>
   </way>
-  <node visible="true" id="-51" lat="29.90791380550863465259681107" lon="-90.08004059549394071382266702"/>
-  <node visible="true" id="-52" lat="29.90794815549156737688463181" lon="-90.07990598569934093120537000"/>
-  <node visible="true" id="-53" lat="29.90787603489847867876960663" lon="-90.07988177795762396726786392"/>
-  <node visible="true" id="-54" lat="29.90784167810196336745320878" lon="-90.08001567007914900386822410"/>
+  <node visible="true" id="-51" lat="29.90794815860560973419524089" lon="-90.07990616422819130093557760"/>
+  <node visible="true" id="-52" lat="29.90787603397229688084735244" lon="-90.07988160017390555367455818"/>
+  <node visible="true" id="-53" lat="29.90784167838227247671056830" lon="-90.08001585038684311257384252"/>
+  <node visible="true" id="-54" lat="29.90791380304049340566052706" lon="-90.08004041444112885983486194"/>
   <way visible="true" id="-8">
     <nd ref="-51"/>
     <nd ref="-52"/>
@@ -175,6 +182,7 @@
     <nd ref="-54"/>
     <nd ref="-51"/>
     <tag k="building" v="yes"/>
+    <tag k="building:levels" v="1"/>
     <tag k="addr:housenumber" v="409"/>
     <tag k="addr:street" v="Saint Joseph Lane"/>
     <tag k="addr:city" v="Harvey"/>

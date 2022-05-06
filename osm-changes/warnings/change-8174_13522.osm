@@ -3,10 +3,10 @@
   <changeset_tag k="comment" v="Import buildings and addresses in Jefferson Parish, see https://wiki.openstreetmap.org/wiki/Import/Catalogue/Jefferson_Parish_Addresses_and_Buildings"/>
   <changeset_tag k="source" v="Jefferson Parish Planning Department"/>
   <changeset_tag k="source_file" v="8174_13522"/>
-  <node visible="true" id="-1" lat="29.96976661732218261136040383" lon="-90.18937902548314866635337239"/>
-  <node visible="true" id="-2" lat="29.96947011639745994671102380" lon="-90.18935657863526955679844832"/>
-  <node visible="true" id="-3" lat="29.96945986939689277051002136" lon="-90.18954408555018176230078097"/>
-  <node visible="true" id="-4" lat="29.96975573797410774545824097" lon="-90.18956582209401062755205203"/>
+  <node visible="true" id="-1" lat="29.96947024820052263294201111" lon="-90.18935672165503092401195318"/>
+  <node visible="true" id="-2" lat="29.96945974123764955265869503" lon="-90.18954387762417468366038520"/>
+  <node visible="true" id="-3" lat="29.96975592236044505511927127" lon="-90.18956603422627438249037368"/>
+  <node visible="true" id="-4" lat="29.96976642929202583331971255" lon="-90.18937887825713062284194166"/>
   <way visible="true" id="-1">
     <nd ref="-1"/>
     <nd ref="-2"/>
@@ -14,14 +14,15 @@
     <nd ref="-4"/>
     <nd ref="-1"/>
     <tag k="building" v="yes"/>
+    <tag k="building:levels" v="1"/>
     <tag k="addr:street" v="Earhart Boulevard"/>
     <tag k="addr:city" v="Jefferson"/>
     <tag k="addr:postcode" v="70123"/>
   </way>
-  <node visible="true" id="-5" lat="29.96971369995479150816208858" lon="-90.18796666523591909481183393"/>
-  <node visible="true" id="-6" lat="29.96960986605295929052772408" lon="-90.18795924209217673706007190"/>
-  <node visible="true" id="-7" lat="29.96960360903582909486431163" lon="-90.18810218928024369233753532"/>
-  <node visible="true" id="-8" lat="29.96970618009533993131299212" lon="-90.18810819188888672215398401"/>
+  <node visible="true" id="-5" lat="29.96961019350121446791490598" lon="-90.18795961238329539355618181"/>
+  <node visible="true" id="-6" lat="29.96960328019262220777818584" lon="-90.18810184769330362541950308"/>
+  <node visible="true" id="-7" lat="29.96970648407213388964009937" lon="-90.18810853186535325676231878"/>
+  <node visible="true" id="-8" lat="29.96971339737324768748294446" lon="-90.18796629655533081404428231"/>
   <way visible="true" id="-2">
     <nd ref="-5"/>
     <nd ref="-6"/>
@@ -29,14 +30,15 @@
     <nd ref="-8"/>
     <nd ref="-5"/>
     <tag k="building" v="yes"/>
+    <tag k="building:levels" v="1"/>
     <tag k="addr:street" v="Earhart Boulevard"/>
     <tag k="addr:city" v="Jefferson"/>
     <tag k="addr:postcode" v="70123"/>
   </way>
-  <node visible="true" id="-9" lat="29.96978196224643653522434761" lon="-90.18697579953590093282400630"/>
-  <node visible="true" id="-10" lat="29.96978945586689135893720959" lon="-90.18683140054326941026374698"/>
-  <node visible="true" id="-11" lat="29.96968562190215124019232462" lon="-90.18682397857540422592137475"/>
-  <node visible="true" id="-12" lat="29.96967813453522921918192878" lon="-90.18696909441813147623179248"/>
+  <node visible="true" id="-9" lat="29.96978943035144027362548513" lon="-90.18683124587862209864397300"/>
+  <node visible="true" id="-10" lat="29.96968560220163269036675047" lon="-90.18682413014121834748948459"/>
+  <node visible="true" id="-11" lat="29.96967815692004322158936702" lon="-90.18696889065770960769441444"/>
+  <node visible="true" id="-12" lat="29.96978198507718360588114592" lon="-90.18697600639509914799418766"/>
   <way visible="true" id="-3">
     <nd ref="-9"/>
     <nd ref="-10"/>
@@ -44,6 +46,7 @@
     <nd ref="-12"/>
     <nd ref="-9"/>
     <tag k="building" v="yes"/>
+    <tag k="building:levels" v="1"/>
     <tag k="addr:street" v="Earhart Boulevard"/>
     <tag k="addr:city" v="Metairie"/>
     <tag k="addr:postcode" v="70001"/>
@@ -83,4 +86,56 @@
     <tag k="addr:city" v="Jefferson"/>
     <tag k="addr:postcode" v="70123"/>
   </node>
+  <way id="891395369" version="1" action="modify">
+    <tag k="addr:city" v="Jefferson"/>
+    <tag k="addr:housenumber" v="5151"/>
+    <tag k="addr:postcode" v="70123"/>
+    <tag k="addr:state" v="LA"/>
+    <tag k="addr:street" v="Citrus Boulevard"/>
+    <tag k="addr:unit" v="C"/>
+    <tag k="alt_name" v="Ashley Furniture"/>
+    <tag k="brand" v="Ashley HomeStore"/>
+    <tag k="brand:wikidata" v="Q4805437"/>
+    <tag k="brand:wikipedia" v="en:Ashley HomeStore"/>
+    <tag k="building" v="yes"/>
+    <tag k="name" v="Ashley HomeStore"/>
+    <tag k="shop" v="furniture"/>
+    <nd ref="8285396671"/>
+    <nd ref="8285396677"/>
+    <nd ref="8285396678"/>
+    <nd ref="8285396679"/>
+    <nd ref="8285396680"/>
+    <nd ref="8285396681"/>
+    <nd ref="8285396682"/>
+    <nd ref="8285396676"/>
+    <nd ref="8285396671"/>
+  </way>
+  <way id="891395370" version="1" action="modify">
+    <tag k="addr:city" v="Jefferson"/>
+    <tag k="addr:housenumber" v="5151"/>
+    <tag k="addr:postcode" v="70123"/>
+    <tag k="addr:state" v="LA"/>
+    <tag k="addr:street" v="Citrus Boulevard"/>
+    <tag k="addr:unit" v="B"/>
+    <tag k="brand" v="Hobby Lobby"/>
+    <tag k="brand:wikidata" v="Q5874938"/>
+    <tag k="brand:wikipedia" v="en:Hobby Lobby"/>
+    <tag k="building" v="yes"/>
+    <tag k="name" v="Hobby Lobby"/>
+    <tag k="shop" v="craft"/>
+    <nd ref="8285396683"/>
+    <nd ref="8285396684"/>
+    <nd ref="8285396685"/>
+    <nd ref="8285396686"/>
+    <nd ref="8285396687"/>
+    <nd ref="8285396688"/>
+    <nd ref="8285396681"/>
+    <nd ref="8285396682"/>
+    <nd ref="8285396689"/>
+    <nd ref="8285396690"/>
+    <nd ref="8285396691"/>
+    <nd ref="8285396692"/>
+    <nd ref="8285396693"/>
+    <nd ref="8285396683"/>
+  </way>
 </osm>

@@ -3,10 +3,16 @@
   <changeset_tag k="comment" v="Import buildings and addresses in Jefferson Parish, see https://wiki.openstreetmap.org/wiki/Import/Catalogue/Jefferson_Parish_Addresses_and_Buildings"/>
   <changeset_tag k="source" v="Jefferson Parish Planning Department"/>
   <changeset_tag k="source_file" v="8175_13525"/>
-  <way id="737431057" version="1">
+  <way id="737431057" version="1" action="modify">
     <tag k="addr:housenumber" v="5743"/>
     <tag k="addr:street" v="Jefferson Highway"/>
+    <tag k="building" v="yes"/>
     <tag k="addr:city" v="Jefferson"/>
     <tag k="addr:postcode" v="70123"/>
+    <nd ref="6904060226"/>
+    <nd ref="6904060227"/>
+    <nd ref="6904060228"/>
+    <nd ref="6904060229"/>
+    <nd ref="6904060226"/>
   </way>
 </osm>

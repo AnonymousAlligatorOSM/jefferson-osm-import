@@ -3,14 +3,14 @@
   <changeset_tag k="comment" v="Import buildings and addresses in Jefferson Parish, see https://wiki.openstreetmap.org/wiki/Import/Catalogue/Jefferson_Parish_Addresses_and_Buildings"/>
   <changeset_tag k="source" v="Jefferson Parish Planning Department"/>
   <changeset_tag k="source_file" v="8181_13553"/>
-  <node visible="true" id="-1" lat="29.67054649506905050770910748" lon="-90.11103581032753595536632929"/>
-  <node visible="true" id="-2" lat="29.67057461949966068459616508" lon="-90.11116932666584489197703078"/>
-  <node visible="true" id="-3" lat="29.67058335697846871426008875" lon="-90.11116778801851978641934693"/>
-  <node visible="true" id="-4" lat="29.67059446337594863507547416" lon="-90.11121919265700341838964960"/>
-  <node visible="true" id="-5" lat="29.67063749316658061161433579" lon="-90.11120792970194770532543771"/>
-  <node visible="true" id="-6" lat="29.67062637343764563979675586" lon="-90.11115509430517533928650664"/>
-  <node visible="true" id="-7" lat="29.67067127121353209417975449" lon="-90.11114309253692056245199637"/>
-  <node visible="true" id="-8" lat="29.67064377194343549604127475" lon="-90.11100956844035181347862817"/>
+  <node visible="true" id="-1" lat="29.67057437972782096835544507" lon="-90.11116981212576604320929619"/>
+  <node visible="true" id="-2" lat="29.67058353077259269525711716" lon="-90.11116732052266797836637124"/>
+  <node visible="true" id="-3" lat="29.67059425187998300543767982" lon="-90.11121947674050147725210991"/>
+  <node visible="true" id="-4" lat="29.67063732643203621819338878" lon="-90.11120774860128790351154748"/>
+  <node visible="true" id="-5" lat="29.67062651776620896271197125" lon="-90.11115516640499834011279745"/>
+  <node visible="true" id="-6" lat="29.67067122471976148290195852" lon="-90.11114299379909198250970803"/>
+  <node visible="true" id="-7" lat="29.67064377298377664260442543" lon="-90.11100944605534834863647120"/>
+  <node visible="true" id="-8" lat="29.67054684040225254193501314" lon="-90.11103583840360897738719359"/>
   <way visible="true" id="-1">
     <nd ref="-1"/>
     <nd ref="-2"/>
@@ -26,14 +26,14 @@
     <tag k="addr:city" v="Barataria"/>
     <tag k="addr:postcode" v="70036"/>
   </way>
-  <node visible="true" id="-9" lat="29.66922340870059571216188488" lon="-90.11171674476565840450348333"/>
-  <node visible="true" id="-10" lat="29.66921847289120961477237870" lon="-90.11168093280747370954486541"/>
-  <node visible="true" id="-11" lat="29.66924123108454836028613499" lon="-90.11167714027538977461517788"/>
-  <node visible="true" id="-12" lat="29.66923835590188929245414329" lon="-90.11165255803626905617420562"/>
-  <node visible="true" id="-13" lat="29.66921508236260507374026929" lon="-90.11165633310349676321493462"/>
-  <node visible="true" id="-14" lat="29.66919958009532010123621149" lon="-90.11154385581936310245509958"/>
-  <node visible="true" id="-15" lat="29.66916959880700233043171465" lon="-90.11155000634794021152629284"/>
-  <node visible="true" id="-16" lat="29.66919468681918203856184846" lon="-90.11172239739947542602749309"/>
+  <node visible="true" id="-9" lat="29.66921846345663738020448363" lon="-90.11168114902932302356930450"/>
+  <node visible="true" id="-10" lat="29.66924147832877878272483940" lon="-90.11167687994161212827748386"/>
+  <node visible="true" id="-11" lat="29.66923804239167594687387464" lon="-90.11165234518949773701024242"/>
+  <node visible="true" id="-12" lat="29.66921524093096707019867608" lon="-90.11165657469084067088260781"/>
+  <node visible="true" id="-13" lat="29.66919949873188855349326332" lon="-90.11154416552416535068914527"/>
+  <node visible="true" id="-14" lat="29.66917001948059606775132124" lon="-90.11154963370367454444931354"/>
+  <node visible="true" id="-15" lat="29.66919420375493743335937324" lon="-90.11172232453456842904415680"/>
+  <node visible="true" id="-16" lat="29.66922346958686418361139658" lon="-90.11171689594141298584872857"/>
   <way visible="true" id="-2">
     <nd ref="-9"/>
     <nd ref="-10"/>
@@ -45,6 +45,7 @@
     <nd ref="-16"/>
     <nd ref="-9"/>
     <tag k="building" v="yes"/>
+    <tag k="building:levels" v="1"/>
     <tag k="addr:street" v="Privateer Boulevard"/>
     <tag k="addr:city" v="Barataria"/>
     <tag k="addr:postcode" v="70036"/>

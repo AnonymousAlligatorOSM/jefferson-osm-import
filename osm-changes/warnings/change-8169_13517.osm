@@ -3,12 +3,12 @@
   <changeset_tag k="comment" v="Import buildings and addresses in Jefferson Parish, see https://wiki.openstreetmap.org/wiki/Import/Catalogue/Jefferson_Parish_Addresses_and_Buildings"/>
   <changeset_tag k="source" v="Jefferson Parish Planning Department"/>
   <changeset_tag k="source_file" v="8169_13517"/>
-  <node visible="true" id="-1" lat="30.01244550832668878115327971" lon="-90.25239370545293127179320436"/>
-  <node visible="true" id="-2" lat="30.01242983480501891335734399" lon="-90.25261654045380055322311819"/>
-  <node visible="true" id="-3" lat="30.01248238066228424258952145" lon="-90.25262099885006250588048715"/>
-  <node visible="true" id="-4" lat="30.01248960998775316966202809" lon="-90.25251174260201025845162803"/>
-  <node visible="true" id="-5" lat="30.01252902402911360013604281" lon="-90.25251562485914291755761951"/>
-  <node visible="true" id="-6" lat="30.01253747413358397011506895" lon="-90.25240276429352093146007974"/>
+  <node visible="true" id="-1" lat="30.01242982119069679924905358" lon="-90.25261629405646601753687719"/>
+  <node visible="true" id="-2" lat="30.01248212215853072848403826" lon="-90.25262121962002481723175151"/>
+  <node visible="true" id="-3" lat="30.01248984532211849796112801" lon="-90.25251184993886965912679443"/>
+  <node visible="true" id="-4" lat="30.01252926863453751593624474" lon="-90.25251556272171171713125659"/>
+  <node visible="true" id="-5" lat="30.01253724945370748855566490" lon="-90.25240254426036301538260886"/>
+  <node visible="true" id="-6" lat="30.01244552518477703983990068" lon="-90.25239390591397636853798758"/>
   <way visible="true" id="-1">
     <nd ref="-1"/>
     <nd ref="-2"/>
@@ -29,100 +29,252 @@
     <tag k="addr:city" v="Kenner"/>
     <tag k="addr:postcode" v="70065"/>
   </node>
-  <way id="934422956" version="1">
+  <way id="934422956" version="1" action="modify">
+    <tag k="building" v="yes"/>
     <tag k="addr:housenumber" v="3134"/>
     <tag k="addr:street" v="Virginia Avenue"/>
     <tag k="addr:city" v="Kenner"/>
     <tag k="addr:postcode" v="70065"/>
+    <nd ref="8660116154"/>
+    <nd ref="8660116155"/>
+    <nd ref="8660116156"/>
+    <nd ref="8660116157"/>
+    <nd ref="8660116158"/>
+    <nd ref="8660116159"/>
+    <nd ref="8660116160"/>
+    <nd ref="8660116161"/>
+    <nd ref="8660116154"/>
   </way>
-  <way id="934422963" version="1">
+  <way id="934422963" version="1" action="modify">
+    <tag k="building" v="yes"/>
     <tag k="addr:housenumber" v="3133"/>
     <tag k="addr:street" v="Virginia Avenue"/>
     <tag k="addr:city" v="Kenner"/>
     <tag k="addr:postcode" v="70065"/>
+    <nd ref="8660116208"/>
+    <nd ref="8660116209"/>
+    <nd ref="8660116210"/>
+    <nd ref="8660116211"/>
+    <nd ref="8660116208"/>
   </way>
-  <way id="934430815" version="1">
+  <way id="934430815" version="1" action="modify">
+    <tag k="building" v="yes"/>
     <tag k="addr:housenumber" v="3120"/>
     <tag k="addr:street" v="Lexington Avenue"/>
     <tag k="addr:city" v="Kenner"/>
     <tag k="addr:postcode" v="70065"/>
+    <nd ref="8660168976"/>
+    <nd ref="8660168977"/>
+    <nd ref="8660168978"/>
+    <nd ref="8660168979"/>
+    <nd ref="8660168980"/>
+    <nd ref="8660168981"/>
+    <nd ref="8660168976"/>
   </way>
-  <way id="934430816" version="1">
+  <way id="934430816" version="1" action="modify">
+    <tag k="building" v="yes"/>
     <tag k="addr:housenumber" v="3124"/>
     <tag k="addr:street" v="Lexington Avenue"/>
     <tag k="addr:city" v="Kenner"/>
     <tag k="addr:postcode" v="70065"/>
+    <nd ref="8660168982"/>
+    <nd ref="8660168983"/>
+    <nd ref="8660168984"/>
+    <nd ref="8660168985"/>
+    <nd ref="8660168986"/>
+    <nd ref="8660168987"/>
+    <nd ref="8660168988"/>
+    <nd ref="8660168989"/>
+    <nd ref="8660168990"/>
+    <nd ref="8660168991"/>
+    <nd ref="8660168992"/>
+    <nd ref="8660168993"/>
+    <nd ref="8660168994"/>
+    <nd ref="8660168995"/>
+    <nd ref="8660168982"/>
   </way>
-  <way id="934430822" version="1">
+  <way id="934430822" version="1" action="modify">
+    <tag k="building" v="yes"/>
     <tag k="addr:housenumber" v="3132"/>
     <tag k="addr:street" v="Lexington Avenue"/>
     <tag k="addr:city" v="Kenner"/>
     <tag k="addr:postcode" v="70065"/>
+    <nd ref="8660169020"/>
+    <nd ref="8660169021"/>
+    <nd ref="8660169022"/>
+    <nd ref="8660169023"/>
+    <nd ref="8660169024"/>
+    <nd ref="8660169025"/>
+    <nd ref="8660169026"/>
+    <nd ref="8660169027"/>
+    <nd ref="8660169028"/>
+    <nd ref="8660169029"/>
+    <nd ref="8660169020"/>
   </way>
-  <way id="934430874" version="1">
+  <way id="934430874" version="1" action="modify">
+    <tag k="building" v="yes"/>
     <tag k="addr:housenumber" v="3123"/>
     <tag k="addr:street" v="Lexington Avenue"/>
     <tag k="addr:city" v="Kenner"/>
     <tag k="addr:postcode" v="70065"/>
+    <nd ref="8660169297"/>
+    <nd ref="8660169298"/>
+    <nd ref="8660169299"/>
+    <nd ref="8660169300"/>
+    <nd ref="8660169301"/>
+    <nd ref="8660169302"/>
+    <nd ref="8660169297"/>
   </way>
-  <way id="934430875" version="1">
+  <way id="934430875" version="1" action="modify">
+    <tag k="building" v="yes"/>
     <tag k="addr:housenumber" v="3120"/>
     <tag k="addr:street" v="Marietta Avenue"/>
     <tag k="addr:city" v="Kenner"/>
     <tag k="addr:postcode" v="70065"/>
+    <nd ref="8660169303"/>
+    <nd ref="8660169304"/>
+    <nd ref="8660169305"/>
+    <nd ref="8660169306"/>
+    <nd ref="8660169303"/>
   </way>
-  <way id="934430877" version="1">
+  <way id="934430877" version="1" action="modify">
+    <tag k="building" v="yes"/>
     <tag k="addr:housenumber" v="3127"/>
     <tag k="addr:street" v="Lexington Avenue"/>
     <tag k="addr:city" v="Kenner"/>
     <tag k="addr:postcode" v="70065"/>
+    <nd ref="8660169313"/>
+    <nd ref="8660169314"/>
+    <nd ref="8660169315"/>
+    <nd ref="8660169316"/>
+    <nd ref="8660169317"/>
+    <nd ref="8660169318"/>
+    <nd ref="8660169319"/>
+    <nd ref="8660169320"/>
+    <nd ref="8660169321"/>
+    <nd ref="8660169322"/>
+    <nd ref="8660169323"/>
+    <nd ref="8660169324"/>
+    <nd ref="8660169325"/>
+    <nd ref="8660169326"/>
+    <nd ref="8660169313"/>
   </way>
-  <way id="934430878" version="1">
+  <way id="934430878" version="1" action="modify">
+    <tag k="building" v="yes"/>
     <tag k="addr:housenumber" v="3133"/>
     <tag k="addr:street" v="Lexington Avenue"/>
     <tag k="addr:city" v="Kenner"/>
     <tag k="addr:postcode" v="70065"/>
+    <nd ref="8660169327"/>
+    <nd ref="8660169328"/>
+    <nd ref="8660169329"/>
+    <nd ref="8660169330"/>
+    <nd ref="8660169331"/>
+    <nd ref="8660169332"/>
+    <nd ref="8660169333"/>
+    <nd ref="8660169334"/>
+    <nd ref="8660169327"/>
   </way>
-  <way id="934430879" version="1">
+  <way id="934430879" version="1" action="modify">
+    <tag k="building" v="yes"/>
     <tag k="addr:housenumber" v="3137"/>
     <tag k="addr:street" v="Lexington Avenue"/>
     <tag k="addr:city" v="Kenner"/>
     <tag k="addr:postcode" v="70065"/>
+    <nd ref="8660169335"/>
+    <nd ref="8660169336"/>
+    <nd ref="8660169337"/>
+    <nd ref="8660169338"/>
+    <nd ref="8660169339"/>
+    <nd ref="8660169340"/>
+    <nd ref="8660169335"/>
   </way>
-  <way id="934430880" version="1">
+  <way id="934430880" version="1" action="modify">
+    <tag k="building" v="yes"/>
     <tag k="addr:housenumber" v="3141"/>
     <tag k="addr:street" v="Lexington Avenue"/>
     <tag k="addr:city" v="Kenner"/>
     <tag k="addr:postcode" v="70065"/>
+    <nd ref="8660169341"/>
+    <nd ref="8660169342"/>
+    <nd ref="8660169343"/>
+    <nd ref="8660169344"/>
+    <nd ref="8660169345"/>
+    <nd ref="8660169346"/>
+    <nd ref="8660169347"/>
+    <nd ref="8660169348"/>
+    <nd ref="8660169349"/>
+    <nd ref="8660169350"/>
+    <nd ref="8660169341"/>
   </way>
-  <way id="934430881" version="1">
+  <way id="934430881" version="1" action="modify">
+    <tag k="building" v="yes"/>
     <tag k="addr:housenumber" v="3145"/>
     <tag k="addr:street" v="Lexington Avenue"/>
     <tag k="addr:city" v="Kenner"/>
     <tag k="addr:postcode" v="70065"/>
+    <nd ref="8660169351"/>
+    <nd ref="8660169352"/>
+    <nd ref="8660169353"/>
+    <nd ref="8660169354"/>
+    <nd ref="8660169351"/>
   </way>
-  <way id="934430882" version="1">
+  <way id="934430882" version="1" action="modify">
+    <tag k="building" v="yes"/>
     <tag k="addr:housenumber" v="3153"/>
     <tag k="addr:street" v="Lexington Avenue"/>
     <tag k="addr:city" v="Kenner"/>
     <tag k="addr:postcode" v="70065"/>
+    <nd ref="8660169355"/>
+    <nd ref="8660169356"/>
+    <nd ref="8660169357"/>
+    <nd ref="8660169358"/>
+    <nd ref="8660169355"/>
   </way>
-  <way id="934430883" version="1">
+  <way id="934430883" version="1" action="modify">
+    <tag k="building" v="yes"/>
     <tag k="addr:housenumber" v="3162"/>
     <tag k="addr:street" v="Marietta Avenue"/>
     <tag k="addr:city" v="Kenner"/>
     <tag k="addr:postcode" v="70065"/>
+    <nd ref="8660169359"/>
+    <nd ref="8660169360"/>
+    <nd ref="8660169361"/>
+    <nd ref="8660169362"/>
+    <nd ref="8660169363"/>
+    <nd ref="8660169364"/>
+    <nd ref="8660169365"/>
+    <nd ref="8660169366"/>
+    <nd ref="8660169367"/>
+    <nd ref="8660169368"/>
+    <nd ref="8660169359"/>
   </way>
-  <way id="934430884" version="1">
+  <way id="934430884" version="1" action="modify">
+    <tag k="building" v="yes"/>
     <tag k="addr:housenumber" v="3156"/>
     <tag k="addr:street" v="Marietta Avenue"/>
     <tag k="addr:city" v="Kenner"/>
     <tag k="addr:postcode" v="70065"/>
+    <nd ref="8660169369"/>
+    <nd ref="8660169370"/>
+    <nd ref="8660169371"/>
+    <nd ref="8660169372"/>
+    <nd ref="8660169369"/>
   </way>
-  <way id="934430886" version="1">
+  <way id="934430886" version="1" action="modify">
+    <tag k="building" v="yes"/>
     <tag k="addr:housenumber" v="3154"/>
     <tag k="addr:street" v="Marietta Avenue"/>
     <tag k="addr:city" v="Kenner"/>
     <tag k="addr:postcode" v="70065"/>
+    <nd ref="8660169377"/>
+    <nd ref="8660169378"/>
+    <nd ref="8660169379"/>
+    <nd ref="8660169380"/>
+    <nd ref="8660169381"/>
+    <nd ref="8660169382"/>
+    <nd ref="8660169383"/>
+    <nd ref="8660169384"/>
+    <nd ref="8660169377"/>
   </way>
 </osm>

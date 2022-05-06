@@ -3,10 +3,10 @@
   <changeset_tag k="comment" v="Import buildings and addresses in Jefferson Parish, see https://wiki.openstreetmap.org/wiki/Import/Catalogue/Jefferson_Parish_Addresses_and_Buildings"/>
   <changeset_tag k="source" v="Jefferson Parish Planning Department"/>
   <changeset_tag k="source_file" v="8179_13519"/>
-  <node visible="true" id="-1" lat="29.99766092339238099384601810" lon="-90.14000186510698142683395417"/>
-  <node visible="true" id="-2" lat="29.99765823417157051267167844" lon="-90.13991212587187362714757910"/>
-  <node visible="true" id="-3" lat="29.99747820217837812606376247" lon="-90.13992186431657671619177563"/>
-  <node visible="true" id="-4" lat="29.99748069433500674563219945" lon="-90.14001215925138410511863185"/>
+  <node visible="true" id="-1" lat="29.99765789584431985304036061" lon="-90.13991247535173556570953224"/>
+  <node visible="true" id="-2" lat="29.99747772993506345073910779" lon="-90.13992155568936937015678268"/>
+  <node visible="true" id="-3" lat="29.99748113119737880083448545" lon="-90.14001153192167237193643814"/>
+  <node visible="true" id="-4" lat="29.99766129710026518750964897" lon="-90.14000245158403856748918770"/>
   <way visible="true" id="-1">
     <nd ref="-1"/>
     <nd ref="-2"/>
@@ -14,6 +14,7 @@
     <nd ref="-4"/>
     <nd ref="-1"/>
     <tag k="building" v="yes"/>
+    <tag k="building:levels" v="2"/>
     <tag k="addr:street" v="I-10 Service Road"/>
     <tag k="addr:city" v="Metairie"/>
     <tag k="addr:postcode" v="70005"/>
@@ -33,6 +34,7 @@
     <nd ref="-10"/>
     <nd ref="-5"/>
     <tag k="building" v="yes"/>
+    <tag k="building:levels" v="1"/>
     <tag k="addr:street" v="Demosthenes Street"/>
     <tag k="addr:city" v="Metairie"/>
     <tag k="addr:postcode" v="70005"/>
@@ -47,12 +49,12 @@
     <tag k="addr:city" v="Metairie"/>
     <tag k="addr:postcode" v="70005"/>
   </node>
-  <node visible="true" id="-13" lat="29.99919421751973658274437184" lon="-90.14060210035125919603160582"/>
-  <node visible="true" id="-14" lat="29.99918920461521310016905772" lon="-90.14053177809766737027530326"/>
-  <node visible="true" id="-15" lat="29.99914735811514887586781697" lon="-90.14053587018159419130824972"/>
-  <node visible="true" id="-16" lat="29.99914042501560729192533472" lon="-90.14046054266975716018350795"/>
-  <node visible="true" id="-17" lat="29.99900670987862838501314400" lon="-90.14046717020180210511171026"/>
-  <node visible="true" id="-18" lat="29.99901235393789633576488995" lon="-90.14060714853141575986228418"/>
+  <node visible="true" id="-13" lat="29.99919017091407269504088617" lon="-90.14053251824208246034686454"/>
+  <node visible="true" id="-14" lat="29.99914554595680016291225911" lon="-90.14053518049983892979071243"/>
+  <node visible="true" id="-15" lat="29.99914217145658668073338049" lon="-90.14045976362773160417418694"/>
+  <node visible="true" id="-16" lat="29.99900643120427901067159837" lon="-90.14046786167909885989502072"/>
+  <node visible="true" id="-17" lat="29.99901279217565530643696547" lon="-90.14061002314694803771999432"/>
+  <node visible="true" id="-18" lat="29.99919315737485092654424079" lon="-90.14059926283782431255531264"/>
   <way visible="true" id="-3">
     <nd ref="-13"/>
     <nd ref="-14"/>
@@ -66,10 +68,10 @@
     <tag k="addr:city" v="Metairie"/>
     <tag k="addr:postcode" v="70005"/>
   </way>
-  <node visible="true" id="-19" lat="29.99562707677700146291499550" lon="-90.14123434871231665965751745"/>
-  <node visible="true" id="-20" lat="29.99562441409630864086466318" lon="-90.14117175701618123184744036"/>
-  <node visible="true" id="-21" lat="29.99548395959991609061034978" lon="-90.14117343583789931926730787"/>
-  <node visible="true" id="-22" lat="29.99548557491981171096995240" lon="-90.14123603996412725791742560"/>
+  <node visible="true" id="-19" lat="29.99562523501068511677658535" lon="-90.14117108405277178917458514"/>
+  <node visible="true" id="-20" lat="29.99548427783590298645322036" lon="-90.14117408455265945121936966"/>
+  <node visible="true" id="-21" lat="29.99548527768656569492122799" lon="-90.14123670671249044517026050"/>
+  <node visible="true" id="-22" lat="29.99562623485900658693026344" lon="-90.14123370621263120483490638"/>
   <way visible="true" id="-4">
     <nd ref="-19"/>
     <nd ref="-20"/>
@@ -81,10 +83,10 @@
     <tag k="addr:city" v="Metairie"/>
     <tag k="addr:postcode" v="70005"/>
   </way>
-  <node visible="true" id="-23" lat="29.99525768502748235277977074" lon="-90.13810187001831764064263552"/>
-  <node visible="true" id="-24" lat="29.99525780001278363329220156" lon="-90.13790796524196480277169030"/>
-  <node visible="true" id="-25" lat="29.99519276164316039512414136" lon="-90.13790515432070549195486819"/>
-  <node visible="true" id="-26" lat="29.99520261584593328052505967" lon="-90.13809534803093015398189891"/>
+  <node visible="true" id="-23" lat="29.99525780001278008057852276" lon="-90.13790796524196480277169030"/>
+  <node visible="true" id="-24" lat="29.99519276164338421608590579" lon="-90.13790515432071970280958340"/>
+  <node visible="true" id="-25" lat="29.99520261584593328052505967" lon="-90.13809534803091594312718371"/>
+  <node visible="true" id="-26" lat="29.99525768502741840393355233" lon="-90.13810187001830342978792032"/>
   <way visible="true" id="-5">
     <nd ref="-23"/>
     <nd ref="-24"/>
@@ -106,10 +108,28 @@
     <tag k="addr:city" v="Metairie"/>
     <tag k="addr:postcode" v="70005"/>
   </node>
-  <way id="908854952" version="2">
+  <way id="908854952" version="2" action="modify">
     <tag k="addr:housenumber" v="1057"/>
     <tag k="addr:street" v="Veterans Memorial Boulevard"/>
+    <tag k="building" v="yes"/>
     <tag k="addr:city" v="Metairie"/>
     <tag k="addr:postcode" v="70005"/>
+    <nd ref="8438836636"/>
+    <nd ref="8438836637"/>
+    <nd ref="8438836638"/>
+    <nd ref="8438836639"/>
+    <nd ref="8438836640"/>
+    <nd ref="8438836641"/>
+    <nd ref="8438836642"/>
+    <nd ref="8438836643"/>
+    <nd ref="8438836644"/>
+    <nd ref="8438836645"/>
+    <nd ref="8438836646"/>
+    <nd ref="8438836649"/>
+    <nd ref="8438836651"/>
+    <nd ref="8438836650"/>
+    <nd ref="8438836648"/>
+    <nd ref="8438836647"/>
+    <nd ref="8438836636"/>
   </way>
 </osm>

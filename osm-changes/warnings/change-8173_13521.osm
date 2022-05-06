@@ -3,16 +3,16 @@
   <changeset_tag k="comment" v="Import buildings and addresses in Jefferson Parish, see https://wiki.openstreetmap.org/wiki/Import/Catalogue/Jefferson_Parish_Addresses_and_Buildings"/>
   <changeset_tag k="source" v="Jefferson Parish Planning Department"/>
   <changeset_tag k="source_file" v="8173_13521"/>
-  <node visible="true" id="-1" lat="29.98256862219958662763019674" lon="-90.19785543259881421818136005"/>
-  <node visible="true" id="-2" lat="29.98254741988457894308339746" lon="-90.19793394320763013638497796"/>
-  <node visible="true" id="-3" lat="29.98263081883722236398170935" lon="-90.19796387034546114591648802"/>
-  <node visible="true" id="-4" lat="29.98263962581860653244802961" lon="-90.19811528137445577613107162"/>
-  <node visible="true" id="-5" lat="29.98271146999739755756309023" lon="-90.19811015559416489395516692"/>
-  <node visible="true" id="-6" lat="29.98269843506909282382366655" lon="-90.19790350147744106834579725"/>
-  <node visible="true" id="-7" lat="29.98265328300307075437558524" lon="-90.19788678171542528616555501"/>
-  <node visible="true" id="-8" lat="29.98265254633814080875708896" lon="-90.19787386456407318746641977"/>
-  <node visible="true" id="-9" lat="29.98263436420004879323641944" lon="-90.19786760979607720400963444"/>
-  <node visible="true" id="-10" lat="29.98263195641696654547558865" lon="-90.19787840813621926372434245"/>
+  <node visible="true" id="-1" lat="29.98254741988457539036971866" lon="-90.19793394320764434723969316"/>
+  <node visible="true" id="-2" lat="29.98263081883723657483642455" lon="-90.19796387034547535677120322"/>
+  <node visible="true" id="-3" lat="29.98263962581859942702067201" lon="-90.19811528137445577613107162"/>
+  <node visible="true" id="-4" lat="29.98271146999731939786215662" lon="-90.19811015559416489395516692"/>
+  <node visible="true" id="-5" lat="29.98269843506909992925102415" lon="-90.19790350147744106834579725"/>
+  <node visible="true" id="-6" lat="29.98265328300302812181143963" lon="-90.19788678171541107531083981"/>
+  <node visible="true" id="-7" lat="29.98265254633814436147076776" lon="-90.19787386456405897661170457"/>
+  <node visible="true" id="-8" lat="29.98263436420004524052274064" lon="-90.19786760979606299315491924"/>
+  <node visible="true" id="-9" lat="29.98263195641694878190719464" lon="-90.19787840813623347457905766"/>
+  <node visible="true" id="-10" lat="29.98256862219960439119859075" lon="-90.19785543259882842903607525"/>
   <way visible="true" id="-1">
     <nd ref="-1"/>
     <nd ref="-2"/>
@@ -26,14 +26,15 @@
     <nd ref="-10"/>
     <nd ref="-1"/>
     <tag k="building" v="yes"/>
+    <tag k="building:levels" v="1"/>
     <tag k="addr:street" v="Dimaggio Place"/>
     <tag k="addr:city" v="Metairie"/>
     <tag k="addr:postcode" v="70003"/>
   </way>
-  <node visible="true" id="-11" lat="29.97879421462799598430137848" lon="-90.20057388429219713543716352"/>
-  <node visible="true" id="-12" lat="29.97870582281216655928801629" lon="-90.20054472996177707955212099"/>
-  <node visible="true" id="-13" lat="29.97868219323277827470519696" lon="-90.20063188049005020729964599"/>
-  <node visible="true" id="-14" lat="29.97877185391555698856791423" lon="-90.20066317500059938083722955"/>
+  <node visible="true" id="-11" lat="29.97870541485594131358993764" lon="-90.20054400153178164600831224"/>
+  <node visible="true" id="-12" lat="29.97868267795389840557618299" lon="-90.20063231076862564350449247"/>
+  <node visible="true" id="-13" lat="29.97877162744854118159310019" lon="-90.20066283334053025555476779"/>
+  <node visible="true" id="-14" lat="29.97879436433024480379572196" lon="-90.20057452410370046891330276"/>
   <way visible="true" id="-2">
     <nd ref="-11"/>
     <nd ref="-12"/>
@@ -45,10 +46,10 @@
     <tag k="addr:city" v="Metairie"/>
     <tag k="addr:postcode" v="70003"/>
   </way>
-  <node visible="true" id="-15" lat="29.98178613984666895930786268" lon="-90.20099341409783733070071321"/>
-  <node visible="true" id="-16" lat="29.98172265672387837298629165" lon="-90.20097215260422274241136620"/>
-  <node visible="true" id="-17" lat="29.98168706963081220351341472" lon="-90.20112262996980234674992971"/>
-  <node visible="true" id="-18" lat="29.98174849778326134241979162" lon="-90.20114203803665020586777246"/>
+  <node visible="true" id="-15" lat="29.98172316158084527160099242" lon="-90.20097259761448071913036983"/>
+  <node visible="true" id="-16" lat="29.98168657177352969256389770" lon="-90.20112215634790686635824386"/>
+  <node visible="true" id="-17" lat="29.98174902042295997262044693" lon="-90.20114251973976138287980575"/>
+  <node visible="true" id="-18" lat="29.98178561020728238872834481" lon="-90.20099296100634944650664693"/>
   <way visible="true" id="-3">
     <nd ref="-15"/>
     <nd ref="-16"/>
@@ -60,10 +61,10 @@
     <tag k="addr:city" v="Metairie"/>
     <tag k="addr:postcode" v="70003"/>
   </way>
-  <node visible="true" id="-19" lat="29.98133243955836135796744202" lon="-90.19891105379089424332050839"/>
-  <node visible="true" id="-20" lat="29.98134068875670976694891579" lon="-90.19904884954266321983595844"/>
-  <node visible="true" id="-21" lat="29.98143801648625839106898638" lon="-90.19904116201237798122747336"/>
-  <node visible="true" id="-22" lat="29.98142976818208893519113190" lon="-90.19890336611656778131873580"/>
+  <node visible="true" id="-19" lat="29.98134067132290780932635244" lon="-90.19904887238620005973643856"/>
+  <node visible="true" id="-20" lat="29.98143799695233724378340412" lon="-90.19904114210507373172731604"/>
+  <node visible="true" id="-21" lat="29.98142978517281420636209077" lon="-90.19890334334505155311489943"/>
+  <node visible="true" id="-22" lat="29.98133245953562919794421759" lon="-90.19891107362616367026930675"/>
   <way visible="true" id="-4">
     <nd ref="-19"/>
     <nd ref="-20"/>
@@ -71,6 +72,7 @@
     <nd ref="-22"/>
     <nd ref="-19"/>
     <tag k="building" v="yes"/>
+    <tag k="building:levels" v="2"/>
     <tag k="addr:housenumber" v="12"/>
     <tag k="addr:street" v="Homerun Lane"/>
     <tag k="addr:city" v="Metairie"/>
@@ -130,16 +132,32 @@
     <tag k="addr:city" v="Metairie"/>
     <tag k="addr:postcode" v="70003"/>
   </node>
-  <way id="606701321" version="1">
+  <way id="606701321" version="1" action="modify">
+    <tag k="building" v="yes"/>
     <tag k="addr:housenumber" v="6901"/>
     <tag k="addr:street" v="Stable Road"/>
     <tag k="addr:city" v="Metairie"/>
     <tag k="addr:postcode" v="70003"/>
+    <nd ref="5751560901"/>
+    <nd ref="5751560900"/>
+    <nd ref="5751560899"/>
+    <nd ref="5751560898"/>
+    <nd ref="5751560901"/>
   </way>
-  <way id="725692182" version="1">
+  <way id="725692182" version="1" action="modify">
     <tag k="addr:housenumber" v="6103"/>
     <tag k="addr:street" v="Airline Drive"/>
+    <tag k="amenity" v="place_of_worship"/>
+    <tag k="building" v="yes"/>
+    <tag k="denomination" v="pentecostal"/>
+    <tag k="name" v="New Life Church"/>
+    <tag k="religion" v="christian"/>
     <tag k="addr:city" v="Metairie"/>
     <tag k="addr:postcode" v="70003"/>
+    <nd ref="6804187028"/>
+    <nd ref="6804187029"/>
+    <nd ref="6804187030"/>
+    <nd ref="6804187031"/>
+    <nd ref="6804187028"/>
   </way>
 </osm>
