@@ -1,0 +1,15 @@
+--addresses=shapefiles/Addresses/Addresses.shp
+--map-address-tag=addr:housenumber=ADDRESS
+--map-address-tag=addr:street=STREET
+--map-address-tag=addr:city=AREA_NAME
+--map-address-tag=addr:postcode=ZIP
+--map-address-tag=addr:unit=SUITE
+--buildings=shapefiles/Buildings/Buildings.shp
+--add-building-tag=building=yes
+# (removed b/c not accurate enough) --map-building-tag=building:levels=NO_FLOORS
+--tag-filter=addr:street,street_filters.txt
+--tag-filter=addr:city,city_filters.txt
+#--tag-filter=building:levels,levels_filters.txt
+--changeset-tag=comment=Import buildings and addresses in Jefferson Parish, see https://wiki.openstreetmap.org/wiki/Import/Catalogue/Jefferson_Parish_Addresses_and_Buildings
+--changeset-tag=source=Jefferson Parish Planning Department
+osm-changes
