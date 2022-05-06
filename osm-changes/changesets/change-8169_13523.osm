@@ -54,7 +54,6 @@
     <nd ref="-18"/>
     <nd ref="-13"/>
     <tag k="building" v="yes"/>
-    <tag k="building:levels" v="1"/>
     <tag k="addr:housenumber" v="10128"/>
     <tag k="addr:street" v="Reynolds Drive"/>
     <tag k="addr:city" v="Waggaman"/>
@@ -119,7 +118,6 @@
     <nd ref="-36"/>
     <nd ref="-31"/>
     <tag k="building" v="yes"/>
-    <tag k="building:levels" v="1"/>
     <tag k="addr:housenumber" v="9929"/>
     <tag k="addr:street" v="River Road"/>
     <tag k="addr:city" v="Waggaman"/>
@@ -140,7 +138,6 @@
     <nd ref="-42"/>
     <nd ref="-37"/>
     <tag k="building" v="yes"/>
-    <tag k="building:levels" v="1"/>
     <tag k="addr:housenumber" v="10136"/>
     <tag k="addr:street" v="North Kelly Lane"/>
     <tag k="addr:city" v="Waggaman"/>
@@ -177,7 +174,6 @@
     <nd ref="-56"/>
     <nd ref="-43"/>
     <tag k="building" v="yes"/>
-    <tag k="building:levels" v="1"/>
     <tag k="addr:housenumber" v="10132"/>
     <tag k="addr:street" v="North Kelly Lane"/>
     <tag k="addr:city" v="Waggaman"/>
@@ -206,7 +202,6 @@
     <nd ref="-66"/>
     <nd ref="-57"/>
     <tag k="building" v="yes"/>
-    <tag k="building:levels" v="2"/>
     <tag k="addr:housenumber" v="10101"/>
     <tag k="addr:street" v="Reynolds Drive"/>
     <tag k="addr:city" v="Waggaman"/>
@@ -223,7 +218,6 @@
     <nd ref="-70"/>
     <nd ref="-67"/>
     <tag k="building" v="yes"/>
-    <tag k="building:levels" v="1"/>
   </way>
   <node visible="true" id="-71" lat="29.95644932278429806160602311" lon="-90.25148921029193616050179116">
     <tag k="addr:housenumber" v="10114"/>
@@ -268,7 +262,6 @@
     <nd ref="-84"/>
     <nd ref="-77"/>
     <tag k="building" v="yes"/>
-    <tag k="building:levels" v="1"/>
     <tag k="addr:housenumber" v="10140"/>
     <tag k="addr:street" v="North Kelly Lane"/>
     <tag k="addr:city" v="Waggaman"/>
@@ -297,7 +290,6 @@
     <nd ref="-94"/>
     <nd ref="-85"/>
     <tag k="building" v="yes"/>
-    <tag k="building:levels" v="1"/>
     <tag k="addr:housenumber" v="10021"/>
     <tag k="addr:street" v="River Road"/>
     <tag k="addr:city" v="Waggaman"/>
@@ -327,18 +319,14 @@
     <tag k="addr:city" v="Waggaman"/>
     <tag k="addr:postcode" v="70094"/>
   </node>
-  <node visible="true" id="-101" lat="29.96036106012801525366739952" lon="-90.24217526765750108097563498"/>
-  <node visible="true" id="-102" lat="29.96037312279583275653749297" lon="-90.24216694894447243768809130"/>
-  <node visible="true" id="-103" lat="29.96032842934420870051326347" lon="-90.24208060673085185499076033"/>
-  <node visible="true" id="-104" lat="29.96030938216996730716346065" lon="-90.24209374212530576642166125"/>
-  <node visible="true" id="-105" lat="29.96027049493353899833891774" lon="-90.24201861684643688477081014"/>
-  <node visible="true" id="-106" lat="29.96014867445321527839041664" lon="-90.24210262711883956399105955"/>
-  <node visible="true" id="-107" lat="29.96016918232514925080067769" lon="-90.24214224571124987051007338"/>
-  <node visible="true" id="-108" lat="29.96021217917534329444606556" lon="-90.24211259407634599938319298"/>
-  <node visible="true" id="-109" lat="29.96026312471806818393815774" lon="-90.24221101444366865962365409"/>
-  <node visible="true" id="-110" lat="29.96020096850612901562271873" lon="-90.24225387884105487046326743"/>
-  <node visible="true" id="-111" lat="29.96023309904517972768189793" lon="-90.24231595097991487364197383"/>
-  <node visible="true" id="-112" lat="29.96038106327267414030757209" lon="-90.24221391126363300827506464"/>
+  <node visible="true" id="-101" lat="29.96324857862949642139938078" lon="-90.25217730004440852553670993"/>
+  <node visible="true" id="-102" lat="29.96340013382830846921933698" lon="-90.25253064580300588204408996"/>
+  <node visible="true" id="-103" lat="29.96343169282855001256393734" lon="-90.25251261095178278992534615"/>
+  <node visible="true" id="-104" lat="29.96337780369286107884363446" lon="-90.25238697017483957552030915"/>
+  <node visible="true" id="-105" lat="29.96342054593182524513395038" lon="-90.25236254450278750027791830"/>
+  <node visible="true" id="-106" lat="29.96347454126973630650354607" lon="-90.25248843294095024702983210"/>
+  <node visible="true" id="-107" lat="29.96355242508253269306806033" lon="-90.25244392505587143205048051"/>
+  <node visible="true" id="-108" lat="29.96340076389050111060896597" lon="-90.25209033163606875405093888"/>
   <way visible="true" id="-17">
     <nd ref="-101"/>
     <nd ref="-102"/>
@@ -348,26 +336,36 @@
     <nd ref="-106"/>
     <nd ref="-107"/>
     <nd ref="-108"/>
-    <nd ref="-109"/>
-    <nd ref="-110"/>
-    <nd ref="-111"/>
-    <nd ref="-112"/>
     <nd ref="-101"/>
     <tag k="building" v="yes"/>
-    <tag k="addr:housenumber" v="9547"/>
-    <tag k="addr:street" v="River Road"/>
+  </way>
+  <node visible="true" id="-109" lat="29.96347752989437296378127940" lon="-90.25228462910894222659408115">
+    <tag k="addr:housenumber" v="112"/>
+    <tag k="addr:street" v="South Kenner Avenue"/>
     <tag k="addr:city" v="Waggaman"/>
     <tag k="addr:postcode" v="70094"/>
-  </way>
-  <node visible="true" id="-113" lat="29.96324857862949642139938078" lon="-90.25217730004440852553670993"/>
-  <node visible="true" id="-114" lat="29.96340013382830846921933698" lon="-90.25253064580300588204408996"/>
-  <node visible="true" id="-115" lat="29.96343169282855001256393734" lon="-90.25251261095178278992534615"/>
-  <node visible="true" id="-116" lat="29.96337780369286107884363446" lon="-90.25238697017483957552030915"/>
-  <node visible="true" id="-117" lat="29.96342054593182524513395038" lon="-90.25236254450278750027791830"/>
-  <node visible="true" id="-118" lat="29.96347454126973630650354607" lon="-90.25248843294095024702983210"/>
-  <node visible="true" id="-119" lat="29.96355242508253269306806033" lon="-90.25244392505587143205048051"/>
-  <node visible="true" id="-120" lat="29.96340076389050111060896597" lon="-90.25209033163606875405093888"/>
+  </node>
+  <node visible="true" id="-110" lat="29.96334395380851489676388155" lon="-90.25229704209527881175745279">
+    <tag k="addr:housenumber" v="112"/>
+    <tag k="addr:street" v="South Kenner Avenue"/>
+    <tag k="addr:city" v="Waggaman"/>
+    <tag k="addr:postcode" v="70094"/>
+  </node>
+  <node visible="true" id="-111" lat="29.96036106012801525366739952" lon="-90.24217526765750108097563498"/>
+  <node visible="true" id="-112" lat="29.96037312279583275653749297" lon="-90.24216694894447243768809130"/>
+  <node visible="true" id="-113" lat="29.96032842934420870051326347" lon="-90.24208060673085185499076033"/>
+  <node visible="true" id="-114" lat="29.96030938216996730716346065" lon="-90.24209374212530576642166125"/>
+  <node visible="true" id="-115" lat="29.96027049493353899833891774" lon="-90.24201861684643688477081014"/>
+  <node visible="true" id="-116" lat="29.96014867445321527839041664" lon="-90.24210262711883956399105955"/>
+  <node visible="true" id="-117" lat="29.96016918232514925080067769" lon="-90.24214224571124987051007338"/>
+  <node visible="true" id="-118" lat="29.96021217917534329444606556" lon="-90.24211259407634599938319298"/>
+  <node visible="true" id="-119" lat="29.96026312471806818393815774" lon="-90.24221101444366865962365409"/>
+  <node visible="true" id="-120" lat="29.96020096850612901562271873" lon="-90.24225387884105487046326743"/>
+  <node visible="true" id="-121" lat="29.96023309904517972768189793" lon="-90.24231595097991487364197383"/>
+  <node visible="true" id="-122" lat="29.96038106327267414030757209" lon="-90.24221391126363300827506464"/>
   <way visible="true" id="-18">
+    <nd ref="-111"/>
+    <nd ref="-112"/>
     <nd ref="-113"/>
     <nd ref="-114"/>
     <nd ref="-115"/>
@@ -376,27 +374,22 @@
     <nd ref="-118"/>
     <nd ref="-119"/>
     <nd ref="-120"/>
-    <nd ref="-113"/>
+    <nd ref="-121"/>
+    <nd ref="-122"/>
+    <nd ref="-111"/>
     <tag k="building" v="yes"/>
+    <tag k="addr:housenumber" v="9547"/>
+    <tag k="addr:street" v="River Road"/>
+    <tag k="addr:city" v="Waggaman"/>
+    <tag k="addr:postcode" v="70094"/>
   </way>
-  <node visible="true" id="-121" lat="29.96347752989437296378127940" lon="-90.25228462910894222659408115">
-    <tag k="addr:housenumber" v="112"/>
-    <tag k="addr:street" v="South Kenner Avenue"/>
-    <tag k="addr:city" v="Waggaman"/>
-    <tag k="addr:postcode" v="70094"/>
-  </node>
-  <node visible="true" id="-122" lat="29.96334395380851489676388155" lon="-90.25229704209527881175745279">
-    <tag k="addr:housenumber" v="112"/>
-    <tag k="addr:street" v="South Kenner Avenue"/>
-    <tag k="addr:city" v="Waggaman"/>
-    <tag k="addr:postcode" v="70094"/>
-  </node>
-  <node visible="true" id="-123" lat="29.96091451892448631610932352" lon="-90.24339029371981268923263997"/>
-  <node visible="true" id="-124" lat="29.96108452402045330131841183" lon="-90.24328384492952181972214021"/>
-  <node visible="true" id="-125" lat="29.96101922494948865960395779" lon="-90.24314490531345711588073755"/>
-  <node visible="true" id="-126" lat="29.96083674761087678461990436" lon="-90.24325916352350418492278550"/>
-  <node visible="true" id="-127" lat="29.96086952843573314453351486" lon="-90.24332891254206856501696166"/>
-  <node visible="true" id="-128" lat="29.96088200056255246295222605" lon="-90.24332110312228394377598306"/>
+  <node visible="true" id="-123" lat="29.95703942918015982854740287" lon="-90.24680862368016676100523910"/>
+  <node visible="true" id="-124" lat="29.95702576478049294905758870" lon="-90.24689136539514322521426948"/>
+  <node visible="true" id="-125" lat="29.95688017091154264903707372" lon="-90.24700560371569224571430823"/>
+  <node visible="true" id="-126" lat="29.95699655260955296398606151" lon="-90.24720319973793891676905332"/>
+  <node visible="true" id="-127" lat="29.95721063377705561947550450" lon="-90.24703522350191065015678760"/>
+  <node visible="true" id="-128" lat="29.95713313050825377104047220" lon="-90.24690363602839227041840786"/>
+  <node visible="true" id="-129" lat="29.95714498618165677612523723" lon="-90.24683184657394008354458492"/>
   <way visible="true" id="-19">
     <nd ref="-123"/>
     <nd ref="-124"/>
@@ -404,84 +397,82 @@
     <nd ref="-126"/>
     <nd ref="-127"/>
     <nd ref="-128"/>
+    <nd ref="-129"/>
     <nd ref="-123"/>
     <tag k="building" v="yes"/>
-    <tag k="building:levels" v="2"/>
   </way>
-  <node visible="true" id="-129" lat="29.96156979702084299788111821" lon="-90.24521843029282308634719811"/>
-  <node visible="true" id="-130" lat="29.96145567686309263422117510" lon="-90.24530513883878768410795601"/>
-  <node visible="true" id="-131" lat="29.96152559484168520498315047" lon="-90.24542773909170989554695552"/>
-  <node visible="true" id="-132" lat="29.96163971491918331935266906" lon="-90.24534103054571687607676722"/>
+  <node visible="true" id="-130" lat="29.95664240114937726389143791" lon="-90.24698928894952132395701483"/>
+  <node visible="true" id="-131" lat="29.95669218105333087009967130" lon="-90.24708159784003669301455375"/>
+  <node visible="true" id="-132" lat="29.95685569451026708520657849" lon="-90.24696412856498284327244619"/>
+  <node visible="true" id="-133" lat="29.95680591468820352929469664" lon="-90.24687181967448168506962247"/>
   <way visible="true" id="-20">
-    <nd ref="-129"/>
     <nd ref="-130"/>
     <nd ref="-131"/>
     <nd ref="-132"/>
-    <nd ref="-129"/>
+    <nd ref="-133"/>
+    <nd ref="-130"/>
     <tag k="building" v="yes"/>
   </way>
-  <node visible="true" id="-133" lat="29.95703942918015982854740287" lon="-90.24680862368016676100523910"/>
-  <node visible="true" id="-134" lat="29.95702576478049294905758870" lon="-90.24689136539514322521426948"/>
-  <node visible="true" id="-135" lat="29.95688017091154264903707372" lon="-90.24700560371569224571430823"/>
-  <node visible="true" id="-136" lat="29.95699655260955296398606151" lon="-90.24720319973793891676905332"/>
-  <node visible="true" id="-137" lat="29.95721063377705561947550450" lon="-90.24703522350191065015678760"/>
-  <node visible="true" id="-138" lat="29.95713313050825377104047220" lon="-90.24690363602839227041840786"/>
-  <node visible="true" id="-139" lat="29.95714498618165677612523723" lon="-90.24683184657394008354458492"/>
+  <node visible="true" id="-134" lat="29.96174566511146863945214136" lon="-90.24464852613520804425206734"/>
+  <node visible="true" id="-135" lat="29.96172227096285212155635236" lon="-90.24460496536819675839069532"/>
+  <node visible="true" id="-136" lat="29.96173058830142466035795223" lon="-90.24459523009380745861562900"/>
+  <node visible="true" id="-137" lat="29.96170219070552676043917018" lon="-90.24454235273275060080777621"/>
+  <node visible="true" id="-138" lat="29.96172985866999738391314168" lon="-90.24452255602699324299464934"/>
+  <node visible="true" id="-139" lat="29.96169339544450593848523567" lon="-90.24445466017223793642187957"/>
+  <node visible="true" id="-140" lat="29.96155352636028723622985126" lon="-90.24455473781007697198219830"/>
+  <node visible="true" id="-141" lat="29.96160667480454264932632213" lon="-90.24465370201929204085899983"/>
+  <node visible="true" id="-142" lat="29.96162442986095797436973953" lon="-90.24464099811136463813454611"/>
+  <node visible="true" id="-143" lat="29.96166100460402148542016221" lon="-90.24470910156871639173914446"/>
   <way visible="true" id="-21">
-    <nd ref="-133"/>
     <nd ref="-134"/>
     <nd ref="-135"/>
     <nd ref="-136"/>
     <nd ref="-137"/>
     <nd ref="-138"/>
     <nd ref="-139"/>
-    <nd ref="-133"/>
-    <tag k="building" v="yes"/>
-  </way>
-  <node visible="true" id="-140" lat="29.95664240114937726389143791" lon="-90.24698928894952132395701483"/>
-  <node visible="true" id="-141" lat="29.95669218105333087009967130" lon="-90.24708159784003669301455375"/>
-  <node visible="true" id="-142" lat="29.95685569451026708520657849" lon="-90.24696412856498284327244619"/>
-  <node visible="true" id="-143" lat="29.95680591468820352929469664" lon="-90.24687181967448168506962247"/>
-  <way visible="true" id="-22">
     <nd ref="-140"/>
     <nd ref="-141"/>
     <nd ref="-142"/>
     <nd ref="-143"/>
-    <nd ref="-140"/>
-    <tag k="building" v="yes"/>
-  </way>
-  <node visible="true" id="-144" lat="29.96174566511146863945214136" lon="-90.24464852613520804425206734"/>
-  <node visible="true" id="-145" lat="29.96172227096285212155635236" lon="-90.24460496536819675839069532"/>
-  <node visible="true" id="-146" lat="29.96173058830142466035795223" lon="-90.24459523009380745861562900"/>
-  <node visible="true" id="-147" lat="29.96170219070552676043917018" lon="-90.24454235273275060080777621"/>
-  <node visible="true" id="-148" lat="29.96172985866999738391314168" lon="-90.24452255602699324299464934"/>
-  <node visible="true" id="-149" lat="29.96169339544450593848523567" lon="-90.24445466017223793642187957"/>
-  <node visible="true" id="-150" lat="29.96155352636028723622985126" lon="-90.24455473781007697198219830"/>
-  <node visible="true" id="-151" lat="29.96160667480454264932632213" lon="-90.24465370201929204085899983"/>
-  <node visible="true" id="-152" lat="29.96162442986095797436973953" lon="-90.24464099811136463813454611"/>
-  <node visible="true" id="-153" lat="29.96166100460402148542016221" lon="-90.24470910156871639173914446"/>
-  <way visible="true" id="-23">
-    <nd ref="-144"/>
-    <nd ref="-145"/>
-    <nd ref="-146"/>
-    <nd ref="-147"/>
-    <nd ref="-148"/>
-    <nd ref="-149"/>
-    <nd ref="-150"/>
-    <nd ref="-151"/>
-    <nd ref="-152"/>
-    <nd ref="-153"/>
-    <nd ref="-144"/>
+    <nd ref="-134"/>
     <tag k="building" v="yes"/>
     <tag k="addr:housenumber" v="9575"/>
     <tag k="addr:street" v="River Road"/>
     <tag k="addr:city" v="Waggaman"/>
     <tag k="addr:postcode" v="70094"/>
   </way>
-  <node visible="true" id="-154" lat="29.96148581476084160613027052" lon="-90.24452532506749946605850710"/>
-  <node visible="true" id="-155" lat="29.96144884456765922209342534" lon="-90.24446028773836303571442841"/>
-  <node visible="true" id="-156" lat="29.96138359801906503321333730" lon="-90.24450970151917772454908118"/>
-  <node visible="true" id="-157" lat="29.96142056823653376795846270" lon="-90.24457473884828573318372946"/>
+  <node visible="true" id="-144" lat="29.96148581476084160613027052" lon="-90.24452532506749946605850710"/>
+  <node visible="true" id="-145" lat="29.96144884456765922209342534" lon="-90.24446028773836303571442841"/>
+  <node visible="true" id="-146" lat="29.96138359801906503321333730" lon="-90.24450970151917772454908118"/>
+  <node visible="true" id="-147" lat="29.96142056823653376795846270" lon="-90.24457473884828573318372946"/>
+  <way visible="true" id="-22">
+    <nd ref="-144"/>
+    <nd ref="-145"/>
+    <nd ref="-146"/>
+    <nd ref="-147"/>
+    <nd ref="-144"/>
+    <tag k="building" v="yes"/>
+  </way>
+  <node visible="true" id="-148" lat="29.96091451892448631610932352" lon="-90.24339029371981268923263997"/>
+  <node visible="true" id="-149" lat="29.96108452402045330131841183" lon="-90.24328384492952181972214021"/>
+  <node visible="true" id="-150" lat="29.96101922494948865960395779" lon="-90.24314490531345711588073755"/>
+  <node visible="true" id="-151" lat="29.96083674761087678461990436" lon="-90.24325916352350418492278550"/>
+  <node visible="true" id="-152" lat="29.96086952843573314453351486" lon="-90.24332891254206856501696166"/>
+  <node visible="true" id="-153" lat="29.96088200056255246295222605" lon="-90.24332110312228394377598306"/>
+  <way visible="true" id="-23">
+    <nd ref="-148"/>
+    <nd ref="-149"/>
+    <nd ref="-150"/>
+    <nd ref="-151"/>
+    <nd ref="-152"/>
+    <nd ref="-153"/>
+    <nd ref="-148"/>
+    <tag k="building" v="yes"/>
+  </way>
+  <node visible="true" id="-154" lat="29.96156979702084299788111821" lon="-90.24521843029282308634719811"/>
+  <node visible="true" id="-155" lat="29.96145567686309263422117510" lon="-90.24530513883878768410795601"/>
+  <node visible="true" id="-156" lat="29.96152559484168520498315047" lon="-90.24542773909170989554695552"/>
+  <node visible="true" id="-157" lat="29.96163971491918331935266906" lon="-90.24534103054571687607676722"/>
   <way visible="true" id="-24">
     <nd ref="-154"/>
     <nd ref="-155"/>
@@ -553,7 +544,6 @@
     <nd ref="-181"/>
     <nd ref="-170"/>
     <tag k="building" v="yes"/>
-    <tag k="building:levels" v="2"/>
     <tag k="addr:housenumber" v="9595"/>
     <tag k="addr:street" v="River Road"/>
     <tag k="addr:city" v="Waggaman"/>
@@ -582,7 +572,6 @@
     <nd ref="-191"/>
     <nd ref="-182"/>
     <tag k="building" v="yes"/>
-    <tag k="building:levels" v="1"/>
     <tag k="addr:housenumber" v="104"/>
     <tag k="addr:street" v="South Kenner Avenue"/>
     <tag k="addr:city" v="Waggaman"/>
@@ -667,7 +656,6 @@
     <nd ref="-221"/>
     <nd ref="-210"/>
     <tag k="building" v="yes"/>
-    <tag k="building:levels" v="1"/>
   </way>
   <node visible="true" id="-222" lat="29.96103740379525959269813029" lon="-90.24407438964672678594070021"/>
   <node visible="true" id="-223" lat="29.96106148286407488967597601" lon="-90.24405963532908003799093422"/>
@@ -708,7 +696,6 @@
     <nd ref="-237"/>
     <nd ref="-226"/>
     <tag k="building" v="yes"/>
-    <tag k="building:levels" v="1"/>
     <tag k="addr:housenumber" v="120"/>
     <tag k="addr:street" v="South Kenner Avenue"/>
     <tag k="addr:city" v="Waggaman"/>
@@ -769,7 +756,6 @@
     <nd ref="-263"/>
     <nd ref="-238"/>
     <tag k="building" v="yes"/>
-    <tag k="building:levels" v="1"/>
     <tag k="addr:housenumber" v="14"/>
     <tag k="addr:street" v="West Velvet Lane"/>
     <tag k="addr:city" v="Waggaman"/>
@@ -806,7 +792,6 @@
     <nd ref="-277"/>
     <nd ref="-264"/>
     <tag k="building" v="yes"/>
-    <tag k="building:levels" v="2"/>
   </way>
   <node visible="true" id="-278" lat="29.96320348921172183054295601" lon="-90.25255468200010966484114761"/>
   <node visible="true" id="-279" lat="29.96326737427331821095322084" lon="-90.25269562433634007447835756"/>
@@ -953,7 +938,6 @@
     <nd ref="-336"/>
     <nd ref="-311"/>
     <tag k="building" v="yes"/>
-    <tag k="building:levels" v="2"/>
   </way>
   <node visible="true" id="-337" lat="29.95713047010574214823463990" lon="-90.24572003153882349124614848"/>
   <node visible="true" id="-338" lat="29.95716167541919006112038915" lon="-90.24578148393999299514689483"/>
@@ -990,7 +974,6 @@
     <nd ref="-352"/>
     <nd ref="-337"/>
     <tag k="building" v="yes"/>
-    <tag k="building:levels" v="1"/>
   </way>
   <node visible="true" id="-353" lat="29.95558061693682105897096335" lon="-90.25176828995495270646642894"/>
   <node visible="true" id="-354" lat="29.95555081085507609373053128" lon="-90.25169626736439454361971002"/>

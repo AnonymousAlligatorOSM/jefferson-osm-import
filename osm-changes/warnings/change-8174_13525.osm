@@ -47,105 +47,101 @@
     <tag k="addr:city" v="Harahan"/>
     <tag k="addr:postcode" v="70123"/>
   </way>
-  <node visible="true" id="-15" lat="29.94278578817747060725196206" lon="-90.18727310003757224876608234">
-    <tag k="addr:street" v="Jefferson Highway"/>
-    <tag k="addr:city" v="Jefferson"/>
-    <tag k="addr:postcode" v="70123"/>
-  </node>
-  <node visible="true" id="-16" lat="29.93744291269044666137233435" lon="-90.19309250152984702708636178"/>
-  <node visible="true" id="-17" lat="29.93743289652263683819910511" lon="-90.19310941029291939230461139"/>
-  <node visible="true" id="-18" lat="29.93740755965057687149055710" lon="-90.19308942389511685178149492"/>
-  <node visible="true" id="-19" lat="29.93733877016646971469526761" lon="-90.19320555057701938039826928"/>
-  <node visible="true" id="-20" lat="29.93739537534143124730690033" lon="-90.19325020221900501837808406"/>
-  <node visible="true" id="-21" lat="29.93747418095104251278826268" lon="-90.19311716677400170283362968"/>
+  <node visible="true" id="-15" lat="29.93802855550477914903240162" lon="-90.19377510522323859731841367"/>
+  <node visible="true" id="-16" lat="29.93812708582244752619772044" lon="-90.19388336026884189777774736"/>
+  <node visible="true" id="-17" lat="29.93818530265902921883025556" lon="-90.19381279871743117837468162"/>
+  <node visible="true" id="-18" lat="29.93808677239903914824026288" lon="-90.19370454367182787791534793"/>
   <way visible="true" id="-3">
+    <nd ref="-15"/>
     <nd ref="-16"/>
     <nd ref="-17"/>
     <nd ref="-18"/>
-    <nd ref="-19"/>
-    <nd ref="-20"/>
-    <nd ref="-21"/>
-    <nd ref="-16"/>
+    <nd ref="-15"/>
     <tag k="building" v="yes"/>
-    <tag k="addr:housenumber" v="126"/>
+    <tag k="addr:housenumber" v="146"/>
     <tag k="addr:street" v="Elodie Avenue"/>
     <tag k="addr:city" v="Harahan"/>
     <tag k="addr:postcode" v="70123"/>
   </way>
-  <node visible="true" id="-22" lat="29.93732856032152156444681168" lon="-90.19297001468207497509865789"/>
-  <node visible="true" id="-23" lat="29.93734014271563026454714418" lon="-90.19294973419606264997128164"/>
-  <node visible="true" id="-24" lat="29.93731564237976172648814099" lon="-90.19293110118941569908201927"/>
-  <node visible="true" id="-25" lat="29.93730487945147800132872362" lon="-90.19294994680642219009314431"/>
-  <node visible="true" id="-26" lat="29.93727921755125720437717973" lon="-90.19293043041335522502777167"/>
-  <node visible="true" id="-27" lat="29.93725266284328512256251997" lon="-90.19297692701920254876313265"/>
-  <node visible="true" id="-28" lat="29.93732688483323300943084178" lon="-90.19303337433936462730343919"/>
-  <node visible="true" id="-29" lat="29.93735262005310104882482847" lon="-90.19298831260248050512018381"/>
+  <node visible="true" id="-19" lat="29.93601223535498689898304292" lon="-90.19167797951153886515385238"/>
+  <node visible="true" id="-20" lat="29.93603724147115485720860306" lon="-90.19170925439898667264060350"/>
+  <node visible="true" id="-21" lat="29.93614898636606724835473869" lon="-90.19159027877411460849543801"/>
+  <node visible="true" id="-22" lat="29.93610026127537793172450620" lon="-90.19152933875255939710768871"/>
+  <node visible="true" id="-23" lat="29.93599897298236101050861180" lon="-90.19163718110810634698282229"/>
+  <node visible="true" id="-24" lat="29.93602269200914989255579712" lon="-90.19166684624219954002910526"/>
   <way visible="true" id="-4">
+    <nd ref="-19"/>
+    <nd ref="-20"/>
+    <nd ref="-21"/>
     <nd ref="-22"/>
     <nd ref="-23"/>
     <nd ref="-24"/>
+    <nd ref="-19"/>
+    <tag k="building" v="yes"/>
+    <tag k="addr:housenumber" v="45"/>
+    <tag k="addr:street" v="Elodie Avenue"/>
+    <tag k="addr:city" v="Harahan"/>
+    <tag k="addr:postcode" v="70123"/>
+  </way>
+  <node visible="true" id="-25" lat="29.93604230484827866121122497" lon="-90.19154433838983209170692135"/>
+  <node visible="true" id="-26" lat="29.93606798030011617584023043" lon="-90.19151645619074031401396496"/>
+  <node visible="true" id="-27" lat="29.93605058156967757554411946" lon="-90.19149512139796343035413884"/>
+  <node visible="true" id="-28" lat="29.93602558418073300572359585" lon="-90.19152226725157106557162479"/>
+  <node visible="true" id="-29" lat="29.93600377519573285667320306" lon="-90.19149552449758289185410831"/>
+  <node visible="true" id="-30" lat="29.93592089535691869173206214" lon="-90.19158552758797497972409474"/>
+  <node visible="true" id="-31" lat="29.93597245342379764565521327" lon="-90.19164874940952358883805573"/>
+  <node visible="true" id="-32" lat="29.93605465515254238084708049" lon="-90.19155948266458722173410933"/>
+  <way visible="true" id="-5">
     <nd ref="-25"/>
     <nd ref="-26"/>
     <nd ref="-27"/>
     <nd ref="-28"/>
     <nd ref="-29"/>
-    <nd ref="-22"/>
+    <nd ref="-30"/>
+    <nd ref="-31"/>
+    <nd ref="-32"/>
+    <nd ref="-25"/>
     <tag k="building" v="yes"/>
-    <tag k="addr:housenumber" v="122"/>
+    <tag k="addr:housenumber" v="41"/>
     <tag k="addr:street" v="Elodie Avenue"/>
     <tag k="addr:city" v="Harahan"/>
     <tag k="addr:postcode" v="70123"/>
   </way>
-  <node visible="true" id="-30" lat="29.93711652633583142346651584" lon="-90.19288548167837404889723985"/>
-  <node visible="true" id="-31" lat="29.93715440918516534907212190" lon="-90.19292883076364830685633933"/>
-  <node visible="true" id="-32" lat="29.93718535154819448962371098" lon="-90.19289259075357279016316170"/>
-  <node visible="true" id="-33" lat="29.93719040182636348390587955" lon="-90.19289827499538603206019616"/>
-  <node visible="true" id="-34" lat="29.93722568127684979799596476" lon="-90.19285767815608778619207442"/>
-  <node visible="true" id="-35" lat="29.93721999960702717658023175" lon="-90.19285128429172004871361423"/>
-  <node visible="true" id="-36" lat="29.93724909130088107644951378" lon="-90.19281793584382000972254900"/>
-  <node visible="true" id="-37" lat="29.93721185225165015708626015" lon="-90.19277673198698153100849595"/>
-  <way visible="true" id="-5">
-    <nd ref="-30"/>
-    <nd ref="-31"/>
-    <nd ref="-32"/>
+  <node visible="true" id="-33" lat="29.93586445305174947861814871" lon="-90.19151435517392201290931553"/>
+  <node visible="true" id="-34" lat="29.93591577440048823177676240" lon="-90.19157963748503448186966125"/>
+  <node visible="true" id="-35" lat="29.93600331280533666244991764" lon="-90.19148799859647169796517119"/>
+  <node visible="true" id="-36" lat="29.93598970217171384433640924" lon="-90.19148723416975599320721813"/>
+  <node visible="true" id="-37" lat="29.93600727066031197409756714" lon="-90.19146884272896613765624352"/>
+  <node visible="true" id="-38" lat="29.93598469836482678374522948" lon="-90.19144013005445970065920847"/>
+  <node visible="true" id="-39" lat="29.93597125298430228212964721" lon="-90.19145420524760936586972093"/>
+  <node visible="true" id="-40" lat="29.93594897807463794947580027" lon="-90.19142587086744811131211463"/>
+  <way visible="true" id="-6">
     <nd ref="-33"/>
     <nd ref="-34"/>
     <nd ref="-35"/>
     <nd ref="-36"/>
     <nd ref="-37"/>
-    <nd ref="-30"/>
-    <tag k="building" v="yes"/>
-    <tag k="addr:housenumber" v="118"/>
-    <tag k="addr:street" v="Elodie Avenue"/>
-    <tag k="addr:city" v="Harahan"/>
-    <tag k="addr:postcode" v="70123"/>
-  </way>
-  <node visible="true" id="-38" lat="29.93695738372700887452992902" lon="-90.19257991304823462996864691"/>
-  <node visible="true" id="-39" lat="29.93687861310793607572122710" lon="-90.19271568841232067370583536"/>
-  <node visible="true" id="-40" lat="29.93697117871957757984091586" lon="-90.19278720063924481564754387"/>
-  <node visible="true" id="-41" lat="29.93704994926538276445171505" lon="-90.19265142527515877191035543"/>
-  <way visible="true" id="-6">
     <nd ref="-38"/>
     <nd ref="-39"/>
     <nd ref="-40"/>
-    <nd ref="-41"/>
-    <nd ref="-38"/>
+    <nd ref="-33"/>
     <tag k="building" v="yes"/>
-    <tag k="addr:housenumber" v="112"/>
+    <tag k="addr:housenumber" v="37"/>
     <tag k="addr:street" v="Elodie Avenue"/>
     <tag k="addr:city" v="Harahan"/>
     <tag k="addr:postcode" v="70123"/>
   </way>
-  <node visible="true" id="-42" lat="29.93684065285628292940600659" lon="-90.19230382699383596900588600"/>
-  <node visible="true" id="-43" lat="29.93682216352982194962351059" lon="-90.19232920580610368688212475"/>
-  <node visible="true" id="-44" lat="29.93680326780542344522473286" lon="-90.19231087422942039211193332"/>
-  <node visible="true" id="-45" lat="29.93674436866571042514806322" lon="-90.19239172029746498537861044"/>
-  <node visible="true" id="-46" lat="29.93680054369515630696696462" lon="-90.19244621815217044513701694"/>
-  <node visible="true" id="-47" lat="29.93680447400508271016406070" lon="-90.19244082333321443911700044"/>
-  <node visible="true" id="-48" lat="29.93683253162166835181778879" lon="-90.19246804326766664416936692"/>
-  <node visible="true" id="-49" lat="29.93688190459559095302211063" lon="-90.19240027293730577184760477"/>
-  <node visible="true" id="-50" lat="29.93685283806306074438907672" lon="-90.19237207419500634841824649"/>
-  <node visible="true" id="-51" lat="29.93687692319145554620263283" lon="-90.19233901446402512647182448"/>
+  <node visible="true" id="-41" lat="29.94278578817747060725196206" lon="-90.18727310003757224876608234">
+    <tag k="addr:street" v="Jefferson Highway"/>
+    <tag k="addr:city" v="Jefferson"/>
+    <tag k="addr:postcode" v="70123"/>
+  </node>
+  <node visible="true" id="-42" lat="29.94244255580433744512447447" lon="-90.19231068914706384020973928"/>
+  <node visible="true" id="-43" lat="29.94243154096007231146359118" lon="-90.19233809054274786376481643"/>
+  <node visible="true" id="-44" lat="29.94238808361619419429189293" lon="-90.19244481857329276408563601"/>
+  <node visible="true" id="-45" lat="29.94288615539725384451230639" lon="-90.19271618552666325285827043"/>
+  <node visible="true" id="-46" lat="29.94298044718892271021104534" lon="-90.19248829004956746757670771"/>
+  <node visible="true" id="-47" lat="29.94248173731631723626378516" lon="-90.19221549544482741112005897"/>
   <way visible="true" id="-7">
     <nd ref="-42"/>
     <nd ref="-43"/>
@@ -153,101 +149,107 @@
     <nd ref="-45"/>
     <nd ref="-46"/>
     <nd ref="-47"/>
+    <nd ref="-42"/>
+    <tag k="building" v="yes"/>
+    <tag k="addr:housenumber" v="265"/>
+    <tag k="addr:street" v="Funston Street"/>
+    <tag k="addr:city" v="Jefferson"/>
+    <tag k="addr:postcode" v="70123"/>
+  </way>
+  <node visible="true" id="-48" lat="29.93744291269044666137233435" lon="-90.19309250152984702708636178"/>
+  <node visible="true" id="-49" lat="29.93743289652263683819910511" lon="-90.19310941029291939230461139"/>
+  <node visible="true" id="-50" lat="29.93740755965057687149055710" lon="-90.19308942389511685178149492"/>
+  <node visible="true" id="-51" lat="29.93733877016646971469526761" lon="-90.19320555057701938039826928"/>
+  <node visible="true" id="-52" lat="29.93739537534143124730690033" lon="-90.19325020221900501837808406"/>
+  <node visible="true" id="-53" lat="29.93747418095104251278826268" lon="-90.19311716677400170283362968"/>
+  <way visible="true" id="-8">
     <nd ref="-48"/>
     <nd ref="-49"/>
     <nd ref="-50"/>
     <nd ref="-51"/>
-    <nd ref="-42"/>
+    <nd ref="-52"/>
+    <nd ref="-53"/>
+    <nd ref="-48"/>
     <tag k="building" v="yes"/>
-    <tag k="addr:housenumber" v="106"/>
+    <tag k="addr:housenumber" v="126"/>
     <tag k="addr:street" v="Elodie Avenue"/>
     <tag k="addr:city" v="Harahan"/>
     <tag k="addr:postcode" v="70123"/>
   </way>
-  <node visible="true" id="-52" lat="29.93771074232769180412105925" lon="-90.19338193965982952704507625"/>
-  <node visible="true" id="-53" lat="29.93765964255958067496976582" lon="-90.19334219090569604304619133"/>
-  <node visible="true" id="-54" lat="29.93766907173145597198526957" lon="-90.19332604869978808892483357"/>
-  <node visible="true" id="-55" lat="29.93763167749343878654144646" lon="-90.19329696101685556186566828"/>
-  <node visible="true" id="-56" lat="29.93762189106755755574340583" lon="-90.19331371481487735763948876"/>
-  <node visible="true" id="-57" lat="29.93762009707801041713537415" lon="-90.19331231933294645841669990"/>
-  <node visible="true" id="-58" lat="29.93755411832173152220093471" lon="-90.19342527112272023259720299"/>
-  <node visible="true" id="-59" lat="29.93764440638116752779751550" lon="-90.19349550304177398629690288"/>
-  <way visible="true" id="-8">
-    <nd ref="-52"/>
-    <nd ref="-53"/>
+  <node visible="true" id="-54" lat="29.93732856032152156444681168" lon="-90.19297001468207497509865789"/>
+  <node visible="true" id="-55" lat="29.93734014271563026454714418" lon="-90.19294973419606264997128164"/>
+  <node visible="true" id="-56" lat="29.93731564237976172648814099" lon="-90.19293110118941569908201927"/>
+  <node visible="true" id="-57" lat="29.93730487945147800132872362" lon="-90.19294994680642219009314431"/>
+  <node visible="true" id="-58" lat="29.93727921755125720437717973" lon="-90.19293043041335522502777167"/>
+  <node visible="true" id="-59" lat="29.93725266284328512256251997" lon="-90.19297692701920254876313265"/>
+  <node visible="true" id="-60" lat="29.93732688483323300943084178" lon="-90.19303337433936462730343919"/>
+  <node visible="true" id="-61" lat="29.93735262005310104882482847" lon="-90.19298831260248050512018381"/>
+  <way visible="true" id="-9">
     <nd ref="-54"/>
     <nd ref="-55"/>
     <nd ref="-56"/>
     <nd ref="-57"/>
     <nd ref="-58"/>
     <nd ref="-59"/>
-    <nd ref="-52"/>
-    <tag k="building" v="yes"/>
-    <tag k="addr:housenumber" v="142"/>
-    <tag k="addr:street" v="Elodie Avenue"/>
-    <tag k="addr:city" v="Harahan"/>
-    <tag k="addr:postcode" v="70123"/>
-  </way>
-  <node visible="true" id="-60" lat="29.93784002444730063530187181" lon="-90.19354274610776656118105166"/>
-  <node visible="true" id="-61" lat="29.93778242523138288788686623" lon="-90.19360656972800427411129931"/>
-  <node visible="true" id="-62" lat="29.93784748767742698305482918" lon="-90.19368476142746260393323610"/>
-  <node visible="true" id="-63" lat="29.93790508685567530733351305" lon="-90.19362093780723910185770364"/>
-  <way visible="true" id="-9">
     <nd ref="-60"/>
     <nd ref="-61"/>
-    <nd ref="-62"/>
-    <nd ref="-63"/>
-    <nd ref="-60"/>
+    <nd ref="-54"/>
     <tag k="building" v="yes"/>
-    <tag k="addr:housenumber" v="156"/>
+    <tag k="addr:housenumber" v="122"/>
     <tag k="addr:street" v="Elodie Avenue"/>
     <tag k="addr:city" v="Harahan"/>
     <tag k="addr:postcode" v="70123"/>
   </way>
-  <node visible="true" id="-64" lat="29.93802855550477914903240162" lon="-90.19377510522323859731841367"/>
-  <node visible="true" id="-65" lat="29.93812708582244752619772044" lon="-90.19388336026884189777774736"/>
-  <node visible="true" id="-66" lat="29.93818530265902921883025556" lon="-90.19381279871743117837468162"/>
-  <node visible="true" id="-67" lat="29.93808677239903914824026288" lon="-90.19370454367182787791534793"/>
+  <node visible="true" id="-62" lat="29.93711652633583142346651584" lon="-90.19288548167837404889723985"/>
+  <node visible="true" id="-63" lat="29.93715440918516534907212190" lon="-90.19292883076364830685633933"/>
+  <node visible="true" id="-64" lat="29.93718535154819448962371098" lon="-90.19289259075357279016316170"/>
+  <node visible="true" id="-65" lat="29.93719040182636348390587955" lon="-90.19289827499538603206019616"/>
+  <node visible="true" id="-66" lat="29.93722568127684979799596476" lon="-90.19285767815608778619207442"/>
+  <node visible="true" id="-67" lat="29.93721999960702717658023175" lon="-90.19285128429172004871361423"/>
+  <node visible="true" id="-68" lat="29.93724909130088107644951378" lon="-90.19281793584382000972254900"/>
+  <node visible="true" id="-69" lat="29.93721185225165015708626015" lon="-90.19277673198698153100849595"/>
   <way visible="true" id="-10">
+    <nd ref="-62"/>
+    <nd ref="-63"/>
     <nd ref="-64"/>
     <nd ref="-65"/>
     <nd ref="-66"/>
     <nd ref="-67"/>
-    <nd ref="-64"/>
+    <nd ref="-68"/>
+    <nd ref="-69"/>
+    <nd ref="-62"/>
     <tag k="building" v="yes"/>
-    <tag k="addr:housenumber" v="146"/>
+    <tag k="addr:housenumber" v="118"/>
     <tag k="addr:street" v="Elodie Avenue"/>
     <tag k="addr:city" v="Harahan"/>
     <tag k="addr:postcode" v="70123"/>
   </way>
-  <node visible="true" id="-68" lat="29.93601223535498689898304292" lon="-90.19167797951153886515385238"/>
-  <node visible="true" id="-69" lat="29.93603724147115485720860306" lon="-90.19170925439898667264060350"/>
-  <node visible="true" id="-70" lat="29.93614898636606724835473869" lon="-90.19159027877411460849543801"/>
-  <node visible="true" id="-71" lat="29.93610026127537793172450620" lon="-90.19152933875255939710768871"/>
-  <node visible="true" id="-72" lat="29.93599897298236101050861180" lon="-90.19163718110810634698282229"/>
-  <node visible="true" id="-73" lat="29.93602269200914989255579712" lon="-90.19166684624219954002910526"/>
+  <node visible="true" id="-70" lat="29.93695738372700887452992902" lon="-90.19257991304823462996864691"/>
+  <node visible="true" id="-71" lat="29.93687861310793607572122710" lon="-90.19271568841232067370583536"/>
+  <node visible="true" id="-72" lat="29.93697117871957757984091586" lon="-90.19278720063924481564754387"/>
+  <node visible="true" id="-73" lat="29.93704994926538276445171505" lon="-90.19265142527515877191035543"/>
   <way visible="true" id="-11">
-    <nd ref="-68"/>
-    <nd ref="-69"/>
     <nd ref="-70"/>
     <nd ref="-71"/>
     <nd ref="-72"/>
     <nd ref="-73"/>
-    <nd ref="-68"/>
+    <nd ref="-70"/>
     <tag k="building" v="yes"/>
-    <tag k="addr:housenumber" v="45"/>
+    <tag k="addr:housenumber" v="112"/>
     <tag k="addr:street" v="Elodie Avenue"/>
     <tag k="addr:city" v="Harahan"/>
     <tag k="addr:postcode" v="70123"/>
   </way>
-  <node visible="true" id="-74" lat="29.93604230484827866121122497" lon="-90.19154433838983209170692135"/>
-  <node visible="true" id="-75" lat="29.93606798030011617584023043" lon="-90.19151645619074031401396496"/>
-  <node visible="true" id="-76" lat="29.93605058156967757554411946" lon="-90.19149512139796343035413884"/>
-  <node visible="true" id="-77" lat="29.93602558418073300572359585" lon="-90.19152226725157106557162479"/>
-  <node visible="true" id="-78" lat="29.93600377519573285667320306" lon="-90.19149552449758289185410831"/>
-  <node visible="true" id="-79" lat="29.93592089535691869173206214" lon="-90.19158552758797497972409474"/>
-  <node visible="true" id="-80" lat="29.93597245342379764565521327" lon="-90.19164874940952358883805573"/>
-  <node visible="true" id="-81" lat="29.93605465515254238084708049" lon="-90.19155948266458722173410933"/>
+  <node visible="true" id="-74" lat="29.93684065285628292940600659" lon="-90.19230382699383596900588600"/>
+  <node visible="true" id="-75" lat="29.93682216352982194962351059" lon="-90.19232920580610368688212475"/>
+  <node visible="true" id="-76" lat="29.93680326780542344522473286" lon="-90.19231087422942039211193332"/>
+  <node visible="true" id="-77" lat="29.93674436866571042514806322" lon="-90.19239172029746498537861044"/>
+  <node visible="true" id="-78" lat="29.93680054369515630696696462" lon="-90.19244621815217044513701694"/>
+  <node visible="true" id="-79" lat="29.93680447400508271016406070" lon="-90.19244082333321443911700044"/>
+  <node visible="true" id="-80" lat="29.93683253162166835181778879" lon="-90.19246804326766664416936692"/>
+  <node visible="true" id="-81" lat="29.93688190459559095302211063" lon="-90.19240027293730577184760477"/>
+  <node visible="true" id="-82" lat="29.93685283806306074438907672" lon="-90.19237207419500634841824649"/>
+  <node visible="true" id="-83" lat="29.93687692319145554620263283" lon="-90.19233901446402512647182448"/>
   <way visible="true" id="-12">
     <nd ref="-74"/>
     <nd ref="-75"/>
@@ -257,55 +259,53 @@
     <nd ref="-79"/>
     <nd ref="-80"/>
     <nd ref="-81"/>
+    <nd ref="-82"/>
+    <nd ref="-83"/>
     <nd ref="-74"/>
     <tag k="building" v="yes"/>
-    <tag k="addr:housenumber" v="41"/>
+    <tag k="addr:housenumber" v="106"/>
     <tag k="addr:street" v="Elodie Avenue"/>
     <tag k="addr:city" v="Harahan"/>
     <tag k="addr:postcode" v="70123"/>
   </way>
-  <node visible="true" id="-82" lat="29.93586445305174947861814871" lon="-90.19151435517392201290931553"/>
-  <node visible="true" id="-83" lat="29.93591577440048823177676240" lon="-90.19157963748503448186966125"/>
-  <node visible="true" id="-84" lat="29.93600331280533666244991764" lon="-90.19148799859647169796517119"/>
-  <node visible="true" id="-85" lat="29.93598970217171384433640924" lon="-90.19148723416975599320721813"/>
-  <node visible="true" id="-86" lat="29.93600727066031197409756714" lon="-90.19146884272896613765624352"/>
-  <node visible="true" id="-87" lat="29.93598469836482678374522948" lon="-90.19144013005445970065920847"/>
-  <node visible="true" id="-88" lat="29.93597125298430228212964721" lon="-90.19145420524760936586972093"/>
-  <node visible="true" id="-89" lat="29.93594897807463794947580027" lon="-90.19142587086744811131211463"/>
+  <node visible="true" id="-84" lat="29.93771074232769180412105925" lon="-90.19338193965982952704507625"/>
+  <node visible="true" id="-85" lat="29.93765964255958067496976582" lon="-90.19334219090569604304619133"/>
+  <node visible="true" id="-86" lat="29.93766907173145597198526957" lon="-90.19332604869978808892483357"/>
+  <node visible="true" id="-87" lat="29.93763167749343878654144646" lon="-90.19329696101685556186566828"/>
+  <node visible="true" id="-88" lat="29.93762189106755755574340583" lon="-90.19331371481487735763948876"/>
+  <node visible="true" id="-89" lat="29.93762009707801041713537415" lon="-90.19331231933294645841669990"/>
+  <node visible="true" id="-90" lat="29.93755411832173152220093471" lon="-90.19342527112272023259720299"/>
+  <node visible="true" id="-91" lat="29.93764440638116752779751550" lon="-90.19349550304177398629690288"/>
   <way visible="true" id="-13">
-    <nd ref="-82"/>
-    <nd ref="-83"/>
     <nd ref="-84"/>
     <nd ref="-85"/>
     <nd ref="-86"/>
     <nd ref="-87"/>
     <nd ref="-88"/>
     <nd ref="-89"/>
-    <nd ref="-82"/>
+    <nd ref="-90"/>
+    <nd ref="-91"/>
+    <nd ref="-84"/>
     <tag k="building" v="yes"/>
-    <tag k="addr:housenumber" v="37"/>
+    <tag k="addr:housenumber" v="142"/>
     <tag k="addr:street" v="Elodie Avenue"/>
     <tag k="addr:city" v="Harahan"/>
     <tag k="addr:postcode" v="70123"/>
   </way>
-  <node visible="true" id="-90" lat="29.94244255580433744512447447" lon="-90.19231068914706384020973928"/>
-  <node visible="true" id="-91" lat="29.94243154096007231146359118" lon="-90.19233809054274786376481643"/>
-  <node visible="true" id="-92" lat="29.94238808361619419429189293" lon="-90.19244481857329276408563601"/>
-  <node visible="true" id="-93" lat="29.94288615539725384451230639" lon="-90.19271618552666325285827043"/>
-  <node visible="true" id="-94" lat="29.94298044718892271021104534" lon="-90.19248829004956746757670771"/>
-  <node visible="true" id="-95" lat="29.94248173731631723626378516" lon="-90.19221549544482741112005897"/>
+  <node visible="true" id="-92" lat="29.93784002444730063530187181" lon="-90.19354274610776656118105166"/>
+  <node visible="true" id="-93" lat="29.93778242523138288788686623" lon="-90.19360656972800427411129931"/>
+  <node visible="true" id="-94" lat="29.93784748767742698305482918" lon="-90.19368476142746260393323610"/>
+  <node visible="true" id="-95" lat="29.93790508685567530733351305" lon="-90.19362093780723910185770364"/>
   <way visible="true" id="-14">
-    <nd ref="-90"/>
-    <nd ref="-91"/>
     <nd ref="-92"/>
     <nd ref="-93"/>
     <nd ref="-94"/>
     <nd ref="-95"/>
-    <nd ref="-90"/>
+    <nd ref="-92"/>
     <tag k="building" v="yes"/>
-    <tag k="addr:housenumber" v="265"/>
-    <tag k="addr:street" v="Funston Street"/>
-    <tag k="addr:city" v="Jefferson"/>
+    <tag k="addr:housenumber" v="156"/>
+    <tag k="addr:street" v="Elodie Avenue"/>
+    <tag k="addr:city" v="Harahan"/>
     <tag k="addr:postcode" v="70123"/>
   </way>
   <node visible="true" id="-96" lat="29.93597254858283918110828381" lon="-90.19735817609955574880586937"/>
@@ -352,70 +352,70 @@
     <tag k="addr:city" v="Harahan"/>
     <tag k="addr:postcode" v="70123"/>
   </way>
-  <node visible="true" id="-110" lat="29.93586543259895904611767037" lon="-90.19200195153878496512334095"/>
-  <node visible="true" id="-111" lat="29.93593321322777711657181499" lon="-90.19206111504688294644438429"/>
-  <node visible="true" id="-112" lat="29.93599644499333578551159007" lon="-90.19196465095251369348261505"/>
-  <node visible="true" id="-113" lat="29.93592866440758726298554393" lon="-90.19190548744442992301628692"/>
+  <node visible="true" id="-110" lat="29.94165549405723680820301524" lon="-90.19190951743873085888481000">
+    <tag k="addr:housenumber" v="219"/>
+    <tag k="addr:street" v="Funston Street"/>
+    <tag k="addr:city" v="Jefferson"/>
+    <tag k="addr:postcode" v="70123"/>
+  </node>
+  <node visible="true" id="-111" lat="29.94147362388937949617684353" lon="-90.19181458727865674518398009">
+    <tag k="addr:housenumber" v="215"/>
+    <tag k="addr:street" v="Funston Street"/>
+    <tag k="addr:city" v="Jefferson"/>
+    <tag k="addr:postcode" v="70123"/>
+  </node>
+  <node visible="true" id="-112" lat="29.94196004394558130456971412" lon="-90.19218673816429543421691051">
+    <tag k="addr:housenumber" v="225"/>
+    <tag k="addr:street" v="Funston Street"/>
+    <tag k="addr:city" v="Jefferson"/>
+    <tag k="addr:postcode" v="70123"/>
+  </node>
+  <node visible="true" id="-113" lat="29.94194949406445616091332340" lon="-90.19206033296532609710993711">
+    <tag k="addr:housenumber" v="223"/>
+    <tag k="addr:street" v="Funston Street"/>
+    <tag k="addr:city" v="Jefferson"/>
+    <tag k="addr:postcode" v="70123"/>
+  </node>
+  <node visible="true" id="-114" lat="29.94202474031718708147309371" lon="-90.19229940199998907246481394">
+    <tag k="addr:housenumber" v="231"/>
+    <tag k="addr:street" v="Funston Street"/>
+    <tag k="addr:city" v="Jefferson"/>
+    <tag k="addr:postcode" v="70123"/>
+  </node>
+  <node visible="true" id="-115" lat="29.94208274461473351379936503" lon="-90.19211597658063794824556680">
+    <tag k="addr:housenumber" v="227"/>
+    <tag k="addr:street" v="Funston Street"/>
+    <tag k="addr:city" v="Jefferson"/>
+    <tag k="addr:postcode" v="70123"/>
+  </node>
+  <node visible="true" id="-116" lat="29.94142108570285287783008243" lon="-90.19231339922529855357424822">
+    <tag k="addr:housenumber" v="202"/>
+    <tag k="addr:street" v="Funston Street"/>
+    <tag k="addr:city" v="Jefferson"/>
+    <tag k="addr:postcode" v="70123"/>
+  </node>
+  <node visible="true" id="-117" lat="29.94154573037613076280649693" lon="-90.19233601612188522267388180">
+    <tag k="addr:housenumber" v="200"/>
+    <tag k="addr:street" v="Funston Street"/>
+    <tag k="addr:city" v="Jefferson"/>
+    <tag k="addr:postcode" v="70123"/>
+  </node>
+  <node visible="true" id="-118" lat="29.93586543259895904611767037" lon="-90.19200195153878496512334095"/>
+  <node visible="true" id="-119" lat="29.93593321322777711657181499" lon="-90.19206111504688294644438429"/>
+  <node visible="true" id="-120" lat="29.93599644499333578551159007" lon="-90.19196465095251369348261505"/>
+  <node visible="true" id="-121" lat="29.93592866440758726298554393" lon="-90.19190548744442992301628692"/>
   <way visible="true" id="-17">
-    <nd ref="-110"/>
-    <nd ref="-111"/>
-    <nd ref="-112"/>
-    <nd ref="-113"/>
-    <nd ref="-110"/>
+    <nd ref="-118"/>
+    <nd ref="-119"/>
+    <nd ref="-120"/>
+    <nd ref="-121"/>
+    <nd ref="-118"/>
     <tag k="building" v="yes"/>
     <tag k="addr:housenumber" v="40"/>
     <tag k="addr:street" v="Elodie Avenue"/>
     <tag k="addr:city" v="Harahan"/>
     <tag k="addr:postcode" v="70123"/>
   </way>
-  <node visible="true" id="-114" lat="29.94165549405723680820301524" lon="-90.19190951743873085888481000">
-    <tag k="addr:housenumber" v="219"/>
-    <tag k="addr:street" v="Funston Street"/>
-    <tag k="addr:city" v="Jefferson"/>
-    <tag k="addr:postcode" v="70123"/>
-  </node>
-  <node visible="true" id="-115" lat="29.94147362388937949617684353" lon="-90.19181458727865674518398009">
-    <tag k="addr:housenumber" v="215"/>
-    <tag k="addr:street" v="Funston Street"/>
-    <tag k="addr:city" v="Jefferson"/>
-    <tag k="addr:postcode" v="70123"/>
-  </node>
-  <node visible="true" id="-116" lat="29.94196004394558130456971412" lon="-90.19218673816429543421691051">
-    <tag k="addr:housenumber" v="225"/>
-    <tag k="addr:street" v="Funston Street"/>
-    <tag k="addr:city" v="Jefferson"/>
-    <tag k="addr:postcode" v="70123"/>
-  </node>
-  <node visible="true" id="-117" lat="29.94194949406445616091332340" lon="-90.19206033296532609710993711">
-    <tag k="addr:housenumber" v="223"/>
-    <tag k="addr:street" v="Funston Street"/>
-    <tag k="addr:city" v="Jefferson"/>
-    <tag k="addr:postcode" v="70123"/>
-  </node>
-  <node visible="true" id="-118" lat="29.94202474031718708147309371" lon="-90.19229940199998907246481394">
-    <tag k="addr:housenumber" v="231"/>
-    <tag k="addr:street" v="Funston Street"/>
-    <tag k="addr:city" v="Jefferson"/>
-    <tag k="addr:postcode" v="70123"/>
-  </node>
-  <node visible="true" id="-119" lat="29.94208274461473351379936503" lon="-90.19211597658063794824556680">
-    <tag k="addr:housenumber" v="227"/>
-    <tag k="addr:street" v="Funston Street"/>
-    <tag k="addr:city" v="Jefferson"/>
-    <tag k="addr:postcode" v="70123"/>
-  </node>
-  <node visible="true" id="-120" lat="29.94142108570285287783008243" lon="-90.19231339922529855357424822">
-    <tag k="addr:housenumber" v="202"/>
-    <tag k="addr:street" v="Funston Street"/>
-    <tag k="addr:city" v="Jefferson"/>
-    <tag k="addr:postcode" v="70123"/>
-  </node>
-  <node visible="true" id="-121" lat="29.94154573037613076280649693" lon="-90.19233601612188522267388180">
-    <tag k="addr:housenumber" v="200"/>
-    <tag k="addr:street" v="Funston Street"/>
-    <tag k="addr:city" v="Jefferson"/>
-    <tag k="addr:postcode" v="70123"/>
-  </node>
   <node visible="true" id="-122" lat="29.93598440424449336205725558" lon="-90.19208235266862061507708859"/>
   <node visible="true" id="-123" lat="29.93619663685445431156040286" lon="-90.19234755820409077387012076"/>
   <node visible="true" id="-124" lat="29.93634213041733715954251238" lon="-90.19219251448390650693909265"/>

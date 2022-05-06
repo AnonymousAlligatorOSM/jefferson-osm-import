@@ -18,7 +18,6 @@
     <nd ref="-6"/>
     <nd ref="-1"/>
     <tag k="building" v="yes"/>
-    <tag k="building:levels" v="1"/>
     <tag k="addr:housenumber" v="1911"/>
     <tag k="addr:street" v="Friedrica Street"/>
     <tag k="addr:city" v="Terrytown"/>
@@ -39,7 +38,6 @@
     <nd ref="-12"/>
     <nd ref="-7"/>
     <tag k="building" v="yes"/>
-    <tag k="building:levels" v="1"/>
     <tag k="addr:housenumber" v="1908"/>
     <tag k="addr:street" v="Friedrica Street"/>
     <tag k="addr:city" v="Terrytown"/>
@@ -64,76 +62,66 @@
     <nd ref="-20"/>
     <nd ref="-13"/>
     <tag k="building" v="yes"/>
-    <tag k="building:levels" v="1"/>
     <tag k="addr:housenumber" v="1905"/>
     <tag k="addr:street" v="Friedrica Street"/>
     <tag k="addr:city" v="Terrytown"/>
     <tag k="addr:postcode" v="70056"/>
   </way>
-  <node visible="true" id="-21" lat="29.90802584761045324057704420" lon="-90.03300059685956568955589319"/>
-  <node visible="true" id="-22" lat="29.90787490520594715803781583" lon="-90.03308748346630352443753509"/>
-  <node visible="true" id="-23" lat="29.90791754583814210377568088" lon="-90.03318606972696613865991822"/>
-  <node visible="true" id="-24" lat="29.90806848817803498263856454" lon="-90.03309918312022830377827631"/>
+  <node visible="true" id="-21" lat="29.90797875036754760458279634" lon="-90.03392904494316439922840800"/>
+  <node visible="true" id="-22" lat="29.90788253015270825585503189" lon="-90.03399145003520231966831489"/>
+  <node visible="true" id="-23" lat="29.90791935760317699077859288" lon="-90.03406702052112109413428698"/>
+  <node visible="true" id="-24" lat="29.90788777408896592646669887" lon="-90.03408750448677722033608006"/>
+  <node visible="true" id="-25" lat="29.90791075287428668616485083" lon="-90.03413465730133680153812747"/>
+  <node visible="true" id="-26" lat="29.90803855653827980631831451" lon="-90.03405176824364275489642750"/>
   <way visible="true" id="-4">
     <nd ref="-21"/>
     <nd ref="-22"/>
     <nd ref="-23"/>
     <nd ref="-24"/>
-    <nd ref="-21"/>
-    <tag k="building" v="yes"/>
-    <tag k="building:levels" v="1"/>
-    <tag k="addr:housenumber" v="1917"/>
-    <tag k="addr:street" v="Friedrica Street"/>
-    <tag k="addr:city" v="Terrytown"/>
-    <tag k="addr:postcode" v="70056"/>
-  </way>
-  <node visible="true" id="-25" lat="29.90764456230256485014251666" lon="-90.03323885063355191959999502"/>
-  <node visible="true" id="-26" lat="29.90758367276132645429242984" lon="-90.03308736642382825721142581"/>
-  <node visible="true" id="-27" lat="29.90748400514327087762467272" lon="-90.03314068280955950740462868"/>
-  <node visible="true" id="-28" lat="29.90754489474545252392090333" lon="-90.03329216701926895893848268"/>
-  <way visible="true" id="-5">
     <nd ref="-25"/>
     <nd ref="-26"/>
-    <nd ref="-27"/>
-    <nd ref="-28"/>
-    <nd ref="-25"/>
+    <nd ref="-21"/>
     <tag k="building" v="yes"/>
-    <tag k="building:levels" v="1"/>
-    <tag k="addr:housenumber" v="1916"/>
+    <tag k="addr:housenumber" v="1906"/>
     <tag k="addr:street" v="Friedrica Street"/>
     <tag k="addr:city" v="Terrytown"/>
     <tag k="addr:postcode" v="70056"/>
   </way>
-  <node visible="true" id="-29" lat="29.90797875036754760458279634" lon="-90.03392904494316439922840800"/>
-  <node visible="true" id="-30" lat="29.90788253015270825585503189" lon="-90.03399145003520231966831489"/>
-  <node visible="true" id="-31" lat="29.90791935760317699077859288" lon="-90.03406702052112109413428698"/>
-  <node visible="true" id="-32" lat="29.90788777408896592646669887" lon="-90.03408750448677722033608006"/>
-  <node visible="true" id="-33" lat="29.90791075287428668616485083" lon="-90.03413465730133680153812747"/>
-  <node visible="true" id="-34" lat="29.90803855653827980631831451" lon="-90.03405176824364275489642750"/>
-  <way visible="true" id="-6">
+  <node visible="true" id="-27" lat="29.90841184915825579082593322" lon="-90.03384744343497914087492973"/>
+  <node visible="true" id="-28" lat="29.90831488279010486053266504" lon="-90.03390533987494848133792402"/>
+  <node visible="true" id="-29" lat="29.90835812556168349374274840" lon="-90.03400172740316520503256470"/>
+  <node visible="true" id="-30" lat="29.90833602121990608679880097" lon="-90.03401492540689332599868067"/>
+  <node visible="true" id="-31" lat="29.90835239566835213054218912" lon="-90.03405142382445092152920552"/>
+  <node visible="true" id="-32" lat="29.90842146212965957374763093" lon="-90.03401018578229297872894676"/>
+  <node visible="true" id="-33" lat="29.90841136717570591940784652" lon="-90.03398768425424236738763284"/>
+  <node visible="true" id="-34" lat="29.90846137136775695353207993" lon="-90.03395782785267442704935092"/>
+  <way visible="true" id="-5">
+    <nd ref="-27"/>
+    <nd ref="-28"/>
     <nd ref="-29"/>
     <nd ref="-30"/>
     <nd ref="-31"/>
     <nd ref="-32"/>
     <nd ref="-33"/>
     <nd ref="-34"/>
-    <nd ref="-29"/>
+    <nd ref="-27"/>
     <tag k="building" v="yes"/>
-    <tag k="building:levels" v="1"/>
-    <tag k="addr:housenumber" v="1906"/>
+    <tag k="addr:housenumber" v="1907"/>
     <tag k="addr:street" v="Friedrica Street"/>
     <tag k="addr:city" v="Terrytown"/>
     <tag k="addr:postcode" v="70056"/>
   </way>
-  <node visible="true" id="-35" lat="29.90841184915825579082593322" lon="-90.03384744343497914087492973"/>
-  <node visible="true" id="-36" lat="29.90831488279010486053266504" lon="-90.03390533987494848133792402"/>
-  <node visible="true" id="-37" lat="29.90835812556168349374274840" lon="-90.03400172740316520503256470"/>
-  <node visible="true" id="-38" lat="29.90833602121990608679880097" lon="-90.03401492540689332599868067"/>
-  <node visible="true" id="-39" lat="29.90835239566835213054218912" lon="-90.03405142382445092152920552"/>
-  <node visible="true" id="-40" lat="29.90842146212965957374763093" lon="-90.03401018578229297872894676"/>
-  <node visible="true" id="-41" lat="29.90841136717570591940784652" lon="-90.03398768425424236738763284"/>
-  <node visible="true" id="-42" lat="29.90846137136775695353207993" lon="-90.03395782785267442704935092"/>
-  <way visible="true" id="-7">
+  <node visible="true" id="-35" lat="29.90781360291095225534263591" lon="-90.03359616702098833229683805"/>
+  <node visible="true" id="-36" lat="29.90775141441320172930318222" lon="-90.03363794083230686737806536"/>
+  <node visible="true" id="-37" lat="29.90775967657350165040952561" lon="-90.03365431022510279035486747"/>
+  <node visible="true" id="-38" lat="29.90767893770933483210683335" lon="-90.03370854481927665347029688"/>
+  <node visible="true" id="-39" lat="29.90772734281511802123532107" lon="-90.03380444731232046251534484"/>
+  <node visible="true" id="-40" lat="29.90775493344442637067004398" lon="-90.03378591389689233892568154"/>
+  <node visible="true" id="-41" lat="29.90776175200952735622195178" lon="-90.03379942316918516098667169"/>
+  <node visible="true" id="-42" lat="29.90781019911726090754200413" lon="-90.03376687984557236177352024"/>
+  <node visible="true" id="-43" lat="29.90780318862593034623387211" lon="-90.03375299031294787255319534"/>
+  <node visible="true" id="-44" lat="29.90787007817305109824701503" lon="-90.03370805864652481886878377"/>
+  <way visible="true" id="-6">
     <nd ref="-35"/>
     <nd ref="-36"/>
     <nd ref="-37"/>
@@ -142,47 +130,51 @@
     <nd ref="-40"/>
     <nd ref="-41"/>
     <nd ref="-42"/>
-    <nd ref="-35"/>
-    <tag k="building" v="yes"/>
-    <tag k="building:levels" v="1"/>
-    <tag k="addr:housenumber" v="1907"/>
-    <tag k="addr:street" v="Friedrica Street"/>
-    <tag k="addr:city" v="Terrytown"/>
-    <tag k="addr:postcode" v="70056"/>
-  </way>
-  <node visible="true" id="-43" lat="29.90781360291095225534263591" lon="-90.03359616702098833229683805"/>
-  <node visible="true" id="-44" lat="29.90775141441320172930318222" lon="-90.03363794083230686737806536"/>
-  <node visible="true" id="-45" lat="29.90775967657350165040952561" lon="-90.03365431022510279035486747"/>
-  <node visible="true" id="-46" lat="29.90767893770933483210683335" lon="-90.03370854481927665347029688"/>
-  <node visible="true" id="-47" lat="29.90772734281511802123532107" lon="-90.03380444731232046251534484"/>
-  <node visible="true" id="-48" lat="29.90775493344442637067004398" lon="-90.03378591389689233892568154"/>
-  <node visible="true" id="-49" lat="29.90776175200952735622195178" lon="-90.03379942316918516098667169"/>
-  <node visible="true" id="-50" lat="29.90781019911726090754200413" lon="-90.03376687984557236177352024"/>
-  <node visible="true" id="-51" lat="29.90780318862593034623387211" lon="-90.03375299031294787255319534"/>
-  <node visible="true" id="-52" lat="29.90787007817305109824701503" lon="-90.03370805864652481886878377"/>
-  <way visible="true" id="-8">
     <nd ref="-43"/>
     <nd ref="-44"/>
-    <nd ref="-45"/>
-    <nd ref="-46"/>
-    <nd ref="-47"/>
-    <nd ref="-48"/>
-    <nd ref="-49"/>
-    <nd ref="-50"/>
-    <nd ref="-51"/>
-    <nd ref="-52"/>
-    <nd ref="-43"/>
+    <nd ref="-35"/>
     <tag k="building" v="yes"/>
-    <tag k="building:levels" v="1"/>
     <tag k="addr:housenumber" v="1910"/>
     <tag k="addr:street" v="Friedrica Street"/>
     <tag k="addr:city" v="Terrytown"/>
     <tag k="addr:postcode" v="70056"/>
   </way>
-  <node visible="true" id="-53" lat="29.90834626765098036571544071" lon="-90.03366498274992579808895243"/>
-  <node visible="true" id="-54" lat="29.90820239871731089920103841" lon="-90.03375918240567443717736751"/>
-  <node visible="true" id="-55" lat="29.90824918064382842430859455" lon="-90.03385427199957291577447904"/>
-  <node visible="true" id="-56" lat="29.90839304950995014564796293" lon="-90.03376007234382427668606397"/>
+  <node visible="true" id="-45" lat="29.90834626765098036571544071" lon="-90.03366498274992579808895243"/>
+  <node visible="true" id="-46" lat="29.90820239871731089920103841" lon="-90.03375918240567443717736751"/>
+  <node visible="true" id="-47" lat="29.90824918064382842430859455" lon="-90.03385427199957291577447904"/>
+  <node visible="true" id="-48" lat="29.90839304950995014564796293" lon="-90.03376007234382427668606397"/>
+  <way visible="true" id="-7">
+    <nd ref="-45"/>
+    <nd ref="-46"/>
+    <nd ref="-47"/>
+    <nd ref="-48"/>
+    <nd ref="-45"/>
+    <tag k="building" v="yes"/>
+    <tag k="addr:housenumber" v="1909"/>
+    <tag k="addr:street" v="Friedrica Street"/>
+    <tag k="addr:city" v="Terrytown"/>
+    <tag k="addr:postcode" v="70056"/>
+  </way>
+  <node visible="true" id="-49" lat="29.90802584761045324057704420" lon="-90.03300059685956568955589319"/>
+  <node visible="true" id="-50" lat="29.90787490520594715803781583" lon="-90.03308748346630352443753509"/>
+  <node visible="true" id="-51" lat="29.90791754583814210377568088" lon="-90.03318606972696613865991822"/>
+  <node visible="true" id="-52" lat="29.90806848817803498263856454" lon="-90.03309918312022830377827631"/>
+  <way visible="true" id="-8">
+    <nd ref="-49"/>
+    <nd ref="-50"/>
+    <nd ref="-51"/>
+    <nd ref="-52"/>
+    <nd ref="-49"/>
+    <tag k="building" v="yes"/>
+    <tag k="addr:housenumber" v="1917"/>
+    <tag k="addr:street" v="Friedrica Street"/>
+    <tag k="addr:city" v="Terrytown"/>
+    <tag k="addr:postcode" v="70056"/>
+  </way>
+  <node visible="true" id="-53" lat="29.90764456230256485014251666" lon="-90.03323885063355191959999502"/>
+  <node visible="true" id="-54" lat="29.90758367276132645429242984" lon="-90.03308736642382825721142581"/>
+  <node visible="true" id="-55" lat="29.90748400514327087762467272" lon="-90.03314068280955950740462868"/>
+  <node visible="true" id="-56" lat="29.90754489474545252392090333" lon="-90.03329216701926895893848268"/>
   <way visible="true" id="-9">
     <nd ref="-53"/>
     <nd ref="-54"/>
@@ -190,8 +182,7 @@
     <nd ref="-56"/>
     <nd ref="-53"/>
     <tag k="building" v="yes"/>
-    <tag k="building:levels" v="1"/>
-    <tag k="addr:housenumber" v="1909"/>
+    <tag k="addr:housenumber" v="1916"/>
     <tag k="addr:street" v="Friedrica Street"/>
     <tag k="addr:city" v="Terrytown"/>
     <tag k="addr:postcode" v="70056"/>
@@ -215,20 +206,21 @@
     <nd ref="-64"/>
     <nd ref="-57"/>
     <tag k="building" v="yes"/>
-    <tag k="building:levels" v="1"/>
     <tag k="addr:housenumber" v="1914"/>
     <tag k="addr:street" v="Friedrica Street"/>
     <tag k="addr:city" v="Terrytown"/>
     <tag k="addr:postcode" v="70056"/>
   </way>
-  <node visible="true" id="-65" lat="29.90753021235258657384292746" lon="-90.03295005121758265431708423"/>
-  <node visible="true" id="-66" lat="29.90737995952854433312495530" lon="-90.03303108117211195349227637"/>
-  <node visible="true" id="-67" lat="29.90742059523257267983353813" lon="-90.03313136129264648843673058"/>
-  <node visible="true" id="-68" lat="29.90742335807718177420611028" lon="-90.03312987131666034201771254"/>
-  <node visible="true" id="-69" lat="29.90743265670099049202690367" lon="-90.03315281831361005515645957"/>
-  <node visible="true" id="-70" lat="29.90748200661019851054334140" lon="-90.03312620436466318096790928"/>
-  <node visible="true" id="-71" lat="29.90747222105000346914494003" lon="-90.03310205570194568736042129"/>
-  <node visible="true" id="-72" lat="29.90757036105482669086086389" lon="-90.03304912967232098708336707"/>
+  <node visible="true" id="-65" lat="29.90824031517679415514976426" lon="-90.03343991097071352669445332"/>
+  <node visible="true" id="-66" lat="29.90821214032303743124430184" lon="-90.03345835162996024791937089"/>
+  <node visible="true" id="-67" lat="29.90815102508703304806658707" lon="-90.03333408014174210620694794"/>
+  <node visible="true" id="-68" lat="29.90802870424831283457933750" lon="-90.03341413996523101559432689"/>
+  <node visible="true" id="-69" lat="29.90807385189386735646621673" lon="-90.03350594289565833605593070"/>
+  <node visible="true" id="-70" lat="29.90809813440169406817403797" lon="-90.03349004982925407603033818"/>
+  <node visible="true" id="-71" lat="29.90811727869199287965784606" lon="-90.03352897772744256599253276"/>
+  <node visible="true" id="-72" lat="29.90812343613737667169516499" lon="-90.03352494763620939011161681"/>
+  <node visible="true" id="-73" lat="29.90813391936113774249861308" lon="-90.03354626417218753431370715"/>
+  <node visible="true" id="-74" lat="29.90825397501257043586520012" lon="-90.03346768684708933960791910"/>
   <way visible="true" id="-11">
     <nd ref="-65"/>
     <nd ref="-66"/>
@@ -238,27 +230,24 @@
     <nd ref="-70"/>
     <nd ref="-71"/>
     <nd ref="-72"/>
+    <nd ref="-73"/>
+    <nd ref="-74"/>
     <nd ref="-65"/>
     <tag k="building" v="yes"/>
-    <tag k="building:levels" v="1"/>
-    <tag k="addr:housenumber" v="1918"/>
+    <tag k="addr:housenumber" v="1913"/>
     <tag k="addr:street" v="Friedrica Street"/>
     <tag k="addr:city" v="Terrytown"/>
     <tag k="addr:postcode" v="70056"/>
   </way>
-  <node visible="true" id="-73" lat="29.90824031517679415514976426" lon="-90.03343991097071352669445332"/>
-  <node visible="true" id="-74" lat="29.90821214032303743124430184" lon="-90.03345835162996024791937089"/>
-  <node visible="true" id="-75" lat="29.90815102508703304806658707" lon="-90.03333408014174210620694794"/>
-  <node visible="true" id="-76" lat="29.90802870424831283457933750" lon="-90.03341413996523101559432689"/>
-  <node visible="true" id="-77" lat="29.90807385189386735646621673" lon="-90.03350594289565833605593070"/>
-  <node visible="true" id="-78" lat="29.90809813440169406817403797" lon="-90.03349004982925407603033818"/>
-  <node visible="true" id="-79" lat="29.90811727869199287965784606" lon="-90.03352897772744256599253276"/>
-  <node visible="true" id="-80" lat="29.90812343613737667169516499" lon="-90.03352494763620939011161681"/>
-  <node visible="true" id="-81" lat="29.90813391936113774249861308" lon="-90.03354626417218753431370715"/>
-  <node visible="true" id="-82" lat="29.90825397501257043586520012" lon="-90.03346768684708933960791910"/>
+  <node visible="true" id="-75" lat="29.90753021235258657384292746" lon="-90.03295005121758265431708423"/>
+  <node visible="true" id="-76" lat="29.90737995952854433312495530" lon="-90.03303108117211195349227637"/>
+  <node visible="true" id="-77" lat="29.90742059523257267983353813" lon="-90.03313136129264648843673058"/>
+  <node visible="true" id="-78" lat="29.90742335807718177420611028" lon="-90.03312987131666034201771254"/>
+  <node visible="true" id="-79" lat="29.90743265670099049202690367" lon="-90.03315281831361005515645957"/>
+  <node visible="true" id="-80" lat="29.90748200661019851054334140" lon="-90.03312620436466318096790928"/>
+  <node visible="true" id="-81" lat="29.90747222105000346914494003" lon="-90.03310205570194568736042129"/>
+  <node visible="true" id="-82" lat="29.90757036105482669086086389" lon="-90.03304912967232098708336707"/>
   <way visible="true" id="-12">
-    <nd ref="-73"/>
-    <nd ref="-74"/>
     <nd ref="-75"/>
     <nd ref="-76"/>
     <nd ref="-77"/>
@@ -267,10 +256,9 @@
     <nd ref="-80"/>
     <nd ref="-81"/>
     <nd ref="-82"/>
-    <nd ref="-73"/>
+    <nd ref="-75"/>
     <tag k="building" v="yes"/>
-    <tag k="building:levels" v="1"/>
-    <tag k="addr:housenumber" v="1913"/>
+    <tag k="addr:housenumber" v="1918"/>
     <tag k="addr:street" v="Friedrica Street"/>
     <tag k="addr:city" v="Terrytown"/>
     <tag k="addr:postcode" v="70056"/>
@@ -290,7 +278,6 @@
     <nd ref="-88"/>
     <nd ref="-83"/>
     <tag k="building" v="yes"/>
-    <tag k="building:levels" v="1"/>
     <tag k="addr:housenumber" v="1902"/>
     <tag k="addr:street" v="Friedrica Street"/>
     <tag k="addr:city" v="Terrytown"/>
@@ -319,31 +306,25 @@
     <nd ref="-98"/>
     <nd ref="-89"/>
     <tag k="building" v="yes"/>
-    <tag k="building:levels" v="1"/>
     <tag k="addr:housenumber" v="1903"/>
     <tag k="addr:street" v="Friedrica Street"/>
     <tag k="addr:city" v="Terrytown"/>
     <tag k="addr:postcode" v="70056"/>
   </way>
-  <node visible="true" id="-99" lat="29.91385130117551582884516392" lon="-90.03857155244011778449930716">
-    <tag k="addr:housenumber" v="708"/>
-    <tag k="addr:street" v="Borden Avenue"/>
-    <tag k="addr:city" v="Terrytown"/>
-    <tag k="addr:postcode" v="70056"/>
-  </node>
-  <node visible="true" id="-100" lat="29.90856643331236597305178293" lon="-90.03454281265594261185469804"/>
-  <node visible="true" id="-101" lat="29.90856477790405065775303228" lon="-90.03449891694111784090637229"/>
-  <node visible="true" id="-102" lat="29.90849332823675510439898062" lon="-90.03450250304643986964947544"/>
-  <node visible="true" id="-103" lat="29.90849983919840227031272661" lon="-90.03467515113695185391406994"/>
-  <node visible="true" id="-104" lat="29.90850318804268681560643017" lon="-90.03467498305630556387768593"/>
-  <node visible="true" id="-105" lat="29.90850368538102443949355802" lon="-90.03468817073432717279501958"/>
-  <node visible="true" id="-106" lat="29.90853429940216301474720240" lon="-90.03468663419681661252980120"/>
-  <node visible="true" id="-107" lat="29.90853379242080123390223889" lon="-90.03467319080307618150982307"/>
-  <node visible="true" id="-108" lat="29.90860981378392935425836185" lon="-90.03466937523970159418240655"/>
-  <node visible="true" id="-109" lat="29.90860581995239186881008209" lon="-90.03456347257630909552972298"/>
-  <node visible="true" id="-110" lat="29.90860072821977766466261528" lon="-90.03456372813387531550688436"/>
-  <node visible="true" id="-111" lat="29.90859987614849302417496801" lon="-90.03454113413732784465537407"/>
+  <node visible="true" id="-99" lat="29.90856643331236597305178293" lon="-90.03454281265594261185469804"/>
+  <node visible="true" id="-100" lat="29.90856477790405065775303228" lon="-90.03449891694111784090637229"/>
+  <node visible="true" id="-101" lat="29.90849332823675510439898062" lon="-90.03450250304643986964947544"/>
+  <node visible="true" id="-102" lat="29.90849983919840227031272661" lon="-90.03467515113695185391406994"/>
+  <node visible="true" id="-103" lat="29.90850318804268681560643017" lon="-90.03467498305630556387768593"/>
+  <node visible="true" id="-104" lat="29.90850368538102443949355802" lon="-90.03468817073432717279501958"/>
+  <node visible="true" id="-105" lat="29.90853429940216301474720240" lon="-90.03468663419681661252980120"/>
+  <node visible="true" id="-106" lat="29.90853379242080123390223889" lon="-90.03467319080307618150982307"/>
+  <node visible="true" id="-107" lat="29.90860981378392935425836185" lon="-90.03466937523970159418240655"/>
+  <node visible="true" id="-108" lat="29.90860581995239186881008209" lon="-90.03456347257630909552972298"/>
+  <node visible="true" id="-109" lat="29.90860072821977766466261528" lon="-90.03456372813387531550688436"/>
+  <node visible="true" id="-110" lat="29.90859987614849302417496801" lon="-90.03454113413732784465537407"/>
   <way visible="true" id="-15">
+    <nd ref="-99"/>
     <nd ref="-100"/>
     <nd ref="-101"/>
     <nd ref="-102"/>
@@ -355,15 +336,19 @@
     <nd ref="-108"/>
     <nd ref="-109"/>
     <nd ref="-110"/>
-    <nd ref="-111"/>
-    <nd ref="-100"/>
+    <nd ref="-99"/>
     <tag k="building" v="yes"/>
-    <tag k="building:levels" v="1"/>
     <tag k="addr:housenumber" v="1901"/>
     <tag k="addr:street" v="Friedrica Street"/>
     <tag k="addr:city" v="Terrytown"/>
     <tag k="addr:postcode" v="70056"/>
   </way>
+  <node visible="true" id="-111" lat="29.91385130117551582884516392" lon="-90.03857155244011778449930716">
+    <tag k="addr:housenumber" v="708"/>
+    <tag k="addr:street" v="Borden Avenue"/>
+    <tag k="addr:city" v="Terrytown"/>
+    <tag k="addr:postcode" v="70056"/>
+  </node>
   <node visible="true" id="-112" lat="29.90805037074806804753279721" lon="-90.03407360960927974247169914"/>
   <node visible="true" id="-113" lat="29.90798371468739702550010406" lon="-90.03411939473963343516516034"/>
   <node visible="true" id="-114" lat="29.90801563076545122044080927" lon="-90.03418123335832490283792140"/>
@@ -383,7 +368,6 @@
     <nd ref="-119"/>
     <nd ref="-112"/>
     <tag k="building" v="yes"/>
-    <tag k="building:levels" v="1"/>
     <tag k="addr:housenumber" v="1904"/>
     <tag k="addr:street" v="Friedrica Street"/>
     <tag k="addr:city" v="Terrytown"/>
@@ -400,7 +384,6 @@
     <nd ref="-123"/>
     <nd ref="-120"/>
     <tag k="building" v="yes"/>
-    <tag k="building:levels" v="1"/>
     <tag k="addr:housenumber" v="1915"/>
     <tag k="addr:street" v="Friedrica Street"/>
     <tag k="addr:city" v="Terrytown"/>
@@ -425,7 +408,6 @@
     <nd ref="-131"/>
     <nd ref="-124"/>
     <tag k="building" v="yes"/>
-    <tag k="building:levels" v="1"/>
     <tag k="addr:housenumber" v="1912"/>
     <tag k="addr:street" v="Friedrica Street"/>
     <tag k="addr:city" v="Terrytown"/>

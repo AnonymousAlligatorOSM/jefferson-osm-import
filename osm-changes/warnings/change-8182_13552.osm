@@ -3,95 +3,92 @@
   <changeset_tag k="comment" v="Import buildings and addresses in Jefferson Parish, see https://wiki.openstreetmap.org/wiki/Import/Catalogue/Jefferson_Parish_Addresses_and_Buildings"/>
   <changeset_tag k="source" v="Jefferson Parish Planning Department"/>
   <changeset_tag k="source_file" v="8182_13552"/>
-  <node visible="true" id="-1" lat="29.68478164275796515880756488" lon="-90.10433672931507942394091515"/>
-  <node visible="true" id="-2" lat="29.68491602623246095049580617" lon="-90.10378543762156766661064466"/>
-  <node visible="true" id="-3" lat="29.68475313874954224502289435" lon="-90.10373282984673437567835208"/>
-  <node visible="true" id="-4" lat="29.68461875505723313040107314" lon="-90.10428412154024613300862256"/>
+  <node visible="true" id="-1" lat="29.68106892224632176180421084" lon="-90.10222233837728822436474729"/>
+  <node visible="true" id="-2" lat="29.68123560785821624108393735" lon="-90.10244792545030634300928796"/>
+  <node visible="true" id="-3" lat="29.68129755425783500299985462" lon="-90.10238728444518585547484690"/>
+  <node visible="true" id="-4" lat="29.68113727487596875675990304" lon="-90.10217036722221450872893911"/>
+  <node visible="true" id="-5" lat="29.68109780930619123751057487" lon="-90.10220900107803743139811559"/>
+  <node visible="true" id="-6" lat="29.68109140317631045036250725" lon="-90.10220033122801908120891312"/>
   <way visible="true" id="-1">
     <nd ref="-1"/>
     <nd ref="-2"/>
     <nd ref="-3"/>
     <nd ref="-4"/>
-    <nd ref="-1"/>
-    <tag k="building" v="yes"/>
-    <tag k="building:levels" v="1"/>
-    <tag k="addr:street" v="Privateer Boulevard"/>
-    <tag k="addr:city" v="Barataria"/>
-    <tag k="addr:postcode" v="70036"/>
-  </way>
-  <node visible="true" id="-5" lat="29.68165114313821462133091700" lon="-90.10560923057651905310194707"/>
-  <node visible="true" id="-6" lat="29.68197710978074255194769648" lon="-90.10424816778225931557244621"/>
-  <node visible="true" id="-7" lat="29.68195738941806638422349351" lon="-90.10424191055113851689384319"/>
-  <node visible="true" id="-8" lat="29.68197793421423824611338205" lon="-90.10415612631204851368238451"/>
-  <node visible="true" id="-9" lat="29.68191322544185695164742356" lon="-90.10413559435403385577956215"/>
-  <node visible="true" id="-10" lat="29.68189296411769717565221072" lon="-90.10422019490904688154842006"/>
-  <node visible="true" id="-11" lat="29.68188893668602190700767096" lon="-90.10421891701410856967413565"/>
-  <node visible="true" id="-12" lat="29.68156268627141614047104667" lon="-90.10558116349243107379152207"/>
-  <way visible="true" id="-2">
     <nd ref="-5"/>
     <nd ref="-6"/>
-    <nd ref="-7"/>
-    <nd ref="-8"/>
-    <nd ref="-9"/>
-    <nd ref="-10"/>
-    <nd ref="-11"/>
-    <nd ref="-12"/>
-    <nd ref="-5"/>
-    <tag k="building" v="yes"/>
-    <tag k="addr:street" v="Privateer Boulevard"/>
-    <tag k="addr:city" v="Barataria"/>
-    <tag k="addr:postcode" v="70036"/>
-  </way>
-  <node visible="true" id="-13" lat="29.68106892224632176180421084" lon="-90.10222233837728822436474729"/>
-  <node visible="true" id="-14" lat="29.68123560785821624108393735" lon="-90.10244792545030634300928796"/>
-  <node visible="true" id="-15" lat="29.68129755425783500299985462" lon="-90.10238728444518585547484690"/>
-  <node visible="true" id="-16" lat="29.68113727487596875675990304" lon="-90.10217036722221450872893911"/>
-  <node visible="true" id="-17" lat="29.68109780930619123751057487" lon="-90.10220900107803743139811559"/>
-  <node visible="true" id="-18" lat="29.68109140317631045036250725" lon="-90.10220033122801908120891312"/>
-  <way visible="true" id="-3">
-    <nd ref="-13"/>
-    <nd ref="-14"/>
-    <nd ref="-15"/>
-    <nd ref="-16"/>
-    <nd ref="-17"/>
-    <nd ref="-18"/>
-    <nd ref="-13"/>
+    <nd ref="-1"/>
     <tag k="building" v="yes"/>
     <tag k="addr:housenumber" v="5144"/>
     <tag k="addr:street" v="Ethel Street"/>
     <tag k="addr:city" v="Lafitte"/>
     <tag k="addr:postcode" v="70067"/>
   </way>
-  <node visible="true" id="-19" lat="29.68059309008964063991697913" lon="-90.10175557354907027729495894"/>
-  <node visible="true" id="-20" lat="29.68048759913654777164992993" lon="-90.10159784289336926121904980"/>
-  <node visible="true" id="-21" lat="29.68041333697495076648920076" lon="-90.10166364305214870000781957"/>
-  <node visible="true" id="-22" lat="29.68051882800599372558281175" lon="-90.10182137370780708351958310"/>
-  <way visible="true" id="-4">
-    <nd ref="-19"/>
-    <nd ref="-20"/>
-    <nd ref="-21"/>
-    <nd ref="-22"/>
-    <nd ref="-19"/>
+  <node visible="true" id="-7" lat="29.68059309008964063991697913" lon="-90.10175557354907027729495894"/>
+  <node visible="true" id="-8" lat="29.68048759913654777164992993" lon="-90.10159784289336926121904980"/>
+  <node visible="true" id="-9" lat="29.68041333697495076648920076" lon="-90.10166364305214870000781957"/>
+  <node visible="true" id="-10" lat="29.68051882800599372558281175" lon="-90.10182137370780708351958310"/>
+  <way visible="true" id="-2">
+    <nd ref="-7"/>
+    <nd ref="-8"/>
+    <nd ref="-9"/>
+    <nd ref="-10"/>
+    <nd ref="-7"/>
     <tag k="building" v="yes"/>
-    <tag k="building:levels" v="1"/>
     <tag k="addr:housenumber" v="5115"/>
     <tag k="addr:street" v="Ethel Street"/>
     <tag k="addr:city" v="Lafitte"/>
     <tag k="addr:postcode" v="70067"/>
   </way>
-  <node visible="true" id="-23" lat="29.68497623520056549750734121" lon="-90.10316239192319187623070320"/>
-  <node visible="true" id="-24" lat="29.68486307170095273022525362" lon="-90.10312465959022176775761181"/>
-  <node visible="true" id="-25" lat="29.68484779217247648830380058" lon="-90.10318537527018634136766195"/>
-  <node visible="true" id="-26" lat="29.68496095568929149521864019" lon="-90.10322310760314223898603814"/>
+  <node visible="true" id="-11" lat="29.68497623520056549750734121" lon="-90.10316239192319187623070320"/>
+  <node visible="true" id="-12" lat="29.68486307170095273022525362" lon="-90.10312465959022176775761181"/>
+  <node visible="true" id="-13" lat="29.68484779217247648830380058" lon="-90.10318537527018634136766195"/>
+  <node visible="true" id="-14" lat="29.68496095568929149521864019" lon="-90.10322310760314223898603814"/>
+  <way visible="true" id="-3">
+    <nd ref="-11"/>
+    <nd ref="-12"/>
+    <nd ref="-13"/>
+    <nd ref="-14"/>
+    <nd ref="-11"/>
+    <tag k="building" v="yes"/>
+    <tag k="addr:street" v="Anthony Lane"/>
+    <tag k="addr:city" v="Barataria"/>
+    <tag k="addr:postcode" v="70036"/>
+  </way>
+  <node visible="true" id="-15" lat="29.68478164275796515880756488" lon="-90.10433672931507942394091515"/>
+  <node visible="true" id="-16" lat="29.68491602623246095049580617" lon="-90.10378543762156766661064466"/>
+  <node visible="true" id="-17" lat="29.68475313874954224502289435" lon="-90.10373282984673437567835208"/>
+  <node visible="true" id="-18" lat="29.68461875505723313040107314" lon="-90.10428412154024613300862256"/>
+  <way visible="true" id="-4">
+    <nd ref="-15"/>
+    <nd ref="-16"/>
+    <nd ref="-17"/>
+    <nd ref="-18"/>
+    <nd ref="-15"/>
+    <tag k="building" v="yes"/>
+    <tag k="addr:street" v="Privateer Boulevard"/>
+    <tag k="addr:city" v="Barataria"/>
+    <tag k="addr:postcode" v="70036"/>
+  </way>
+  <node visible="true" id="-19" lat="29.68165114313821462133091700" lon="-90.10560923057651905310194707"/>
+  <node visible="true" id="-20" lat="29.68197710978074255194769648" lon="-90.10424816778225931557244621"/>
+  <node visible="true" id="-21" lat="29.68195738941806638422349351" lon="-90.10424191055113851689384319"/>
+  <node visible="true" id="-22" lat="29.68197793421423824611338205" lon="-90.10415612631204851368238451"/>
+  <node visible="true" id="-23" lat="29.68191322544185695164742356" lon="-90.10413559435403385577956215"/>
+  <node visible="true" id="-24" lat="29.68189296411769717565221072" lon="-90.10422019490904688154842006"/>
+  <node visible="true" id="-25" lat="29.68188893668602190700767096" lon="-90.10421891701410856967413565"/>
+  <node visible="true" id="-26" lat="29.68156268627141614047104667" lon="-90.10558116349243107379152207"/>
   <way visible="true" id="-5">
+    <nd ref="-19"/>
+    <nd ref="-20"/>
+    <nd ref="-21"/>
+    <nd ref="-22"/>
     <nd ref="-23"/>
     <nd ref="-24"/>
     <nd ref="-25"/>
     <nd ref="-26"/>
-    <nd ref="-23"/>
+    <nd ref="-19"/>
     <tag k="building" v="yes"/>
-    <tag k="building:levels" v="1"/>
-    <tag k="addr:street" v="Anthony Lane"/>
+    <tag k="addr:street" v="Privateer Boulevard"/>
     <tag k="addr:city" v="Barataria"/>
     <tag k="addr:postcode" v="70036"/>
   </way>
@@ -138,7 +135,6 @@
     <nd ref="-42"/>
     <nd ref="-29"/>
     <tag k="building" v="yes"/>
-    <tag k="building:levels" v="1"/>
     <tag k="addr:housenumber" v="5121"/>
     <tag k="addr:street" v="William Adams Street"/>
     <tag k="addr:city" v="Lafitte"/>
@@ -155,7 +151,6 @@
     <nd ref="-46"/>
     <nd ref="-43"/>
     <tag k="building" v="yes"/>
-    <tag k="building:levels" v="1"/>
     <tag k="addr:street" v="Wm Adams Street"/>
     <tag k="addr:city" v="Lafitte"/>
     <tag k="addr:postcode" v="70067"/>
@@ -187,7 +182,6 @@
     <nd ref="-58"/>
     <nd ref="-47"/>
     <tag k="building" v="yes"/>
-    <tag k="building:levels" v="1"/>
     <tag k="addr:street" v="Jenic Lane"/>
     <tag k="addr:city" v="Barataria"/>
     <tag k="addr:postcode" v="70036"/>
@@ -216,50 +210,50 @@
     <tag k="addr:city" v="Lafitte"/>
     <tag k="addr:postcode" v="70067"/>
   </way>
-  <node visible="true" id="-67" lat="29.68250510633277272631858068" lon="-90.10109752868329735520092072"/>
-  <node visible="true" id="-68" lat="29.68251610107232352220307803" lon="-90.10112124919105269782448886"/>
-  <node visible="true" id="-69" lat="29.68254494196064641187149391" lon="-90.10110353801728422240557848"/>
-  <node visible="true" id="-70" lat="29.68249429671228512006564415" lon="-90.10099427384538728347251890"/>
-  <node visible="true" id="-71" lat="29.68244232625348288934219454" lon="-90.10102618885601089004921960"/>
-  <node visible="true" id="-72" lat="29.68248197678591537851389148" lon="-90.10111173252015248635871103"/>
+  <node visible="true" id="-67" lat="29.68297534466178078105258464" lon="-90.10039217028266023135074647"/>
+  <node visible="true" id="-68" lat="29.68289974619395721333603433" lon="-90.10023915176834918838721933"/>
+  <node visible="true" id="-69" lat="29.68283528784589719862196944" lon="-90.10028134368266705678252038"/>
+  <node visible="true" id="-70" lat="29.68291088636216557006264338" lon="-90.10043436219697809974604752"/>
   <way visible="true" id="-10">
     <nd ref="-67"/>
     <nd ref="-68"/>
     <nd ref="-69"/>
     <nd ref="-70"/>
-    <nd ref="-71"/>
-    <nd ref="-72"/>
     <nd ref="-67"/>
     <tag k="building" v="yes"/>
-    <tag k="building:levels" v="1"/>
-    <tag k="addr:housenumber" v="5137"/>
-    <tag k="addr:street" v="Cemetery Street"/>
-    <tag k="addr:city" v="Lafitte"/>
-    <tag k="addr:postcode" v="70067"/>
-  </way>
-  <node visible="true" id="-73" lat="29.68297534466178078105258464" lon="-90.10039217028266023135074647"/>
-  <node visible="true" id="-74" lat="29.68289974619395721333603433" lon="-90.10023915176834918838721933"/>
-  <node visible="true" id="-75" lat="29.68283528784589719862196944" lon="-90.10028134368266705678252038"/>
-  <node visible="true" id="-76" lat="29.68291088636216557006264338" lon="-90.10043436219697809974604752"/>
-  <way visible="true" id="-11">
-    <nd ref="-73"/>
-    <nd ref="-74"/>
-    <nd ref="-75"/>
-    <nd ref="-76"/>
-    <nd ref="-73"/>
-    <tag k="building" v="yes"/>
-    <tag k="building:levels" v="1"/>
     <tag k="addr:housenumber" v="5127"/>
     <tag k="addr:street" v="William Adams Street"/>
     <tag k="addr:city" v="Lafitte"/>
     <tag k="addr:postcode" v="70067"/>
   </way>
-  <node visible="true" id="-77" lat="29.68281927005619635906441545" lon="-90.10101552737994268227339489"/>
-  <node visible="true" id="-78" lat="29.68284873851973415526117606" lon="-90.10108884781706706235127058"/>
-  <node visible="true" id="-79" lat="29.68291938210179736756799684" lon="-90.10104793965729186311364174"/>
-  <node visible="true" id="-80" lat="29.68290554967332894875653437" lon="-90.10101661288878460709383944"/>
-  <node visible="true" id="-81" lat="29.68284487122078019183391007" lon="-90.10087918748698143645015080"/>
-  <node visible="true" id="-82" lat="29.68277647642337768729703384" lon="-90.10091868965825767645583255"/>
+  <node visible="true" id="-71" lat="29.68281927005619635906441545" lon="-90.10101552737994268227339489"/>
+  <node visible="true" id="-72" lat="29.68284873851973415526117606" lon="-90.10108884781706706235127058"/>
+  <node visible="true" id="-73" lat="29.68291938210179736756799684" lon="-90.10104793965729186311364174"/>
+  <node visible="true" id="-74" lat="29.68290554967332894875653437" lon="-90.10101661288878460709383944"/>
+  <node visible="true" id="-75" lat="29.68284487122078019183391007" lon="-90.10087918748698143645015080"/>
+  <node visible="true" id="-76" lat="29.68277647642337768729703384" lon="-90.10091868965825767645583255"/>
+  <way visible="true" id="-11">
+    <nd ref="-71"/>
+    <nd ref="-72"/>
+    <nd ref="-73"/>
+    <nd ref="-74"/>
+    <nd ref="-75"/>
+    <nd ref="-76"/>
+    <nd ref="-71"/>
+    <tag k="building" v="yes"/>
+    <tag k="addr:housenumber" v="5138"/>
+    <tag k="addr:street" v="Cemetery Street"/>
+    <tag k="addr:city" v="Lafitte"/>
+    <tag k="addr:postcode" v="70067"/>
+  </way>
+  <node visible="true" id="-77" lat="29.68331782452855094334154273" lon="-90.10050683319724385000881739"/>
+  <node visible="true" id="-78" lat="29.68323128855303849604752031" lon="-90.10056296580238210935931420"/>
+  <node visible="true" id="-79" lat="29.68331587924496872687996074" lon="-90.10073574375753935328248190"/>
+  <node visible="true" id="-80" lat="29.68340173625943378965530428" lon="-90.10068005152197656570933759"/>
+  <node visible="true" id="-81" lat="29.68337799262560849911096739" lon="-90.10063155468206730347446864"/>
+  <node visible="true" id="-82" lat="29.68341515142827802264946513" lon="-90.10060745114689950696629239"/>
+  <node visible="true" id="-83" lat="29.68338192235217931624902121" lon="-90.10053958009837060671998188"/>
+  <node visible="true" id="-84" lat="29.68334544242584982498556201" lon="-90.10056324326394872059609042"/>
   <way visible="true" id="-12">
     <nd ref="-77"/>
     <nd ref="-78"/>
@@ -267,35 +261,32 @@
     <nd ref="-80"/>
     <nd ref="-81"/>
     <nd ref="-82"/>
+    <nd ref="-83"/>
+    <nd ref="-84"/>
     <nd ref="-77"/>
     <tag k="building" v="yes"/>
-    <tag k="addr:housenumber" v="5138"/>
-    <tag k="addr:street" v="Cemetery Street"/>
+    <tag k="addr:housenumber" v="5135"/>
+    <tag k="addr:street" v="William Adams Street"/>
     <tag k="addr:city" v="Lafitte"/>
     <tag k="addr:postcode" v="70067"/>
   </way>
-  <node visible="true" id="-83" lat="29.68331782452855094334154273" lon="-90.10050683319724385000881739"/>
-  <node visible="true" id="-84" lat="29.68323128855303849604752031" lon="-90.10056296580238210935931420"/>
-  <node visible="true" id="-85" lat="29.68331587924496872687996074" lon="-90.10073574375753935328248190"/>
-  <node visible="true" id="-86" lat="29.68340173625943378965530428" lon="-90.10068005152197656570933759"/>
-  <node visible="true" id="-87" lat="29.68337799262560849911096739" lon="-90.10063155468206730347446864"/>
-  <node visible="true" id="-88" lat="29.68341515142827802264946513" lon="-90.10060745114689950696629239"/>
-  <node visible="true" id="-89" lat="29.68338192235217931624902121" lon="-90.10053958009837060671998188"/>
-  <node visible="true" id="-90" lat="29.68334544242584982498556201" lon="-90.10056324326394872059609042"/>
+  <node visible="true" id="-85" lat="29.68250510633277272631858068" lon="-90.10109752868329735520092072"/>
+  <node visible="true" id="-86" lat="29.68251610107232352220307803" lon="-90.10112124919105269782448886"/>
+  <node visible="true" id="-87" lat="29.68254494196064641187149391" lon="-90.10110353801728422240557848"/>
+  <node visible="true" id="-88" lat="29.68249429671228512006564415" lon="-90.10099427384538728347251890"/>
+  <node visible="true" id="-89" lat="29.68244232625348288934219454" lon="-90.10102618885601089004921960"/>
+  <node visible="true" id="-90" lat="29.68248197678591537851389148" lon="-90.10111173252015248635871103"/>
   <way visible="true" id="-13">
-    <nd ref="-83"/>
-    <nd ref="-84"/>
     <nd ref="-85"/>
     <nd ref="-86"/>
     <nd ref="-87"/>
     <nd ref="-88"/>
     <nd ref="-89"/>
     <nd ref="-90"/>
-    <nd ref="-83"/>
+    <nd ref="-85"/>
     <tag k="building" v="yes"/>
-    <tag k="building:levels" v="1"/>
-    <tag k="addr:housenumber" v="5135"/>
-    <tag k="addr:street" v="William Adams Street"/>
+    <tag k="addr:housenumber" v="5137"/>
+    <tag k="addr:street" v="Cemetery Street"/>
     <tag k="addr:city" v="Lafitte"/>
     <tag k="addr:postcode" v="70067"/>
   </way>
@@ -332,7 +323,6 @@
     <nd ref="-105"/>
     <nd ref="-91"/>
     <tag k="building" v="yes"/>
-    <tag k="building:levels" v="1"/>
     <tag k="addr:street" v="Jenic Lane"/>
     <tag k="addr:city" v="Barataria"/>
     <tag k="addr:postcode" v="70036"/>
@@ -350,7 +340,6 @@
     <nd ref="-110"/>
     <nd ref="-106"/>
     <tag k="building" v="yes"/>
-    <tag k="building:levels" v="1"/>
     <tag k="addr:street" v="Pauline Street"/>
     <tag k="addr:city" v="Lafitte"/>
     <tag k="addr:postcode" v="70067"/>
@@ -376,7 +365,6 @@
     <nd ref="-119"/>
     <nd ref="-111"/>
     <tag k="building" v="yes"/>
-    <tag k="building:levels" v="1"/>
     <tag k="addr:housenumber" v="5117"/>
     <tag k="addr:street" v="William Adams Street"/>
     <tag k="addr:city" v="Lafitte"/>
@@ -415,7 +403,6 @@
     <nd ref="-131"/>
     <nd ref="-122"/>
     <tag k="building" v="yes"/>
-    <tag k="building:levels" v="1"/>
     <tag k="addr:street" v="Privateer Boulevard"/>
     <tag k="addr:city" v="Barataria"/>
     <tag k="addr:postcode" v="70036"/>
@@ -439,7 +426,6 @@
     <nd ref="-139"/>
     <nd ref="-132"/>
     <tag k="building" v="yes"/>
-    <tag k="building:levels" v="1"/>
     <tag k="addr:housenumber" v="5147"/>
     <tag k="addr:street" v="Ethel Street"/>
     <tag k="addr:city" v="Lafitte"/>

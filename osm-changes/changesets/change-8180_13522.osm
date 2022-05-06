@@ -57,57 +57,55 @@
     <tag k="addr:city" v="Jefferson"/>
     <tag k="addr:postcode" v="70118"/>
   </node>
-  <node visible="true" id="-20" lat="29.97326033777044429484703869" lon="-90.12709493751280831475014566"/>
-  <node visible="true" id="-21" lat="29.97319132368657434994929645" lon="-90.12716870237186128633766202"/>
-  <node visible="true" id="-22" lat="29.97323838890311620275497262" lon="-90.12722738272869094089401187"/>
-  <node visible="true" id="-23" lat="29.97330740295428697095303505" lon="-90.12715361786963796930649551"/>
+  <node visible="true" id="-20" lat="29.97245613553437948439750471" lon="-90.13208757610135535287554376"/>
+  <node visible="true" id="-21" lat="29.97251173297904003334224399" lon="-90.13208331702730902179609984"/>
+  <node visible="true" id="-22" lat="29.97247939301752950314039481" lon="-90.13155382590507258555589942"/>
+  <node visible="true" id="-23" lat="29.97245752969353915773353947" lon="-90.13155552554208327364904108"/>
+  <node visible="true" id="-24" lat="29.97245537884843002984780469" lon="-90.13152539615293790120631456"/>
+  <node visible="true" id="-25" lat="29.97248700142313637684310379" lon="-90.13149701325559703946055379"/>
+  <node visible="true" id="-26" lat="29.97248277836080276870234229" lon="-90.13144536798553474454820389"/>
+  <node visible="true" id="-27" lat="29.97244446663813377540463989" lon="-90.13142572601465474235737929"/>
+  <node visible="true" id="-28" lat="29.97244002152777397895988543" lon="-90.13134967216348059082520194"/>
+  <node visible="true" id="-29" lat="29.97241065797113535040807619" lon="-90.13135146221050320036738412"/>
   <way visible="true" id="-3">
     <nd ref="-20"/>
     <nd ref="-21"/>
     <nd ref="-22"/>
     <nd ref="-23"/>
-    <nd ref="-20"/>
-    <tag k="building" v="yes"/>
-    <tag k="building:levels" v="1"/>
-  </way>
-  <node visible="true" id="-24" lat="29.97245613553437948439750471" lon="-90.13208757610135535287554376"/>
-  <node visible="true" id="-25" lat="29.97251173297904003334224399" lon="-90.13208331702730902179609984"/>
-  <node visible="true" id="-26" lat="29.97247939301752950314039481" lon="-90.13155382590507258555589942"/>
-  <node visible="true" id="-27" lat="29.97245752969353915773353947" lon="-90.13155552554208327364904108"/>
-  <node visible="true" id="-28" lat="29.97245537884843002984780469" lon="-90.13152539615293790120631456"/>
-  <node visible="true" id="-29" lat="29.97248700142313637684310379" lon="-90.13149701325559703946055379"/>
-  <node visible="true" id="-30" lat="29.97248277836080276870234229" lon="-90.13144536798553474454820389"/>
-  <node visible="true" id="-31" lat="29.97244446663813377540463989" lon="-90.13142572601465474235737929"/>
-  <node visible="true" id="-32" lat="29.97244002152777397895988543" lon="-90.13134967216348059082520194"/>
-  <node visible="true" id="-33" lat="29.97241065797113535040807619" lon="-90.13135146221050320036738412"/>
-  <way visible="true" id="-4">
     <nd ref="-24"/>
     <nd ref="-25"/>
     <nd ref="-26"/>
     <nd ref="-27"/>
     <nd ref="-28"/>
     <nd ref="-29"/>
-    <nd ref="-30"/>
-    <nd ref="-31"/>
-    <nd ref="-32"/>
-    <nd ref="-33"/>
-    <nd ref="-24"/>
+    <nd ref="-20"/>
     <tag k="building" v="yes"/>
-    <tag k="building:levels" v="1"/>
   </way>
-  <node visible="true" id="-34" lat="29.97245398123443038684854400" lon="-90.13149742762888649849628564">
+  <node visible="true" id="-30" lat="29.97245398123443038684854400" lon="-90.13149742762888649849628564">
     <tag k="addr:housenumber" v="400"/>
     <tag k="addr:street" v="Airline Drive"/>
     <tag k="addr:city" v="Metairie"/>
     <tag k="addr:postcode" v="70121"/>
     <tag k="addr:unit" v="BLDG B"/>
   </node>
-  <node visible="true" id="-35" lat="29.97246624751653953921959328" lon="-90.13174915953077004360238789">
+  <node visible="true" id="-31" lat="29.97246624751653953921959328" lon="-90.13174915953077004360238789">
     <tag k="addr:housenumber" v="400"/>
     <tag k="addr:street" v="Airline Drive"/>
     <tag k="addr:city" v="Metairie"/>
     <tag k="addr:postcode" v="70121"/>
   </node>
+  <node visible="true" id="-32" lat="29.97326033777044429484703869" lon="-90.12709493751280831475014566"/>
+  <node visible="true" id="-33" lat="29.97319132368657434994929645" lon="-90.12716870237186128633766202"/>
+  <node visible="true" id="-34" lat="29.97323838890311620275497262" lon="-90.12722738272869094089401187"/>
+  <node visible="true" id="-35" lat="29.97330740295428697095303505" lon="-90.12715361786963796930649551"/>
+  <way visible="true" id="-4">
+    <nd ref="-32"/>
+    <nd ref="-33"/>
+    <nd ref="-34"/>
+    <nd ref="-35"/>
+    <nd ref="-32"/>
+    <tag k="building" v="yes"/>
+  </way>
   <node visible="true" id="-36" lat="29.97368676938484810534646385" lon="-90.12584287189697818121203454"/>
   <node visible="true" id="-37" lat="29.97354622383565114773773530" lon="-90.12585917948592850734712556"/>
   <node visible="true" id="-38" lat="29.97354941119300875129738415" lon="-90.12589578662125688879314112"/>
@@ -179,7 +177,6 @@
     <nd ref="-61"/>
     <nd ref="-56"/>
     <tag k="building" v="yes"/>
-    <tag k="building:levels" v="1"/>
     <tag k="addr:housenumber" v="101"/>
     <tag k="addr:street" v="L and A Road"/>
     <tag k="addr:city" v="Metairie"/>
@@ -232,7 +229,6 @@
     <nd ref="-77"/>
     <nd ref="-70"/>
     <tag k="building" v="yes"/>
-    <tag k="building:levels" v="1"/>
     <tag k="addr:housenumber" v="218"/>
     <tag k="addr:street" v="Airline Drive"/>
     <tag k="addr:city" v="Metairie"/>

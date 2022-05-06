@@ -26,7 +26,6 @@
     <nd ref="-10"/>
     <nd ref="-1"/>
     <tag k="building" v="yes"/>
-    <tag k="building:levels" v="1"/>
     <tag k="addr:housenumber" v="4929"/>
     <tag k="addr:street" v="West Napoleon Avenue North"/>
     <tag k="addr:city" v="Metairie"/>
@@ -86,7 +85,6 @@
     <nd ref="-21"/>
     <nd ref="-18"/>
     <tag k="building" v="yes"/>
-    <tag k="building:levels" v="2"/>
     <tag k="addr:housenumber" v="5213"/>
     <tag k="addr:street" v="West Napoleon Avenue North"/>
     <tag k="addr:city" v="Metairie"/>
@@ -111,7 +109,6 @@
     <nd ref="-29"/>
     <nd ref="-22"/>
     <tag k="building" v="yes"/>
-    <tag k="building:levels" v="2"/>
     <tag k="addr:housenumber" v="5200"/>
     <tag k="addr:street" v="West Napoleon Avenue South"/>
     <tag k="addr:city" v="Metairie"/>
@@ -128,7 +125,6 @@
     <nd ref="-33"/>
     <nd ref="-30"/>
     <tag k="building" v="yes"/>
-    <tag k="building:levels" v="1"/>
     <tag k="addr:housenumber" v="5209"/>
     <tag k="addr:street" v="West Napoleon Avenue North"/>
     <tag k="addr:city" v="Metairie"/>
@@ -213,7 +209,6 @@
     <nd ref="-71"/>
     <nd ref="-34"/>
     <tag k="building" v="yes"/>
-    <tag k="building:levels" v="2"/>
     <tag k="addr:housenumber" v="4859"/>
     <tag k="addr:street" v="West Napoleon Avenue North"/>
     <tag k="addr:city" v="Metairie"/>
@@ -248,7 +243,6 @@
     <nd ref="-78"/>
     <nd ref="-75"/>
     <tag k="building" v="yes"/>
-    <tag k="building:levels" v="1"/>
     <tag k="addr:housenumber" v="4921"/>
     <tag k="addr:street" v="West Napoleon Avenue North"/>
     <tag k="addr:city" v="Metairie"/>
@@ -269,7 +263,6 @@
     <nd ref="-84"/>
     <nd ref="-79"/>
     <tag k="building" v="yes"/>
-    <tag k="building:levels" v="2"/>
     <tag k="addr:housenumber" v="4817"/>
     <tag k="addr:street" v="West Napoleon Avenue North"/>
     <tag k="addr:city" v="Metairie"/>
@@ -354,7 +347,6 @@
     <nd ref="-122"/>
     <nd ref="-85"/>
     <tag k="building" v="yes"/>
-    <tag k="building:levels" v="2"/>
     <tag k="addr:housenumber" v="5216"/>
     <tag k="addr:street" v="West Napoleon Avenue South"/>
     <tag k="addr:city" v="Metairie"/>
@@ -371,36 +363,50 @@
     <nd ref="-126"/>
     <nd ref="-123"/>
     <tag k="building" v="yes"/>
-    <tag k="building:levels" v="1"/>
     <tag k="addr:housenumber" v="4971"/>
     <tag k="addr:street" v="West Napoleon Avenue North"/>
     <tag k="addr:city" v="Metairie"/>
     <tag k="addr:postcode" v="70001"/>
     <tag k="addr:unit" v="B, C"/>
   </way>
-  <node visible="true" id="-127" lat="29.99756010327598332310117257" lon="-90.18764464293209925926930737"/>
-  <node visible="true" id="-128" lat="29.99751452411375396422954509" lon="-90.18757909458831534266209928"/>
-  <node visible="true" id="-129" lat="29.99752010599920026834297460" lon="-90.18757400334430940347374417"/>
-  <node visible="true" id="-130" lat="29.99750746153792491099920881" lon="-90.18755763062341657132492401"/>
-  <node visible="true" id="-131" lat="29.99749878594865037939598551" lon="-90.18756634791154169761284720"/>
-  <node visible="true" id="-132" lat="29.99744688719131602283596294" lon="-90.18749297293432221067632781"/>
-  <node visible="true" id="-133" lat="29.99745556992057515799388057" lon="-90.18748497283353060538502177"/>
-  <node visible="true" id="-134" lat="29.99743340502324429053260246" lon="-90.18745219154757819524093065"/>
-  <node visible="true" id="-135" lat="29.99742411053091828421202081" lon="-90.18746163529300474692718126"/>
-  <node visible="true" id="-136" lat="29.99735639225941952190623851" lon="-90.18736617777537389883946162"/>
-  <node visible="true" id="-137" lat="29.99725841558829131372476695" lon="-90.18745707521638621528836666"/>
-  <node visible="true" id="-138" lat="29.99727297932827596582683327" lon="-90.18747845294224418921658071"/>
-  <node visible="true" id="-139" lat="29.99722151885186960384999111" lon="-90.18752716133280955546069890"/>
-  <node visible="true" id="-140" lat="29.99731137595816576890683791" lon="-90.18765252717781777391792275"/>
-  <node visible="true" id="-141" lat="29.99732687752323201380022510" lon="-90.18763798504896556096355198"/>
-  <node visible="true" id="-142" lat="29.99732935856068749558289710" lon="-90.18763580266507062788150506"/>
-  <node visible="true" id="-143" lat="29.99744389980678249685297487" lon="-90.18779607504288264863134827"/>
-  <node visible="true" id="-144" lat="29.99754434524666635297762696" lon="-90.18770155890582884694595123"/>
-  <node visible="true" id="-145" lat="29.99752662534750058398458350" lon="-90.18767662683868024942057673"/>
+  <node visible="true" id="-127" lat="29.99521127488776883751597779" lon="-90.19390160297935210564901354">
+    <tag k="addr:housenumber" v="5105"/>
+    <tag k="addr:street" v="West Napoleon Avenue North"/>
+    <tag k="addr:city" v="Metairie"/>
+    <tag k="addr:postcode" v="70001"/>
+  </node>
+  <node visible="true" id="-128" lat="29.99504989645546970677969512" lon="-90.19361774126507214077719254">
+    <tag k="addr:housenumber" v="5105"/>
+    <tag k="addr:street" v="West Napoleon Avenue North"/>
+    <tag k="addr:city" v="Metairie"/>
+    <tag k="addr:postcode" v="70001"/>
+  </node>
+  <node visible="true" id="-129" lat="29.99516858997316859358761576" lon="-90.19375137286935739666660083">
+    <tag k="addr:housenumber" v="5105"/>
+    <tag k="addr:street" v="West Napoleon Avenue North"/>
+    <tag k="addr:city" v="Metairie"/>
+    <tag k="addr:postcode" v="70001"/>
+  </node>
+  <node visible="true" id="-130" lat="29.99756010327598332310117257" lon="-90.18764464293209925926930737"/>
+  <node visible="true" id="-131" lat="29.99751452411375396422954509" lon="-90.18757909458831534266209928"/>
+  <node visible="true" id="-132" lat="29.99752010599920026834297460" lon="-90.18757400334430940347374417"/>
+  <node visible="true" id="-133" lat="29.99750746153792491099920881" lon="-90.18755763062341657132492401"/>
+  <node visible="true" id="-134" lat="29.99749878594865037939598551" lon="-90.18756634791154169761284720"/>
+  <node visible="true" id="-135" lat="29.99744688719131602283596294" lon="-90.18749297293432221067632781"/>
+  <node visible="true" id="-136" lat="29.99745556992057515799388057" lon="-90.18748497283353060538502177"/>
+  <node visible="true" id="-137" lat="29.99743340502324429053260246" lon="-90.18745219154757819524093065"/>
+  <node visible="true" id="-138" lat="29.99742411053091828421202081" lon="-90.18746163529300474692718126"/>
+  <node visible="true" id="-139" lat="29.99735639225941952190623851" lon="-90.18736617777537389883946162"/>
+  <node visible="true" id="-140" lat="29.99725841558829131372476695" lon="-90.18745707521638621528836666"/>
+  <node visible="true" id="-141" lat="29.99727297932827596582683327" lon="-90.18747845294224418921658071"/>
+  <node visible="true" id="-142" lat="29.99722151885186960384999111" lon="-90.18752716133280955546069890"/>
+  <node visible="true" id="-143" lat="29.99731137595816576890683791" lon="-90.18765252717781777391792275"/>
+  <node visible="true" id="-144" lat="29.99732687752323201380022510" lon="-90.18763798504896556096355198"/>
+  <node visible="true" id="-145" lat="29.99732935856068749558289710" lon="-90.18763580266507062788150506"/>
+  <node visible="true" id="-146" lat="29.99744389980678249685297487" lon="-90.18779607504288264863134827"/>
+  <node visible="true" id="-147" lat="29.99754434524666635297762696" lon="-90.18770155890582884694595123"/>
+  <node visible="true" id="-148" lat="29.99752662534750058398458350" lon="-90.18767662683868024942057673"/>
   <way visible="true" id="-10">
-    <nd ref="-127"/>
-    <nd ref="-128"/>
-    <nd ref="-129"/>
     <nd ref="-130"/>
     <nd ref="-131"/>
     <nd ref="-132"/>
@@ -417,32 +423,16 @@
     <nd ref="-143"/>
     <nd ref="-144"/>
     <nd ref="-145"/>
-    <nd ref="-127"/>
+    <nd ref="-146"/>
+    <nd ref="-147"/>
+    <nd ref="-148"/>
+    <nd ref="-130"/>
     <tag k="building" v="yes"/>
-    <tag k="building:levels" v="1"/>
     <tag k="addr:housenumber" v="4740"/>
     <tag k="addr:street" v="South I 10 Service Road"/>
     <tag k="addr:city" v="Metairie"/>
     <tag k="addr:postcode" v="70001"/>
   </way>
-  <node visible="true" id="-146" lat="29.99521127488776883751597779" lon="-90.19390160297935210564901354">
-    <tag k="addr:housenumber" v="5105"/>
-    <tag k="addr:street" v="West Napoleon Avenue North"/>
-    <tag k="addr:city" v="Metairie"/>
-    <tag k="addr:postcode" v="70001"/>
-  </node>
-  <node visible="true" id="-147" lat="29.99504989645546970677969512" lon="-90.19361774126507214077719254">
-    <tag k="addr:housenumber" v="5105"/>
-    <tag k="addr:street" v="West Napoleon Avenue North"/>
-    <tag k="addr:city" v="Metairie"/>
-    <tag k="addr:postcode" v="70001"/>
-  </node>
-  <node visible="true" id="-148" lat="29.99516858997316859358761576" lon="-90.19375137286935739666660083">
-    <tag k="addr:housenumber" v="5105"/>
-    <tag k="addr:street" v="West Napoleon Avenue North"/>
-    <tag k="addr:city" v="Metairie"/>
-    <tag k="addr:postcode" v="70001"/>
-  </node>
   <node visible="true" id="-149" lat="29.99474882284605214977091237" lon="-90.18899672706761805329733761"/>
   <node visible="true" id="-150" lat="29.99468880230284284493791347" lon="-90.18900110230609357131470460"/>
   <node visible="true" id="-151" lat="29.99469456944559198063871008" lon="-90.18910657773247407931194175"/>
@@ -470,7 +460,6 @@
     <nd ref="-160"/>
     <nd ref="-149"/>
     <tag k="building" v="yes"/>
-    <tag k="building:levels" v="2"/>
     <tag k="addr:housenumber" v="4855"/>
     <tag k="addr:street" v="West Napoleon Avenue North"/>
     <tag k="addr:city" v="Metairie"/>
@@ -487,7 +476,6 @@
     <nd ref="-164"/>
     <nd ref="-161"/>
     <tag k="building" v="yes"/>
-    <tag k="building:levels" v="2"/>
     <tag k="addr:housenumber" v="5204"/>
     <tag k="addr:street" v="West Napoleon Avenue South"/>
     <tag k="addr:city" v="Metairie"/>
@@ -508,7 +496,6 @@
     <nd ref="-170"/>
     <nd ref="-165"/>
     <tag k="building" v="yes"/>
-    <tag k="building:levels" v="1"/>
     <tag k="addr:housenumber" v="5211"/>
     <tag k="addr:street" v="West Napoleon Avenue North"/>
     <tag k="addr:city" v="Metairie"/>
@@ -533,7 +520,6 @@
     <nd ref="-178"/>
     <nd ref="-171"/>
     <tag k="building" v="yes"/>
-    <tag k="building:levels" v="1"/>
     <tag k="addr:housenumber" v="5201"/>
     <tag k="addr:street" v="West Napoleon Avenue North"/>
     <tag k="addr:city" v="Metairie"/>
@@ -598,7 +584,6 @@
     <nd ref="-194"/>
     <nd ref="-185"/>
     <tag k="building" v="yes"/>
-    <tag k="building:levels" v="1"/>
     <tag k="addr:housenumber" v="4909"/>
     <tag k="addr:street" v="West Napoleon Avenue North"/>
     <tag k="addr:city" v="Metairie"/>
@@ -615,7 +600,6 @@
     <nd ref="-198"/>
     <nd ref="-195"/>
     <tag k="building" v="yes"/>
-    <tag k="building:levels" v="1"/>
     <tag k="addr:housenumber" v="4933"/>
     <tag k="addr:street" v="West Napoleon Avenue North"/>
     <tag k="addr:city" v="Metairie"/>
@@ -711,7 +695,6 @@
     <nd ref="-215"/>
     <nd ref="-212"/>
     <tag k="building" v="yes"/>
-    <tag k="building:levels" v="2"/>
     <tag k="addr:housenumber" v="5208"/>
     <tag k="addr:street" v="West Napoleon Avenue South"/>
     <tag k="addr:city" v="Metairie"/>
@@ -732,7 +715,6 @@
     <nd ref="-221"/>
     <nd ref="-216"/>
     <tag k="building" v="yes"/>
-    <tag k="building:levels" v="2"/>
     <tag k="addr:housenumber" v="4829"/>
     <tag k="addr:street" v="West Napoleon Avenue North"/>
     <tag k="addr:city" v="Metairie"/>
@@ -753,7 +735,6 @@
     <nd ref="-227"/>
     <nd ref="-222"/>
     <tag k="building" v="yes"/>
-    <tag k="building:levels" v="2"/>
     <tag k="addr:housenumber" v="4837"/>
     <tag k="addr:street" v="West Napoleon Avenue North"/>
     <tag k="addr:city" v="Metairie"/>
@@ -834,7 +815,6 @@
     <nd ref="-246"/>
     <nd ref="-235"/>
     <tag k="building" v="yes"/>
-    <tag k="building:levels" v="1"/>
     <tag k="addr:housenumber" v="5000"/>
     <tag k="addr:street" v="West Napoleon Avenue South"/>
     <tag k="addr:city" v="Metairie"/>
@@ -885,7 +865,6 @@
     <nd ref="-255"/>
     <nd ref="-252"/>
     <tag k="building" v="yes"/>
-    <tag k="building:levels" v="2"/>
     <tag k="addr:housenumber" v="4937"/>
     <tag k="addr:street" v="West Napoleon Avenue North"/>
     <tag k="addr:city" v="Metairie"/>
@@ -902,7 +881,6 @@
     <nd ref="-259"/>
     <nd ref="-256"/>
     <tag k="building" v="yes"/>
-    <tag k="building:levels" v="1"/>
     <tag k="addr:housenumber" v="4917"/>
     <tag k="addr:street" v="West Napoleon Avenue North"/>
     <tag k="addr:city" v="Metairie"/>
@@ -935,7 +913,6 @@
     <nd ref="-267"/>
     <nd ref="-262"/>
     <tag k="building" v="yes"/>
-    <tag k="building:levels" v="1"/>
     <tag k="addr:housenumber" v="4836"/>
     <tag k="addr:street" v="West Napoleon Avenue South"/>
     <tag k="addr:city" v="Metairie"/>
@@ -962,54 +939,65 @@
     <nd ref="-276"/>
     <nd ref="-268"/>
     <tag k="building" v="yes"/>
-    <tag k="building:levels" v="1"/>
     <tag k="addr:housenumber" v="4971"/>
     <tag k="addr:street" v="West Napoleon Avenue North"/>
     <tag k="addr:city" v="Metairie"/>
     <tag k="addr:postcode" v="70001"/>
     <tag k="addr:unit" v="A"/>
   </way>
-  <node visible="true" id="-277" lat="29.99401404222451361647472368" lon="-90.18861592369539437186176656"/>
-  <node visible="true" id="-278" lat="29.99385120335914933775711688" lon="-90.18863229050978702616703231"/>
-  <node visible="true" id="-279" lat="29.99385644062936151499343396" lon="-90.18870175841304615005356027"/>
-  <node visible="true" id="-280" lat="29.99380312374616508463986975" lon="-90.18870711724814270837669028"/>
-  <node visible="true" id="-281" lat="29.99380801324687695341708604" lon="-90.18877197225577901917858981"/>
-  <node visible="true" id="-282" lat="29.99399503684783141466141387" lon="-90.18875317465735008681804175"/>
-  <node visible="true" id="-283" lat="29.99398993631815812932472909" lon="-90.18868552040672170733159874"/>
-  <node visible="true" id="-284" lat="29.99401906844823528786037059" lon="-90.18868259235567563791846624"/>
+  <node visible="true" id="-277" lat="29.99523764163681960326357512" lon="-90.19531224895106902295083273"/>
+  <node visible="true" id="-278" lat="29.99525806748631140408178908" lon="-90.19552437477770467921800446"/>
+  <node visible="true" id="-279" lat="29.99536587038025459150958341" lon="-90.19551053546797447779681534"/>
+  <node visible="true" id="-280" lat="29.99534544455300988374801818" lon="-90.19529840964138145409378922"/>
   <way visible="true" id="-25">
     <nd ref="-277"/>
     <nd ref="-278"/>
     <nd ref="-279"/>
     <nd ref="-280"/>
+    <nd ref="-277"/>
+    <tag k="building" v="yes"/>
+    <tag k="addr:housenumber" v="5227"/>
+    <tag k="addr:street" v="West Napoleon Avenue North"/>
+    <tag k="addr:city" v="Metairie"/>
+    <tag k="addr:postcode" v="70001"/>
+  </way>
+  <node visible="true" id="-281" lat="29.99401404222451361647472368" lon="-90.18861592369539437186176656"/>
+  <node visible="true" id="-282" lat="29.99385120335914933775711688" lon="-90.18863229050978702616703231"/>
+  <node visible="true" id="-283" lat="29.99385644062936151499343396" lon="-90.18870175841304615005356027"/>
+  <node visible="true" id="-284" lat="29.99380312374616508463986975" lon="-90.18870711724814270837669028"/>
+  <node visible="true" id="-285" lat="29.99380801324687695341708604" lon="-90.18877197225577901917858981"/>
+  <node visible="true" id="-286" lat="29.99399503684783141466141387" lon="-90.18875317465735008681804175"/>
+  <node visible="true" id="-287" lat="29.99398993631815812932472909" lon="-90.18868552040672170733159874"/>
+  <node visible="true" id="-288" lat="29.99401906844823528786037059" lon="-90.18868259235567563791846624"/>
+  <way visible="true" id="-26">
     <nd ref="-281"/>
     <nd ref="-282"/>
     <nd ref="-283"/>
     <nd ref="-284"/>
-    <nd ref="-277"/>
+    <nd ref="-285"/>
+    <nd ref="-286"/>
+    <nd ref="-287"/>
+    <nd ref="-288"/>
+    <nd ref="-281"/>
     <tag k="building" v="yes"/>
     <tag k="addr:housenumber" v="4840"/>
     <tag k="addr:street" v="West Napoleon Avenue South"/>
     <tag k="addr:city" v="Metairie"/>
     <tag k="addr:postcode" v="70001"/>
   </way>
-  <node visible="true" id="-285" lat="29.99387374004905737479020900" lon="-90.18877343147407543710869504"/>
-  <node visible="true" id="-286" lat="29.99387597299697816310981580" lon="-90.18879971847707111010095105"/>
-  <node visible="true" id="-287" lat="29.99385488922484555018854735" lon="-90.18880210612847747597697889"/>
-  <node visible="true" id="-288" lat="29.99385251006852470823105250" lon="-90.18877409791680577200168045"/>
-  <node visible="true" id="-289" lat="29.99374271154911397729847522" lon="-90.18878653214387952630204381"/>
-  <node visible="true" id="-290" lat="29.99374996301505547080523684" lon="-90.18887189869512610584934009"/>
-  <node visible="true" id="-291" lat="29.99384982179661562895489624" lon="-90.18886059010188205320446286"/>
-  <node visible="true" id="-292" lat="29.99384838514908580009432626" lon="-90.18884367741500796000764240"/>
-  <node visible="true" id="-293" lat="29.99385994296397939251619391" lon="-90.18884795608401816480181878"/>
-  <node visible="true" id="-294" lat="29.99386429848027191269466130" lon="-90.18889923065916036648559384"/>
-  <node visible="true" id="-295" lat="29.99405088449001866024445917" lon="-90.18887810053308839997043833"/>
-  <node visible="true" id="-296" lat="29.99404039027951540674621356" lon="-90.18875455899609505650005303"/>
-  <way visible="true" id="-26">
-    <nd ref="-285"/>
-    <nd ref="-286"/>
-    <nd ref="-287"/>
-    <nd ref="-288"/>
+  <node visible="true" id="-289" lat="29.99387374004905737479020900" lon="-90.18877343147407543710869504"/>
+  <node visible="true" id="-290" lat="29.99387597299697816310981580" lon="-90.18879971847707111010095105"/>
+  <node visible="true" id="-291" lat="29.99385488922484555018854735" lon="-90.18880210612847747597697889"/>
+  <node visible="true" id="-292" lat="29.99385251006852470823105250" lon="-90.18877409791680577200168045"/>
+  <node visible="true" id="-293" lat="29.99374271154911397729847522" lon="-90.18878653214387952630204381"/>
+  <node visible="true" id="-294" lat="29.99374996301505547080523684" lon="-90.18887189869512610584934009"/>
+  <node visible="true" id="-295" lat="29.99384982179661562895489624" lon="-90.18886059010188205320446286"/>
+  <node visible="true" id="-296" lat="29.99384838514908580009432626" lon="-90.18884367741500796000764240"/>
+  <node visible="true" id="-297" lat="29.99385994296397939251619391" lon="-90.18884795608401816480181878"/>
+  <node visible="true" id="-298" lat="29.99386429848027191269466130" lon="-90.18889923065916036648559384"/>
+  <node visible="true" id="-299" lat="29.99405088449001866024445917" lon="-90.18887810053308839997043833"/>
+  <node visible="true" id="-300" lat="29.99404039027951540674621356" lon="-90.18875455899609505650005303"/>
+  <way visible="true" id="-27">
     <nd ref="-289"/>
     <nd ref="-290"/>
     <nd ref="-291"/>
@@ -1018,57 +1006,45 @@
     <nd ref="-294"/>
     <nd ref="-295"/>
     <nd ref="-296"/>
-    <nd ref="-285"/>
+    <nd ref="-297"/>
+    <nd ref="-298"/>
+    <nd ref="-299"/>
+    <nd ref="-300"/>
+    <nd ref="-289"/>
     <tag k="building" v="yes"/>
     <tag k="addr:housenumber" v="4844"/>
     <tag k="addr:street" v="West Napoleon Avenue South"/>
     <tag k="addr:city" v="Metairie"/>
     <tag k="addr:postcode" v="70001"/>
   </way>
-  <node visible="true" id="-297" lat="29.99403212682349462170350307" lon="-90.18901311201388182325899834"/>
-  <node visible="true" id="-298" lat="29.99403081317988295495524653" lon="-90.18898798584082499019132229"/>
-  <node visible="true" id="-299" lat="29.99405449236282095171191031" lon="-90.18898633538320552816003328"/>
-  <node visible="true" id="-300" lat="29.99405197270542444698548934" lon="-90.18893814166540323640219867"/>
-  <node visible="true" id="-301" lat="29.99387135560609962681155594" lon="-90.18895073080869906334555708"/>
-  <node visible="true" id="-302" lat="29.99387739047966050520699355" lon="-90.18906616019158661856636172"/>
-  <node visible="true" id="-303" lat="29.99405135938484079360932810" lon="-90.18905403443196178159269039"/>
-  <node visible="true" id="-304" lat="29.99404915782206515473262698" lon="-90.18901192493991914034268120"/>
-  <way visible="true" id="-27">
-    <nd ref="-297"/>
-    <nd ref="-298"/>
-    <nd ref="-299"/>
-    <nd ref="-300"/>
+  <node visible="true" id="-301" lat="29.99403212682349462170350307" lon="-90.18901311201388182325899834"/>
+  <node visible="true" id="-302" lat="29.99403081317988295495524653" lon="-90.18898798584082499019132229"/>
+  <node visible="true" id="-303" lat="29.99405449236282095171191031" lon="-90.18898633538320552816003328"/>
+  <node visible="true" id="-304" lat="29.99405197270542444698548934" lon="-90.18893814166540323640219867"/>
+  <node visible="true" id="-305" lat="29.99387135560609962681155594" lon="-90.18895073080869906334555708"/>
+  <node visible="true" id="-306" lat="29.99387739047966050520699355" lon="-90.18906616019158661856636172"/>
+  <node visible="true" id="-307" lat="29.99405135938484079360932810" lon="-90.18905403443196178159269039"/>
+  <node visible="true" id="-308" lat="29.99404915782206515473262698" lon="-90.18901192493991914034268120"/>
+  <way visible="true" id="-28">
     <nd ref="-301"/>
     <nd ref="-302"/>
     <nd ref="-303"/>
     <nd ref="-304"/>
-    <nd ref="-297"/>
+    <nd ref="-305"/>
+    <nd ref="-306"/>
+    <nd ref="-307"/>
+    <nd ref="-308"/>
+    <nd ref="-301"/>
     <tag k="building" v="yes"/>
     <tag k="addr:housenumber" v="4848"/>
     <tag k="addr:street" v="West Napoleon Avenue South"/>
     <tag k="addr:city" v="Metairie"/>
     <tag k="addr:postcode" v="70001"/>
   </way>
-  <node visible="true" id="-305" lat="29.99485693603061520207120338" lon="-90.18792087608289875788614154"/>
-  <node visible="true" id="-306" lat="29.99463812358341030517294712" lon="-90.18793861878246787000534823"/>
-  <node visible="true" id="-307" lat="29.99464518472776219937259157" lon="-90.18805471543950602608674672"/>
-  <node visible="true" id="-308" lat="29.99486399715915752040018560" lon="-90.18803697273993691396754002"/>
-  <way visible="true" id="-28">
-    <nd ref="-305"/>
-    <nd ref="-306"/>
-    <nd ref="-307"/>
-    <nd ref="-308"/>
-    <nd ref="-305"/>
-    <tag k="building" v="yes"/>
-    <tag k="addr:housenumber" v="4825"/>
-    <tag k="addr:street" v="West Napoleon Avenue North"/>
-    <tag k="addr:city" v="Metairie"/>
-    <tag k="addr:postcode" v="70001"/>
-  </way>
-  <node visible="true" id="-309" lat="29.99523764163681960326357512" lon="-90.19531224895106902295083273"/>
-  <node visible="true" id="-310" lat="29.99525806748631140408178908" lon="-90.19552437477770467921800446"/>
-  <node visible="true" id="-311" lat="29.99536587038025459150958341" lon="-90.19551053546797447779681534"/>
-  <node visible="true" id="-312" lat="29.99534544455300988374801818" lon="-90.19529840964138145409378922"/>
+  <node visible="true" id="-309" lat="29.99485693603061520207120338" lon="-90.18792087608289875788614154"/>
+  <node visible="true" id="-310" lat="29.99463812358341030517294712" lon="-90.18793861878246787000534823"/>
+  <node visible="true" id="-311" lat="29.99464518472776219937259157" lon="-90.18805471543950602608674672"/>
+  <node visible="true" id="-312" lat="29.99486399715915752040018560" lon="-90.18803697273993691396754002"/>
   <way visible="true" id="-29">
     <nd ref="-309"/>
     <nd ref="-310"/>
@@ -1076,7 +1052,7 @@
     <nd ref="-312"/>
     <nd ref="-309"/>
     <tag k="building" v="yes"/>
-    <tag k="addr:housenumber" v="5227"/>
+    <tag k="addr:housenumber" v="4825"/>
     <tag k="addr:street" v="West Napoleon Avenue North"/>
     <tag k="addr:city" v="Metairie"/>
     <tag k="addr:postcode" v="70001"/>
@@ -1092,7 +1068,6 @@
     <nd ref="-316"/>
     <nd ref="-313"/>
     <tag k="building" v="yes"/>
-    <tag k="building:levels" v="2"/>
     <tag k="addr:housenumber" v="4832"/>
     <tag k="addr:street" v="West Napoleon Avenue South"/>
     <tag k="addr:city" v="Metairie"/>
@@ -1145,7 +1120,6 @@
     <nd ref="-334"/>
     <nd ref="-325"/>
     <tag k="building" v="yes"/>
-    <tag k="building:levels" v="1"/>
     <tag k="addr:housenumber" v="4822"/>
     <tag k="addr:street" v="West Napoleon Avenue South"/>
     <tag k="addr:city" v="Metairie"/>

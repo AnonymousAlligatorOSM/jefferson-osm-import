@@ -22,7 +22,6 @@
     <nd ref="-8"/>
     <nd ref="-1"/>
     <tag k="building" v="yes"/>
-    <tag k="building:levels" v="1"/>
     <tag k="addr:housenumber" v="2816"/>
     <tag k="addr:street" v="4th Street"/>
     <tag k="addr:city" v="Harvey"/>
@@ -43,16 +42,15 @@
     <nd ref="-14"/>
     <nd ref="-9"/>
     <tag k="building" v="yes"/>
-    <tag k="building:levels" v="1"/>
     <tag k="addr:housenumber" v="429"/>
     <tag k="addr:street" v="Pailet Avenue"/>
     <tag k="addr:city" v="Harvey"/>
     <tag k="addr:postcode" v="70058"/>
   </way>
-  <node visible="true" id="-15" lat="29.91011882799816845590612502" lon="-90.08387852663169326206116239"/>
-  <node visible="true" id="-16" lat="29.91009929854072524335606431" lon="-90.08383448775158797161566326"/>
-  <node visible="true" id="-17" lat="29.91005094283213949779565155" lon="-90.08386302781330812194937607"/>
-  <node visible="true" id="-18" lat="29.91007047229906490315443079" lon="-90.08390706669338499068544479"/>
+  <node visible="true" id="-15" lat="29.90818479087526782222994370" lon="-90.08038235645933866635459708"/>
+  <node visible="true" id="-16" lat="29.90815212550158008752987371" lon="-90.08050590768925758311524987"/>
+  <node visible="true" id="-17" lat="29.90833300922119164511059353" lon="-90.08056955452698844055703375"/>
+  <node visible="true" id="-18" lat="29.90836567453558814122516196" lon="-90.08044600329708373465109617"/>
   <way visible="true" id="-3">
     <nd ref="-15"/>
     <nd ref="-16"/>
@@ -61,70 +59,91 @@
     <nd ref="-15"/>
     <tag k="building" v="yes"/>
   </way>
-  <node visible="true" id="-19" lat="29.91012109355597559101624938" lon="-90.08373614617360658485267777"/>
-  <node visible="true" id="-20" lat="29.91003468051517799608518544" lon="-90.08378253246586098157422384"/>
-  <node visible="true" id="-21" lat="29.91005571916556604605830216" lon="-90.08383469521636754961946281"/>
-  <node visible="true" id="-22" lat="29.91014213218813111438976193" lon="-90.08378830892412736375263194"/>
+  <node visible="true" id="-19" lat="29.90825907469208999600596144" lon="-90.08047792688351762535603484">
+    <tag k="addr:housenumber" v="2700"/>
+    <tag k="addr:street" v="4th Street"/>
+    <tag k="addr:city" v="Harvey"/>
+    <tag k="addr:postcode" v="70058"/>
+  </node>
+  <node visible="true" id="-20" lat="29.90825937369811171606670541" lon="-90.08047758655992254261946073">
+    <tag k="addr:housenumber" v="2704"/>
+    <tag k="addr:street" v="4th Street"/>
+    <tag k="addr:city" v="Harvey"/>
+    <tag k="addr:postcode" v="70058"/>
+  </node>
+  <node visible="true" id="-21" lat="29.90813182458991192902431067" lon="-90.08058685447153379755036440"/>
+  <node visible="true" id="-22" lat="29.90808457832878985982461018" lon="-90.08076984293967370831524022"/>
+  <node visible="true" id="-23" lat="29.90824501372986077285531792" lon="-90.08082497194027382647618651"/>
+  <node visible="true" id="-24" lat="29.90829225991486950420039648" lon="-90.08064198347213391571131069"/>
   <way visible="true" id="-4">
-    <nd ref="-19"/>
-    <nd ref="-20"/>
     <nd ref="-21"/>
     <nd ref="-22"/>
-    <nd ref="-19"/>
-    <tag k="building" v="yes"/>
-    <tag k="building:levels" v="1"/>
-  </way>
-  <node visible="true" id="-23" lat="29.91022615802795314721151954" lon="-90.08341890119994843644235516"/>
-  <node visible="true" id="-24" lat="29.91016660647953884222260967" lon="-90.08339947609272257977863774"/>
-  <node visible="true" id="-25" lat="29.91015584034741436880722176" lon="-90.08344340428578789214952849"/>
-  <node visible="true" id="-26" lat="29.91021539190228395455051214" lon="-90.08346282939302795966796111"/>
-  <way visible="true" id="-5">
     <nd ref="-23"/>
     <nd ref="-24"/>
-    <nd ref="-25"/>
-    <nd ref="-26"/>
-    <nd ref="-23"/>
+    <nd ref="-21"/>
     <tag k="building" v="yes"/>
   </way>
-  <node visible="true" id="-27" lat="29.91058538333772176542879606" lon="-90.08228872868646419647120638"/>
-  <node visible="true" id="-28" lat="29.91060739722053085642983206" lon="-90.08220628641878136022569379"/>
-  <node visible="true" id="-29" lat="29.91055565542637140197257395" lon="-90.08218789794088365852076095"/>
-  <node visible="true" id="-30" lat="29.91053364153215454734890955" lon="-90.08227034020858070562098874"/>
-  <way visible="true" id="-6">
+  <node visible="true" id="-25" lat="29.90818747822810408365512558" lon="-90.08070556643536974661401473">
+    <tag k="addr:housenumber" v="2704"/>
+    <tag k="addr:street" v="4th Street"/>
+    <tag k="addr:city" v="Harvey"/>
+    <tag k="addr:postcode" v="70058"/>
+  </node>
+  <node visible="true" id="-26" lat="29.90827634729059880669410632" lon="-90.08065669342904868699406506">
+    <tag k="addr:housenumber" v="2708"/>
+    <tag k="addr:street" v="4th Street"/>
+    <tag k="addr:city" v="Harvey"/>
+    <tag k="addr:postcode" v="70058"/>
+  </node>
+  <node visible="true" id="-27" lat="29.90766356914201651306939311" lon="-90.07872395227349215929280035"/>
+  <node visible="true" id="-28" lat="29.90768265252748747684563568" lon="-90.07864542461436485609738156"/>
+  <node visible="true" id="-29" lat="29.90769504331287009790685261" lon="-90.07864943202480390027631074"/>
+  <node visible="true" id="-30" lat="29.90770637867591474901018955" lon="-90.07860278727348202210123418"/>
+  <node visible="true" id="-31" lat="29.90762318858200430327087815" lon="-90.07857588205649790324969217"/>
+  <node visible="true" id="-32" lat="29.90759276981055236888096260" lon="-90.07870105446696129547490273"/>
+  <way visible="true" id="-5">
     <nd ref="-27"/>
     <nd ref="-28"/>
     <nd ref="-29"/>
     <nd ref="-30"/>
+    <nd ref="-31"/>
+    <nd ref="-32"/>
     <nd ref="-27"/>
     <tag k="building" v="yes"/>
   </way>
-  <node visible="true" id="-31" lat="29.90903267489249728328104538" lon="-90.08064204967277532887237612"/>
-  <node visible="true" id="-32" lat="29.90904282932703139863406250" lon="-90.08059348473464922335551819"/>
-  <node visible="true" id="-33" lat="29.90896260303786391432367964" lon="-90.08057115963011085568723502"/>
-  <node visible="true" id="-34" lat="29.90895244859531487691128859" lon="-90.08061972456822275034937775"/>
-  <way visible="true" id="-7">
-    <nd ref="-31"/>
-    <nd ref="-32"/>
+  <node visible="true" id="-33" lat="29.90742194007419030299388396" lon="-90.07829562099773568206728669"/>
+  <node visible="true" id="-34" lat="29.90736984527197961369893164" lon="-90.07827776508430872581811855"/>
+  <node visible="true" id="-35" lat="29.90735465405841608799164533" lon="-90.07833674910547472336475039"/>
+  <node visible="true" id="-36" lat="29.90740674886858485592711077" lon="-90.07835460501890167961391853"/>
+  <way visible="true" id="-6">
     <nd ref="-33"/>
     <nd ref="-34"/>
-    <nd ref="-31"/>
-    <tag k="building" v="yes"/>
-  </way>
-  <node visible="true" id="-35" lat="29.91081474459774014462709602" lon="-90.08087682978494115104695084"/>
-  <node visible="true" id="-36" lat="29.91082989731571828428968729" lon="-90.08083129955618062467692653"/>
-  <node visible="true" id="-37" lat="29.91121363409043354408822779" lon="-90.08100127438434867599426070"/>
-  <node visible="true" id="-38" lat="29.91123389397621679108851822" lon="-90.08094039811425091102137230"/>
-  <node visible="true" id="-39" lat="29.91125346470769841289438773" lon="-90.08094906691890457750560017"/>
-  <node visible="true" id="-40" lat="29.91127258146616441081278026" lon="-90.08089162545921624314360088"/>
-  <node visible="true" id="-41" lat="29.91125338085384299802171881" lon="-90.08088312059624058747431263"/>
-  <node visible="true" id="-42" lat="29.91127303138987159059070109" lon="-90.08082407525782286938920151"/>
-  <node visible="true" id="-43" lat="29.91089169764401489715055504" lon="-90.08065516473990896884060930"/>
-  <node visible="true" id="-44" lat="29.91086689344675875190660008" lon="-90.08072969535707841259863926"/>
-  <node visible="true" id="-45" lat="29.91071142044509656443551648" lon="-90.08066082930939444395335158"/>
-  <node visible="true" id="-46" lat="29.91066204443789189326707856" lon="-90.08080919198923197654949035"/>
-  <way visible="true" id="-8">
     <nd ref="-35"/>
     <nd ref="-36"/>
+    <nd ref="-33"/>
+    <tag k="building" v="yes"/>
+  </way>
+  <node visible="true" id="-37" lat="29.90762516190518383041307970" lon="-90.07823576622290318027808098"/>
+  <node visible="true" id="-38" lat="29.90755285089142390120287018" lon="-90.07821071415517621971957851"/>
+  <node visible="true" id="-39" lat="29.90754941298737534793872328" lon="-90.07822392059860305835172767"/>
+  <node visible="true" id="-40" lat="29.90753065109979758062763722" lon="-90.07821742056738401061011245"/>
+  <node visible="true" id="-41" lat="29.90753340260350512380682630" lon="-90.07820685088002221618808107"/>
+  <node visible="true" id="-42" lat="29.90750660948113193171593593" lon="-90.07819756843993275197135517"/>
+  <node visible="true" id="-43" lat="29.90750362862813815922891081" lon="-90.07820901915164313322748058"/>
+  <node visible="true" id="-44" lat="29.90745891163826186698315723" lon="-90.07819352701856985277117928"/>
+  <node visible="true" id="-45" lat="29.90746020130619342580757802" lon="-90.07818857286319769173132954"/>
+  <node visible="true" id="-46" lat="29.90743444317802257614857808" lon="-90.07817964900195306654495653"/>
+  <node visible="true" id="-47" lat="29.90743285198185930084946449" lon="-90.07818576145226074913807679"/>
+  <node visible="true" id="-48" lat="29.90739694085185362837364664" lon="-90.07817332010424138388771098"/>
+  <node visible="true" id="-49" lat="29.90737223690775081763604248" lon="-90.07826821824305341124272672"/>
+  <node visible="true" id="-50" lat="29.90752432372445923647319432" lon="-90.07832090847173844849749003"/>
+  <node visible="true" id="-51" lat="29.90750505468977138434638618" lon="-90.07839492895634236901969416"/>
+  <node visible="true" id="-52" lat="29.90756611816778232082469913" lon="-90.07841608431689905955863651"/>
+  <node visible="true" id="-53" lat="29.90755835863955525155688520" lon="-90.07844589194979789681383409"/>
+  <node visible="true" id="-54" lat="29.90759557007968538755449117" lon="-90.07845878380896920134546235"/>
+  <node visible="true" id="-55" lat="29.90761495419314641708297131" lon="-90.07838432119052640700829215"/>
+  <node visible="true" id="-56" lat="29.90758884480994694854416593" lon="-90.07837527562351453980227234"/>
+  <way visible="true" id="-7">
     <nd ref="-37"/>
     <nd ref="-38"/>
     <nd ref="-39"/>
@@ -135,31 +154,8 @@
     <nd ref="-44"/>
     <nd ref="-45"/>
     <nd ref="-46"/>
-    <nd ref="-35"/>
-    <tag k="building" v="yes"/>
-    <tag k="building:levels" v="1"/>
-  </way>
-  <node visible="true" id="-47" lat="29.91117520669426710355764953" lon="-90.08085183722550937091000378">
-    <tag k="addr:housenumber" v="2600"/>
-    <tag k="addr:street" v="River Lane"/>
-    <tag k="addr:city" v="Harvey"/>
-    <tag k="addr:postcode" v="70058"/>
-  </node>
-  <node visible="true" id="-48" lat="29.91075364790609825149658718" lon="-90.08076601490736834421113599">
-    <tag k="addr:housenumber" v="2611"/>
-    <tag k="addr:street" v="Oak Drive"/>
-    <tag k="addr:city" v="Harvey"/>
-    <tag k="addr:postcode" v="70058"/>
-  </node>
-  <node visible="true" id="-49" lat="29.91088836711892540165536047" lon="-90.07901852228617656237474876"/>
-  <node visible="true" id="-50" lat="29.91085233214838723370121443" lon="-90.07900231963557757808302995"/>
-  <node visible="true" id="-51" lat="29.91081734301999262015669956" lon="-90.07910588895092018901777919"/>
-  <node visible="true" id="-52" lat="29.91104052958994685695870430" lon="-90.07920624191586966844624840"/>
-  <node visible="true" id="-53" lat="29.91107590005459115900521283" lon="-90.07910154359403520629712148"/>
-  <node visible="true" id="-54" lat="29.91104168285401954108237987" lon="-90.07908615825071763083542464"/>
-  <node visible="true" id="-55" lat="29.91114075659178794808212842" lon="-90.07879289499767594406876015"/>
-  <node visible="true" id="-56" lat="29.91098782242423581578805170" lon="-90.07872413002665723524842178"/>
-  <way visible="true" id="-9">
+    <nd ref="-47"/>
+    <nd ref="-48"/>
     <nd ref="-49"/>
     <nd ref="-50"/>
     <nd ref="-51"/>
@@ -168,465 +164,448 @@
     <nd ref="-54"/>
     <nd ref="-55"/>
     <nd ref="-56"/>
-    <nd ref="-49"/>
-    <tag k="building" v="yes"/>
-    <tag k="building:levels" v="1"/>
-    <tag k="addr:housenumber" v="201"/>
-    <tag k="addr:street" v="Pailet Avenue"/>
-    <tag k="addr:city" v="Harvey"/>
-    <tag k="addr:postcode" v="70058"/>
-  </way>
-  <node visible="true" id="-57" lat="29.91137510910923680285122828" lon="-90.08026654800413268731062999"/>
-  <node visible="true" id="-58" lat="29.91124532044115369444625685" lon="-90.08020801207661065745924134"/>
-  <node visible="true" id="-59" lat="29.91125736613894758875176194" lon="-90.08017246451252901806583395"/>
-  <node visible="true" id="-60" lat="29.91117444620911669517226983" lon="-90.08013506686850746518757660"/>
-  <node visible="true" id="-61" lat="29.91116299967756475552960183" lon="-90.08016884622965392281912500"/>
-  <node visible="true" id="-62" lat="29.91093048637906193221169815" lon="-90.08006398079116650023934199"/>
-  <node visible="true" id="-63" lat="29.91086054007856986913793662" lon="-90.08027039570852423366886796"/>
-  <node visible="true" id="-64" lat="29.91130576229643267538449436" lon="-90.08047119471854102812358178"/>
-  <way visible="true" id="-10">
-    <nd ref="-57"/>
-    <nd ref="-58"/>
-    <nd ref="-59"/>
-    <nd ref="-60"/>
-    <nd ref="-61"/>
-    <nd ref="-62"/>
-    <nd ref="-63"/>
-    <nd ref="-64"/>
-    <nd ref="-57"/>
-    <tag k="building" v="yes"/>
-    <tag k="building:levels" v="1"/>
-  </way>
-  <node visible="true" id="-65" lat="29.91119069378945027892768849" lon="-90.08034593269583467645134078">
-    <tag k="addr:housenumber" v="181"/>
-    <tag k="addr:street" v="Grefer Lane"/>
-    <tag k="addr:city" v="Harvey"/>
-    <tag k="addr:postcode" v="70058"/>
-  </node>
-  <node visible="true" id="-66" lat="29.91100136081877991500732605" lon="-90.08028281066313525116129313">
-    <tag k="addr:housenumber" v="187"/>
-    <tag k="addr:street" v="Grefer Lane"/>
-    <tag k="addr:city" v="Harvey"/>
-    <tag k="addr:postcode" v="70058"/>
-  </node>
-  <node visible="true" id="-67" lat="29.91125869753274102436080284" lon="-90.08033719897635194229223998">
-    <tag k="addr:housenumber" v="179"/>
-    <tag k="addr:street" v="Grefer Lane"/>
-    <tag k="addr:city" v="Harvey"/>
-    <tag k="addr:postcode" v="70058"/>
-  </node>
-  <node visible="true" id="-68" lat="29.91116341997513927708496340" lon="-90.07966017623270715830585686"/>
-  <node visible="true" id="-69" lat="29.91109756157773347240436124" lon="-90.07963063524164226691937074"/>
-  <node visible="true" id="-70" lat="29.91110238977996615972188010" lon="-90.07961630895236737615050515"/>
-  <node visible="true" id="-71" lat="29.91104292621552573905319150" lon="-90.07958963639919147681212053"/>
-  <node visible="true" id="-72" lat="29.91103760088237706327163323" lon="-90.07960543777075201887782896"/>
-  <node visible="true" id="-73" lat="29.91090342984177397056555492" lon="-90.07954525502562148631113814"/>
-  <node visible="true" id="-74" lat="29.91090866049459506825769495" lon="-90.07952973461115675490873400"/>
-  <node visible="true" id="-75" lat="29.91085292683570884264554479" lon="-90.07950473516602585277723847"/>
-  <node visible="true" id="-76" lat="29.91084795021314235441423079" lon="-90.07951950181256961514009163"/>
-  <node visible="true" id="-77" lat="29.91084288597637907969328808" lon="-90.07951723023975887372216675"/>
-  <node visible="true" id="-78" lat="29.91078282314084191284564440" lon="-90.07969544876414147438481450"/>
-  <node visible="true" id="-79" lat="29.91110311423774348327242478" lon="-90.07983911607145444122579647"/>
-  <way visible="true" id="-11">
-    <nd ref="-68"/>
-    <nd ref="-69"/>
-    <nd ref="-70"/>
-    <nd ref="-71"/>
-    <nd ref="-72"/>
-    <nd ref="-73"/>
-    <nd ref="-74"/>
-    <nd ref="-75"/>
-    <nd ref="-76"/>
-    <nd ref="-77"/>
-    <nd ref="-78"/>
-    <nd ref="-79"/>
-    <nd ref="-68"/>
-    <tag k="building" v="yes"/>
-    <tag k="building:levels" v="1"/>
-  </way>
-  <node visible="true" id="-80" lat="29.91087800367377269594726386" lon="-90.07964483146641043731506215">
-    <tag k="addr:housenumber" v="188"/>
-    <tag k="addr:street" v="Pailet Avenue"/>
-    <tag k="addr:city" v="Harvey"/>
-    <tag k="addr:postcode" v="70058"/>
-  </node>
-  <node visible="true" id="-81" lat="29.91102942259563235438690754" lon="-90.07974318105235056464152876">
-    <tag k="addr:housenumber" v="186"/>
-    <tag k="addr:street" v="Pailet Avenue"/>
-    <tag k="addr:city" v="Harvey"/>
-    <tag k="addr:postcode" v="70058"/>
-  </node>
-  <node visible="true" id="-82" lat="29.90804065995497751373477513" lon="-90.07912625848013021823135205"/>
-  <node visible="true" id="-83" lat="29.90807646373826855779043399" lon="-90.07898861899055020785453962"/>
-  <node visible="true" id="-84" lat="29.90800320359024055960617261" lon="-90.07896325666412451482756296"/>
-  <node visible="true" id="-85" lat="29.90796739978060259090852924" lon="-90.07910089615370452520437539"/>
-  <way visible="true" id="-12">
-    <nd ref="-82"/>
-    <nd ref="-83"/>
-    <nd ref="-84"/>
-    <nd ref="-85"/>
-    <nd ref="-82"/>
-    <tag k="building" v="yes"/>
-    <tag k="building:levels" v="1"/>
-    <tag k="addr:housenumber" v="419"/>
-    <tag k="addr:street" v="Grefer Avenue"/>
-    <tag k="addr:city" v="Harvey"/>
-    <tag k="addr:postcode" v="70058"/>
-  </way>
-  <node visible="true" id="-86" lat="29.90813718123372311197272211" lon="-90.07892900660225166120653739"/>
-  <node visible="true" id="-87" lat="29.90813039185530541885782441" lon="-90.07895560279455082763888640"/>
-  <node visible="true" id="-88" lat="29.90811294666667308206342568" lon="-90.07894967596638480245019309"/>
-  <node visible="true" id="-89" lat="29.90806207667809957229110296" lon="-90.07914895008039479762373958"/>
-  <node visible="true" id="-90" lat="29.90812949170528156628279248" lon="-90.07917185365491263837611768"/>
-  <node visible="true" id="-91" lat="29.90818715103445413205918157" lon="-90.07894598334858926591550699"/>
-  <way visible="true" id="-13">
-    <nd ref="-86"/>
-    <nd ref="-87"/>
-    <nd ref="-88"/>
-    <nd ref="-89"/>
-    <nd ref="-90"/>
-    <nd ref="-91"/>
-    <nd ref="-86"/>
-    <tag k="building" v="yes"/>
-    <tag k="building:levels" v="1"/>
-    <tag k="addr:housenumber" v="417"/>
-    <tag k="addr:street" v="Grefer Avenue"/>
-    <tag k="addr:city" v="Harvey"/>
-    <tag k="addr:postcode" v="70058"/>
-  </way>
-  <node visible="true" id="-92" lat="29.90801844837089262796325784" lon="-90.07836706152946248948865104"/>
-  <node visible="true" id="-93" lat="29.90798133623747290243954922" lon="-90.07835475982027162444865098"/>
-  <node visible="true" id="-94" lat="29.90797581660680037884958438" lon="-90.07837692112823901879892219"/>
-  <node visible="true" id="-95" lat="29.90794261886880889278472750" lon="-90.07836591694405115049448796"/>
-  <node visible="true" id="-96" lat="29.90790043277097254303953378" lon="-90.07853529396037117749074241"/>
-  <node visible="true" id="-97" lat="29.90797074267426580718165496" lon="-90.07855859985374991083517671"/>
-  <way visible="true" id="-14">
-    <nd ref="-92"/>
-    <nd ref="-93"/>
-    <nd ref="-94"/>
-    <nd ref="-95"/>
-    <nd ref="-96"/>
-    <nd ref="-97"/>
-    <nd ref="-92"/>
-    <tag k="building" v="yes"/>
-    <tag k="building:levels" v="1"/>
-    <tag k="addr:housenumber" v="428"/>
-    <tag k="addr:street" v="Pailet Avenue"/>
-    <tag k="addr:city" v="Harvey"/>
-    <tag k="addr:postcode" v="70058"/>
-  </way>
-  <node visible="true" id="-98" lat="29.90788806300565383367029426" lon="-90.07832429719732658668363001"/>
-  <node visible="true" id="-99" lat="29.90785027785448590975647676" lon="-90.07831116454718767272424884"/>
-  <node visible="true" id="-100" lat="29.90784349500279404310276732" lon="-90.07833713711407597202196484"/>
-  <node visible="true" id="-101" lat="29.90781265892050200250196212" lon="-90.07832641969464759768015938"/>
-  <node visible="true" id="-102" lat="29.90777325195793778789266071" lon="-90.07847731484365283449733397"/>
-  <node visible="true" id="-103" lat="29.90784187322116594032195280" lon="-90.07850116491322012279852061"/>
-  <way visible="true" id="-15">
-    <nd ref="-98"/>
-    <nd ref="-99"/>
-    <nd ref="-100"/>
-    <nd ref="-101"/>
-    <nd ref="-102"/>
-    <nd ref="-103"/>
-    <nd ref="-98"/>
-    <tag k="building" v="yes"/>
-    <tag k="building:levels" v="1"/>
-    <tag k="addr:housenumber" v="432"/>
-    <tag k="addr:street" v="Pailet Avenue"/>
-    <tag k="addr:city" v="Harvey"/>
-    <tag k="addr:postcode" v="70058"/>
-  </way>
-  <node visible="true" id="-104" lat="29.90779061173454067557031522" lon="-90.07879235286669938886916498"/>
-  <node visible="true" id="-105" lat="29.90782550462398248214412888" lon="-90.07865133185036654595023720"/>
-  <node visible="true" id="-106" lat="29.90773139953170201010834717" lon="-90.07862034343155244187073549"/>
-  <node visible="true" id="-107" lat="29.90769650660928746788158605" lon="-90.07876136444788528478966327"/>
-  <way visible="true" id="-16">
-    <nd ref="-104"/>
-    <nd ref="-105"/>
-    <nd ref="-106"/>
-    <nd ref="-107"/>
-    <nd ref="-104"/>
+    <nd ref="-37"/>
     <tag k="building" v="yes"/>
   </way>
-  <node visible="true" id="-108" lat="29.90790757152804246743471595" lon="-90.07875028175686793474596925"/>
-  <node visible="true" id="-109" lat="29.90792249470442598635600007" lon="-90.07868620302613749117881525"/>
-  <node visible="true" id="-110" lat="29.90787988641639927323012671" lon="-90.07867299689347362345870351"/>
-  <node visible="true" id="-111" lat="29.90786496323366350225114729" lon="-90.07873707562421827788057271"/>
-  <way visible="true" id="-17">
-    <nd ref="-108"/>
-    <nd ref="-109"/>
-    <nd ref="-110"/>
-    <nd ref="-111"/>
-    <nd ref="-108"/>
-    <tag k="building" v="yes"/>
-  </way>
-  <node visible="true" id="-112" lat="29.90813940436098761210814700" lon="-90.07875809636935571234062081"/>
-  <node visible="true" id="-113" lat="29.90804292289161026019428391" lon="-90.07872689103129459908814169"/>
-  <node visible="true" id="-114" lat="29.90801596075213808489934308" lon="-90.07883783530581922605051659"/>
-  <node visible="true" id="-115" lat="29.90805221241458866643370129" lon="-90.07884956030069645294133807"/>
-  <node visible="true" id="-116" lat="29.90806796415609269956803473" lon="-90.07878474474441077290975954"/>
-  <node visible="true" id="-117" lat="29.90812819397958577383178636" lon="-90.07880422508759465927141719"/>
-  <way visible="true" id="-18">
-    <nd ref="-112"/>
-    <nd ref="-113"/>
-    <nd ref="-114"/>
-    <nd ref="-115"/>
-    <nd ref="-116"/>
-    <nd ref="-117"/>
-    <nd ref="-112"/>
-    <tag k="building" v="yes"/>
-  </way>
-  <node visible="true" id="-118" lat="29.90779786957877206532430137" lon="-90.07951147523979784637049306"/>
-  <node visible="true" id="-119" lat="29.90787125964517301213163591" lon="-90.07953633485547584314190317"/>
-  <node visible="true" id="-120" lat="29.90790624950544795979112678" lon="-90.07939886139256202568503795"/>
-  <node visible="true" id="-121" lat="29.90783285946476510730462905" lon="-90.07937400177686981805891264"/>
-  <way visible="true" id="-19">
-    <nd ref="-118"/>
-    <nd ref="-119"/>
-    <nd ref="-120"/>
-    <nd ref="-121"/>
-    <nd ref="-118"/>
-    <tag k="building" v="yes"/>
-    <tag k="building:levels" v="1"/>
-    <tag k="addr:housenumber" v="412"/>
-    <tag k="addr:street" v="Grefer Avenue"/>
-    <tag k="addr:city" v="Harvey"/>
-    <tag k="addr:postcode" v="70058"/>
-  </way>
-  <node visible="true" id="-122" lat="29.90808914812063434851552302" lon="-90.07961053111506544155417942"/>
-  <node visible="true" id="-123" lat="29.90815966161167338555060269" lon="-90.07963455948032560627325438"/>
-  <node visible="true" id="-124" lat="29.90819478584782942220954283" lon="-90.07949737935480527539766626"/>
-  <node visible="true" id="-125" lat="29.90812427238163451193031506" lon="-90.07947335098954511067859130"/>
-  <way visible="true" id="-20">
-    <nd ref="-122"/>
-    <nd ref="-123"/>
-    <nd ref="-124"/>
-    <nd ref="-125"/>
-    <nd ref="-122"/>
-    <tag k="building" v="yes"/>
-    <tag k="building:levels" v="1"/>
-    <tag k="addr:housenumber" v="404"/>
-    <tag k="addr:street" v="Grefer Avenue"/>
-    <tag k="addr:city" v="Harvey"/>
-    <tag k="addr:postcode" v="70058"/>
-  </way>
-  <node visible="true" id="-126" lat="29.90802486542334293062594952" lon="-90.07966447857050695802172413"/>
-  <node visible="true" id="-127" lat="29.90800469849972031965990027" lon="-90.07974402583482742556952871"/>
-  <node visible="true" id="-128" lat="29.90803448261608465941208124" lon="-90.07975407509928800209308974"/>
-  <node visible="true" id="-129" lat="29.90805464953370673697463644" lon="-90.07967452783495332369056996"/>
-  <way visible="true" id="-21">
-    <nd ref="-126"/>
-    <nd ref="-127"/>
-    <nd ref="-128"/>
-    <nd ref="-129"/>
-    <nd ref="-126"/>
-    <tag k="building" v="yes"/>
-  </way>
-  <node visible="true" id="-130" lat="29.90793354027350048340849753" lon="-90.08298638525134549581707688"/>
-  <node visible="true" id="-131" lat="29.90791270885117825173438177" lon="-90.08306925356477279365208233"/>
-  <node visible="true" id="-132" lat="29.90797973205340198887824954" lon="-90.08309167637432324227120262"/>
-  <node visible="true" id="-133" lat="29.90800056346171231780317612" lon="-90.08300880806089594443619717"/>
-  <way visible="true" id="-22">
-    <nd ref="-130"/>
-    <nd ref="-131"/>
-    <nd ref="-132"/>
-    <nd ref="-133"/>
-    <nd ref="-130"/>
-    <tag k="building" v="yes"/>
-    <tag k="building:levels" v="1"/>
-  </way>
-  <node visible="true" id="-134" lat="29.90791199634481145608333463" lon="-90.07887286986570529734308366"/>
-  <node visible="true" id="-135" lat="29.90785857424994986786259688" lon="-90.07907444306337652051297482"/>
-  <node visible="true" id="-136" lat="29.90792726333612350231305754" lon="-90.07909867063584385959984502"/>
-  <node visible="true" id="-137" lat="29.90798068539420739853085252" lon="-90.07889709743820105813938426"/>
-  <way visible="true" id="-23">
-    <nd ref="-134"/>
-    <nd ref="-135"/>
-    <nd ref="-136"/>
-    <nd ref="-137"/>
-    <nd ref="-134"/>
-    <tag k="building" v="yes"/>
-    <tag k="building:levels" v="1"/>
-    <tag k="addr:housenumber" v="423"/>
-    <tag k="addr:street" v="Grefer Avenue"/>
-    <tag k="addr:city" v="Harvey"/>
-    <tag k="addr:postcode" v="70058"/>
-  </way>
-  <node visible="true" id="-138" lat="29.90818479087526782222994370" lon="-90.08038235645933866635459708"/>
-  <node visible="true" id="-139" lat="29.90815212550158008752987371" lon="-90.08050590768925758311524987"/>
-  <node visible="true" id="-140" lat="29.90833300922119164511059353" lon="-90.08056955452698844055703375"/>
-  <node visible="true" id="-141" lat="29.90836567453558814122516196" lon="-90.08044600329708373465109617"/>
-  <way visible="true" id="-24">
-    <nd ref="-138"/>
-    <nd ref="-139"/>
-    <nd ref="-140"/>
-    <nd ref="-141"/>
-    <nd ref="-138"/>
-    <tag k="building" v="yes"/>
-    <tag k="building:levels" v="2"/>
-  </way>
-  <node visible="true" id="-142" lat="29.90825907469208999600596144" lon="-90.08047792688351762535603484">
-    <tag k="addr:housenumber" v="2700"/>
-    <tag k="addr:street" v="4th Street"/>
-    <tag k="addr:city" v="Harvey"/>
-    <tag k="addr:postcode" v="70058"/>
-  </node>
-  <node visible="true" id="-143" lat="29.90825937369811171606670541" lon="-90.08047758655992254261946073">
-    <tag k="addr:housenumber" v="2704"/>
-    <tag k="addr:street" v="4th Street"/>
-    <tag k="addr:city" v="Harvey"/>
-    <tag k="addr:postcode" v="70058"/>
-  </node>
-  <node visible="true" id="-144" lat="29.90813182458991192902431067" lon="-90.08058685447153379755036440"/>
-  <node visible="true" id="-145" lat="29.90808457832878985982461018" lon="-90.08076984293967370831524022"/>
-  <node visible="true" id="-146" lat="29.90824501372986077285531792" lon="-90.08082497194027382647618651"/>
-  <node visible="true" id="-147" lat="29.90829225991486950420039648" lon="-90.08064198347213391571131069"/>
-  <way visible="true" id="-25">
-    <nd ref="-144"/>
-    <nd ref="-145"/>
-    <nd ref="-146"/>
-    <nd ref="-147"/>
-    <nd ref="-144"/>
-    <tag k="building" v="yes"/>
-    <tag k="building:levels" v="1"/>
-  </way>
-  <node visible="true" id="-148" lat="29.90818747822810408365512558" lon="-90.08070556643536974661401473">
-    <tag k="addr:housenumber" v="2704"/>
-    <tag k="addr:street" v="4th Street"/>
-    <tag k="addr:city" v="Harvey"/>
-    <tag k="addr:postcode" v="70058"/>
-  </node>
-  <node visible="true" id="-149" lat="29.90827634729059880669410632" lon="-90.08065669342904868699406506">
-    <tag k="addr:housenumber" v="2708"/>
-    <tag k="addr:street" v="4th Street"/>
-    <tag k="addr:city" v="Harvey"/>
-    <tag k="addr:postcode" v="70058"/>
-  </node>
-  <node visible="true" id="-150" lat="29.90766356914201651306939311" lon="-90.07872395227349215929280035"/>
-  <node visible="true" id="-151" lat="29.90768265252748747684563568" lon="-90.07864542461436485609738156"/>
-  <node visible="true" id="-152" lat="29.90769504331287009790685261" lon="-90.07864943202480390027631074"/>
-  <node visible="true" id="-153" lat="29.90770637867591474901018955" lon="-90.07860278727348202210123418"/>
-  <node visible="true" id="-154" lat="29.90762318858200430327087815" lon="-90.07857588205649790324969217"/>
-  <node visible="true" id="-155" lat="29.90759276981055236888096260" lon="-90.07870105446696129547490273"/>
-  <way visible="true" id="-26">
-    <nd ref="-150"/>
-    <nd ref="-151"/>
-    <nd ref="-152"/>
-    <nd ref="-153"/>
-    <nd ref="-154"/>
-    <nd ref="-155"/>
-    <nd ref="-150"/>
-    <tag k="building" v="yes"/>
-  </way>
-  <node visible="true" id="-156" lat="29.90742194007419030299388396" lon="-90.07829562099773568206728669"/>
-  <node visible="true" id="-157" lat="29.90736984527197961369893164" lon="-90.07827776508430872581811855"/>
-  <node visible="true" id="-158" lat="29.90735465405841608799164533" lon="-90.07833674910547472336475039"/>
-  <node visible="true" id="-159" lat="29.90740674886858485592711077" lon="-90.07835460501890167961391853"/>
-  <way visible="true" id="-27">
-    <nd ref="-156"/>
-    <nd ref="-157"/>
-    <nd ref="-158"/>
-    <nd ref="-159"/>
-    <nd ref="-156"/>
-    <tag k="building" v="yes"/>
-    <tag k="building:levels" v="1"/>
-  </way>
-  <node visible="true" id="-160" lat="29.90762516190518383041307970" lon="-90.07823576622290318027808098"/>
-  <node visible="true" id="-161" lat="29.90755285089142390120287018" lon="-90.07821071415517621971957851"/>
-  <node visible="true" id="-162" lat="29.90754941298737534793872328" lon="-90.07822392059860305835172767"/>
-  <node visible="true" id="-163" lat="29.90753065109979758062763722" lon="-90.07821742056738401061011245"/>
-  <node visible="true" id="-164" lat="29.90753340260350512380682630" lon="-90.07820685088002221618808107"/>
-  <node visible="true" id="-165" lat="29.90750660948113193171593593" lon="-90.07819756843993275197135517"/>
-  <node visible="true" id="-166" lat="29.90750362862813815922891081" lon="-90.07820901915164313322748058"/>
-  <node visible="true" id="-167" lat="29.90745891163826186698315723" lon="-90.07819352701856985277117928"/>
-  <node visible="true" id="-168" lat="29.90746020130619342580757802" lon="-90.07818857286319769173132954"/>
-  <node visible="true" id="-169" lat="29.90743444317802257614857808" lon="-90.07817964900195306654495653"/>
-  <node visible="true" id="-170" lat="29.90743285198185930084946449" lon="-90.07818576145226074913807679"/>
-  <node visible="true" id="-171" lat="29.90739694085185362837364664" lon="-90.07817332010424138388771098"/>
-  <node visible="true" id="-172" lat="29.90737223690775081763604248" lon="-90.07826821824305341124272672"/>
-  <node visible="true" id="-173" lat="29.90752432372445923647319432" lon="-90.07832090847173844849749003"/>
-  <node visible="true" id="-174" lat="29.90750505468977138434638618" lon="-90.07839492895634236901969416"/>
-  <node visible="true" id="-175" lat="29.90756611816778232082469913" lon="-90.07841608431689905955863651"/>
-  <node visible="true" id="-176" lat="29.90755835863955525155688520" lon="-90.07844589194979789681383409"/>
-  <node visible="true" id="-177" lat="29.90759557007968538755449117" lon="-90.07845878380896920134546235"/>
-  <node visible="true" id="-178" lat="29.90761495419314641708297131" lon="-90.07838432119052640700829215"/>
-  <node visible="true" id="-179" lat="29.90758884480994694854416593" lon="-90.07837527562351453980227234"/>
-  <way visible="true" id="-28">
-    <nd ref="-160"/>
-    <nd ref="-161"/>
-    <nd ref="-162"/>
-    <nd ref="-163"/>
-    <nd ref="-164"/>
-    <nd ref="-165"/>
-    <nd ref="-166"/>
-    <nd ref="-167"/>
-    <nd ref="-168"/>
-    <nd ref="-169"/>
-    <nd ref="-170"/>
-    <nd ref="-171"/>
-    <nd ref="-172"/>
-    <nd ref="-173"/>
-    <nd ref="-174"/>
-    <nd ref="-175"/>
-    <nd ref="-176"/>
-    <nd ref="-177"/>
-    <nd ref="-178"/>
-    <nd ref="-179"/>
-    <nd ref="-160"/>
-    <tag k="building" v="yes"/>
-    <tag k="building:levels" v="1"/>
-  </way>
-  <node visible="true" id="-180" lat="29.90751393367264299172347819" lon="-90.07831531262766588952217717">
+  <node visible="true" id="-57" lat="29.90751393367264299172347819" lon="-90.07831531262766588952217717">
     <tag k="addr:housenumber" v="448"/>
     <tag k="addr:street" v="Pailet Avenue"/>
     <tag k="addr:city" v="Harvey"/>
     <tag k="addr:postcode" v="70058"/>
   </node>
-  <node visible="true" id="-181" lat="29.90755537505138050846653641" lon="-90.07831474813977479243476409">
+  <node visible="true" id="-58" lat="29.90755537505138050846653641" lon="-90.07831474813977479243476409">
     <tag k="addr:housenumber" v="444"/>
     <tag k="addr:street" v="Pailet Avenue"/>
     <tag k="addr:city" v="Harvey"/>
     <tag k="addr:postcode" v="70058"/>
     <tag k="addr:unit" v="A, B"/>
   </node>
-  <node visible="true" id="-182" lat="29.90759354212870135825141915" lon="-90.07880013206872149567061570"/>
-  <node visible="true" id="-183" lat="29.90755267134632333636545809" lon="-90.07896493452228980913787382"/>
-  <node visible="true" id="-184" lat="29.90758416460299429218139267" lon="-90.07897532889076330775424140"/>
-  <node visible="true" id="-185" lat="29.90758209404133438624739938" lon="-90.07898367797659489042416681"/>
-  <node visible="true" id="-186" lat="29.90762127846835127797930909" lon="-90.07899661082483078189397929"/>
-  <node visible="true" id="-187" lat="29.90766421978253575275630283" lon="-90.07882345928543088575679576"/>
-  <way visible="true" id="-29">
-    <nd ref="-182"/>
-    <nd ref="-183"/>
-    <nd ref="-184"/>
-    <nd ref="-185"/>
-    <nd ref="-186"/>
-    <nd ref="-187"/>
-    <nd ref="-182"/>
+  <node visible="true" id="-59" lat="29.90759354212870135825141915" lon="-90.07880013206872149567061570"/>
+  <node visible="true" id="-60" lat="29.90755267134632333636545809" lon="-90.07896493452228980913787382"/>
+  <node visible="true" id="-61" lat="29.90758416460299429218139267" lon="-90.07897532889076330775424140"/>
+  <node visible="true" id="-62" lat="29.90758209404133438624739938" lon="-90.07898367797659489042416681"/>
+  <node visible="true" id="-63" lat="29.90762127846835127797930909" lon="-90.07899661082483078189397929"/>
+  <node visible="true" id="-64" lat="29.90766421978253575275630283" lon="-90.07882345928543088575679576"/>
+  <way visible="true" id="-8">
+    <nd ref="-59"/>
+    <nd ref="-60"/>
+    <nd ref="-61"/>
+    <nd ref="-62"/>
+    <nd ref="-63"/>
+    <nd ref="-64"/>
+    <nd ref="-59"/>
     <tag k="building" v="yes"/>
-    <tag k="building:levels" v="1"/>
     <tag k="addr:housenumber" v="439"/>
     <tag k="addr:street" v="Grefer Avenue"/>
     <tag k="addr:city" v="Harvey"/>
     <tag k="addr:postcode" v="70058"/>
   </way>
-  <node visible="true" id="-188" lat="29.90733394026903013696028211" lon="-90.07889442447188343976449687"/>
-  <node visible="true" id="-189" lat="29.90737399089928771900304127" lon="-90.07890843401477809493371751"/>
-  <node visible="true" id="-190" lat="29.90737990848360539075656561" lon="-90.07888591967007130278943805"/>
-  <node visible="true" id="-191" lat="29.90741199005547201750232489" lon="-90.07889714167441752579179592"/>
-  <node visible="true" id="-192" lat="29.90744868281082347039045999" lon="-90.07875753846103350497287465"/>
-  <node visible="true" id="-193" lat="29.90737655063764321994312922" lon="-90.07873230691377841594658094"/>
-  <way visible="true" id="-30">
+  <node visible="true" id="-65" lat="29.90733394026903013696028211" lon="-90.07889442447188343976449687"/>
+  <node visible="true" id="-66" lat="29.90737399089928771900304127" lon="-90.07890843401477809493371751"/>
+  <node visible="true" id="-67" lat="29.90737990848360539075656561" lon="-90.07888591967007130278943805"/>
+  <node visible="true" id="-68" lat="29.90741199005547201750232489" lon="-90.07889714167441752579179592"/>
+  <node visible="true" id="-69" lat="29.90744868281082347039045999" lon="-90.07875753846103350497287465"/>
+  <node visible="true" id="-70" lat="29.90737655063764321994312922" lon="-90.07873230691377841594658094"/>
+  <way visible="true" id="-9">
+    <nd ref="-65"/>
+    <nd ref="-66"/>
+    <nd ref="-67"/>
+    <nd ref="-68"/>
+    <nd ref="-69"/>
+    <nd ref="-70"/>
+    <nd ref="-65"/>
+    <tag k="building" v="yes"/>
+    <tag k="addr:housenumber" v="479"/>
+    <tag k="addr:street" v="Grefer Avenue"/>
+    <tag k="addr:city" v="Harvey"/>
+    <tag k="addr:postcode" v="70058"/>
+  </way>
+  <node visible="true" id="-71" lat="29.91011882799816845590612502" lon="-90.08387852663169326206116239"/>
+  <node visible="true" id="-72" lat="29.91009929854072524335606431" lon="-90.08383448775158797161566326"/>
+  <node visible="true" id="-73" lat="29.91005094283213949779565155" lon="-90.08386302781330812194937607"/>
+  <node visible="true" id="-74" lat="29.91007047229906490315443079" lon="-90.08390706669338499068544479"/>
+  <way visible="true" id="-10">
+    <nd ref="-71"/>
+    <nd ref="-72"/>
+    <nd ref="-73"/>
+    <nd ref="-74"/>
+    <nd ref="-71"/>
+    <tag k="building" v="yes"/>
+  </way>
+  <node visible="true" id="-75" lat="29.91012109355597559101624938" lon="-90.08373614617360658485267777"/>
+  <node visible="true" id="-76" lat="29.91003468051517799608518544" lon="-90.08378253246586098157422384"/>
+  <node visible="true" id="-77" lat="29.91005571916556604605830216" lon="-90.08383469521636754961946281"/>
+  <node visible="true" id="-78" lat="29.91014213218813111438976193" lon="-90.08378830892412736375263194"/>
+  <way visible="true" id="-11">
+    <nd ref="-75"/>
+    <nd ref="-76"/>
+    <nd ref="-77"/>
+    <nd ref="-78"/>
+    <nd ref="-75"/>
+    <tag k="building" v="yes"/>
+  </way>
+  <node visible="true" id="-79" lat="29.91022615802795314721151954" lon="-90.08341890119994843644235516"/>
+  <node visible="true" id="-80" lat="29.91016660647953884222260967" lon="-90.08339947609272257977863774"/>
+  <node visible="true" id="-81" lat="29.91015584034741436880722176" lon="-90.08344340428578789214952849"/>
+  <node visible="true" id="-82" lat="29.91021539190228395455051214" lon="-90.08346282939302795966796111"/>
+  <way visible="true" id="-12">
+    <nd ref="-79"/>
+    <nd ref="-80"/>
+    <nd ref="-81"/>
+    <nd ref="-82"/>
+    <nd ref="-79"/>
+    <tag k="building" v="yes"/>
+  </way>
+  <node visible="true" id="-83" lat="29.91058538333772176542879606" lon="-90.08228872868646419647120638"/>
+  <node visible="true" id="-84" lat="29.91060739722053085642983206" lon="-90.08220628641878136022569379"/>
+  <node visible="true" id="-85" lat="29.91055565542637140197257395" lon="-90.08218789794088365852076095"/>
+  <node visible="true" id="-86" lat="29.91053364153215454734890955" lon="-90.08227034020858070562098874"/>
+  <way visible="true" id="-13">
+    <nd ref="-83"/>
+    <nd ref="-84"/>
+    <nd ref="-85"/>
+    <nd ref="-86"/>
+    <nd ref="-83"/>
+    <tag k="building" v="yes"/>
+  </way>
+  <node visible="true" id="-87" lat="29.90903267489249728328104538" lon="-90.08064204967277532887237612"/>
+  <node visible="true" id="-88" lat="29.90904282932703139863406250" lon="-90.08059348473464922335551819"/>
+  <node visible="true" id="-89" lat="29.90896260303786391432367964" lon="-90.08057115963011085568723502"/>
+  <node visible="true" id="-90" lat="29.90895244859531487691128859" lon="-90.08061972456822275034937775"/>
+  <way visible="true" id="-14">
+    <nd ref="-87"/>
+    <nd ref="-88"/>
+    <nd ref="-89"/>
+    <nd ref="-90"/>
+    <nd ref="-87"/>
+    <tag k="building" v="yes"/>
+  </way>
+  <node visible="true" id="-91" lat="29.91081474459774014462709602" lon="-90.08087682978494115104695084"/>
+  <node visible="true" id="-92" lat="29.91082989731571828428968729" lon="-90.08083129955618062467692653"/>
+  <node visible="true" id="-93" lat="29.91121363409043354408822779" lon="-90.08100127438434867599426070"/>
+  <node visible="true" id="-94" lat="29.91123389397621679108851822" lon="-90.08094039811425091102137230"/>
+  <node visible="true" id="-95" lat="29.91125346470769841289438773" lon="-90.08094906691890457750560017"/>
+  <node visible="true" id="-96" lat="29.91127258146616441081278026" lon="-90.08089162545921624314360088"/>
+  <node visible="true" id="-97" lat="29.91125338085384299802171881" lon="-90.08088312059624058747431263"/>
+  <node visible="true" id="-98" lat="29.91127303138987159059070109" lon="-90.08082407525782286938920151"/>
+  <node visible="true" id="-99" lat="29.91089169764401489715055504" lon="-90.08065516473990896884060930"/>
+  <node visible="true" id="-100" lat="29.91086689344675875190660008" lon="-90.08072969535707841259863926"/>
+  <node visible="true" id="-101" lat="29.91071142044509656443551648" lon="-90.08066082930939444395335158"/>
+  <node visible="true" id="-102" lat="29.91066204443789189326707856" lon="-90.08080919198923197654949035"/>
+  <way visible="true" id="-15">
+    <nd ref="-91"/>
+    <nd ref="-92"/>
+    <nd ref="-93"/>
+    <nd ref="-94"/>
+    <nd ref="-95"/>
+    <nd ref="-96"/>
+    <nd ref="-97"/>
+    <nd ref="-98"/>
+    <nd ref="-99"/>
+    <nd ref="-100"/>
+    <nd ref="-101"/>
+    <nd ref="-102"/>
+    <nd ref="-91"/>
+    <tag k="building" v="yes"/>
+  </way>
+  <node visible="true" id="-103" lat="29.91117520669426710355764953" lon="-90.08085183722550937091000378">
+    <tag k="addr:housenumber" v="2600"/>
+    <tag k="addr:street" v="River Lane"/>
+    <tag k="addr:city" v="Harvey"/>
+    <tag k="addr:postcode" v="70058"/>
+  </node>
+  <node visible="true" id="-104" lat="29.91075364790609825149658718" lon="-90.08076601490736834421113599">
+    <tag k="addr:housenumber" v="2611"/>
+    <tag k="addr:street" v="Oak Drive"/>
+    <tag k="addr:city" v="Harvey"/>
+    <tag k="addr:postcode" v="70058"/>
+  </node>
+  <node visible="true" id="-105" lat="29.91088836711892540165536047" lon="-90.07901852228617656237474876"/>
+  <node visible="true" id="-106" lat="29.91085233214838723370121443" lon="-90.07900231963557757808302995"/>
+  <node visible="true" id="-107" lat="29.91081734301999262015669956" lon="-90.07910588895092018901777919"/>
+  <node visible="true" id="-108" lat="29.91104052958994685695870430" lon="-90.07920624191586966844624840"/>
+  <node visible="true" id="-109" lat="29.91107590005459115900521283" lon="-90.07910154359403520629712148"/>
+  <node visible="true" id="-110" lat="29.91104168285401954108237987" lon="-90.07908615825071763083542464"/>
+  <node visible="true" id="-111" lat="29.91114075659178794808212842" lon="-90.07879289499767594406876015"/>
+  <node visible="true" id="-112" lat="29.91098782242423581578805170" lon="-90.07872413002665723524842178"/>
+  <way visible="true" id="-16">
+    <nd ref="-105"/>
+    <nd ref="-106"/>
+    <nd ref="-107"/>
+    <nd ref="-108"/>
+    <nd ref="-109"/>
+    <nd ref="-110"/>
+    <nd ref="-111"/>
+    <nd ref="-112"/>
+    <nd ref="-105"/>
+    <tag k="building" v="yes"/>
+    <tag k="addr:housenumber" v="201"/>
+    <tag k="addr:street" v="Pailet Avenue"/>
+    <tag k="addr:city" v="Harvey"/>
+    <tag k="addr:postcode" v="70058"/>
+  </way>
+  <node visible="true" id="-113" lat="29.91137510910923680285122828" lon="-90.08026654800413268731062999"/>
+  <node visible="true" id="-114" lat="29.91124532044115369444625685" lon="-90.08020801207661065745924134"/>
+  <node visible="true" id="-115" lat="29.91125736613894758875176194" lon="-90.08017246451252901806583395"/>
+  <node visible="true" id="-116" lat="29.91117444620911669517226983" lon="-90.08013506686850746518757660"/>
+  <node visible="true" id="-117" lat="29.91116299967756475552960183" lon="-90.08016884622965392281912500"/>
+  <node visible="true" id="-118" lat="29.91093048637906193221169815" lon="-90.08006398079116650023934199"/>
+  <node visible="true" id="-119" lat="29.91086054007856986913793662" lon="-90.08027039570852423366886796"/>
+  <node visible="true" id="-120" lat="29.91130576229643267538449436" lon="-90.08047119471854102812358178"/>
+  <way visible="true" id="-17">
+    <nd ref="-113"/>
+    <nd ref="-114"/>
+    <nd ref="-115"/>
+    <nd ref="-116"/>
+    <nd ref="-117"/>
+    <nd ref="-118"/>
+    <nd ref="-119"/>
+    <nd ref="-120"/>
+    <nd ref="-113"/>
+    <tag k="building" v="yes"/>
+  </way>
+  <node visible="true" id="-121" lat="29.91119069378945027892768849" lon="-90.08034593269583467645134078">
+    <tag k="addr:housenumber" v="181"/>
+    <tag k="addr:street" v="Grefer Lane"/>
+    <tag k="addr:city" v="Harvey"/>
+    <tag k="addr:postcode" v="70058"/>
+  </node>
+  <node visible="true" id="-122" lat="29.91100136081877991500732605" lon="-90.08028281066313525116129313">
+    <tag k="addr:housenumber" v="187"/>
+    <tag k="addr:street" v="Grefer Lane"/>
+    <tag k="addr:city" v="Harvey"/>
+    <tag k="addr:postcode" v="70058"/>
+  </node>
+  <node visible="true" id="-123" lat="29.91125869753274102436080284" lon="-90.08033719897635194229223998">
+    <tag k="addr:housenumber" v="179"/>
+    <tag k="addr:street" v="Grefer Lane"/>
+    <tag k="addr:city" v="Harvey"/>
+    <tag k="addr:postcode" v="70058"/>
+  </node>
+  <node visible="true" id="-124" lat="29.91116341997513927708496340" lon="-90.07966017623270715830585686"/>
+  <node visible="true" id="-125" lat="29.91109756157773347240436124" lon="-90.07963063524164226691937074"/>
+  <node visible="true" id="-126" lat="29.91110238977996615972188010" lon="-90.07961630895236737615050515"/>
+  <node visible="true" id="-127" lat="29.91104292621552573905319150" lon="-90.07958963639919147681212053"/>
+  <node visible="true" id="-128" lat="29.91103760088237706327163323" lon="-90.07960543777075201887782896"/>
+  <node visible="true" id="-129" lat="29.91090342984177397056555492" lon="-90.07954525502562148631113814"/>
+  <node visible="true" id="-130" lat="29.91090866049459506825769495" lon="-90.07952973461115675490873400"/>
+  <node visible="true" id="-131" lat="29.91085292683570884264554479" lon="-90.07950473516602585277723847"/>
+  <node visible="true" id="-132" lat="29.91084795021314235441423079" lon="-90.07951950181256961514009163"/>
+  <node visible="true" id="-133" lat="29.91084288597637907969328808" lon="-90.07951723023975887372216675"/>
+  <node visible="true" id="-134" lat="29.91078282314084191284564440" lon="-90.07969544876414147438481450"/>
+  <node visible="true" id="-135" lat="29.91110311423774348327242478" lon="-90.07983911607145444122579647"/>
+  <way visible="true" id="-18">
+    <nd ref="-124"/>
+    <nd ref="-125"/>
+    <nd ref="-126"/>
+    <nd ref="-127"/>
+    <nd ref="-128"/>
+    <nd ref="-129"/>
+    <nd ref="-130"/>
+    <nd ref="-131"/>
+    <nd ref="-132"/>
+    <nd ref="-133"/>
+    <nd ref="-134"/>
+    <nd ref="-135"/>
+    <nd ref="-124"/>
+    <tag k="building" v="yes"/>
+  </way>
+  <node visible="true" id="-136" lat="29.91087800367377269594726386" lon="-90.07964483146641043731506215">
+    <tag k="addr:housenumber" v="188"/>
+    <tag k="addr:street" v="Pailet Avenue"/>
+    <tag k="addr:city" v="Harvey"/>
+    <tag k="addr:postcode" v="70058"/>
+  </node>
+  <node visible="true" id="-137" lat="29.91102942259563235438690754" lon="-90.07974318105235056464152876">
+    <tag k="addr:housenumber" v="186"/>
+    <tag k="addr:street" v="Pailet Avenue"/>
+    <tag k="addr:city" v="Harvey"/>
+    <tag k="addr:postcode" v="70058"/>
+  </node>
+  <node visible="true" id="-138" lat="29.90804065995497751373477513" lon="-90.07912625848013021823135205"/>
+  <node visible="true" id="-139" lat="29.90807646373826855779043399" lon="-90.07898861899055020785453962"/>
+  <node visible="true" id="-140" lat="29.90800320359024055960617261" lon="-90.07896325666412451482756296"/>
+  <node visible="true" id="-141" lat="29.90796739978060259090852924" lon="-90.07910089615370452520437539"/>
+  <way visible="true" id="-19">
+    <nd ref="-138"/>
+    <nd ref="-139"/>
+    <nd ref="-140"/>
+    <nd ref="-141"/>
+    <nd ref="-138"/>
+    <tag k="building" v="yes"/>
+    <tag k="addr:housenumber" v="419"/>
+    <tag k="addr:street" v="Grefer Avenue"/>
+    <tag k="addr:city" v="Harvey"/>
+    <tag k="addr:postcode" v="70058"/>
+  </way>
+  <node visible="true" id="-142" lat="29.90813718123372311197272211" lon="-90.07892900660225166120653739"/>
+  <node visible="true" id="-143" lat="29.90813039185530541885782441" lon="-90.07895560279455082763888640"/>
+  <node visible="true" id="-144" lat="29.90811294666667308206342568" lon="-90.07894967596638480245019309"/>
+  <node visible="true" id="-145" lat="29.90806207667809957229110296" lon="-90.07914895008039479762373958"/>
+  <node visible="true" id="-146" lat="29.90812949170528156628279248" lon="-90.07917185365491263837611768"/>
+  <node visible="true" id="-147" lat="29.90818715103445413205918157" lon="-90.07894598334858926591550699"/>
+  <way visible="true" id="-20">
+    <nd ref="-142"/>
+    <nd ref="-143"/>
+    <nd ref="-144"/>
+    <nd ref="-145"/>
+    <nd ref="-146"/>
+    <nd ref="-147"/>
+    <nd ref="-142"/>
+    <tag k="building" v="yes"/>
+    <tag k="addr:housenumber" v="417"/>
+    <tag k="addr:street" v="Grefer Avenue"/>
+    <tag k="addr:city" v="Harvey"/>
+    <tag k="addr:postcode" v="70058"/>
+  </way>
+  <node visible="true" id="-148" lat="29.90801844837089262796325784" lon="-90.07836706152946248948865104"/>
+  <node visible="true" id="-149" lat="29.90798133623747290243954922" lon="-90.07835475982027162444865098"/>
+  <node visible="true" id="-150" lat="29.90797581660680037884958438" lon="-90.07837692112823901879892219"/>
+  <node visible="true" id="-151" lat="29.90794261886880889278472750" lon="-90.07836591694405115049448796"/>
+  <node visible="true" id="-152" lat="29.90790043277097254303953378" lon="-90.07853529396037117749074241"/>
+  <node visible="true" id="-153" lat="29.90797074267426580718165496" lon="-90.07855859985374991083517671"/>
+  <way visible="true" id="-21">
+    <nd ref="-148"/>
+    <nd ref="-149"/>
+    <nd ref="-150"/>
+    <nd ref="-151"/>
+    <nd ref="-152"/>
+    <nd ref="-153"/>
+    <nd ref="-148"/>
+    <tag k="building" v="yes"/>
+    <tag k="addr:housenumber" v="428"/>
+    <tag k="addr:street" v="Pailet Avenue"/>
+    <tag k="addr:city" v="Harvey"/>
+    <tag k="addr:postcode" v="70058"/>
+  </way>
+  <node visible="true" id="-154" lat="29.90788806300565383367029426" lon="-90.07832429719732658668363001"/>
+  <node visible="true" id="-155" lat="29.90785027785448590975647676" lon="-90.07831116454718767272424884"/>
+  <node visible="true" id="-156" lat="29.90784349500279404310276732" lon="-90.07833713711407597202196484"/>
+  <node visible="true" id="-157" lat="29.90781265892050200250196212" lon="-90.07832641969464759768015938"/>
+  <node visible="true" id="-158" lat="29.90777325195793778789266071" lon="-90.07847731484365283449733397"/>
+  <node visible="true" id="-159" lat="29.90784187322116594032195280" lon="-90.07850116491322012279852061"/>
+  <way visible="true" id="-22">
+    <nd ref="-154"/>
+    <nd ref="-155"/>
+    <nd ref="-156"/>
+    <nd ref="-157"/>
+    <nd ref="-158"/>
+    <nd ref="-159"/>
+    <nd ref="-154"/>
+    <tag k="building" v="yes"/>
+    <tag k="addr:housenumber" v="432"/>
+    <tag k="addr:street" v="Pailet Avenue"/>
+    <tag k="addr:city" v="Harvey"/>
+    <tag k="addr:postcode" v="70058"/>
+  </way>
+  <node visible="true" id="-160" lat="29.90779061173454067557031522" lon="-90.07879235286669938886916498"/>
+  <node visible="true" id="-161" lat="29.90782550462398248214412888" lon="-90.07865133185036654595023720"/>
+  <node visible="true" id="-162" lat="29.90773139953170201010834717" lon="-90.07862034343155244187073549"/>
+  <node visible="true" id="-163" lat="29.90769650660928746788158605" lon="-90.07876136444788528478966327"/>
+  <way visible="true" id="-23">
+    <nd ref="-160"/>
+    <nd ref="-161"/>
+    <nd ref="-162"/>
+    <nd ref="-163"/>
+    <nd ref="-160"/>
+    <tag k="building" v="yes"/>
+  </way>
+  <node visible="true" id="-164" lat="29.90790757152804246743471595" lon="-90.07875028175686793474596925"/>
+  <node visible="true" id="-165" lat="29.90792249470442598635600007" lon="-90.07868620302613749117881525"/>
+  <node visible="true" id="-166" lat="29.90787988641639927323012671" lon="-90.07867299689347362345870351"/>
+  <node visible="true" id="-167" lat="29.90786496323366350225114729" lon="-90.07873707562421827788057271"/>
+  <way visible="true" id="-24">
+    <nd ref="-164"/>
+    <nd ref="-165"/>
+    <nd ref="-166"/>
+    <nd ref="-167"/>
+    <nd ref="-164"/>
+    <tag k="building" v="yes"/>
+  </way>
+  <node visible="true" id="-168" lat="29.90813940436098761210814700" lon="-90.07875809636935571234062081"/>
+  <node visible="true" id="-169" lat="29.90804292289161026019428391" lon="-90.07872689103129459908814169"/>
+  <node visible="true" id="-170" lat="29.90801596075213808489934308" lon="-90.07883783530581922605051659"/>
+  <node visible="true" id="-171" lat="29.90805221241458866643370129" lon="-90.07884956030069645294133807"/>
+  <node visible="true" id="-172" lat="29.90806796415609269956803473" lon="-90.07878474474441077290975954"/>
+  <node visible="true" id="-173" lat="29.90812819397958577383178636" lon="-90.07880422508759465927141719"/>
+  <way visible="true" id="-25">
+    <nd ref="-168"/>
+    <nd ref="-169"/>
+    <nd ref="-170"/>
+    <nd ref="-171"/>
+    <nd ref="-172"/>
+    <nd ref="-173"/>
+    <nd ref="-168"/>
+    <tag k="building" v="yes"/>
+  </way>
+  <node visible="true" id="-174" lat="29.90779786957877206532430137" lon="-90.07951147523979784637049306"/>
+  <node visible="true" id="-175" lat="29.90787125964517301213163591" lon="-90.07953633485547584314190317"/>
+  <node visible="true" id="-176" lat="29.90790624950544795979112678" lon="-90.07939886139256202568503795"/>
+  <node visible="true" id="-177" lat="29.90783285946476510730462905" lon="-90.07937400177686981805891264"/>
+  <way visible="true" id="-26">
+    <nd ref="-174"/>
+    <nd ref="-175"/>
+    <nd ref="-176"/>
+    <nd ref="-177"/>
+    <nd ref="-174"/>
+    <tag k="building" v="yes"/>
+    <tag k="addr:housenumber" v="412"/>
+    <tag k="addr:street" v="Grefer Avenue"/>
+    <tag k="addr:city" v="Harvey"/>
+    <tag k="addr:postcode" v="70058"/>
+  </way>
+  <node visible="true" id="-178" lat="29.90808914812063434851552302" lon="-90.07961053111506544155417942"/>
+  <node visible="true" id="-179" lat="29.90815966161167338555060269" lon="-90.07963455948032560627325438"/>
+  <node visible="true" id="-180" lat="29.90819478584782942220954283" lon="-90.07949737935480527539766626"/>
+  <node visible="true" id="-181" lat="29.90812427238163451193031506" lon="-90.07947335098954511067859130"/>
+  <way visible="true" id="-27">
+    <nd ref="-178"/>
+    <nd ref="-179"/>
+    <nd ref="-180"/>
+    <nd ref="-181"/>
+    <nd ref="-178"/>
+    <tag k="building" v="yes"/>
+    <tag k="addr:housenumber" v="404"/>
+    <tag k="addr:street" v="Grefer Avenue"/>
+    <tag k="addr:city" v="Harvey"/>
+    <tag k="addr:postcode" v="70058"/>
+  </way>
+  <node visible="true" id="-182" lat="29.90802486542334293062594952" lon="-90.07966447857050695802172413"/>
+  <node visible="true" id="-183" lat="29.90800469849972031965990027" lon="-90.07974402583482742556952871"/>
+  <node visible="true" id="-184" lat="29.90803448261608465941208124" lon="-90.07975407509928800209308974"/>
+  <node visible="true" id="-185" lat="29.90805464953370673697463644" lon="-90.07967452783495332369056996"/>
+  <way visible="true" id="-28">
+    <nd ref="-182"/>
+    <nd ref="-183"/>
+    <nd ref="-184"/>
+    <nd ref="-185"/>
+    <nd ref="-182"/>
+    <tag k="building" v="yes"/>
+  </way>
+  <node visible="true" id="-186" lat="29.90793354027350048340849753" lon="-90.08298638525134549581707688"/>
+  <node visible="true" id="-187" lat="29.90791270885117825173438177" lon="-90.08306925356477279365208233"/>
+  <node visible="true" id="-188" lat="29.90797973205340198887824954" lon="-90.08309167637432324227120262"/>
+  <node visible="true" id="-189" lat="29.90800056346171231780317612" lon="-90.08300880806089594443619717"/>
+  <way visible="true" id="-29">
+    <nd ref="-186"/>
+    <nd ref="-187"/>
     <nd ref="-188"/>
     <nd ref="-189"/>
+    <nd ref="-186"/>
+    <tag k="building" v="yes"/>
+  </way>
+  <node visible="true" id="-190" lat="29.90791199634481145608333463" lon="-90.07887286986570529734308366"/>
+  <node visible="true" id="-191" lat="29.90785857424994986786259688" lon="-90.07907444306337652051297482"/>
+  <node visible="true" id="-192" lat="29.90792726333612350231305754" lon="-90.07909867063584385959984502"/>
+  <node visible="true" id="-193" lat="29.90798068539420739853085252" lon="-90.07889709743820105813938426"/>
+  <way visible="true" id="-30">
     <nd ref="-190"/>
     <nd ref="-191"/>
     <nd ref="-192"/>
     <nd ref="-193"/>
-    <nd ref="-188"/>
+    <nd ref="-190"/>
     <tag k="building" v="yes"/>
-    <tag k="building:levels" v="1"/>
-    <tag k="addr:housenumber" v="479"/>
+    <tag k="addr:housenumber" v="423"/>
     <tag k="addr:street" v="Grefer Avenue"/>
     <tag k="addr:city" v="Harvey"/>
     <tag k="addr:postcode" v="70058"/>
@@ -648,7 +627,6 @@
     <nd ref="-200"/>
     <nd ref="-194"/>
     <tag k="building" v="yes"/>
-    <tag k="building:levels" v="1"/>
   </way>
   <node visible="true" id="-201" lat="29.90845296069833736396503809" lon="-90.07778872231534705861122347">
     <tag k="addr:housenumber" v="426"/>
@@ -709,7 +687,6 @@
     <nd ref="-220"/>
     <nd ref="-211"/>
     <tag k="building" v="yes"/>
-    <tag k="building:levels" v="1"/>
     <tag k="addr:housenumber" v="417"/>
     <tag k="addr:street" v="Pailet Avenue"/>
     <tag k="addr:city" v="Harvey"/>
@@ -734,7 +711,6 @@
     <nd ref="-228"/>
     <nd ref="-221"/>
     <tag k="building" v="yes"/>
-    <tag k="building:levels" v="2"/>
     <tag k="addr:housenumber" v="413"/>
     <tag k="addr:street" v="Pailet Avenue"/>
     <tag k="addr:city" v="Harvey"/>
@@ -759,7 +735,6 @@
     <nd ref="-236"/>
     <nd ref="-229"/>
     <tag k="building" v="yes"/>
-    <tag k="building:levels" v="1"/>
     <tag k="addr:housenumber" v="2416"/>
     <tag k="addr:street" v="4th Street"/>
     <tag k="addr:city" v="Harvey"/>
@@ -776,7 +751,6 @@
     <nd ref="-240"/>
     <nd ref="-237"/>
     <tag k="building" v="yes"/>
-    <tag k="building:levels" v="1"/>
     <tag k="addr:housenumber" v="2416"/>
     <tag k="addr:street" v="4th Street"/>
     <tag k="addr:city" v="Harvey"/>
@@ -830,7 +804,6 @@
     <nd ref="-260"/>
     <nd ref="-247"/>
     <tag k="building" v="yes"/>
-    <tag k="building:levels" v="1"/>
   </way>
   <node visible="true" id="-261" lat="29.90993977538721182440895063" lon="-90.07953753363423743394378107">
     <tag k="addr:housenumber" v="311"/>
@@ -897,7 +870,6 @@
     <nd ref="-277"/>
     <nd ref="-274"/>
     <tag k="building" v="yes"/>
-    <tag k="building:levels" v="1"/>
     <tag k="addr:housenumber" v="123"/>
     <tag k="addr:street" v="Bark Street"/>
     <tag k="addr:city" v="Harvey"/>
@@ -914,7 +886,6 @@
     <nd ref="-281"/>
     <nd ref="-278"/>
     <tag k="building" v="yes"/>
-    <tag k="building:levels" v="2"/>
     <tag k="addr:housenumber" v="441"/>
     <tag k="addr:street" v="Pailet Avenue"/>
     <tag k="addr:city" v="Harvey"/>
@@ -945,7 +916,6 @@
     <nd ref="-290"/>
     <nd ref="-286"/>
     <tag k="building" v="yes"/>
-    <tag k="building:levels" v="1"/>
     <tag k="addr:housenumber" v="412"/>
     <tag k="addr:street" v="Pailet Avenue"/>
     <tag k="addr:city" v="Harvey"/>
@@ -962,7 +932,6 @@
     <nd ref="-294"/>
     <nd ref="-291"/>
     <tag k="building" v="yes"/>
-    <tag k="building:levels" v="1"/>
     <tag k="addr:housenumber" v="2508"/>
     <tag k="addr:street" v="4th Street"/>
     <tag k="addr:city" v="Harvey"/>
@@ -979,7 +948,6 @@
     <nd ref="-298"/>
     <nd ref="-295"/>
     <tag k="building" v="yes"/>
-    <tag k="building:levels" v="1"/>
     <tag k="addr:housenumber" v="420"/>
     <tag k="addr:street" v="Grefer Avenue"/>
     <tag k="addr:city" v="Harvey"/>
@@ -1046,7 +1014,6 @@
     <nd ref="-323"/>
     <nd ref="-312"/>
     <tag k="building" v="yes"/>
-    <tag k="building:levels" v="1"/>
   </way>
   <node visible="true" id="-324" lat="29.90922019367726747418601008" lon="-90.08123736621412547265208559">
     <tag k="addr:housenumber" v="301"/>
@@ -1071,7 +1038,6 @@
     <nd ref="-329"/>
     <nd ref="-326"/>
     <tag k="building" v="yes"/>
-    <tag k="building:levels" v="1"/>
     <tag k="addr:housenumber" v="221"/>
     <tag k="addr:street" v="Bark Drive"/>
     <tag k="addr:city" v="Harvey"/>
@@ -1088,7 +1054,6 @@
     <nd ref="-333"/>
     <nd ref="-330"/>
     <tag k="building" v="yes"/>
-    <tag k="building:levels" v="1"/>
     <tag k="addr:housenumber" v="201"/>
     <tag k="addr:street" v="Bark Drive"/>
     <tag k="addr:city" v="Harvey"/>
@@ -1125,7 +1090,6 @@
     <nd ref="-347"/>
     <nd ref="-334"/>
     <tag k="building" v="yes"/>
-    <tag k="building:levels" v="1"/>
   </way>
   <node visible="true" id="-348" lat="29.91023943925053529824253928" lon="-90.08053786508745020000787918">
     <tag k="addr:housenumber" v="210"/>
@@ -1168,7 +1132,6 @@
     <nd ref="-360"/>
     <nd ref="-351"/>
     <tag k="building" v="yes"/>
-    <tag k="building:levels" v="1"/>
     <tag k="addr:housenumber" v="203"/>
     <tag k="addr:street" v="Pailet Avenue"/>
     <tag k="addr:city" v="Harvey"/>
@@ -1209,16 +1172,15 @@
     <nd ref="-376"/>
     <nd ref="-361"/>
     <tag k="building" v="yes"/>
-    <tag k="building:levels" v="1"/>
     <tag k="addr:housenumber" v="100"/>
     <tag k="addr:street" v="Pailet Avenue"/>
     <tag k="addr:city" v="Harvey"/>
     <tag k="addr:postcode" v="70058"/>
   </way>
-  <node visible="true" id="-377" lat="29.90874666757086330903803173" lon="-90.07900482524010499219002668"/>
-  <node visible="true" id="-378" lat="29.90847587636293170021417609" lon="-90.07891039710005998131236993"/>
-  <node visible="true" id="-379" lat="29.90843536580368677846308856" lon="-90.07906500832298490877292352"/>
-  <node visible="true" id="-380" lat="29.90870615712173119504768692" lon="-90.07915943646301570879586507"/>
+  <node visible="true" id="-377" lat="29.90942230508822063939078362" lon="-90.07850076101550484963809140"/>
+  <node visible="true" id="-378" lat="29.90937478079514022510920768" lon="-90.07868437160192343071685173"/>
+  <node visible="true" id="-379" lat="29.90965447316907699359944672" lon="-90.07878072039422079342330107"/>
+  <node visible="true" id="-380" lat="29.90970199732869261310952425" lon="-90.07859710980781642319925595"/>
   <way visible="true" id="-56">
     <nd ref="-377"/>
     <nd ref="-378"/>
@@ -1226,37 +1188,48 @@
     <nd ref="-380"/>
     <nd ref="-377"/>
     <tag k="building" v="yes"/>
-    <tag k="building:levels" v="1"/>
-    <tag k="addr:housenumber" v="2520"/>
-    <tag k="addr:street" v="4th Street"/>
+    <tag k="addr:housenumber" v="205"/>
+    <tag k="addr:street" v="Pailet Drive"/>
     <tag k="addr:city" v="Harvey"/>
     <tag k="addr:postcode" v="70058"/>
   </way>
-  <node visible="true" id="-381" lat="29.90907792423206501553067937" lon="-90.07726375582677746933768503"/>
-  <node visible="true" id="-382" lat="29.90905449524844073039275827" lon="-90.07735015219432739286276046"/>
-  <node visible="true" id="-383" lat="29.90893705783016542909535929" lon="-90.07730776755884960493858671"/>
-  <node visible="true" id="-384" lat="29.90889211232081734692656028" lon="-90.07747350769042782303586137"/>
-  <node visible="true" id="-385" lat="29.90888611904303218125278363" lon="-90.07747134464372606998949777"/>
-  <node visible="true" id="-386" lat="29.90886239815574398903663678" lon="-90.07755881726220081873179879"/>
-  <node visible="true" id="-387" lat="29.90894553446918635586371238" lon="-90.07758882217159168703801697"/>
-  <node visible="true" id="-388" lat="29.90894747153628685509829666" lon="-90.07758167908056634587410372"/>
-  <node visible="true" id="-389" lat="29.90895826517906641583977034" lon="-90.07758557463976956114493078"/>
-  <node visible="true" id="-390" lat="29.90894699638952758391496900" lon="-90.07762712921112324693240225"/>
-  <node visible="true" id="-391" lat="29.90907497633759248856222257" lon="-90.07767331878471850359346718"/>
-  <node visible="true" id="-392" lat="29.90917246310382893170753960" lon="-90.07731382784490392623411026"/>
-  <node visible="true" id="-393" lat="29.90918206530612621918407967" lon="-90.07731729340630977276305202"/>
-  <node visible="true" id="-394" lat="29.90922704885876726166316075" lon="-90.07715141250409374151786324"/>
-  <node visible="true" id="-395" lat="29.90917682642439245910281898" lon="-90.07713328656086559931281954"/>
-  <node visible="true" id="-396" lat="29.90918240795277682764208294" lon="-90.07711270417748039562866325"/>
-  <node visible="true" id="-397" lat="29.90898525368658056322601624" lon="-90.07704154867001022921613185"/>
-  <node visible="true" id="-398" lat="29.90898033098147834607516415" lon="-90.07705970154805186211888213"/>
-  <node visible="true" id="-399" lat="29.90885901985278394477063557" lon="-90.07701591887541781034087762"/>
-  <node visible="true" id="-400" lat="29.90881731746394223137031076" lon="-90.07716969962481812217447441"/>
+  <node visible="true" id="-381" lat="29.90874666757086330903803173" lon="-90.07900482524010499219002668"/>
+  <node visible="true" id="-382" lat="29.90847587636293170021417609" lon="-90.07891039710005998131236993"/>
+  <node visible="true" id="-383" lat="29.90843536580368677846308856" lon="-90.07906500832298490877292352"/>
+  <node visible="true" id="-384" lat="29.90870615712173119504768692" lon="-90.07915943646301570879586507"/>
   <way visible="true" id="-57">
     <nd ref="-381"/>
     <nd ref="-382"/>
     <nd ref="-383"/>
     <nd ref="-384"/>
+    <nd ref="-381"/>
+    <tag k="building" v="yes"/>
+    <tag k="addr:housenumber" v="2520"/>
+    <tag k="addr:street" v="4th Street"/>
+    <tag k="addr:city" v="Harvey"/>
+    <tag k="addr:postcode" v="70058"/>
+  </way>
+  <node visible="true" id="-385" lat="29.90907792423206501553067937" lon="-90.07726375582677746933768503"/>
+  <node visible="true" id="-386" lat="29.90905449524844073039275827" lon="-90.07735015219432739286276046"/>
+  <node visible="true" id="-387" lat="29.90893705783016542909535929" lon="-90.07730776755884960493858671"/>
+  <node visible="true" id="-388" lat="29.90889211232081734692656028" lon="-90.07747350769042782303586137"/>
+  <node visible="true" id="-389" lat="29.90888611904303218125278363" lon="-90.07747134464372606998949777"/>
+  <node visible="true" id="-390" lat="29.90886239815574398903663678" lon="-90.07755881726220081873179879"/>
+  <node visible="true" id="-391" lat="29.90894553446918635586371238" lon="-90.07758882217159168703801697"/>
+  <node visible="true" id="-392" lat="29.90894747153628685509829666" lon="-90.07758167908056634587410372"/>
+  <node visible="true" id="-393" lat="29.90895826517906641583977034" lon="-90.07758557463976956114493078"/>
+  <node visible="true" id="-394" lat="29.90894699638952758391496900" lon="-90.07762712921112324693240225"/>
+  <node visible="true" id="-395" lat="29.90907497633759248856222257" lon="-90.07767331878471850359346718"/>
+  <node visible="true" id="-396" lat="29.90917246310382893170753960" lon="-90.07731382784490392623411026"/>
+  <node visible="true" id="-397" lat="29.90918206530612621918407967" lon="-90.07731729340630977276305202"/>
+  <node visible="true" id="-398" lat="29.90922704885876726166316075" lon="-90.07715141250409374151786324"/>
+  <node visible="true" id="-399" lat="29.90917682642439245910281898" lon="-90.07713328656086559931281954"/>
+  <node visible="true" id="-400" lat="29.90918240795277682764208294" lon="-90.07711270417748039562866325"/>
+  <node visible="true" id="-401" lat="29.90898525368658056322601624" lon="-90.07704154867001022921613185"/>
+  <node visible="true" id="-402" lat="29.90898033098147834607516415" lon="-90.07705970154805186211888213"/>
+  <node visible="true" id="-403" lat="29.90885901985278394477063557" lon="-90.07701591887541781034087762"/>
+  <node visible="true" id="-404" lat="29.90881731746394223137031076" lon="-90.07716969962481812217447441"/>
+  <way visible="true" id="-58">
     <nd ref="-385"/>
     <nd ref="-386"/>
     <nd ref="-387"/>
@@ -1273,61 +1246,51 @@
     <nd ref="-398"/>
     <nd ref="-399"/>
     <nd ref="-400"/>
-    <nd ref="-381"/>
+    <nd ref="-401"/>
+    <nd ref="-402"/>
+    <nd ref="-403"/>
+    <nd ref="-404"/>
+    <nd ref="-385"/>
     <tag k="building" v="yes"/>
-    <tag k="building:levels" v="1"/>
   </way>
-  <node visible="true" id="-401" lat="29.90907282759800978055864107" lon="-90.07718953266773098675912479">
+  <node visible="true" id="-405" lat="29.90907282759800978055864107" lon="-90.07718953266773098675912479">
     <tag k="addr:housenumber" v="2300"/>
     <tag k="addr:street" v="4th Street"/>
     <tag k="addr:city" v="Harvey"/>
     <tag k="addr:postcode" v="70058"/>
   </node>
-  <node visible="true" id="-402" lat="29.90880445612894078522003838" lon="-90.07801693487476768495980650"/>
-  <node visible="true" id="-403" lat="29.90879972041559042850167316" lon="-90.07803505536111288165557198"/>
-  <node visible="true" id="-404" lat="29.90878189717698276695045934" lon="-90.07802885604013454212690704"/>
-  <node visible="true" id="-405" lat="29.90876772682416273596572864" lon="-90.07808307672368641760840546"/>
-  <node visible="true" id="-406" lat="29.90878445155981779635112616" lon="-90.07808889395991513993067201"/>
-  <node visible="true" id="-407" lat="29.90878352740002910081784648" lon="-90.07809243011605815354414517"/>
-  <node visible="true" id="-408" lat="29.90889885339939269215392414" lon="-90.07813254309806438868690748"/>
-  <node visible="true" id="-409" lat="29.90890283357093082372557546" lon="-90.07811731356220263933209935"/>
-  <node visible="true" id="-410" lat="29.90895673788765307676840166" lon="-90.07813606271523099167097826"/>
-  <node visible="true" id="-411" lat="29.90897258790819179807840555" lon="-90.07807541492503844438033411"/>
-  <way visible="true" id="-58">
-    <nd ref="-402"/>
-    <nd ref="-403"/>
-    <nd ref="-404"/>
-    <nd ref="-405"/>
+  <node visible="true" id="-406" lat="29.90880445612894078522003838" lon="-90.07801693487476768495980650"/>
+  <node visible="true" id="-407" lat="29.90879972041559042850167316" lon="-90.07803505536111288165557198"/>
+  <node visible="true" id="-408" lat="29.90878189717698276695045934" lon="-90.07802885604013454212690704"/>
+  <node visible="true" id="-409" lat="29.90876772682416273596572864" lon="-90.07808307672368641760840546"/>
+  <node visible="true" id="-410" lat="29.90878445155981779635112616" lon="-90.07808889395991513993067201"/>
+  <node visible="true" id="-411" lat="29.90878352740002910081784648" lon="-90.07809243011605815354414517"/>
+  <node visible="true" id="-412" lat="29.90889885339939269215392414" lon="-90.07813254309806438868690748"/>
+  <node visible="true" id="-413" lat="29.90890283357093082372557546" lon="-90.07811731356220263933209935"/>
+  <node visible="true" id="-414" lat="29.90895673788765307676840166" lon="-90.07813606271523099167097826"/>
+  <node visible="true" id="-415" lat="29.90897258790819179807840555" lon="-90.07807541492503844438033411"/>
+  <way visible="true" id="-59">
     <nd ref="-406"/>
     <nd ref="-407"/>
     <nd ref="-408"/>
     <nd ref="-409"/>
     <nd ref="-410"/>
     <nd ref="-411"/>
-    <nd ref="-402"/>
+    <nd ref="-412"/>
+    <nd ref="-413"/>
+    <nd ref="-414"/>
+    <nd ref="-415"/>
+    <nd ref="-406"/>
     <tag k="building" v="yes"/>
-    <tag k="building:levels" v="1"/>
     <tag k="addr:housenumber" v="2408"/>
     <tag k="addr:street" v="4th Street"/>
     <tag k="addr:city" v="Harvey"/>
     <tag k="addr:postcode" v="70058"/>
   </way>
-  <node visible="true" id="-412" lat="29.90887997940779996497440152" lon="-90.08068197312417169086984359"/>
-  <node visible="true" id="-413" lat="29.90887437939241877415952331" lon="-90.08070852552809526514465688"/>
-  <node visible="true" id="-414" lat="29.90888571978499754777658381" lon="-90.08071170867091836953477468"/>
-  <node visible="true" id="-415" lat="29.90889131979976411912502954" lon="-90.08068515626702321696939180"/>
-  <way visible="true" id="-59">
-    <nd ref="-412"/>
-    <nd ref="-413"/>
-    <nd ref="-414"/>
-    <nd ref="-415"/>
-    <nd ref="-412"/>
-    <tag k="building" v="yes"/>
-  </way>
-  <node visible="true" id="-416" lat="29.90885445702822309499424591" lon="-90.08136671791493199634714983"/>
-  <node visible="true" id="-417" lat="29.90883380835290950017224532" lon="-90.08136181026590350029437104"/>
-  <node visible="true" id="-418" lat="29.90882917921301498154207366" lon="-90.08138773183672753930295585"/>
-  <node visible="true" id="-419" lat="29.90884982788925583463424118" lon="-90.08139263948572761364630423"/>
+  <node visible="true" id="-416" lat="29.90887997940779996497440152" lon="-90.08068197312417169086984359"/>
+  <node visible="true" id="-417" lat="29.90887437939241877415952331" lon="-90.08070852552809526514465688"/>
+  <node visible="true" id="-418" lat="29.90888571978499754777658381" lon="-90.08071170867091836953477468"/>
+  <node visible="true" id="-419" lat="29.90889131979976411912502954" lon="-90.08068515626702321696939180"/>
   <way visible="true" id="-60">
     <nd ref="-416"/>
     <nd ref="-417"/>
@@ -1336,10 +1299,10 @@
     <nd ref="-416"/>
     <tag k="building" v="yes"/>
   </way>
-  <node visible="true" id="-420" lat="29.90793545389221463892681641" lon="-90.07772389065559082155232318"/>
-  <node visible="true" id="-421" lat="29.90792838994130065088938863" lon="-90.07775119725265255965496181"/>
-  <node visible="true" id="-422" lat="29.90795007028649621361182653" lon="-90.07775866140887899291556096"/>
-  <node visible="true" id="-423" lat="29.90795713423581503320747288" lon="-90.07773135481183146566763753"/>
+  <node visible="true" id="-420" lat="29.90885445702822309499424591" lon="-90.08136671791493199634714983"/>
+  <node visible="true" id="-421" lat="29.90883380835290950017224532" lon="-90.08136181026590350029437104"/>
+  <node visible="true" id="-422" lat="29.90882917921301498154207366" lon="-90.08138773183672753930295585"/>
+  <node visible="true" id="-423" lat="29.90884982788925583463424118" lon="-90.08139263948572761364630423"/>
   <way visible="true" id="-61">
     <nd ref="-420"/>
     <nd ref="-421"/>
@@ -1348,10 +1311,10 @@
     <nd ref="-420"/>
     <tag k="building" v="yes"/>
   </way>
-  <node visible="true" id="-424" lat="29.90773287431714777540037176" lon="-90.07761307978297793397359783"/>
-  <node visible="true" id="-425" lat="29.90771670247766422789936769" lon="-90.07767610518394008067843970"/>
-  <node visible="true" id="-426" lat="29.90779506666532583381012955" lon="-90.07770286568108986102743074"/>
-  <node visible="true" id="-427" lat="29.90781123849209421905470663" lon="-90.07763984028009929261315847"/>
+  <node visible="true" id="-424" lat="29.90793545389221463892681641" lon="-90.07772389065559082155232318"/>
+  <node visible="true" id="-425" lat="29.90792838994130065088938863" lon="-90.07775119725265255965496181"/>
+  <node visible="true" id="-426" lat="29.90795007028649621361182653" lon="-90.07775866140887899291556096"/>
+  <node visible="true" id="-427" lat="29.90795713423581503320747288" lon="-90.07773135481183146566763753"/>
   <way visible="true" id="-62">
     <nd ref="-424"/>
     <nd ref="-425"/>
@@ -1360,174 +1323,163 @@
     <nd ref="-424"/>
     <tag k="building" v="yes"/>
   </way>
-  <node visible="true" id="-428" lat="29.90780918145272337937967677" lon="-90.07736287324981105939514237"/>
-  <node visible="true" id="-429" lat="29.90780275224039641557283176" lon="-90.07738610696037540037650615"/>
-  <node visible="true" id="-430" lat="29.90777063853396100512327394" lon="-90.07737428028022463877277914"/>
-  <node visible="true" id="-431" lat="29.90775430520105615528336784" lon="-90.07743330520335689470812213"/>
-  <node visible="true" id="-432" lat="29.90773171910087313563053613" lon="-90.07742498730749503010883927"/>
-  <node visible="true" id="-433" lat="29.90771122398718873114376038" lon="-90.07749905192245876150991535"/>
-  <node visible="true" id="-434" lat="29.90773817706625337109471729" lon="-90.07750897806560885783255799"/>
-  <node visible="true" id="-435" lat="29.90772904679874244493475999" lon="-90.07754197275112062470725505"/>
-  <node visible="true" id="-436" lat="29.90779505029549056871474022" lon="-90.07756628019296840648166835"/>
-  <node visible="true" id="-437" lat="29.90784743818272772841737606" lon="-90.07737696225879631128918845"/>
+  <node visible="true" id="-428" lat="29.90773287431714777540037176" lon="-90.07761307978297793397359783"/>
+  <node visible="true" id="-429" lat="29.90771670247766422789936769" lon="-90.07767610518394008067843970"/>
+  <node visible="true" id="-430" lat="29.90779506666532583381012955" lon="-90.07770286568108986102743074"/>
+  <node visible="true" id="-431" lat="29.90781123849209421905470663" lon="-90.07763984028009929261315847"/>
   <way visible="true" id="-63">
     <nd ref="-428"/>
     <nd ref="-429"/>
     <nd ref="-430"/>
     <nd ref="-431"/>
+    <nd ref="-428"/>
+    <tag k="building" v="yes"/>
+  </way>
+  <node visible="true" id="-432" lat="29.90780918145272337937967677" lon="-90.07736287324981105939514237"/>
+  <node visible="true" id="-433" lat="29.90780275224039641557283176" lon="-90.07738610696037540037650615"/>
+  <node visible="true" id="-434" lat="29.90777063853396100512327394" lon="-90.07737428028022463877277914"/>
+  <node visible="true" id="-435" lat="29.90775430520105615528336784" lon="-90.07743330520335689470812213"/>
+  <node visible="true" id="-436" lat="29.90773171910087313563053613" lon="-90.07742498730749503010883927"/>
+  <node visible="true" id="-437" lat="29.90771122398718873114376038" lon="-90.07749905192245876150991535"/>
+  <node visible="true" id="-438" lat="29.90773817706625337109471729" lon="-90.07750897806560885783255799"/>
+  <node visible="true" id="-439" lat="29.90772904679874244493475999" lon="-90.07754197275112062470725505"/>
+  <node visible="true" id="-440" lat="29.90779505029549056871474022" lon="-90.07756628019296840648166835"/>
+  <node visible="true" id="-441" lat="29.90784743818272772841737606" lon="-90.07737696225879631128918845"/>
+  <way visible="true" id="-64">
     <nd ref="-432"/>
     <nd ref="-433"/>
     <nd ref="-434"/>
     <nd ref="-435"/>
     <nd ref="-436"/>
     <nd ref="-437"/>
-    <nd ref="-428"/>
+    <nd ref="-438"/>
+    <nd ref="-439"/>
+    <nd ref="-440"/>
+    <nd ref="-441"/>
+    <nd ref="-432"/>
     <tag k="building" v="yes"/>
-    <tag k="building:levels" v="1"/>
     <tag k="addr:housenumber" v="446"/>
     <tag k="addr:street" v="Brown Avenue"/>
     <tag k="addr:city" v="Harvey"/>
     <tag k="addr:postcode" v="70058"/>
   </way>
-  <node visible="true" id="-438" lat="29.90794231450448137366038281" lon="-90.07742743331071721968328347"/>
-  <node visible="true" id="-439" lat="29.90793587376888851281364623" lon="-90.07745106788725308888388099"/>
-  <node visible="true" id="-440" lat="29.90790596976669846185359347" lon="-90.07744022234301439766568365"/>
-  <node visible="true" id="-441" lat="29.90786368811543027845800680" lon="-90.07759537672991712042858126"/>
-  <node visible="true" id="-442" lat="29.90793124475204223244872992" lon="-90.07761987807634795899502933"/>
-  <node visible="true" id="-443" lat="29.90797996710769268702279078" lon="-90.07744108911289515617681900"/>
-  <way visible="true" id="-64">
-    <nd ref="-438"/>
-    <nd ref="-439"/>
-    <nd ref="-440"/>
-    <nd ref="-441"/>
+  <node visible="true" id="-442" lat="29.90794231450448137366038281" lon="-90.07742743331071721968328347"/>
+  <node visible="true" id="-443" lat="29.90793587376888851281364623" lon="-90.07745106788725308888388099"/>
+  <node visible="true" id="-444" lat="29.90790596976669846185359347" lon="-90.07744022234301439766568365"/>
+  <node visible="true" id="-445" lat="29.90786368811543027845800680" lon="-90.07759537672991712042858126"/>
+  <node visible="true" id="-446" lat="29.90793124475204223244872992" lon="-90.07761987807634795899502933"/>
+  <node visible="true" id="-447" lat="29.90797996710769268702279078" lon="-90.07744108911289515617681900"/>
+  <way visible="true" id="-65">
     <nd ref="-442"/>
     <nd ref="-443"/>
-    <nd ref="-438"/>
+    <nd ref="-444"/>
+    <nd ref="-445"/>
+    <nd ref="-446"/>
+    <nd ref="-447"/>
+    <nd ref="-442"/>
     <tag k="building" v="yes"/>
-    <tag k="building:levels" v="1"/>
     <tag k="addr:housenumber" v="442"/>
     <tag k="addr:street" v="Brown Avenue"/>
     <tag k="addr:city" v="Harvey"/>
     <tag k="addr:postcode" v="70058"/>
   </way>
-  <node visible="true" id="-444" lat="29.90819361602000725497418898" lon="-90.07753816629239906887960387"/>
-  <node visible="true" id="-445" lat="29.90818750596549335796225932" lon="-90.07756129549292722913378384"/>
-  <node visible="true" id="-446" lat="29.90815810385374717839113146" lon="-90.07755095837256931190495379"/>
-  <node visible="true" id="-447" lat="29.90810458480952149784570793" lon="-90.07775355099548164616862778"/>
-  <node visible="true" id="-448" lat="29.90817412252428653118840884" lon="-90.07777799888178549281292362"/>
-  <node visible="true" id="-449" lat="29.90823375158321795197480242" lon="-90.07755227705834499829506967"/>
-  <way visible="true" id="-65">
-    <nd ref="-444"/>
-    <nd ref="-445"/>
-    <nd ref="-446"/>
-    <nd ref="-447"/>
+  <node visible="true" id="-448" lat="29.90819361602000725497418898" lon="-90.07753816629239906887960387"/>
+  <node visible="true" id="-449" lat="29.90818750596549335796225932" lon="-90.07756129549292722913378384"/>
+  <node visible="true" id="-450" lat="29.90815810385374717839113146" lon="-90.07755095837256931190495379"/>
+  <node visible="true" id="-451" lat="29.90810458480952149784570793" lon="-90.07775355099548164616862778"/>
+  <node visible="true" id="-452" lat="29.90817412252428653118840884" lon="-90.07777799888178549281292362"/>
+  <node visible="true" id="-453" lat="29.90823375158321795197480242" lon="-90.07755227705834499829506967"/>
+  <way visible="true" id="-66">
     <nd ref="-448"/>
     <nd ref="-449"/>
-    <nd ref="-444"/>
+    <nd ref="-450"/>
+    <nd ref="-451"/>
+    <nd ref="-452"/>
+    <nd ref="-453"/>
+    <nd ref="-448"/>
     <tag k="building" v="yes"/>
-    <tag k="building:levels" v="1"/>
     <tag k="addr:housenumber" v="434"/>
     <tag k="addr:street" v="Brown Avenue"/>
     <tag k="addr:city" v="Harvey"/>
     <tag k="addr:postcode" v="70058"/>
   </way>
-  <node visible="true" id="-450" lat="29.90823862186076098623743746" lon="-90.07688031826332064611051464"/>
-  <node visible="true" id="-451" lat="29.90820183421862310524375062" lon="-90.07697128107727735368825961"/>
-  <node visible="true" id="-452" lat="29.90823474403759973938576877" lon="-90.07698899441783169095288031"/>
-  <node visible="true" id="-453" lat="29.90827153166756602331588510" lon="-90.07689803160386077252042014"/>
-  <way visible="true" id="-66">
-    <nd ref="-450"/>
-    <nd ref="-451"/>
-    <nd ref="-452"/>
-    <nd ref="-453"/>
-    <nd ref="-450"/>
-    <tag k="building" v="yes"/>
-  </way>
-  <node visible="true" id="-454" lat="29.90807546933645255649025785" lon="-90.07708916161483614359895000"/>
-  <node visible="true" id="-455" lat="29.90804573607556804404339346" lon="-90.07716867953776329613901908"/>
-  <node visible="true" id="-456" lat="29.90809824899903190953409649" lon="-90.07719657546846292461850680"/>
-  <node visible="true" id="-457" lat="29.90812487590956436633859994" lon="-90.07711913777387735535739921"/>
-  <node visible="true" id="-458" lat="29.90816910308381437744174036" lon="-90.07714036305333138443529606"/>
-  <node visible="true" id="-459" lat="29.90822350592108236355670670" lon="-90.07701123986207392135838745"/>
-  <node visible="true" id="-460" lat="29.90817322703831493413417775" lon="-90.07698317089311501604242949"/>
-  <node visible="true" id="-461" lat="29.90817078893380198678642046" lon="-90.07698965959482961807225365"/>
-  <node visible="true" id="-462" lat="29.90812742031124571440159343" lon="-90.07696509204423307437537005"/>
+  <node visible="true" id="-454" lat="29.90823862186076098623743746" lon="-90.07688031826332064611051464"/>
+  <node visible="true" id="-455" lat="29.90820183421862310524375062" lon="-90.07697128107727735368825961"/>
+  <node visible="true" id="-456" lat="29.90823474403759973938576877" lon="-90.07698899441783169095288031"/>
+  <node visible="true" id="-457" lat="29.90827153166756602331588510" lon="-90.07689803160386077252042014"/>
   <way visible="true" id="-67">
     <nd ref="-454"/>
     <nd ref="-455"/>
     <nd ref="-456"/>
     <nd ref="-457"/>
+    <nd ref="-454"/>
+    <tag k="building" v="yes"/>
+  </way>
+  <node visible="true" id="-458" lat="29.90807546933645255649025785" lon="-90.07708916161483614359895000"/>
+  <node visible="true" id="-459" lat="29.90804573607556804404339346" lon="-90.07716867953776329613901908"/>
+  <node visible="true" id="-460" lat="29.90809824899903190953409649" lon="-90.07719657546846292461850680"/>
+  <node visible="true" id="-461" lat="29.90812487590956436633859994" lon="-90.07711913777387735535739921"/>
+  <node visible="true" id="-462" lat="29.90816910308381437744174036" lon="-90.07714036305333138443529606"/>
+  <node visible="true" id="-463" lat="29.90822350592108236355670670" lon="-90.07701123986207392135838745"/>
+  <node visible="true" id="-464" lat="29.90817322703831493413417775" lon="-90.07698317089311501604242949"/>
+  <node visible="true" id="-465" lat="29.90817078893380198678642046" lon="-90.07698965959482961807225365"/>
+  <node visible="true" id="-466" lat="29.90812742031124571440159343" lon="-90.07696509204423307437537005"/>
+  <way visible="true" id="-68">
     <nd ref="-458"/>
     <nd ref="-459"/>
     <nd ref="-460"/>
     <nd ref="-461"/>
     <nd ref="-462"/>
-    <nd ref="-454"/>
+    <nd ref="-463"/>
+    <nd ref="-464"/>
+    <nd ref="-465"/>
+    <nd ref="-466"/>
+    <nd ref="-458"/>
     <tag k="building" v="yes"/>
-    <tag k="building:levels" v="1"/>
     <tag k="addr:housenumber" v="439"/>
     <tag k="addr:street" v="Brown Avenue"/>
     <tag k="addr:city" v="Harvey"/>
     <tag k="addr:postcode" v="70058"/>
   </way>
-  <node visible="true" id="-463" lat="29.90802012747269600367872044" lon="-90.07698624740189075055241119"/>
-  <node visible="true" id="-464" lat="29.90800617722067755721582216" lon="-90.07702107531363822090497706"/>
-  <node visible="true" id="-465" lat="29.90793798687072779785012244" lon="-90.07698472463917482855322305"/>
-  <node visible="true" id="-466" lat="29.90788826896991281500959303" lon="-90.07710884920128080466383835"/>
-  <node visible="true" id="-467" lat="29.90800359805562536053002987" lon="-90.07717032841283355537598254"/>
-  <node visible="true" id="-468" lat="29.90806726614427901722592651" lon="-90.07701137593895168720337097"/>
-  <way visible="true" id="-68">
-    <nd ref="-463"/>
-    <nd ref="-464"/>
-    <nd ref="-465"/>
-    <nd ref="-466"/>
+  <node visible="true" id="-467" lat="29.90802012747269600367872044" lon="-90.07698624740189075055241119"/>
+  <node visible="true" id="-468" lat="29.90800617722067755721582216" lon="-90.07702107531363822090497706"/>
+  <node visible="true" id="-469" lat="29.90793798687072779785012244" lon="-90.07698472463917482855322305"/>
+  <node visible="true" id="-470" lat="29.90788826896991281500959303" lon="-90.07710884920128080466383835"/>
+  <node visible="true" id="-471" lat="29.90800359805562536053002987" lon="-90.07717032841283355537598254"/>
+  <node visible="true" id="-472" lat="29.90806726614427901722592651" lon="-90.07701137593895168720337097"/>
+  <way visible="true" id="-69">
     <nd ref="-467"/>
     <nd ref="-468"/>
-    <nd ref="-463"/>
+    <nd ref="-469"/>
+    <nd ref="-470"/>
+    <nd ref="-471"/>
+    <nd ref="-472"/>
+    <nd ref="-467"/>
     <tag k="building" v="yes"/>
-    <tag k="building:levels" v="1"/>
     <tag k="addr:housenumber" v="443"/>
     <tag k="addr:street" v="Brown Avenue"/>
     <tag k="addr:city" v="Harvey"/>
     <tag k="addr:postcode" v="70058"/>
   </way>
-  <node visible="true" id="-469" lat="29.90776778107258238037502451" lon="-90.07707510531969319345080294"/>
-  <node visible="true" id="-470" lat="29.90783796452005205424029555" lon="-90.07711039766080318713648012"/>
-  <node visible="true" id="-471" lat="29.90784610504406160202961473" lon="-90.07709421133012028803932481"/>
-  <node visible="true" id="-472" lat="29.90789438037429093242280942" lon="-90.07697808061179500782600371"/>
-  <node visible="true" id="-473" lat="29.90786107437169860645553854" lon="-90.07695984345326678521814756"/>
-  <node visible="true" id="-474" lat="29.90786534091937198809318943" lon="-90.07694830910196515105781145"/>
-  <node visible="true" id="-475" lat="29.90782826332462462914918433" lon="-90.07692796745203622776898555"/>
-  <way visible="true" id="-69">
-    <nd ref="-469"/>
-    <nd ref="-470"/>
-    <nd ref="-471"/>
-    <nd ref="-472"/>
+  <node visible="true" id="-473" lat="29.90776778107258238037502451" lon="-90.07707510531969319345080294"/>
+  <node visible="true" id="-474" lat="29.90783796452005205424029555" lon="-90.07711039766080318713648012"/>
+  <node visible="true" id="-475" lat="29.90784610504406160202961473" lon="-90.07709421133012028803932481"/>
+  <node visible="true" id="-476" lat="29.90789438037429093242280942" lon="-90.07697808061179500782600371"/>
+  <node visible="true" id="-477" lat="29.90786107437169860645553854" lon="-90.07695984345326678521814756"/>
+  <node visible="true" id="-478" lat="29.90786534091937198809318943" lon="-90.07694830910196515105781145"/>
+  <node visible="true" id="-479" lat="29.90782826332462462914918433" lon="-90.07692796745203622776898555"/>
+  <way visible="true" id="-70">
     <nd ref="-473"/>
     <nd ref="-474"/>
     <nd ref="-475"/>
-    <nd ref="-469"/>
-    <tag k="building" v="yes"/>
-    <tag k="building:levels" v="1"/>
-    <tag k="addr:housenumber" v="445"/>
-    <tag k="addr:street" v="Brown Avenue"/>
-    <tag k="addr:city" v="Harvey"/>
-    <tag k="addr:postcode" v="70058"/>
-  </way>
-  <node visible="true" id="-476" lat="29.90942230508822063939078362" lon="-90.07850076101550484963809140"/>
-  <node visible="true" id="-477" lat="29.90937478079514022510920768" lon="-90.07868437160192343071685173"/>
-  <node visible="true" id="-478" lat="29.90965447316907699359944672" lon="-90.07878072039422079342330107"/>
-  <node visible="true" id="-479" lat="29.90970199732869261310952425" lon="-90.07859710980781642319925595"/>
-  <way visible="true" id="-70">
     <nd ref="-476"/>
     <nd ref="-477"/>
     <nd ref="-478"/>
     <nd ref="-479"/>
-    <nd ref="-476"/>
+    <nd ref="-473"/>
     <tag k="building" v="yes"/>
-    <tag k="building:levels" v="1"/>
-    <tag k="addr:housenumber" v="205"/>
-    <tag k="addr:street" v="Pailet Drive"/>
+    <tag k="addr:housenumber" v="445"/>
+    <tag k="addr:street" v="Brown Avenue"/>
     <tag k="addr:city" v="Harvey"/>
     <tag k="addr:postcode" v="70058"/>
   </way>
@@ -1566,7 +1518,6 @@
     <nd ref="-495"/>
     <nd ref="-480"/>
     <tag k="building" v="yes"/>
-    <tag k="building:levels" v="1"/>
     <tag k="addr:housenumber" v="101"/>
     <tag k="addr:street" v="Pailet Avenue"/>
     <tag k="addr:city" v="Harvey"/>
@@ -1654,7 +1605,6 @@
     <nd ref="-524"/>
     <nd ref="-517"/>
     <tag k="building" v="yes"/>
-    <tag k="building:levels" v="1"/>
     <tag k="addr:housenumber" v="427"/>
     <tag k="addr:street" v="Brown Avenue"/>
     <tag k="addr:city" v="Harvey"/>
@@ -1679,7 +1629,6 @@
     <nd ref="-532"/>
     <nd ref="-525"/>
     <tag k="building" v="yes"/>
-    <tag k="building:levels" v="1"/>
     <tag k="addr:housenumber" v="420"/>
     <tag k="addr:street" v="Brown Avenue"/>
     <tag k="addr:city" v="Harvey"/>
@@ -1752,7 +1701,6 @@
     <nd ref="-554"/>
     <nd ref="-551"/>
     <tag k="building" v="yes"/>
-    <tag k="building:levels" v="1"/>
   </way>
   <node visible="true" id="-555" lat="29.91021833038502819590576109" lon="-90.08093819444356142867036397">
     <tag k="addr:housenumber" v="2614"/>
@@ -1777,7 +1725,6 @@
     <nd ref="-560"/>
     <nd ref="-557"/>
     <tag k="building" v="yes"/>
-    <tag k="building:levels" v="1"/>
     <tag k="addr:housenumber" v="350"/>
     <tag k="addr:street" v="Grefer Lane"/>
     <tag k="addr:city" v="Harvey"/>
@@ -1806,7 +1753,6 @@
     <nd ref="-568"/>
     <nd ref="-565"/>
     <tag k="building" v="yes"/>
-    <tag k="building:levels" v="2"/>
     <tag k="addr:housenumber" v="433"/>
     <tag k="addr:street" v="Pailet Avenue"/>
     <tag k="addr:city" v="Harvey"/>
@@ -1863,7 +1809,6 @@
     <nd ref="-588"/>
     <nd ref="-577"/>
     <tag k="building" v="yes"/>
-    <tag k="building:levels" v="1"/>
   </way>
   <node visible="true" id="-589" lat="29.91046723854575262180333084" lon="-90.07940523860817449985916028">
     <tag k="addr:housenumber" v="210"/>
@@ -1888,7 +1833,6 @@
     <nd ref="-594"/>
     <nd ref="-591"/>
     <tag k="building" v="yes"/>
-    <tag k="building:levels" v="1"/>
     <tag k="addr:housenumber" v="201"/>
     <tag k="addr:street" v="Grefer Lane"/>
     <tag k="addr:city" v="Harvey"/>
@@ -1930,304 +1874,294 @@
     <nd ref="-603"/>
     <tag k="building" v="yes"/>
   </way>
-  <node visible="true" id="-607" lat="29.90740908595581970530474791" lon="-90.07721169227987445538019529"/>
-  <node visible="true" id="-608" lat="29.90739847772573867246137524" lon="-90.07720749742207999588572420"/>
-  <node visible="true" id="-609" lat="29.90738976402036186641453241" lon="-90.07723682379270258024916984"/>
-  <node visible="true" id="-610" lat="29.90739905519835417635476915" lon="-90.07724049784260955675563309"/>
-  <node visible="true" id="-611" lat="29.90738130245789605510253750" lon="-90.07730024549346126150339842"/>
-  <node visible="true" id="-612" lat="29.90736036994400492972090433" lon="-90.07729196806270977049280191"/>
-  <node visible="true" id="-613" lat="29.90734581980771267240015732" lon="-90.07734093718626411373406881"/>
-  <node visible="true" id="-614" lat="29.90736661061756507251629955" lon="-90.07734915858121382825629553"/>
-  <node visible="true" id="-615" lat="29.90736900192350589122725069" lon="-90.07734111053477477071282919"/>
-  <node visible="true" id="-616" lat="29.90743685730667777988855960" lon="-90.07736794287890802479523700"/>
-  <node visible="true" id="-617" lat="29.90744512638246632718619367" lon="-90.07734011291609022009652108"/>
-  <node visible="true" id="-618" lat="29.90744962184747635092207929" lon="-90.07734189057782714371569455"/>
-  <node visible="true" id="-619" lat="29.90749801239139671338307380" lon="-90.07717902987708669115818338"/>
-  <node visible="true" id="-620" lat="29.90742712034365879958386358" lon="-90.07715099671491998378769495"/>
+  <node visible="true" id="-607" lat="29.90733368471941489019627625" lon="-90.07932628541085762208240340"/>
+  <node visible="true" id="-608" lat="29.90740671611930778794885555" lon="-90.07935206794208227165654534"/>
+  <node visible="true" id="-609" lat="29.90743766667663550151701202" lon="-90.07923539174053928491048282"/>
+  <node visible="true" id="-610" lat="29.90736463529939115346678591" lon="-90.07920960920930042448162567"/>
   <way visible="true" id="-92">
     <nd ref="-607"/>
     <nd ref="-608"/>
     <nd ref="-609"/>
     <nd ref="-610"/>
+    <nd ref="-607"/>
+    <tag k="building" v="yes"/>
+    <tag k="addr:housenumber" v="424"/>
+    <tag k="addr:street" v="Grefer Avenue"/>
+    <tag k="addr:city" v="Harvey"/>
+    <tag k="addr:postcode" v="70058"/>
+  </way>
+  <node visible="true" id="-611" lat="29.90812554599088812778973079" lon="-90.07840161239893461697647581"/>
+  <node visible="true" id="-612" lat="29.90808859588666379636379133" lon="-90.07838922325473163255082909"/>
+  <node visible="true" id="-613" lat="29.90808294679945689154010324" lon="-90.07841164598438865596108371"/>
+  <node visible="true" id="-614" lat="29.90805289548709566815887229" lon="-90.07840156996691405311139533"/>
+  <node visible="true" id="-615" lat="29.90802177095956437824497698" lon="-90.07852511143507001634134213"/>
+  <node visible="true" id="-616" lat="29.90808877239918928125916864" lon="-90.07854757659673339276196202"/>
+  <way visible="true" id="-93">
     <nd ref="-611"/>
     <nd ref="-612"/>
     <nd ref="-613"/>
     <nd ref="-614"/>
     <nd ref="-615"/>
     <nd ref="-616"/>
+    <nd ref="-611"/>
+    <tag k="building" v="yes"/>
+    <tag k="addr:housenumber" v="424"/>
+    <tag k="addr:street" v="Pailet Avenue"/>
+    <tag k="addr:city" v="Harvey"/>
+    <tag k="addr:postcode" v="70058"/>
+  </way>
+  <node visible="true" id="-617" lat="29.90822186899045576069511299" lon="-90.07920065924209040986170294"/>
+  <node visible="true" id="-618" lat="29.90827007735488152206926316" lon="-90.07901188059749131298303837"/>
+  <node visible="true" id="-619" lat="29.90826360938738659456248570" lon="-90.07900968236005212474992732"/>
+  <node visible="true" id="-620" lat="29.90827123367256490382715128" lon="-90.07897982649257073717308231"/>
+  <node visible="true" id="-621" lat="29.90821872956283300482027698" lon="-90.07896198217376593220251380"/>
+  <node visible="true" id="-622" lat="29.90821151320206539026003156" lon="-90.07899024063878812285111053"/>
+  <node visible="true" id="-623" lat="29.90820224974390839633997530" lon="-90.07898709231309908318507951"/>
+  <node visible="true" id="-624" lat="29.90815363341797095131369133" lon="-90.07917746836015737699199235"/>
+  <way visible="true" id="-94">
     <nd ref="-617"/>
     <nd ref="-618"/>
     <nd ref="-619"/>
     <nd ref="-620"/>
-    <nd ref="-607"/>
-    <tag k="building" v="yes"/>
-    <tag k="building:levels" v="1"/>
-    <tag k="addr:housenumber" v="502"/>
-    <tag k="addr:street" v="Brown Avenue"/>
-    <tag k="addr:city" v="Harvey"/>
-    <tag k="addr:postcode" v="70058"/>
-    <tag k="addr:unit" v="A-C"/>
-  </way>
-  <node visible="true" id="-621" lat="29.90739003949803631599024811" lon="-90.07752364810286849206022453"/>
-  <node visible="true" id="-622" lat="29.90741132129332413569500204" lon="-90.07744506329535738586855587"/>
-  <node visible="true" id="-623" lat="29.90735052219708123288910429" lon="-90.07742315056574966547486838"/>
-  <node visible="true" id="-624" lat="29.90735568017189294209856598" lon="-90.07740410432191424661141355"/>
-  <node visible="true" id="-625" lat="29.90733531171791526048764354" lon="-90.07739676328738198662904324"/>
-  <node visible="true" id="-626" lat="29.90733022489540360311366385" lon="-90.07741554679188311638426967"/>
-  <node visible="true" id="-627" lat="29.90730370688518746646877844" lon="-90.07740598938642051507486030"/>
-  <node visible="true" id="-628" lat="29.90728235391357969774617231" lon="-90.07748483693326591037475737"/>
-  <way visible="true" id="-93">
     <nd ref="-621"/>
     <nd ref="-622"/>
     <nd ref="-623"/>
     <nd ref="-624"/>
-    <nd ref="-625"/>
-    <nd ref="-626"/>
+    <nd ref="-617"/>
+    <tag k="building" v="yes"/>
+  </way>
+  <node visible="true" id="-625" lat="29.90821783829996149961516494" lon="-90.07905206830454858391021844">
+    <tag k="addr:housenumber" v="411"/>
+    <tag k="addr:street" v="Grefer Avenue"/>
+    <tag k="addr:city" v="Harvey"/>
+    <tag k="addr:postcode" v="70058"/>
+  </node>
+  <node visible="true" id="-626" lat="29.90820938192703692948271055" lon="-90.07911680755883310212084325">
+    <tag k="addr:housenumber" v="409"/>
+    <tag k="addr:street" v="Grefer Avenue"/>
+    <tag k="addr:city" v="Harvey"/>
+    <tag k="addr:postcode" v="70058"/>
+  </node>
+  <node visible="true" id="-627" lat="29.90775701180954371238840395" lon="-90.07904224737866627492621774"/>
+  <node visible="true" id="-628" lat="29.90779482221735463554068701" lon="-90.07905555450192025546130026"/>
+  <node visible="true" id="-629" lat="29.90779973781831557744226302" lon="-90.07903696631879597589431796"/>
+  <node visible="true" id="-630" lat="29.90783028545698485345383233" lon="-90.07904771736265558956802124"/>
+  <node visible="true" id="-631" lat="29.90786177126090450428819167" lon="-90.07892865477411703523102915"/>
+  <node visible="true" id="-632" lat="29.90779341323791484796856821" lon="-90.07890459660698923016752815"/>
+  <way visible="true" id="-95">
     <nd ref="-627"/>
     <nd ref="-628"/>
-    <nd ref="-621"/>
-    <tag k="building" v="yes"/>
-    <tag k="building:levels" v="1"/>
-  </way>
-  <node visible="true" id="-629" lat="29.90737235686492567765526474" lon="-90.07748861921193395119189518">
-    <tag k="addr:housenumber" v="2408"/>
-    <tag k="addr:street" v="Gold Street"/>
-    <tag k="addr:city" v="Harvey"/>
-    <tag k="addr:postcode" v="70058"/>
-  </node>
-  <node visible="true" id="-630" lat="29.90734785917519289455412945" lon="-90.07746194602853506694373209">
-    <tag k="addr:housenumber" v="2410"/>
-    <tag k="addr:street" v="Gold Street"/>
-    <tag k="addr:city" v="Harvey"/>
-    <tag k="addr:postcode" v="70058"/>
-  </node>
-  <node visible="true" id="-631" lat="29.90752472035915943138206785" lon="-90.07872328885241586249321699"/>
-  <node visible="true" id="-632" lat="29.90746691999141049222998845" lon="-90.07893980307711956356797600"/>
-  <node visible="true" id="-633" lat="29.90751224839053890036666417" lon="-90.07895590749851066902920138"/>
-  <node visible="true" id="-634" lat="29.90757004873198354744090466" lon="-90.07873939327379275709972717"/>
-  <way visible="true" id="-94">
+    <nd ref="-629"/>
+    <nd ref="-630"/>
     <nd ref="-631"/>
     <nd ref="-632"/>
-    <nd ref="-633"/>
-    <nd ref="-634"/>
-    <nd ref="-631"/>
+    <nd ref="-627"/>
     <tag k="building" v="yes"/>
-    <tag k="building:levels" v="1"/>
-    <tag k="addr:housenumber" v="453"/>
+    <tag k="addr:housenumber" v="431"/>
     <tag k="addr:street" v="Grefer Avenue"/>
     <tag k="addr:city" v="Harvey"/>
     <tag k="addr:postcode" v="70058"/>
   </way>
-  <node visible="true" id="-635" lat="29.90733003042309334773563023" lon="-90.07843988946481772472907323"/>
-  <node visible="true" id="-636" lat="29.90738332660999532208734308" lon="-90.07845800880664910437189974"/>
-  <node visible="true" id="-637" lat="29.90739078680131157739197079" lon="-90.07842880542054331272083800"/>
-  <node visible="true" id="-638" lat="29.90742767725918227483816736" lon="-90.07844134724028606342471903"/>
-  <node visible="true" id="-639" lat="29.90744440684566285426626564" lon="-90.07837585819430614719749428"/>
-  <node visible="true" id="-640" lat="29.90735422022006062547916372" lon="-90.07834519703274622770550195"/>
-  <way visible="true" id="-95">
+  <node visible="true" id="-633" lat="29.90804019334069607793935575" lon="-90.07956786693398498755414039"/>
+  <node visible="true" id="-634" lat="29.90807089411200792028466822" lon="-90.07945157344401820864732144"/>
+  <node visible="true" id="-635" lat="29.90800066750376728919036395" lon="-90.07942689993174667506536935"/>
+  <node visible="true" id="-636" lat="29.90796996671075547169493802" lon="-90.07954319342169924311747309"/>
+  <way visible="true" id="-96">
+    <nd ref="-633"/>
+    <nd ref="-634"/>
     <nd ref="-635"/>
     <nd ref="-636"/>
+    <nd ref="-633"/>
+    <tag k="building" v="yes"/>
+    <tag k="addr:housenumber" v="408"/>
+    <tag k="addr:street" v="Grefer Avenue"/>
+    <tag k="addr:city" v="Harvey"/>
+    <tag k="addr:postcode" v="70058"/>
+  </way>
+  <node visible="true" id="-637" lat="29.90803327880475848132846295" lon="-90.07806556292968025445588864"/>
+  <node visible="true" id="-638" lat="29.90803070125958740277383185" lon="-90.07807580535596514437202131"/>
+  <node visible="true" id="-639" lat="29.90805867111488325349455408" lon="-90.07808517297003447765746387"/>
+  <node visible="true" id="-640" lat="29.90805513748512112215394154" lon="-90.07809921460616919830499683"/>
+  <node visible="true" id="-641" lat="29.90808873442500370742891391" lon="-90.07811046683644917720812373"/>
+  <node visible="true" id="-642" lat="29.90811450174522434508617152" lon="-90.07800807481379479213501327"/>
+  <node visible="true" id="-643" lat="29.90810939419655056781266467" lon="-90.07800636420154205552535132"/>
+  <node visible="true" id="-644" lat="29.90812471666521332736010663" lon="-90.07794547704730803161510266"/>
+  <node visible="true" id="-645" lat="29.90803464007266754265401687" lon="-90.07791530874494867475732462"/>
+  <node visible="true" id="-646" lat="29.90802860505174365357561328" lon="-90.07793929018961875954119023"/>
+  <node visible="true" id="-647" lat="29.90802672146793383944896050" lon="-90.07793865934318944255210226"/>
+  <node visible="true" id="-648" lat="29.90799777783895763150212588" lon="-90.07805367301300236704264535"/>
+  <way visible="true" id="-97">
     <nd ref="-637"/>
     <nd ref="-638"/>
     <nd ref="-639"/>
     <nd ref="-640"/>
-    <nd ref="-635"/>
-    <tag k="building" v="yes"/>
-  </way>
-  <node visible="true" id="-641" lat="29.90916902009945133045221155" lon="-90.08296787435932628795853816"/>
-  <node visible="true" id="-642" lat="29.90918941306222222920041531" lon="-90.08297475024143352584360400"/>
-  <node visible="true" id="-643" lat="29.90919396862827284166996833" lon="-90.08295676817519392898248043"/>
-  <node visible="true" id="-644" lat="29.90917357566644341204664670" lon="-90.08294989229308669109741459"/>
-  <way visible="true" id="-96">
     <nd ref="-641"/>
     <nd ref="-642"/>
     <nd ref="-643"/>
     <nd ref="-644"/>
-    <nd ref="-641"/>
-    <tag k="building" v="yes"/>
-  </way>
-  <node visible="true" id="-645" lat="29.91043497002878126522773528" lon="-90.08289556463446956513507757"/>
-  <node visible="true" id="-646" lat="29.91062217779715126653172774" lon="-90.08296090347766948980279267"/>
-  <node visible="true" id="-647" lat="29.91061578118312525020883186" lon="-90.08298529618559769005514681"/>
-  <node visible="true" id="-648" lat="29.91067324860197373936898657" lon="-90.08300535336096004357386846"/>
-  <node visible="true" id="-649" lat="29.91068127597006309770222288" lon="-90.08297474195316567602276336"/>
-  <node visible="true" id="-650" lat="29.91074366292163944081039517" lon="-90.08299651614987624270725064"/>
-  <node visible="true" id="-651" lat="29.91079653297233065245563921" lon="-90.08279490234954778316023294"/>
-  <node visible="true" id="-652" lat="29.91048947100423660572232620" lon="-90.08268773213427493828930892"/>
-  <way visible="true" id="-97">
     <nd ref="-645"/>
     <nd ref="-646"/>
     <nd ref="-647"/>
     <nd ref="-648"/>
+    <nd ref="-637"/>
+    <tag k="building" v="yes"/>
+    <tag k="addr:housenumber" v="425"/>
+    <tag k="addr:street" v="Pailet Avenue"/>
+    <tag k="addr:city" v="Harvey"/>
+    <tag k="addr:postcode" v="70058"/>
+  </way>
+  <node visible="true" id="-649" lat="29.90775701266939279321377398" lon="-90.07827015585942831421562005"/>
+  <node visible="true" id="-650" lat="29.90771675788794325967501209" lon="-90.07825631840836422270513140"/>
+  <node visible="true" id="-651" lat="29.90771092216971283050952479" lon="-90.07827891215721649587067077"/>
+  <node visible="true" id="-652" lat="29.90768228998330613421785529" lon="-90.07826906993963689274096396"/>
+  <node visible="true" id="-653" lat="29.90764877744439331763715018" lon="-90.07839881806795290231093531"/>
+  <node visible="true" id="-654" lat="29.90771766443778290067712078" lon="-90.07842249773658238609641558"/>
+  <way visible="true" id="-98">
     <nd ref="-649"/>
     <nd ref="-650"/>
     <nd ref="-651"/>
     <nd ref="-652"/>
-    <nd ref="-645"/>
-    <tag k="building" v="yes"/>
-  </way>
-  <node visible="true" id="-653" lat="29.90733368471941489019627625" lon="-90.07932628541085762208240340"/>
-  <node visible="true" id="-654" lat="29.90740671611930778794885555" lon="-90.07935206794208227165654534"/>
-  <node visible="true" id="-655" lat="29.90743766667663550151701202" lon="-90.07923539174053928491048282"/>
-  <node visible="true" id="-656" lat="29.90736463529939115346678591" lon="-90.07920960920930042448162567"/>
-  <way visible="true" id="-98">
     <nd ref="-653"/>
     <nd ref="-654"/>
-    <nd ref="-655"/>
-    <nd ref="-656"/>
-    <nd ref="-653"/>
+    <nd ref="-649"/>
     <tag k="building" v="yes"/>
-    <tag k="building:levels" v="1"/>
-    <tag k="addr:housenumber" v="424"/>
-    <tag k="addr:street" v="Grefer Avenue"/>
+    <tag k="addr:housenumber" v="436"/>
+    <tag k="addr:street" v="Pailet Avenue"/>
     <tag k="addr:city" v="Harvey"/>
     <tag k="addr:postcode" v="70058"/>
   </way>
-  <node visible="true" id="-657" lat="29.90812554599088812778973079" lon="-90.07840161239893461697647581"/>
-  <node visible="true" id="-658" lat="29.90808859588666379636379133" lon="-90.07838922325473163255082909"/>
-  <node visible="true" id="-659" lat="29.90808294679945689154010324" lon="-90.07841164598438865596108371"/>
-  <node visible="true" id="-660" lat="29.90805289548709566815887229" lon="-90.07840156996691405311139533"/>
-  <node visible="true" id="-661" lat="29.90802177095956437824497698" lon="-90.07852511143507001634134213"/>
-  <node visible="true" id="-662" lat="29.90808877239918928125916864" lon="-90.07854757659673339276196202"/>
+  <node visible="true" id="-655" lat="29.90740908595581970530474791" lon="-90.07721169227987445538019529"/>
+  <node visible="true" id="-656" lat="29.90739847772573867246137524" lon="-90.07720749742207999588572420"/>
+  <node visible="true" id="-657" lat="29.90738976402036186641453241" lon="-90.07723682379270258024916984"/>
+  <node visible="true" id="-658" lat="29.90739905519835417635476915" lon="-90.07724049784260955675563309"/>
+  <node visible="true" id="-659" lat="29.90738130245789605510253750" lon="-90.07730024549346126150339842"/>
+  <node visible="true" id="-660" lat="29.90736036994400492972090433" lon="-90.07729196806270977049280191"/>
+  <node visible="true" id="-661" lat="29.90734581980771267240015732" lon="-90.07734093718626411373406881"/>
+  <node visible="true" id="-662" lat="29.90736661061756507251629955" lon="-90.07734915858121382825629553"/>
+  <node visible="true" id="-663" lat="29.90736900192350589122725069" lon="-90.07734111053477477071282919"/>
+  <node visible="true" id="-664" lat="29.90743685730667777988855960" lon="-90.07736794287890802479523700"/>
+  <node visible="true" id="-665" lat="29.90744512638246632718619367" lon="-90.07734011291609022009652108"/>
+  <node visible="true" id="-666" lat="29.90744962184747635092207929" lon="-90.07734189057782714371569455"/>
+  <node visible="true" id="-667" lat="29.90749801239139671338307380" lon="-90.07717902987708669115818338"/>
+  <node visible="true" id="-668" lat="29.90742712034365879958386358" lon="-90.07715099671491998378769495"/>
   <way visible="true" id="-99">
+    <nd ref="-655"/>
+    <nd ref="-656"/>
     <nd ref="-657"/>
     <nd ref="-658"/>
     <nd ref="-659"/>
     <nd ref="-660"/>
     <nd ref="-661"/>
     <nd ref="-662"/>
-    <nd ref="-657"/>
-    <tag k="building" v="yes"/>
-    <tag k="building:levels" v="1"/>
-    <tag k="addr:housenumber" v="424"/>
-    <tag k="addr:street" v="Pailet Avenue"/>
-    <tag k="addr:city" v="Harvey"/>
-    <tag k="addr:postcode" v="70058"/>
-  </way>
-  <node visible="true" id="-663" lat="29.90822186899045576069511299" lon="-90.07920065924209040986170294"/>
-  <node visible="true" id="-664" lat="29.90827007735488152206926316" lon="-90.07901188059749131298303837"/>
-  <node visible="true" id="-665" lat="29.90826360938738659456248570" lon="-90.07900968236005212474992732"/>
-  <node visible="true" id="-666" lat="29.90827123367256490382715128" lon="-90.07897982649257073717308231"/>
-  <node visible="true" id="-667" lat="29.90821872956283300482027698" lon="-90.07896198217376593220251380"/>
-  <node visible="true" id="-668" lat="29.90821151320206539026003156" lon="-90.07899024063878812285111053"/>
-  <node visible="true" id="-669" lat="29.90820224974390839633997530" lon="-90.07898709231309908318507951"/>
-  <node visible="true" id="-670" lat="29.90815363341797095131369133" lon="-90.07917746836015737699199235"/>
-  <way visible="true" id="-100">
     <nd ref="-663"/>
     <nd ref="-664"/>
     <nd ref="-665"/>
     <nd ref="-666"/>
     <nd ref="-667"/>
     <nd ref="-668"/>
+    <nd ref="-655"/>
+    <tag k="building" v="yes"/>
+    <tag k="addr:housenumber" v="502"/>
+    <tag k="addr:street" v="Brown Avenue"/>
+    <tag k="addr:city" v="Harvey"/>
+    <tag k="addr:postcode" v="70058"/>
+    <tag k="addr:unit" v="A-C"/>
+  </way>
+  <node visible="true" id="-669" lat="29.90739003949803631599024811" lon="-90.07752364810286849206022453"/>
+  <node visible="true" id="-670" lat="29.90741132129332413569500204" lon="-90.07744506329535738586855587"/>
+  <node visible="true" id="-671" lat="29.90735052219708123288910429" lon="-90.07742315056574966547486838"/>
+  <node visible="true" id="-672" lat="29.90735568017189294209856598" lon="-90.07740410432191424661141355"/>
+  <node visible="true" id="-673" lat="29.90733531171791526048764354" lon="-90.07739676328738198662904324"/>
+  <node visible="true" id="-674" lat="29.90733022489540360311366385" lon="-90.07741554679188311638426967"/>
+  <node visible="true" id="-675" lat="29.90730370688518746646877844" lon="-90.07740598938642051507486030"/>
+  <node visible="true" id="-676" lat="29.90728235391357969774617231" lon="-90.07748483693326591037475737"/>
+  <way visible="true" id="-100">
     <nd ref="-669"/>
     <nd ref="-670"/>
-    <nd ref="-663"/>
-    <tag k="building" v="yes"/>
-    <tag k="building:levels" v="1"/>
-  </way>
-  <node visible="true" id="-671" lat="29.90821783829996149961516494" lon="-90.07905206830454858391021844">
-    <tag k="addr:housenumber" v="411"/>
-    <tag k="addr:street" v="Grefer Avenue"/>
-    <tag k="addr:city" v="Harvey"/>
-    <tag k="addr:postcode" v="70058"/>
-  </node>
-  <node visible="true" id="-672" lat="29.90820938192703692948271055" lon="-90.07911680755883310212084325">
-    <tag k="addr:housenumber" v="409"/>
-    <tag k="addr:street" v="Grefer Avenue"/>
-    <tag k="addr:city" v="Harvey"/>
-    <tag k="addr:postcode" v="70058"/>
-  </node>
-  <node visible="true" id="-673" lat="29.90775701180954371238840395" lon="-90.07904224737866627492621774"/>
-  <node visible="true" id="-674" lat="29.90779482221735463554068701" lon="-90.07905555450192025546130026"/>
-  <node visible="true" id="-675" lat="29.90779973781831557744226302" lon="-90.07903696631879597589431796"/>
-  <node visible="true" id="-676" lat="29.90783028545698485345383233" lon="-90.07904771736265558956802124"/>
-  <node visible="true" id="-677" lat="29.90786177126090450428819167" lon="-90.07892865477411703523102915"/>
-  <node visible="true" id="-678" lat="29.90779341323791484796856821" lon="-90.07890459660698923016752815"/>
-  <way visible="true" id="-101">
+    <nd ref="-671"/>
+    <nd ref="-672"/>
     <nd ref="-673"/>
     <nd ref="-674"/>
     <nd ref="-675"/>
     <nd ref="-676"/>
-    <nd ref="-677"/>
-    <nd ref="-678"/>
-    <nd ref="-673"/>
+    <nd ref="-669"/>
     <tag k="building" v="yes"/>
-    <tag k="building:levels" v="1"/>
-    <tag k="addr:housenumber" v="431"/>
-    <tag k="addr:street" v="Grefer Avenue"/>
+  </way>
+  <node visible="true" id="-677" lat="29.90737235686492567765526474" lon="-90.07748861921193395119189518">
+    <tag k="addr:housenumber" v="2408"/>
+    <tag k="addr:street" v="Gold Street"/>
     <tag k="addr:city" v="Harvey"/>
     <tag k="addr:postcode" v="70058"/>
-  </way>
-  <node visible="true" id="-679" lat="29.90804019334069607793935575" lon="-90.07956786693398498755414039"/>
-  <node visible="true" id="-680" lat="29.90807089411200792028466822" lon="-90.07945157344401820864732144"/>
-  <node visible="true" id="-681" lat="29.90800066750376728919036395" lon="-90.07942689993174667506536935"/>
-  <node visible="true" id="-682" lat="29.90796996671075547169493802" lon="-90.07954319342169924311747309"/>
-  <way visible="true" id="-102">
+  </node>
+  <node visible="true" id="-678" lat="29.90734785917519289455412945" lon="-90.07746194602853506694373209">
+    <tag k="addr:housenumber" v="2410"/>
+    <tag k="addr:street" v="Gold Street"/>
+    <tag k="addr:city" v="Harvey"/>
+    <tag k="addr:postcode" v="70058"/>
+  </node>
+  <node visible="true" id="-679" lat="29.90752472035915943138206785" lon="-90.07872328885241586249321699"/>
+  <node visible="true" id="-680" lat="29.90746691999141049222998845" lon="-90.07893980307711956356797600"/>
+  <node visible="true" id="-681" lat="29.90751224839053890036666417" lon="-90.07895590749851066902920138"/>
+  <node visible="true" id="-682" lat="29.90757004873198354744090466" lon="-90.07873939327379275709972717"/>
+  <way visible="true" id="-101">
     <nd ref="-679"/>
     <nd ref="-680"/>
     <nd ref="-681"/>
     <nd ref="-682"/>
     <nd ref="-679"/>
     <tag k="building" v="yes"/>
-    <tag k="building:levels" v="1"/>
-    <tag k="addr:housenumber" v="408"/>
+    <tag k="addr:housenumber" v="453"/>
     <tag k="addr:street" v="Grefer Avenue"/>
     <tag k="addr:city" v="Harvey"/>
     <tag k="addr:postcode" v="70058"/>
   </way>
-  <node visible="true" id="-683" lat="29.90803327880475848132846295" lon="-90.07806556292968025445588864"/>
-  <node visible="true" id="-684" lat="29.90803070125958740277383185" lon="-90.07807580535596514437202131"/>
-  <node visible="true" id="-685" lat="29.90805867111488325349455408" lon="-90.07808517297003447765746387"/>
-  <node visible="true" id="-686" lat="29.90805513748512112215394154" lon="-90.07809921460616919830499683"/>
-  <node visible="true" id="-687" lat="29.90808873442500370742891391" lon="-90.07811046683644917720812373"/>
-  <node visible="true" id="-688" lat="29.90811450174522434508617152" lon="-90.07800807481379479213501327"/>
-  <node visible="true" id="-689" lat="29.90810939419655056781266467" lon="-90.07800636420154205552535132"/>
-  <node visible="true" id="-690" lat="29.90812471666521332736010663" lon="-90.07794547704730803161510266"/>
-  <node visible="true" id="-691" lat="29.90803464007266754265401687" lon="-90.07791530874494867475732462"/>
-  <node visible="true" id="-692" lat="29.90802860505174365357561328" lon="-90.07793929018961875954119023"/>
-  <node visible="true" id="-693" lat="29.90802672146793383944896050" lon="-90.07793865934318944255210226"/>
-  <node visible="true" id="-694" lat="29.90799777783895763150212588" lon="-90.07805367301300236704264535"/>
-  <way visible="true" id="-103">
+  <node visible="true" id="-683" lat="29.90733003042309334773563023" lon="-90.07843988946481772472907323"/>
+  <node visible="true" id="-684" lat="29.90738332660999532208734308" lon="-90.07845800880664910437189974"/>
+  <node visible="true" id="-685" lat="29.90739078680131157739197079" lon="-90.07842880542054331272083800"/>
+  <node visible="true" id="-686" lat="29.90742767725918227483816736" lon="-90.07844134724028606342471903"/>
+  <node visible="true" id="-687" lat="29.90744440684566285426626564" lon="-90.07837585819430614719749428"/>
+  <node visible="true" id="-688" lat="29.90735422022006062547916372" lon="-90.07834519703274622770550195"/>
+  <way visible="true" id="-102">
     <nd ref="-683"/>
     <nd ref="-684"/>
     <nd ref="-685"/>
     <nd ref="-686"/>
     <nd ref="-687"/>
     <nd ref="-688"/>
+    <nd ref="-683"/>
+    <tag k="building" v="yes"/>
+  </way>
+  <node visible="true" id="-689" lat="29.90916902009945133045221155" lon="-90.08296787435932628795853816"/>
+  <node visible="true" id="-690" lat="29.90918941306222222920041531" lon="-90.08297475024143352584360400"/>
+  <node visible="true" id="-691" lat="29.90919396862827284166996833" lon="-90.08295676817519392898248043"/>
+  <node visible="true" id="-692" lat="29.90917357566644341204664670" lon="-90.08294989229308669109741459"/>
+  <way visible="true" id="-103">
     <nd ref="-689"/>
     <nd ref="-690"/>
     <nd ref="-691"/>
     <nd ref="-692"/>
+    <nd ref="-689"/>
+    <tag k="building" v="yes"/>
+  </way>
+  <node visible="true" id="-693" lat="29.91043497002878126522773528" lon="-90.08289556463446956513507757"/>
+  <node visible="true" id="-694" lat="29.91062217779715126653172774" lon="-90.08296090347766948980279267"/>
+  <node visible="true" id="-695" lat="29.91061578118312525020883186" lon="-90.08298529618559769005514681"/>
+  <node visible="true" id="-696" lat="29.91067324860197373936898657" lon="-90.08300535336096004357386846"/>
+  <node visible="true" id="-697" lat="29.91068127597006309770222288" lon="-90.08297474195316567602276336"/>
+  <node visible="true" id="-698" lat="29.91074366292163944081039517" lon="-90.08299651614987624270725064"/>
+  <node visible="true" id="-699" lat="29.91079653297233065245563921" lon="-90.08279490234954778316023294"/>
+  <node visible="true" id="-700" lat="29.91048947100423660572232620" lon="-90.08268773213427493828930892"/>
+  <way visible="true" id="-104">
     <nd ref="-693"/>
     <nd ref="-694"/>
-    <nd ref="-683"/>
-    <tag k="building" v="yes"/>
-    <tag k="building:levels" v="1"/>
-    <tag k="addr:housenumber" v="425"/>
-    <tag k="addr:street" v="Pailet Avenue"/>
-    <tag k="addr:city" v="Harvey"/>
-    <tag k="addr:postcode" v="70058"/>
-  </way>
-  <node visible="true" id="-695" lat="29.90775701266939279321377398" lon="-90.07827015585942831421562005"/>
-  <node visible="true" id="-696" lat="29.90771675788794325967501209" lon="-90.07825631840836422270513140"/>
-  <node visible="true" id="-697" lat="29.90771092216971283050952479" lon="-90.07827891215721649587067077"/>
-  <node visible="true" id="-698" lat="29.90768228998330613421785529" lon="-90.07826906993963689274096396"/>
-  <node visible="true" id="-699" lat="29.90764877744439331763715018" lon="-90.07839881806795290231093531"/>
-  <node visible="true" id="-700" lat="29.90771766443778290067712078" lon="-90.07842249773658238609641558"/>
-  <way visible="true" id="-104">
     <nd ref="-695"/>
     <nd ref="-696"/>
     <nd ref="-697"/>
     <nd ref="-698"/>
     <nd ref="-699"/>
     <nd ref="-700"/>
-    <nd ref="-695"/>
+    <nd ref="-693"/>
     <tag k="building" v="yes"/>
-    <tag k="building:levels" v="1"/>
-    <tag k="addr:housenumber" v="436"/>
-    <tag k="addr:street" v="Pailet Avenue"/>
-    <tag k="addr:city" v="Harvey"/>
-    <tag k="addr:postcode" v="70058"/>
   </way>
   <node visible="true" id="-701" lat="29.91110747579744355562070268" lon="-90.08151838589409976520983037"/>
   <node visible="true" id="-702" lat="29.91122106188914386848409777" lon="-90.08109209726546851015882567"/>
@@ -2240,7 +2174,6 @@
     <nd ref="-704"/>
     <nd ref="-701"/>
     <tag k="building" v="yes"/>
-    <tag k="building:levels" v="1"/>
     <tag k="addr:housenumber" v="2602"/>
     <tag k="addr:street" v="River Lane"/>
     <tag k="addr:city" v="Harvey"/>
@@ -2257,7 +2190,6 @@
     <nd ref="-708"/>
     <nd ref="-705"/>
     <tag k="building" v="yes"/>
-    <tag k="building:levels" v="1"/>
     <tag k="addr:housenumber" v="220"/>
     <tag k="addr:street" v="Bark Drive"/>
     <tag k="addr:city" v="Harvey"/>
@@ -2274,7 +2206,6 @@
     <nd ref="-712"/>
     <nd ref="-709"/>
     <tag k="building" v="yes"/>
-    <tag k="building:levels" v="1"/>
     <tag k="addr:housenumber" v="101"/>
     <tag k="addr:street" v="Bark Drive"/>
     <tag k="addr:city" v="Harvey"/>
@@ -2327,302 +2258,294 @@
     <nd ref="-730"/>
     <nd ref="-721"/>
     <tag k="building" v="yes"/>
-    <tag k="building:levels" v="1"/>
     <tag k="addr:housenumber" v="438"/>
     <tag k="addr:street" v="Brown Avenue"/>
     <tag k="addr:city" v="Harvey"/>
     <tag k="addr:postcode" v="70058"/>
   </way>
-  <node visible="true" id="-731" lat="29.90774704196503819275676506" lon="-90.07693814765299578084523091"/>
-  <node visible="true" id="-732" lat="29.90774168502248997469905589" lon="-90.07695131528005560994643020"/>
-  <node visible="true" id="-733" lat="29.90767420468566228919371497" lon="-90.07691477942071855977701489"/>
-  <node visible="true" id="-734" lat="29.90764396175080364059795102" lon="-90.07698911797150742586381966"/>
-  <node visible="true" id="-735" lat="29.90769714280028779285203200" lon="-90.07701791176103256475471426"/>
-  <node visible="true" id="-736" lat="29.90769486973029245291400002" lon="-90.07702349907566485853749327"/>
-  <node visible="true" id="-737" lat="29.90773555062878585886210203" lon="-90.07704552492444349809375126"/>
-  <node visible="true" id="-738" lat="29.90777342354540024871312198" lon="-90.07695243143196250912296819"/>
+  <node visible="true" id="-731" lat="29.90767529451775530446866469" lon="-90.07759057190450846519524930"/>
+  <node visible="true" id="-732" lat="29.90756648490365066095364455" lon="-90.07755205341526050233369460"/>
+  <node visible="true" id="-733" lat="29.90754934014972477029914444" lon="-90.07761650902213546032726299"/>
+  <node visible="true" id="-734" lat="29.90765814978248471334154601" lon="-90.07765502751138342318881769"/>
   <way visible="true" id="-111">
     <nd ref="-731"/>
     <nd ref="-732"/>
     <nd ref="-733"/>
     <nd ref="-734"/>
+    <nd ref="-731"/>
+    <tag k="building" v="yes"/>
+  </way>
+  <node visible="true" id="-735" lat="29.90768678369676791817255435" lon="-90.07899556372206006926717237"/>
+  <node visible="true" id="-736" lat="29.90767946263960297414996603" lon="-90.07902401762414967834047275"/>
+  <node visible="true" id="-737" lat="29.90772138601923302303475793" lon="-90.07903837319821604978642426"/>
+  <node visible="true" id="-738" lat="29.90775834150037582048753393" lon="-90.07889474254257322627381654"/>
+  <node visible="true" id="-739" lat="29.90768209183380221816150879" lon="-90.07886863281656530944019323"/>
+  <node visible="true" id="-740" lat="29.90765245738404942699162348" lon="-90.07898380957014694558893098"/>
+  <way visible="true" id="-112">
     <nd ref="-735"/>
     <nd ref="-736"/>
     <nd ref="-737"/>
     <nd ref="-738"/>
-    <nd ref="-731"/>
+    <nd ref="-739"/>
+    <nd ref="-740"/>
+    <nd ref="-735"/>
     <tag k="building" v="yes"/>
-    <tag k="building:levels" v="1"/>
-    <tag k="addr:housenumber" v="449"/>
-    <tag k="addr:street" v="Brown Avenue"/>
+    <tag k="addr:housenumber" v="435"/>
+    <tag k="addr:street" v="Grefer Avenue"/>
     <tag k="addr:city" v="Harvey"/>
     <tag k="addr:postcode" v="70058"/>
   </way>
-  <node visible="true" id="-739" lat="29.90833482480526228641792841" lon="-90.08014987611018398183659883"/>
-  <node visible="true" id="-740" lat="29.90836156106824006428723806" lon="-90.08015938574395420346263563"/>
-  <node visible="true" id="-741" lat="29.90835944053425521360622952" lon="-90.08016732025630801672377856"/>
-  <node visible="true" id="-742" lat="29.90840888853986356821224035" lon="-90.08018490807678801957081305"/>
-  <node visible="true" id="-743" lat="29.90842737273915830087389622" lon="-90.08011574474652150001929840"/>
-  <node visible="true" id="-744" lat="29.90842074404579165047834977" lon="-90.08011338703128956240107073"/>
-  <node visible="true" id="-745" lat="29.90844104041181950037753268" lon="-90.08003744300890502927359194"/>
-  <node visible="true" id="-746" lat="29.90837148486432184313343896" lon="-90.08001270326988674241874833"/>
-  <way visible="true" id="-112">
-    <nd ref="-739"/>
-    <nd ref="-740"/>
+  <node visible="true" id="-741" lat="29.90833482480526228641792841" lon="-90.08014987611018398183659883"/>
+  <node visible="true" id="-742" lat="29.90836156106824006428723806" lon="-90.08015938574395420346263563"/>
+  <node visible="true" id="-743" lat="29.90835944053425521360622952" lon="-90.08016732025630801672377856"/>
+  <node visible="true" id="-744" lat="29.90840888853986356821224035" lon="-90.08018490807678801957081305"/>
+  <node visible="true" id="-745" lat="29.90842737273915830087389622" lon="-90.08011574474652150001929840"/>
+  <node visible="true" id="-746" lat="29.90842074404579165047834977" lon="-90.08011338703128956240107073"/>
+  <node visible="true" id="-747" lat="29.90844104041181950037753268" lon="-90.08003744300890502927359194"/>
+  <node visible="true" id="-748" lat="29.90837148486432184313343896" lon="-90.08001270326988674241874833"/>
+  <way visible="true" id="-113">
     <nd ref="-741"/>
     <nd ref="-742"/>
     <nd ref="-743"/>
     <nd ref="-744"/>
     <nd ref="-745"/>
     <nd ref="-746"/>
-    <nd ref="-739"/>
+    <nd ref="-747"/>
+    <nd ref="-748"/>
+    <nd ref="-741"/>
     <tag k="building" v="yes"/>
-    <tag k="building:levels" v="1"/>
   </way>
-  <node visible="true" id="-747" lat="29.90838777987893593035551021" lon="-90.08010034885251116065774113">
+  <node visible="true" id="-749" lat="29.90838777987893593035551021" lon="-90.08010034885251116065774113">
     <tag k="addr:housenumber" v="2626"/>
     <tag k="addr:street" v="4th Street"/>
     <tag k="addr:city" v="Harvey"/>
     <tag k="addr:postcode" v="70058"/>
   </node>
-  <node visible="true" id="-748" lat="29.90841163236907007672016334" lon="-90.08006675367886373351211660">
+  <node visible="true" id="-750" lat="29.90841163236907007672016334" lon="-90.08006675367886373351211660">
     <tag k="addr:housenumber" v="2620"/>
     <tag k="addr:street" v="4th Street"/>
     <tag k="addr:city" v="Harvey"/>
     <tag k="addr:postcode" v="70058"/>
   </node>
-  <node visible="true" id="-749" lat="29.90826781853349913831152662" lon="-90.07875725804649391648126766"/>
-  <node visible="true" id="-750" lat="29.90829848262645995760067308" lon="-90.07876752536760989187314408"/>
-  <node visible="true" id="-751" lat="29.90831815057664400114845193" lon="-90.07868935004943011790601304"/>
-  <node visible="true" id="-752" lat="29.90828748648975476953637553" lon="-90.07867908272832835336885182"/>
-  <way visible="true" id="-113">
-    <nd ref="-749"/>
-    <nd ref="-750"/>
+  <node visible="true" id="-751" lat="29.90826781853349913831152662" lon="-90.07875725804649391648126766"/>
+  <node visible="true" id="-752" lat="29.90829848262645995760067308" lon="-90.07876752536760989187314408"/>
+  <node visible="true" id="-753" lat="29.90831815057664400114845193" lon="-90.07868935004943011790601304"/>
+  <node visible="true" id="-754" lat="29.90828748648975476953637553" lon="-90.07867908272832835336885182"/>
+  <way visible="true" id="-114">
     <nd ref="-751"/>
     <nd ref="-752"/>
-    <nd ref="-749"/>
-    <tag k="building" v="yes"/>
-  </way>
-  <node visible="true" id="-753" lat="29.90826083802781809595217055" lon="-90.07925770478310312228131806"/>
-  <node visible="true" id="-754" lat="29.90863109714480927436852653" lon="-90.07938827366331224766327068"/>
-  <node visible="true" id="-755" lat="29.90864816849097707063265261" lon="-90.07937780086591317285638070"/>
-  <node visible="true" id="-756" lat="29.90865714571594224935324746" lon="-90.07934392050867700163507834"/>
-  <node visible="true" id="-757" lat="29.90827381195217071763181593" lon="-90.07920874093362328949297080"/>
-  <way visible="true" id="-114">
     <nd ref="-753"/>
     <nd ref="-754"/>
+    <nd ref="-751"/>
+    <tag k="building" v="yes"/>
+  </way>
+  <node visible="true" id="-755" lat="29.90826083802781809595217055" lon="-90.07925770478310312228131806"/>
+  <node visible="true" id="-756" lat="29.90863109714480927436852653" lon="-90.07938827366331224766327068"/>
+  <node visible="true" id="-757" lat="29.90864816849097707063265261" lon="-90.07937780086591317285638070"/>
+  <node visible="true" id="-758" lat="29.90865714571594224935324746" lon="-90.07934392050867700163507834"/>
+  <node visible="true" id="-759" lat="29.90827381195217071763181593" lon="-90.07920874093362328949297080"/>
+  <way visible="true" id="-115">
     <nd ref="-755"/>
     <nd ref="-756"/>
     <nd ref="-757"/>
-    <nd ref="-753"/>
+    <nd ref="-758"/>
+    <nd ref="-759"/>
+    <nd ref="-755"/>
     <tag k="building" v="yes"/>
-    <tag k="building:levels" v="1"/>
   </way>
-  <node visible="true" id="-758" lat="29.90845003941303303918175516" lon="-90.07929303894928807494579814">
+  <node visible="true" id="-760" lat="29.90845003941303303918175516" lon="-90.07929303894928807494579814">
     <tag k="addr:housenumber" v="2524"/>
     <tag k="addr:street" v="4th Street"/>
     <tag k="addr:city" v="Harvey"/>
     <tag k="addr:postcode" v="70058"/>
   </node>
-  <node visible="true" id="-759" lat="29.90850526358386574088399357" lon="-90.07929136967544536673813127">
+  <node visible="true" id="-761" lat="29.90850526358386574088399357" lon="-90.07929136967544536673813127">
     <tag k="addr:housenumber" v="407"/>
     <tag k="addr:street" v="Grefer Avenue"/>
     <tag k="addr:city" v="Harvey"/>
     <tag k="addr:postcode" v="70058"/>
   </node>
-  <node visible="true" id="-760" lat="29.90848703773292527330340818" lon="-90.07931021571351948296069168">
+  <node visible="true" id="-762" lat="29.90848703773292527330340818" lon="-90.07931021571351948296069168">
     <tag k="addr:housenumber" v="403"/>
     <tag k="addr:street" v="Grefer Avenue"/>
     <tag k="addr:city" v="Harvey"/>
     <tag k="addr:postcode" v="70058"/>
   </node>
-  <node visible="true" id="-761" lat="29.90841703948524710199308174" lon="-90.07928141355566253878350835">
+  <node visible="true" id="-763" lat="29.90841703948524710199308174" lon="-90.07928141355566253878350835">
     <tag k="addr:housenumber" v="405"/>
     <tag k="addr:street" v="Grefer Avenue"/>
     <tag k="addr:city" v="Harvey"/>
     <tag k="addr:postcode" v="70058"/>
   </node>
-  <node visible="true" id="-762" lat="29.90883455618006081522253226" lon="-90.08193358213320323102379916"/>
-  <node visible="true" id="-763" lat="29.90922781586970202738484659" lon="-90.08206588721257901397621026"/>
-  <node visible="true" id="-764" lat="29.90927374753206535729077586" lon="-90.08188418507820927061402472"/>
-  <node visible="true" id="-765" lat="29.90888048802381504742697871" lon="-90.08175187999884769851632882"/>
-  <way visible="true" id="-115">
-    <nd ref="-762"/>
-    <nd ref="-763"/>
+  <node visible="true" id="-764" lat="29.90883455618006081522253226" lon="-90.08193358213320323102379916"/>
+  <node visible="true" id="-765" lat="29.90922781586970202738484659" lon="-90.08206588721257901397621026"/>
+  <node visible="true" id="-766" lat="29.90927374753206535729077586" lon="-90.08188418507820927061402472"/>
+  <node visible="true" id="-767" lat="29.90888048802381504742697871" lon="-90.08175187999884769851632882"/>
+  <way visible="true" id="-116">
     <nd ref="-764"/>
     <nd ref="-765"/>
-    <nd ref="-762"/>
+    <nd ref="-766"/>
+    <nd ref="-767"/>
+    <nd ref="-764"/>
     <tag k="building" v="yes"/>
-    <tag k="building:levels" v="1"/>
   </way>
-  <node visible="true" id="-766" lat="29.90892528226889979237057560" lon="-90.08184627565447044617030770">
+  <node visible="true" id="-768" lat="29.90892528226889979237057560" lon="-90.08184627565447044617030770">
     <tag k="addr:housenumber" v="302"/>
     <tag k="addr:street" v="Bark Drive"/>
     <tag k="addr:city" v="Harvey"/>
     <tag k="addr:postcode" v="70058"/>
   </node>
-  <node visible="true" id="-767" lat="29.90906221846454826618355582" lon="-90.08190723517098774664191296">
+  <node visible="true" id="-769" lat="29.90906221846454826618355582" lon="-90.08190723517098774664191296">
     <tag k="addr:housenumber" v="300"/>
     <tag k="addr:street" v="Bark Drive"/>
     <tag k="addr:city" v="Harvey"/>
     <tag k="addr:postcode" v="70058"/>
   </node>
-  <node visible="true" id="-768" lat="29.90856938758635052977297164" lon="-90.08337862668079765171569306"/>
-  <node visible="true" id="-769" lat="29.90854647796307475005050946" lon="-90.08336886638892337941797450"/>
-  <node visible="true" id="-770" lat="29.90854071218123522157839034" lon="-90.08338687802445576835452812"/>
-  <node visible="true" id="-771" lat="29.90856362180585747978511790" lon="-90.08339663831633004065224668"/>
-  <way visible="true" id="-116">
-    <nd ref="-768"/>
-    <nd ref="-769"/>
+  <node visible="true" id="-770" lat="29.90856938758635052977297164" lon="-90.08337862668079765171569306"/>
+  <node visible="true" id="-771" lat="29.90854647796307475005050946" lon="-90.08336886638892337941797450"/>
+  <node visible="true" id="-772" lat="29.90854071218123522157839034" lon="-90.08338687802445576835452812"/>
+  <node visible="true" id="-773" lat="29.90856362180585747978511790" lon="-90.08339663831633004065224668"/>
+  <way visible="true" id="-117">
     <nd ref="-770"/>
     <nd ref="-771"/>
-    <nd ref="-768"/>
-    <tag k="building" v="yes"/>
-  </way>
-  <node visible="true" id="-772" lat="29.90833901995078036861741566" lon="-90.07699810365475912021793192"/>
-  <node visible="true" id="-773" lat="29.90832752525085069805754756" lon="-90.07703521332689433620544150"/>
-  <node visible="true" id="-774" lat="29.90836391566846330647422292" lon="-90.07705021485578811279992806"/>
-  <node visible="true" id="-775" lat="29.90837541036419366946574883" lon="-90.07701310518365289681241848"/>
-  <way visible="true" id="-117">
     <nd ref="-772"/>
     <nd ref="-773"/>
-    <nd ref="-774"/>
-    <nd ref="-775"/>
-    <nd ref="-772"/>
+    <nd ref="-770"/>
     <tag k="building" v="yes"/>
   </way>
-  <node visible="true" id="-776" lat="29.90832291683973664930817904" lon="-90.07759772124386188352218596"/>
-  <node visible="true" id="-777" lat="29.90831730595222026636292867" lon="-90.07761883815311421130900271"/>
-  <node visible="true" id="-778" lat="29.90828625893713521577410575" lon="-90.07760785925449908972950652"/>
-  <node visible="true" id="-779" lat="29.90824251017806645336349902" lon="-90.07777251022169195948663400"/>
-  <node visible="true" id="-780" lat="29.90827664542800334857020061" lon="-90.07778458118208675386995310"/>
-  <node visible="true" id="-781" lat="29.90828681360856933224567911" lon="-90.07774631264393860874406528"/>
-  <node visible="true" id="-782" lat="29.90832220830082732732080331" lon="-90.07775882897594499354454456"/>
-  <node visible="true" id="-783" lat="29.90836139973777818568123621" lon="-90.07761132963766215198120335"/>
+  <node visible="true" id="-774" lat="29.90833901995078036861741566" lon="-90.07699810365475912021793192"/>
+  <node visible="true" id="-775" lat="29.90832752525085069805754756" lon="-90.07703521332689433620544150"/>
+  <node visible="true" id="-776" lat="29.90836391566846330647422292" lon="-90.07705021485578811279992806"/>
+  <node visible="true" id="-777" lat="29.90837541036419366946574883" lon="-90.07701310518365289681241848"/>
   <way visible="true" id="-118">
+    <nd ref="-774"/>
+    <nd ref="-775"/>
     <nd ref="-776"/>
     <nd ref="-777"/>
+    <nd ref="-774"/>
+    <tag k="building" v="yes"/>
+  </way>
+  <node visible="true" id="-778" lat="29.90832291683973664930817904" lon="-90.07759772124386188352218596"/>
+  <node visible="true" id="-779" lat="29.90831730595222026636292867" lon="-90.07761883815311421130900271"/>
+  <node visible="true" id="-780" lat="29.90828625893713521577410575" lon="-90.07760785925449908972950652"/>
+  <node visible="true" id="-781" lat="29.90824251017806645336349902" lon="-90.07777251022169195948663400"/>
+  <node visible="true" id="-782" lat="29.90827664542800334857020061" lon="-90.07778458118208675386995310"/>
+  <node visible="true" id="-783" lat="29.90828681360856933224567911" lon="-90.07774631264393860874406528"/>
+  <node visible="true" id="-784" lat="29.90832220830082732732080331" lon="-90.07775882897594499354454456"/>
+  <node visible="true" id="-785" lat="29.90836139973777818568123621" lon="-90.07761132963766215198120335"/>
+  <way visible="true" id="-119">
     <nd ref="-778"/>
     <nd ref="-779"/>
     <nd ref="-780"/>
     <nd ref="-781"/>
     <nd ref="-782"/>
     <nd ref="-783"/>
-    <nd ref="-776"/>
+    <nd ref="-784"/>
+    <nd ref="-785"/>
+    <nd ref="-778"/>
     <tag k="building" v="yes"/>
-    <tag k="building:levels" v="1"/>
     <tag k="addr:housenumber" v="430"/>
     <tag k="addr:street" v="Brown Avenue"/>
     <tag k="addr:city" v="Harvey"/>
     <tag k="addr:postcode" v="70058"/>
   </way>
-  <node visible="true" id="-784" lat="29.90858930059494014130905271" lon="-90.07812261256415808929887135"/>
-  <node visible="true" id="-785" lat="29.90859261033441640620367252" lon="-90.07810960829567648033844307"/>
-  <node visible="true" id="-786" lat="29.90861597466996357752577751" lon="-90.07811752239555858068342786"/>
-  <node visible="true" id="-787" lat="29.90863657503955863603550824" lon="-90.07803658163406623771152226"/>
-  <node visible="true" id="-788" lat="29.90861324051167002835427411" lon="-90.07802867762917742311401526"/>
-  <node visible="true" id="-789" lat="29.90860912520314585094638460" lon="-90.07804484705530967403319664"/>
-  <node visible="true" id="-790" lat="29.90853255742370109260264144" lon="-90.07801891159270724074303871"/>
-  <node visible="true" id="-791" lat="29.90851276260308821974831517" lon="-90.07809668719653473090147600"/>
-  <way visible="true" id="-119">
-    <nd ref="-784"/>
-    <nd ref="-785"/>
+  <node visible="true" id="-786" lat="29.90858930059494014130905271" lon="-90.07812261256415808929887135"/>
+  <node visible="true" id="-787" lat="29.90859261033441640620367252" lon="-90.07810960829567648033844307"/>
+  <node visible="true" id="-788" lat="29.90861597466996357752577751" lon="-90.07811752239555858068342786"/>
+  <node visible="true" id="-789" lat="29.90863657503955863603550824" lon="-90.07803658163406623771152226"/>
+  <node visible="true" id="-790" lat="29.90861324051167002835427411" lon="-90.07802867762917742311401526"/>
+  <node visible="true" id="-791" lat="29.90860912520314585094638460" lon="-90.07804484705530967403319664"/>
+  <node visible="true" id="-792" lat="29.90853255742370109260264144" lon="-90.07801891159270724074303871"/>
+  <node visible="true" id="-793" lat="29.90851276260308821974831517" lon="-90.07809668719653473090147600"/>
+  <way visible="true" id="-120">
     <nd ref="-786"/>
     <nd ref="-787"/>
     <nd ref="-788"/>
     <nd ref="-789"/>
     <nd ref="-790"/>
     <nd ref="-791"/>
-    <nd ref="-784"/>
+    <nd ref="-792"/>
+    <nd ref="-793"/>
+    <nd ref="-786"/>
     <tag k="building" v="yes"/>
-    <tag k="building:levels" v="2"/>
     <tag k="addr:housenumber" v="413"/>
     <tag k="addr:street" v="Pailet Avenue"/>
     <tag k="addr:city" v="Harvey"/>
     <tag k="addr:postcode" v="70058"/>
     <tag k="addr:unit" v="R"/>
   </way>
-  <node visible="true" id="-792" lat="29.90877303087385286062271916" lon="-90.07806269552479250251053600"/>
-  <node visible="true" id="-793" lat="29.90870026423001704074522422" lon="-90.07803634400551118233124726"/>
-  <node visible="true" id="-794" lat="29.90868514434285785341671726" lon="-90.07808963181736316983005963"/>
-  <node visible="true" id="-795" lat="29.90875854299680369763336785" lon="-90.07811669310125068932393333"/>
-  <node visible="true" id="-796" lat="29.90876759695122899529451388" lon="-90.07808285466151687614910770"/>
-  <way visible="true" id="-120">
-    <nd ref="-792"/>
-    <nd ref="-793"/>
+  <node visible="true" id="-794" lat="29.90877303087385286062271916" lon="-90.07806269552479250251053600"/>
+  <node visible="true" id="-795" lat="29.90870026423001704074522422" lon="-90.07803634400551118233124726"/>
+  <node visible="true" id="-796" lat="29.90868514434285785341671726" lon="-90.07808963181736316983005963"/>
+  <node visible="true" id="-797" lat="29.90875854299680369763336785" lon="-90.07811669310125068932393333"/>
+  <node visible="true" id="-798" lat="29.90876759695122899529451388" lon="-90.07808285466151687614910770"/>
+  <way visible="true" id="-121">
     <nd ref="-794"/>
     <nd ref="-795"/>
     <nd ref="-796"/>
-    <nd ref="-792"/>
-    <tag k="building" v="yes"/>
-  </way>
-  <node visible="true" id="-797" lat="29.90767529451775530446866469" lon="-90.07759057190450846519524930"/>
-  <node visible="true" id="-798" lat="29.90756648490365066095364455" lon="-90.07755205341526050233369460"/>
-  <node visible="true" id="-799" lat="29.90754934014972477029914444" lon="-90.07761650902213546032726299"/>
-  <node visible="true" id="-800" lat="29.90765814978248471334154601" lon="-90.07765502751138342318881769"/>
-  <way visible="true" id="-121">
     <nd ref="-797"/>
     <nd ref="-798"/>
-    <nd ref="-799"/>
-    <nd ref="-800"/>
-    <nd ref="-797"/>
+    <nd ref="-794"/>
     <tag k="building" v="yes"/>
   </way>
-  <node visible="true" id="-801" lat="29.90768678369676791817255435" lon="-90.07899556372206006926717237"/>
-  <node visible="true" id="-802" lat="29.90767946263960297414996603" lon="-90.07902401762414967834047275"/>
-  <node visible="true" id="-803" lat="29.90772138601923302303475793" lon="-90.07903837319821604978642426"/>
-  <node visible="true" id="-804" lat="29.90775834150037582048753393" lon="-90.07889474254257322627381654"/>
-  <node visible="true" id="-805" lat="29.90768209183380221816150879" lon="-90.07886863281656530944019323"/>
-  <node visible="true" id="-806" lat="29.90765245738404942699162348" lon="-90.07898380957014694558893098"/>
+  <node visible="true" id="-799" lat="29.90774704196503819275676506" lon="-90.07693814765299578084523091"/>
+  <node visible="true" id="-800" lat="29.90774168502248997469905589" lon="-90.07695131528005560994643020"/>
+  <node visible="true" id="-801" lat="29.90767420468566228919371497" lon="-90.07691477942071855977701489"/>
+  <node visible="true" id="-802" lat="29.90764396175080364059795102" lon="-90.07698911797150742586381966"/>
+  <node visible="true" id="-803" lat="29.90769714280028779285203200" lon="-90.07701791176103256475471426"/>
+  <node visible="true" id="-804" lat="29.90769486973029245291400002" lon="-90.07702349907566485853749327"/>
+  <node visible="true" id="-805" lat="29.90773555062878585886210203" lon="-90.07704552492444349809375126"/>
+  <node visible="true" id="-806" lat="29.90777342354540024871312198" lon="-90.07695243143196250912296819"/>
   <way visible="true" id="-122">
+    <nd ref="-799"/>
+    <nd ref="-800"/>
     <nd ref="-801"/>
     <nd ref="-802"/>
     <nd ref="-803"/>
     <nd ref="-804"/>
     <nd ref="-805"/>
     <nd ref="-806"/>
-    <nd ref="-801"/>
+    <nd ref="-799"/>
     <tag k="building" v="yes"/>
-    <tag k="building:levels" v="1"/>
-    <tag k="addr:housenumber" v="435"/>
-    <tag k="addr:street" v="Grefer Avenue"/>
+    <tag k="addr:housenumber" v="449"/>
+    <tag k="addr:street" v="Brown Avenue"/>
     <tag k="addr:city" v="Harvey"/>
     <tag k="addr:postcode" v="70058"/>
   </way>
-  <node visible="true" id="-807" lat="29.91165217575828805252058373" lon="-90.08021939312699544188944856"/>
-  <node visible="true" id="-808" lat="29.91162388218817014262640441" lon="-90.08031910798628416614519665"/>
-  <node visible="true" id="-809" lat="29.91159437141265442505755345" lon="-90.08030796311408039400703274"/>
-  <node visible="true" id="-810" lat="29.91158247203129150193490204" lon="-90.08034990001141295579145662"/>
-  <node visible="true" id="-811" lat="29.91172547273673743006838777" lon="-90.08040390487161630517221056"/>
-  <node visible="true" id="-812" lat="29.91176566563886396465932194" lon="-90.08026225311496659742260817"/>
+  <node visible="true" id="-807" lat="29.90766767838379180943775282" lon="-90.07771697273852851139963605"/>
+  <node visible="true" id="-808" lat="29.90762726483223232776254008" lon="-90.07786888746286990681255702"/>
+  <node visible="true" id="-809" lat="29.90773578865235649004716834" lon="-90.07790730984581273332878482"/>
+  <node visible="true" id="-810" lat="29.90777616341065225924467086" lon="-90.07775554078017421488766558"/>
+  <node visible="true" id="-811" lat="29.90777616188398724261787720" lon="-90.07775538086197286702372367"/>
   <way visible="true" id="-123">
     <nd ref="-807"/>
     <nd ref="-808"/>
     <nd ref="-809"/>
     <nd ref="-810"/>
     <nd ref="-811"/>
-    <nd ref="-812"/>
     <nd ref="-807"/>
     <tag k="building" v="yes"/>
-    <tag k="building:levels" v="1"/>
-    <tag k="addr:housenumber" v="111"/>
-    <tag k="addr:street" v="Grefer Lane"/>
+    <tag k="addr:housenumber" v="437"/>
+    <tag k="addr:street" v="Pailet Avenue"/>
     <tag k="addr:city" v="Harvey"/>
     <tag k="addr:postcode" v="70058"/>
   </way>
-  <node visible="true" id="-813" lat="29.90832172625918516928322788" lon="-90.07847447469310964152100496"/>
-  <node visible="true" id="-814" lat="29.90832443857964761946277576" lon="-90.07846358650365914400026668"/>
-  <node visible="true" id="-815" lat="29.90830867838931794722157065" lon="-90.07845836152424112697190139"/>
-  <node visible="true" id="-816" lat="29.90830603184648950332302775" lon="-90.07846898565772164602094563"/>
-  <node visible="true" id="-817" lat="29.90827216864571269638872764" lon="-90.07845775898628915001609130"/>
-  <node visible="true" id="-818" lat="29.90823884565193679918593261" lon="-90.07859152887957066013768781"/>
-  <node visible="true" id="-819" lat="29.90827169160099074929348717" lon="-90.07860241829769165633479133"/>
-  <node visible="true" id="-820" lat="29.90826401923592214870950556" lon="-90.07863321779878162942623021"/>
-  <node visible="true" id="-821" lat="29.90829657456849233199136506" lon="-90.07864401087152828040416352"/>
-  <node visible="true" id="-822" lat="29.90830383699814731812693935" lon="-90.07861485698209946804126957"/>
-  <node visible="true" id="-823" lat="29.90830889847005025217185903" lon="-90.07861653501284138201299356"/>
-  <node visible="true" id="-824" lat="29.90834256559503501193830743" lon="-90.07848138356386868963454617"/>
+  <node visible="true" id="-812" lat="29.90762920559086879279675486" lon="-90.07742272691810114793042885"/>
+  <node visible="true" id="-813" lat="29.90763292698357034282707900" lon="-90.07742403665885433383664349"/>
+  <node visible="true" id="-814" lat="29.90762452145065353192876501" lon="-90.07745582129047079433803447"/>
+  <node visible="true" id="-815" lat="29.90770294050886590753179917" lon="-90.07748342081561077065998688"/>
+  <node visible="true" id="-816" lat="29.90771077420514956202168833" lon="-90.07745379850035760682658292"/>
+  <node visible="true" id="-817" lat="29.90770542593289249566623766" lon="-90.07745191617935631711588940"/>
+  <node visible="true" id="-818" lat="29.90771325897684462802317285" lon="-90.07742229633024066970392596"/>
+  <node visible="true" id="-819" lat="29.90772189058427699137610034" lon="-90.07742533421925656966777751"/>
+  <node visible="true" id="-820" lat="29.90773662039609348539670464" lon="-90.07736963494136261942912824"/>
+  <node visible="true" id="-821" lat="29.90772698470215829047447187" lon="-90.07736624366421551712846849"/>
+  <node visible="true" id="-822" lat="29.90773384744695562176275416" lon="-90.07734029289588306710356846"/>
+  <node visible="true" id="-823" lat="29.90770012147839551630568167" lon="-90.07732842306174347868363839"/>
+  <node visible="true" id="-824" lat="29.90770082036421584348317992" lon="-90.07732578029725800661253743"/>
+  <node visible="true" id="-825" lat="29.90765875827094433248021232" lon="-90.07731097657462271399708698"/>
   <way visible="true" id="-124">
+    <nd ref="-812"/>
     <nd ref="-813"/>
     <nd ref="-814"/>
     <nd ref="-815"/>
@@ -2635,84 +2558,65 @@
     <nd ref="-822"/>
     <nd ref="-823"/>
     <nd ref="-824"/>
-    <nd ref="-813"/>
+    <nd ref="-825"/>
+    <nd ref="-812"/>
     <tag k="building" v="yes"/>
-    <tag k="building:levels" v="1"/>
-    <tag k="addr:housenumber" v="416"/>
-    <tag k="addr:street" v="Pailet Avenue"/>
+    <tag k="addr:housenumber" v="450"/>
+    <tag k="addr:street" v="Brown Avenue"/>
     <tag k="addr:city" v="Harvey"/>
     <tag k="addr:postcode" v="70058"/>
   </way>
-  <node visible="true" id="-825" lat="29.90805108532315159663994564" lon="-90.07885693495438772515626624"/>
-  <node visible="true" id="-826" lat="29.90801219796114551741084142" lon="-90.07884343392399273398041259"/>
-  <node visible="true" id="-827" lat="29.90799651692405092262561084" lon="-90.07890354458552906180557329"/>
-  <node visible="true" id="-828" lat="29.90803540429218188023696712" lon="-90.07891704561590984212671174"/>
+  <node visible="true" id="-826" lat="29.90827371432101955406324123" lon="-90.07726755103035998217819724"/>
+  <node visible="true" id="-827" lat="29.90830537208081452149599500" lon="-90.07716954904947215254651383"/>
+  <node visible="true" id="-828" lat="29.90828057090967462272601551" lon="-90.07715888664741044067341136"/>
+  <node visible="true" id="-829" lat="29.90827321965040397344637313" lon="-90.07718164371826219394279178"/>
+  <node visible="true" id="-830" lat="29.90821368041694938710861607" lon="-90.07715604690565669443458319"/>
+  <node visible="true" id="-831" lat="29.90818937389403586735170393" lon="-90.07723129181572119250631658"/>
   <way visible="true" id="-125">
-    <nd ref="-825"/>
     <nd ref="-826"/>
     <nd ref="-827"/>
     <nd ref="-828"/>
-    <nd ref="-825"/>
-    <tag k="building" v="yes"/>
-  </way>
-  <node visible="true" id="-829" lat="29.90765154410947346264038060" lon="-90.07943599155706237979757134"/>
-  <node visible="true" id="-830" lat="29.90772236419597973622330755" lon="-90.07945966986076768989732955"/>
-  <node visible="true" id="-831" lat="29.90775112961273407563567162" lon="-90.07934516892790099973353790"/>
-  <node visible="true" id="-832" lat="29.90768030954667722198792035" lon="-90.07932149062419568963377969"/>
-  <way visible="true" id="-126">
     <nd ref="-829"/>
     <nd ref="-830"/>
     <nd ref="-831"/>
-    <nd ref="-832"/>
-    <nd ref="-829"/>
+    <nd ref="-826"/>
     <tag k="building" v="yes"/>
-    <tag k="building:levels" v="1"/>
-    <tag k="addr:housenumber" v="416"/>
-    <tag k="addr:street" v="Grefer Avenue"/>
+    <tag k="addr:housenumber" v="435"/>
+    <tag k="addr:street" v="Brown Avenue"/>
     <tag k="addr:city" v="Harvey"/>
     <tag k="addr:postcode" v="70058"/>
   </way>
-  <node visible="true" id="-833" lat="29.90773602638344641491130460" lon="-90.07960067431142192617699038"/>
-  <node visible="true" id="-834" lat="29.90770652039473276317949058" lon="-90.07959046838078620567102917"/>
-  <node visible="true" id="-835" lat="29.90769167791766491859561938" lon="-90.07964757631087593381380429"/>
-  <node visible="true" id="-836" lat="29.90772118391075906629339443" lon="-90.07965778224152586517448071"/>
-  <way visible="true" id="-127">
+  <node visible="true" id="-832" lat="29.91020863656867945223893912" lon="-90.08220262275665390916401520"/>
+  <node visible="true" id="-833" lat="29.91018393140316078415708034" lon="-90.08219343240480725398811046"/>
+  <node visible="true" id="-834" lat="29.91016146611744375150010455" lon="-90.08227380752346391545870574"/>
+  <node visible="true" id="-835" lat="29.91018529276184523268966586" lon="-90.08228267106233033700846136"/>
+  <node visible="true" id="-836" lat="29.91018108743628189927221683" lon="-90.08229771665675400527106831"/>
+  <node visible="true" id="-837" lat="29.91028549872432407141786825" lon="-90.08233655779824289311363827"/>
+  <node visible="true" id="-838" lat="29.91031407271659858793100284" lon="-90.08223432713988643172342563"/>
+  <node visible="true" id="-839" lat="29.91031590130161887941540044" lon="-90.08221307297142743664153386"/>
+  <node visible="true" id="-840" lat="29.91021609335013309305395524" lon="-90.08217594426523078254831489"/>
+  <way visible="true" id="-126">
+    <nd ref="-832"/>
     <nd ref="-833"/>
     <nd ref="-834"/>
     <nd ref="-835"/>
     <nd ref="-836"/>
-    <nd ref="-833"/>
-    <tag k="building" v="yes"/>
-  </way>
-  <node visible="true" id="-837" lat="29.90770422204343503835843876" lon="-90.08114892775245152733987197"/>
-  <node visible="true" id="-838" lat="29.90767366903284241175242641" lon="-90.08126097659031472630886128"/>
-  <node visible="true" id="-839" lat="29.90793455974499437388658407" lon="-90.08135565218958618061151356"/>
-  <node visible="true" id="-840" lat="29.90796511267557988844600914" lon="-90.08124360335170877078780904"/>
-  <way visible="true" id="-128">
     <nd ref="-837"/>
     <nd ref="-838"/>
     <nd ref="-839"/>
     <nd ref="-840"/>
-    <nd ref="-837"/>
+    <nd ref="-832"/>
     <tag k="building" v="yes"/>
-    <tag k="addr:housenumber" v="2800"/>
-    <tag k="addr:street" v="4th Street"/>
-    <tag k="addr:city" v="Harvey"/>
-    <tag k="addr:postcode" v="70058"/>
   </way>
-  <node visible="true" id="-841" lat="29.90818563713414945937074663" lon="-90.07799194595062886037339922"/>
-  <node visible="true" id="-842" lat="29.90818300190199963140003092" lon="-90.07799103854524958023830550"/>
-  <node visible="true" id="-843" lat="29.90815250019138105130878102" lon="-90.07810892889709464270708850"/>
-  <node visible="true" id="-844" lat="29.90818285613852012261304480" lon="-90.07811938154169695280870656"/>
-  <node visible="true" id="-845" lat="29.90817670266079630891908891" lon="-90.07814316498620144102460472"/>
-  <node visible="true" id="-846" lat="29.90821955464504000588021881" lon="-90.07815792047041725254530320"/>
-  <node visible="true" id="-847" lat="29.90823268181306460178348061" lon="-90.07810718340250843993999297"/>
-  <node visible="true" id="-848" lat="29.90826177520178674740236602" lon="-90.07811720131081756335333921"/>
-  <node visible="true" id="-849" lat="29.90831120841482615446693671" lon="-90.07792613970470085860142717"/>
-  <node visible="true" id="-850" lat="29.90826809505846028969244799" lon="-90.07791129420698439389525447"/>
-  <node visible="true" id="-851" lat="29.90824967778546650265525386" lon="-90.07798247778111999650718644"/>
-  <node visible="true" id="-852" lat="29.90819312510119942771780188" lon="-90.07796300464706007460335968"/>
-  <way visible="true" id="-129">
+  <node visible="true" id="-841" lat="29.91079903572902409791822720" lon="-90.08187984747219445580412867"/>
+  <node visible="true" id="-842" lat="29.91048059825432758884744544" lon="-90.08176873592874756013770821"/>
+  <node visible="true" id="-843" lat="29.91047099414059928790265985" lon="-90.08180536952818329154979438"/>
+  <node visible="true" id="-844" lat="29.91045450425918872383590497" lon="-90.08179961576783512100519147"/>
+  <node visible="true" id="-845" lat="29.91044441971803280466701835" lon="-90.08183808188286434415203985"/>
+  <node visible="true" id="-846" lat="29.91046125437327773965989763" lon="-90.08184395594342674939980498"/>
+  <node visible="true" id="-847" lat="29.91044980778012529754050774" lon="-90.08188761742364647489011986"/>
+  <node visible="true" id="-848" lat="29.91076790058212608869325777" lon="-90.08199860866686492499866290"/>
+  <way visible="true" id="-127">
     <nd ref="-841"/>
     <nd ref="-842"/>
     <nd ref="-843"/>
@@ -2721,159 +2625,178 @@
     <nd ref="-846"/>
     <nd ref="-847"/>
     <nd ref="-848"/>
+    <nd ref="-841"/>
+    <tag k="building" v="yes"/>
+    <tag k="addr:housenumber" v="2713"/>
+    <tag k="addr:street" v="Oak Drive"/>
+    <tag k="addr:city" v="Harvey"/>
+    <tag k="addr:postcode" v="70058"/>
+  </way>
+  <node visible="true" id="-849" lat="29.91033337592600815924015478" lon="-90.07982345730489726065570721"/>
+  <node visible="true" id="-850" lat="29.91033896573810935137771594" lon="-90.07980670043569659810600569"/>
+  <node visible="true" id="-851" lat="29.91032029253536350665854116" lon="-90.07979840997839460214891005"/>
+  <node visible="true" id="-852" lat="29.91031517588139365670940606" lon="-90.07981374843410549146938138"/>
+  <node visible="true" id="-853" lat="29.91023270658349630934935703" lon="-90.07977713405037434313271660"/>
+  <node visible="true" id="-854" lat="29.91010375683080013686776510" lon="-90.08016369274984924686577870"/>
+  <node visible="true" id="-855" lat="29.91025758655765187654651527" lon="-90.08023198938286668635555543"/>
+  <node visible="true" id="-856" lat="29.91028431526996911316018668" lon="-90.08015186339031288298428990"/>
+  <node visible="true" id="-857" lat="29.91031065132153443641982449" lon="-90.08016355596622304346965393"/>
+  <node visible="true" id="-858" lat="29.91032765282938754580754903" lon="-90.08011258967441392542241374"/>
+  <node visible="true" id="-859" lat="29.91030217539629632028663764" lon="-90.08010127830254987202351913"/>
+  <node visible="true" id="-860" lat="29.91038692156556777490550303" lon="-90.07984723030094187379290815"/>
+  <way visible="true" id="-128">
     <nd ref="-849"/>
     <nd ref="-850"/>
     <nd ref="-851"/>
     <nd ref="-852"/>
-    <nd ref="-841"/>
-    <tag k="building" v="yes"/>
-    <tag k="building:levels" v="1"/>
-    <tag k="addr:housenumber" v="421"/>
-    <tag k="addr:street" v="Pailet Avenue"/>
-    <tag k="addr:city" v="Harvey"/>
-    <tag k="addr:postcode" v="70058"/>
-  </way>
-  <node visible="true" id="-853" lat="29.90766767838379180943775282" lon="-90.07771697273852851139963605"/>
-  <node visible="true" id="-854" lat="29.90762726483223232776254008" lon="-90.07786888746286990681255702"/>
-  <node visible="true" id="-855" lat="29.90773578865235649004716834" lon="-90.07790730984581273332878482"/>
-  <node visible="true" id="-856" lat="29.90777616341065225924467086" lon="-90.07775554078017421488766558"/>
-  <node visible="true" id="-857" lat="29.90777616188398724261787720" lon="-90.07775538086197286702372367"/>
-  <way visible="true" id="-130">
     <nd ref="-853"/>
     <nd ref="-854"/>
     <nd ref="-855"/>
     <nd ref="-856"/>
     <nd ref="-857"/>
-    <nd ref="-853"/>
-    <tag k="building" v="yes"/>
-    <tag k="building:levels" v="2"/>
-    <tag k="addr:housenumber" v="437"/>
-    <tag k="addr:street" v="Pailet Avenue"/>
-    <tag k="addr:city" v="Harvey"/>
-    <tag k="addr:postcode" v="70058"/>
-  </way>
-  <node visible="true" id="-858" lat="29.90762920559086879279675486" lon="-90.07742272691810114793042885"/>
-  <node visible="true" id="-859" lat="29.90763292698357034282707900" lon="-90.07742403665885433383664349"/>
-  <node visible="true" id="-860" lat="29.90762452145065353192876501" lon="-90.07745582129047079433803447"/>
-  <node visible="true" id="-861" lat="29.90770294050886590753179917" lon="-90.07748342081561077065998688"/>
-  <node visible="true" id="-862" lat="29.90771077420514956202168833" lon="-90.07745379850035760682658292"/>
-  <node visible="true" id="-863" lat="29.90770542593289249566623766" lon="-90.07745191617935631711588940"/>
-  <node visible="true" id="-864" lat="29.90771325897684462802317285" lon="-90.07742229633024066970392596"/>
-  <node visible="true" id="-865" lat="29.90772189058427699137610034" lon="-90.07742533421925656966777751"/>
-  <node visible="true" id="-866" lat="29.90773662039609348539670464" lon="-90.07736963494136261942912824"/>
-  <node visible="true" id="-867" lat="29.90772698470215829047447187" lon="-90.07736624366421551712846849"/>
-  <node visible="true" id="-868" lat="29.90773384744695562176275416" lon="-90.07734029289588306710356846"/>
-  <node visible="true" id="-869" lat="29.90770012147839551630568167" lon="-90.07732842306174347868363839"/>
-  <node visible="true" id="-870" lat="29.90770082036421584348317992" lon="-90.07732578029725800661253743"/>
-  <node visible="true" id="-871" lat="29.90765875827094433248021232" lon="-90.07731097657462271399708698"/>
-  <way visible="true" id="-131">
     <nd ref="-858"/>
     <nd ref="-859"/>
     <nd ref="-860"/>
+    <nd ref="-849"/>
+    <tag k="building" v="yes"/>
+    <tag k="addr:housenumber" v="213"/>
+    <tag k="addr:street" v="Grefer Lane"/>
+    <tag k="addr:city" v="Harvey"/>
+    <tag k="addr:postcode" v="70058"/>
+  </way>
+  <node visible="true" id="-861" lat="29.90944299067719214235694380" lon="-90.07975471648600773733051028"/>
+  <node visible="true" id="-862" lat="29.90942748572122411587770330" lon="-90.07981453130564375442190794"/>
+  <node visible="true" id="-863" lat="29.90947823268161442911150516" lon="-90.07983203861343213247891981"/>
+  <node visible="true" id="-864" lat="29.90949373762967056222805695" lon="-90.07977222379378190453280695"/>
+  <way visible="true" id="-129">
     <nd ref="-861"/>
     <nd ref="-862"/>
     <nd ref="-863"/>
     <nd ref="-864"/>
+    <nd ref="-861"/>
+    <tag k="building" v="yes"/>
+  </way>
+  <node visible="true" id="-865" lat="29.91165217575828805252058373" lon="-90.08021939312699544188944856"/>
+  <node visible="true" id="-866" lat="29.91162388218817014262640441" lon="-90.08031910798628416614519665"/>
+  <node visible="true" id="-867" lat="29.91159437141265442505755345" lon="-90.08030796311408039400703274"/>
+  <node visible="true" id="-868" lat="29.91158247203129150193490204" lon="-90.08034990001141295579145662"/>
+  <node visible="true" id="-869" lat="29.91172547273673743006838777" lon="-90.08040390487161630517221056"/>
+  <node visible="true" id="-870" lat="29.91176566563886396465932194" lon="-90.08026225311496659742260817"/>
+  <way visible="true" id="-130">
     <nd ref="-865"/>
     <nd ref="-866"/>
     <nd ref="-867"/>
     <nd ref="-868"/>
     <nd ref="-869"/>
     <nd ref="-870"/>
-    <nd ref="-871"/>
-    <nd ref="-858"/>
+    <nd ref="-865"/>
     <tag k="building" v="yes"/>
-    <tag k="building:levels" v="1"/>
-    <tag k="addr:housenumber" v="450"/>
-    <tag k="addr:street" v="Brown Avenue"/>
+    <tag k="addr:housenumber" v="111"/>
+    <tag k="addr:street" v="Grefer Lane"/>
     <tag k="addr:city" v="Harvey"/>
     <tag k="addr:postcode" v="70058"/>
   </way>
-  <node visible="true" id="-872" lat="29.90827371432101955406324123" lon="-90.07726755103035998217819724"/>
-  <node visible="true" id="-873" lat="29.90830537208081452149599500" lon="-90.07716954904947215254651383"/>
-  <node visible="true" id="-874" lat="29.90828057090967462272601551" lon="-90.07715888664741044067341136"/>
-  <node visible="true" id="-875" lat="29.90827321965040397344637313" lon="-90.07718164371826219394279178"/>
-  <node visible="true" id="-876" lat="29.90821368041694938710861607" lon="-90.07715604690565669443458319"/>
-  <node visible="true" id="-877" lat="29.90818937389403586735170393" lon="-90.07723129181572119250631658"/>
-  <way visible="true" id="-132">
+  <node visible="true" id="-871" lat="29.90832172625918516928322788" lon="-90.07847447469310964152100496"/>
+  <node visible="true" id="-872" lat="29.90832443857964761946277576" lon="-90.07846358650365914400026668"/>
+  <node visible="true" id="-873" lat="29.90830867838931794722157065" lon="-90.07845836152424112697190139"/>
+  <node visible="true" id="-874" lat="29.90830603184648950332302775" lon="-90.07846898565772164602094563"/>
+  <node visible="true" id="-875" lat="29.90827216864571269638872764" lon="-90.07845775898628915001609130"/>
+  <node visible="true" id="-876" lat="29.90823884565193679918593261" lon="-90.07859152887957066013768781"/>
+  <node visible="true" id="-877" lat="29.90827169160099074929348717" lon="-90.07860241829769165633479133"/>
+  <node visible="true" id="-878" lat="29.90826401923592214870950556" lon="-90.07863321779878162942623021"/>
+  <node visible="true" id="-879" lat="29.90829657456849233199136506" lon="-90.07864401087152828040416352"/>
+  <node visible="true" id="-880" lat="29.90830383699814731812693935" lon="-90.07861485698209946804126957"/>
+  <node visible="true" id="-881" lat="29.90830889847005025217185903" lon="-90.07861653501284138201299356"/>
+  <node visible="true" id="-882" lat="29.90834256559503501193830743" lon="-90.07848138356386868963454617"/>
+  <way visible="true" id="-131">
+    <nd ref="-871"/>
     <nd ref="-872"/>
     <nd ref="-873"/>
     <nd ref="-874"/>
     <nd ref="-875"/>
     <nd ref="-876"/>
     <nd ref="-877"/>
-    <nd ref="-872"/>
-    <tag k="building" v="yes"/>
-    <tag k="building:levels" v="1"/>
-    <tag k="addr:housenumber" v="435"/>
-    <tag k="addr:street" v="Brown Avenue"/>
-    <tag k="addr:city" v="Harvey"/>
-    <tag k="addr:postcode" v="70058"/>
-  </way>
-  <node visible="true" id="-878" lat="29.91020863656867945223893912" lon="-90.08220262275665390916401520"/>
-  <node visible="true" id="-879" lat="29.91018393140316078415708034" lon="-90.08219343240480725398811046"/>
-  <node visible="true" id="-880" lat="29.91016146611744375150010455" lon="-90.08227380752346391545870574"/>
-  <node visible="true" id="-881" lat="29.91018529276184523268966586" lon="-90.08228267106233033700846136"/>
-  <node visible="true" id="-882" lat="29.91018108743628189927221683" lon="-90.08229771665675400527106831"/>
-  <node visible="true" id="-883" lat="29.91028549872432407141786825" lon="-90.08233655779824289311363827"/>
-  <node visible="true" id="-884" lat="29.91031407271659858793100284" lon="-90.08223432713988643172342563"/>
-  <node visible="true" id="-885" lat="29.91031590130161887941540044" lon="-90.08221307297142743664153386"/>
-  <node visible="true" id="-886" lat="29.91021609335013309305395524" lon="-90.08217594426523078254831489"/>
-  <way visible="true" id="-133">
     <nd ref="-878"/>
     <nd ref="-879"/>
     <nd ref="-880"/>
     <nd ref="-881"/>
     <nd ref="-882"/>
+    <nd ref="-871"/>
+    <tag k="building" v="yes"/>
+    <tag k="addr:housenumber" v="416"/>
+    <tag k="addr:street" v="Pailet Avenue"/>
+    <tag k="addr:city" v="Harvey"/>
+    <tag k="addr:postcode" v="70058"/>
+  </way>
+  <node visible="true" id="-883" lat="29.90805108532315159663994564" lon="-90.07885693495438772515626624"/>
+  <node visible="true" id="-884" lat="29.90801219796114551741084142" lon="-90.07884343392399273398041259"/>
+  <node visible="true" id="-885" lat="29.90799651692405092262561084" lon="-90.07890354458552906180557329"/>
+  <node visible="true" id="-886" lat="29.90803540429218188023696712" lon="-90.07891704561590984212671174"/>
+  <way visible="true" id="-132">
     <nd ref="-883"/>
     <nd ref="-884"/>
     <nd ref="-885"/>
     <nd ref="-886"/>
-    <nd ref="-878"/>
+    <nd ref="-883"/>
     <tag k="building" v="yes"/>
   </way>
-  <node visible="true" id="-887" lat="29.91079903572902409791822720" lon="-90.08187984747219445580412867"/>
-  <node visible="true" id="-888" lat="29.91048059825432758884744544" lon="-90.08176873592874756013770821"/>
-  <node visible="true" id="-889" lat="29.91047099414059928790265985" lon="-90.08180536952818329154979438"/>
-  <node visible="true" id="-890" lat="29.91045450425918872383590497" lon="-90.08179961576783512100519147"/>
-  <node visible="true" id="-891" lat="29.91044441971803280466701835" lon="-90.08183808188286434415203985"/>
-  <node visible="true" id="-892" lat="29.91046125437327773965989763" lon="-90.08184395594342674939980498"/>
-  <node visible="true" id="-893" lat="29.91044980778012529754050774" lon="-90.08188761742364647489011986"/>
-  <node visible="true" id="-894" lat="29.91076790058212608869325777" lon="-90.08199860866686492499866290"/>
-  <way visible="true" id="-134">
+  <node visible="true" id="-887" lat="29.90765154410947346264038060" lon="-90.07943599155706237979757134"/>
+  <node visible="true" id="-888" lat="29.90772236419597973622330755" lon="-90.07945966986076768989732955"/>
+  <node visible="true" id="-889" lat="29.90775112961273407563567162" lon="-90.07934516892790099973353790"/>
+  <node visible="true" id="-890" lat="29.90768030954667722198792035" lon="-90.07932149062419568963377969"/>
+  <way visible="true" id="-133">
     <nd ref="-887"/>
     <nd ref="-888"/>
     <nd ref="-889"/>
     <nd ref="-890"/>
+    <nd ref="-887"/>
+    <tag k="building" v="yes"/>
+    <tag k="addr:housenumber" v="416"/>
+    <tag k="addr:street" v="Grefer Avenue"/>
+    <tag k="addr:city" v="Harvey"/>
+    <tag k="addr:postcode" v="70058"/>
+  </way>
+  <node visible="true" id="-891" lat="29.90773602638344641491130460" lon="-90.07960067431142192617699038"/>
+  <node visible="true" id="-892" lat="29.90770652039473276317949058" lon="-90.07959046838078620567102917"/>
+  <node visible="true" id="-893" lat="29.90769167791766491859561938" lon="-90.07964757631087593381380429"/>
+  <node visible="true" id="-894" lat="29.90772118391075906629339443" lon="-90.07965778224152586517448071"/>
+  <way visible="true" id="-134">
     <nd ref="-891"/>
     <nd ref="-892"/>
     <nd ref="-893"/>
     <nd ref="-894"/>
-    <nd ref="-887"/>
+    <nd ref="-891"/>
     <tag k="building" v="yes"/>
-    <tag k="building:levels" v="1"/>
-    <tag k="addr:housenumber" v="2713"/>
-    <tag k="addr:street" v="Oak Drive"/>
-    <tag k="addr:city" v="Harvey"/>
-    <tag k="addr:postcode" v="70058"/>
   </way>
-  <node visible="true" id="-895" lat="29.91033337592600815924015478" lon="-90.07982345730489726065570721"/>
-  <node visible="true" id="-896" lat="29.91033896573810935137771594" lon="-90.07980670043569659810600569"/>
-  <node visible="true" id="-897" lat="29.91032029253536350665854116" lon="-90.07979840997839460214891005"/>
-  <node visible="true" id="-898" lat="29.91031517588139365670940606" lon="-90.07981374843410549146938138"/>
-  <node visible="true" id="-899" lat="29.91023270658349630934935703" lon="-90.07977713405037434313271660"/>
-  <node visible="true" id="-900" lat="29.91010375683080013686776510" lon="-90.08016369274984924686577870"/>
-  <node visible="true" id="-901" lat="29.91025758655765187654651527" lon="-90.08023198938286668635555543"/>
-  <node visible="true" id="-902" lat="29.91028431526996911316018668" lon="-90.08015186339031288298428990"/>
-  <node visible="true" id="-903" lat="29.91031065132153443641982449" lon="-90.08016355596622304346965393"/>
-  <node visible="true" id="-904" lat="29.91032765282938754580754903" lon="-90.08011258967441392542241374"/>
-  <node visible="true" id="-905" lat="29.91030217539629632028663764" lon="-90.08010127830254987202351913"/>
-  <node visible="true" id="-906" lat="29.91038692156556777490550303" lon="-90.07984723030094187379290815"/>
+  <node visible="true" id="-895" lat="29.90770422204343503835843876" lon="-90.08114892775245152733987197"/>
+  <node visible="true" id="-896" lat="29.90767366903284241175242641" lon="-90.08126097659031472630886128"/>
+  <node visible="true" id="-897" lat="29.90793455974499437388658407" lon="-90.08135565218958618061151356"/>
+  <node visible="true" id="-898" lat="29.90796511267557988844600914" lon="-90.08124360335170877078780904"/>
   <way visible="true" id="-135">
     <nd ref="-895"/>
     <nd ref="-896"/>
     <nd ref="-897"/>
     <nd ref="-898"/>
+    <nd ref="-895"/>
+    <tag k="building" v="yes"/>
+    <tag k="addr:housenumber" v="2800"/>
+    <tag k="addr:street" v="4th Street"/>
+    <tag k="addr:city" v="Harvey"/>
+    <tag k="addr:postcode" v="70058"/>
+  </way>
+  <node visible="true" id="-899" lat="29.90818563713414945937074663" lon="-90.07799194595062886037339922"/>
+  <node visible="true" id="-900" lat="29.90818300190199963140003092" lon="-90.07799103854524958023830550"/>
+  <node visible="true" id="-901" lat="29.90815250019138105130878102" lon="-90.07810892889709464270708850"/>
+  <node visible="true" id="-902" lat="29.90818285613852012261304480" lon="-90.07811938154169695280870656"/>
+  <node visible="true" id="-903" lat="29.90817670266079630891908891" lon="-90.07814316498620144102460472"/>
+  <node visible="true" id="-904" lat="29.90821955464504000588021881" lon="-90.07815792047041725254530320"/>
+  <node visible="true" id="-905" lat="29.90823268181306460178348061" lon="-90.07810718340250843993999297"/>
+  <node visible="true" id="-906" lat="29.90826177520178674740236602" lon="-90.07811720131081756335333921"/>
+  <node visible="true" id="-907" lat="29.90831120841482615446693671" lon="-90.07792613970470085860142717"/>
+  <node visible="true" id="-908" lat="29.90826809505846028969244799" lon="-90.07791129420698439389525447"/>
+  <node visible="true" id="-909" lat="29.90824967778546650265525386" lon="-90.07798247778111999650718644"/>
+  <node visible="true" id="-910" lat="29.90819312510119942771780188" lon="-90.07796300464706007460335968"/>
+  <way visible="true" id="-136">
     <nd ref="-899"/>
     <nd ref="-900"/>
     <nd ref="-901"/>
@@ -2882,25 +2805,16 @@
     <nd ref="-904"/>
     <nd ref="-905"/>
     <nd ref="-906"/>
-    <nd ref="-895"/>
-    <tag k="building" v="yes"/>
-    <tag k="building:levels" v="1"/>
-    <tag k="addr:housenumber" v="213"/>
-    <tag k="addr:street" v="Grefer Lane"/>
-    <tag k="addr:city" v="Harvey"/>
-    <tag k="addr:postcode" v="70058"/>
-  </way>
-  <node visible="true" id="-907" lat="29.90944299067719214235694380" lon="-90.07975471648600773733051028"/>
-  <node visible="true" id="-908" lat="29.90942748572122411587770330" lon="-90.07981453130564375442190794"/>
-  <node visible="true" id="-909" lat="29.90947823268161442911150516" lon="-90.07983203861343213247891981"/>
-  <node visible="true" id="-910" lat="29.90949373762967056222805695" lon="-90.07977222379378190453280695"/>
-  <way visible="true" id="-136">
     <nd ref="-907"/>
     <nd ref="-908"/>
     <nd ref="-909"/>
     <nd ref="-910"/>
-    <nd ref="-907"/>
+    <nd ref="-899"/>
     <tag k="building" v="yes"/>
+    <tag k="addr:housenumber" v="421"/>
+    <tag k="addr:street" v="Pailet Avenue"/>
+    <tag k="addr:city" v="Harvey"/>
+    <tag k="addr:postcode" v="70058"/>
   </way>
   <node visible="true" id="-911" lat="29.90950334427014567495461961" lon="-90.08774611034304768963920651"/>
   <node visible="true" id="-912" lat="29.90955533381664110947895097" lon="-90.08775693340007251208589878"/>
@@ -2941,7 +2855,6 @@
     <nd ref="-926"/>
     <nd ref="-915"/>
     <tag k="building" v="yes"/>
-    <tag k="building:levels" v="1"/>
     <tag k="addr:housenumber" v="2400"/>
     <tag k="addr:street" v="4th Street"/>
     <tag k="addr:city" v="Harvey"/>
@@ -2958,7 +2871,6 @@
     <nd ref="-930"/>
     <nd ref="-927"/>
     <tag k="building" v="yes"/>
-    <tag k="building:levels" v="1"/>
     <tag k="addr:housenumber" v="2819"/>
     <tag k="addr:street" v="4th Street"/>
     <tag k="addr:city" v="Harvey"/>
@@ -2976,7 +2888,6 @@
     <nd ref="-934"/>
     <nd ref="-931"/>
     <tag k="building" v="yes"/>
-    <tag k="building:levels" v="1"/>
     <tag k="addr:housenumber" v="420"/>
     <tag k="addr:street" v="Pailet Avenue"/>
     <tag k="addr:city" v="Harvey"/>
@@ -3005,7 +2916,6 @@
     <nd ref="-942"/>
     <nd ref="-939"/>
     <tag k="building" v="yes"/>
-    <tag k="building:levels" v="1"/>
     <tag k="addr:housenumber" v="121"/>
     <tag k="addr:street" v="Pailet Avenue"/>
     <tag k="addr:city" v="Harvey"/>
@@ -3054,7 +2964,6 @@
     <nd ref="-962"/>
     <nd ref="-943"/>
     <tag k="building" v="yes"/>
-    <tag k="building:levels" v="1"/>
     <tag k="addr:housenumber" v="2613"/>
     <tag k="addr:street" v="Oak Drive"/>
     <tag k="addr:city" v="Harvey"/>

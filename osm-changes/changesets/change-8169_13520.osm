@@ -3,26 +3,16 @@
   <changeset_tag k="comment" v="Import buildings and addresses in Jefferson Parish, see https://wiki.openstreetmap.org/wiki/Import/Catalogue/Jefferson_Parish_Addresses_and_Buildings"/>
   <changeset_tag k="source" v="Jefferson Parish Planning Department"/>
   <changeset_tag k="source_file" v="8169_13520"/>
-  <node visible="true" id="-1" lat="29.98916904881424017048630049" lon="-90.24194173375492766808747547"/>
-  <node visible="true" id="-2" lat="29.98917815664021091492941196" lon="-90.24193897934247843295452185"/>
-  <node visible="true" id="-3" lat="29.98916869435936405352549627" lon="-90.24189727074532640926918248"/>
-  <node visible="true" id="-4" lat="29.98916079643299426038538513" lon="-90.24189965925657475054322276"/>
-  <node visible="true" id="-5" lat="29.98914774215854706085337966" lon="-90.24184211759417451048648218"/>
-  <node visible="true" id="-6" lat="29.98911132247075528312052484" lon="-90.24185313172608857712475583"/>
-  <node visible="true" id="-7" lat="29.98910948016102651081382646" lon="-90.24184501105159483813622501"/>
-  <node visible="true" id="-8" lat="29.98912795506453932148360764" lon="-90.24183942382626355538377538"/>
-  <node visible="true" id="-9" lat="29.98910144734027127810804814" lon="-90.24179937681154228812374640"/>
-  <node visible="true" id="-10" lat="29.98907782453699510938349704" lon="-90.24180652087515852599608479"/>
-  <node visible="true" id="-11" lat="29.98906798575674415019420849" lon="-90.24176315275748549993295455"/>
-  <node visible="true" id="-12" lat="29.98900588869447503270748712" lon="-90.24178193228691213789716130"/>
-  <node visible="true" id="-13" lat="29.98902514212631942314146727" lon="-90.24186679896693874525226420"/>
-  <node visible="true" id="-14" lat="29.98909520319668686738623364" lon="-90.24184561093984768831433030"/>
-  <node visible="true" id="-15" lat="29.98909810916633844612988469" lon="-90.24185842009514146866422379"/>
-  <node visible="true" id="-16" lat="29.98907939217636808848510555" lon="-90.24186408053114405447558966"/>
-  <node visible="true" id="-17" lat="29.98910448023464780931135465" lon="-90.24197466558780433842912316"/>
-  <node visible="true" id="-18" lat="29.98909125745144521602014720" lon="-90.24197866445329907492123311"/>
-  <node visible="true" id="-19" lat="29.98909946474064724952768302" lon="-90.24201484116997562523465604"/>
-  <node visible="true" id="-20" lat="29.98918010195280459129207884" lon="-90.24199045466264124115696177"/>
+  <node visible="true" id="-1" lat="29.98919331504174934366346861" lon="-90.24176847825086156262841541"/>
+  <node visible="true" id="-2" lat="29.98920355480003152592871629" lon="-90.24182047033882270170579432"/>
+  <node visible="true" id="-3" lat="29.98923809072298496403163881" lon="-90.24181140325093508636200568"/>
+  <node visible="true" id="-4" lat="29.98924844160838532047819172" lon="-90.24186395960779805136553477"/>
+  <node visible="true" id="-5" lat="29.98920177234273864996794146" lon="-90.24187621219340371681028046"/>
+  <node visible="true" id="-6" lat="29.98921770044985635195189388" lon="-90.24195708672380078496644273"/>
+  <node visible="true" id="-7" lat="29.98925930283013840949024598" lon="-90.24194616440078675623226445"/>
+  <node visible="true" id="-8" lat="29.98926391615474074114899850" lon="-90.24196958844312632663786644"/>
+  <node visible="true" id="-9" lat="29.98930371261317162634441047" lon="-90.24195914024352305204956792"/>
+  <node visible="true" id="-10" lat="29.98926258056345162117395375" lon="-90.24175029322596230940689566"/>
   <way visible="true" id="-1">
     <nd ref="-1"/>
     <nd ref="-2"/>
@@ -34,6 +24,24 @@
     <nd ref="-8"/>
     <nd ref="-9"/>
     <nd ref="-10"/>
+    <nd ref="-1"/>
+    <tag k="building" v="yes"/>
+    <tag k="addr:housenumber" v="1710"/>
+    <tag k="addr:street" v="Williams Boulevard"/>
+    <tag k="addr:city" v="Kenner"/>
+    <tag k="addr:postcode" v="70062"/>
+  </way>
+  <node visible="true" id="-11" lat="29.98864976427302764250271139" lon="-90.24197912079299044307845179"/>
+  <node visible="true" id="-12" lat="29.98865538463697788529316313" lon="-90.24197905929919727441301802"/>
+  <node visible="true" id="-13" lat="29.98867754897377935208169220" lon="-90.24209203489164110578713007"/>
+  <node visible="true" id="-14" lat="29.98866662701661667256303190" lon="-90.24209489123346372707601404"/>
+  <node visible="true" id="-15" lat="29.98867325604336642186353856" lon="-90.24212868057030334512091940"/>
+  <node visible="true" id="-16" lat="29.98875433924753153291931085" lon="-90.24210747544755406579497503"/>
+  <node visible="true" id="-17" lat="29.98872495727806608556420542" lon="-90.24195771018042933064862154"/>
+  <node visible="true" id="-18" lat="29.98870628913110181201773230" lon="-90.24196259233031014446169138"/>
+  <node visible="true" id="-19" lat="29.98869949927419398250094673" lon="-90.24192798320207486995059298"/>
+  <node visible="true" id="-20" lat="29.98864264860245398836013919" lon="-90.24194285095389034268009709"/>
+  <way visible="true" id="-2">
     <nd ref="-11"/>
     <nd ref="-12"/>
     <nd ref="-13"/>
@@ -44,25 +52,34 @@
     <nd ref="-18"/>
     <nd ref="-19"/>
     <nd ref="-20"/>
-    <nd ref="-1"/>
+    <nd ref="-11"/>
     <tag k="building" v="yes"/>
-    <tag k="building:levels" v="2"/>
-    <tag k="addr:housenumber" v="1708"/>
+    <tag k="addr:housenumber" v="1702"/>
     <tag k="addr:street" v="Williams Boulevard"/>
     <tag k="addr:city" v="Kenner"/>
     <tag k="addr:postcode" v="70062"/>
   </way>
-  <node visible="true" id="-21" lat="29.98919331504174934366346861" lon="-90.24176847825086156262841541"/>
-  <node visible="true" id="-22" lat="29.98920355480003152592871629" lon="-90.24182047033882270170579432"/>
-  <node visible="true" id="-23" lat="29.98923809072298496403163881" lon="-90.24181140325093508636200568"/>
-  <node visible="true" id="-24" lat="29.98924844160838532047819172" lon="-90.24186395960779805136553477"/>
-  <node visible="true" id="-25" lat="29.98920177234273864996794146" lon="-90.24187621219340371681028046"/>
-  <node visible="true" id="-26" lat="29.98921770044985635195189388" lon="-90.24195708672380078496644273"/>
-  <node visible="true" id="-27" lat="29.98925930283013840949024598" lon="-90.24194616440078675623226445"/>
-  <node visible="true" id="-28" lat="29.98926391615474074114899850" lon="-90.24196958844312632663786644"/>
-  <node visible="true" id="-29" lat="29.98930371261317162634441047" lon="-90.24195914024352305204956792"/>
-  <node visible="true" id="-30" lat="29.98926258056345162117395375" lon="-90.24175029322596230940689566"/>
-  <way visible="true" id="-2">
+  <node visible="true" id="-21" lat="29.98916904881424017048630049" lon="-90.24194173375492766808747547"/>
+  <node visible="true" id="-22" lat="29.98917815664021091492941196" lon="-90.24193897934247843295452185"/>
+  <node visible="true" id="-23" lat="29.98916869435936405352549627" lon="-90.24189727074532640926918248"/>
+  <node visible="true" id="-24" lat="29.98916079643299426038538513" lon="-90.24189965925657475054322276"/>
+  <node visible="true" id="-25" lat="29.98914774215854706085337966" lon="-90.24184211759417451048648218"/>
+  <node visible="true" id="-26" lat="29.98911132247075528312052484" lon="-90.24185313172608857712475583"/>
+  <node visible="true" id="-27" lat="29.98910948016102651081382646" lon="-90.24184501105159483813622501"/>
+  <node visible="true" id="-28" lat="29.98912795506453932148360764" lon="-90.24183942382626355538377538"/>
+  <node visible="true" id="-29" lat="29.98910144734027127810804814" lon="-90.24179937681154228812374640"/>
+  <node visible="true" id="-30" lat="29.98907782453699510938349704" lon="-90.24180652087515852599608479"/>
+  <node visible="true" id="-31" lat="29.98906798575674415019420849" lon="-90.24176315275748549993295455"/>
+  <node visible="true" id="-32" lat="29.98900588869447503270748712" lon="-90.24178193228691213789716130"/>
+  <node visible="true" id="-33" lat="29.98902514212631942314146727" lon="-90.24186679896693874525226420"/>
+  <node visible="true" id="-34" lat="29.98909520319668686738623364" lon="-90.24184561093984768831433030"/>
+  <node visible="true" id="-35" lat="29.98909810916633844612988469" lon="-90.24185842009514146866422379"/>
+  <node visible="true" id="-36" lat="29.98907939217636808848510555" lon="-90.24186408053114405447558966"/>
+  <node visible="true" id="-37" lat="29.98910448023464780931135465" lon="-90.24197466558780433842912316"/>
+  <node visible="true" id="-38" lat="29.98909125745144521602014720" lon="-90.24197866445329907492123311"/>
+  <node visible="true" id="-39" lat="29.98909946474064724952768302" lon="-90.24201484116997562523465604"/>
+  <node visible="true" id="-40" lat="29.98918010195280459129207884" lon="-90.24199045466264124115696177"/>
+  <way visible="true" id="-3">
     <nd ref="-21"/>
     <nd ref="-22"/>
     <nd ref="-23"/>
@@ -73,25 +90,6 @@
     <nd ref="-28"/>
     <nd ref="-29"/>
     <nd ref="-30"/>
-    <nd ref="-21"/>
-    <tag k="building" v="yes"/>
-    <tag k="building:levels" v="2"/>
-    <tag k="addr:housenumber" v="1710"/>
-    <tag k="addr:street" v="Williams Boulevard"/>
-    <tag k="addr:city" v="Kenner"/>
-    <tag k="addr:postcode" v="70062"/>
-  </way>
-  <node visible="true" id="-31" lat="29.98864976427302764250271139" lon="-90.24197912079299044307845179"/>
-  <node visible="true" id="-32" lat="29.98865538463697788529316313" lon="-90.24197905929919727441301802"/>
-  <node visible="true" id="-33" lat="29.98867754897377935208169220" lon="-90.24209203489164110578713007"/>
-  <node visible="true" id="-34" lat="29.98866662701661667256303190" lon="-90.24209489123346372707601404"/>
-  <node visible="true" id="-35" lat="29.98867325604336642186353856" lon="-90.24212868057030334512091940"/>
-  <node visible="true" id="-36" lat="29.98875433924753153291931085" lon="-90.24210747544755406579497503"/>
-  <node visible="true" id="-37" lat="29.98872495727806608556420542" lon="-90.24195771018042933064862154"/>
-  <node visible="true" id="-38" lat="29.98870628913110181201773230" lon="-90.24196259233031014446169138"/>
-  <node visible="true" id="-39" lat="29.98869949927419398250094673" lon="-90.24192798320207486995059298"/>
-  <node visible="true" id="-40" lat="29.98864264860245398836013919" lon="-90.24194285095389034268009709"/>
-  <way visible="true" id="-3">
     <nd ref="-31"/>
     <nd ref="-32"/>
     <nd ref="-33"/>
@@ -102,10 +100,9 @@
     <nd ref="-38"/>
     <nd ref="-39"/>
     <nd ref="-40"/>
-    <nd ref="-31"/>
+    <nd ref="-21"/>
     <tag k="building" v="yes"/>
-    <tag k="building:levels" v="2"/>
-    <tag k="addr:housenumber" v="1702"/>
+    <tag k="addr:housenumber" v="1708"/>
     <tag k="addr:street" v="Williams Boulevard"/>
     <tag k="addr:city" v="Kenner"/>
     <tag k="addr:postcode" v="70062"/>
@@ -121,7 +118,6 @@
     <nd ref="-44"/>
     <nd ref="-41"/>
     <tag k="building" v="yes"/>
-    <tag k="building:levels" v="2"/>
   </way>
   <node visible="true" id="-45" lat="29.98348381865017486802571511" lon="-90.24848782796165380659658695"/>
   <node visible="true" id="-46" lat="29.98350411188352282465530152" lon="-90.24858098803849770774831995"/>
@@ -138,7 +134,6 @@
     <nd ref="-50"/>
     <nd ref="-45"/>
     <tag k="building" v="yes"/>
-    <tag k="building:levels" v="2"/>
   </way>
   <node visible="true" id="-51" lat="29.98718074837951519384660060" lon="-90.24954957679152300897840178"/>
   <node visible="true" id="-52" lat="29.98714635894545921246390208" lon="-90.24956065459902276870707283"/>
@@ -151,7 +146,6 @@
     <nd ref="-54"/>
     <nd ref="-51"/>
     <tag k="building" v="yes"/>
-    <tag k="building:levels" v="2"/>
   </way>
   <node visible="true" id="-55" lat="29.98442674711920474805992853" lon="-90.24612349322732995915430365"/>
   <node visible="true" id="-56" lat="29.98444357250278002879895212" lon="-90.24620368632483291548851412"/>
@@ -172,7 +166,6 @@
     <nd ref="-62"/>
     <nd ref="-55"/>
     <tag k="building" v="yes"/>
-    <tag k="building:levels" v="2"/>
   </way>
   <node visible="true" id="-63" lat="29.99150514494103347828968253" lon="-90.24355076832762279082089663"/>
   <node visible="true" id="-64" lat="29.99153950152060943423748540" lon="-90.24354817019046492987399688"/>
@@ -185,7 +178,6 @@
     <nd ref="-66"/>
     <nd ref="-63"/>
     <tag k="building" v="yes"/>
-    <tag k="building:levels" v="2"/>
   </way>
   <node visible="true" id="-67" lat="29.99142935645896201890536759" lon="-90.24355720494011734444939066"/>
   <node visible="true" id="-68" lat="29.99146185449172463677314227" lon="-90.24355560810225540535611799"/>
@@ -198,7 +190,6 @@
     <nd ref="-70"/>
     <nd ref="-67"/>
     <tag k="building" v="yes"/>
-    <tag k="building:levels" v="2"/>
   </way>
   <node visible="true" id="-71" lat="29.98809906430516392106255807" lon="-90.24888861337572620868741069"/>
   <node visible="true" id="-72" lat="29.98810532884385793295223266" lon="-90.24891390038202132473088568"/>
@@ -211,7 +202,6 @@
     <nd ref="-74"/>
     <nd ref="-71"/>
     <tag k="building" v="yes"/>
-    <tag k="building:levels" v="2"/>
   </way>
   <node visible="true" id="-75" lat="29.98808748370393928439625597" lon="-90.24887118195997004477248993"/>
   <node visible="true" id="-76" lat="29.98814128324978156570068677" lon="-90.24885421411835295657510869"/>
@@ -224,7 +214,6 @@
     <nd ref="-78"/>
     <nd ref="-75"/>
     <tag k="building" v="yes"/>
-    <tag k="building:levels" v="2"/>
   </way>
   <node visible="true" id="-79" lat="29.99096605684641048128469265" lon="-90.24358138705865428619290469"/>
   <node visible="true" id="-80" lat="29.99099293642716901331368717" lon="-90.24357386034810701858077664"/>
@@ -237,7 +226,6 @@
     <nd ref="-82"/>
     <nd ref="-79"/>
     <tag k="building" v="yes"/>
-    <tag k="building:levels" v="2"/>
   </way>
   <node visible="true" id="-83" lat="29.99140435632038048652248108" lon="-90.24242203070828338695719140"/>
   <node visible="true" id="-84" lat="29.99136972477724683017186180" lon="-90.24242491032573809661698760"/>
@@ -266,7 +254,6 @@
     <nd ref="-94"/>
     <nd ref="-83"/>
     <tag k="building" v="yes"/>
-    <tag k="building:levels" v="2"/>
   </way>
   <node visible="true" id="-95" lat="29.98996621955754804389471246" lon="-90.24375050605469539277692093"/>
   <node visible="true" id="-96" lat="29.98997085187915345727560634" lon="-90.24377319131308183841611026"/>
@@ -287,7 +274,6 @@
     <nd ref="-102"/>
     <nd ref="-95"/>
     <tag k="building" v="yes"/>
-    <tag k="building:levels" v="2"/>
     <tag k="addr:housenumber" v="1922"/>
     <tag k="addr:street" v="18th Street"/>
     <tag k="addr:city" v="Kenner"/>
@@ -304,7 +290,6 @@
     <nd ref="-106"/>
     <nd ref="-103"/>
     <tag k="building" v="yes"/>
-    <tag k="building:levels" v="2"/>
     <tag k="addr:housenumber" v="1918"/>
     <tag k="addr:street" v="18th Street"/>
     <tag k="addr:city" v="Kenner"/>
@@ -321,7 +306,6 @@
     <nd ref="-110"/>
     <nd ref="-107"/>
     <tag k="building" v="yes"/>
-    <tag k="building:levels" v="2"/>
   </way>
   <node visible="true" id="-111" lat="29.98519819131556829461260349" lon="-90.24359867102371879354905104"/>
   <node visible="true" id="-112" lat="29.98519810626034143297147239" lon="-90.24358839746153648775361944"/>
@@ -346,7 +330,6 @@
     <nd ref="-120"/>
     <nd ref="-111"/>
     <tag k="building" v="yes"/>
-    <tag k="building:levels" v="2"/>
     <tag k="addr:housenumber" v="1305"/>
     <tag k="addr:street" v="Williams Boulevard"/>
     <tag k="addr:city" v="Kenner"/>
@@ -363,7 +346,6 @@
     <nd ref="-124"/>
     <nd ref="-121"/>
     <tag k="building" v="yes"/>
-    <tag k="building:levels" v="2"/>
   </way>
   <node visible="true" id="-125" lat="29.98771123701699536923115375" lon="-90.24294365332694667358737206"/>
   <node visible="true" id="-126" lat="29.98780902517501445458947273" lon="-90.24291644632432962680468336"/>
@@ -392,7 +374,6 @@
     <nd ref="-136"/>
     <nd ref="-125"/>
     <tag k="building" v="yes"/>
-    <tag k="building:levels" v="2"/>
   </way>
   <node visible="true" id="-137" lat="29.98781022204797253039032512" lon="-90.24288161960653553705924423">
     <tag k="addr:housenumber" v="1601"/>
@@ -415,7 +396,6 @@
     <nd ref="-143"/>
     <nd ref="-138"/>
     <tag k="building" v="yes"/>
-    <tag k="building:levels" v="2"/>
     <tag k="addr:housenumber" v="1306"/>
     <tag k="addr:street" v="Williams Boulevard"/>
     <tag k="addr:city" v="Kenner"/>
@@ -436,7 +416,6 @@
     <nd ref="-149"/>
     <nd ref="-144"/>
     <tag k="building" v="yes"/>
-    <tag k="building:levels" v="2"/>
   </way>
   <node visible="true" id="-150" lat="29.99004526565804695792394341" lon="-90.24650204887406346188072348"/>
   <node visible="true" id="-151" lat="29.99003368493145771367380803" lon="-90.24650548192921917234343709"/>
@@ -461,7 +440,6 @@
     <nd ref="-159"/>
     <nd ref="-150"/>
     <tag k="building" v="yes"/>
-    <tag k="building:levels" v="2"/>
     <tag k="addr:housenumber" v="1701"/>
     <tag k="addr:street" v="18th Street"/>
     <tag k="addr:city" v="Kenner"/>
@@ -486,7 +464,6 @@
     <nd ref="-167"/>
     <nd ref="-160"/>
     <tag k="building" v="yes"/>
-    <tag k="building:levels" v="2"/>
     <tag k="addr:housenumber" v="1204"/>
     <tag k="addr:street" v="Minor Street"/>
     <tag k="addr:city" v="Kenner"/>
@@ -503,7 +480,6 @@
     <nd ref="-171"/>
     <nd ref="-168"/>
     <tag k="building" v="yes"/>
-    <tag k="building:levels" v="2"/>
   </way>
   <node visible="true" id="-172" lat="29.99122528240869200999441091" lon="-90.24356940155070105902268551"/>
   <node visible="true" id="-173" lat="29.99125963503209391092241276" lon="-90.24356580818070483474002685"/>
@@ -516,7 +492,6 @@
     <nd ref="-175"/>
     <nd ref="-172"/>
     <tag k="building" v="yes"/>
-    <tag k="building:levels" v="2"/>
   </way>
   <node visible="true" id="-176" lat="29.99115522680304479763435666" lon="-90.24357410172859772501396947"/>
   <node visible="true" id="-177" lat="29.99118899031258678178346599" lon="-90.24357127233051301118393894"/>
@@ -537,7 +512,6 @@
     <nd ref="-183"/>
     <nd ref="-176"/>
     <tag k="building" v="yes"/>
-    <tag k="building:levels" v="2"/>
   </way>
   <node visible="true" id="-184" lat="29.99109298026450076690707647" lon="-90.24360684389927200754755177"/>
   <node visible="true" id="-185" lat="29.99113078345224892018450191" lon="-90.24360373974259630358574213"/>
@@ -550,7 +524,6 @@
     <nd ref="-187"/>
     <nd ref="-184"/>
     <tag k="building" v="yes"/>
-    <tag k="building:levels" v="2"/>
   </way>
   <node visible="true" id="-188" lat="29.99157575243843965040468902" lon="-90.24354296564773392219649395"/>
   <node visible="true" id="-189" lat="29.99160680694165748150226136" lon="-90.24354011231602612497226801"/>
@@ -571,7 +544,6 @@
     <nd ref="-195"/>
     <nd ref="-188"/>
     <tag k="building" v="yes"/>
-    <tag k="building:levels" v="2"/>
   </way>
   <node visible="true" id="-196" lat="29.98893690209543549940462981" lon="-90.24190012400094929034821689"/>
   <node visible="true" id="-197" lat="29.98892671195413939244645007" lon="-90.24185257806664139934582636"/>
@@ -601,45 +573,45 @@
     <tag k="addr:city" v="Kenner"/>
     <tag k="addr:postcode" v="70062"/>
   </way>
-  <node visible="true" id="-206" lat="29.98525602338761686382895277" lon="-90.24382246613191682627075352"/>
-  <node visible="true" id="-207" lat="29.98526389640883138554272591" lon="-90.24385915489484943918796489"/>
-  <node visible="true" id="-208" lat="29.98529494608319723170097859" lon="-90.24385027362117739357927348"/>
-  <node visible="true" id="-209" lat="29.98528707306448382041708101" lon="-90.24381358485824478066206211"/>
+  <node visible="true" id="-206" lat="29.98441513995371821010849089" lon="-90.24309609854543623441713862"/>
+  <node visible="true" id="-207" lat="29.98440082380638216363877291" lon="-90.24302803746796541872754460"/>
+  <node visible="true" id="-208" lat="29.98434282420537044799857540" lon="-90.24304446892763564846973168"/>
+  <node visible="true" id="-209" lat="29.98435127678253664385010779" lon="-90.24308387083529225947131636"/>
+  <node visible="true" id="-210" lat="29.98430325438470589460848714" lon="-90.24309732140596906901919283"/>
+  <node visible="true" id="-211" lat="29.98424463050139721076448041" lon="-90.24311375963219461482367478"/>
+  <node visible="true" id="-212" lat="29.98426997118635739525416284" lon="-90.24322980979707153892377391"/>
+  <node visible="true" id="-213" lat="29.98438161205184826485492522" lon="-90.24319914935966835400904529"/>
+  <node visible="true" id="-214" lat="29.98437380846747757345838181" lon="-90.24316261214207202101533767"/>
+  <node visible="true" id="-215" lat="29.98442619340441694930632366" lon="-90.24314767853032037692173617"/>
   <way visible="true" id="-30">
     <nd ref="-206"/>
     <nd ref="-207"/>
     <nd ref="-208"/>
     <nd ref="-209"/>
-    <nd ref="-206"/>
-    <tag k="building" v="yes"/>
-  </way>
-  <node visible="true" id="-210" lat="29.98441513995371821010849089" lon="-90.24309609854543623441713862"/>
-  <node visible="true" id="-211" lat="29.98440082380638216363877291" lon="-90.24302803746796541872754460"/>
-  <node visible="true" id="-212" lat="29.98434282420537044799857540" lon="-90.24304446892763564846973168"/>
-  <node visible="true" id="-213" lat="29.98435127678253664385010779" lon="-90.24308387083529225947131636"/>
-  <node visible="true" id="-214" lat="29.98430325438470589460848714" lon="-90.24309732140596906901919283"/>
-  <node visible="true" id="-215" lat="29.98424463050139721076448041" lon="-90.24311375963219461482367478"/>
-  <node visible="true" id="-216" lat="29.98426997118635739525416284" lon="-90.24322980979707153892377391"/>
-  <node visible="true" id="-217" lat="29.98438161205184826485492522" lon="-90.24319914935966835400904529"/>
-  <node visible="true" id="-218" lat="29.98437380846747757345838181" lon="-90.24316261214207202101533767"/>
-  <node visible="true" id="-219" lat="29.98442619340441694930632366" lon="-90.24314767853032037692173617"/>
-  <way visible="true" id="-31">
     <nd ref="-210"/>
     <nd ref="-211"/>
     <nd ref="-212"/>
     <nd ref="-213"/>
     <nd ref="-214"/>
     <nd ref="-215"/>
-    <nd ref="-216"/>
-    <nd ref="-217"/>
-    <nd ref="-218"/>
-    <nd ref="-219"/>
-    <nd ref="-210"/>
+    <nd ref="-206"/>
     <tag k="building" v="yes"/>
     <tag k="addr:housenumber" v="1220"/>
     <tag k="addr:street" v="Williams Boulevard"/>
     <tag k="addr:city" v="Kenner"/>
     <tag k="addr:postcode" v="70062"/>
+  </way>
+  <node visible="true" id="-216" lat="29.98525602338761686382895277" lon="-90.24382246613191682627075352"/>
+  <node visible="true" id="-217" lat="29.98526389640883138554272591" lon="-90.24385915489484943918796489"/>
+  <node visible="true" id="-218" lat="29.98529494608319723170097859" lon="-90.24385027362117739357927348"/>
+  <node visible="true" id="-219" lat="29.98528707306448382041708101" lon="-90.24381358485824478066206211"/>
+  <way visible="true" id="-31">
+    <nd ref="-216"/>
+    <nd ref="-217"/>
+    <nd ref="-218"/>
+    <nd ref="-219"/>
+    <nd ref="-216"/>
+    <tag k="building" v="yes"/>
   </way>
   <node visible="true" id="-220" lat="29.99016158798485065517525072" lon="-90.24634840072688746204221388"/>
   <node visible="true" id="-221" lat="29.99017047681871517283980211" lon="-90.24634581314884940184128936"/>
@@ -793,80 +765,80 @@
     <tag k="addr:city" v="Kenner"/>
     <tag k="addr:postcode" v="70062"/>
   </way>
-  <node visible="true" id="-268" lat="29.98374364804079306168205221" lon="-90.24269591546924118574679596"/>
-  <node visible="true" id="-269" lat="29.98381625537235706246974587" lon="-90.24267582978500001900101779"/>
-  <node visible="true" id="-270" lat="29.98379728455192605451884447" lon="-90.24258442332433105548261665"/>
-  <node visible="true" id="-271" lat="29.98372467720648160138807725" lon="-90.24260450900857222222839482"/>
+  <node visible="true" id="-268" lat="29.99021239388734372255385097" lon="-90.24403612139444419426581590"/>
+  <node visible="true" id="-269" lat="29.99023471077649460880820698" lon="-90.24413709908641578749666223"/>
+  <node visible="true" id="-270" lat="29.99026074241490746885574481" lon="-90.24412942965777517656533746"/>
+  <node visible="true" id="-271" lat="29.99026706603495995295816101" lon="-90.24415804228445381340861786"/>
+  <node visible="true" id="-272" lat="29.99032665361449900842671923" lon="-90.24414048661211040780472104"/>
+  <node visible="true" id="-273" lat="29.99029801312832077542225306" lon="-90.24401089629346017773059430"/>
   <way visible="true" id="-39">
     <nd ref="-268"/>
     <nd ref="-269"/>
     <nd ref="-270"/>
     <nd ref="-271"/>
-    <nd ref="-268"/>
-    <tag k="building" v="yes"/>
-    <tag k="addr:housenumber" v="1203"/>
-    <tag k="addr:street" v="Compromise Street"/>
-    <tag k="addr:city" v="Kenner"/>
-    <tag k="addr:postcode" v="70062"/>
-  </way>
-  <node visible="true" id="-272" lat="29.98810196271510264409698721" lon="-90.24892117216396059120597783"/>
-  <node visible="true" id="-273" lat="29.98810466818800790633758879" lon="-90.24895016685056248206819873"/>
-  <node visible="true" id="-274" lat="29.98812275606076127587584779" lon="-90.24894791703493979184713680"/>
-  <node visible="true" id="-275" lat="29.98812005058842444782385428" lon="-90.24891892234832369013020070"/>
-  <way visible="true" id="-40">
     <nd ref="-272"/>
     <nd ref="-273"/>
-    <nd ref="-274"/>
-    <nd ref="-275"/>
-    <nd ref="-272"/>
-    <tag k="building" v="yes"/>
-  </way>
-  <node visible="true" id="-276" lat="29.99021239388734372255385097" lon="-90.24403612139444419426581590"/>
-  <node visible="true" id="-277" lat="29.99023471077649460880820698" lon="-90.24413709908641578749666223"/>
-  <node visible="true" id="-278" lat="29.99026074241490746885574481" lon="-90.24412942965777517656533746"/>
-  <node visible="true" id="-279" lat="29.99026706603495995295816101" lon="-90.24415804228445381340861786"/>
-  <node visible="true" id="-280" lat="29.99032665361449900842671923" lon="-90.24414048661211040780472104"/>
-  <node visible="true" id="-281" lat="29.99029801312832077542225306" lon="-90.24401089629346017773059430"/>
-  <way visible="true" id="-41">
-    <nd ref="-276"/>
-    <nd ref="-277"/>
-    <nd ref="-278"/>
-    <nd ref="-279"/>
-    <nd ref="-280"/>
-    <nd ref="-281"/>
-    <nd ref="-276"/>
+    <nd ref="-268"/>
     <tag k="building" v="yes"/>
     <tag k="addr:housenumber" v="1802"/>
     <tag k="addr:street" v="Daniel Street"/>
     <tag k="addr:city" v="Kenner"/>
     <tag k="addr:postcode" v="70062"/>
   </way>
-  <node visible="true" id="-282" lat="29.99136348495229498212211183" lon="-90.24355875562713436011108570"/>
-  <node visible="true" id="-283" lat="29.99139815029592526229862415" lon="-90.24355548030644058599136770"/>
-  <node visible="true" id="-284" lat="29.99138507970726053031285119" lon="-90.24337106363066141057061031"/>
-  <node visible="true" id="-285" lat="29.99135041435896198436239501" lon="-90.24337433895135518469032831"/>
-  <way visible="true" id="-42">
-    <nd ref="-282"/>
-    <nd ref="-283"/>
-    <nd ref="-284"/>
-    <nd ref="-285"/>
-    <nd ref="-282"/>
+  <node visible="true" id="-274" lat="29.99136348495229498212211183" lon="-90.24355875562713436011108570"/>
+  <node visible="true" id="-275" lat="29.99139815029592526229862415" lon="-90.24355548030644058599136770"/>
+  <node visible="true" id="-276" lat="29.99138507970726053031285119" lon="-90.24337106363066141057061031"/>
+  <node visible="true" id="-277" lat="29.99135041435896198436239501" lon="-90.24337433895135518469032831"/>
+  <way visible="true" id="-40">
+    <nd ref="-274"/>
+    <nd ref="-275"/>
+    <nd ref="-276"/>
+    <nd ref="-277"/>
+    <nd ref="-274"/>
     <tag k="building" v="yes"/>
   </way>
-  <node visible="true" id="-286" lat="29.99102295140141904994379729" lon="-90.24358986800919524284836370"/>
-  <node visible="true" id="-287" lat="29.99105301393043632174340019" lon="-90.24358786264556897549482528"/>
-  <node visible="true" id="-288" lat="29.99105272518548659377302101" lon="-90.24358209222641846736223670"/>
-  <node visible="true" id="-289" lat="29.99107276754465800649995799" lon="-90.24358075527209166466491297"/>
-  <node visible="true" id="-290" lat="29.99106547056268112783072866" lon="-90.24343492888957030118035618"/>
-  <node visible="true" id="-291" lat="29.99101536567058445825750823" lon="-90.24343827120748073866707273"/>
-  <way visible="true" id="-43">
+  <node visible="true" id="-278" lat="29.99102295140141904994379729" lon="-90.24358986800919524284836370"/>
+  <node visible="true" id="-279" lat="29.99105301393043632174340019" lon="-90.24358786264556897549482528"/>
+  <node visible="true" id="-280" lat="29.99105272518548659377302101" lon="-90.24358209222641846736223670"/>
+  <node visible="true" id="-281" lat="29.99107276754465800649995799" lon="-90.24358075527209166466491297"/>
+  <node visible="true" id="-282" lat="29.99106547056268112783072866" lon="-90.24343492888957030118035618"/>
+  <node visible="true" id="-283" lat="29.99101536567058445825750823" lon="-90.24343827120748073866707273"/>
+  <way visible="true" id="-41">
+    <nd ref="-278"/>
+    <nd ref="-279"/>
+    <nd ref="-280"/>
+    <nd ref="-281"/>
+    <nd ref="-282"/>
+    <nd ref="-283"/>
+    <nd ref="-278"/>
+    <tag k="building" v="yes"/>
+  </way>
+  <node visible="true" id="-284" lat="29.98374364804079306168205221" lon="-90.24269591546924118574679596"/>
+  <node visible="true" id="-285" lat="29.98381625537235706246974587" lon="-90.24267582978500001900101779"/>
+  <node visible="true" id="-286" lat="29.98379728455192605451884447" lon="-90.24258442332433105548261665"/>
+  <node visible="true" id="-287" lat="29.98372467720648160138807725" lon="-90.24260450900857222222839482"/>
+  <way visible="true" id="-42">
+    <nd ref="-284"/>
+    <nd ref="-285"/>
     <nd ref="-286"/>
     <nd ref="-287"/>
+    <nd ref="-284"/>
+    <tag k="building" v="yes"/>
+    <tag k="addr:housenumber" v="1203"/>
+    <tag k="addr:street" v="Compromise Street"/>
+    <tag k="addr:city" v="Kenner"/>
+    <tag k="addr:postcode" v="70062"/>
+  </way>
+  <node visible="true" id="-288" lat="29.98810196271510264409698721" lon="-90.24892117216396059120597783"/>
+  <node visible="true" id="-289" lat="29.98810466818800790633758879" lon="-90.24895016685056248206819873"/>
+  <node visible="true" id="-290" lat="29.98812275606076127587584779" lon="-90.24894791703493979184713680"/>
+  <node visible="true" id="-291" lat="29.98812005058842444782385428" lon="-90.24891892234832369013020070"/>
+  <way visible="true" id="-43">
     <nd ref="-288"/>
     <nd ref="-289"/>
     <nd ref="-290"/>
     <nd ref="-291"/>
-    <nd ref="-286"/>
+    <nd ref="-288"/>
     <tag k="building" v="yes"/>
   </way>
   <node visible="true" id="-292" lat="29.98359954358659607009940373" lon="-90.24569429363306483082851628"/>

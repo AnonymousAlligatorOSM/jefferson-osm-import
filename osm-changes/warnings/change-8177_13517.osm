@@ -14,7 +14,6 @@
     <nd ref="-4"/>
     <nd ref="-1"/>
     <tag k="building" v="yes"/>
-    <tag k="building:levels" v="1"/>
     <tag k="addr:housenumber" v="3729"/>
     <tag k="addr:street" v="North Causeway Boulevard East"/>
     <tag k="addr:city" v="Metairie"/>
@@ -388,7 +387,6 @@
     <nd ref="-62"/>
     <nd ref="-55"/>
     <tag k="building" v="yes"/>
-    <tag k="building:levels" v="2"/>
     <tag k="addr:street" v="Hessmer Avenue"/>
     <tag k="addr:city" v="Metairie"/>
     <tag k="addr:postcode" v="70002"/>
@@ -500,7 +498,6 @@
     <nd ref="-114"/>
     <nd ref="-63"/>
     <tag k="building" v="yes"/>
-    <tag k="building:levels" v="2"/>
     <tag k="addr:street" v="North Arnoult Road"/>
     <tag k="addr:city" v="Metairie"/>
     <tag k="addr:postcode" v="70002"/>
@@ -819,7 +816,6 @@
     <nd ref="-167"/>
     <nd ref="-156"/>
     <tag k="building" v="yes"/>
-    <tag k="building:levels" v="3"/>
     <tag k="addr:street" v="North Arnoult Road"/>
     <tag k="addr:city" v="Metairie"/>
     <tag k="addr:postcode" v="70002"/>
@@ -1028,19 +1024,19 @@
     <tag k="addr:postcode" v="70002"/>
     <tag k="addr:unit" v="T"/>
   </node>
-  <node visible="true" id="-198" lat="30.01637174549952291613408306" lon="-90.15440274301229806042101700">
-    <tag k="addr:housenumber" v="3701"/>
-    <tag k="addr:street" v="North Causeway Boulevard East"/>
-    <tag k="addr:city" v="Metairie"/>
-    <tag k="addr:postcode" v="70002"/>
-    <tag k="addr:unit" v="CELL TOWER"/>
-  </node>
-  <node visible="true" id="-199" lat="30.01360711773343226127508387" lon="-90.15445335267389737055054866">
+  <node visible="true" id="-198" lat="30.01360711773343226127508387" lon="-90.15445335267389737055054866">
     <tag k="addr:housenumber" v="3525"/>
     <tag k="addr:street" v="North Causeway Boulevard East"/>
     <tag k="addr:city" v="Metairie"/>
     <tag k="addr:postcode" v="70002"/>
     <tag k="addr:unit" v="900"/>
+  </node>
+  <node visible="true" id="-199" lat="30.01637174549952291613408306" lon="-90.15440274301229806042101700">
+    <tag k="addr:housenumber" v="3701"/>
+    <tag k="addr:street" v="North Causeway Boulevard East"/>
+    <tag k="addr:city" v="Metairie"/>
+    <tag k="addr:postcode" v="70002"/>
+    <tag k="addr:unit" v="CELL TOWER"/>
   </node>
   <node visible="true" id="-200" lat="30.01695404560030766560885240" lon="-90.15508989096252889794413932">
     <tag k="addr:housenumber" v="3748"/>

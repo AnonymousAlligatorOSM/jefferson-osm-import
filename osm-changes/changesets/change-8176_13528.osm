@@ -14,7 +14,6 @@
     <nd ref="-4"/>
     <nd ref="-1"/>
     <tag k="building" v="yes"/>
-    <tag k="building:levels" v="1"/>
     <tag k="addr:housenumber" v="952"/>
     <tag k="addr:street" v="Patton Lane"/>
     <tag k="addr:city" v="Bridge City"/>
@@ -35,7 +34,6 @@
     <nd ref="-10"/>
     <nd ref="-5"/>
     <tag k="building" v="yes"/>
-    <tag k="building:levels" v="1"/>
     <tag k="addr:housenumber" v="964"/>
     <tag k="addr:street" v="Patton Lane"/>
     <tag k="addr:city" v="Bridge City"/>
@@ -52,7 +50,6 @@
     <nd ref="-14"/>
     <nd ref="-11"/>
     <tag k="building" v="yes"/>
-    <tag k="building:levels" v="1"/>
     <tag k="addr:housenumber" v="956"/>
     <tag k="addr:street" v="Patton Lane"/>
     <tag k="addr:city" v="Bridge City"/>
@@ -100,10 +97,10 @@
     <nd ref="-24"/>
     <tag k="building" v="yes"/>
   </way>
-  <node visible="true" id="-28" lat="29.91233955814574585474474588" lon="-90.16499919486248870725830784"/>
-  <node visible="true" id="-29" lat="29.91245833639502293976875080" lon="-90.16493138901461179557372816"/>
-  <node visible="true" id="-30" lat="29.91242326495044778766896343" lon="-90.16484961845516465928085381"/>
-  <node visible="true" id="-31" lat="29.91230448665932684093604621" lon="-90.16491742430304157096543349"/>
+  <node visible="true" id="-28" lat="29.91183761873815782905694505" lon="-90.16485930226794209829677129"/>
+  <node visible="true" id="-29" lat="29.91180206090707827115693362" lon="-90.16477459760319845827325480"/>
+  <node visible="true" id="-30" lat="29.91168488408598591377085540" lon="-90.16484006689240970899845706"/>
+  <node visible="true" id="-31" lat="29.91172044195891643880713673" lon="-90.16492477155715334902197355"/>
   <way visible="true" id="-7">
     <nd ref="-28"/>
     <nd ref="-29"/>
@@ -111,16 +108,15 @@
     <nd ref="-31"/>
     <nd ref="-28"/>
     <tag k="building" v="yes"/>
-    <tag k="building:levels" v="1"/>
-    <tag k="addr:housenumber" v="932"/>
+    <tag k="addr:housenumber" v="945"/>
     <tag k="addr:street" v="Patton Lane"/>
     <tag k="addr:city" v="Bridge City"/>
     <tag k="addr:postcode" v="70094"/>
   </way>
-  <node visible="true" id="-32" lat="29.91200318991644735433510505" lon="-90.16508614596612858349544695"/>
-  <node visible="true" id="-33" lat="29.91203900182616237657384772" lon="-90.16516963451925903427763842"/>
-  <node visible="true" id="-34" lat="29.91215628463415399096447800" lon="-90.16510267608292394925229019"/>
-  <node visible="true" id="-35" lat="29.91212047276663810180252767" lon="-90.16501918752979349847009871"/>
+  <node visible="true" id="-32" lat="29.91169541151306532356102252" lon="-90.16495590008989324815047439"/>
+  <node visible="true" id="-33" lat="29.91165973143660039568203501" lon="-90.16487090250137725888635032"/>
+  <node visible="true" id="-34" lat="29.91153690052774294372284203" lon="-90.16493952927213229031622177"/>
+  <node visible="true" id="-35" lat="29.91157258064821178322745254" lon="-90.16502452686063406872563064"/>
   <way visible="true" id="-8">
     <nd ref="-32"/>
     <nd ref="-33"/>
@@ -128,38 +124,28 @@
     <nd ref="-35"/>
     <nd ref="-32"/>
     <tag k="building" v="yes"/>
-    <tag k="building:levels" v="1"/>
-    <tag k="addr:housenumber" v="940"/>
+    <tag k="addr:housenumber" v="949"/>
     <tag k="addr:street" v="Patton Lane"/>
     <tag k="addr:city" v="Bridge City"/>
     <tag k="addr:postcode" v="70094"/>
   </way>
-  <node visible="true" id="-36" lat="29.91203233072952372140207444" lon="-90.16524255486845618179359008"/>
-  <node visible="true" id="-37" lat="29.91197471905342197828758799" lon="-90.16510752162828623568202602"/>
-  <node visible="true" id="-38" lat="29.91185568533258276602282422" lon="-90.16517511581702137846150436"/>
-  <node visible="true" id="-39" lat="29.91191329707753254751878558" lon="-90.16531014905723395713721402"/>
+  <node visible="true" id="-36" lat="29.91129414424082000323323882" lon="-90.16518572890402083430672064"/>
+  <node visible="true" id="-37" lat="29.91129419890387453051516786" lon="-90.16519188367313120124890702"/>
+  <node visible="true" id="-38" lat="29.91133188592394276383856777" lon="-90.16517109159472909141186392"/>
+  <node visible="true" id="-39" lat="29.91132943913973107896708825" lon="-90.16516518885624975609971443"/>
+  <node visible="true" id="-40" lat="29.91138645872649703960632905" lon="-90.16513373090998584302724339"/>
+  <node visible="true" id="-41" lat="29.91135069416671754538583627" lon="-90.16504745075560833811323391"/>
+  <node visible="true" id="-42" lat="29.91130711111409468117017241" lon="-90.16507149570234957991488045"/>
+  <node visible="true" id="-43" lat="29.91129537723759312939364463" lon="-90.16504318835008291443955386"/>
+  <node visible="true" id="-44" lat="29.91124333689558767446214915" lon="-90.16507189920046982933854451"/>
+  <node visible="true" id="-45" lat="29.91125547497069803171143576" lon="-90.16510118164514153704658384"/>
+  <node visible="true" id="-46" lat="29.91123041096986412412661593" lon="-90.16511500954405278207559604"/>
+  <node visible="true" id="-47" lat="29.91126613158904135048032913" lon="-90.16520118358994295704178512"/>
   <way visible="true" id="-9">
     <nd ref="-36"/>
     <nd ref="-37"/>
     <nd ref="-38"/>
     <nd ref="-39"/>
-    <nd ref="-36"/>
-    <tag k="building" v="yes"/>
-    <tag k="building:levels" v="1"/>
-    <tag k="addr:housenumber" v="944"/>
-    <tag k="addr:street" v="Patton Lane"/>
-    <tag k="addr:city" v="Bridge City"/>
-    <tag k="addr:postcode" v="70094"/>
-  </way>
-  <node visible="true" id="-40" lat="29.91170650139667941402876750" lon="-90.16525603144037859237869270"/>
-  <node visible="true" id="-41" lat="29.91174170313527369557959901" lon="-90.16533820775005381165101426"/>
-  <node visible="true" id="-42" lat="29.91179064021584110832918668" lon="-90.16531030652981826278846711"/>
-  <node visible="true" id="-43" lat="29.91179804686483834075261257" lon="-90.16532759691195053619594546"/>
-  <node visible="true" id="-44" lat="29.91180363294790822692448273" lon="-90.16532441203483472236257512"/>
-  <node visible="true" id="-45" lat="29.91181544098437328216277820" lon="-90.16535197719873906407883624"/>
-  <node visible="true" id="-46" lat="29.91188030478781101351160032" lon="-90.16531499541051175583561417"/>
-  <node visible="true" id="-47" lat="29.91182588841890677144874644" lon="-90.16518796355481413229426835"/>
-  <way visible="true" id="-10">
     <nd ref="-40"/>
     <nd ref="-41"/>
     <nd ref="-42"/>
@@ -168,89 +154,93 @@
     <nd ref="-45"/>
     <nd ref="-46"/>
     <nd ref="-47"/>
-    <nd ref="-40"/>
+    <nd ref="-36"/>
     <tag k="building" v="yes"/>
-    <tag k="building:levels" v="1"/>
-    <tag k="addr:housenumber" v="948"/>
-    <tag k="addr:street" v="Patton Lane"/>
-    <tag k="addr:city" v="Bridge City"/>
-    <tag k="addr:postcode" v="70094"/>
-  </way>
-  <node visible="true" id="-48" lat="29.91183761873815782905694505" lon="-90.16485930226794209829677129"/>
-  <node visible="true" id="-49" lat="29.91180206090707827115693362" lon="-90.16477459760319845827325480"/>
-  <node visible="true" id="-50" lat="29.91168488408598591377085540" lon="-90.16484006689240970899845706"/>
-  <node visible="true" id="-51" lat="29.91172044195891643880713673" lon="-90.16492477155715334902197355"/>
-  <way visible="true" id="-11">
-    <nd ref="-48"/>
-    <nd ref="-49"/>
-    <nd ref="-50"/>
-    <nd ref="-51"/>
-    <nd ref="-48"/>
-    <tag k="building" v="yes"/>
-    <tag k="building:levels" v="1"/>
-    <tag k="addr:housenumber" v="945"/>
-    <tag k="addr:street" v="Patton Lane"/>
-    <tag k="addr:city" v="Bridge City"/>
-    <tag k="addr:postcode" v="70094"/>
-  </way>
-  <node visible="true" id="-52" lat="29.91169541151306532356102252" lon="-90.16495590008989324815047439"/>
-  <node visible="true" id="-53" lat="29.91165973143660039568203501" lon="-90.16487090250137725888635032"/>
-  <node visible="true" id="-54" lat="29.91153690052774294372284203" lon="-90.16493952927213229031622177"/>
-  <node visible="true" id="-55" lat="29.91157258064821178322745254" lon="-90.16502452686063406872563064"/>
-  <way visible="true" id="-12">
-    <nd ref="-52"/>
-    <nd ref="-53"/>
-    <nd ref="-54"/>
-    <nd ref="-55"/>
-    <nd ref="-52"/>
-    <tag k="building" v="yes"/>
-    <tag k="building:levels" v="1"/>
-    <tag k="addr:housenumber" v="949"/>
-    <tag k="addr:street" v="Patton Lane"/>
-    <tag k="addr:city" v="Bridge City"/>
-    <tag k="addr:postcode" v="70094"/>
-  </way>
-  <node visible="true" id="-56" lat="29.91129414424082000323323882" lon="-90.16518572890402083430672064"/>
-  <node visible="true" id="-57" lat="29.91129419890387453051516786" lon="-90.16519188367313120124890702"/>
-  <node visible="true" id="-58" lat="29.91133188592394276383856777" lon="-90.16517109159472909141186392"/>
-  <node visible="true" id="-59" lat="29.91132943913973107896708825" lon="-90.16516518885624975609971443"/>
-  <node visible="true" id="-60" lat="29.91138645872649703960632905" lon="-90.16513373090998584302724339"/>
-  <node visible="true" id="-61" lat="29.91135069416671754538583627" lon="-90.16504745075560833811323391"/>
-  <node visible="true" id="-62" lat="29.91130711111409468117017241" lon="-90.16507149570234957991488045"/>
-  <node visible="true" id="-63" lat="29.91129537723759312939364463" lon="-90.16504318835008291443955386"/>
-  <node visible="true" id="-64" lat="29.91124333689558767446214915" lon="-90.16507189920046982933854451"/>
-  <node visible="true" id="-65" lat="29.91125547497069803171143576" lon="-90.16510118164514153704658384"/>
-  <node visible="true" id="-66" lat="29.91123041096986412412661593" lon="-90.16511500954405278207559604"/>
-  <node visible="true" id="-67" lat="29.91126613158904135048032913" lon="-90.16520118358994295704178512"/>
-  <way visible="true" id="-13">
-    <nd ref="-56"/>
-    <nd ref="-57"/>
-    <nd ref="-58"/>
-    <nd ref="-59"/>
-    <nd ref="-60"/>
-    <nd ref="-61"/>
-    <nd ref="-62"/>
-    <nd ref="-63"/>
-    <nd ref="-64"/>
-    <nd ref="-65"/>
-    <nd ref="-66"/>
-    <nd ref="-67"/>
-    <nd ref="-56"/>
-    <tag k="building" v="yes"/>
-    <tag k="building:levels" v="1"/>
     <tag k="addr:housenumber" v="957"/>
     <tag k="addr:street" v="Patton Lane"/>
     <tag k="addr:city" v="Bridge City"/>
     <tag k="addr:postcode" v="70094"/>
   </way>
-  <node visible="true" id="-68" lat="29.91106955587314786271235789" lon="-90.16524835169798279821407050"/>
-  <node visible="true" id="-69" lat="29.91102122201921176269934222" lon="-90.16513511747473330615321174"/>
-  <node visible="true" id="-70" lat="29.91096677673077763870423951" lon="-90.16516604857413597073900746"/>
-  <node visible="true" id="-71" lat="29.91096367842040493201238860" lon="-90.16515879000782263119617710"/>
-  <node visible="true" id="-72" lat="29.91089978766848034297254344" lon="-90.16519508717922803953115363"/>
-  <node visible="true" id="-73" lat="29.91091614998039460715517635" lon="-90.16523341996203555481770309"/>
-  <node visible="true" id="-74" lat="29.91091205293235333328993875" lon="-90.16523346790350501578359399"/>
-  <node visible="true" id="-75" lat="29.91094790599649755336031376" lon="-90.16531746263656543760589557"/>
+  <node visible="true" id="-48" lat="29.91106955587314786271235789" lon="-90.16524835169798279821407050"/>
+  <node visible="true" id="-49" lat="29.91102122201921176269934222" lon="-90.16513511747473330615321174"/>
+  <node visible="true" id="-50" lat="29.91096677673077763870423951" lon="-90.16516604857413597073900746"/>
+  <node visible="true" id="-51" lat="29.91096367842040493201238860" lon="-90.16515879000782263119617710"/>
+  <node visible="true" id="-52" lat="29.91089978766848034297254344" lon="-90.16519508717922803953115363"/>
+  <node visible="true" id="-53" lat="29.91091614998039460715517635" lon="-90.16523341996203555481770309"/>
+  <node visible="true" id="-54" lat="29.91091205293235333328993875" lon="-90.16523346790350501578359399"/>
+  <node visible="true" id="-55" lat="29.91094790599649755336031376" lon="-90.16531746263656543760589557"/>
+  <way visible="true" id="-10">
+    <nd ref="-48"/>
+    <nd ref="-49"/>
+    <nd ref="-50"/>
+    <nd ref="-51"/>
+    <nd ref="-52"/>
+    <nd ref="-53"/>
+    <nd ref="-54"/>
+    <nd ref="-55"/>
+    <nd ref="-48"/>
+    <tag k="building" v="yes"/>
+    <tag k="addr:housenumber" v="965"/>
+    <tag k="addr:street" v="Patton Lane"/>
+    <tag k="addr:city" v="Bridge City"/>
+    <tag k="addr:postcode" v="70094"/>
+  </way>
+  <node visible="true" id="-56" lat="29.91233955814574585474474588" lon="-90.16499919486248870725830784"/>
+  <node visible="true" id="-57" lat="29.91245833639502293976875080" lon="-90.16493138901461179557372816"/>
+  <node visible="true" id="-58" lat="29.91242326495044778766896343" lon="-90.16484961845516465928085381"/>
+  <node visible="true" id="-59" lat="29.91230448665932684093604621" lon="-90.16491742430304157096543349"/>
+  <way visible="true" id="-11">
+    <nd ref="-56"/>
+    <nd ref="-57"/>
+    <nd ref="-58"/>
+    <nd ref="-59"/>
+    <nd ref="-56"/>
+    <tag k="building" v="yes"/>
+    <tag k="addr:housenumber" v="932"/>
+    <tag k="addr:street" v="Patton Lane"/>
+    <tag k="addr:city" v="Bridge City"/>
+    <tag k="addr:postcode" v="70094"/>
+  </way>
+  <node visible="true" id="-60" lat="29.91200318991644735433510505" lon="-90.16508614596612858349544695"/>
+  <node visible="true" id="-61" lat="29.91203900182616237657384772" lon="-90.16516963451925903427763842"/>
+  <node visible="true" id="-62" lat="29.91215628463415399096447800" lon="-90.16510267608292394925229019"/>
+  <node visible="true" id="-63" lat="29.91212047276663810180252767" lon="-90.16501918752979349847009871"/>
+  <way visible="true" id="-12">
+    <nd ref="-60"/>
+    <nd ref="-61"/>
+    <nd ref="-62"/>
+    <nd ref="-63"/>
+    <nd ref="-60"/>
+    <tag k="building" v="yes"/>
+    <tag k="addr:housenumber" v="940"/>
+    <tag k="addr:street" v="Patton Lane"/>
+    <tag k="addr:city" v="Bridge City"/>
+    <tag k="addr:postcode" v="70094"/>
+  </way>
+  <node visible="true" id="-64" lat="29.91203233072952372140207444" lon="-90.16524255486845618179359008"/>
+  <node visible="true" id="-65" lat="29.91197471905342197828758799" lon="-90.16510752162828623568202602"/>
+  <node visible="true" id="-66" lat="29.91185568533258276602282422" lon="-90.16517511581702137846150436"/>
+  <node visible="true" id="-67" lat="29.91191329707753254751878558" lon="-90.16531014905723395713721402"/>
+  <way visible="true" id="-13">
+    <nd ref="-64"/>
+    <nd ref="-65"/>
+    <nd ref="-66"/>
+    <nd ref="-67"/>
+    <nd ref="-64"/>
+    <tag k="building" v="yes"/>
+    <tag k="addr:housenumber" v="944"/>
+    <tag k="addr:street" v="Patton Lane"/>
+    <tag k="addr:city" v="Bridge City"/>
+    <tag k="addr:postcode" v="70094"/>
+  </way>
+  <node visible="true" id="-68" lat="29.91170650139667941402876750" lon="-90.16525603144037859237869270"/>
+  <node visible="true" id="-69" lat="29.91174170313527369557959901" lon="-90.16533820775005381165101426"/>
+  <node visible="true" id="-70" lat="29.91179064021584110832918668" lon="-90.16531030652981826278846711"/>
+  <node visible="true" id="-71" lat="29.91179804686483834075261257" lon="-90.16532759691195053619594546"/>
+  <node visible="true" id="-72" lat="29.91180363294790822692448273" lon="-90.16532441203483472236257512"/>
+  <node visible="true" id="-73" lat="29.91181544098437328216277820" lon="-90.16535197719873906407883624"/>
+  <node visible="true" id="-74" lat="29.91188030478781101351160032" lon="-90.16531499541051175583561417"/>
+  <node visible="true" id="-75" lat="29.91182588841890677144874644" lon="-90.16518796355481413229426835"/>
   <way visible="true" id="-14">
     <nd ref="-68"/>
     <nd ref="-69"/>
@@ -262,8 +252,7 @@
     <nd ref="-75"/>
     <nd ref="-68"/>
     <tag k="building" v="yes"/>
-    <tag k="building:levels" v="1"/>
-    <tag k="addr:housenumber" v="965"/>
+    <tag k="addr:housenumber" v="948"/>
     <tag k="addr:street" v="Patton Lane"/>
     <tag k="addr:city" v="Bridge City"/>
     <tag k="addr:postcode" v="70094"/>
@@ -287,7 +276,6 @@
     <nd ref="-83"/>
     <nd ref="-76"/>
     <tag k="building" v="yes"/>
-    <tag k="building:levels" v="1"/>
     <tag k="addr:housenumber" v="953"/>
     <tag k="addr:street" v="Patton Lane"/>
     <tag k="addr:city" v="Bridge City"/>
@@ -360,7 +348,6 @@
     <nd ref="-109"/>
     <nd ref="-104"/>
     <tag k="building" v="yes"/>
-    <tag k="building:levels" v="1"/>
     <tag k="addr:housenumber" v="936"/>
     <tag k="addr:street" v="Patton Lane"/>
     <tag k="addr:city" v="Bridge City"/>
@@ -389,7 +376,6 @@
     <nd ref="-117"/>
     <nd ref="-114"/>
     <tag k="building" v="yes"/>
-    <tag k="building:levels" v="1"/>
     <tag k="addr:housenumber" v="961"/>
     <tag k="addr:street" v="Patton Lane"/>
     <tag k="addr:city" v="Bridge City"/>
@@ -406,7 +392,6 @@
     <nd ref="-121"/>
     <nd ref="-118"/>
     <tag k="building" v="yes"/>
-    <tag k="building:levels" v="1"/>
     <tag k="addr:housenumber" v="956"/>
     <tag k="addr:street" v="North Claiborne Parkway"/>
     <tag k="addr:city" v="Bridge City"/>
@@ -427,7 +412,6 @@
     <nd ref="-127"/>
     <nd ref="-122"/>
     <tag k="building" v="yes"/>
-    <tag k="building:levels" v="1"/>
     <tag k="addr:housenumber" v="960"/>
     <tag k="addr:street" v="Patton Lane"/>
     <tag k="addr:city" v="Bridge City"/>
@@ -444,7 +428,6 @@
     <nd ref="-131"/>
     <nd ref="-128"/>
     <tag k="building" v="yes"/>
-    <tag k="building:levels" v="1"/>
     <tag k="addr:housenumber" v="928"/>
     <tag k="addr:street" v="Patton Lane"/>
     <tag k="addr:city" v="Bridge City"/>
@@ -477,7 +460,6 @@
     <nd ref="-143"/>
     <nd ref="-132"/>
     <tag k="building" v="yes"/>
-    <tag k="building:levels" v="1"/>
   </way>
   <node visible="true" id="-144" lat="29.91092976765876798594945285" lon="-90.16583835219161358054407174">
     <tag k="addr:housenumber" v="9528"/>

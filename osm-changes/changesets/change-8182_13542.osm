@@ -38,7 +38,6 @@
     <nd ref="-14"/>
     <nd ref="-9"/>
     <tag k="building" v="yes"/>
-    <tag k="building:levels" v="1"/>
     <tag k="addr:housenumber" v="7145"/>
     <tag k="addr:street" v="Barataria Boulevard"/>
     <tag k="addr:city" v="Crown Point"/>
@@ -71,7 +70,6 @@
     <nd ref="-26"/>
     <nd ref="-15"/>
     <tag k="building" v="yes"/>
-    <tag k="building:levels" v="1"/>
     <tag k="addr:housenumber" v="7090"/>
     <tag k="addr:street" v="Barataria Boulevard"/>
     <tag k="addr:city" v="Crown Point"/>
@@ -88,7 +86,6 @@
     <nd ref="-30"/>
     <nd ref="-27"/>
     <tag k="building" v="yes"/>
-    <tag k="building:levels" v="1"/>
     <tag k="addr:housenumber" v="7074"/>
     <tag k="addr:street" v="Barataria Boulevard"/>
     <tag k="addr:city" v="Crown Point"/>
@@ -117,7 +114,6 @@
     <nd ref="-38"/>
     <nd ref="-35"/>
     <tag k="building" v="yes"/>
-    <tag k="building:levels" v="1"/>
     <tag k="addr:housenumber" v="7071"/>
     <tag k="addr:street" v="Barataria Boulevard"/>
     <tag k="addr:city" v="Crown Point"/>
@@ -144,7 +140,6 @@
     <nd ref="-47"/>
     <nd ref="-39"/>
     <tag k="building" v="yes"/>
-    <tag k="building:levels" v="1"/>
     <tag k="addr:housenumber" v="7081"/>
     <tag k="addr:street" v="Barataria Boulevard"/>
     <tag k="addr:city" v="Crown Point"/>
@@ -162,16 +157,14 @@
     <nd ref="-48"/>
     <tag k="building" v="yes"/>
   </way>
-  <node visible="true" id="-52" lat="29.77820820159689674255787395" lon="-90.10066146871399439532979159"/>
-  <node visible="true" id="-53" lat="29.77817627670381739335425664" lon="-90.10067194118053635065734852"/>
-  <node visible="true" id="-54" lat="29.77815363189786168618411466" lon="-90.10058030752978197597258259"/>
-  <node visible="true" id="-55" lat="29.77806658748164991834528337" lon="-90.10060886107845590231590904"/>
-  <node visible="true" id="-56" lat="29.77810782067639294723448984" lon="-90.10077571369974691606330452"/>
-  <node visible="true" id="-57" lat="29.77812644941479547355811519" lon="-90.10076960283532798712258227"/>
-  <node visible="true" id="-58" lat="29.77814485793974697003250185" lon="-90.10084409408320027523586759"/>
-  <node visible="true" id="-59" lat="29.77821405697703482928773155" lon="-90.10082139441406923197064316"/>
-  <node visible="true" id="-60" lat="29.77819121875442576197201561" lon="-90.10072897805575564689206658"/>
-  <node visible="true" id="-61" lat="29.77822236023489921308282646" lon="-90.10071876257408973742712988"/>
+  <node visible="true" id="-52" lat="29.77797572742899490094714565" lon="-90.10213726491048191746813245"/>
+  <node visible="true" id="-53" lat="29.77794598361031574995649862" lon="-90.10197664791427030195336556"/>
+  <node visible="true" id="-54" lat="29.77788636642183206504341797" lon="-90.10199130273632306398212677"/>
+  <node visible="true" id="-55" lat="29.77788466024779978624792420" lon="-90.10198208938237485199351795"/>
+  <node visible="true" id="-56" lat="29.77786476077959676445061632" lon="-90.10198698097576652799034491"/>
+  <node visible="true" id="-57" lat="29.77786688406966675302101066" lon="-90.10199844675855729292379692"/>
+  <node visible="true" id="-58" lat="29.77784139539826568920943828" lon="-90.10200471226222873610822717"/>
+  <node visible="true" id="-59" lat="29.77787072213208929838401673" lon="-90.10216307682961200953286607"/>
   <way visible="true" id="-9">
     <nd ref="-52"/>
     <nd ref="-53"/>
@@ -181,25 +174,26 @@
     <nd ref="-57"/>
     <nd ref="-58"/>
     <nd ref="-59"/>
-    <nd ref="-60"/>
-    <nd ref="-61"/>
     <nd ref="-52"/>
     <tag k="building" v="yes"/>
-    <tag k="building:levels" v="1"/>
-    <tag k="addr:housenumber" v="7093"/>
+    <tag k="addr:housenumber" v="7040"/>
     <tag k="addr:street" v="Barataria Boulevard"/>
     <tag k="addr:city" v="Crown Point"/>
     <tag k="addr:postcode" v="70072"/>
   </way>
-  <node visible="true" id="-62" lat="29.77797572742899490094714565" lon="-90.10213726491048191746813245"/>
-  <node visible="true" id="-63" lat="29.77794598361031574995649862" lon="-90.10197664791427030195336556"/>
-  <node visible="true" id="-64" lat="29.77788636642183206504341797" lon="-90.10199130273632306398212677"/>
-  <node visible="true" id="-65" lat="29.77788466024779978624792420" lon="-90.10198208938237485199351795"/>
-  <node visible="true" id="-66" lat="29.77786476077959676445061632" lon="-90.10198698097576652799034491"/>
-  <node visible="true" id="-67" lat="29.77786688406966675302101066" lon="-90.10199844675855729292379692"/>
-  <node visible="true" id="-68" lat="29.77784139539826568920943828" lon="-90.10200471226222873610822717"/>
-  <node visible="true" id="-69" lat="29.77787072213208929838401673" lon="-90.10216307682961200953286607"/>
+  <node visible="true" id="-60" lat="29.77820820159689674255787395" lon="-90.10066146871399439532979159"/>
+  <node visible="true" id="-61" lat="29.77817627670381739335425664" lon="-90.10067194118053635065734852"/>
+  <node visible="true" id="-62" lat="29.77815363189786168618411466" lon="-90.10058030752978197597258259"/>
+  <node visible="true" id="-63" lat="29.77806658748164991834528337" lon="-90.10060886107845590231590904"/>
+  <node visible="true" id="-64" lat="29.77810782067639294723448984" lon="-90.10077571369974691606330452"/>
+  <node visible="true" id="-65" lat="29.77812644941479547355811519" lon="-90.10076960283532798712258227"/>
+  <node visible="true" id="-66" lat="29.77814485793974697003250185" lon="-90.10084409408320027523586759"/>
+  <node visible="true" id="-67" lat="29.77821405697703482928773155" lon="-90.10082139441406923197064316"/>
+  <node visible="true" id="-68" lat="29.77819121875442576197201561" lon="-90.10072897805575564689206658"/>
+  <node visible="true" id="-69" lat="29.77822236023489921308282646" lon="-90.10071876257408973742712988"/>
   <way visible="true" id="-10">
+    <nd ref="-60"/>
+    <nd ref="-61"/>
     <nd ref="-62"/>
     <nd ref="-63"/>
     <nd ref="-64"/>
@@ -208,10 +202,9 @@
     <nd ref="-67"/>
     <nd ref="-68"/>
     <nd ref="-69"/>
-    <nd ref="-62"/>
+    <nd ref="-60"/>
     <tag k="building" v="yes"/>
-    <tag k="building:levels" v="1"/>
-    <tag k="addr:housenumber" v="7040"/>
+    <tag k="addr:housenumber" v="7093"/>
     <tag k="addr:street" v="Barataria Boulevard"/>
     <tag k="addr:city" v="Crown Point"/>
     <tag k="addr:postcode" v="70072"/>
@@ -335,7 +328,6 @@
     <nd ref="-109"/>
     <nd ref="-106"/>
     <tag k="building" v="yes"/>
-    <tag k="building:levels" v="1"/>
     <tag k="addr:housenumber" v="7150"/>
     <tag k="addr:street" v="Barataria Boulevard"/>
     <tag k="addr:city" v="Crown Point"/>

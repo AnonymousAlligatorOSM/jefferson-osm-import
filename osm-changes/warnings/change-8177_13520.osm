@@ -24,48 +24,46 @@
     <tag k="addr:postcode" v="70001"/>
     <tag k="addr:unit" v="200-1"/>
   </node>
-  <node visible="true" id="-4" lat="29.98871324724150611018558266" lon="-90.15623180974738204440654954"/>
-  <node visible="true" id="-5" lat="29.98874636209447785972770362" lon="-90.15622998350247030430182349"/>
-  <node visible="true" id="-6" lat="29.98874353622706223632121691" lon="-90.15612373598554540876648389"/>
-  <node visible="true" id="-7" lat="29.98872978519646537165499467" lon="-90.15612389827585104740137467"/>
-  <node visible="true" id="-8" lat="29.98872941274071379780252755" lon="-90.15608225264219299788237549"/>
-  <node visible="true" id="-9" lat="29.98871191159310001239646226" lon="-90.15608245919881369445647579"/>
-  <node visible="true" id="-10" lat="29.98866130844031729907328554" lon="-90.15608592838944446157256607"/>
-  <node visible="true" id="-11" lat="29.98866290465055683966966171" lon="-90.15612468760261322131555062"/>
-  <node visible="true" id="-12" lat="29.98854730289084713490410650" lon="-90.15612964316441946266422747"/>
-  <node visible="true" id="-13" lat="29.98855077869162499837329960" lon="-90.15623875371232998077175580"/>
+  <node visible="true" id="-4" lat="29.98455674071790610923926579" lon="-90.15387357755489006194693502"/>
+  <node visible="true" id="-5" lat="29.98447331529743209443950036" lon="-90.15387723140803188925929135"/>
+  <node visible="true" id="-6" lat="29.98447484820164277152798604" lon="-90.15392388288793767969764303"/>
+  <node visible="true" id="-7" lat="29.98455827362083070397602569" lon="-90.15392022903478164153057151"/>
   <way visible="true" id="-1">
     <nd ref="-4"/>
     <nd ref="-5"/>
     <nd ref="-6"/>
     <nd ref="-7"/>
+    <nd ref="-4"/>
+    <tag k="building" v="yes"/>
+    <tag k="addr:street" v="47th Street"/>
+    <tag k="addr:city" v="Metairie"/>
+    <tag k="addr:postcode" v="70001"/>
+  </way>
+  <node visible="true" id="-8" lat="29.98871324724150611018558266" lon="-90.15623180974738204440654954"/>
+  <node visible="true" id="-9" lat="29.98874636209447785972770362" lon="-90.15622998350247030430182349"/>
+  <node visible="true" id="-10" lat="29.98874353622706223632121691" lon="-90.15612373598554540876648389"/>
+  <node visible="true" id="-11" lat="29.98872978519646537165499467" lon="-90.15612389827585104740137467"/>
+  <node visible="true" id="-12" lat="29.98872941274071379780252755" lon="-90.15608225264219299788237549"/>
+  <node visible="true" id="-13" lat="29.98871191159310001239646226" lon="-90.15608245919881369445647579"/>
+  <node visible="true" id="-14" lat="29.98866130844031729907328554" lon="-90.15608592838944446157256607"/>
+  <node visible="true" id="-15" lat="29.98866290465055683966966171" lon="-90.15612468760261322131555062"/>
+  <node visible="true" id="-16" lat="29.98854730289084713490410650" lon="-90.15612964316441946266422747"/>
+  <node visible="true" id="-17" lat="29.98855077869162499837329960" lon="-90.15623875371232998077175580"/>
+  <way visible="true" id="-2">
     <nd ref="-8"/>
     <nd ref="-9"/>
     <nd ref="-10"/>
     <nd ref="-11"/>
     <nd ref="-12"/>
     <nd ref="-13"/>
-    <nd ref="-4"/>
-    <tag k="building" v="yes"/>
-    <tag k="building:levels" v="1"/>
-    <tag k="addr:housenumber" v="1800"/>
-    <tag k="addr:street" v="North Causeway Road West"/>
-    <tag k="addr:city" v="Metairie"/>
-    <tag k="addr:postcode" v="70001"/>
-  </way>
-  <node visible="true" id="-14" lat="29.98455674071790610923926579" lon="-90.15387357755489006194693502"/>
-  <node visible="true" id="-15" lat="29.98447331529743209443950036" lon="-90.15387723140803188925929135"/>
-  <node visible="true" id="-16" lat="29.98447484820164277152798604" lon="-90.15392388288793767969764303"/>
-  <node visible="true" id="-17" lat="29.98455827362083070397602569" lon="-90.15392022903478164153057151"/>
-  <way visible="true" id="-2">
     <nd ref="-14"/>
     <nd ref="-15"/>
     <nd ref="-16"/>
     <nd ref="-17"/>
-    <nd ref="-14"/>
+    <nd ref="-8"/>
     <tag k="building" v="yes"/>
-    <tag k="building:levels" v="2"/>
-    <tag k="addr:street" v="47th Street"/>
+    <tag k="addr:housenumber" v="1800"/>
+    <tag k="addr:street" v="North Causeway Road West"/>
     <tag k="addr:city" v="Metairie"/>
     <tag k="addr:postcode" v="70001"/>
   </way>
@@ -92,7 +90,6 @@
     <nd ref="-27"/>
     <nd ref="-18"/>
     <tag k="building" v="yes"/>
-    <tag k="building:levels" v="1"/>
     <tag k="addr:street" v="Ridgelake Drive"/>
     <tag k="addr:city" v="Metairie"/>
     <tag k="addr:postcode" v="70001"/>
@@ -122,7 +119,6 @@
     <nd ref="-38"/>
     <nd ref="-28"/>
     <tag k="building" v="yes"/>
-    <tag k="building:levels" v="1"/>
     <tag k="addr:street" v="Ridgelake Drive"/>
     <tag k="addr:city" v="Metairie"/>
     <tag k="addr:postcode" v="70001"/>
@@ -142,7 +138,6 @@
     <nd ref="-44"/>
     <nd ref="-39"/>
     <tag k="building" v="yes"/>
-    <tag k="building:levels" v="1"/>
     <tag k="addr:housenumber" v="1812"/>
     <tag k="addr:street" v="North Causeway Road West"/>
     <tag k="addr:city" v="Metairie"/>
@@ -178,14 +173,14 @@
     <tag k="addr:city" v="Metairie"/>
     <tag k="addr:postcode" v="70001"/>
   </way>
-  <node visible="true" id="-53" lat="29.99278975714425143905828008" lon="-90.16242050036926514167134883">
-    <tag k="addr:housenumber" v="3660"/>
+  <node visible="true" id="-53" lat="29.99260615744960389861262229" lon="-90.15876648802939996585337212">
+    <tag k="addr:housenumber" v="3403"/>
     <tag k="addr:street" v="West Napoleon Avenue North"/>
     <tag k="addr:city" v="Metairie"/>
     <tag k="addr:postcode" v="70001"/>
   </node>
-  <node visible="true" id="-54" lat="29.99260615744960389861262229" lon="-90.15876648802939996585337212">
-    <tag k="addr:housenumber" v="3403"/>
+  <node visible="true" id="-54" lat="29.99278975714425143905828008" lon="-90.16242050036926514167134883">
+    <tag k="addr:housenumber" v="3660"/>
     <tag k="addr:street" v="West Napoleon Avenue North"/>
     <tag k="addr:city" v="Metairie"/>
     <tag k="addr:postcode" v="70001"/>

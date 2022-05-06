@@ -14,7 +14,6 @@
     <nd ref="-4"/>
     <nd ref="-1"/>
     <tag k="building" v="yes"/>
-    <tag k="building:levels" v="1"/>
     <tag k="addr:housenumber" v="1101"/>
     <tag k="addr:street" v="Sandalwood Drive"/>
     <tag k="addr:city" v="Harvey"/>
@@ -31,7 +30,6 @@
     <nd ref="-8"/>
     <nd ref="-5"/>
     <tag k="building" v="yes"/>
-    <tag k="building:levels" v="1"/>
     <tag k="addr:housenumber" v="1029"/>
     <tag k="addr:street" v="Sandalwood Drive"/>
     <tag k="addr:city" v="Harvey"/>
@@ -52,7 +50,6 @@
     <nd ref="-14"/>
     <nd ref="-9"/>
     <tag k="building" v="yes"/>
-    <tag k="building:levels" v="1"/>
     <tag k="addr:housenumber" v="1041"/>
     <tag k="addr:street" v="Sandalwood Drive"/>
     <tag k="addr:city" v="Harvey"/>
@@ -73,54 +70,51 @@
     <nd ref="-20"/>
     <nd ref="-15"/>
     <tag k="building" v="yes"/>
-    <tag k="building:levels" v="1"/>
     <tag k="addr:housenumber" v="1037"/>
     <tag k="addr:street" v="Sandalwood Drive"/>
     <tag k="addr:city" v="Harvey"/>
     <tag k="addr:postcode" v="70058"/>
   </way>
-  <node visible="true" id="-21" lat="29.89813650629571739614220860" lon="-90.06484431663025702619052026"/>
-  <node visible="true" id="-22" lat="29.89810059595957270062172029" lon="-90.06493165908261744334595278"/>
-  <node visible="true" id="-23" lat="29.89821365235574646135319199" lon="-90.06499350887492028050473891"/>
-  <node visible="true" id="-24" lat="29.89824956265115574183255376" lon="-90.06490616642254565249459120"/>
+  <node visible="true" id="-21" lat="29.89962753533452399778980180" lon="-90.06572042526092047864949564"/>
+  <node visible="true" id="-22" lat="29.89955063445315985859451757" lon="-90.06567424340113348080194555"/>
+  <node visible="true" id="-23" lat="29.89954366567443955204907979" lon="-90.06568968449488465921604075"/>
+  <node visible="true" id="-24" lat="29.89951641842992202668938262" lon="-90.06567332151361426895164186"/>
+  <node visible="true" id="-25" lat="29.89947719444577600711454579" lon="-90.06576023213817450141505105"/>
+  <node visible="true" id="-26" lat="29.89958134261803834874626773" lon="-90.06582277697923188952700002"/>
   <way visible="true" id="-5">
     <nd ref="-21"/>
     <nd ref="-22"/>
     <nd ref="-23"/>
     <nd ref="-24"/>
-    <nd ref="-21"/>
-    <tag k="building" v="yes"/>
-    <tag k="building:levels" v="1"/>
-    <tag k="addr:housenumber" v="1065"/>
-    <tag k="addr:street" v="Sandalwood Drive"/>
-    <tag k="addr:city" v="Harvey"/>
-    <tag k="addr:postcode" v="70058"/>
-  </way>
-  <node visible="true" id="-25" lat="29.89962753533452399778980180" lon="-90.06572042526092047864949564"/>
-  <node visible="true" id="-26" lat="29.89955063445315985859451757" lon="-90.06567424340113348080194555"/>
-  <node visible="true" id="-27" lat="29.89954366567443955204907979" lon="-90.06568968449488465921604075"/>
-  <node visible="true" id="-28" lat="29.89951641842992202668938262" lon="-90.06567332151361426895164186"/>
-  <node visible="true" id="-29" lat="29.89947719444577600711454579" lon="-90.06576023213817450141505105"/>
-  <node visible="true" id="-30" lat="29.89958134261803834874626773" lon="-90.06582277697923188952700002"/>
-  <way visible="true" id="-6">
     <nd ref="-25"/>
     <nd ref="-26"/>
-    <nd ref="-27"/>
-    <nd ref="-28"/>
-    <nd ref="-29"/>
-    <nd ref="-30"/>
-    <nd ref="-25"/>
+    <nd ref="-21"/>
     <tag k="building" v="yes"/>
-    <tag k="building:levels" v="1"/>
     <tag k="addr:housenumber" v="1025"/>
     <tag k="addr:street" v="Sandalwood Drive"/>
     <tag k="addr:city" v="Harvey"/>
     <tag k="addr:postcode" v="70058"/>
   </way>
-  <node visible="true" id="-31" lat="29.89817396057999943081995298" lon="-90.06529554354892752598971128"/>
-  <node visible="true" id="-32" lat="29.89812961334104457478133554" lon="-90.06540300941411203439201927"/>
-  <node visible="true" id="-33" lat="29.89823075422255627131562505" lon="-90.06545854508790682757535251"/>
-  <node visible="true" id="-34" lat="29.89827510141644495433865814" lon="-90.06535107922270810831832932"/>
+  <node visible="true" id="-27" lat="29.89817396057999943081995298" lon="-90.06529554354892752598971128"/>
+  <node visible="true" id="-28" lat="29.89812961334104457478133554" lon="-90.06540300941411203439201927"/>
+  <node visible="true" id="-29" lat="29.89823075422255627131562505" lon="-90.06545854508790682757535251"/>
+  <node visible="true" id="-30" lat="29.89827510141644495433865814" lon="-90.06535107922270810831832932"/>
+  <way visible="true" id="-6">
+    <nd ref="-27"/>
+    <nd ref="-28"/>
+    <nd ref="-29"/>
+    <nd ref="-30"/>
+    <nd ref="-27"/>
+    <tag k="building" v="yes"/>
+    <tag k="addr:housenumber" v="1060"/>
+    <tag k="addr:street" v="Sandalwood Drive"/>
+    <tag k="addr:city" v="Harvey"/>
+    <tag k="addr:postcode" v="70058"/>
+  </way>
+  <node visible="true" id="-31" lat="29.89813650629571739614220860" lon="-90.06484431663025702619052026"/>
+  <node visible="true" id="-32" lat="29.89810059595957270062172029" lon="-90.06493165908261744334595278"/>
+  <node visible="true" id="-33" lat="29.89821365235574646135319199" lon="-90.06499350887492028050473891"/>
+  <node visible="true" id="-34" lat="29.89824956265115574183255376" lon="-90.06490616642254565249459120"/>
   <way visible="true" id="-7">
     <nd ref="-31"/>
     <nd ref="-32"/>
@@ -128,8 +122,7 @@
     <nd ref="-34"/>
     <nd ref="-31"/>
     <tag k="building" v="yes"/>
-    <tag k="building:levels" v="1"/>
-    <tag k="addr:housenumber" v="1060"/>
+    <tag k="addr:housenumber" v="1065"/>
     <tag k="addr:street" v="Sandalwood Drive"/>
     <tag k="addr:city" v="Harvey"/>
     <tag k="addr:postcode" v="70058"/>
@@ -149,7 +142,6 @@
     <nd ref="-40"/>
     <nd ref="-35"/>
     <tag k="building" v="yes"/>
-    <tag k="building:levels" v="1"/>
     <tag k="addr:housenumber" v="1052"/>
     <tag k="addr:street" v="Sandalwood Drive"/>
     <tag k="addr:city" v="Harvey"/>
@@ -170,7 +162,6 @@
     <nd ref="-46"/>
     <nd ref="-41"/>
     <tag k="building" v="yes"/>
-    <tag k="building:levels" v="1"/>
     <tag k="addr:housenumber" v="1040"/>
     <tag k="addr:street" v="Sandalwood Drive"/>
     <tag k="addr:city" v="Harvey"/>
@@ -191,7 +182,6 @@
     <nd ref="-52"/>
     <nd ref="-47"/>
     <tag k="building" v="yes"/>
-    <tag k="building:levels" v="1"/>
     <tag k="addr:housenumber" v="1017"/>
     <tag k="addr:street" v="Sandalwood Drive"/>
     <tag k="addr:city" v="Harvey"/>
@@ -208,7 +198,6 @@
     <nd ref="-56"/>
     <nd ref="-53"/>
     <tag k="building" v="yes"/>
-    <tag k="building:levels" v="1"/>
     <tag k="addr:housenumber" v="1032"/>
     <tag k="addr:street" v="Sandalwood Drive"/>
     <tag k="addr:city" v="Harvey"/>
@@ -225,7 +214,6 @@
     <nd ref="-60"/>
     <nd ref="-57"/>
     <tag k="building" v="yes"/>
-    <tag k="building:levels" v="1"/>
     <tag k="addr:housenumber" v="1053"/>
     <tag k="addr:street" v="Sandalwood Drive"/>
     <tag k="addr:city" v="Harvey"/>
@@ -242,7 +230,6 @@
     <nd ref="-64"/>
     <nd ref="-61"/>
     <tag k="building" v="yes"/>
-    <tag k="building:levels" v="1"/>
     <tag k="addr:housenumber" v="1057"/>
     <tag k="addr:street" v="Sandalwood Drive"/>
     <tag k="addr:city" v="Harvey"/>
@@ -259,7 +246,6 @@
     <nd ref="-68"/>
     <nd ref="-65"/>
     <tag k="building" v="yes"/>
-    <tag k="building:levels" v="1"/>
     <tag k="addr:housenumber" v="1061"/>
     <tag k="addr:street" v="Sandalwood Drive"/>
     <tag k="addr:city" v="Harvey"/>
@@ -276,7 +262,6 @@
     <nd ref="-72"/>
     <nd ref="-69"/>
     <tag k="building" v="yes"/>
-    <tag k="building:levels" v="1"/>
     <tag k="addr:housenumber" v="1105"/>
     <tag k="addr:street" v="Sandalwood Drive"/>
     <tag k="addr:city" v="Harvey"/>
@@ -301,7 +286,6 @@
     <nd ref="-80"/>
     <nd ref="-73"/>
     <tag k="building" v="yes"/>
-    <tag k="building:levels" v="1"/>
     <tag k="addr:housenumber" v="1036"/>
     <tag k="addr:street" v="Sandalwood Drive"/>
     <tag k="addr:city" v="Harvey"/>
@@ -322,7 +306,6 @@
     <nd ref="-86"/>
     <nd ref="-81"/>
     <tag k="building" v="yes"/>
-    <tag k="building:levels" v="1"/>
     <tag k="addr:housenumber" v="1056"/>
     <tag k="addr:street" v="Sandalwood Drive"/>
     <tag k="addr:city" v="Harvey"/>
@@ -359,7 +342,6 @@
     <nd ref="-100"/>
     <nd ref="-87"/>
     <tag k="building" v="yes"/>
-    <tag k="building:levels" v="1"/>
     <tag k="addr:housenumber" v="1049"/>
     <tag k="addr:street" v="Sandalwood Drive"/>
     <tag k="addr:city" v="Harvey"/>
@@ -376,7 +358,6 @@
     <nd ref="-104"/>
     <nd ref="-101"/>
     <tag k="building" v="yes"/>
-    <tag k="building:levels" v="1"/>
     <tag k="addr:housenumber" v="1064"/>
     <tag k="addr:street" v="Sandalwood Drive"/>
     <tag k="addr:city" v="Harvey"/>
@@ -397,7 +378,6 @@
     <nd ref="-110"/>
     <nd ref="-105"/>
     <tag k="building" v="yes"/>
-    <tag k="building:levels" v="1"/>
     <tag k="addr:housenumber" v="1048"/>
     <tag k="addr:street" v="Sandalwood Drive"/>
     <tag k="addr:city" v="Harvey"/>
@@ -418,7 +398,6 @@
     <nd ref="-116"/>
     <nd ref="-111"/>
     <tag k="building" v="yes"/>
-    <tag k="building:levels" v="1"/>
     <tag k="addr:housenumber" v="1045"/>
     <tag k="addr:street" v="Sandalwood Drive"/>
     <tag k="addr:city" v="Harvey"/>
@@ -439,43 +418,42 @@
     <nd ref="-122"/>
     <nd ref="-117"/>
     <tag k="building" v="yes"/>
-    <tag k="building:levels" v="1"/>
     <tag k="addr:housenumber" v="1044"/>
     <tag k="addr:street" v="Sandalwood Drive"/>
     <tag k="addr:city" v="Harvey"/>
     <tag k="addr:postcode" v="70058"/>
   </way>
-  <node visible="true" id="-123" lat="29.90611415423023089488197002" lon="-90.05598059434879587570321746"/>
-  <node visible="true" id="-124" lat="29.90606491613763751047372352" lon="-90.05606662178460908307897625"/>
-  <node visible="true" id="-125" lat="29.90614928027736851845475030" lon="-90.05613088175826419501390774"/>
-  <node visible="true" id="-126" lat="29.90617949852713763903011568" lon="-90.05607808522697155240166467"/>
-  <node visible="true" id="-127" lat="29.90614220771766085249510070" lon="-90.05604968088677253490459407"/>
-  <node visible="true" id="-128" lat="29.90616122752592431766061054" lon="-90.05601644998220933757693274"/>
+  <node visible="true" id="-123" lat="29.89986570220097306105344614" lon="-90.05549023075731440712843323"/>
+  <node visible="true" id="-124" lat="29.89990018379007707949313044" lon="-90.05542766519944564151956001"/>
+  <node visible="true" id="-125" lat="29.89979560192884733282880916" lon="-90.05535096925571281190059381"/>
+  <node visible="true" id="-126" lat="29.89976112030354826742950536" lon="-90.05541353481358157750946702"/>
   <way visible="true" id="-23">
     <nd ref="-123"/>
     <nd ref="-124"/>
     <nd ref="-125"/>
     <nd ref="-126"/>
-    <nd ref="-127"/>
-    <nd ref="-128"/>
     <nd ref="-123"/>
     <tag k="building" v="yes"/>
-    <tag k="addr:street" v="17th Street"/>
+    <tag k="addr:street" v="23rd Street"/>
     <tag k="addr:city" v="Gretna"/>
     <tag k="addr:postcode" v="70053"/>
   </way>
-  <node visible="true" id="-129" lat="29.89986570220097306105344614" lon="-90.05549023075731440712843323"/>
-  <node visible="true" id="-130" lat="29.89990018379007707949313044" lon="-90.05542766519944564151956001"/>
-  <node visible="true" id="-131" lat="29.89979560192884733282880916" lon="-90.05535096925571281190059381"/>
-  <node visible="true" id="-132" lat="29.89976112030354826742950536" lon="-90.05541353481358157750946702"/>
+  <node visible="true" id="-127" lat="29.90611415423023089488197002" lon="-90.05598059434879587570321746"/>
+  <node visible="true" id="-128" lat="29.90606491613763751047372352" lon="-90.05606662178460908307897625"/>
+  <node visible="true" id="-129" lat="29.90614928027736851845475030" lon="-90.05613088175826419501390774"/>
+  <node visible="true" id="-130" lat="29.90617949852713763903011568" lon="-90.05607808522697155240166467"/>
+  <node visible="true" id="-131" lat="29.90614220771766085249510070" lon="-90.05604968088677253490459407"/>
+  <node visible="true" id="-132" lat="29.90616122752592431766061054" lon="-90.05601644998220933757693274"/>
   <way visible="true" id="-24">
+    <nd ref="-127"/>
+    <nd ref="-128"/>
     <nd ref="-129"/>
     <nd ref="-130"/>
     <nd ref="-131"/>
     <nd ref="-132"/>
-    <nd ref="-129"/>
+    <nd ref="-127"/>
     <tag k="building" v="yes"/>
-    <tag k="addr:street" v="23rd Street"/>
+    <tag k="addr:street" v="17th Street"/>
     <tag k="addr:city" v="Gretna"/>
     <tag k="addr:postcode" v="70053"/>
   </way>
@@ -524,7 +502,6 @@
     <nd ref="-146"/>
     <nd ref="-141"/>
     <tag k="building" v="yes"/>
-    <tag k="building:levels" v="1"/>
     <tag k="addr:housenumber" v="1021"/>
     <tag k="addr:street" v="Sandalwood Drive"/>
     <tag k="addr:city" v="Harvey"/>

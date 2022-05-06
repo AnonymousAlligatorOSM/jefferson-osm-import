@@ -22,7 +22,6 @@
     <nd ref="-8"/>
     <nd ref="-1"/>
     <tag k="building" v="yes"/>
-    <tag k="building:levels" v="1"/>
     <tag k="addr:housenumber" v="1869"/>
     <tag k="addr:street" v="Green Oak Drive"/>
     <tag k="addr:city" v="Terrytown"/>
@@ -47,7 +46,6 @@
     <nd ref="-16"/>
     <nd ref="-9"/>
     <tag k="building" v="yes"/>
-    <tag k="building:levels" v="1"/>
     <tag k="addr:housenumber" v="1849"/>
     <tag k="addr:street" v="Green Oak Drive"/>
     <tag k="addr:city" v="Terrytown"/>
@@ -80,20 +78,19 @@
     <nd ref="-24"/>
     <nd ref="-19"/>
     <tag k="building" v="yes"/>
-    <tag k="building:levels" v="1"/>
     <tag k="addr:housenumber" v="1845"/>
     <tag k="addr:street" v="Green Oak Drive"/>
     <tag k="addr:city" v="Terrytown"/>
     <tag k="addr:postcode" v="70056"/>
   </way>
-  <node visible="true" id="-25" lat="29.89941274711183183399043628" lon="-90.03493764991917203133198200"/>
-  <node visible="true" id="-26" lat="29.89927425033127761366813502" lon="-90.03490286016598531659838045"/>
-  <node visible="true" id="-27" lat="29.89924514513877085164494929" lon="-90.03505749614406283853895729"/>
-  <node visible="true" id="-28" lat="29.89932348236332160240635858" lon="-90.03507728404416354806016898"/>
-  <node visible="true" id="-29" lat="29.89932705542968349732291244" lon="-90.03505930038848248386784690"/>
-  <node visible="true" id="-30" lat="29.89933387720859059299982619" lon="-90.03500985384870602956652874"/>
-  <node visible="true" id="-31" lat="29.89935941540688091322408582" lon="-90.03501318124710905976826325"/>
-  <node visible="true" id="-32" lat="29.89939455220677189117850503" lon="-90.03502004229947885960427811"/>
+  <node visible="true" id="-25" lat="29.89931065924626807372987969" lon="-90.03470362711546215450653108"/>
+  <node visible="true" id="-26" lat="29.89929228099907732030260377" lon="-90.03478770369451922306325287"/>
+  <node visible="true" id="-27" lat="29.89932283304855431538271660" lon="-90.03479659015046365766465897"/>
+  <node visible="true" id="-28" lat="29.89930873644698294810950756" lon="-90.03486107911916747070790734"/>
+  <node visible="true" id="-29" lat="29.89943830043893413517253066" lon="-90.03489876449506823519186582"/>
+  <node visible="true" id="-30" lat="29.89945204900879005549541034" lon="-90.03483586761606716208916623"/>
+  <node visible="true" id="-31" lat="29.89945641007447107995176339" lon="-90.03483713608987670795613667"/>
+  <node visible="true" id="-32" lat="29.89947513630466602307933499" lon="-90.03475146742111689945886610"/>
   <way visible="true" id="-4">
     <nd ref="-25"/>
     <nd ref="-26"/>
@@ -105,22 +102,17 @@
     <nd ref="-32"/>
     <nd ref="-25"/>
     <tag k="building" v="yes"/>
-    <tag k="building:levels" v="1"/>
-    <tag k="addr:housenumber" v="1857"/>
+    <tag k="addr:housenumber" v="1861"/>
     <tag k="addr:street" v="Green Oak Drive"/>
     <tag k="addr:city" v="Terrytown"/>
     <tag k="addr:postcode" v="70056"/>
   </way>
-  <node visible="true" id="-33" lat="29.89951533594224386547466565" lon="-90.03291846737749892781721428"/>
-  <node visible="true" id="-34" lat="29.89937592386747411410397035" lon="-90.03287463749030905546533177"/>
-  <node visible="true" id="-35" lat="29.89936183507185063490396715" lon="-90.03293426737808147208852461"/>
-  <node visible="true" id="-36" lat="29.89932470964065203133941395" lon="-90.03292259549247944505623309"/>
-  <node visible="true" id="-37" lat="29.89931146224127900268285885" lon="-90.03297866419812578442360973"/>
-  <node visible="true" id="-38" lat="29.89934687604832319607339741" lon="-90.03298979796366552363906521"/>
-  <node visible="true" id="-39" lat="29.89934210481895604516466847" lon="-90.03300999186873809776443522"/>
-  <node visible="true" id="-40" lat="29.89937813628597851334234292" lon="-90.03302131982425748901732732"/>
-  <node visible="true" id="-41" lat="29.89937475084678197845278191" lon="-90.03303564847081474908918608"/>
-  <node visible="true" id="-42" lat="29.89947984313221596153198334" lon="-90.03306868852256172885972774"/>
+  <node visible="true" id="-33" lat="29.89882122706196199146688741" lon="-90.03571497570460735460073920"/>
+  <node visible="true" id="-34" lat="29.89881640129899054159068328" lon="-90.03578181847950645533273928"/>
+  <node visible="true" id="-35" lat="29.89871812495371017348588794" lon="-90.03577237753916051588021219"/>
+  <node visible="true" id="-36" lat="29.89871201217976803832243604" lon="-90.03585704691481339523306815"/>
+  <node visible="true" id="-37" lat="29.89887726908748533105608658" lon="-90.03587292236306893755681813"/>
+  <node visible="true" id="-38" lat="29.89888820761100163281298592" lon="-90.03572141021253116832667729"/>
   <way visible="true" id="-5">
     <nd ref="-33"/>
     <nd ref="-34"/>
@@ -128,31 +120,42 @@
     <nd ref="-36"/>
     <nd ref="-37"/>
     <nd ref="-38"/>
-    <nd ref="-39"/>
-    <nd ref="-40"/>
-    <nd ref="-41"/>
-    <nd ref="-42"/>
     <nd ref="-33"/>
     <tag k="building" v="yes"/>
-    <tag k="building:levels" v="1"/>
-    <tag k="addr:housenumber" v="1920"/>
+    <tag k="addr:housenumber" v="1836"/>
     <tag k="addr:street" v="Green Oak Drive"/>
     <tag k="addr:city" v="Terrytown"/>
     <tag k="addr:postcode" v="70056"/>
   </way>
-  <node visible="true" id="-43" lat="29.89866321335199828013173828" lon="-90.03657074757114742169505917"/>
-  <node visible="true" id="-44" lat="29.89870077321306851558802009" lon="-90.03657210326065296612796374"/>
-  <node visible="true" id="-45" lat="29.89869897638139306650373328" lon="-90.03663834396687093430955429"/>
-  <node visible="true" id="-46" lat="29.89871150373682340273262525" lon="-90.03663879613064580098580336"/>
-  <node visible="true" id="-47" lat="29.89871096979718601005515666" lon="-90.03665847996434479227900738"/>
-  <node visible="true" id="-48" lat="29.89877348472516871424886631" lon="-90.03666073638598277284472715"/>
-  <node visible="true" id="-49" lat="29.89877406175116902886657044" lon="-90.03663946414022234421281610"/>
-  <node visible="true" id="-50" lat="29.89883274499657161982213438" lon="-90.03664158226193592327035731"/>
-  <node visible="true" id="-51" lat="29.89883688499511649183659756" lon="-90.03648895982851740882324520"/>
-  <node visible="true" id="-52" lat="29.89866559961264869116348564" lon="-90.03648277743192807065497618"/>
+  <node visible="true" id="-39" lat="29.89967304309436713083414361" lon="-90.03385304334570093942602398"/>
+  <node visible="true" id="-40" lat="29.89966663938926316745892109" lon="-90.03385075986349761478777509"/>
+  <node visible="true" id="-41" lat="29.89968845787416640291667136" lon="-90.03376934181541457746789092"/>
+  <node visible="true" id="-42" lat="29.89955341815556266737985425" lon="-90.03372118834187176616978832"/>
+  <node visible="true" id="-43" lat="29.89951406580169646076683421" lon="-90.03386803571623886455199681"/>
+  <node visible="true" id="-44" lat="29.89965550927983883866545511" lon="-90.03391847267198500048834831"/>
   <way visible="true" id="-6">
+    <nd ref="-39"/>
+    <nd ref="-40"/>
+    <nd ref="-41"/>
+    <nd ref="-42"/>
     <nd ref="-43"/>
     <nd ref="-44"/>
+    <nd ref="-39"/>
+    <tag k="building" v="yes"/>
+    <tag k="addr:housenumber" v="1905"/>
+    <tag k="addr:street" v="Green Oak Drive"/>
+    <tag k="addr:city" v="Terrytown"/>
+    <tag k="addr:postcode" v="70056"/>
+  </way>
+  <node visible="true" id="-45" lat="29.89950809034241174799717555" lon="-90.03390893884699153204564936"/>
+  <node visible="true" id="-46" lat="29.89946203325129303607354814" lon="-90.03407908555413996509741992"/>
+  <node visible="true" id="-47" lat="29.89956223584594496855970647" lon="-90.03411517770838656815612921"/>
+  <node visible="true" id="-48" lat="29.89957344280341899889208435" lon="-90.03407377629872598845395260"/>
+  <node visible="true" id="-49" lat="29.89955005153753475610756141" lon="-90.03405807973058472271077335"/>
+  <node visible="true" id="-50" lat="29.89955775296759910020227835" lon="-90.03402962865312986195931444"/>
+  <node visible="true" id="-51" lat="29.89964614520725305624182511" lon="-90.03406146684291400106303627"/>
+  <node visible="true" id="-52" lat="29.89967150045842458894185256" lon="-90.03396779787883019707805943"/>
+  <way visible="true" id="-7">
     <nd ref="-45"/>
     <nd ref="-46"/>
     <nd ref="-47"/>
@@ -161,158 +164,143 @@
     <nd ref="-50"/>
     <nd ref="-51"/>
     <nd ref="-52"/>
-    <nd ref="-43"/>
+    <nd ref="-45"/>
     <tag k="building" v="yes"/>
-    <tag k="building:levels" v="1"/>
-    <tag k="addr:housenumber" v="1820"/>
+    <tag k="addr:housenumber" v="1901"/>
     <tag k="addr:street" v="Green Oak Drive"/>
     <tag k="addr:city" v="Terrytown"/>
     <tag k="addr:postcode" v="70056"/>
   </way>
-  <node visible="true" id="-53" lat="29.89884038568118995726763387" lon="-90.03634864550777194835973205"/>
-  <node visible="true" id="-54" lat="29.89880666835990652430155023" lon="-90.03635317838349294561339775"/>
-  <node visible="true" id="-55" lat="29.89881028343451419004850322" lon="-90.03629702853713467902707634"/>
-  <node visible="true" id="-56" lat="29.89870513210917835067448323" lon="-90.03628802033553313322045142"/>
-  <node visible="true" id="-57" lat="29.89869500405967528422479518" lon="-90.03644533044936792975931894"/>
-  <node visible="true" id="-58" lat="29.89883339753066593402763829" lon="-90.03645718647079831953305984"/>
-  <way visible="true" id="-7">
+  <node visible="true" id="-53" lat="29.89932504783010713822477555" lon="-90.03364410372103066038107499"/>
+  <node visible="true" id="-54" lat="29.89923135061906833698230912" lon="-90.03361370831774479484010953"/>
+  <node visible="true" id="-55" lat="29.89921550652958615046372870" lon="-90.03367869805188661302963737"/>
+  <node visible="true" id="-56" lat="29.89918687067608260576889734" lon="-90.03366940857961253641406074"/>
+  <node visible="true" id="-57" lat="29.89917169048403522424450784" lon="-90.03373167509296592925238656"/>
+  <node visible="true" id="-58" lat="29.89919829317854649275432166" lon="-90.03374030500695823775458848"/>
+  <node visible="true" id="-59" lat="29.89919017899571684893089696" lon="-90.03377358798168472731049405"/>
+  <node visible="true" id="-60" lat="29.89928590940715125157112197" lon="-90.03380464294325236096483422"/>
+  <way visible="true" id="-8">
     <nd ref="-53"/>
     <nd ref="-54"/>
     <nd ref="-55"/>
     <nd ref="-56"/>
     <nd ref="-57"/>
     <nd ref="-58"/>
+    <nd ref="-59"/>
+    <nd ref="-60"/>
     <nd ref="-53"/>
     <tag k="building" v="yes"/>
-    <tag k="building:levels" v="1"/>
-    <tag k="addr:housenumber" v="1824"/>
+    <tag k="addr:housenumber" v="1904"/>
     <tag k="addr:street" v="Green Oak Drive"/>
     <tag k="addr:city" v="Terrytown"/>
     <tag k="addr:postcode" v="70056"/>
   </way>
-  <node visible="true" id="-59" lat="29.89878562626254066003639309" lon="-90.03610090083419947859511012"/>
-  <node visible="true" id="-60" lat="29.89878271475078719277007622" lon="-90.03616833660380791570787551"/>
-  <node visible="true" id="-61" lat="29.89869958057367327342035423" lon="-90.03616356062603642840258544"/>
-  <node visible="true" id="-62" lat="29.89869579512618713579286123" lon="-90.03625123822028797349048546"/>
-  <node visible="true" id="-63" lat="29.89885726152388301102291734" lon="-90.03626051431139387659641216"/>
-  <node visible="true" id="-64" lat="29.89886395847453570695506642" lon="-90.03610540094754810525046196"/>
-  <way visible="true" id="-8">
-    <nd ref="-59"/>
-    <nd ref="-60"/>
+  <node visible="true" id="-61" lat="29.89971998135995434608958021" lon="-90.03375698210848554481344763"/>
+  <node visible="true" id="-62" lat="29.89974646528572321813044255" lon="-90.03365558750356001382897375"/>
+  <node visible="true" id="-63" lat="29.89973825901276072158907482" lon="-90.03365273532678259016392985"/>
+  <node visible="true" id="-64" lat="29.89975403444407575648256170" lon="-90.03359233854695276022539474"/>
+  <node visible="true" id="-65" lat="29.89962667234878423982991080" lon="-90.03354807252971170328237349"/>
+  <node visible="true" id="-66" lat="29.89960132342487852952217509" lon="-90.03364512162556820840109140"/>
+  <node visible="true" id="-67" lat="29.89957812298132111550330592" lon="-90.03363705807890937649062835"/>
+  <node visible="true" id="-68" lat="29.89956121248801679257667274" lon="-90.03370180036785086485906504"/>
+  <way visible="true" id="-9">
     <nd ref="-61"/>
     <nd ref="-62"/>
     <nd ref="-63"/>
     <nd ref="-64"/>
-    <nd ref="-59"/>
-    <tag k="building" v="yes"/>
-    <tag k="building:levels" v="1"/>
-    <tag k="addr:housenumber" v="1828"/>
-    <tag k="addr:street" v="Green Oak Drive"/>
-    <tag k="addr:city" v="Terrytown"/>
-    <tag k="addr:postcode" v="70056"/>
-  </way>
-  <node visible="true" id="-65" lat="29.89900501241147878772608237" lon="-90.03456547513835062090947758"/>
-  <node visible="true" id="-66" lat="29.89899774723474124016320275" lon="-90.03459864158752168350474676"/>
-  <node visible="true" id="-67" lat="29.89900154882585070481582079" lon="-90.03459974966249035333021311"/>
-  <node visible="true" id="-68" lat="29.89899503627964705287922698" lon="-90.03462948025725154366227798"/>
-  <node visible="true" id="-69" lat="29.89890034990924405633450078" lon="-90.03460188140725506400485756"/>
-  <node visible="true" id="-70" lat="29.89888240316491518910879677" lon="-90.03468381047079560630663764"/>
-  <node visible="true" id="-71" lat="29.89904598699645887904807751" lon="-90.03473149131815489454311319"/>
-  <node visible="true" id="-72" lat="29.89907771142439329992157582" lon="-90.03458666521072473187814467"/>
-  <way visible="true" id="-9">
     <nd ref="-65"/>
     <nd ref="-66"/>
     <nd ref="-67"/>
     <nd ref="-68"/>
-    <nd ref="-69"/>
-    <nd ref="-70"/>
-    <nd ref="-71"/>
-    <nd ref="-72"/>
-    <nd ref="-65"/>
+    <nd ref="-61"/>
     <tag k="building" v="yes"/>
-    <tag k="building:levels" v="1"/>
-    <tag k="addr:housenumber" v="1860"/>
+    <tag k="addr:housenumber" v="1909"/>
     <tag k="addr:street" v="Green Oak Drive"/>
     <tag k="addr:city" v="Terrytown"/>
     <tag k="addr:postcode" v="70056"/>
   </way>
-  <node visible="true" id="-73" lat="29.89931065924626807372987969" lon="-90.03470362711546215450653108"/>
-  <node visible="true" id="-74" lat="29.89929228099907732030260377" lon="-90.03478770369451922306325287"/>
-  <node visible="true" id="-75" lat="29.89932283304855431538271660" lon="-90.03479659015046365766465897"/>
-  <node visible="true" id="-76" lat="29.89930873644698294810950756" lon="-90.03486107911916747070790734"/>
-  <node visible="true" id="-77" lat="29.89943830043893413517253066" lon="-90.03489876449506823519186582"/>
-  <node visible="true" id="-78" lat="29.89945204900879005549541034" lon="-90.03483586761606716208916623"/>
-  <node visible="true" id="-79" lat="29.89945641007447107995176339" lon="-90.03483713608987670795613667"/>
-  <node visible="true" id="-80" lat="29.89947513630466602307933499" lon="-90.03475146742111689945886610"/>
+  <node visible="true" id="-69" lat="29.89887927200405925987070077" lon="-90.03512943570331117371097207"/>
+  <node visible="true" id="-70" lat="29.89886985365101068623516767" lon="-90.03518641946608624948567012"/>
+  <node visible="true" id="-71" lat="29.89880162054760504020123335" lon="-90.03517141314495120241190307"/>
+  <node visible="true" id="-72" lat="29.89878558850768897059424489" lon="-90.03526841154965154601086397"/>
+  <node visible="true" id="-73" lat="29.89895002093255982344999211" lon="-90.03530457473790704625571379"/>
+  <node visible="true" id="-74" lat="29.89897547128986943221207184" lon="-90.03515059257043162688205484"/>
   <way visible="true" id="-10">
+    <nd ref="-69"/>
+    <nd ref="-70"/>
+    <nd ref="-71"/>
+    <nd ref="-72"/>
     <nd ref="-73"/>
     <nd ref="-74"/>
+    <nd ref="-69"/>
+    <tag k="building" v="yes"/>
+    <tag k="addr:housenumber" v="1848"/>
+    <tag k="addr:street" v="Green Oak Drive"/>
+    <tag k="addr:city" v="Terrytown"/>
+    <tag k="addr:postcode" v="70056"/>
+  </way>
+  <node visible="true" id="-75" lat="29.89941274711183183399043628" lon="-90.03493764991917203133198200"/>
+  <node visible="true" id="-76" lat="29.89927425033127761366813502" lon="-90.03490286016598531659838045"/>
+  <node visible="true" id="-77" lat="29.89924514513877085164494929" lon="-90.03505749614406283853895729"/>
+  <node visible="true" id="-78" lat="29.89932348236332160240635858" lon="-90.03507728404416354806016898"/>
+  <node visible="true" id="-79" lat="29.89932705542968349732291244" lon="-90.03505930038848248386784690"/>
+  <node visible="true" id="-80" lat="29.89933387720859059299982619" lon="-90.03500985384870602956652874"/>
+  <node visible="true" id="-81" lat="29.89935941540688091322408582" lon="-90.03501318124710905976826325"/>
+  <node visible="true" id="-82" lat="29.89939455220677189117850503" lon="-90.03502004229947885960427811"/>
+  <way visible="true" id="-11">
     <nd ref="-75"/>
     <nd ref="-76"/>
     <nd ref="-77"/>
     <nd ref="-78"/>
     <nd ref="-79"/>
     <nd ref="-80"/>
-    <nd ref="-73"/>
+    <nd ref="-81"/>
+    <nd ref="-82"/>
+    <nd ref="-75"/>
     <tag k="building" v="yes"/>
-    <tag k="building:levels" v="1"/>
-    <tag k="addr:housenumber" v="1861"/>
+    <tag k="addr:housenumber" v="1857"/>
     <tag k="addr:street" v="Green Oak Drive"/>
     <tag k="addr:city" v="Terrytown"/>
     <tag k="addr:postcode" v="70056"/>
   </way>
-  <node visible="true" id="-81" lat="29.89882122706196199146688741" lon="-90.03571497570460735460073920"/>
-  <node visible="true" id="-82" lat="29.89881640129899054159068328" lon="-90.03578181847950645533273928"/>
-  <node visible="true" id="-83" lat="29.89871812495371017348588794" lon="-90.03577237753916051588021219"/>
-  <node visible="true" id="-84" lat="29.89871201217976803832243604" lon="-90.03585704691481339523306815"/>
-  <node visible="true" id="-85" lat="29.89887726908748533105608658" lon="-90.03587292236306893755681813"/>
-  <node visible="true" id="-86" lat="29.89888820761100163281298592" lon="-90.03572141021253116832667729"/>
-  <way visible="true" id="-11">
-    <nd ref="-81"/>
-    <nd ref="-82"/>
+  <node visible="true" id="-83" lat="29.89951533594224386547466565" lon="-90.03291846737749892781721428"/>
+  <node visible="true" id="-84" lat="29.89937592386747411410397035" lon="-90.03287463749030905546533177"/>
+  <node visible="true" id="-85" lat="29.89936183507185063490396715" lon="-90.03293426737808147208852461"/>
+  <node visible="true" id="-86" lat="29.89932470964065203133941395" lon="-90.03292259549247944505623309"/>
+  <node visible="true" id="-87" lat="29.89931146224127900268285885" lon="-90.03297866419812578442360973"/>
+  <node visible="true" id="-88" lat="29.89934687604832319607339741" lon="-90.03298979796366552363906521"/>
+  <node visible="true" id="-89" lat="29.89934210481895604516466847" lon="-90.03300999186873809776443522"/>
+  <node visible="true" id="-90" lat="29.89937813628597851334234292" lon="-90.03302131982425748901732732"/>
+  <node visible="true" id="-91" lat="29.89937475084678197845278191" lon="-90.03303564847081474908918608"/>
+  <node visible="true" id="-92" lat="29.89947984313221596153198334" lon="-90.03306868852256172885972774"/>
+  <way visible="true" id="-12">
     <nd ref="-83"/>
     <nd ref="-84"/>
     <nd ref="-85"/>
     <nd ref="-86"/>
-    <nd ref="-81"/>
-    <tag k="building" v="yes"/>
-    <tag k="building:levels" v="1"/>
-    <tag k="addr:housenumber" v="1836"/>
-    <tag k="addr:street" v="Green Oak Drive"/>
-    <tag k="addr:city" v="Terrytown"/>
-    <tag k="addr:postcode" v="70056"/>
-  </way>
-  <node visible="true" id="-87" lat="29.89967304309436713083414361" lon="-90.03385304334570093942602398"/>
-  <node visible="true" id="-88" lat="29.89966663938926316745892109" lon="-90.03385075986349761478777509"/>
-  <node visible="true" id="-89" lat="29.89968845787416640291667136" lon="-90.03376934181541457746789092"/>
-  <node visible="true" id="-90" lat="29.89955341815556266737985425" lon="-90.03372118834187176616978832"/>
-  <node visible="true" id="-91" lat="29.89951406580169646076683421" lon="-90.03386803571623886455199681"/>
-  <node visible="true" id="-92" lat="29.89965550927983883866545511" lon="-90.03391847267198500048834831"/>
-  <way visible="true" id="-12">
     <nd ref="-87"/>
     <nd ref="-88"/>
     <nd ref="-89"/>
     <nd ref="-90"/>
     <nd ref="-91"/>
     <nd ref="-92"/>
-    <nd ref="-87"/>
+    <nd ref="-83"/>
     <tag k="building" v="yes"/>
-    <tag k="building:levels" v="1"/>
-    <tag k="addr:housenumber" v="1905"/>
+    <tag k="addr:housenumber" v="1920"/>
     <tag k="addr:street" v="Green Oak Drive"/>
     <tag k="addr:city" v="Terrytown"/>
     <tag k="addr:postcode" v="70056"/>
   </way>
-  <node visible="true" id="-93" lat="29.89895844372355071527636028" lon="-90.03475475317580389855720568"/>
-  <node visible="true" id="-94" lat="29.89895287234661580555439286" lon="-90.03478238516721887663152302"/>
-  <node visible="true" id="-95" lat="29.89888423496964264813868795" lon="-90.03476397036666867279564030"/>
-  <node visible="true" id="-96" lat="29.89885778918655745428623050" lon="-90.03489513166510960218147375"/>
-  <node visible="true" id="-97" lat="29.89890450954512246539707121" lon="-90.03490766631897201932588359"/>
-  <node visible="true" id="-98" lat="29.89891411494925677061473834" lon="-90.03486002705038515614432981"/>
-  <node visible="true" id="-99" lat="29.89893988192220675159660459" lon="-90.03486694010166502266656607"/>
-  <node visible="true" id="-100" lat="29.89893077718615543858504680" lon="-90.03491209625268254512775457"/>
-  <node visible="true" id="-101" lat="29.89900548453698903017539124" lon="-90.03493213958346075287408894"/>
-  <node visible="true" id="-102" lat="29.89903700098828309705822903" lon="-90.03477582941115997527958825"/>
+  <node visible="true" id="-93" lat="29.89866321335199828013173828" lon="-90.03657074757114742169505917"/>
+  <node visible="true" id="-94" lat="29.89870077321306851558802009" lon="-90.03657210326065296612796374"/>
+  <node visible="true" id="-95" lat="29.89869897638139306650373328" lon="-90.03663834396687093430955429"/>
+  <node visible="true" id="-96" lat="29.89871150373682340273262525" lon="-90.03663879613064580098580336"/>
+  <node visible="true" id="-97" lat="29.89871096979718601005515666" lon="-90.03665847996434479227900738"/>
+  <node visible="true" id="-98" lat="29.89877348472516871424886631" lon="-90.03666073638598277284472715"/>
+  <node visible="true" id="-99" lat="29.89877406175116902886657044" lon="-90.03663946414022234421281610"/>
+  <node visible="true" id="-100" lat="29.89883274499657161982213438" lon="-90.03664158226193592327035731"/>
+  <node visible="true" id="-101" lat="29.89883688499511649183659756" lon="-90.03648895982851740882324520"/>
+  <node visible="true" id="-102" lat="29.89866559961264869116348564" lon="-90.03648277743192807065497618"/>
   <way visible="true" id="-13">
     <nd ref="-93"/>
     <nd ref="-94"/>
@@ -326,18 +314,17 @@
     <nd ref="-102"/>
     <nd ref="-93"/>
     <tag k="building" v="yes"/>
-    <tag k="building:levels" v="1"/>
-    <tag k="addr:housenumber" v="1856"/>
+    <tag k="addr:housenumber" v="1820"/>
     <tag k="addr:street" v="Green Oak Drive"/>
     <tag k="addr:city" v="Terrytown"/>
     <tag k="addr:postcode" v="70056"/>
   </way>
-  <node visible="true" id="-103" lat="29.89946887326149749242176767" lon="-90.03310157249714507088356186"/>
-  <node visible="true" id="-104" lat="29.89939332507787739245941339" lon="-90.03307571997075342551397625"/>
-  <node visible="true" id="-105" lat="29.89937637651244628500535327" lon="-90.03314162431949796427943511"/>
-  <node visible="true" id="-106" lat="29.89929237860189914499642327" lon="-90.03311288033140158404421527"/>
-  <node visible="true" id="-107" lat="29.89926953624189920333265036" lon="-90.03320170255618393184704473"/>
-  <node visible="true" id="-108" lat="29.89942908238548824328972842" lon="-90.03325629907065774659713497"/>
+  <node visible="true" id="-103" lat="29.89884038568118995726763387" lon="-90.03634864550777194835973205"/>
+  <node visible="true" id="-104" lat="29.89880666835990652430155023" lon="-90.03635317838349294561339775"/>
+  <node visible="true" id="-105" lat="29.89881028343451419004850322" lon="-90.03629702853713467902707634"/>
+  <node visible="true" id="-106" lat="29.89870513210917835067448323" lon="-90.03628802033553313322045142"/>
+  <node visible="true" id="-107" lat="29.89869500405967528422479518" lon="-90.03644533044936792975931894"/>
+  <node visible="true" id="-108" lat="29.89883339753066593402763829" lon="-90.03645718647079831953305984"/>
   <way visible="true" id="-14">
     <nd ref="-103"/>
     <nd ref="-104"/>
@@ -347,121 +334,115 @@
     <nd ref="-108"/>
     <nd ref="-103"/>
     <tag k="building" v="yes"/>
-    <tag k="building:levels" v="1"/>
-    <tag k="addr:housenumber" v="1916"/>
+    <tag k="addr:housenumber" v="1824"/>
     <tag k="addr:street" v="Green Oak Drive"/>
     <tag k="addr:city" v="Terrytown"/>
     <tag k="addr:postcode" v="70056"/>
   </way>
-  <node visible="true" id="-109" lat="29.89922616661354837219732872" lon="-90.03338072895451205113204196"/>
-  <node visible="true" id="-110" lat="29.89938357747867669900188048" lon="-90.03343624485279406144400127"/>
-  <node visible="true" id="-111" lat="29.89940935270419686275999993" lon="-90.03333899713909715956106083"/>
-  <node visible="true" id="-112" lat="29.89925194187978974014185951" lon="-90.03328348124081514924910152"/>
+  <node visible="true" id="-109" lat="29.89878562626254066003639309" lon="-90.03610090083419947859511012"/>
+  <node visible="true" id="-110" lat="29.89878271475078719277007622" lon="-90.03616833660380791570787551"/>
+  <node visible="true" id="-111" lat="29.89869958057367327342035423" lon="-90.03616356062603642840258544"/>
+  <node visible="true" id="-112" lat="29.89869579512618713579286123" lon="-90.03625123822028797349048546"/>
+  <node visible="true" id="-113" lat="29.89885726152388301102291734" lon="-90.03626051431139387659641216"/>
+  <node visible="true" id="-114" lat="29.89886395847453570695506642" lon="-90.03610540094754810525046196"/>
   <way visible="true" id="-15">
     <nd ref="-109"/>
     <nd ref="-110"/>
     <nd ref="-111"/>
     <nd ref="-112"/>
+    <nd ref="-113"/>
+    <nd ref="-114"/>
     <nd ref="-109"/>
     <tag k="building" v="yes"/>
-    <tag k="building:levels" v="1"/>
-    <tag k="addr:housenumber" v="1912"/>
+    <tag k="addr:housenumber" v="1828"/>
     <tag k="addr:street" v="Green Oak Drive"/>
     <tag k="addr:city" v="Terrytown"/>
     <tag k="addr:postcode" v="70056"/>
   </way>
-  <node visible="true" id="-113" lat="29.89950809034241174799717555" lon="-90.03390893884699153204564936"/>
-  <node visible="true" id="-114" lat="29.89946203325129303607354814" lon="-90.03407908555413996509741992"/>
-  <node visible="true" id="-115" lat="29.89956223584594496855970647" lon="-90.03411517770838656815612921"/>
-  <node visible="true" id="-116" lat="29.89957344280341899889208435" lon="-90.03407377629872598845395260"/>
-  <node visible="true" id="-117" lat="29.89955005153753475610756141" lon="-90.03405807973058472271077335"/>
-  <node visible="true" id="-118" lat="29.89955775296759910020227835" lon="-90.03402962865312986195931444"/>
-  <node visible="true" id="-119" lat="29.89964614520725305624182511" lon="-90.03406146684291400106303627"/>
-  <node visible="true" id="-120" lat="29.89967150045842458894185256" lon="-90.03396779787883019707805943"/>
+  <node visible="true" id="-115" lat="29.89900501241147878772608237" lon="-90.03456547513835062090947758"/>
+  <node visible="true" id="-116" lat="29.89899774723474124016320275" lon="-90.03459864158752168350474676"/>
+  <node visible="true" id="-117" lat="29.89900154882585070481582079" lon="-90.03459974966249035333021311"/>
+  <node visible="true" id="-118" lat="29.89899503627964705287922698" lon="-90.03462948025725154366227798"/>
+  <node visible="true" id="-119" lat="29.89890034990924405633450078" lon="-90.03460188140725506400485756"/>
+  <node visible="true" id="-120" lat="29.89888240316491518910879677" lon="-90.03468381047079560630663764"/>
+  <node visible="true" id="-121" lat="29.89904598699645887904807751" lon="-90.03473149131815489454311319"/>
+  <node visible="true" id="-122" lat="29.89907771142439329992157582" lon="-90.03458666521072473187814467"/>
   <way visible="true" id="-16">
-    <nd ref="-113"/>
-    <nd ref="-114"/>
     <nd ref="-115"/>
     <nd ref="-116"/>
     <nd ref="-117"/>
     <nd ref="-118"/>
     <nd ref="-119"/>
     <nd ref="-120"/>
-    <nd ref="-113"/>
+    <nd ref="-121"/>
+    <nd ref="-122"/>
+    <nd ref="-115"/>
     <tag k="building" v="yes"/>
-    <tag k="building:levels" v="1"/>
-    <tag k="addr:housenumber" v="1901"/>
+    <tag k="addr:housenumber" v="1860"/>
     <tag k="addr:street" v="Green Oak Drive"/>
     <tag k="addr:city" v="Terrytown"/>
     <tag k="addr:postcode" v="70056"/>
   </way>
-  <node visible="true" id="-121" lat="29.89932504783010713822477555" lon="-90.03364410372103066038107499"/>
-  <node visible="true" id="-122" lat="29.89923135061906833698230912" lon="-90.03361370831774479484010953"/>
-  <node visible="true" id="-123" lat="29.89921550652958615046372870" lon="-90.03367869805188661302963737"/>
-  <node visible="true" id="-124" lat="29.89918687067608260576889734" lon="-90.03366940857961253641406074"/>
-  <node visible="true" id="-125" lat="29.89917169048403522424450784" lon="-90.03373167509296592925238656"/>
-  <node visible="true" id="-126" lat="29.89919829317854649275432166" lon="-90.03374030500695823775458848"/>
-  <node visible="true" id="-127" lat="29.89919017899571684893089696" lon="-90.03377358798168472731049405"/>
-  <node visible="true" id="-128" lat="29.89928590940715125157112197" lon="-90.03380464294325236096483422"/>
+  <node visible="true" id="-123" lat="29.89895844372355071527636028" lon="-90.03475475317580389855720568"/>
+  <node visible="true" id="-124" lat="29.89895287234661580555439286" lon="-90.03478238516721887663152302"/>
+  <node visible="true" id="-125" lat="29.89888423496964264813868795" lon="-90.03476397036666867279564030"/>
+  <node visible="true" id="-126" lat="29.89885778918655745428623050" lon="-90.03489513166510960218147375"/>
+  <node visible="true" id="-127" lat="29.89890450954512246539707121" lon="-90.03490766631897201932588359"/>
+  <node visible="true" id="-128" lat="29.89891411494925677061473834" lon="-90.03486002705038515614432981"/>
+  <node visible="true" id="-129" lat="29.89893988192220675159660459" lon="-90.03486694010166502266656607"/>
+  <node visible="true" id="-130" lat="29.89893077718615543858504680" lon="-90.03491209625268254512775457"/>
+  <node visible="true" id="-131" lat="29.89900548453698903017539124" lon="-90.03493213958346075287408894"/>
+  <node visible="true" id="-132" lat="29.89903700098828309705822903" lon="-90.03477582941115997527958825"/>
   <way visible="true" id="-17">
-    <nd ref="-121"/>
-    <nd ref="-122"/>
     <nd ref="-123"/>
     <nd ref="-124"/>
     <nd ref="-125"/>
     <nd ref="-126"/>
     <nd ref="-127"/>
     <nd ref="-128"/>
-    <nd ref="-121"/>
-    <tag k="building" v="yes"/>
-    <tag k="building:levels" v="2"/>
-    <tag k="addr:housenumber" v="1904"/>
-    <tag k="addr:street" v="Green Oak Drive"/>
-    <tag k="addr:city" v="Terrytown"/>
-    <tag k="addr:postcode" v="70056"/>
-  </way>
-  <node visible="true" id="-129" lat="29.89971998135995434608958021" lon="-90.03375698210848554481344763"/>
-  <node visible="true" id="-130" lat="29.89974646528572321813044255" lon="-90.03365558750356001382897375"/>
-  <node visible="true" id="-131" lat="29.89973825901276072158907482" lon="-90.03365273532678259016392985"/>
-  <node visible="true" id="-132" lat="29.89975403444407575648256170" lon="-90.03359233854695276022539474"/>
-  <node visible="true" id="-133" lat="29.89962667234878423982991080" lon="-90.03354807252971170328237349"/>
-  <node visible="true" id="-134" lat="29.89960132342487852952217509" lon="-90.03364512162556820840109140"/>
-  <node visible="true" id="-135" lat="29.89957812298132111550330592" lon="-90.03363705807890937649062835"/>
-  <node visible="true" id="-136" lat="29.89956121248801679257667274" lon="-90.03370180036785086485906504"/>
-  <way visible="true" id="-18">
     <nd ref="-129"/>
     <nd ref="-130"/>
     <nd ref="-131"/>
     <nd ref="-132"/>
-    <nd ref="-133"/>
-    <nd ref="-134"/>
-    <nd ref="-135"/>
-    <nd ref="-136"/>
-    <nd ref="-129"/>
+    <nd ref="-123"/>
     <tag k="building" v="yes"/>
-    <tag k="building:levels" v="1"/>
-    <tag k="addr:housenumber" v="1909"/>
+    <tag k="addr:housenumber" v="1856"/>
     <tag k="addr:street" v="Green Oak Drive"/>
     <tag k="addr:city" v="Terrytown"/>
     <tag k="addr:postcode" v="70056"/>
   </way>
-  <node visible="true" id="-137" lat="29.89887927200405925987070077" lon="-90.03512943570331117371097207"/>
-  <node visible="true" id="-138" lat="29.89886985365101068623516767" lon="-90.03518641946608624948567012"/>
-  <node visible="true" id="-139" lat="29.89880162054760504020123335" lon="-90.03517141314495120241190307"/>
-  <node visible="true" id="-140" lat="29.89878558850768897059424489" lon="-90.03526841154965154601086397"/>
-  <node visible="true" id="-141" lat="29.89895002093255982344999211" lon="-90.03530457473790704625571379"/>
-  <node visible="true" id="-142" lat="29.89897547128986943221207184" lon="-90.03515059257043162688205484"/>
-  <way visible="true" id="-19">
+  <node visible="true" id="-133" lat="29.89946887326149749242176767" lon="-90.03310157249714507088356186"/>
+  <node visible="true" id="-134" lat="29.89939332507787739245941339" lon="-90.03307571997075342551397625"/>
+  <node visible="true" id="-135" lat="29.89937637651244628500535327" lon="-90.03314162431949796427943511"/>
+  <node visible="true" id="-136" lat="29.89929237860189914499642327" lon="-90.03311288033140158404421527"/>
+  <node visible="true" id="-137" lat="29.89926953624189920333265036" lon="-90.03320170255618393184704473"/>
+  <node visible="true" id="-138" lat="29.89942908238548824328972842" lon="-90.03325629907065774659713497"/>
+  <way visible="true" id="-18">
+    <nd ref="-133"/>
+    <nd ref="-134"/>
+    <nd ref="-135"/>
+    <nd ref="-136"/>
     <nd ref="-137"/>
     <nd ref="-138"/>
+    <nd ref="-133"/>
+    <tag k="building" v="yes"/>
+    <tag k="addr:housenumber" v="1916"/>
+    <tag k="addr:street" v="Green Oak Drive"/>
+    <tag k="addr:city" v="Terrytown"/>
+    <tag k="addr:postcode" v="70056"/>
+  </way>
+  <node visible="true" id="-139" lat="29.89922616661354837219732872" lon="-90.03338072895451205113204196"/>
+  <node visible="true" id="-140" lat="29.89938357747867669900188048" lon="-90.03343624485279406144400127"/>
+  <node visible="true" id="-141" lat="29.89940935270419686275999993" lon="-90.03333899713909715956106083"/>
+  <node visible="true" id="-142" lat="29.89925194187978974014185951" lon="-90.03328348124081514924910152"/>
+  <way visible="true" id="-19">
     <nd ref="-139"/>
     <nd ref="-140"/>
     <nd ref="-141"/>
     <nd ref="-142"/>
-    <nd ref="-137"/>
+    <nd ref="-139"/>
     <tag k="building" v="yes"/>
-    <tag k="building:levels" v="1"/>
-    <tag k="addr:housenumber" v="1848"/>
+    <tag k="addr:housenumber" v="1912"/>
     <tag k="addr:street" v="Green Oak Drive"/>
     <tag k="addr:city" v="Terrytown"/>
     <tag k="addr:postcode" v="70056"/>
@@ -497,7 +478,6 @@
     <nd ref="-156"/>
     <nd ref="-143"/>
     <tag k="building" v="yes"/>
-    <tag k="building:levels" v="1"/>
     <tag k="addr:housenumber" v="1829"/>
     <tag k="addr:street" v="Green Oak Drive"/>
     <tag k="addr:city" v="Terrytown"/>
@@ -522,7 +502,6 @@
     <nd ref="-164"/>
     <nd ref="-157"/>
     <tag k="building" v="yes"/>
-    <tag k="building:levels" v="1"/>
     <tag k="addr:housenumber" v="1825"/>
     <tag k="addr:street" v="Green Oak Drive"/>
     <tag k="addr:city" v="Terrytown"/>
@@ -547,7 +526,6 @@
     <nd ref="-172"/>
     <nd ref="-165"/>
     <tag k="building" v="yes"/>
-    <tag k="building:levels" v="1"/>
     <tag k="addr:housenumber" v="1813"/>
     <tag k="addr:street" v="Green Oak Drive"/>
     <tag k="addr:city" v="Terrytown"/>
@@ -572,7 +550,6 @@
     <nd ref="-180"/>
     <nd ref="-173"/>
     <tag k="building" v="yes"/>
-    <tag k="building:levels" v="1"/>
     <tag k="addr:housenumber" v="1913"/>
     <tag k="addr:street" v="Green Oak Drive"/>
     <tag k="addr:city" v="Terrytown"/>
@@ -601,7 +578,6 @@
     <nd ref="-190"/>
     <nd ref="-181"/>
     <tag k="building" v="yes"/>
-    <tag k="building:levels" v="1"/>
     <tag k="addr:housenumber" v="1865"/>
     <tag k="addr:street" v="Green Oak Drive"/>
     <tag k="addr:city" v="Terrytown"/>
@@ -630,7 +606,6 @@
     <nd ref="-200"/>
     <nd ref="-191"/>
     <tag k="building" v="yes"/>
-    <tag k="building:levels" v="1"/>
     <tag k="addr:housenumber" v="1833"/>
     <tag k="addr:street" v="Green Oak Drive"/>
     <tag k="addr:city" v="Terrytown"/>
@@ -651,7 +626,6 @@
     <nd ref="-206"/>
     <nd ref="-201"/>
     <tag k="building" v="yes"/>
-    <tag k="building:levels" v="1"/>
     <tag k="addr:housenumber" v="1821"/>
     <tag k="addr:street" v="Green Oak Drive"/>
     <tag k="addr:city" v="Terrytown"/>
@@ -676,7 +650,6 @@
     <nd ref="-214"/>
     <nd ref="-207"/>
     <tag k="building" v="yes"/>
-    <tag k="building:levels" v="1"/>
     <tag k="addr:housenumber" v="1804"/>
     <tag k="addr:street" v="Green Oak Drive"/>
     <tag k="addr:city" v="Terrytown"/>
@@ -701,7 +674,6 @@
     <nd ref="-222"/>
     <nd ref="-215"/>
     <tag k="building" v="yes"/>
-    <tag k="building:levels" v="2"/>
     <tag k="addr:housenumber" v="1832"/>
     <tag k="addr:street" v="Green Oak Drive"/>
     <tag k="addr:city" v="Terrytown"/>
@@ -726,7 +698,6 @@
     <nd ref="-230"/>
     <nd ref="-223"/>
     <tag k="building" v="yes"/>
-    <tag k="building:levels" v="1"/>
     <tag k="addr:housenumber" v="1917"/>
     <tag k="addr:street" v="Green Oak Drive"/>
     <tag k="addr:city" v="Terrytown"/>
@@ -747,7 +718,6 @@
     <nd ref="-236"/>
     <nd ref="-231"/>
     <tag k="building" v="yes"/>
-    <tag k="building:levels" v="1"/>
     <tag k="addr:housenumber" v="1852"/>
     <tag k="addr:street" v="Green Oak Drive"/>
     <tag k="addr:city" v="Terrytown"/>
@@ -764,7 +734,6 @@
     <nd ref="-240"/>
     <nd ref="-237"/>
     <tag k="building" v="yes"/>
-    <tag k="building:levels" v="1"/>
     <tag k="addr:housenumber" v="1921"/>
     <tag k="addr:street" v="Green Oak Drive"/>
     <tag k="addr:city" v="Terrytown"/>
@@ -785,7 +754,6 @@
     <nd ref="-246"/>
     <nd ref="-241"/>
     <tag k="building" v="yes"/>
-    <tag k="building:levels" v="1"/>
     <tag k="addr:housenumber" v="1844"/>
     <tag k="addr:street" v="Green Oak Drive"/>
     <tag k="addr:city" v="Terrytown"/>
@@ -806,7 +774,6 @@
     <nd ref="-252"/>
     <nd ref="-247"/>
     <tag k="building" v="yes"/>
-    <tag k="building:levels" v="1"/>
     <tag k="addr:housenumber" v="1853"/>
     <tag k="addr:street" v="Green Oak Drive"/>
     <tag k="addr:city" v="Terrytown"/>
@@ -827,7 +794,6 @@
     <nd ref="-258"/>
     <nd ref="-253"/>
     <tag k="building" v="yes"/>
-    <tag k="building:levels" v="1"/>
     <tag k="addr:housenumber" v="1864"/>
     <tag k="addr:street" v="Green Oak Drive"/>
     <tag k="addr:city" v="Terrytown"/>
@@ -853,7 +819,6 @@
     <nd ref="-265"/>
     <nd ref="-260"/>
     <tag k="building" v="yes"/>
-    <tag k="building:levels" v="1"/>
     <tag k="addr:housenumber" v="1908"/>
     <tag k="addr:street" v="Green Oak Drive"/>
     <tag k="addr:city" v="Terrytown"/>
@@ -882,7 +847,6 @@
     <nd ref="-275"/>
     <nd ref="-266"/>
     <tag k="building" v="yes"/>
-    <tag k="building:levels" v="1"/>
     <tag k="addr:housenumber" v="1900"/>
     <tag k="addr:street" v="Green Oak Drive"/>
     <tag k="addr:city" v="Terrytown"/>
@@ -919,7 +883,6 @@
     <nd ref="-289"/>
     <nd ref="-276"/>
     <tag k="building" v="yes"/>
-    <tag k="building:levels" v="1"/>
     <tag k="addr:housenumber" v="1841"/>
     <tag k="addr:street" v="Green Oak Drive"/>
     <tag k="addr:city" v="Terrytown"/>
@@ -944,7 +907,6 @@
     <nd ref="-297"/>
     <nd ref="-290"/>
     <tag k="building" v="yes"/>
-    <tag k="building:levels" v="1"/>
     <tag k="addr:housenumber" v="1817"/>
     <tag k="addr:street" v="Green Oak Drive"/>
     <tag k="addr:city" v="Terrytown"/>
@@ -969,7 +931,6 @@
     <nd ref="-305"/>
     <nd ref="-298"/>
     <tag k="building" v="yes"/>
-    <tag k="building:levels" v="1"/>
     <tag k="addr:housenumber" v="1816"/>
     <tag k="addr:street" v="Green Oak Drive"/>
     <tag k="addr:city" v="Terrytown"/>
@@ -990,7 +951,6 @@
     <nd ref="-311"/>
     <nd ref="-306"/>
     <tag k="building" v="yes"/>
-    <tag k="building:levels" v="1"/>
     <tag k="addr:housenumber" v="1837"/>
     <tag k="addr:street" v="Green Oak Drive"/>
     <tag k="addr:city" v="Terrytown"/>
@@ -1015,7 +975,6 @@
     <nd ref="-319"/>
     <nd ref="-312"/>
     <tag k="building" v="yes"/>
-    <tag k="building:levels" v="1"/>
     <tag k="addr:housenumber" v="1812"/>
     <tag k="addr:street" v="Green Oak Drive"/>
     <tag k="addr:city" v="Terrytown"/>
@@ -1040,7 +999,6 @@
     <nd ref="-327"/>
     <nd ref="-320"/>
     <tag k="building" v="yes"/>
-    <tag k="building:levels" v="2"/>
     <tag k="addr:housenumber" v="1868"/>
     <tag k="addr:street" v="Green Oak Drive"/>
     <tag k="addr:city" v="Terrytown"/>

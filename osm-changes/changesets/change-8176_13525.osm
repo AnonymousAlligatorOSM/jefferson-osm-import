@@ -75,10 +75,10 @@
     <nd ref="-25"/>
     <tag k="building" v="yes"/>
   </way>
-  <node visible="true" id="-29" lat="29.94140236507538332944022841" lon="-90.16504740097964543110720115"/>
-  <node visible="true" id="-30" lat="29.94135260069284143469303672" lon="-90.16498752690965545752987964"/>
-  <node visible="true" id="-31" lat="29.94125741043105293215376150" lon="-90.16509289237608015810110373"/>
-  <node visible="true" id="-32" lat="29.94130717486121895376527391" lon="-90.16515276644609855338785565"/>
+  <node visible="true" id="-29" lat="29.93618877269149791686686513" lon="-90.17010308638602111841464648"/>
+  <node visible="true" id="-30" lat="29.93612006749446052822349884" lon="-90.17004952793917027520365082"/>
+  <node visible="true" id="-31" lat="29.93603953775700077244437125" lon="-90.17018708985668240529776085"/>
+  <node visible="true" id="-32" lat="29.93610824300966299915671698" lon="-90.17024064830351903765404131"/>
   <way visible="true" id="-4">
     <nd ref="-29"/>
     <nd ref="-30"/>
@@ -87,16 +87,12 @@
     <nd ref="-29"/>
     <tag k="building" v="yes"/>
   </way>
-  <node visible="true" id="-33" lat="29.93617868134887771702778991" lon="-90.16552304870462819508247776"/>
-  <node visible="true" id="-34" lat="29.93614894720980501574558730" lon="-90.16552411055602078704396263"/>
-  <node visible="true" id="-35" lat="29.93614864391101093588076765" lon="-90.16551280108437538274301914"/>
-  <node visible="true" id="-36" lat="29.93614525011054539049837331" lon="-90.16550911989787664424511604"/>
-  <node visible="true" id="-37" lat="29.93611797325822010407136986" lon="-90.16551009399546501299482770"/>
-  <node visible="true" id="-38" lat="29.93611562587351215825037798" lon="-90.16551632748556244223436806"/>
-  <node visible="true" id="-39" lat="29.93611571288793271605754853" lon="-90.16551957210172929535474395"/>
-  <node visible="true" id="-40" lat="29.93609360079883074945428234" lon="-90.16552036175762907532771351"/>
-  <node visible="true" id="-41" lat="29.93609800803549347847365425" lon="-90.16568469993396206518809777"/>
-  <node visible="true" id="-42" lat="29.93618293518773398886878567" lon="-90.16568166705678777361754328"/>
+  <node visible="true" id="-33" lat="29.93635396528785719283405342" lon="-90.17040121515562134391075233"/>
+  <node visible="true" id="-34" lat="29.93631268646038634528849798" lon="-90.17039882468993994280026527"/>
+  <node visible="true" id="-35" lat="29.93631160667139923248214473" lon="-90.17055960983330464841856156"/>
+  <node visible="true" id="-36" lat="29.93633910897019489993908792" lon="-90.17055928940108344704640331"/>
+  <node visible="true" id="-37" lat="29.93634091192410551229841076" lon="-90.17048031731090418361418415"/>
+  <node visible="true" id="-38" lat="29.93635216327447068351830239" lon="-90.17048018621126459493098082"/>
   <way visible="true" id="-5">
     <nd ref="-33"/>
     <nd ref="-34"/>
@@ -104,91 +100,92 @@
     <nd ref="-36"/>
     <nd ref="-37"/>
     <nd ref="-38"/>
+    <nd ref="-33"/>
+    <tag k="building" v="yes"/>
+  </way>
+  <node visible="true" id="-39" lat="29.93608517437831650909174641" lon="-90.17066003473991031569312327"/>
+  <node visible="true" id="-40" lat="29.93614258948578665808781807" lon="-90.17074283412048885111289565"/>
+  <node visible="true" id="-41" lat="29.93627570715125330025330186" lon="-90.17061991611717530759051442"/>
+  <node visible="true" id="-42" lat="29.93625394599784783622453688" lon="-90.17058853391066008953202982"/>
+  <node visible="true" id="-43" lat="29.93622918847269787079312664" lon="-90.17061139448694007114681881"/>
+  <node visible="true" id="-44" lat="29.93619353458664988920645555" lon="-90.17055997731286254293081583"/>
+  <way visible="true" id="-6">
     <nd ref="-39"/>
     <nd ref="-40"/>
     <nd ref="-41"/>
     <nd ref="-42"/>
-    <nd ref="-33"/>
-    <tag k="building" v="yes"/>
-    <tag k="building:levels" v="1"/>
-    <tag k="addr:housenumber" v="207"/>
-    <tag k="addr:street" v="Marrero Street"/>
-    <tag k="addr:city" v="Bridge City"/>
-    <tag k="addr:postcode" v="70094"/>
-  </way>
-  <node visible="true" id="-43" lat="29.93618877269149791686686513" lon="-90.17010308638602111841464648"/>
-  <node visible="true" id="-44" lat="29.93612006749446052822349884" lon="-90.17004952793917027520365082"/>
-  <node visible="true" id="-45" lat="29.93603953775700077244437125" lon="-90.17018708985668240529776085"/>
-  <node visible="true" id="-46" lat="29.93610824300966299915671698" lon="-90.17024064830351903765404131"/>
-  <way visible="true" id="-6">
     <nd ref="-43"/>
     <nd ref="-44"/>
-    <nd ref="-45"/>
-    <nd ref="-46"/>
-    <nd ref="-43"/>
+    <nd ref="-39"/>
     <tag k="building" v="yes"/>
-    <tag k="building:levels" v="1"/>
-  </way>
-  <node visible="true" id="-47" lat="29.93635396528785719283405342" lon="-90.17040121515562134391075233"/>
-  <node visible="true" id="-48" lat="29.93631268646038634528849798" lon="-90.17039882468993994280026527"/>
-  <node visible="true" id="-49" lat="29.93631160667139923248214473" lon="-90.17055960983330464841856156"/>
-  <node visible="true" id="-50" lat="29.93633910897019489993908792" lon="-90.17055928940108344704640331"/>
-  <node visible="true" id="-51" lat="29.93634091192410551229841076" lon="-90.17048031731090418361418415"/>
-  <node visible="true" id="-52" lat="29.93635216327447068351830239" lon="-90.17048018621126459493098082"/>
-  <way visible="true" id="-7">
-    <nd ref="-47"/>
-    <nd ref="-48"/>
-    <nd ref="-49"/>
-    <nd ref="-50"/>
-    <nd ref="-51"/>
-    <nd ref="-52"/>
-    <nd ref="-47"/>
-    <tag k="building" v="yes"/>
-  </way>
-  <node visible="true" id="-53" lat="29.93608517437831650909174641" lon="-90.17066003473991031569312327"/>
-  <node visible="true" id="-54" lat="29.93614258948578665808781807" lon="-90.17074283412048885111289565"/>
-  <node visible="true" id="-55" lat="29.93627570715125330025330186" lon="-90.17061991611717530759051442"/>
-  <node visible="true" id="-56" lat="29.93625394599784783622453688" lon="-90.17058853391066008953202982"/>
-  <node visible="true" id="-57" lat="29.93622918847269787079312664" lon="-90.17061139448694007114681881"/>
-  <node visible="true" id="-58" lat="29.93619353458664988920645555" lon="-90.17055997731286254293081583"/>
-  <way visible="true" id="-8">
-    <nd ref="-53"/>
-    <nd ref="-54"/>
-    <nd ref="-55"/>
-    <nd ref="-56"/>
-    <nd ref="-57"/>
-    <nd ref="-58"/>
-    <nd ref="-53"/>
-    <tag k="building" v="yes"/>
-    <tag k="building:levels" v="2"/>
     <tag k="addr:housenumber" v="3425"/>
     <tag k="addr:street" v="River Road"/>
     <tag k="addr:city" v="Bridge City"/>
     <tag k="addr:postcode" v="70094"/>
   </way>
-  <node visible="true" id="-59" lat="29.94118878152060148067903356" lon="-90.16482525666916103546100203"/>
-  <node visible="true" id="-60" lat="29.94116273354307011800301552" lon="-90.16479701799246981863689143"/>
-  <node visible="true" id="-61" lat="29.94110507806948362485854886" lon="-90.16486784428623479925590800"/>
-  <node visible="true" id="-62" lat="29.94113112606211046795579023" lon="-90.16489608296295443778944900"/>
+  <node visible="true" id="-45" lat="29.94118878152060148067903356" lon="-90.16482525666916103546100203"/>
+  <node visible="true" id="-46" lat="29.94116273354307011800301552" lon="-90.16479701799246981863689143"/>
+  <node visible="true" id="-47" lat="29.94110507806948362485854886" lon="-90.16486784428623479925590800"/>
+  <node visible="true" id="-48" lat="29.94113112606211046795579023" lon="-90.16489608296295443778944900"/>
+  <way visible="true" id="-7">
+    <nd ref="-45"/>
+    <nd ref="-46"/>
+    <nd ref="-47"/>
+    <nd ref="-48"/>
+    <nd ref="-45"/>
+    <tag k="building" v="yes"/>
+  </way>
+  <node visible="true" id="-49" lat="29.94122511923813334533406305" lon="-90.16483842261766312731197104"/>
+  <node visible="true" id="-50" lat="29.94112750559136415517968999" lon="-90.16494309818996555350167910"/>
+  <node visible="true" id="-51" lat="29.94117981177284448790487659" lon="-90.16500805767974213722482091"/>
+  <node visible="true" id="-52" lat="29.94127742536828051811426121" lon="-90.16490338210741128932568245"/>
+  <way visible="true" id="-8">
+    <nd ref="-49"/>
+    <nd ref="-50"/>
+    <nd ref="-51"/>
+    <nd ref="-52"/>
+    <nd ref="-49"/>
+    <tag k="building" v="yes"/>
+  </way>
+  <node visible="true" id="-53" lat="29.94140236507538332944022841" lon="-90.16504740097964543110720115"/>
+  <node visible="true" id="-54" lat="29.94135260069284143469303672" lon="-90.16498752690965545752987964"/>
+  <node visible="true" id="-55" lat="29.94125741043105293215376150" lon="-90.16509289237608015810110373"/>
+  <node visible="true" id="-56" lat="29.94130717486121895376527391" lon="-90.16515276644609855338785565"/>
   <way visible="true" id="-9">
+    <nd ref="-53"/>
+    <nd ref="-54"/>
+    <nd ref="-55"/>
+    <nd ref="-56"/>
+    <nd ref="-53"/>
+    <tag k="building" v="yes"/>
+  </way>
+  <node visible="true" id="-57" lat="29.93617868134887771702778991" lon="-90.16552304870462819508247776"/>
+  <node visible="true" id="-58" lat="29.93614894720980501574558730" lon="-90.16552411055602078704396263"/>
+  <node visible="true" id="-59" lat="29.93614864391101093588076765" lon="-90.16551280108437538274301914"/>
+  <node visible="true" id="-60" lat="29.93614525011054539049837331" lon="-90.16550911989787664424511604"/>
+  <node visible="true" id="-61" lat="29.93611797325822010407136986" lon="-90.16551009399546501299482770"/>
+  <node visible="true" id="-62" lat="29.93611562587351215825037798" lon="-90.16551632748556244223436806"/>
+  <node visible="true" id="-63" lat="29.93611571288793271605754853" lon="-90.16551957210172929535474395"/>
+  <node visible="true" id="-64" lat="29.93609360079883074945428234" lon="-90.16552036175762907532771351"/>
+  <node visible="true" id="-65" lat="29.93609800803549347847365425" lon="-90.16568469993396206518809777"/>
+  <node visible="true" id="-66" lat="29.93618293518773398886878567" lon="-90.16568166705678777361754328"/>
+  <way visible="true" id="-10">
+    <nd ref="-57"/>
+    <nd ref="-58"/>
     <nd ref="-59"/>
     <nd ref="-60"/>
     <nd ref="-61"/>
     <nd ref="-62"/>
-    <nd ref="-59"/>
-    <tag k="building" v="yes"/>
-  </way>
-  <node visible="true" id="-63" lat="29.94122511923813334533406305" lon="-90.16483842261766312731197104"/>
-  <node visible="true" id="-64" lat="29.94112750559136415517968999" lon="-90.16494309818996555350167910"/>
-  <node visible="true" id="-65" lat="29.94117981177284448790487659" lon="-90.16500805767974213722482091"/>
-  <node visible="true" id="-66" lat="29.94127742536828051811426121" lon="-90.16490338210741128932568245"/>
-  <way visible="true" id="-10">
     <nd ref="-63"/>
     <nd ref="-64"/>
     <nd ref="-65"/>
     <nd ref="-66"/>
-    <nd ref="-63"/>
+    <nd ref="-57"/>
     <tag k="building" v="yes"/>
+    <tag k="addr:housenumber" v="207"/>
+    <tag k="addr:street" v="Marrero Street"/>
+    <tag k="addr:city" v="Bridge City"/>
+    <tag k="addr:postcode" v="70094"/>
   </way>
   <node visible="true" id="-67" lat="29.93634744044744522284418053" lon="-90.16624267906129830407735426"/>
   <node visible="true" id="-68" lat="29.93635079107195906544802710" lon="-90.16627669888016782806516858"/>
@@ -213,7 +210,6 @@
     <nd ref="-76"/>
     <nd ref="-67"/>
     <tag k="building" v="yes"/>
-    <tag k="building:levels" v="1"/>
     <tag k="addr:housenumber" v="201"/>
     <tag k="addr:street" v="Westwego Avenue"/>
     <tag k="addr:city" v="Bridge City"/>
@@ -230,7 +226,6 @@
     <nd ref="-80"/>
     <nd ref="-77"/>
     <tag k="building" v="yes"/>
-    <tag k="building:levels" v="1"/>
     <tag k="addr:housenumber" v="208"/>
     <tag k="addr:street" v="Marrero Street"/>
     <tag k="addr:city" v="Bridge City"/>
@@ -323,7 +318,6 @@
     <nd ref="-106"/>
     <nd ref="-101"/>
     <tag k="building" v="yes"/>
-    <tag k="building:levels" v="1"/>
     <tag k="addr:housenumber" v="149"/>
     <tag k="addr:street" v="2nd Street"/>
     <tag k="addr:city" v="Bridge City"/>
@@ -340,7 +334,6 @@
     <nd ref="-110"/>
     <nd ref="-107"/>
     <tag k="building" v="yes"/>
-    <tag k="building:levels" v="1"/>
     <tag k="addr:housenumber" v="153"/>
     <tag k="addr:street" v="2nd Street"/>
     <tag k="addr:city" v="Bridge City"/>
@@ -389,7 +382,6 @@
     <nd ref="-130"/>
     <nd ref="-111"/>
     <tag k="building" v="yes"/>
-    <tag k="building:levels" v="1"/>
     <tag k="addr:housenumber" v="156"/>
     <tag k="addr:street" v="1st Street"/>
     <tag k="addr:city" v="Bridge City"/>
@@ -438,7 +430,6 @@
     <nd ref="-144"/>
     <nd ref="-139"/>
     <tag k="building" v="yes"/>
-    <tag k="building:levels" v="1"/>
     <tag k="addr:housenumber" v="154"/>
     <tag k="addr:street" v="1st Street"/>
     <tag k="addr:city" v="Bridge City"/>
@@ -501,7 +492,6 @@
     <nd ref="-171"/>
     <nd ref="-145"/>
     <tag k="building" v="yes"/>
-    <tag k="building:levels" v="1"/>
     <tag k="addr:housenumber" v="3225"/>
     <tag k="addr:street" v="River Road"/>
     <tag k="addr:city" v="Bridge City"/>
@@ -586,7 +576,6 @@
     <nd ref="-197"/>
     <nd ref="-188"/>
     <tag k="building" v="yes"/>
-    <tag k="building:levels" v="1"/>
     <tag k="addr:housenumber" v="3413"/>
     <tag k="addr:street" v="River Road"/>
     <tag k="addr:city" v="Bridge City"/>
@@ -627,7 +616,6 @@
     <nd ref="-211"/>
     <nd ref="-206"/>
     <tag k="building" v="yes"/>
-    <tag k="building:levels" v="1"/>
     <tag k="addr:housenumber" v="212"/>
     <tag k="addr:street" v="Westwego Avenue"/>
     <tag k="addr:city" v="Bridge City"/>
@@ -644,7 +632,6 @@
     <nd ref="-215"/>
     <nd ref="-212"/>
     <tag k="building" v="yes"/>
-    <tag k="building:levels" v="1"/>
     <tag k="addr:housenumber" v="177"/>
     <tag k="addr:street" v="1st Street"/>
     <tag k="addr:city" v="Bridge City"/>
@@ -661,90 +648,68 @@
     <nd ref="-219"/>
     <nd ref="-216"/>
     <tag k="building" v="yes"/>
-    <tag k="building:levels" v="1"/>
     <tag k="addr:housenumber" v="200"/>
     <tag k="addr:street" v="Westwego Avenue"/>
     <tag k="addr:city" v="Bridge City"/>
     <tag k="addr:postcode" v="70094"/>
   </way>
-  <node visible="true" id="-220" lat="29.93615053068073805775384244" lon="-90.17036619882574655093776528"/>
-  <node visible="true" id="-221" lat="29.93614152455056043322656478" lon="-90.17038812637630940116650891"/>
-  <node visible="true" id="-222" lat="29.93624145961215887723483320" lon="-90.17044278349811747830244713"/>
-  <node visible="true" id="-223" lat="29.93625046573331260901795758" lon="-90.17042085594755462807370350"/>
+  <node visible="true" id="-220" lat="29.93844584240912709560689109" lon="-90.16769907698937913664849475"/>
+  <node visible="true" id="-221" lat="29.93846376754265392605702800" lon="-90.16772561496038917994155781"/>
+  <node visible="true" id="-222" lat="29.93844755810562219267012551" lon="-90.16774019515598581619997276"/>
+  <node visible="true" id="-223" lat="29.93849800942247085799863271" lon="-90.16781488781172981816780521"/>
+  <node visible="true" id="-224" lat="29.93851252211628022337208677" lon="-90.16780183380994628805638058"/>
+  <node visible="true" id="-225" lat="29.93852182715959031611419050" lon="-90.16780316461162669838813599"/>
+  <node visible="true" id="-226" lat="29.93875016715350412255247647" lon="-90.16759777513360063494474161"/>
+  <node visible="true" id="-227" lat="29.93874013271251399714856234" lon="-90.16758291920623946680279914"/>
+  <node visible="true" id="-228" lat="29.93876218044582770971828722" lon="-90.16756308747373793721635593"/>
+  <node visible="true" id="-229" lat="29.93870746757338707766393782" lon="-90.16748208541542908278643154"/>
+  <node visible="true" id="-230" lat="29.93868437649464553373945819" lon="-90.16750285561592193062097067"/>
+  <node visible="true" id="-231" lat="29.93867667163593893064899021" lon="-90.16749144862799880684178788"/>
   <way visible="true" id="-33">
     <nd ref="-220"/>
     <nd ref="-221"/>
     <nd ref="-222"/>
     <nd ref="-223"/>
-    <nd ref="-220"/>
-    <tag k="building" v="yes"/>
-  </way>
-  <node visible="true" id="-224" lat="29.93607653069408769397341530" lon="-90.17036338109400617213395890"/>
-  <node visible="true" id="-225" lat="29.93588388076986817054603307" lon="-90.17019207225804677818814525"/>
-  <node visible="true" id="-226" lat="29.93579029382689071780987433" lon="-90.17033221894720895761565771"/>
-  <node visible="true" id="-227" lat="29.93598294393230574428343971" lon="-90.17050352778319677327090176"/>
-  <way visible="true" id="-34">
     <nd ref="-224"/>
     <nd ref="-225"/>
     <nd ref="-226"/>
     <nd ref="-227"/>
-    <nd ref="-224"/>
-    <tag k="building" v="yes"/>
-  </way>
-  <node visible="true" id="-228" lat="29.93637048506048614626706694" lon="-90.16563033620467138007370522"/>
-  <node visible="true" id="-229" lat="29.93636899843619403327465989" lon="-90.16560248939192945272225188"/>
-  <node visible="true" id="-230" lat="29.93639835625010903186193900" lon="-90.16560040234593031982512912"/>
-  <node visible="true" id="-231" lat="29.93639145505519039147657168" lon="-90.16547113207005281765304971"/>
-  <node visible="true" id="-232" lat="29.93636037500711211123416433" lon="-90.16547334154944337569759227"/>
-  <node visible="true" id="-233" lat="29.93635882139532355949995690" lon="-90.16544423995843260399851715"/>
-  <node visible="true" id="-234" lat="29.93631436534370848789876618" lon="-90.16544740033613436480663950"/>
-  <node visible="true" id="-235" lat="29.93632430678090372566657607" lon="-90.16563361901579298773867777"/>
-  <way visible="true" id="-35">
     <nd ref="-228"/>
     <nd ref="-229"/>
     <nd ref="-230"/>
     <nd ref="-231"/>
-    <nd ref="-232"/>
-    <nd ref="-233"/>
-    <nd ref="-234"/>
-    <nd ref="-235"/>
-    <nd ref="-228"/>
-    <tag k="building" v="yes"/>
-    <tag k="building:levels" v="1"/>
-    <tag k="addr:housenumber" v="201"/>
-    <tag k="addr:street" v="Marrero Street"/>
-    <tag k="addr:city" v="Bridge City"/>
-    <tag k="addr:postcode" v="70094"/>
-  </way>
-  <node visible="true" id="-236" lat="29.93825795884670881719102908" lon="-90.16868365807452789795206627"/>
-  <node visible="true" id="-237" lat="29.93831697713089212697923358" lon="-90.16876797189240733132464811"/>
-  <node visible="true" id="-238" lat="29.93849185897420284163672477" lon="-90.16860495510617568015732104"/>
-  <node visible="true" id="-239" lat="29.93843284079377298212421010" lon="-90.16852064128829624678473920"/>
-  <way visible="true" id="-36">
-    <nd ref="-236"/>
-    <nd ref="-237"/>
-    <nd ref="-238"/>
-    <nd ref="-239"/>
-    <nd ref="-236"/>
+    <nd ref="-220"/>
     <tag k="building" v="yes"/>
     <tag k="addr:housenumber" v="3225"/>
     <tag k="addr:street" v="River Road"/>
     <tag k="addr:city" v="Bridge City"/>
     <tag k="addr:postcode" v="70094"/>
   </way>
-  <node visible="true" id="-240" lat="29.93844584240912709560689109" lon="-90.16769907698937913664849475"/>
-  <node visible="true" id="-241" lat="29.93846376754265392605702800" lon="-90.16772561496038917994155781"/>
-  <node visible="true" id="-242" lat="29.93844755810562219267012551" lon="-90.16774019515598581619997276"/>
-  <node visible="true" id="-243" lat="29.93849800942247085799863271" lon="-90.16781488781172981816780521"/>
-  <node visible="true" id="-244" lat="29.93851252211628022337208677" lon="-90.16780183380994628805638058"/>
-  <node visible="true" id="-245" lat="29.93852182715959031611419050" lon="-90.16780316461162669838813599"/>
-  <node visible="true" id="-246" lat="29.93875016715350412255247647" lon="-90.16759777513360063494474161"/>
-  <node visible="true" id="-247" lat="29.93874013271251399714856234" lon="-90.16758291920623946680279914"/>
-  <node visible="true" id="-248" lat="29.93876218044582770971828722" lon="-90.16756308747373793721635593"/>
-  <node visible="true" id="-249" lat="29.93870746757338707766393782" lon="-90.16748208541542908278643154"/>
-  <node visible="true" id="-250" lat="29.93868437649464553373945819" lon="-90.16750285561592193062097067"/>
-  <node visible="true" id="-251" lat="29.93867667163593893064899021" lon="-90.16749144862799880684178788"/>
-  <way visible="true" id="-37">
+  <node visible="true" id="-232" lat="29.93773603225772461655651568" lon="-90.16753449788656382679619128"/>
+  <node visible="true" id="-233" lat="29.93762803776704828351284959" lon="-90.16737679020606321955710882"/>
+  <node visible="true" id="-234" lat="29.93759788804158716857273248" lon="-90.16740428343834423685621005"/>
+  <node visible="true" id="-235" lat="29.93744870607727293077005015" lon="-90.16718642876926992357766721"/>
+  <node visible="true" id="-236" lat="29.93748064872083958221082867" lon="-90.16715730063637579405622091"/>
+  <node visible="true" id="-237" lat="29.93742995715400923018023605" lon="-90.16708327434891145912843058"/>
+  <node visible="true" id="-238" lat="29.93719503328722453261434566" lon="-90.16729749841999819182092324"/>
+  <node visible="true" id="-239" lat="29.93723774755286726190206537" lon="-90.16735987508559446723666042"/>
+  <node visible="true" id="-240" lat="29.93725816010667983846360585" lon="-90.16734126115078140628611436"/>
+  <node visible="true" id="-241" lat="29.93727618680109614501816395" lon="-90.16736758597798484515806194"/>
+  <node visible="true" id="-242" lat="29.93738367949652712241004338" lon="-90.16726956474589371737238253"/>
+  <node visible="true" id="-243" lat="29.93757060968514949195196095" lon="-90.16754254409481461607356323"/>
+  <node visible="true" id="-244" lat="29.93746566365630457084989757" lon="-90.16763824323479070699249860"/>
+  <node visible="true" id="-245" lat="29.93748475856202873046640889" lon="-90.16766612805568570365721826"/>
+  <node visible="true" id="-246" lat="29.93746371632558833653092734" lon="-90.16768531623333160496258643"/>
+  <node visible="true" id="-247" lat="29.93750481872096713686914882" lon="-90.16774533920775525075441692"/>
+  <way visible="true" id="-34">
+    <nd ref="-232"/>
+    <nd ref="-233"/>
+    <nd ref="-234"/>
+    <nd ref="-235"/>
+    <nd ref="-236"/>
+    <nd ref="-237"/>
+    <nd ref="-238"/>
+    <nd ref="-239"/>
     <nd ref="-240"/>
     <nd ref="-241"/>
     <nd ref="-242"/>
@@ -753,38 +718,46 @@
     <nd ref="-245"/>
     <nd ref="-246"/>
     <nd ref="-247"/>
-    <nd ref="-248"/>
-    <nd ref="-249"/>
-    <nd ref="-250"/>
-    <nd ref="-251"/>
-    <nd ref="-240"/>
+    <nd ref="-232"/>
     <tag k="building" v="yes"/>
     <tag k="addr:housenumber" v="3225"/>
     <tag k="addr:street" v="River Road"/>
     <tag k="addr:city" v="Bridge City"/>
     <tag k="addr:postcode" v="70094"/>
   </way>
-  <node visible="true" id="-252" lat="29.93773603225772461655651568" lon="-90.16753449788656382679619128"/>
-  <node visible="true" id="-253" lat="29.93762803776704828351284959" lon="-90.16737679020606321955710882"/>
-  <node visible="true" id="-254" lat="29.93759788804158716857273248" lon="-90.16740428343834423685621005"/>
-  <node visible="true" id="-255" lat="29.93744870607727293077005015" lon="-90.16718642876926992357766721"/>
-  <node visible="true" id="-256" lat="29.93748064872083958221082867" lon="-90.16715730063637579405622091"/>
-  <node visible="true" id="-257" lat="29.93742995715400923018023605" lon="-90.16708327434891145912843058"/>
-  <node visible="true" id="-258" lat="29.93719503328722453261434566" lon="-90.16729749841999819182092324"/>
-  <node visible="true" id="-259" lat="29.93723774755286726190206537" lon="-90.16735987508559446723666042"/>
-  <node visible="true" id="-260" lat="29.93725816010667983846360585" lon="-90.16734126115078140628611436"/>
-  <node visible="true" id="-261" lat="29.93727618680109614501816395" lon="-90.16736758597798484515806194"/>
-  <node visible="true" id="-262" lat="29.93738367949652712241004338" lon="-90.16726956474589371737238253"/>
-  <node visible="true" id="-263" lat="29.93757060968514949195196095" lon="-90.16754254409481461607356323"/>
-  <node visible="true" id="-264" lat="29.93746566365630457084989757" lon="-90.16763824323479070699249860"/>
-  <node visible="true" id="-265" lat="29.93748475856202873046640889" lon="-90.16766612805568570365721826"/>
-  <node visible="true" id="-266" lat="29.93746371632558833653092734" lon="-90.16768531623333160496258643"/>
-  <node visible="true" id="-267" lat="29.93750481872096713686914882" lon="-90.16774533920775525075441692"/>
-  <way visible="true" id="-38">
+  <node visible="true" id="-248" lat="29.93615053068073805775384244" lon="-90.17036619882574655093776528"/>
+  <node visible="true" id="-249" lat="29.93614152455056043322656478" lon="-90.17038812637630940116650891"/>
+  <node visible="true" id="-250" lat="29.93624145961215887723483320" lon="-90.17044278349811747830244713"/>
+  <node visible="true" id="-251" lat="29.93625046573331260901795758" lon="-90.17042085594755462807370350"/>
+  <way visible="true" id="-35">
+    <nd ref="-248"/>
+    <nd ref="-249"/>
+    <nd ref="-250"/>
+    <nd ref="-251"/>
+    <nd ref="-248"/>
+    <tag k="building" v="yes"/>
+  </way>
+  <node visible="true" id="-252" lat="29.93607653069408769397341530" lon="-90.17036338109400617213395890"/>
+  <node visible="true" id="-253" lat="29.93588388076986817054603307" lon="-90.17019207225804677818814525"/>
+  <node visible="true" id="-254" lat="29.93579029382689071780987433" lon="-90.17033221894720895761565771"/>
+  <node visible="true" id="-255" lat="29.93598294393230574428343971" lon="-90.17050352778319677327090176"/>
+  <way visible="true" id="-36">
     <nd ref="-252"/>
     <nd ref="-253"/>
     <nd ref="-254"/>
     <nd ref="-255"/>
+    <nd ref="-252"/>
+    <tag k="building" v="yes"/>
+  </way>
+  <node visible="true" id="-256" lat="29.93637048506048614626706694" lon="-90.16563033620467138007370522"/>
+  <node visible="true" id="-257" lat="29.93636899843619403327465989" lon="-90.16560248939192945272225188"/>
+  <node visible="true" id="-258" lat="29.93639835625010903186193900" lon="-90.16560040234593031982512912"/>
+  <node visible="true" id="-259" lat="29.93639145505519039147657168" lon="-90.16547113207005281765304971"/>
+  <node visible="true" id="-260" lat="29.93636037500711211123416433" lon="-90.16547334154944337569759227"/>
+  <node visible="true" id="-261" lat="29.93635882139532355949995690" lon="-90.16544423995843260399851715"/>
+  <node visible="true" id="-262" lat="29.93631436534370848789876618" lon="-90.16544740033613436480663950"/>
+  <node visible="true" id="-263" lat="29.93632430678090372566657607" lon="-90.16563361901579298773867777"/>
+  <way visible="true" id="-37">
     <nd ref="-256"/>
     <nd ref="-257"/>
     <nd ref="-258"/>
@@ -793,11 +766,23 @@
     <nd ref="-261"/>
     <nd ref="-262"/>
     <nd ref="-263"/>
+    <nd ref="-256"/>
+    <tag k="building" v="yes"/>
+    <tag k="addr:housenumber" v="201"/>
+    <tag k="addr:street" v="Marrero Street"/>
+    <tag k="addr:city" v="Bridge City"/>
+    <tag k="addr:postcode" v="70094"/>
+  </way>
+  <node visible="true" id="-264" lat="29.93825795884670881719102908" lon="-90.16868365807452789795206627"/>
+  <node visible="true" id="-265" lat="29.93831697713089212697923358" lon="-90.16876797189240733132464811"/>
+  <node visible="true" id="-266" lat="29.93849185897420284163672477" lon="-90.16860495510617568015732104"/>
+  <node visible="true" id="-267" lat="29.93843284079377298212421010" lon="-90.16852064128829624678473920"/>
+  <way visible="true" id="-38">
     <nd ref="-264"/>
     <nd ref="-265"/>
     <nd ref="-266"/>
     <nd ref="-267"/>
-    <nd ref="-252"/>
+    <nd ref="-264"/>
     <tag k="building" v="yes"/>
     <tag k="addr:housenumber" v="3225"/>
     <tag k="addr:street" v="River Road"/>
@@ -859,7 +844,6 @@
     <nd ref="-287"/>
     <nd ref="-280"/>
     <tag k="building" v="yes"/>
-    <tag k="building:levels" v="2"/>
   </way>
   <node visible="true" id="-288" lat="29.93607606181677027734622243" lon="-90.16595214988092266139574349">
     <tag k="addr:housenumber" v="204"/>
@@ -875,38 +859,37 @@
     <tag k="addr:postcode" v="70094"/>
     <tag k="addr:unit" v="B"/>
   </node>
-  <node visible="true" id="-290" lat="29.93618756003287728617578978" lon="-90.16811842478419691815361148"/>
-  <node visible="true" id="-291" lat="29.93612624983024517177909729" lon="-90.16806520783005396424414357"/>
-  <node visible="true" id="-292" lat="29.93611995373176526413772081" lon="-90.16807486688800565843848744"/>
-  <node visible="true" id="-293" lat="29.93609976521102211677316518" lon="-90.16805734335964928050088929"/>
-  <node visible="true" id="-294" lat="29.93606094431179442949542135" lon="-90.16811689979061839039786719"/>
-  <node visible="true" id="-295" lat="29.93614244307085314744654170" lon="-90.16818764027314614395436365"/>
+  <node visible="true" id="-290" lat="29.93702725590688729084831721" lon="-90.16585055784857161143008852"/>
+  <node visible="true" id="-291" lat="29.93701152119349018221328151" lon="-90.16582912641023028754716506"/>
+  <node visible="true" id="-292" lat="29.93698102231478586077173532" lon="-90.16585894447744919943943387"/>
+  <node visible="true" id="-293" lat="29.93699675703302531815097609" lon="-90.16588037591580473417707253"/>
   <way visible="true" id="-43">
     <nd ref="-290"/>
     <nd ref="-291"/>
     <nd ref="-292"/>
     <nd ref="-293"/>
-    <nd ref="-294"/>
-    <nd ref="-295"/>
     <nd ref="-290"/>
     <tag k="building" v="yes"/>
-    <tag k="building:levels" v="1"/>
-    <tag k="addr:housenumber" v="144"/>
-    <tag k="addr:street" v="1st Street"/>
-    <tag k="addr:city" v="Bridge City"/>
-    <tag k="addr:postcode" v="70094"/>
   </way>
-  <node visible="true" id="-296" lat="29.93702725590688729084831721" lon="-90.16585055784857161143008852"/>
-  <node visible="true" id="-297" lat="29.93701152119349018221328151" lon="-90.16582912641023028754716506"/>
-  <node visible="true" id="-298" lat="29.93698102231478586077173532" lon="-90.16585894447744919943943387"/>
-  <node visible="true" id="-299" lat="29.93699675703302531815097609" lon="-90.16588037591580473417707253"/>
+  <node visible="true" id="-294" lat="29.93618756003287728617578978" lon="-90.16811842478419691815361148"/>
+  <node visible="true" id="-295" lat="29.93612624983024517177909729" lon="-90.16806520783005396424414357"/>
+  <node visible="true" id="-296" lat="29.93611995373176526413772081" lon="-90.16807486688800565843848744"/>
+  <node visible="true" id="-297" lat="29.93609976521102211677316518" lon="-90.16805734335964928050088929"/>
+  <node visible="true" id="-298" lat="29.93606094431179442949542135" lon="-90.16811689979061839039786719"/>
+  <node visible="true" id="-299" lat="29.93614244307085314744654170" lon="-90.16818764027314614395436365"/>
   <way visible="true" id="-44">
+    <nd ref="-294"/>
+    <nd ref="-295"/>
     <nd ref="-296"/>
     <nd ref="-297"/>
     <nd ref="-298"/>
     <nd ref="-299"/>
-    <nd ref="-296"/>
+    <nd ref="-294"/>
     <tag k="building" v="yes"/>
+    <tag k="addr:housenumber" v="144"/>
+    <tag k="addr:street" v="1st Street"/>
+    <tag k="addr:city" v="Bridge City"/>
+    <tag k="addr:postcode" v="70094"/>
   </way>
   <node visible="true" id="-300" lat="29.93639890915197554477344966" lon="-90.16608674910004594948986778"/>
   <node visible="true" id="-301" lat="29.93640298874229443981676013" lon="-90.16588902045452869060682133"/>
@@ -935,7 +918,6 @@
     <nd ref="-307"/>
     <nd ref="-304"/>
     <tag k="building" v="yes"/>
-    <tag k="building:levels" v="1"/>
     <tag k="addr:housenumber" v="210"/>
     <tag k="addr:street" v="Lafitte Street"/>
     <tag k="addr:city" v="Bridge City"/>
@@ -1069,20 +1051,20 @@
     <nd ref="-344"/>
     <tag k="building" v="yes"/>
   </way>
-  <node visible="true" id="-348" lat="29.93626702038496745217344142" lon="-90.16678392733957991822535405">
+  <node visible="true" id="-348" lat="29.93622577506929260948709270" lon="-90.16678440945312900112185162">
+    <tag k="addr:housenumber" v="202"/>
+    <tag k="addr:street" v="Westwego Avenue"/>
+    <tag k="addr:city" v="Bridge City"/>
+    <tag k="addr:postcode" v="70094"/>
+  </node>
+  <node visible="true" id="-349" lat="29.93626702038496745217344142" lon="-90.16678392733957991822535405">
     <tag k="addr:housenumber" v="204"/>
     <tag k="addr:street" v="Westwego Avenue"/>
     <tag k="addr:city" v="Bridge City"/>
     <tag k="addr:postcode" v="70094"/>
   </node>
-  <node visible="true" id="-349" lat="29.93603568269093173626060889" lon="-90.16674558559103047628013883">
+  <node visible="true" id="-350" lat="29.93603568269093173626060889" lon="-90.16674558559103047628013883">
     <tag k="addr:housenumber" v="210"/>
-    <tag k="addr:street" v="Westwego Avenue"/>
-    <tag k="addr:city" v="Bridge City"/>
-    <tag k="addr:postcode" v="70094"/>
-  </node>
-  <node visible="true" id="-350" lat="29.93622577506929260948709270" lon="-90.16678440945312900112185162">
-    <tag k="addr:housenumber" v="202"/>
     <tag k="addr:street" v="Westwego Avenue"/>
     <tag k="addr:city" v="Bridge City"/>
     <tag k="addr:postcode" v="70094"/>
