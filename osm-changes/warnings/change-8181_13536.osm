@@ -1,8 +1,10 @@
 <?xml version='1.0' encoding='utf8'?>
-<osm version="0.6" generator="AnonymousAlligator's import script">
-  <changeset_tag k="comment" v="Import buildings and addresses in Jefferson Parish, see https://wiki.openstreetmap.org/wiki/Import/Catalogue/Jefferson_Parish_Addresses_and_Buildings"/>
-  <changeset_tag k="source" v="Jefferson Parish Planning Department"/>
-  <changeset_tag k="source_file" v="8181_13536"/>
+<osm version="0.6" generator="AnonymousAlligator's import script" upload-changeset="-1">
+  <changeset id="-1">
+    <tag k="comment" v="Import buildings and addresses in Jefferson Parish, see https://wiki.openstreetmap.org/wiki/Import/Catalogue/Jefferson_Parish_Addresses_and_Buildings"/>
+    <tag k="source" v="Jefferson Parish Planning Department"/>
+    <tag k="source_file" v="change-8181_13536.osm"/>
+  </changeset>
   <node visible="true" id="-1" lat="29.83895338115864959149803326" lon="-90.11565921783618193785514450"/>
   <node visible="true" id="-2" lat="29.83896937738690979813327431" lon="-90.11563441766064386229118099"/>
   <node visible="true" id="-3" lat="29.83891981779351709747061250" lon="-90.11559193376639598227484385"/>
@@ -445,14 +447,16 @@
     <tag k="addr:city" v="Marrero"/>
     <tag k="addr:postcode" v="70072"/>
   </way>
-  <node visible="true" id="-158" lat="29.84001127329337066385051003" lon="-90.11715368974893181075458415"/>
-  <node visible="true" id="-159" lat="29.84002377088475554955948610" lon="-90.11715568412215304761048174"/>
-  <node visible="true" id="-160" lat="29.84001227075654227860468382" lon="-90.11718988558915555131534347"/>
-  <node visible="true" id="-161" lat="29.84010398619571091671787144" lon="-90.11723087234835816161648836"/>
-  <node visible="true" id="-162" lat="29.84011452575369816031525261" lon="-90.11719952759580110068782233"/>
-  <node visible="true" id="-163" lat="29.84013239178009158081295027" lon="-90.11720751175865018467447953"/>
-  <node visible="true" id="-164" lat="29.84017701210582984572283749" lon="-90.11707481039616141060832888"/>
-  <node visible="true" id="-165" lat="29.84005598274325876673174207" lon="-90.11702072349123682215576991"/>
+  <node visible="true" id="-158" lat="29.84045448543643175298711867" lon="-90.11721926849725150532322004"/>
+  <node visible="true" id="-159" lat="29.84045146951297056148177944" lon="-90.11722663177725678451679414"/>
+  <node visible="true" id="-160" lat="29.84041207321673994101729477" lon="-90.11720518554071190919785295"/>
+  <node visible="true" id="-161" lat="29.84041555129932987711072201" lon="-90.11719669391740694663894828"/>
+  <node visible="true" id="-162" lat="29.84036522477044073298202420" lon="-90.11716929758068772571277805"/>
+  <node visible="true" id="-163" lat="29.84029715892498657581199950" lon="-90.11733547794764831451175269"/>
+  <node visible="true" id="-164" lat="29.84035020277006111655282439" lon="-90.11736435349504859004809987"/>
+  <node visible="true" id="-165" lat="29.84035809431705033034631924" lon="-90.11734508655625575102021685"/>
+  <node visible="true" id="-166" lat="29.84043813701895686563148047" lon="-90.11738865953915933459938969"/>
+  <node visible="true" id="-167" lat="29.84049784907546865042604622" lon="-90.11724287445429126819362864"/>
   <way visible="true" id="-17">
     <nd ref="-158"/>
     <nd ref="-159"/>
@@ -462,26 +466,24 @@
     <nd ref="-163"/>
     <nd ref="-164"/>
     <nd ref="-165"/>
+    <nd ref="-166"/>
+    <nd ref="-167"/>
     <nd ref="-158"/>
     <tag k="building" v="yes"/>
-    <tag k="addr:housenumber" v="4080"/>
+    <tag k="addr:housenumber" v="4072"/>
     <tag k="addr:street" v="Le Mans Drive"/>
     <tag k="addr:city" v="Marrero"/>
     <tag k="addr:postcode" v="70072"/>
   </way>
-  <node visible="true" id="-166" lat="29.84045448543643175298711867" lon="-90.11721926849725150532322004"/>
-  <node visible="true" id="-167" lat="29.84045146951297056148177944" lon="-90.11722663177725678451679414"/>
-  <node visible="true" id="-168" lat="29.84041207321673994101729477" lon="-90.11720518554071190919785295"/>
-  <node visible="true" id="-169" lat="29.84041555129932987711072201" lon="-90.11719669391740694663894828"/>
-  <node visible="true" id="-170" lat="29.84036522477044073298202420" lon="-90.11716929758068772571277805"/>
-  <node visible="true" id="-171" lat="29.84029715892498657581199950" lon="-90.11733547794764831451175269"/>
-  <node visible="true" id="-172" lat="29.84035020277006111655282439" lon="-90.11736435349504859004809987"/>
-  <node visible="true" id="-173" lat="29.84035809431705033034631924" lon="-90.11734508655625575102021685"/>
-  <node visible="true" id="-174" lat="29.84043813701895686563148047" lon="-90.11738865953915933459938969"/>
-  <node visible="true" id="-175" lat="29.84049784907546865042604622" lon="-90.11724287445429126819362864"/>
+  <node visible="true" id="-168" lat="29.84001127329337066385051003" lon="-90.11715368974893181075458415"/>
+  <node visible="true" id="-169" lat="29.84002377088475554955948610" lon="-90.11715568412215304761048174"/>
+  <node visible="true" id="-170" lat="29.84001227075654227860468382" lon="-90.11718988558915555131534347"/>
+  <node visible="true" id="-171" lat="29.84010398619571091671787144" lon="-90.11723087234835816161648836"/>
+  <node visible="true" id="-172" lat="29.84011452575369816031525261" lon="-90.11719952759580110068782233"/>
+  <node visible="true" id="-173" lat="29.84013239178009158081295027" lon="-90.11720751175865018467447953"/>
+  <node visible="true" id="-174" lat="29.84017701210582984572283749" lon="-90.11707481039616141060832888"/>
+  <node visible="true" id="-175" lat="29.84005598274325876673174207" lon="-90.11702072349123682215576991"/>
   <way visible="true" id="-18">
-    <nd ref="-166"/>
-    <nd ref="-167"/>
     <nd ref="-168"/>
     <nd ref="-169"/>
     <nd ref="-170"/>
@@ -490,9 +492,9 @@
     <nd ref="-173"/>
     <nd ref="-174"/>
     <nd ref="-175"/>
-    <nd ref="-166"/>
+    <nd ref="-168"/>
     <tag k="building" v="yes"/>
-    <tag k="addr:housenumber" v="4072"/>
+    <tag k="addr:housenumber" v="4080"/>
     <tag k="addr:street" v="Le Mans Drive"/>
     <tag k="addr:city" v="Marrero"/>
     <tag k="addr:postcode" v="70072"/>
@@ -712,12 +714,12 @@
     <tag k="addr:city" v="Marrero"/>
     <tag k="addr:postcode" v="70072"/>
   </way>
-  <node visible="true" id="-247" lat="29.83952980097334517495255568" lon="-90.11642369970968502457253635"/>
-  <node visible="true" id="-248" lat="29.83967802628784582452681207" lon="-90.11626044730063256338326028"/>
-  <node visible="true" id="-249" lat="29.83954962059388194006714912" lon="-90.11608758143108843796653673"/>
-  <node visible="true" id="-250" lat="29.83949015708741825392280589" lon="-90.11614293663264163569692755"/>
-  <node visible="true" id="-251" lat="29.83952841673082190254717716" lon="-90.11620074288740056545066182"/>
-  <node visible="true" id="-252" lat="29.83944225069412681250469177" lon="-90.11630336474107139110856224"/>
+  <node visible="true" id="-247" lat="29.83740647418784064370811393" lon="-90.11486494512234912690473720"/>
+  <node visible="true" id="-248" lat="29.83736595578214334523181606" lon="-90.11493584473021201119991019"/>
+  <node visible="true" id="-249" lat="29.83735369824796279658585263" lon="-90.11492653511702144442097051"/>
+  <node visible="true" id="-250" lat="29.83728125787795448786710040" lon="-90.11505329208594616829941515"/>
+  <node visible="true" id="-251" lat="29.83733762266604117030510679" lon="-90.11509610119429680707980879"/>
+  <node visible="true" id="-252" lat="29.83745058138294936611600860" lon="-90.11489844461752340976090636"/>
   <way visible="true" id="-28">
     <nd ref="-247"/>
     <nd ref="-248"/>
@@ -727,17 +729,18 @@
     <nd ref="-252"/>
     <nd ref="-247"/>
     <tag k="building" v="yes"/>
-    <tag k="addr:housenumber" v="4105"/>
+    <tag k="addr:housenumber" v="4320"/>
     <tag k="addr:street" v="Le Mans Drive"/>
     <tag k="addr:city" v="Marrero"/>
     <tag k="addr:postcode" v="70072"/>
   </way>
-  <node visible="true" id="-253" lat="29.83740647418784064370811393" lon="-90.11486494512234912690473720"/>
-  <node visible="true" id="-254" lat="29.83736595578214334523181606" lon="-90.11493584473021201119991019"/>
-  <node visible="true" id="-255" lat="29.83735369824796279658585263" lon="-90.11492653511702144442097051"/>
-  <node visible="true" id="-256" lat="29.83728125787795448786710040" lon="-90.11505329208594616829941515"/>
-  <node visible="true" id="-257" lat="29.83733762266604117030510679" lon="-90.11509610119429680707980879"/>
-  <node visible="true" id="-258" lat="29.83745058138294936611600860" lon="-90.11489844461752340976090636"/>
+  <node visible="true" id="-253" lat="29.83773235406143697900915868" lon="-90.11513884276294561459508259"/>
+  <node visible="true" id="-254" lat="29.83769958719504344912820670" lon="-90.11510989656972014927305281"/>
+  <node visible="true" id="-255" lat="29.83758393134689157477623667" lon="-90.11528824024425432526186341"/>
+  <node visible="true" id="-256" lat="29.83764004768213240481600224" lon="-90.11533681159370701152511174"/>
+  <node visible="true" id="-257" lat="29.83770736626582475992108812" lon="-90.11522106041053348235436715"/>
+  <node visible="true" id="-258" lat="29.83769313759078301018234924" lon="-90.11521030880294347298331559"/>
+  <node visible="true" id="-259" lat="29.83769919507643209044545074" lon="-90.11519744500300532763503725"/>
   <way visible="true" id="-29">
     <nd ref="-253"/>
     <nd ref="-254"/>
@@ -745,31 +748,30 @@
     <nd ref="-256"/>
     <nd ref="-257"/>
     <nd ref="-258"/>
+    <nd ref="-259"/>
     <nd ref="-253"/>
     <tag k="building" v="yes"/>
-    <tag k="addr:housenumber" v="4320"/>
+    <tag k="addr:housenumber" v="4308"/>
     <tag k="addr:street" v="Le Mans Drive"/>
     <tag k="addr:city" v="Marrero"/>
     <tag k="addr:postcode" v="70072"/>
   </way>
-  <node visible="true" id="-259" lat="29.83773235406143697900915868" lon="-90.11513884276294561459508259"/>
-  <node visible="true" id="-260" lat="29.83769958719504344912820670" lon="-90.11510989656972014927305281"/>
-  <node visible="true" id="-261" lat="29.83758393134689157477623667" lon="-90.11528824024425432526186341"/>
-  <node visible="true" id="-262" lat="29.83764004768213240481600224" lon="-90.11533681159370701152511174"/>
-  <node visible="true" id="-263" lat="29.83770736626582475992108812" lon="-90.11522106041053348235436715"/>
-  <node visible="true" id="-264" lat="29.83769313759078301018234924" lon="-90.11521030880294347298331559"/>
-  <node visible="true" id="-265" lat="29.83769919507643209044545074" lon="-90.11519744500300532763503725"/>
+  <node visible="true" id="-260" lat="29.83952980097334517495255568" lon="-90.11642369970968502457253635"/>
+  <node visible="true" id="-261" lat="29.83967802628784582452681207" lon="-90.11626044730063256338326028"/>
+  <node visible="true" id="-262" lat="29.83954962059388194006714912" lon="-90.11608758143108843796653673"/>
+  <node visible="true" id="-263" lat="29.83949015708741825392280589" lon="-90.11614293663264163569692755"/>
+  <node visible="true" id="-264" lat="29.83952841673082190254717716" lon="-90.11620074288740056545066182"/>
+  <node visible="true" id="-265" lat="29.83944225069412681250469177" lon="-90.11630336474107139110856224"/>
   <way visible="true" id="-30">
-    <nd ref="-259"/>
     <nd ref="-260"/>
     <nd ref="-261"/>
     <nd ref="-262"/>
     <nd ref="-263"/>
     <nd ref="-264"/>
     <nd ref="-265"/>
-    <nd ref="-259"/>
+    <nd ref="-260"/>
     <tag k="building" v="yes"/>
-    <tag k="addr:housenumber" v="4308"/>
+    <tag k="addr:housenumber" v="4105"/>
     <tag k="addr:street" v="Le Mans Drive"/>
     <tag k="addr:city" v="Marrero"/>
     <tag k="addr:postcode" v="70072"/>

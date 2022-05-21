@@ -1,8 +1,10 @@
 <?xml version='1.0' encoding='utf8'?>
-<osm version="0.6" generator="AnonymousAlligator's import script">
-  <changeset_tag k="comment" v="Import buildings and addresses in Jefferson Parish, see https://wiki.openstreetmap.org/wiki/Import/Catalogue/Jefferson_Parish_Addresses_and_Buildings"/>
-  <changeset_tag k="source" v="Jefferson Parish Planning Department"/>
-  <changeset_tag k="source_file" v="8191_13530"/>
+<osm version="0.6" generator="AnonymousAlligator's import script" upload-changeset="-1">
+  <changeset id="-1">
+    <tag k="comment" v="Import buildings and addresses in Jefferson Parish, see https://wiki.openstreetmap.org/wiki/Import/Catalogue/Jefferson_Parish_Addresses_and_Buildings"/>
+    <tag k="source" v="Jefferson Parish Planning Department"/>
+    <tag k="source_file" v="change-8191_13530.osm"/>
+  </changeset>
   <node visible="true" id="-1" lat="29.89494875531586259853611409" lon="-90.01042942777708333323971601"/>
   <node visible="true" id="-2" lat="29.89495620774569317745772423" lon="-90.01058080582342313391563948"/>
   <node visible="true" id="-3" lat="29.89496888147553477210749406" lon="-90.01057997566540791467559757"/>
@@ -863,16 +865,14 @@
     <tag k="addr:city" v="Terrytown"/>
     <tag k="addr:postcode" v="70056"/>
   </way>
-  <node visible="true" id="-293" lat="29.89345082575736967100965558" lon="-90.01023157000244623304752167"/>
-  <node visible="true" id="-294" lat="29.89345778535817288457110408" lon="-90.01038951695906575878325384"/>
-  <node visible="true" id="-295" lat="29.89356354634686852023151005" lon="-90.01038331674018877492926549"/>
-  <node visible="true" id="-296" lat="29.89356345159845673720155901" lon="-90.01038116644454589732049499"/>
-  <node visible="true" id="-297" lat="29.89356855232045973025378771" lon="-90.01038086741549193448008737"/>
-  <node visible="true" id="-298" lat="29.89356593095412151228629227" lon="-90.01032137588718740062176948"/>
-  <node visible="true" id="-299" lat="29.89356179626834730811424379" lon="-90.01032161828251787483168300"/>
-  <node visible="true" id="-300" lat="29.89356138792852135566135985" lon="-90.01031235107008399154437939"/>
-  <node visible="true" id="-301" lat="29.89363080988912813040769834" lon="-90.01030828121668037056224421"/>
-  <node visible="true" id="-302" lat="29.89362697475261754220809962" lon="-90.01022124329644213958090404"/>
+  <node visible="true" id="-293" lat="29.89063017239780606360000093" lon="-90.01047950196429781044571428"/>
+  <node visible="true" id="-294" lat="29.89053807234061821418436011" lon="-90.01053177040792263596813427"/>
+  <node visible="true" id="-295" lat="29.89060597696821020008428604" lon="-90.01069095566276700992602855"/>
+  <node visible="true" id="-296" lat="29.89065571024863388061021396" lon="-90.01066273111588600386312464"/>
+  <node visible="true" id="-297" lat="29.89063640625947471107792808" lon="-90.01061747775356991496664705"/>
+  <node visible="true" id="-298" lat="29.89065006879114605453651166" lon="-90.01060972401580784207908437"/>
+  <node visible="true" id="-299" lat="29.89065703341928426084450621" lon="-90.01062605084132428601151332"/>
+  <node visible="true" id="-300" lat="29.89068573760783209536384675" lon="-90.01060976068232832858484471"/>
   <way visible="true" id="-33">
     <nd ref="-293"/>
     <nd ref="-294"/>
@@ -882,65 +882,68 @@
     <nd ref="-298"/>
     <nd ref="-299"/>
     <nd ref="-300"/>
-    <nd ref="-301"/>
-    <nd ref="-302"/>
     <nd ref="-293"/>
     <tag k="building" v="yes"/>
-    <tag k="addr:housenumber" v="2457"/>
-    <tag k="addr:street" v="Regency Place"/>
+    <tag k="addr:housenumber" v="917"/>
+    <tag k="addr:street" v="Kingsway Drive East"/>
     <tag k="addr:city" v="Terrytown"/>
     <tag k="addr:postcode" v="70056"/>
   </way>
-  <node visible="true" id="-303" lat="29.89348828716483197354136792" lon="-90.01081022248190777190757217"/>
-  <node visible="true" id="-304" lat="29.89349568339638452130202495" lon="-90.01097118219394133120658807"/>
-  <node visible="true" id="-305" lat="29.89360439598371499414497521" lon="-90.01096453586366408217145363"/>
-  <node visible="true" id="-306" lat="29.89359699976053974523892975" lon="-90.01080357615163052287243772"/>
+  <node visible="true" id="-301" lat="29.89345792593340789267131186" lon="-90.00897767042022223904496059"/>
+  <node visible="true" id="-302" lat="29.89343792745162176061057835" lon="-90.00893087418437232827272965"/>
+  <node visible="true" id="-303" lat="29.89338551492736684167539352" lon="-90.00896182339398876592895249"/>
+  <node visible="true" id="-304" lat="29.89340159774205218923270877" lon="-90.00900755118584584124619141"/>
+  <node visible="true" id="-305" lat="29.89336860914089655238967680" lon="-90.00902815840080961606872734"/>
+  <node visible="true" id="-306" lat="29.89340388398656855883928074" lon="-90.00912419918527973550226307"/>
+  <node visible="true" id="-307" lat="29.89349399501858783878560644" lon="-90.00906907535123480101901805"/>
   <way visible="true" id="-34">
+    <nd ref="-301"/>
+    <nd ref="-302"/>
     <nd ref="-303"/>
     <nd ref="-304"/>
     <nd ref="-305"/>
     <nd ref="-306"/>
-    <nd ref="-303"/>
+    <nd ref="-307"/>
+    <nd ref="-301"/>
     <tag k="building" v="yes"/>
-    <tag k="addr:housenumber" v="2445"/>
-    <tag k="addr:street" v="Regency Place"/>
+    <tag k="addr:housenumber" v="809"/>
+    <tag k="addr:street" v="Kingsway Drive East"/>
     <tag k="addr:city" v="Terrytown"/>
     <tag k="addr:postcode" v="70056"/>
   </way>
-  <node visible="true" id="-307" lat="29.89510044078919293042417848" lon="-90.01043245890397770381241571"/>
-  <node visible="true" id="-308" lat="29.89511207878121012981864624" lon="-90.01070133872960354892711621"/>
-  <node visible="true" id="-309" lat="29.89517206348473266075416177" lon="-90.01069788424618423050560523"/>
-  <node visible="true" id="-310" lat="29.89516042549972141273428861" lon="-90.01042900442055838539090473"/>
+  <node visible="true" id="-308" lat="29.89351689052262983636865101" lon="-90.00941188892930711062945193"/>
+  <node visible="true" id="-309" lat="29.89351667962151637425449735" lon="-90.00940739066619755703868577"/>
+  <node visible="true" id="-310" lat="29.89341074182810231718576688" lon="-90.00941399902052353354520164"/>
+  <node visible="true" id="-311" lat="29.89341823551893284616198798" lon="-90.00957383017090762677980820"/>
+  <node visible="true" id="-312" lat="29.89359491246296585131858592" lon="-90.00956280913381135633244412"/>
+  <node visible="true" id="-313" lat="29.89359092107035564822581364" lon="-90.00947767751767969457432628"/>
+  <node visible="true" id="-314" lat="29.89352411339807247259159340" lon="-90.00948184495568682450539200"/>
+  <node visible="true" id="-315" lat="29.89352082201188665067093098" lon="-90.00941164368454394661966944"/>
   <way visible="true" id="-35">
-    <nd ref="-307"/>
     <nd ref="-308"/>
     <nd ref="-309"/>
     <nd ref="-310"/>
-    <nd ref="-307"/>
-    <tag k="building" v="yes"/>
-  </way>
-  <node visible="true" id="-311" lat="29.89506792019308534236188279" lon="-90.01060751662677716922189575"/>
-  <node visible="true" id="-312" lat="29.89506947153254401428057463" lon="-90.01063870540956202148663579"/>
-  <node visible="true" id="-313" lat="29.89509008693920932842047478" lon="-90.01063734106963920567068271"/>
-  <node visible="true" id="-314" lat="29.89508853560052514808376145" lon="-90.01060615228685435340594267"/>
-  <way visible="true" id="-36">
     <nd ref="-311"/>
     <nd ref="-312"/>
     <nd ref="-313"/>
     <nd ref="-314"/>
-    <nd ref="-311"/>
-    <tag k="building" v="yes"/>
-  </way>
-  <node visible="true" id="-315" lat="29.89063017239780606360000093" lon="-90.01047950196429781044571428"/>
-  <node visible="true" id="-316" lat="29.89053807234061821418436011" lon="-90.01053177040792263596813427"/>
-  <node visible="true" id="-317" lat="29.89060597696821020008428604" lon="-90.01069095566276700992602855"/>
-  <node visible="true" id="-318" lat="29.89065571024863388061021396" lon="-90.01066273111588600386312464"/>
-  <node visible="true" id="-319" lat="29.89063640625947471107792808" lon="-90.01061747775356991496664705"/>
-  <node visible="true" id="-320" lat="29.89065006879114605453651166" lon="-90.01060972401580784207908437"/>
-  <node visible="true" id="-321" lat="29.89065703341928426084450621" lon="-90.01062605084132428601151332"/>
-  <node visible="true" id="-322" lat="29.89068573760783209536384675" lon="-90.01060976068232832858484471"/>
-  <way visible="true" id="-37">
     <nd ref="-315"/>
+    <nd ref="-308"/>
+    <tag k="building" v="yes"/>
+    <tag k="addr:housenumber" v="2473"/>
+    <tag k="addr:street" v="Regency Place"/>
+    <tag k="addr:city" v="Terrytown"/>
+    <tag k="addr:postcode" v="70056"/>
+  </way>
+  <node visible="true" id="-316" lat="29.89342761380918744862356107" lon="-90.00960542566626543248275993"/>
+  <node visible="true" id="-317" lat="29.89343040455112898712286551" lon="-90.00966640373798099972191267"/>
+  <node visible="true" id="-318" lat="29.89342048127246087574349076" lon="-90.00966700797748387685714988"/>
+  <node visible="true" id="-319" lat="29.89342389700574642574792961" lon="-90.00974164218395401348971063"/>
+  <node visible="true" id="-320" lat="29.89343684231683795360368094" lon="-90.00974085392947188211110188"/>
+  <node visible="true" id="-321" lat="29.89343789115259042432626302" lon="-90.00976377112630189003539272"/>
+  <node visible="true" id="-322" lat="29.89358962212721948503713065" lon="-90.00975453204966925113694742"/>
+  <node visible="true" id="-323" lat="29.89358236682812375306639296" lon="-90.00959600257463932848622790"/>
+  <way visible="true" id="-36">
     <nd ref="-316"/>
     <nd ref="-317"/>
     <nd ref="-318"/>
@@ -948,194 +951,169 @@
     <nd ref="-320"/>
     <nd ref="-321"/>
     <nd ref="-322"/>
-    <nd ref="-315"/>
-    <tag k="building" v="yes"/>
-    <tag k="addr:housenumber" v="917"/>
-    <tag k="addr:street" v="Kingsway Drive East"/>
-    <tag k="addr:city" v="Terrytown"/>
-    <tag k="addr:postcode" v="70056"/>
-  </way>
-  <node visible="true" id="-323" lat="29.89345792593340789267131186" lon="-90.00897767042022223904496059"/>
-  <node visible="true" id="-324" lat="29.89343792745162176061057835" lon="-90.00893087418437232827272965"/>
-  <node visible="true" id="-325" lat="29.89338551492736684167539352" lon="-90.00896182339398876592895249"/>
-  <node visible="true" id="-326" lat="29.89340159774205218923270877" lon="-90.00900755118584584124619141"/>
-  <node visible="true" id="-327" lat="29.89336860914089655238967680" lon="-90.00902815840080961606872734"/>
-  <node visible="true" id="-328" lat="29.89340388398656855883928074" lon="-90.00912419918527973550226307"/>
-  <node visible="true" id="-329" lat="29.89349399501858783878560644" lon="-90.00906907535123480101901805"/>
-  <way visible="true" id="-38">
     <nd ref="-323"/>
-    <nd ref="-324"/>
-    <nd ref="-325"/>
-    <nd ref="-326"/>
-    <nd ref="-327"/>
-    <nd ref="-328"/>
-    <nd ref="-329"/>
-    <nd ref="-323"/>
-    <tag k="building" v="yes"/>
-    <tag k="addr:housenumber" v="809"/>
-    <tag k="addr:street" v="Kingsway Drive East"/>
-    <tag k="addr:city" v="Terrytown"/>
-    <tag k="addr:postcode" v="70056"/>
-  </way>
-  <node visible="true" id="-330" lat="29.89351689052262983636865101" lon="-90.00941188892930711062945193"/>
-  <node visible="true" id="-331" lat="29.89351667962151637425449735" lon="-90.00940739066619755703868577"/>
-  <node visible="true" id="-332" lat="29.89341074182810231718576688" lon="-90.00941399902052353354520164"/>
-  <node visible="true" id="-333" lat="29.89341823551893284616198798" lon="-90.00957383017090762677980820"/>
-  <node visible="true" id="-334" lat="29.89359491246296585131858592" lon="-90.00956280913381135633244412"/>
-  <node visible="true" id="-335" lat="29.89359092107035564822581364" lon="-90.00947767751767969457432628"/>
-  <node visible="true" id="-336" lat="29.89352411339807247259159340" lon="-90.00948184495568682450539200"/>
-  <node visible="true" id="-337" lat="29.89352082201188665067093098" lon="-90.00941164368454394661966944"/>
-  <way visible="true" id="-39">
-    <nd ref="-330"/>
-    <nd ref="-331"/>
-    <nd ref="-332"/>
-    <nd ref="-333"/>
-    <nd ref="-334"/>
-    <nd ref="-335"/>
-    <nd ref="-336"/>
-    <nd ref="-337"/>
-    <nd ref="-330"/>
-    <tag k="building" v="yes"/>
-    <tag k="addr:housenumber" v="2473"/>
-    <tag k="addr:street" v="Regency Place"/>
-    <tag k="addr:city" v="Terrytown"/>
-    <tag k="addr:postcode" v="70056"/>
-  </way>
-  <node visible="true" id="-338" lat="29.89342761380918744862356107" lon="-90.00960542566626543248275993"/>
-  <node visible="true" id="-339" lat="29.89343040455112898712286551" lon="-90.00966640373798099972191267"/>
-  <node visible="true" id="-340" lat="29.89342048127246087574349076" lon="-90.00966700797748387685714988"/>
-  <node visible="true" id="-341" lat="29.89342389700574642574792961" lon="-90.00974164218395401348971063"/>
-  <node visible="true" id="-342" lat="29.89343684231683795360368094" lon="-90.00974085392947188211110188"/>
-  <node visible="true" id="-343" lat="29.89343789115259042432626302" lon="-90.00976377112630189003539272"/>
-  <node visible="true" id="-344" lat="29.89358962212721948503713065" lon="-90.00975453204966925113694742"/>
-  <node visible="true" id="-345" lat="29.89358236682812375306639296" lon="-90.00959600257463932848622790"/>
-  <way visible="true" id="-40">
-    <nd ref="-338"/>
-    <nd ref="-339"/>
-    <nd ref="-340"/>
-    <nd ref="-341"/>
-    <nd ref="-342"/>
-    <nd ref="-343"/>
-    <nd ref="-344"/>
-    <nd ref="-345"/>
-    <nd ref="-338"/>
+    <nd ref="-316"/>
     <tag k="building" v="yes"/>
     <tag k="addr:housenumber" v="2469"/>
     <tag k="addr:street" v="Regency Place"/>
     <tag k="addr:city" v="Terrytown"/>
     <tag k="addr:postcode" v="70056"/>
   </way>
-  <node visible="true" id="-346" lat="29.89419726144402389422793931" lon="-90.01038203672301563074142905"/>
-  <node visible="true" id="-347" lat="29.89420078801643754218275717" lon="-90.01046026822419321433699224"/>
-  <node visible="true" id="-348" lat="29.89420614591573510665512003" lon="-90.01045994687262918887427077"/>
-  <node visible="true" id="-349" lat="29.89420650282158220534256543" lon="-90.01046786426887535981222754"/>
-  <node visible="true" id="-350" lat="29.89420280530312368227896513" lon="-90.01046808603551596661418444"/>
-  <node visible="true" id="-351" lat="29.89420553796607649132965889" lon="-90.01052870590324062050058274"/>
-  <node visible="true" id="-352" lat="29.89421010664263533840312448" lon="-90.01052843188701046983624110"/>
-  <node visible="true" id="-353" lat="29.89421332071829340293334099" lon="-90.01059973113932244359602919"/>
-  <node visible="true" id="-354" lat="29.89420723426380632758991851" lon="-90.01060009618760204830323346"/>
-  <node visible="true" id="-355" lat="29.89421085036159198011773697" lon="-90.01068031367502442208206048"/>
-  <node visible="true" id="-356" lat="29.89432024517532582308376732" lon="-90.01067375248109669882978778"/>
-  <node visible="true" id="-357" lat="29.89430679887465913679989171" lon="-90.01037546697619973201653920"/>
-  <way visible="true" id="-41">
+  <node visible="true" id="-324" lat="29.89419726144402389422793931" lon="-90.01038203672301563074142905"/>
+  <node visible="true" id="-325" lat="29.89420078801643754218275717" lon="-90.01046026822419321433699224"/>
+  <node visible="true" id="-326" lat="29.89420614591573510665512003" lon="-90.01045994687262918887427077"/>
+  <node visible="true" id="-327" lat="29.89420650282158220534256543" lon="-90.01046786426887535981222754"/>
+  <node visible="true" id="-328" lat="29.89420280530312368227896513" lon="-90.01046808603551596661418444"/>
+  <node visible="true" id="-329" lat="29.89420553796607649132965889" lon="-90.01052870590324062050058274"/>
+  <node visible="true" id="-330" lat="29.89421010664263533840312448" lon="-90.01052843188701046983624110"/>
+  <node visible="true" id="-331" lat="29.89421332071829340293334099" lon="-90.01059973113932244359602919"/>
+  <node visible="true" id="-332" lat="29.89420723426380632758991851" lon="-90.01060009618760204830323346"/>
+  <node visible="true" id="-333" lat="29.89421085036159198011773697" lon="-90.01068031367502442208206048"/>
+  <node visible="true" id="-334" lat="29.89432024517532582308376732" lon="-90.01067375248109669882978778"/>
+  <node visible="true" id="-335" lat="29.89430679887465913679989171" lon="-90.01037546697619973201653920"/>
+  <way visible="true" id="-37">
+    <nd ref="-324"/>
+    <nd ref="-325"/>
+    <nd ref="-326"/>
+    <nd ref="-327"/>
+    <nd ref="-328"/>
+    <nd ref="-329"/>
+    <nd ref="-330"/>
+    <nd ref="-331"/>
+    <nd ref="-332"/>
+    <nd ref="-333"/>
+    <nd ref="-334"/>
+    <nd ref="-335"/>
+    <nd ref="-324"/>
+    <tag k="building" v="yes"/>
+  </way>
+  <node visible="true" id="-336" lat="29.89425473821931689144548727" lon="-90.01065804029511241424188484">
+    <tag k="addr:housenumber" v="2453"/>
+    <tag k="addr:street" v="Park Place Drive"/>
+    <tag k="addr:city" v="Terrytown"/>
+    <tag k="addr:postcode" v="70056"/>
+  </node>
+  <node visible="true" id="-337" lat="29.89425433630692197084499639" lon="-90.01051430340615411296312232">
+    <tag k="addr:housenumber" v="2457"/>
+    <tag k="addr:street" v="Park Place Drive"/>
+    <tag k="addr:city" v="Terrytown"/>
+    <tag k="addr:postcode" v="70056"/>
+  </node>
+  <node visible="true" id="-338" lat="29.89424724317604997736452788" lon="-90.01044410381325633352389559">
+    <tag k="addr:housenumber" v="2459"/>
+    <tag k="addr:street" v="Park Place Drive"/>
+    <tag k="addr:city" v="Terrytown"/>
+    <tag k="addr:postcode" v="70056"/>
+  </node>
+  <node visible="true" id="-339" lat="29.89425437040049615688985796" lon="-90.01057994107996762522816425">
+    <tag k="addr:housenumber" v="2455"/>
+    <tag k="addr:street" v="Park Place Drive"/>
+    <tag k="addr:city" v="Terrytown"/>
+    <tag k="addr:postcode" v="70056"/>
+  </node>
+  <node visible="true" id="-340" lat="29.89434187762328676285505935" lon="-90.01014862186451637171558104"/>
+  <node visible="true" id="-341" lat="29.89435018381912456675308931" lon="-90.01034975285497807817591820"/>
+  <node visible="true" id="-342" lat="29.89440953936921019362671359" lon="-90.01034649148093080839316826"/>
+  <node visible="true" id="-343" lat="29.89440123317887199050346680" lon="-90.01014536049045489107811591"/>
+  <way visible="true" id="-38">
+    <nd ref="-340"/>
+    <nd ref="-341"/>
+    <nd ref="-342"/>
+    <nd ref="-343"/>
+    <nd ref="-340"/>
+    <tag k="building" v="yes"/>
+  </way>
+  <node visible="true" id="-344" lat="29.89434886590121465133051970" lon="-90.01041475746454523232387146"/>
+  <node visible="true" id="-345" lat="29.89436128538400438969802053" lon="-90.01068506759975207387469709"/>
+  <node visible="true" id="-346" lat="29.89442094901692215103139461" lon="-90.01068142033675201219011797"/>
+  <node visible="true" id="-347" lat="29.89440852954156113696626562" lon="-90.01041111020154517063929234"/>
+  <way visible="true" id="-39">
+    <nd ref="-344"/>
+    <nd ref="-345"/>
     <nd ref="-346"/>
     <nd ref="-347"/>
+    <nd ref="-344"/>
+    <tag k="building" v="yes"/>
+  </way>
+  <node visible="true" id="-348" lat="29.89436421375862096283526625" lon="-90.01074196351916612002241891"/>
+  <node visible="true" id="-349" lat="29.89437301997877938219971838" lon="-90.01094451364077997368440265"/>
+  <node visible="true" id="-350" lat="29.89443174459872665238435729" lon="-90.01094111665632624408317497"/>
+  <node visible="true" id="-351" lat="29.89442293838393993610225152" lon="-90.01073856653471239042119123"/>
+  <way visible="true" id="-40">
     <nd ref="-348"/>
     <nd ref="-349"/>
     <nd ref="-350"/>
     <nd ref="-351"/>
+    <nd ref="-348"/>
+    <tag k="building" v="yes"/>
+  </way>
+  <node visible="true" id="-352" lat="29.89427850926210084026024560" lon="-90.00975769891505251507624052"/>
+  <node visible="true" id="-353" lat="29.89427770913300008714941214" lon="-90.00972795329248299367463915"/>
+  <node visible="true" id="-354" lat="29.89425835026702316099544987" lon="-90.00972864613115120846487116"/>
+  <node visible="true" id="-355" lat="29.89425911215565534462257347" lon="-90.00975697013734588836086914"/>
+  <node visible="true" id="-356" lat="29.89418224719153371893298754" lon="-90.00975972107292477630835492"/>
+  <node visible="true" id="-357" lat="29.89418149469987895372469211" lon="-90.00973174645038454855239252"/>
+  <node visible="true" id="-358" lat="29.89416271840020655758962675" lon="-90.00973241843882988177938387"/>
+  <node visible="true" id="-359" lat="29.89416354818967747064561991" lon="-90.00976326670327409829042153"/>
+  <node visible="true" id="-360" lat="29.89415113395670431373218889" lon="-90.00976371099847028744989075"/>
+  <node visible="true" id="-361" lat="29.89415404456422464818388107" lon="-90.00987191573037193847994786"/>
+  <node visible="true" id="-362" lat="29.89419045058623325417102023" lon="-90.00987061278861744995083427"/>
+  <node visible="true" id="-363" lat="29.89419101135510459243960213" lon="-90.00989145994294915453792783"/>
+  <node visible="true" id="-364" lat="29.89422236482562666992635059" lon="-90.00989033782748549583629938"/>
+  <node visible="true" id="-365" lat="29.89422246335473332123910950" lon="-90.00989400075759760966320755"/>
+  <node visible="true" id="-366" lat="29.89422995300407492891281436" lon="-90.00989373270904536639136495"/>
+  <node visible="true" id="-367" lat="29.89422987718451807381825347" lon="-90.00989091404608188895508647"/>
+  <node visible="true" id="-368" lat="29.89425876295137385341149638" lon="-90.00988988024734283044381300"/>
+  <node visible="true" id="-369" lat="29.89425839639033810613000242" lon="-90.00987625295086047572112875"/>
+  <node visible="true" id="-370" lat="29.89429261994347797326554428" lon="-90.00987502811656781886995304"/>
+  <node visible="true" id="-371" lat="29.89428945336471343807716039" lon="-90.00975730723412482348066987"/>
+  <way visible="true" id="-41">
     <nd ref="-352"/>
     <nd ref="-353"/>
     <nd ref="-354"/>
     <nd ref="-355"/>
     <nd ref="-356"/>
     <nd ref="-357"/>
-    <nd ref="-346"/>
-    <tag k="building" v="yes"/>
-  </way>
-  <node visible="true" id="-358" lat="29.89425473821931689144548727" lon="-90.01065804029511241424188484">
-    <tag k="addr:housenumber" v="2453"/>
-    <tag k="addr:street" v="Park Place Drive"/>
-    <tag k="addr:city" v="Terrytown"/>
-    <tag k="addr:postcode" v="70056"/>
-  </node>
-  <node visible="true" id="-359" lat="29.89425433630692197084499639" lon="-90.01051430340615411296312232">
-    <tag k="addr:housenumber" v="2457"/>
-    <tag k="addr:street" v="Park Place Drive"/>
-    <tag k="addr:city" v="Terrytown"/>
-    <tag k="addr:postcode" v="70056"/>
-  </node>
-  <node visible="true" id="-360" lat="29.89424724317604997736452788" lon="-90.01044410381325633352389559">
-    <tag k="addr:housenumber" v="2459"/>
-    <tag k="addr:street" v="Park Place Drive"/>
-    <tag k="addr:city" v="Terrytown"/>
-    <tag k="addr:postcode" v="70056"/>
-  </node>
-  <node visible="true" id="-361" lat="29.89425437040049615688985796" lon="-90.01057994107996762522816425">
-    <tag k="addr:housenumber" v="2455"/>
-    <tag k="addr:street" v="Park Place Drive"/>
-    <tag k="addr:city" v="Terrytown"/>
-    <tag k="addr:postcode" v="70056"/>
-  </node>
-  <node visible="true" id="-362" lat="29.89434187762328676285505935" lon="-90.01014862186451637171558104"/>
-  <node visible="true" id="-363" lat="29.89435018381912456675308931" lon="-90.01034975285497807817591820"/>
-  <node visible="true" id="-364" lat="29.89440953936921019362671359" lon="-90.01034649148093080839316826"/>
-  <node visible="true" id="-365" lat="29.89440123317887199050346680" lon="-90.01014536049045489107811591"/>
-  <way visible="true" id="-42">
+    <nd ref="-358"/>
+    <nd ref="-359"/>
+    <nd ref="-360"/>
+    <nd ref="-361"/>
     <nd ref="-362"/>
     <nd ref="-363"/>
     <nd ref="-364"/>
     <nd ref="-365"/>
-    <nd ref="-362"/>
-    <tag k="building" v="yes"/>
-  </way>
-  <node visible="true" id="-366" lat="29.89434886590121465133051970" lon="-90.01041475746454523232387146"/>
-  <node visible="true" id="-367" lat="29.89436128538400438969802053" lon="-90.01068506759975207387469709"/>
-  <node visible="true" id="-368" lat="29.89442094901692215103139461" lon="-90.01068142033675201219011797"/>
-  <node visible="true" id="-369" lat="29.89440852954156113696626562" lon="-90.01041111020154517063929234"/>
-  <way visible="true" id="-43">
     <nd ref="-366"/>
     <nd ref="-367"/>
     <nd ref="-368"/>
     <nd ref="-369"/>
-    <nd ref="-366"/>
-    <tag k="building" v="yes"/>
-  </way>
-  <node visible="true" id="-370" lat="29.89436421375862096283526625" lon="-90.01074196351916612002241891"/>
-  <node visible="true" id="-371" lat="29.89437301997877938219971838" lon="-90.01094451364077997368440265"/>
-  <node visible="true" id="-372" lat="29.89443174459872665238435729" lon="-90.01094111665632624408317497"/>
-  <node visible="true" id="-373" lat="29.89442293838393993610225152" lon="-90.01073856653471239042119123"/>
-  <way visible="true" id="-44">
     <nd ref="-370"/>
     <nd ref="-371"/>
-    <nd ref="-372"/>
-    <nd ref="-373"/>
-    <nd ref="-370"/>
+    <nd ref="-352"/>
     <tag k="building" v="yes"/>
   </way>
-  <node visible="true" id="-374" lat="29.89427850926210084026024560" lon="-90.00975769891505251507624052"/>
-  <node visible="true" id="-375" lat="29.89427770913300008714941214" lon="-90.00972795329248299367463915"/>
-  <node visible="true" id="-376" lat="29.89425835026702316099544987" lon="-90.00972864613115120846487116"/>
-  <node visible="true" id="-377" lat="29.89425911215565534462257347" lon="-90.00975697013734588836086914"/>
-  <node visible="true" id="-378" lat="29.89418224719153371893298754" lon="-90.00975972107292477630835492"/>
-  <node visible="true" id="-379" lat="29.89418149469987895372469211" lon="-90.00973174645038454855239252"/>
-  <node visible="true" id="-380" lat="29.89416271840020655758962675" lon="-90.00973241843882988177938387"/>
-  <node visible="true" id="-381" lat="29.89416354818967747064561991" lon="-90.00976326670327409829042153"/>
-  <node visible="true" id="-382" lat="29.89415113395670431373218889" lon="-90.00976371099847028744989075"/>
-  <node visible="true" id="-383" lat="29.89415404456422464818388107" lon="-90.00987191573037193847994786"/>
-  <node visible="true" id="-384" lat="29.89419045058623325417102023" lon="-90.00987061278861744995083427"/>
-  <node visible="true" id="-385" lat="29.89419101135510459243960213" lon="-90.00989145994294915453792783"/>
-  <node visible="true" id="-386" lat="29.89422236482562666992635059" lon="-90.00989033782748549583629938"/>
-  <node visible="true" id="-387" lat="29.89422246335473332123910950" lon="-90.00989400075759760966320755"/>
-  <node visible="true" id="-388" lat="29.89422995300407492891281436" lon="-90.00989373270904536639136495"/>
-  <node visible="true" id="-389" lat="29.89422987718451807381825347" lon="-90.00989091404608188895508647"/>
-  <node visible="true" id="-390" lat="29.89425876295137385341149638" lon="-90.00988988024734283044381300"/>
-  <node visible="true" id="-391" lat="29.89425839639033810613000242" lon="-90.00987625295086047572112875"/>
-  <node visible="true" id="-392" lat="29.89429261994347797326554428" lon="-90.00987502811656781886995304"/>
-  <node visible="true" id="-393" lat="29.89428945336471343807716039" lon="-90.00975730723412482348066987"/>
-  <way visible="true" id="-45">
+  <node visible="true" id="-372" lat="29.89231954233717303281991917" lon="-90.01095507029289422007423127"/>
+  <node visible="true" id="-373" lat="29.89232049514242817167541943" lon="-90.01098160024324101868842263"/>
+  <node visible="true" id="-374" lat="29.89233924191348990007099928" lon="-90.01098070448156818201823626"/>
+  <node visible="true" id="-375" lat="29.89233828910842660775415425" lon="-90.01095417453123559425876010"/>
+  <way visible="true" id="-42">
+    <nd ref="-372"/>
+    <nd ref="-373"/>
     <nd ref="-374"/>
     <nd ref="-375"/>
+    <nd ref="-372"/>
+    <tag k="building" v="yes"/>
+  </way>
+  <node visible="true" id="-376" lat="29.89345082575736967100965558" lon="-90.01023157000244623304752167"/>
+  <node visible="true" id="-377" lat="29.89345778535817288457110408" lon="-90.01038951695906575878325384"/>
+  <node visible="true" id="-378" lat="29.89356354634686852023151005" lon="-90.01038331674018877492926549"/>
+  <node visible="true" id="-379" lat="29.89356345159845673720155901" lon="-90.01038116644454589732049499"/>
+  <node visible="true" id="-380" lat="29.89356855232045973025378771" lon="-90.01038086741549193448008737"/>
+  <node visible="true" id="-381" lat="29.89356593095412151228629227" lon="-90.01032137588718740062176948"/>
+  <node visible="true" id="-382" lat="29.89356179626834730811424379" lon="-90.01032161828251787483168300"/>
+  <node visible="true" id="-383" lat="29.89356138792852135566135985" lon="-90.01031235107008399154437939"/>
+  <node visible="true" id="-384" lat="29.89363080988912813040769834" lon="-90.01030828121668037056224421"/>
+  <node visible="true" id="-385" lat="29.89362697475261754220809962" lon="-90.01022124329644213958090404"/>
+  <way visible="true" id="-43">
     <nd ref="-376"/>
     <nd ref="-377"/>
     <nd ref="-378"/>
@@ -1146,21 +1124,45 @@
     <nd ref="-383"/>
     <nd ref="-384"/>
     <nd ref="-385"/>
+    <nd ref="-376"/>
+    <tag k="building" v="yes"/>
+    <tag k="addr:housenumber" v="2457"/>
+    <tag k="addr:street" v="Regency Place"/>
+    <tag k="addr:city" v="Terrytown"/>
+    <tag k="addr:postcode" v="70056"/>
+  </way>
+  <node visible="true" id="-386" lat="29.89348828716483197354136792" lon="-90.01081022248190777190757217"/>
+  <node visible="true" id="-387" lat="29.89349568339638452130202495" lon="-90.01097118219394133120658807"/>
+  <node visible="true" id="-388" lat="29.89360439598371499414497521" lon="-90.01096453586366408217145363"/>
+  <node visible="true" id="-389" lat="29.89359699976053974523892975" lon="-90.01080357615163052287243772"/>
+  <way visible="true" id="-44">
     <nd ref="-386"/>
     <nd ref="-387"/>
     <nd ref="-388"/>
     <nd ref="-389"/>
+    <nd ref="-386"/>
+    <tag k="building" v="yes"/>
+    <tag k="addr:housenumber" v="2445"/>
+    <tag k="addr:street" v="Regency Place"/>
+    <tag k="addr:city" v="Terrytown"/>
+    <tag k="addr:postcode" v="70056"/>
+  </way>
+  <node visible="true" id="-390" lat="29.89510044078919293042417848" lon="-90.01043245890397770381241571"/>
+  <node visible="true" id="-391" lat="29.89511207878121012981864624" lon="-90.01070133872960354892711621"/>
+  <node visible="true" id="-392" lat="29.89517206348473266075416177" lon="-90.01069788424618423050560523"/>
+  <node visible="true" id="-393" lat="29.89516042549972141273428861" lon="-90.01042900442055838539090473"/>
+  <way visible="true" id="-45">
     <nd ref="-390"/>
     <nd ref="-391"/>
     <nd ref="-392"/>
     <nd ref="-393"/>
-    <nd ref="-374"/>
+    <nd ref="-390"/>
     <tag k="building" v="yes"/>
   </way>
-  <node visible="true" id="-394" lat="29.89231954233717303281991917" lon="-90.01095507029289422007423127"/>
-  <node visible="true" id="-395" lat="29.89232049514242817167541943" lon="-90.01098160024324101868842263"/>
-  <node visible="true" id="-396" lat="29.89233924191348990007099928" lon="-90.01098070448156818201823626"/>
-  <node visible="true" id="-397" lat="29.89233828910842660775415425" lon="-90.01095417453123559425876010"/>
+  <node visible="true" id="-394" lat="29.89506792019308534236188279" lon="-90.01060751662677716922189575"/>
+  <node visible="true" id="-395" lat="29.89506947153254401428057463" lon="-90.01063870540956202148663579"/>
+  <node visible="true" id="-396" lat="29.89509008693920932842047478" lon="-90.01063734106963920567068271"/>
+  <node visible="true" id="-397" lat="29.89508853560052514808376145" lon="-90.01060615228685435340594267"/>
   <way visible="true" id="-46">
     <nd ref="-394"/>
     <nd ref="-395"/>
@@ -2732,123 +2734,123 @@
     <tag k="addr:city" v="Terrytown"/>
     <tag k="addr:postcode" v="70056"/>
   </way>
-  <node visible="true" id="-928" lat="29.89427369000065226600781898" lon="-90.00892516553665245737647638"/>
-  <node visible="true" id="-929" lat="29.89426608215776326460400014" lon="-90.00876309159588117836392485"/>
-  <node visible="true" id="-930" lat="29.89413220190549935750823352" lon="-90.00877145301248560826934408"/>
-  <node visible="true" id="-931" lat="29.89413534647260917154198978" lon="-90.00883844331919192427449161"/>
-  <node visible="true" id="-932" lat="29.89414701159752496550936485" lon="-90.00883771478075345839897636"/>
-  <node visible="true" id="-933" lat="29.89415147488285384724804317" lon="-90.00893279841481842140638037"/>
+  <node visible="true" id="-928" lat="29.89138646375207386540751031" lon="-90.01090265308378945974254748"/>
+  <node visible="true" id="-929" lat="29.89139125033066690662053588" lon="-90.01105387238604293997923378"/>
+  <node visible="true" id="-930" lat="29.89149841122405248938775912" lon="-90.01104935960009356676891912"/>
+  <node visible="true" id="-931" lat="29.89149362465035864033779944" lon="-90.01089814029784008653223282"/>
   <way visible="true" id="-112">
     <nd ref="-928"/>
     <nd ref="-929"/>
     <nd ref="-930"/>
     <nd ref="-931"/>
-    <nd ref="-932"/>
-    <nd ref="-933"/>
     <nd ref="-928"/>
-    <tag k="building" v="yes"/>
-    <tag k="addr:housenumber" v="2505"/>
-    <tag k="addr:street" v="Park Place Drive"/>
-    <tag k="addr:city" v="Terrytown"/>
-    <tag k="addr:postcode" v="70056"/>
-  </way>
-  <node visible="true" id="-934" lat="29.89426775337879149674336077" lon="-90.00908295163783634507126408"/>
-  <node visible="true" id="-935" lat="29.89426274432898011923498416" lon="-90.00894667986752040178544121"/>
-  <node visible="true" id="-936" lat="29.89412825479118751559326483" lon="-90.00895325724741269368678331"/>
-  <node visible="true" id="-937" lat="29.89413142547476098798142630" lon="-90.00903951593284091359237209"/>
-  <node visible="true" id="-938" lat="29.89414329885526910857151961" lon="-90.00903893525055821100977482"/>
-  <node visible="true" id="-939" lat="29.89414513722847388521586254" lon="-90.00908894833546014524472412"/>
-  <way visible="true" id="-113">
-    <nd ref="-934"/>
-    <nd ref="-935"/>
-    <nd ref="-936"/>
-    <nd ref="-937"/>
-    <nd ref="-938"/>
-    <nd ref="-939"/>
-    <nd ref="-934"/>
-    <tag k="building" v="yes"/>
-    <tag k="addr:housenumber" v="2501"/>
-    <tag k="addr:street" v="Park Place Drive"/>
-    <tag k="addr:city" v="Terrytown"/>
-    <tag k="addr:postcode" v="70056"/>
-  </way>
-  <node visible="true" id="-940" lat="29.89138646375207386540751031" lon="-90.01090265308378945974254748"/>
-  <node visible="true" id="-941" lat="29.89139125033066690662053588" lon="-90.01105387238604293997923378"/>
-  <node visible="true" id="-942" lat="29.89149841122405248938775912" lon="-90.01104935960009356676891912"/>
-  <node visible="true" id="-943" lat="29.89149362465035864033779944" lon="-90.01089814029784008653223282"/>
-  <way visible="true" id="-114">
-    <nd ref="-940"/>
-    <nd ref="-941"/>
-    <nd ref="-942"/>
-    <nd ref="-943"/>
-    <nd ref="-940"/>
     <tag k="building" v="yes"/>
     <tag k="addr:housenumber" v="2453"/>
     <tag k="addr:street" v="Ashland Place North"/>
     <tag k="addr:city" v="Terrytown"/>
     <tag k="addr:postcode" v="70056"/>
   </way>
-  <node visible="true" id="-944" lat="29.89112733675331767813077022" lon="-90.01090370541614049670897657"/>
-  <node visible="true" id="-945" lat="29.89112000405181390760844806" lon="-90.01073698999915961849183077"/>
-  <node visible="true" id="-946" lat="29.89096226186138949287851574" lon="-90.01074622046550643972295802"/>
-  <node visible="true" id="-947" lat="29.89096959457450708441683673" lon="-90.01091293588248731794010382"/>
-  <way visible="true" id="-115">
-    <nd ref="-944"/>
-    <nd ref="-945"/>
-    <nd ref="-946"/>
-    <nd ref="-947"/>
-    <nd ref="-944"/>
+  <node visible="true" id="-932" lat="29.89112733675331767813077022" lon="-90.01090370541614049670897657"/>
+  <node visible="true" id="-933" lat="29.89112000405181390760844806" lon="-90.01073698999915961849183077"/>
+  <node visible="true" id="-934" lat="29.89096226186138949287851574" lon="-90.01074622046550643972295802"/>
+  <node visible="true" id="-935" lat="29.89096959457450708441683673" lon="-90.01091293588248731794010382"/>
+  <way visible="true" id="-113">
+    <nd ref="-932"/>
+    <nd ref="-933"/>
+    <nd ref="-934"/>
+    <nd ref="-935"/>
+    <nd ref="-932"/>
     <tag k="building" v="yes"/>
     <tag k="addr:housenumber" v="2458"/>
     <tag k="addr:street" v="Ashland Place North"/>
     <tag k="addr:city" v="Terrytown"/>
     <tag k="addr:postcode" v="70056"/>
   </way>
-  <node visible="true" id="-948" lat="29.89159777685517127565617557" lon="-90.01013855632237437021103688"/>
-  <node visible="true" id="-949" lat="29.89153420300043606516737782" lon="-90.00999048062237761769210920"/>
-  <node visible="true" id="-950" lat="29.89141179956186178401367215" lon="-90.01006039712676454200845910"/>
-  <node visible="true" id="-951" lat="29.89147537349472116829929291" lon="-90.01020847282676129452738678"/>
-  <way visible="true" id="-116">
-    <nd ref="-948"/>
-    <nd ref="-949"/>
-    <nd ref="-950"/>
-    <nd ref="-951"/>
-    <nd ref="-948"/>
+  <node visible="true" id="-936" lat="29.89159777685517127565617557" lon="-90.01013855632237437021103688"/>
+  <node visible="true" id="-937" lat="29.89153420300043606516737782" lon="-90.00999048062237761769210920"/>
+  <node visible="true" id="-938" lat="29.89141179956186178401367215" lon="-90.01006039712676454200845910"/>
+  <node visible="true" id="-939" lat="29.89147537349472116829929291" lon="-90.01020847282676129452738678"/>
+  <way visible="true" id="-114">
+    <nd ref="-936"/>
+    <nd ref="-937"/>
+    <nd ref="-938"/>
+    <nd ref="-939"/>
+    <nd ref="-936"/>
     <tag k="building" v="yes"/>
     <tag k="addr:housenumber" v="861"/>
     <tag k="addr:street" v="Kingsway Drive East"/>
     <tag k="addr:city" v="Terrytown"/>
     <tag k="addr:postcode" v="70056"/>
   </way>
-  <node visible="true" id="-952" lat="29.89034549773640847547540034" lon="-90.01083098809617411006911425"/>
-  <node visible="true" id="-953" lat="29.89027623676147271680747508" lon="-90.01066984037953488950734027"/>
-  <node visible="true" id="-954" lat="29.89016989040096206053931382" lon="-90.01073064932877798582921969"/>
-  <node visible="true" id="-955" lat="29.89023915144980847458100470" lon="-90.01089179704540299553627847"/>
-  <way visible="true" id="-117">
-    <nd ref="-952"/>
-    <nd ref="-953"/>
-    <nd ref="-954"/>
-    <nd ref="-955"/>
-    <nd ref="-952"/>
+  <node visible="true" id="-940" lat="29.89034549773640847547540034" lon="-90.01083098809617411006911425"/>
+  <node visible="true" id="-941" lat="29.89027623676147271680747508" lon="-90.01066984037953488950734027"/>
+  <node visible="true" id="-942" lat="29.89016989040096206053931382" lon="-90.01073064932877798582921969"/>
+  <node visible="true" id="-943" lat="29.89023915144980847458100470" lon="-90.01089179704540299553627847"/>
+  <way visible="true" id="-115">
+    <nd ref="-940"/>
+    <nd ref="-941"/>
+    <nd ref="-942"/>
+    <nd ref="-943"/>
+    <nd ref="-940"/>
     <tag k="building" v="yes"/>
     <tag k="addr:housenumber" v="929"/>
     <tag k="addr:street" v="Kingsway Drive East"/>
     <tag k="addr:city" v="Terrytown"/>
     <tag k="addr:postcode" v="70056"/>
   </way>
-  <node visible="true" id="-956" lat="29.89022256315481484989504679" lon="-90.01089270868641278866562061"/>
-  <node visible="true" id="-957" lat="29.89013759312233631249000609" lon="-90.01069989922417846628377447"/>
-  <node visible="true" id="-958" lat="29.89002592554146531256265007" lon="-90.01076536944206907264742767"/>
-  <node visible="true" id="-959" lat="29.89011089566913881299115019" lon="-90.01095817890431760588398902"/>
+  <node visible="true" id="-944" lat="29.89022256315481484989504679" lon="-90.01089270868641278866562061"/>
+  <node visible="true" id="-945" lat="29.89013759312233631249000609" lon="-90.01069989922417846628377447"/>
+  <node visible="true" id="-946" lat="29.89002592554146531256265007" lon="-90.01076536944206907264742767"/>
+  <node visible="true" id="-947" lat="29.89011089566913881299115019" lon="-90.01095817890431760588398902"/>
+  <way visible="true" id="-116">
+    <nd ref="-944"/>
+    <nd ref="-945"/>
+    <nd ref="-946"/>
+    <nd ref="-947"/>
+    <nd ref="-944"/>
+    <tag k="building" v="yes"/>
+    <tag k="addr:housenumber" v="933"/>
+    <tag k="addr:street" v="Kingsway Drive East"/>
+    <tag k="addr:city" v="Terrytown"/>
+    <tag k="addr:postcode" v="70056"/>
+  </way>
+  <node visible="true" id="-948" lat="29.89427369000065226600781898" lon="-90.00892516553665245737647638"/>
+  <node visible="true" id="-949" lat="29.89426608215776326460400014" lon="-90.00876309159588117836392485"/>
+  <node visible="true" id="-950" lat="29.89413220190549935750823352" lon="-90.00877145301248560826934408"/>
+  <node visible="true" id="-951" lat="29.89413534647260917154198978" lon="-90.00883844331919192427449161"/>
+  <node visible="true" id="-952" lat="29.89414701159752496550936485" lon="-90.00883771478075345839897636"/>
+  <node visible="true" id="-953" lat="29.89415147488285384724804317" lon="-90.00893279841481842140638037"/>
+  <way visible="true" id="-117">
+    <nd ref="-948"/>
+    <nd ref="-949"/>
+    <nd ref="-950"/>
+    <nd ref="-951"/>
+    <nd ref="-952"/>
+    <nd ref="-953"/>
+    <nd ref="-948"/>
+    <tag k="building" v="yes"/>
+    <tag k="addr:housenumber" v="2505"/>
+    <tag k="addr:street" v="Park Place Drive"/>
+    <tag k="addr:city" v="Terrytown"/>
+    <tag k="addr:postcode" v="70056"/>
+  </way>
+  <node visible="true" id="-954" lat="29.89426775337879149674336077" lon="-90.00908295163783634507126408"/>
+  <node visible="true" id="-955" lat="29.89426274432898011923498416" lon="-90.00894667986752040178544121"/>
+  <node visible="true" id="-956" lat="29.89412825479118751559326483" lon="-90.00895325724741269368678331"/>
+  <node visible="true" id="-957" lat="29.89413142547476098798142630" lon="-90.00903951593284091359237209"/>
+  <node visible="true" id="-958" lat="29.89414329885526910857151961" lon="-90.00903893525055821100977482"/>
+  <node visible="true" id="-959" lat="29.89414513722847388521586254" lon="-90.00908894833546014524472412"/>
   <way visible="true" id="-118">
+    <nd ref="-954"/>
+    <nd ref="-955"/>
     <nd ref="-956"/>
     <nd ref="-957"/>
     <nd ref="-958"/>
     <nd ref="-959"/>
-    <nd ref="-956"/>
+    <nd ref="-954"/>
     <tag k="building" v="yes"/>
-    <tag k="addr:housenumber" v="933"/>
-    <tag k="addr:street" v="Kingsway Drive East"/>
+    <tag k="addr:housenumber" v="2501"/>
+    <tag k="addr:street" v="Park Place Drive"/>
     <tag k="addr:city" v="Terrytown"/>
     <tag k="addr:postcode" v="70056"/>
   </way>
@@ -2864,67 +2866,67 @@
     <nd ref="-960"/>
     <tag k="building" v="yes"/>
   </way>
-  <node visible="true" id="-964" lat="29.89606564739699834376551735" lon="-90.00960786545857672535930760"/>
-  <node visible="true" id="-965" lat="29.89597491249842775573597464" lon="-90.00973856941310202728345757"/>
-  <node visible="true" id="-966" lat="29.89609667219509603341975890" lon="-90.00985103504244477790052770"/>
-  <node visible="true" id="-967" lat="29.89618740698283261281176237" lon="-90.00972033108793368683109293"/>
+  <node visible="true" id="-964" lat="29.89640535697228784783874289" lon="-90.00961674081398200542025734"/>
+  <node visible="true" id="-965" lat="29.89629464013513882036932046" lon="-90.00965388052048865574761294"/>
+  <node visible="true" id="-966" lat="29.89631691432918003670238249" lon="-90.00974223131223084237717558"/>
+  <node visible="true" id="-967" lat="29.89632318602203042701148661" lon="-90.00974012748802977057493990"/>
+  <node visible="true" id="-968" lat="29.89633060777750728220780729" lon="-90.00976956595432909580267733"/>
+  <node visible="true" id="-969" lat="29.89633656894836732931253209" lon="-90.00976756629371777762571583"/>
+  <node visible="true" id="-970" lat="29.89633961849158438894846768" lon="-90.00977966233824645314598456"/>
+  <node visible="true" id="-971" lat="29.89638242654916666651843116" lon="-90.00976530247291407249576878"/>
+  <node visible="true" id="-972" lat="29.89639531319921772478664934" lon="-90.00981641752913731124863261"/>
+  <node visible="true" id="-973" lat="29.89645098907234910257102456" lon="-90.00979774117277543155068997"/>
   <way visible="true" id="-120">
     <nd ref="-964"/>
     <nd ref="-965"/>
     <nd ref="-966"/>
     <nd ref="-967"/>
-    <nd ref="-964"/>
-    <tag k="building" v="yes"/>
-  </way>
-  <node visible="true" id="-968" lat="29.89646223844116335044418520" lon="-90.01040933684632250333379488"/>
-  <node visible="true" id="-969" lat="29.89646499167806226182619866" lon="-90.01050201641355386072973488"/>
-  <node visible="true" id="-970" lat="29.89641308448577206036134157" lon="-90.01050406814906068575510290"/>
-  <node visible="true" id="-971" lat="29.89641527052668124042611453" lon="-90.01057765471344396246422548"/>
-  <node visible="true" id="-972" lat="29.89656524949784355271731329" lon="-90.01057172649184678903111489"/>
-  <node visible="true" id="-973" lat="29.89656031022678561726024782" lon="-90.01040546036021794407133712"/>
-  <way visible="true" id="-121">
     <nd ref="-968"/>
     <nd ref="-969"/>
     <nd ref="-970"/>
     <nd ref="-971"/>
     <nd ref="-972"/>
     <nd ref="-973"/>
-    <nd ref="-968"/>
+    <nd ref="-964"/>
     <tag k="building" v="yes"/>
   </way>
-  <node visible="true" id="-974" lat="29.89592291272805724133831973" lon="-90.00988377404225104783108691"/>
-  <node visible="true" id="-975" lat="29.89592709775727286114488379" lon="-90.01006771517954518913029460"/>
-  <node visible="true" id="-976" lat="29.89606521584557441428842139" lon="-90.01006353398615544847416459"/>
-  <node visible="true" id="-977" lat="29.89606381918240174400125397" lon="-90.01000214751984174199606059"/>
-  <node visible="true" id="-978" lat="29.89605026081921579361733166" lon="-90.01000255796697047117049806"/>
-  <node visible="true" id="-979" lat="29.89604892977445871338204597" lon="-90.00994405558063249372935388"/>
-  <node visible="true" id="-980" lat="29.89607548981715012814674992" lon="-90.00994325153860131649707910"/>
-  <node visible="true" id="-981" lat="29.89607403250134964878270694" lon="-90.00987919925397306997183478"/>
-  <way visible="true" id="-122">
+  <node visible="true" id="-974" lat="29.89606564739699834376551735" lon="-90.00960786545857672535930760"/>
+  <node visible="true" id="-975" lat="29.89597491249842775573597464" lon="-90.00973856941310202728345757"/>
+  <node visible="true" id="-976" lat="29.89609667219509603341975890" lon="-90.00985103504244477790052770"/>
+  <node visible="true" id="-977" lat="29.89618740698283261281176237" lon="-90.00972033108793368683109293"/>
+  <way visible="true" id="-121">
     <nd ref="-974"/>
     <nd ref="-975"/>
     <nd ref="-976"/>
     <nd ref="-977"/>
+    <nd ref="-974"/>
+    <tag k="building" v="yes"/>
+  </way>
+  <node visible="true" id="-978" lat="29.89646223844116335044418520" lon="-90.01040933684632250333379488"/>
+  <node visible="true" id="-979" lat="29.89646499167806226182619866" lon="-90.01050201641355386072973488"/>
+  <node visible="true" id="-980" lat="29.89641308448577206036134157" lon="-90.01050406814906068575510290"/>
+  <node visible="true" id="-981" lat="29.89641527052668124042611453" lon="-90.01057765471344396246422548"/>
+  <node visible="true" id="-982" lat="29.89656524949784355271731329" lon="-90.01057172649184678903111489"/>
+  <node visible="true" id="-983" lat="29.89656031022678561726024782" lon="-90.01040546036021794407133712"/>
+  <way visible="true" id="-122">
     <nd ref="-978"/>
     <nd ref="-979"/>
     <nd ref="-980"/>
     <nd ref="-981"/>
-    <nd ref="-974"/>
-    <tag k="building" v="yes"/>
-  </way>
-  <node visible="true" id="-982" lat="29.89640535697228784783874289" lon="-90.00961674081398200542025734"/>
-  <node visible="true" id="-983" lat="29.89629464013513882036932046" lon="-90.00965388052048865574761294"/>
-  <node visible="true" id="-984" lat="29.89631691432918003670238249" lon="-90.00974223131223084237717558"/>
-  <node visible="true" id="-985" lat="29.89632318602203042701148661" lon="-90.00974012748802977057493990"/>
-  <node visible="true" id="-986" lat="29.89633060777750728220780729" lon="-90.00976956595432909580267733"/>
-  <node visible="true" id="-987" lat="29.89633656894836732931253209" lon="-90.00976756629371777762571583"/>
-  <node visible="true" id="-988" lat="29.89633961849158438894846768" lon="-90.00977966233824645314598456"/>
-  <node visible="true" id="-989" lat="29.89638242654916666651843116" lon="-90.00976530247291407249576878"/>
-  <node visible="true" id="-990" lat="29.89639531319921772478664934" lon="-90.00981641752913731124863261"/>
-  <node visible="true" id="-991" lat="29.89645098907234910257102456" lon="-90.00979774117277543155068997"/>
-  <way visible="true" id="-123">
     <nd ref="-982"/>
     <nd ref="-983"/>
+    <nd ref="-978"/>
+    <tag k="building" v="yes"/>
+  </way>
+  <node visible="true" id="-984" lat="29.89592291272805724133831973" lon="-90.00988377404225104783108691"/>
+  <node visible="true" id="-985" lat="29.89592709775727286114488379" lon="-90.01006771517954518913029460"/>
+  <node visible="true" id="-986" lat="29.89606521584557441428842139" lon="-90.01006353398615544847416459"/>
+  <node visible="true" id="-987" lat="29.89606381918240174400125397" lon="-90.01000214751984174199606059"/>
+  <node visible="true" id="-988" lat="29.89605026081921579361733166" lon="-90.01000255796697047117049806"/>
+  <node visible="true" id="-989" lat="29.89604892977445871338204597" lon="-90.00994405558063249372935388"/>
+  <node visible="true" id="-990" lat="29.89607548981715012814674992" lon="-90.00994325153860131649707910"/>
+  <node visible="true" id="-991" lat="29.89607403250134964878270694" lon="-90.00987919925397306997183478"/>
+  <way visible="true" id="-123">
     <nd ref="-984"/>
     <nd ref="-985"/>
     <nd ref="-986"/>
@@ -2933,7 +2935,7 @@
     <nd ref="-989"/>
     <nd ref="-990"/>
     <nd ref="-991"/>
-    <nd ref="-982"/>
+    <nd ref="-984"/>
     <tag k="building" v="yes"/>
   </way>
   <node visible="true" id="-992" lat="29.89496814470596675050728663" lon="-90.00870441923788689564389642"/>

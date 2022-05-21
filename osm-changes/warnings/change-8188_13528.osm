@@ -1,8 +1,10 @@
 <?xml version='1.0' encoding='utf8'?>
-<osm version="0.6" generator="AnonymousAlligator's import script">
-  <changeset_tag k="comment" v="Import buildings and addresses in Jefferson Parish, see https://wiki.openstreetmap.org/wiki/Import/Catalogue/Jefferson_Parish_Addresses_and_Buildings"/>
-  <changeset_tag k="source" v="Jefferson Parish Planning Department"/>
-  <changeset_tag k="source_file" v="8188_13528"/>
+<osm version="0.6" generator="AnonymousAlligator's import script" upload-changeset="-1">
+  <changeset id="-1">
+    <tag k="comment" v="Import buildings and addresses in Jefferson Parish, see https://wiki.openstreetmap.org/wiki/Import/Catalogue/Jefferson_Parish_Addresses_and_Buildings"/>
+    <tag k="source" v="Jefferson Parish Planning Department"/>
+    <tag k="source_file" v="change-8188_13528.osm"/>
+  </changeset>
   <node visible="true" id="-1" lat="29.90821484405824648433736002" lon="-90.03351826527315893144987058"/>
   <node visible="true" id="-2" lat="29.90811240755221334097768704" lon="-90.03358665998675292030384298"/>
   <node visible="true" id="-3" lat="29.90817723017007878638651164" lon="-90.03371586969122120081010507"/>
@@ -311,20 +313,25 @@
     <tag k="addr:city" v="Terrytown"/>
     <tag k="addr:postcode" v="70056"/>
   </way>
-  <node visible="true" id="-99" lat="29.90856643331236597305178293" lon="-90.03454281265594261185469804"/>
-  <node visible="true" id="-100" lat="29.90856477790405065775303228" lon="-90.03449891694111784090637229"/>
-  <node visible="true" id="-101" lat="29.90849332823675510439898062" lon="-90.03450250304643986964947544"/>
-  <node visible="true" id="-102" lat="29.90849983919840227031272661" lon="-90.03467515113695185391406994"/>
-  <node visible="true" id="-103" lat="29.90850318804268681560643017" lon="-90.03467498305630556387768593"/>
-  <node visible="true" id="-104" lat="29.90850368538102443949355802" lon="-90.03468817073432717279501958"/>
-  <node visible="true" id="-105" lat="29.90853429940216301474720240" lon="-90.03468663419681661252980120"/>
-  <node visible="true" id="-106" lat="29.90853379242080123390223889" lon="-90.03467319080307618150982307"/>
-  <node visible="true" id="-107" lat="29.90860981378392935425836185" lon="-90.03466937523970159418240655"/>
-  <node visible="true" id="-108" lat="29.90860581995239186881008209" lon="-90.03456347257630909552972298"/>
-  <node visible="true" id="-109" lat="29.90860072821977766466261528" lon="-90.03456372813387531550688436"/>
-  <node visible="true" id="-110" lat="29.90859987614849302417496801" lon="-90.03454113413732784465537407"/>
+  <node visible="true" id="-99" lat="29.91385130117551582884516392" lon="-90.03857155244011778449930716">
+    <tag k="addr:housenumber" v="708"/>
+    <tag k="addr:street" v="Borden Avenue"/>
+    <tag k="addr:city" v="Terrytown"/>
+    <tag k="addr:postcode" v="70056"/>
+  </node>
+  <node visible="true" id="-100" lat="29.90856643331236597305178293" lon="-90.03454281265594261185469804"/>
+  <node visible="true" id="-101" lat="29.90856477790405065775303228" lon="-90.03449891694111784090637229"/>
+  <node visible="true" id="-102" lat="29.90849332823675510439898062" lon="-90.03450250304643986964947544"/>
+  <node visible="true" id="-103" lat="29.90849983919840227031272661" lon="-90.03467515113695185391406994"/>
+  <node visible="true" id="-104" lat="29.90850318804268681560643017" lon="-90.03467498305630556387768593"/>
+  <node visible="true" id="-105" lat="29.90850368538102443949355802" lon="-90.03468817073432717279501958"/>
+  <node visible="true" id="-106" lat="29.90853429940216301474720240" lon="-90.03468663419681661252980120"/>
+  <node visible="true" id="-107" lat="29.90853379242080123390223889" lon="-90.03467319080307618150982307"/>
+  <node visible="true" id="-108" lat="29.90860981378392935425836185" lon="-90.03466937523970159418240655"/>
+  <node visible="true" id="-109" lat="29.90860581995239186881008209" lon="-90.03456347257630909552972298"/>
+  <node visible="true" id="-110" lat="29.90860072821977766466261528" lon="-90.03456372813387531550688436"/>
+  <node visible="true" id="-111" lat="29.90859987614849302417496801" lon="-90.03454113413732784465537407"/>
   <way visible="true" id="-15">
-    <nd ref="-99"/>
     <nd ref="-100"/>
     <nd ref="-101"/>
     <nd ref="-102"/>
@@ -336,19 +343,14 @@
     <nd ref="-108"/>
     <nd ref="-109"/>
     <nd ref="-110"/>
-    <nd ref="-99"/>
+    <nd ref="-111"/>
+    <nd ref="-100"/>
     <tag k="building" v="yes"/>
     <tag k="addr:housenumber" v="1901"/>
     <tag k="addr:street" v="Friedrica Street"/>
     <tag k="addr:city" v="Terrytown"/>
     <tag k="addr:postcode" v="70056"/>
   </way>
-  <node visible="true" id="-111" lat="29.91385130117551582884516392" lon="-90.03857155244011778449930716">
-    <tag k="addr:housenumber" v="708"/>
-    <tag k="addr:street" v="Borden Avenue"/>
-    <tag k="addr:city" v="Terrytown"/>
-    <tag k="addr:postcode" v="70056"/>
-  </node>
   <node visible="true" id="-112" lat="29.90805037074806804753279721" lon="-90.03407360960927974247169914"/>
   <node visible="true" id="-113" lat="29.90798371468739702550010406" lon="-90.03411939473963343516516034"/>
   <node visible="true" id="-114" lat="29.90801563076545122044080927" lon="-90.03418123335832490283792140"/>

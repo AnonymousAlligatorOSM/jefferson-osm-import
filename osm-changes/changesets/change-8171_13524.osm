@@ -1,8 +1,10 @@
 <?xml version='1.0' encoding='utf8'?>
-<osm version="0.6" generator="AnonymousAlligator's import script">
-  <changeset_tag k="comment" v="Import buildings and addresses in Jefferson Parish, see https://wiki.openstreetmap.org/wiki/Import/Catalogue/Jefferson_Parish_Addresses_and_Buildings"/>
-  <changeset_tag k="source" v="Jefferson Parish Planning Department"/>
-  <changeset_tag k="source_file" v="8171_13524"/>
+<osm version="0.6" generator="AnonymousAlligator's import script" upload-changeset="-1">
+  <changeset id="-1">
+    <tag k="comment" v="Import buildings and addresses in Jefferson Parish, see https://wiki.openstreetmap.org/wiki/Import/Catalogue/Jefferson_Parish_Addresses_and_Buildings"/>
+    <tag k="source" v="Jefferson Parish Planning Department"/>
+    <tag k="source_file" v="change-8171_13524.osm"/>
+  </changeset>
   <node visible="true" id="-1" lat="29.95218645148041147763251502" lon="-90.22909150924631660473096417"/>
   <node visible="true" id="-2" lat="29.95204607850741851393649995" lon="-90.22902683657582656451268122"/>
   <node visible="true" id="-3" lat="29.95200660426802130587020656" lon="-90.22914096560441521432949230"/>
@@ -631,16 +633,16 @@
     <tag k="addr:city" v="River Ridge"/>
     <tag k="addr:postcode" v="70123"/>
   </way>
-  <node visible="true" id="-223" lat="29.95493874318860605399095220" lon="-90.22053965841854505924857222"/>
-  <node visible="true" id="-224" lat="29.95491492687566292829615122" lon="-90.22056461221566792119119782"/>
-  <node visible="true" id="-225" lat="29.95490426081542878478103376" lon="-90.22055105138048247681581415"/>
-  <node visible="true" id="-226" lat="29.95486822149603511888926732" lon="-90.22058881194818980020500021"/>
-  <node visible="true" id="-227" lat="29.95488650456564627688749169" lon="-90.22061205704598307875130558"/>
-  <node visible="true" id="-228" lat="29.95483903194760699761900469" lon="-90.22066179695823961992573459"/>
-  <node visible="true" id="-229" lat="29.95492242746490774152334780" lon="-90.22076782603664923954056576"/>
-  <node visible="true" id="-230" lat="29.95501137931814739090441435" lon="-90.22067462574152330034849001"/>
-  <node visible="true" id="-231" lat="29.95499130525963593640881300" lon="-90.22064910354826849925302668"/>
-  <node visible="true" id="-232" lat="29.95500968156197885150504590" lon="-90.22062984956627929022943135"/>
+  <node visible="true" id="-223" lat="29.95448656170933787734611542" lon="-90.22068995867338969674165128"/>
+  <node visible="true" id="-224" lat="29.95447044425589311344992893" lon="-90.22070593120591297520149965"/>
+  <node visible="true" id="-225" lat="29.95455361891725942768971436" lon="-90.22078396890341878133767750"/>
+  <node visible="true" id="-226" lat="29.95457840905314128576719668" lon="-90.22075856778002389546600170"/>
+  <node visible="true" id="-227" lat="29.95452106756281551724896417" lon="-90.22070464976198422846209724"/>
+  <node visible="true" id="-228" lat="29.95454213787135344659873226" lon="-90.22068287905443639829172753"/>
+  <node visible="true" id="-229" lat="29.95455667202298144502492505" lon="-90.22070138076051648567954544"/>
+  <node visible="true" id="-230" lat="29.95461368489834441675156995" lon="-90.22064259864121993359731277"/>
+  <node visible="true" id="-231" lat="29.95452267508300892018269224" lon="-90.22052516686446210769645404"/>
+  <node visible="true" id="-232" lat="29.95443157522870336606501951" lon="-90.22061878672293744330090703"/>
   <way visible="true" id="-26">
     <nd ref="-223"/>
     <nd ref="-224"/>
@@ -654,21 +656,17 @@
     <nd ref="-232"/>
     <nd ref="-223"/>
     <tag k="building" v="yes"/>
-    <tag k="addr:housenumber" v="113"/>
-    <tag k="addr:street" v="Garden Road"/>
+    <tag k="addr:housenumber" v="112"/>
+    <tag k="addr:street" v="Hibiscus Place"/>
     <tag k="addr:city" v="River Ridge"/>
     <tag k="addr:postcode" v="70123"/>
   </way>
-  <node visible="true" id="-233" lat="29.95448656170933787734611542" lon="-90.22068995867338969674165128"/>
-  <node visible="true" id="-234" lat="29.95447044425589311344992893" lon="-90.22070593120591297520149965"/>
-  <node visible="true" id="-235" lat="29.95455361891725942768971436" lon="-90.22078396890341878133767750"/>
-  <node visible="true" id="-236" lat="29.95457840905314128576719668" lon="-90.22075856778002389546600170"/>
-  <node visible="true" id="-237" lat="29.95452106756281551724896417" lon="-90.22070464976198422846209724"/>
-  <node visible="true" id="-238" lat="29.95454213787135344659873226" lon="-90.22068287905443639829172753"/>
-  <node visible="true" id="-239" lat="29.95455667202298144502492505" lon="-90.22070138076051648567954544"/>
-  <node visible="true" id="-240" lat="29.95461368489834441675156995" lon="-90.22064259864121993359731277"/>
-  <node visible="true" id="-241" lat="29.95452267508300892018269224" lon="-90.22052516686446210769645404"/>
-  <node visible="true" id="-242" lat="29.95443157522870336606501951" lon="-90.22061878672293744330090703"/>
+  <node visible="true" id="-233" lat="29.95423067505286951472953660" lon="-90.22026279898047107508318732"/>
+  <node visible="true" id="-234" lat="29.95412806974267638793207880" lon="-90.22036859364288829965516925"/>
+  <node visible="true" id="-235" lat="29.95421476495779700144339586" lon="-90.22048059911405459843081189"/>
+  <node visible="true" id="-236" lat="29.95428049034287454333025380" lon="-90.22041283069459893795283278"/>
+  <node visible="true" id="-237" lat="29.95424062923297370275577123" lon="-90.22036133227693710523453774"/>
+  <node visible="true" id="-238" lat="29.95427750908345032598845137" lon="-90.22032330603398975199525012"/>
   <way visible="true" id="-27">
     <nd ref="-233"/>
     <nd ref="-234"/>
@@ -676,34 +674,38 @@
     <nd ref="-236"/>
     <nd ref="-237"/>
     <nd ref="-238"/>
-    <nd ref="-239"/>
-    <nd ref="-240"/>
-    <nd ref="-241"/>
-    <nd ref="-242"/>
     <nd ref="-233"/>
     <tag k="building" v="yes"/>
-    <tag k="addr:housenumber" v="112"/>
+    <tag k="addr:housenumber" v="113"/>
     <tag k="addr:street" v="Hibiscus Place"/>
     <tag k="addr:city" v="River Ridge"/>
     <tag k="addr:postcode" v="70123"/>
   </way>
-  <node visible="true" id="-243" lat="29.95423067505286951472953660" lon="-90.22026279898047107508318732"/>
-  <node visible="true" id="-244" lat="29.95412806974267638793207880" lon="-90.22036859364288829965516925"/>
-  <node visible="true" id="-245" lat="29.95421476495779700144339586" lon="-90.22048059911405459843081189"/>
-  <node visible="true" id="-246" lat="29.95428049034287454333025380" lon="-90.22041283069459893795283278"/>
-  <node visible="true" id="-247" lat="29.95424062923297370275577123" lon="-90.22036133227693710523453774"/>
-  <node visible="true" id="-248" lat="29.95427750908345032598845137" lon="-90.22032330603398975199525012"/>
+  <node visible="true" id="-239" lat="29.95493874318860605399095220" lon="-90.22053965841854505924857222"/>
+  <node visible="true" id="-240" lat="29.95491492687566292829615122" lon="-90.22056461221566792119119782"/>
+  <node visible="true" id="-241" lat="29.95490426081542878478103376" lon="-90.22055105138048247681581415"/>
+  <node visible="true" id="-242" lat="29.95486822149603511888926732" lon="-90.22058881194818980020500021"/>
+  <node visible="true" id="-243" lat="29.95488650456564627688749169" lon="-90.22061205704598307875130558"/>
+  <node visible="true" id="-244" lat="29.95483903194760699761900469" lon="-90.22066179695823961992573459"/>
+  <node visible="true" id="-245" lat="29.95492242746490774152334780" lon="-90.22076782603664923954056576"/>
+  <node visible="true" id="-246" lat="29.95501137931814739090441435" lon="-90.22067462574152330034849001"/>
+  <node visible="true" id="-247" lat="29.95499130525963593640881300" lon="-90.22064910354826849925302668"/>
+  <node visible="true" id="-248" lat="29.95500968156197885150504590" lon="-90.22062984956627929022943135"/>
   <way visible="true" id="-28">
+    <nd ref="-239"/>
+    <nd ref="-240"/>
+    <nd ref="-241"/>
+    <nd ref="-242"/>
     <nd ref="-243"/>
     <nd ref="-244"/>
     <nd ref="-245"/>
     <nd ref="-246"/>
     <nd ref="-247"/>
     <nd ref="-248"/>
-    <nd ref="-243"/>
+    <nd ref="-239"/>
     <tag k="building" v="yes"/>
     <tag k="addr:housenumber" v="113"/>
-    <tag k="addr:street" v="Hibiscus Place"/>
+    <tag k="addr:street" v="Garden Road"/>
     <tag k="addr:city" v="River Ridge"/>
     <tag k="addr:postcode" v="70123"/>
   </way>

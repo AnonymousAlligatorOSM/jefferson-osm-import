@@ -1,18 +1,22 @@
 <?xml version='1.0' encoding='utf8'?>
-<osm version="0.6" generator="AnonymousAlligator's import script">
-  <changeset_tag k="comment" v="Import buildings and addresses in Jefferson Parish, see https://wiki.openstreetmap.org/wiki/Import/Catalogue/Jefferson_Parish_Addresses_and_Buildings"/>
-  <changeset_tag k="source" v="Jefferson Parish Planning Department"/>
-  <changeset_tag k="source_file" v="8187_13529"/>
-  <node visible="true" id="-1" lat="29.89834654330557128787404508" lon="-90.04873950437126950419042259"/>
-  <node visible="true" id="-2" lat="29.89838867905598007723710907" lon="-90.04877079810508178070449503"/>
-  <node visible="true" id="-3" lat="29.89837100735920927263578051" lon="-90.04880245896275425820931559"/>
-  <node visible="true" id="-4" lat="29.89844359406395213341056660" lon="-90.04885636828915096430137055"/>
-  <node visible="true" id="-5" lat="29.89846621935959447569075564" lon="-90.04881583246441323353792541"/>
-  <node visible="true" id="-6" lat="29.89846101211399442831861961" lon="-90.04881196509968788177502574"/>
-  <node visible="true" id="-7" lat="29.89850512720564879032281169" lon="-90.04873292780625604336819379"/>
-  <node visible="true" id="-8" lat="29.89842128514262853400396125" lon="-90.04867065921736468681046972"/>
-  <node visible="true" id="-9" lat="29.89840831570701595865102718" lon="-90.04869389544668933922366705"/>
-  <node visible="true" id="-10" lat="29.89838264262417055761034135" lon="-90.04867482834006864322873298"/>
+<osm version="0.6" generator="AnonymousAlligator's import script" upload-changeset="-1">
+  <changeset id="-1">
+    <tag k="comment" v="Import buildings and addresses in Jefferson Parish, see https://wiki.openstreetmap.org/wiki/Import/Catalogue/Jefferson_Parish_Addresses_and_Buildings"/>
+    <tag k="source" v="Jefferson Parish Planning Department"/>
+    <tag k="source_file" v="change-8187_13529.osm"/>
+  </changeset>
+  <node visible="true" id="-1" lat="29.90649126700701998515796731" lon="-90.04599899279845942601241404"/>
+  <node visible="true" id="-2" lat="29.90647753001239905756847293" lon="-90.04600060526776417191285873"/>
+  <node visible="true" id="-3" lat="29.90647613309551289262344653" lon="-90.04598555443905638639989775"/>
+  <node visible="true" id="-4" lat="29.90636806869306596468049975" lon="-90.04599412356890297814970836"/>
+  <node visible="true" id="-5" lat="29.90636947352466634697520931" lon="-90.04600989090555174243490910"/>
+  <node visible="true" id="-6" lat="29.90636259845461353279461036" lon="-90.04600997956153207724128151"/>
+  <node visible="true" id="-7" lat="29.90637288682700400954672659" lon="-90.04616698479348713135550497"/>
+  <node visible="true" id="-8" lat="29.90646034439259892678819597" lon="-90.04616083453841213213308947"/>
+  <node visible="true" id="-9" lat="29.90645521777928195206186501" lon="-90.04608412526178540247201454"/>
+  <node visible="true" id="-10" lat="29.90649207455546587652861490" lon="-90.04608149805757477679435397"/>
+  <node visible="true" id="-11" lat="29.90653829392839568868112110" lon="-90.04607731376273704881896265"/>
+  <node visible="true" id="-12" lat="29.90653312513427763974505069" lon="-90.04599630003161792046739720"/>
   <way visible="true" id="-1">
     <nd ref="-1"/>
     <nd ref="-2"/>
@@ -24,29 +28,26 @@
     <nd ref="-8"/>
     <nd ref="-9"/>
     <nd ref="-10"/>
+    <nd ref="-11"/>
+    <nd ref="-12"/>
     <nd ref="-1"/>
     <tag k="building" v="yes"/>
-    <tag k="addr:housenumber" v="1"/>
-    <tag k="addr:street" v="White Boulevard"/>
+    <tag k="addr:housenumber" v="64"/>
+    <tag k="addr:street" v="Howard Street"/>
     <tag k="addr:city" v="Gretna"/>
     <tag k="addr:postcode" v="70053"/>
   </way>
-  <node visible="true" id="-11" lat="29.89799534705604244777532585" lon="-90.04834107360444761525286594"/>
-  <node visible="true" id="-12" lat="29.89796524569142732730142598" lon="-90.04839527076997285348625155"/>
-  <node visible="true" id="-13" lat="29.89797027420122788043954642" lon="-90.04839807645660698653955478"/>
-  <node visible="true" id="-14" lat="29.89793646383773051411480992" lon="-90.04845662589531229968997650"/>
-  <node visible="true" id="-15" lat="29.89804666106341102249643882" lon="-90.04853843396624313299980713"/>
-  <node visible="true" id="-16" lat="29.89808292217410468083471642" lon="-90.04847482973696060071233660"/>
-  <node visible="true" id="-17" lat="29.89803570693380052603060903" lon="-90.04844099974000926067674300"/>
-  <node visible="true" id="-18" lat="29.89807255111419337367806293" lon="-90.04837308340093215974775376"/>
-  <node visible="true" id="-19" lat="29.89804358836910580521362135" lon="-90.04835193225537182115658652"/>
-  <node visible="true" id="-20" lat="29.89804851873747182366969355" lon="-90.04834469381530936971103074"/>
-  <node visible="true" id="-21" lat="29.89804912288600746705924394" lon="-90.04834253426948009746411117"/>
-  <node visible="true" id="-22" lat="29.89805465039119525272326428" lon="-90.04833241877089733407046879"/>
-  <node visible="true" id="-23" lat="29.89801561660405937459472625" lon="-90.04830422228639008608297445"/>
+  <node visible="true" id="-13" lat="29.89834654330557128787404508" lon="-90.04873950437126950419042259"/>
+  <node visible="true" id="-14" lat="29.89838867905598007723710907" lon="-90.04877079810508178070449503"/>
+  <node visible="true" id="-15" lat="29.89837100735920927263578051" lon="-90.04880245896275425820931559"/>
+  <node visible="true" id="-16" lat="29.89844359406395213341056660" lon="-90.04885636828915096430137055"/>
+  <node visible="true" id="-17" lat="29.89846621935959447569075564" lon="-90.04881583246441323353792541"/>
+  <node visible="true" id="-18" lat="29.89846101211399442831861961" lon="-90.04881196509968788177502574"/>
+  <node visible="true" id="-19" lat="29.89850512720564879032281169" lon="-90.04873292780625604336819379"/>
+  <node visible="true" id="-20" lat="29.89842128514262853400396125" lon="-90.04867065921736468681046972"/>
+  <node visible="true" id="-21" lat="29.89840831570701595865102718" lon="-90.04869389544668933922366705"/>
+  <node visible="true" id="-22" lat="29.89838264262417055761034135" lon="-90.04867482834006864322873298"/>
   <way visible="true" id="-2">
-    <nd ref="-11"/>
-    <nd ref="-12"/>
     <nd ref="-13"/>
     <nd ref="-14"/>
     <nd ref="-15"/>
@@ -57,27 +58,28 @@
     <nd ref="-20"/>
     <nd ref="-21"/>
     <nd ref="-22"/>
-    <nd ref="-23"/>
-    <nd ref="-11"/>
+    <nd ref="-13"/>
     <tag k="building" v="yes"/>
-    <tag k="addr:housenumber" v="7"/>
+    <tag k="addr:housenumber" v="1"/>
     <tag k="addr:street" v="White Boulevard"/>
     <tag k="addr:city" v="Gretna"/>
     <tag k="addr:postcode" v="70053"/>
   </way>
-  <node visible="true" id="-24" lat="29.90649126700701998515796731" lon="-90.04599899279845942601241404"/>
-  <node visible="true" id="-25" lat="29.90647753001239905756847293" lon="-90.04600060526776417191285873"/>
-  <node visible="true" id="-26" lat="29.90647613309551289262344653" lon="-90.04598555443905638639989775"/>
-  <node visible="true" id="-27" lat="29.90636806869306596468049975" lon="-90.04599412356890297814970836"/>
-  <node visible="true" id="-28" lat="29.90636947352466634697520931" lon="-90.04600989090555174243490910"/>
-  <node visible="true" id="-29" lat="29.90636259845461353279461036" lon="-90.04600997956153207724128151"/>
-  <node visible="true" id="-30" lat="29.90637288682700400954672659" lon="-90.04616698479348713135550497"/>
-  <node visible="true" id="-31" lat="29.90646034439259892678819597" lon="-90.04616083453841213213308947"/>
-  <node visible="true" id="-32" lat="29.90645521777928195206186501" lon="-90.04608412526178540247201454"/>
-  <node visible="true" id="-33" lat="29.90649207455546587652861490" lon="-90.04608149805757477679435397"/>
-  <node visible="true" id="-34" lat="29.90653829392839568868112110" lon="-90.04607731376273704881896265"/>
-  <node visible="true" id="-35" lat="29.90653312513427763974505069" lon="-90.04599630003161792046739720"/>
+  <node visible="true" id="-23" lat="29.89799534705604244777532585" lon="-90.04834107360444761525286594"/>
+  <node visible="true" id="-24" lat="29.89796524569142732730142598" lon="-90.04839527076997285348625155"/>
+  <node visible="true" id="-25" lat="29.89797027420122788043954642" lon="-90.04839807645660698653955478"/>
+  <node visible="true" id="-26" lat="29.89793646383773051411480992" lon="-90.04845662589531229968997650"/>
+  <node visible="true" id="-27" lat="29.89804666106341102249643882" lon="-90.04853843396624313299980713"/>
+  <node visible="true" id="-28" lat="29.89808292217410468083471642" lon="-90.04847482973696060071233660"/>
+  <node visible="true" id="-29" lat="29.89803570693380052603060903" lon="-90.04844099974000926067674300"/>
+  <node visible="true" id="-30" lat="29.89807255111419337367806293" lon="-90.04837308340093215974775376"/>
+  <node visible="true" id="-31" lat="29.89804358836910580521362135" lon="-90.04835193225537182115658652"/>
+  <node visible="true" id="-32" lat="29.89804851873747182366969355" lon="-90.04834469381530936971103074"/>
+  <node visible="true" id="-33" lat="29.89804912288600746705924394" lon="-90.04834253426948009746411117"/>
+  <node visible="true" id="-34" lat="29.89805465039119525272326428" lon="-90.04833241877089733407046879"/>
+  <node visible="true" id="-35" lat="29.89801561660405937459472625" lon="-90.04830422228639008608297445"/>
   <way visible="true" id="-3">
+    <nd ref="-23"/>
     <nd ref="-24"/>
     <nd ref="-25"/>
     <nd ref="-26"/>
@@ -90,10 +92,10 @@
     <nd ref="-33"/>
     <nd ref="-34"/>
     <nd ref="-35"/>
-    <nd ref="-24"/>
+    <nd ref="-23"/>
     <tag k="building" v="yes"/>
-    <tag k="addr:housenumber" v="64"/>
-    <tag k="addr:street" v="Howard Street"/>
+    <tag k="addr:housenumber" v="7"/>
+    <tag k="addr:street" v="White Boulevard"/>
     <tag k="addr:city" v="Gretna"/>
     <tag k="addr:postcode" v="70053"/>
   </way>

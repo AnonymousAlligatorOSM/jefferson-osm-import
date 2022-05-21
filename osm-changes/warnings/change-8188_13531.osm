@@ -1,8 +1,10 @@
 <?xml version='1.0' encoding='utf8'?>
-<osm version="0.6" generator="AnonymousAlligator's import script">
-  <changeset_tag k="comment" v="Import buildings and addresses in Jefferson Parish, see https://wiki.openstreetmap.org/wiki/Import/Catalogue/Jefferson_Parish_Addresses_and_Buildings"/>
-  <changeset_tag k="source" v="Jefferson Parish Planning Department"/>
-  <changeset_tag k="source_file" v="8188_13531"/>
+<osm version="0.6" generator="AnonymousAlligator's import script" upload-changeset="-1">
+  <changeset id="-1">
+    <tag k="comment" v="Import buildings and addresses in Jefferson Parish, see https://wiki.openstreetmap.org/wiki/Import/Catalogue/Jefferson_Parish_Addresses_and_Buildings"/>
+    <tag k="source" v="Jefferson Parish Planning Department"/>
+    <tag k="source_file" v="change-8188_13531.osm"/>
+  </changeset>
   <node visible="true" id="-1" lat="29.88517092776230654749269888" lon="-90.03774748583337839136220282"/>
   <node visible="true" id="-2" lat="29.88530182137695589972281596" lon="-90.03761433298789995660627028"/>
   <node visible="true" id="-3" lat="29.88524660530603682673245203" lon="-90.03754212749024077311332803"/>
@@ -1611,14 +1613,12 @@
     <tag k="addr:city" v="Gretna"/>
     <tag k="addr:postcode" v="70056"/>
   </way>
-  <node visible="true" id="-529" lat="29.88579865497073839719632815" lon="-90.03645006268202166666014818"/>
-  <node visible="true" id="-530" lat="29.88570691471059603827598039" lon="-90.03632987112894170422805473"/>
-  <node visible="true" id="-531" lat="29.88562752390016896697488846" lon="-90.03641048262363710819045082"/>
-  <node visible="true" id="-532" lat="29.88564683504230146127156331" lon="-90.03643578267694635997031583"/>
-  <node visible="true" id="-533" lat="29.88565203022473681926385325" lon="-90.03643050761618837896094192"/>
-  <node visible="true" id="-534" lat="29.88567892668036307668444351" lon="-90.03646574540532299124606652"/>
-  <node visible="true" id="-535" lat="29.88566369220377083593120915" lon="-90.03648121412236093874525977"/>
-  <node visible="true" id="-536" lat="29.88570922494241344224974455" lon="-90.03654086783296861540293321"/>
+  <node visible="true" id="-529" lat="29.88440487468538364623782400" lon="-90.03673253648936736226460198"/>
+  <node visible="true" id="-530" lat="29.88453476666325414612401801" lon="-90.03660155945861731652257731"/>
+  <node visible="true" id="-531" lat="29.88448123793829580563397030" lon="-90.03653094328718964334257180"/>
+  <node visible="true" id="-532" lat="29.88445753891171818850125419" lon="-90.03654576570005474422941916"/>
+  <node visible="true" id="-533" lat="29.88442034168206618005569908" lon="-90.03649669439997182962542865"/>
+  <node visible="true" id="-534" lat="29.88431024988340922732277249" lon="-90.03660770573428351326583652"/>
   <way visible="true" id="-70">
     <nd ref="-529"/>
     <nd ref="-530"/>
@@ -1626,59 +1626,61 @@
     <nd ref="-532"/>
     <nd ref="-533"/>
     <nd ref="-534"/>
-    <nd ref="-535"/>
-    <nd ref="-536"/>
     <nd ref="-529"/>
     <tag k="building" v="yes"/>
-    <tag k="addr:housenumber" v="320"/>
-    <tag k="addr:street" v="BriarGrove Avenue"/>
+    <tag k="addr:housenumber" v="337"/>
+    <tag k="addr:street" v="Woodmeade Street"/>
     <tag k="addr:city" v="Gretna"/>
     <tag k="addr:postcode" v="70056"/>
   </way>
-  <node visible="true" id="-537" lat="29.88475771404723246860157815" lon="-90.03774432029716479064518353"/>
-  <node visible="true" id="-538" lat="29.88467537310661725769023178" lon="-90.03782573491776020091492683"/>
-  <node visible="true" id="-539" lat="29.88475960797780572875126381" lon="-90.03793655137525320242275484"/>
-  <node visible="true" id="-540" lat="29.88476721422652815363107948" lon="-90.03794721323269811819045572"/>
-  <node visible="true" id="-541" lat="29.88489040563479903767074575" lon="-90.03782437896983026348607382"/>
-  <node visible="true" id="-542" lat="29.88484734379468221732167876" lon="-90.03776826595567683853005292"/>
-  <node visible="true" id="-543" lat="29.88480029914283164771404699" lon="-90.03781550501994956903217826"/>
-  <node visible="true" id="-544" lat="29.88478699566557494904373016" lon="-90.03779774305124306010839064"/>
-  <node visible="true" id="-545" lat="29.88482166680362794863867748" lon="-90.03776357759787174472876359"/>
-  <node visible="true" id="-546" lat="29.88478556571822153387074650" lon="-90.03771598130894915357202990"/>
+  <node visible="true" id="-535" lat="29.88579865497073839719632815" lon="-90.03645006268202166666014818"/>
+  <node visible="true" id="-536" lat="29.88570691471059603827598039" lon="-90.03632987112894170422805473"/>
+  <node visible="true" id="-537" lat="29.88562752390016896697488846" lon="-90.03641048262363710819045082"/>
+  <node visible="true" id="-538" lat="29.88564683504230146127156331" lon="-90.03643578267694635997031583"/>
+  <node visible="true" id="-539" lat="29.88565203022473681926385325" lon="-90.03643050761618837896094192"/>
+  <node visible="true" id="-540" lat="29.88567892668036307668444351" lon="-90.03646574540532299124606652"/>
+  <node visible="true" id="-541" lat="29.88566369220377083593120915" lon="-90.03648121412236093874525977"/>
+  <node visible="true" id="-542" lat="29.88570922494241344224974455" lon="-90.03654086783296861540293321"/>
   <way visible="true" id="-71">
+    <nd ref="-535"/>
+    <nd ref="-536"/>
     <nd ref="-537"/>
     <nd ref="-538"/>
     <nd ref="-539"/>
     <nd ref="-540"/>
     <nd ref="-541"/>
     <nd ref="-542"/>
+    <nd ref="-535"/>
+    <tag k="building" v="yes"/>
+    <tag k="addr:housenumber" v="320"/>
+    <tag k="addr:street" v="BriarGrove Avenue"/>
+    <tag k="addr:city" v="Gretna"/>
+    <tag k="addr:postcode" v="70056"/>
+  </way>
+  <node visible="true" id="-543" lat="29.88475771404723246860157815" lon="-90.03774432029716479064518353"/>
+  <node visible="true" id="-544" lat="29.88467537310661725769023178" lon="-90.03782573491776020091492683"/>
+  <node visible="true" id="-545" lat="29.88475960797780572875126381" lon="-90.03793655137525320242275484"/>
+  <node visible="true" id="-546" lat="29.88476721422652815363107948" lon="-90.03794721323269811819045572"/>
+  <node visible="true" id="-547" lat="29.88489040563479903767074575" lon="-90.03782437896983026348607382"/>
+  <node visible="true" id="-548" lat="29.88484734379468221732167876" lon="-90.03776826595567683853005292"/>
+  <node visible="true" id="-549" lat="29.88480029914283164771404699" lon="-90.03781550501994956903217826"/>
+  <node visible="true" id="-550" lat="29.88478699566557494904373016" lon="-90.03779774305124306010839064"/>
+  <node visible="true" id="-551" lat="29.88482166680362794863867748" lon="-90.03776357759787174472876359"/>
+  <node visible="true" id="-552" lat="29.88478556571822153387074650" lon="-90.03771598130894915357202990"/>
+  <way visible="true" id="-72">
     <nd ref="-543"/>
     <nd ref="-544"/>
     <nd ref="-545"/>
     <nd ref="-546"/>
-    <nd ref="-537"/>
-    <tag k="building" v="yes"/>
-    <tag k="addr:housenumber" v="308"/>
-    <tag k="addr:street" v="Woodmeade Street"/>
-    <tag k="addr:city" v="Gretna"/>
-    <tag k="addr:postcode" v="70056"/>
-  </way>
-  <node visible="true" id="-547" lat="29.88440487468538364623782400" lon="-90.03673253648936736226460198"/>
-  <node visible="true" id="-548" lat="29.88453476666325414612401801" lon="-90.03660155945861731652257731"/>
-  <node visible="true" id="-549" lat="29.88448123793829580563397030" lon="-90.03653094328718964334257180"/>
-  <node visible="true" id="-550" lat="29.88445753891171818850125419" lon="-90.03654576570005474422941916"/>
-  <node visible="true" id="-551" lat="29.88442034168206618005569908" lon="-90.03649669439997182962542865"/>
-  <node visible="true" id="-552" lat="29.88431024988340922732277249" lon="-90.03660770573428351326583652"/>
-  <way visible="true" id="-72">
     <nd ref="-547"/>
     <nd ref="-548"/>
     <nd ref="-549"/>
     <nd ref="-550"/>
     <nd ref="-551"/>
     <nd ref="-552"/>
-    <nd ref="-547"/>
+    <nd ref="-543"/>
     <tag k="building" v="yes"/>
-    <tag k="addr:housenumber" v="337"/>
+    <tag k="addr:housenumber" v="308"/>
     <tag k="addr:street" v="Woodmeade Street"/>
     <tag k="addr:city" v="Gretna"/>
     <tag k="addr:postcode" v="70056"/>

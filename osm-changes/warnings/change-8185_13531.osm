@@ -1,8 +1,10 @@
 <?xml version='1.0' encoding='utf8'?>
-<osm version="0.6" generator="AnonymousAlligator's import script">
-  <changeset_tag k="comment" v="Import buildings and addresses in Jefferson Parish, see https://wiki.openstreetmap.org/wiki/Import/Catalogue/Jefferson_Parish_Addresses_and_Buildings"/>
-  <changeset_tag k="source" v="Jefferson Parish Planning Department"/>
-  <changeset_tag k="source_file" v="8185_13531"/>
+<osm version="0.6" generator="AnonymousAlligator's import script" upload-changeset="-1">
+  <changeset id="-1">
+    <tag k="comment" v="Import buildings and addresses in Jefferson Parish, see https://wiki.openstreetmap.org/wiki/Import/Catalogue/Jefferson_Parish_Addresses_and_Buildings"/>
+    <tag k="source" v="Jefferson Parish Planning Department"/>
+    <tag k="source_file" v="change-8185_13531.osm"/>
+  </changeset>
   <node visible="true" id="-1" lat="29.88614359126915687170367164" lon="-90.06881921187715533960727043">
     <tag k="addr:street" v="Esther Street"/>
     <tag k="addr:city" v="Harvey"/>
@@ -226,13 +228,13 @@
     <tag k="addr:city" v="Harvey"/>
     <tag k="addr:postcode" v="70058"/>
   </node>
-  <node visible="true" id="-49" lat="29.88460849889671777646071860" lon="-90.06836499828906994480348658">
-    <tag k="addr:street" v="Esther Street"/>
+  <node visible="true" id="-49" lat="29.88689974821543771099641162" lon="-90.07107202653753574850270525">
+    <tag k="addr:street" v="Pailet Avenue"/>
     <tag k="addr:city" v="Harvey"/>
     <tag k="addr:postcode" v="70058"/>
   </node>
-  <node visible="true" id="-50" lat="29.88689974821543771099641162" lon="-90.07107202653753574850270525">
-    <tag k="addr:street" v="Pailet Avenue"/>
+  <node visible="true" id="-50" lat="29.88460849889671777646071860" lon="-90.06836499828906994480348658">
+    <tag k="addr:street" v="Esther Street"/>
     <tag k="addr:city" v="Harvey"/>
     <tag k="addr:postcode" v="70058"/>
   </node>

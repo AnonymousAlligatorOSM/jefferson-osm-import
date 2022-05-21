@@ -1,8 +1,10 @@
 <?xml version='1.0' encoding='utf8'?>
-<osm version="0.6" generator="AnonymousAlligator's import script">
-  <changeset_tag k="comment" v="Import buildings and addresses in Jefferson Parish, see https://wiki.openstreetmap.org/wiki/Import/Catalogue/Jefferson_Parish_Addresses_and_Buildings"/>
-  <changeset_tag k="source" v="Jefferson Parish Planning Department"/>
-  <changeset_tag k="source_file" v="8179_13530"/>
+<osm version="0.6" generator="AnonymousAlligator's import script" upload-changeset="-1">
+  <changeset id="-1">
+    <tag k="comment" v="Import buildings and addresses in Jefferson Parish, see https://wiki.openstreetmap.org/wiki/Import/Catalogue/Jefferson_Parish_Addresses_and_Buildings"/>
+    <tag k="source" v="Jefferson Parish Planning Department"/>
+    <tag k="source_file" v="change-8179_13530.osm"/>
+  </changeset>
   <node visible="true" id="-1" lat="29.88970228127561412634349836" lon="-90.13737506250512865335622337"/>
   <node visible="true" id="-2" lat="29.88985214962382741532564978" lon="-90.13730884346121285943809198"/>
   <node visible="true" id="-3" lat="29.88982502475450431234094140" lon="-90.13722717185594035527174128"/>
@@ -731,12 +733,14 @@
     <tag k="addr:city" v="Westwego"/>
     <tag k="addr:postcode" v="70094"/>
   </way>
-  <node visible="true" id="-238" lat="29.89412315583873080981902604" lon="-90.13559726921593551196565386"/>
-  <node visible="true" id="-239" lat="29.89415948907528530753552332" lon="-90.13558168063032383088284405"/>
-  <node visible="true" id="-240" lat="29.89416831617851144642372674" lon="-90.13560905410085410949250218"/>
-  <node visible="true" id="-241" lat="29.89432511920373514158200123" lon="-90.13554177850978987862617942"/>
-  <node visible="true" id="-242" lat="29.89428022640606741333613172" lon="-90.13540256257921612359496066"/>
-  <node visible="true" id="-243" lat="29.89408709006045583578270453" lon="-90.13548542675589203554409323"/>
+  <node visible="true" id="-238" lat="29.89280004603957863196228573" lon="-90.13616834723561055398022290"/>
+  <node visible="true" id="-239" lat="29.89292853025653329268607195" lon="-90.13611196228460187285236316"/>
+  <node visible="true" id="-240" lat="29.89291677271896219281188678" lon="-90.13607631665742303539445857"/>
+  <node visible="true" id="-241" lat="29.89292305724215736972837476" lon="-90.13607355870988158130785450"/>
+  <node visible="true" id="-242" lat="29.89289236191658005736826453" lon="-90.13598049892047470166289713"/>
+  <node visible="true" id="-243" lat="29.89283693135980257693518070" lon="-90.13600482447044726086460287"/>
+  <node visible="true" id="-244" lat="29.89283479260540232758103230" lon="-90.13599834035974822654679883"/>
+  <node visible="true" id="-245" lat="29.89275545436361625206700410" lon="-90.13603315770835422426898731"/>
   <way visible="true" id="-33">
     <nd ref="-238"/>
     <nd ref="-239"/>
@@ -744,49 +748,47 @@
     <nd ref="-241"/>
     <nd ref="-242"/>
     <nd ref="-243"/>
+    <nd ref="-244"/>
+    <nd ref="-245"/>
     <nd ref="-238"/>
+    <tag k="building" v="yes"/>
+    <tag k="addr:housenumber" v="1122"/>
+    <tag k="addr:street" v="Lecompte Drive"/>
+    <tag k="addr:city" v="Westwego"/>
+    <tag k="addr:postcode" v="70094"/>
+  </way>
+  <node visible="true" id="-246" lat="29.89412315583873080981902604" lon="-90.13559726921593551196565386"/>
+  <node visible="true" id="-247" lat="29.89415948907528530753552332" lon="-90.13558168063032383088284405"/>
+  <node visible="true" id="-248" lat="29.89416831617851144642372674" lon="-90.13560905410085410949250218"/>
+  <node visible="true" id="-249" lat="29.89432511920373514158200123" lon="-90.13554177850978987862617942"/>
+  <node visible="true" id="-250" lat="29.89428022640606741333613172" lon="-90.13540256257921612359496066"/>
+  <node visible="true" id="-251" lat="29.89408709006045583578270453" lon="-90.13548542675589203554409323"/>
+  <way visible="true" id="-34">
+    <nd ref="-246"/>
+    <nd ref="-247"/>
+    <nd ref="-248"/>
+    <nd ref="-249"/>
+    <nd ref="-250"/>
+    <nd ref="-251"/>
+    <nd ref="-246"/>
     <tag k="building" v="yes"/>
     <tag k="addr:housenumber" v="1064"/>
     <tag k="addr:street" v="Lecompte Drive"/>
     <tag k="addr:city" v="Westwego"/>
     <tag k="addr:postcode" v="70094"/>
   </way>
-  <node visible="true" id="-244" lat="29.89333068281366578844426840" lon="-90.13594171373378571843204554"/>
-  <node visible="true" id="-245" lat="29.89349317586119525458343560" lon="-90.13587639234958714951062575"/>
-  <node visible="true" id="-246" lat="29.89345665044652378128375858" lon="-90.13575550449678530640085228"/>
-  <node visible="true" id="-247" lat="29.89329415733943662303317979" lon="-90.13582082588098387532227207"/>
-  <way visible="true" id="-34">
-    <nd ref="-244"/>
-    <nd ref="-245"/>
-    <nd ref="-246"/>
-    <nd ref="-247"/>
-    <nd ref="-244"/>
-    <tag k="building" v="yes"/>
-    <tag k="addr:housenumber" v="1110"/>
-    <tag k="addr:street" v="Lecompte Drive"/>
-    <tag k="addr:city" v="Westwego"/>
-    <tag k="addr:postcode" v="70094"/>
-  </way>
-  <node visible="true" id="-248" lat="29.89280004603957863196228573" lon="-90.13616834723561055398022290"/>
-  <node visible="true" id="-249" lat="29.89292853025653329268607195" lon="-90.13611196228460187285236316"/>
-  <node visible="true" id="-250" lat="29.89291677271896219281188678" lon="-90.13607631665742303539445857"/>
-  <node visible="true" id="-251" lat="29.89292305724215736972837476" lon="-90.13607355870988158130785450"/>
-  <node visible="true" id="-252" lat="29.89289236191658005736826453" lon="-90.13598049892047470166289713"/>
-  <node visible="true" id="-253" lat="29.89283693135980257693518070" lon="-90.13600482447044726086460287"/>
-  <node visible="true" id="-254" lat="29.89283479260540232758103230" lon="-90.13599834035974822654679883"/>
-  <node visible="true" id="-255" lat="29.89275545436361625206700410" lon="-90.13603315770835422426898731"/>
+  <node visible="true" id="-252" lat="29.89333068281366578844426840" lon="-90.13594171373378571843204554"/>
+  <node visible="true" id="-253" lat="29.89349317586119525458343560" lon="-90.13587639234958714951062575"/>
+  <node visible="true" id="-254" lat="29.89345665044652378128375858" lon="-90.13575550449678530640085228"/>
+  <node visible="true" id="-255" lat="29.89329415733943662303317979" lon="-90.13582082588098387532227207"/>
   <way visible="true" id="-35">
-    <nd ref="-248"/>
-    <nd ref="-249"/>
-    <nd ref="-250"/>
-    <nd ref="-251"/>
     <nd ref="-252"/>
     <nd ref="-253"/>
     <nd ref="-254"/>
     <nd ref="-255"/>
-    <nd ref="-248"/>
+    <nd ref="-252"/>
     <tag k="building" v="yes"/>
-    <tag k="addr:housenumber" v="1122"/>
+    <tag k="addr:housenumber" v="1110"/>
     <tag k="addr:street" v="Lecompte Drive"/>
     <tag k="addr:city" v="Westwego"/>
     <tag k="addr:postcode" v="70094"/>
@@ -915,110 +917,110 @@
     <tag k="addr:city" v="Westwego"/>
     <tag k="addr:postcode" v="70094"/>
   </way>
-  <node visible="true" id="-295" lat="29.89364450218656799052041606" lon="-90.13523742336870725466724252"/>
-  <node visible="true" id="-296" lat="29.89355528807185535811186128" lon="-90.13527466287135325728741009"/>
-  <node visible="true" id="-297" lat="29.89356508406162049595877761" lon="-90.13530588678338517638621852"/>
-  <node visible="true" id="-298" lat="29.89351542562698682559130248" lon="-90.13532661505388432487961836"/>
-  <node visible="true" id="-299" lat="29.89354847712028018236196658" lon="-90.13543196394191170384146972"/>
-  <node visible="true" id="-300" lat="29.89368734961482587664249877" lon="-90.13537399616873813101847190"/>
+  <node visible="true" id="-295" lat="29.88892426786853206976957154" lon="-90.13759119958390897409117315"/>
+  <node visible="true" id="-296" lat="29.88895150116836063602931972" lon="-90.13767426089519574361474952"/>
+  <node visible="true" id="-297" lat="29.88910141448395307861574111" lon="-90.13760887095773455257585738"/>
+  <node visible="true" id="-298" lat="29.88907418122507664293152629" lon="-90.13752580964644778305228101"/>
   <way visible="true" id="-42">
     <nd ref="-295"/>
     <nd ref="-296"/>
     <nd ref="-297"/>
     <nd ref="-298"/>
-    <nd ref="-299"/>
-    <nd ref="-300"/>
     <nd ref="-295"/>
-    <tag k="building" v="yes"/>
-    <tag k="addr:housenumber" v="1101"/>
-    <tag k="addr:street" v="Lecompte Drive"/>
-    <tag k="addr:city" v="Westwego"/>
-    <tag k="addr:postcode" v="70094"/>
-  </way>
-  <node visible="true" id="-301" lat="29.89386824280862597902341804" lon="-90.13574184257282695398316719"/>
-  <node visible="true" id="-302" lat="29.89382599326494727165481891" lon="-90.13560485992017845546797616"/>
-  <node visible="true" id="-303" lat="29.89367847751314855031523621" lon="-90.13566539485179873736342415"/>
-  <node visible="true" id="-304" lat="29.89372072711942251999062137" lon="-90.13580237750444723587861517"/>
-  <way visible="true" id="-43">
-    <nd ref="-301"/>
-    <nd ref="-302"/>
-    <nd ref="-303"/>
-    <nd ref="-304"/>
-    <nd ref="-301"/>
-    <tag k="building" v="yes"/>
-    <tag k="addr:housenumber" v="1102"/>
-    <tag k="addr:street" v="Lecompte Drive"/>
-    <tag k="addr:city" v="Westwego"/>
-    <tag k="addr:postcode" v="70094"/>
-  </way>
-  <node visible="true" id="-305" lat="29.89243216447128759227780392" lon="-90.13577743912193795949860942"/>
-  <node visible="true" id="-306" lat="29.89247021387201641573483357" lon="-90.13589301917434681854501832"/>
-  <node visible="true" id="-307" lat="29.89255611866794382081025105" lon="-90.13585539369240962059848243"/>
-  <node visible="true" id="-308" lat="29.89255207458055352276460326" lon="-90.13584310923322107100830181"/>
-  <node visible="true" id="-309" lat="29.89261007949010817696944287" lon="-90.13581770361830081128573511"/>
-  <node visible="true" id="-310" lat="29.89257607422928586515809002" lon="-90.13571440802508050182950683"/>
-  <way visible="true" id="-44">
-    <nd ref="-305"/>
-    <nd ref="-306"/>
-    <nd ref="-307"/>
-    <nd ref="-308"/>
-    <nd ref="-309"/>
-    <nd ref="-310"/>
-    <nd ref="-305"/>
-    <tag k="building" v="yes"/>
-    <tag k="addr:housenumber" v="1125"/>
-    <tag k="addr:street" v="Lecompte Drive"/>
-    <tag k="addr:city" v="Westwego"/>
-    <tag k="addr:postcode" v="70094"/>
-  </way>
-  <node visible="true" id="-311" lat="29.89268613666052942789974622" lon="-90.13564520025477122544543818"/>
-  <node visible="true" id="-312" lat="29.89269888544191644541569985" lon="-90.13568521486325835212483071"/>
-  <node visible="true" id="-313" lat="29.89261064376492882388447470" lon="-90.13572261948360164751647972"/>
-  <node visible="true" id="-314" lat="29.89264064371840490252907330" lon="-90.13581678029387944661721122"/>
-  <node visible="true" id="-315" lat="29.89275216714056782052466588" lon="-90.13576950679284038869809592"/>
-  <node visible="true" id="-316" lat="29.89274569968788242135815381" lon="-90.13574920738342655113228830"/>
-  <node visible="true" id="-317" lat="29.89277542655360164758349129" lon="-90.13573660649748831019678619"/>
-  <node visible="true" id="-318" lat="29.89273914531879228206889820" lon="-90.13562273048815143283718498"/>
-  <way visible="true" id="-45">
-    <nd ref="-311"/>
-    <nd ref="-312"/>
-    <nd ref="-313"/>
-    <nd ref="-314"/>
-    <nd ref="-315"/>
-    <nd ref="-316"/>
-    <nd ref="-317"/>
-    <nd ref="-318"/>
-    <nd ref="-311"/>
-    <tag k="building" v="yes"/>
-    <tag k="addr:housenumber" v="1121"/>
-    <tag k="addr:street" v="Lecompte Drive"/>
-    <tag k="addr:city" v="Westwego"/>
-    <tag k="addr:postcode" v="70094"/>
-  </way>
-  <node visible="true" id="-319" lat="29.88892426786853206976957154" lon="-90.13759119958390897409117315"/>
-  <node visible="true" id="-320" lat="29.88895150116836063602931972" lon="-90.13767426089519574361474952"/>
-  <node visible="true" id="-321" lat="29.88910141448395307861574111" lon="-90.13760887095773455257585738"/>
-  <node visible="true" id="-322" lat="29.88907418122507664293152629" lon="-90.13752580964644778305228101"/>
-  <way visible="true" id="-46">
-    <nd ref="-319"/>
-    <nd ref="-320"/>
-    <nd ref="-321"/>
-    <nd ref="-322"/>
-    <nd ref="-319"/>
     <tag k="building" v="yes"/>
     <tag k="addr:housenumber" v="1332"/>
     <tag k="addr:street" v="Lecompte Drive"/>
     <tag k="addr:city" v="Westwego"/>
     <tag k="addr:postcode" v="70094"/>
   </way>
-  <node visible="true" id="-323" lat="29.88912876482086389273717941" lon="-90.13761178005162832960195374"/>
-  <node visible="true" id="-324" lat="29.88913602196096874763497908" lon="-90.13760857439876872376771644"/>
-  <node visible="true" id="-325" lat="29.88914508068875974799993855" lon="-90.13763585706422531984571833"/>
-  <node visible="true" id="-326" lat="29.88919717105627782416377158" lon="-90.13761284749045898934127763"/>
-  <node visible="true" id="-327" lat="29.88918724953999372928592493" lon="-90.13758296630228983303823043"/>
-  <node visible="true" id="-328" lat="29.88927790557707453444891144" lon="-90.13754292131586964842426823"/>
-  <node visible="true" id="-329" lat="29.88924958265045361827105808" lon="-90.13745761950463020184542984"/>
-  <node visible="true" id="-330" lat="29.88909957905788417065195972" lon="-90.13752387971767632279807003"/>
+  <node visible="true" id="-299" lat="29.88912876482086389273717941" lon="-90.13761178005162832960195374"/>
+  <node visible="true" id="-300" lat="29.88913602196096874763497908" lon="-90.13760857439876872376771644"/>
+  <node visible="true" id="-301" lat="29.88914508068875974799993855" lon="-90.13763585706422531984571833"/>
+  <node visible="true" id="-302" lat="29.88919717105627782416377158" lon="-90.13761284749045898934127763"/>
+  <node visible="true" id="-303" lat="29.88918724953999372928592493" lon="-90.13758296630228983303823043"/>
+  <node visible="true" id="-304" lat="29.88927790557707453444891144" lon="-90.13754292131586964842426823"/>
+  <node visible="true" id="-305" lat="29.88924958265045361827105808" lon="-90.13745761950463020184542984"/>
+  <node visible="true" id="-306" lat="29.88909957905788417065195972" lon="-90.13752387971767632279807003"/>
+  <way visible="true" id="-43">
+    <nd ref="-299"/>
+    <nd ref="-300"/>
+    <nd ref="-301"/>
+    <nd ref="-302"/>
+    <nd ref="-303"/>
+    <nd ref="-304"/>
+    <nd ref="-305"/>
+    <nd ref="-306"/>
+    <nd ref="-299"/>
+    <tag k="building" v="yes"/>
+    <tag k="addr:housenumber" v="1328"/>
+    <tag k="addr:street" v="Lecompte Drive"/>
+    <tag k="addr:city" v="Westwego"/>
+    <tag k="addr:postcode" v="70094"/>
+  </way>
+  <node visible="true" id="-307" lat="29.89364450218656799052041606" lon="-90.13523742336870725466724252"/>
+  <node visible="true" id="-308" lat="29.89355528807185535811186128" lon="-90.13527466287135325728741009"/>
+  <node visible="true" id="-309" lat="29.89356508406162049595877761" lon="-90.13530588678338517638621852"/>
+  <node visible="true" id="-310" lat="29.89351542562698682559130248" lon="-90.13532661505388432487961836"/>
+  <node visible="true" id="-311" lat="29.89354847712028018236196658" lon="-90.13543196394191170384146972"/>
+  <node visible="true" id="-312" lat="29.89368734961482587664249877" lon="-90.13537399616873813101847190"/>
+  <way visible="true" id="-44">
+    <nd ref="-307"/>
+    <nd ref="-308"/>
+    <nd ref="-309"/>
+    <nd ref="-310"/>
+    <nd ref="-311"/>
+    <nd ref="-312"/>
+    <nd ref="-307"/>
+    <tag k="building" v="yes"/>
+    <tag k="addr:housenumber" v="1101"/>
+    <tag k="addr:street" v="Lecompte Drive"/>
+    <tag k="addr:city" v="Westwego"/>
+    <tag k="addr:postcode" v="70094"/>
+  </way>
+  <node visible="true" id="-313" lat="29.89386824280862597902341804" lon="-90.13574184257282695398316719"/>
+  <node visible="true" id="-314" lat="29.89382599326494727165481891" lon="-90.13560485992017845546797616"/>
+  <node visible="true" id="-315" lat="29.89367847751314855031523621" lon="-90.13566539485179873736342415"/>
+  <node visible="true" id="-316" lat="29.89372072711942251999062137" lon="-90.13580237750444723587861517"/>
+  <way visible="true" id="-45">
+    <nd ref="-313"/>
+    <nd ref="-314"/>
+    <nd ref="-315"/>
+    <nd ref="-316"/>
+    <nd ref="-313"/>
+    <tag k="building" v="yes"/>
+    <tag k="addr:housenumber" v="1102"/>
+    <tag k="addr:street" v="Lecompte Drive"/>
+    <tag k="addr:city" v="Westwego"/>
+    <tag k="addr:postcode" v="70094"/>
+  </way>
+  <node visible="true" id="-317" lat="29.89243216447128759227780392" lon="-90.13577743912193795949860942"/>
+  <node visible="true" id="-318" lat="29.89247021387201641573483357" lon="-90.13589301917434681854501832"/>
+  <node visible="true" id="-319" lat="29.89255611866794382081025105" lon="-90.13585539369240962059848243"/>
+  <node visible="true" id="-320" lat="29.89255207458055352276460326" lon="-90.13584310923322107100830181"/>
+  <node visible="true" id="-321" lat="29.89261007949010817696944287" lon="-90.13581770361830081128573511"/>
+  <node visible="true" id="-322" lat="29.89257607422928586515809002" lon="-90.13571440802508050182950683"/>
+  <way visible="true" id="-46">
+    <nd ref="-317"/>
+    <nd ref="-318"/>
+    <nd ref="-319"/>
+    <nd ref="-320"/>
+    <nd ref="-321"/>
+    <nd ref="-322"/>
+    <nd ref="-317"/>
+    <tag k="building" v="yes"/>
+    <tag k="addr:housenumber" v="1125"/>
+    <tag k="addr:street" v="Lecompte Drive"/>
+    <tag k="addr:city" v="Westwego"/>
+    <tag k="addr:postcode" v="70094"/>
+  </way>
+  <node visible="true" id="-323" lat="29.89268613666052942789974622" lon="-90.13564520025477122544543818"/>
+  <node visible="true" id="-324" lat="29.89269888544191644541569985" lon="-90.13568521486325835212483071"/>
+  <node visible="true" id="-325" lat="29.89261064376492882388447470" lon="-90.13572261948360164751647972"/>
+  <node visible="true" id="-326" lat="29.89264064371840490252907330" lon="-90.13581678029387944661721122"/>
+  <node visible="true" id="-327" lat="29.89275216714056782052466588" lon="-90.13576950679284038869809592"/>
+  <node visible="true" id="-328" lat="29.89274569968788242135815381" lon="-90.13574920738342655113228830"/>
+  <node visible="true" id="-329" lat="29.89277542655360164758349129" lon="-90.13573660649748831019678619"/>
+  <node visible="true" id="-330" lat="29.89273914531879228206889820" lon="-90.13562273048815143283718498"/>
   <way visible="true" id="-47">
     <nd ref="-323"/>
     <nd ref="-324"/>
@@ -1030,7 +1032,7 @@
     <nd ref="-330"/>
     <nd ref="-323"/>
     <tag k="building" v="yes"/>
-    <tag k="addr:housenumber" v="1328"/>
+    <tag k="addr:housenumber" v="1121"/>
     <tag k="addr:street" v="Lecompte Drive"/>
     <tag k="addr:city" v="Westwego"/>
     <tag k="addr:postcode" v="70094"/>
@@ -1210,20 +1212,14 @@
     <tag k="addr:city" v="Westwego"/>
     <tag k="addr:postcode" v="70094"/>
   </way>
-  <node visible="true" id="-387" lat="29.89367841153337224113784032" lon="-90.13669600533590653412829852"/>
-  <node visible="true" id="-388" lat="29.89369495291915512780178688" lon="-90.13674840324779324873816222"/>
-  <node visible="true" id="-389" lat="29.89374121030288122824458696" lon="-90.13672897429752595144236693"/>
-  <node visible="true" id="-390" lat="29.89375493380896386952372268" lon="-90.13675530877522135142498882"/>
-  <node visible="true" id="-391" lat="29.89384381041494620490084344" lon="-90.13671797893884729546698509"/>
-  <node visible="true" id="-392" lat="29.89383439994644575676829845" lon="-90.13668816948634798791317735"/>
-  <node visible="true" id="-393" lat="29.89387754241523964537918800" lon="-90.13667004883245681412518024"/>
-  <node visible="true" id="-394" lat="29.89382184752864546339878871" lon="-90.13649362464553860263549723"/>
-  <node visible="true" id="-395" lat="29.89374652601973636478760454" lon="-90.13652526108286622275045374"/>
-  <node visible="true" id="-396" lat="29.89375844279599903074995382" lon="-90.13656300970994550425530178"/>
-  <node visible="true" id="-397" lat="29.89367914426047789788754017" lon="-90.13659631655070825217990205"/>
-  <node visible="true" id="-398" lat="29.89366714685690595842970652" lon="-90.13655831255174177840672201"/>
-  <node visible="true" id="-399" lat="29.89359830963776687440258684" lon="-90.13658722542260193222318776"/>
-  <node visible="true" id="-400" lat="29.89363800752036581798165571" lon="-90.13671297575284313552401727"/>
+  <node visible="true" id="-387" lat="29.89259490006194752709234308" lon="-90.13622523802642660939454800"/>
+  <node visible="true" id="-388" lat="29.89264857949089559951971751" lon="-90.13620297302816197770880535"/>
+  <node visible="true" id="-389" lat="29.89265637973258549209276680" lon="-90.13622799343433200647268677"/>
+  <node visible="true" id="-390" lat="29.89270788435192471865775588" lon="-90.13620663048436654207762331"/>
+  <node visible="true" id="-391" lat="29.89269983390751050933431543" lon="-90.13618080750325134431477636"/>
+  <node visible="true" id="-392" lat="29.89275314878508282845359645" lon="-90.13615869368931043936754577"/>
+  <node visible="true" id="-393" lat="29.89271714537823498858415405" lon="-90.13604320744518361152586294"/>
+  <node visible="true" id="-394" lat="29.89255864639071802457692684" lon="-90.13610894920736882340861484"/>
   <way visible="true" id="-56">
     <nd ref="-387"/>
     <nd ref="-388"/>
@@ -1233,27 +1229,34 @@
     <nd ref="-392"/>
     <nd ref="-393"/>
     <nd ref="-394"/>
+    <nd ref="-387"/>
+    <tag k="building" v="yes"/>
+    <tag k="addr:housenumber" v="1126"/>
+    <tag k="addr:street" v="Lecompte Drive"/>
+    <tag k="addr:city" v="Westwego"/>
+    <tag k="addr:postcode" v="70094"/>
+  </way>
+  <node visible="true" id="-395" lat="29.89367841153337224113784032" lon="-90.13669600533590653412829852"/>
+  <node visible="true" id="-396" lat="29.89369495291915512780178688" lon="-90.13674840324779324873816222"/>
+  <node visible="true" id="-397" lat="29.89374121030288122824458696" lon="-90.13672897429752595144236693"/>
+  <node visible="true" id="-398" lat="29.89375493380896386952372268" lon="-90.13675530877522135142498882"/>
+  <node visible="true" id="-399" lat="29.89384381041494620490084344" lon="-90.13671797893884729546698509"/>
+  <node visible="true" id="-400" lat="29.89383439994644575676829845" lon="-90.13668816948634798791317735"/>
+  <node visible="true" id="-401" lat="29.89387754241523964537918800" lon="-90.13667004883245681412518024"/>
+  <node visible="true" id="-402" lat="29.89382184752864546339878871" lon="-90.13649362464553860263549723"/>
+  <node visible="true" id="-403" lat="29.89374652601973636478760454" lon="-90.13652526108286622275045374"/>
+  <node visible="true" id="-404" lat="29.89375844279599903074995382" lon="-90.13656300970994550425530178"/>
+  <node visible="true" id="-405" lat="29.89367914426047789788754017" lon="-90.13659631655070825217990205"/>
+  <node visible="true" id="-406" lat="29.89366714685690595842970652" lon="-90.13655831255174177840672201"/>
+  <node visible="true" id="-407" lat="29.89359830963776687440258684" lon="-90.13658722542260193222318776"/>
+  <node visible="true" id="-408" lat="29.89363800752036581798165571" lon="-90.13671297575284313552401727"/>
+  <way visible="true" id="-57">
     <nd ref="-395"/>
     <nd ref="-396"/>
     <nd ref="-397"/>
     <nd ref="-398"/>
     <nd ref="-399"/>
     <nd ref="-400"/>
-    <nd ref="-387"/>
-    <tag k="building" v="yes"/>
-    <tag k="addr:street" v="Barbe Street"/>
-    <tag k="addr:city" v="Westwego"/>
-    <tag k="addr:postcode" v="70094"/>
-  </way>
-  <node visible="true" id="-401" lat="29.89259490006194752709234308" lon="-90.13622523802642660939454800"/>
-  <node visible="true" id="-402" lat="29.89264857949089559951971751" lon="-90.13620297302816197770880535"/>
-  <node visible="true" id="-403" lat="29.89265637973258549209276680" lon="-90.13622799343433200647268677"/>
-  <node visible="true" id="-404" lat="29.89270788435192471865775588" lon="-90.13620663048436654207762331"/>
-  <node visible="true" id="-405" lat="29.89269983390751050933431543" lon="-90.13618080750325134431477636"/>
-  <node visible="true" id="-406" lat="29.89275314878508282845359645" lon="-90.13615869368931043936754577"/>
-  <node visible="true" id="-407" lat="29.89271714537823498858415405" lon="-90.13604320744518361152586294"/>
-  <node visible="true" id="-408" lat="29.89255864639071802457692684" lon="-90.13610894920736882340861484"/>
-  <way visible="true" id="-57">
     <nd ref="-401"/>
     <nd ref="-402"/>
     <nd ref="-403"/>
@@ -1262,10 +1265,9 @@
     <nd ref="-406"/>
     <nd ref="-407"/>
     <nd ref="-408"/>
-    <nd ref="-401"/>
+    <nd ref="-395"/>
     <tag k="building" v="yes"/>
-    <tag k="addr:housenumber" v="1126"/>
-    <tag k="addr:street" v="Lecompte Drive"/>
+    <tag k="addr:street" v="Barbe Street"/>
     <tag k="addr:city" v="Westwego"/>
     <tag k="addr:postcode" v="70094"/>
   </way>

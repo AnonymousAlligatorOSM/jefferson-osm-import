@@ -1,12 +1,14 @@
 <?xml version='1.0' encoding='utf8'?>
-<osm version="0.6" generator="AnonymousAlligator's import script">
-  <changeset_tag k="comment" v="Import buildings and addresses in Jefferson Parish, see https://wiki.openstreetmap.org/wiki/Import/Catalogue/Jefferson_Parish_Addresses_and_Buildings"/>
-  <changeset_tag k="source" v="Jefferson Parish Planning Department"/>
-  <changeset_tag k="source_file" v="8184_13603"/>
-  <node visible="true" id="-1" lat="29.19328720239442631623205671" lon="-90.07845054382809735216142144"/>
-  <node visible="true" id="-2" lat="29.19322330227577566574836965" lon="-90.07839564582789648738980759"/>
-  <node visible="true" id="-3" lat="29.19312470329025543946954713" lon="-90.07854624034173696145444410"/>
-  <node visible="true" id="-4" lat="29.19318860347035737845544645" lon="-90.07860113834193782622605795"/>
+<osm version="0.6" generator="AnonymousAlligator's import script" upload-changeset="-1">
+  <changeset id="-1">
+    <tag k="comment" v="Import buildings and addresses in Jefferson Parish, see https://wiki.openstreetmap.org/wiki/Import/Catalogue/Jefferson_Parish_Addresses_and_Buildings"/>
+    <tag k="source" v="Jefferson Parish Planning Department"/>
+    <tag k="source_file" v="change-8184_13603.osm"/>
+  </changeset>
+  <node visible="true" id="-1" lat="29.19355150197888448815319862" lon="-90.07824618699761742846021662"/>
+  <node visible="true" id="-2" lat="29.19349332025784704569559835" lon="-90.07820232510994173935614526"/>
+  <node visible="true" id="-3" lat="29.19344219508922577688281308" lon="-90.07829131239117259610793553"/>
+  <node visible="true" id="-4" lat="29.19350037683927112652781943" lon="-90.07833517427886249606672209"/>
   <way visible="true" id="-1">
     <nd ref="-1"/>
     <nd ref="-2"/>
@@ -18,14 +20,12 @@
     <tag k="addr:city" v="Grand Isle"/>
     <tag k="addr:postcode" v="70358"/>
   </way>
-  <node visible="true" id="-5" lat="29.19397437738068035173455428" lon="-90.07710449267806041007133899"/>
-  <node visible="true" id="-6" lat="29.19391136763341165760721196" lon="-90.07704832229434543933166424"/>
-  <node visible="true" id="-7" lat="29.19388050707679838069452671" lon="-90.07709374799513568632391980"/>
-  <node visible="true" id="-8" lat="29.19387431809083466305310139" lon="-90.07708823079330784366902662"/>
-  <node visible="true" id="-9" lat="29.19386468561927472364914138" lon="-90.07710240946362034719641088"/>
-  <node visible="true" id="-10" lat="29.19387087382482093289581826" lon="-90.07710792596924420649884269"/>
-  <node visible="true" id="-11" lat="29.19381525887688866305325064" lon="-90.07718978925873898333520629"/>
-  <node visible="true" id="-12" lat="29.19387826946417519025089859" lon="-90.07724596033864372657262720"/>
+  <node visible="true" id="-5" lat="29.19429075342642221357891685" lon="-90.07829084064630364991899114"/>
+  <node visible="true" id="-6" lat="29.19417547742257568188506411" lon="-90.07820221555297734994383063"/>
+  <node visible="true" id="-7" lat="29.19408861986669379007253156" lon="-90.07835046380267840504529886"/>
+  <node visible="true" id="-8" lat="29.19410781634887541713396786" lon="-90.07836522218889285795739852"/>
+  <node visible="true" id="-9" lat="29.19406498176358155660636839" lon="-90.07843833211479989131476032"/>
+  <node visible="true" id="-10" lat="29.19416106142300648684795306" lon="-90.07851219882189752752310596"/>
   <way visible="true" id="-2">
     <nd ref="-5"/>
     <nd ref="-6"/>
@@ -33,103 +33,105 @@
     <nd ref="-8"/>
     <nd ref="-9"/>
     <nd ref="-10"/>
-    <nd ref="-11"/>
-    <nd ref="-12"/>
     <nd ref="-5"/>
-    <tag k="building" v="yes"/>
-    <tag k="addr:street" v="Rush Lane"/>
-    <tag k="addr:city" v="Grand Isle"/>
-    <tag k="addr:postcode" v="70358"/>
-  </way>
-  <node visible="true" id="-13" lat="29.19355150197888448815319862" lon="-90.07824618699761742846021662"/>
-  <node visible="true" id="-14" lat="29.19349332025784704569559835" lon="-90.07820232510994173935614526"/>
-  <node visible="true" id="-15" lat="29.19344219508922577688281308" lon="-90.07829131239117259610793553"/>
-  <node visible="true" id="-16" lat="29.19350037683927112652781943" lon="-90.07833517427886249606672209"/>
-  <way visible="true" id="-3">
-    <nd ref="-13"/>
-    <nd ref="-14"/>
-    <nd ref="-15"/>
-    <nd ref="-16"/>
-    <nd ref="-13"/>
-    <tag k="building" v="yes"/>
-    <tag k="addr:street" v="Romes Lane"/>
-    <tag k="addr:city" v="Grand Isle"/>
-    <tag k="addr:postcode" v="70358"/>
-  </way>
-  <node visible="true" id="-17" lat="29.19429075342642221357891685" lon="-90.07829084064630364991899114"/>
-  <node visible="true" id="-18" lat="29.19417547742257568188506411" lon="-90.07820221555297734994383063"/>
-  <node visible="true" id="-19" lat="29.19408861986669379007253156" lon="-90.07835046380267840504529886"/>
-  <node visible="true" id="-20" lat="29.19410781634887541713396786" lon="-90.07836522218889285795739852"/>
-  <node visible="true" id="-21" lat="29.19406498176358155660636839" lon="-90.07843833211479989131476032"/>
-  <node visible="true" id="-22" lat="29.19416106142300648684795306" lon="-90.07851219882189752752310596"/>
-  <way visible="true" id="-4">
-    <nd ref="-17"/>
-    <nd ref="-18"/>
-    <nd ref="-19"/>
-    <nd ref="-20"/>
-    <nd ref="-21"/>
-    <nd ref="-22"/>
-    <nd ref="-17"/>
     <tag k="building" v="yes"/>
     <tag k="addr:street" v="Tiger Lane"/>
     <tag k="addr:city" v="Grand Isle"/>
     <tag k="addr:postcode" v="70358"/>
   </way>
-  <node visible="true" id="-23" lat="29.19365268619383257941990450" lon="-90.07730532730656136664038058"/>
-  <node visible="true" id="-24" lat="29.19359410796272769061943109" lon="-90.07725353450122440790437395"/>
-  <node visible="true" id="-25" lat="29.19349577044530619218676293" lon="-90.07739947665530166887037922"/>
-  <node visible="true" id="-26" lat="29.19355434873262922224057547" lon="-90.07745126946068126017053146"/>
+  <node visible="true" id="-11" lat="29.19365268619383257941990450" lon="-90.07730532730656136664038058"/>
+  <node visible="true" id="-12" lat="29.19359410796272769061943109" lon="-90.07725353450122440790437395"/>
+  <node visible="true" id="-13" lat="29.19349577044530619218676293" lon="-90.07739947665530166887037922"/>
+  <node visible="true" id="-14" lat="29.19355434873262922224057547" lon="-90.07745126946068126017053146"/>
+  <way visible="true" id="-3">
+    <nd ref="-11"/>
+    <nd ref="-12"/>
+    <nd ref="-13"/>
+    <nd ref="-14"/>
+    <nd ref="-11"/>
+    <tag k="building" v="yes"/>
+    <tag k="addr:street" v="Tiger Lane"/>
+    <tag k="addr:city" v="Grand Isle"/>
+    <tag k="addr:postcode" v="70358"/>
+  </way>
+  <node visible="true" id="-15" lat="29.19384777341650760718039237" lon="-90.07758421501333145897660870"/>
+  <node visible="true" id="-16" lat="29.19379588208423115247569513" lon="-90.07754018380126126430695876"/>
+  <node visible="true" id="-17" lat="29.19374276525782008206988394" lon="-90.07762232533062274342228193"/>
+  <node visible="true" id="-18" lat="29.19379465661699768475045857" lon="-90.07766635654269293809193186"/>
+  <way visible="true" id="-4">
+    <nd ref="-15"/>
+    <nd ref="-16"/>
+    <nd ref="-17"/>
+    <nd ref="-18"/>
+    <nd ref="-15"/>
+    <tag k="building" v="yes"/>
+    <tag k="addr:street" v="Tiger Lane"/>
+    <tag k="addr:city" v="Grand Isle"/>
+    <tag k="addr:postcode" v="70358"/>
+  </way>
+  <node visible="true" id="-19" lat="29.19444687531758120258018607" lon="-90.07796076985438560313923517"/>
+  <node visible="true" id="-20" lat="29.19436871500258945388850407" lon="-90.07790849163767177287809318"/>
+  <node visible="true" id="-21" lat="29.19428206822511739915171347" lon="-90.07807848003258754943090025"/>
+  <node visible="true" id="-22" lat="29.19436022860615054241861799" lon="-90.07813075824925874712789664"/>
   <way visible="true" id="-5">
+    <nd ref="-19"/>
+    <nd ref="-20"/>
+    <nd ref="-21"/>
+    <nd ref="-22"/>
+    <nd ref="-19"/>
+    <tag k="building" v="yes"/>
+    <tag k="addr:street" v="Tiger Lane"/>
+    <tag k="addr:city" v="Grand Isle"/>
+    <tag k="addr:postcode" v="70358"/>
+  </way>
+  <node visible="true" id="-23" lat="29.19456425034914559546450619" lon="-90.07759304382575749059469672"/>
+  <node visible="true" id="-24" lat="29.19448519983314582759703626" lon="-90.07753541874501479469472542"/>
+  <node visible="true" id="-25" lat="29.19438643602388339104436454" lon="-90.07771320299285378041531658"/>
+  <node visible="true" id="-26" lat="29.19446548661601070762117160" lon="-90.07777082807361068717000308"/>
+  <way visible="true" id="-6">
     <nd ref="-23"/>
     <nd ref="-24"/>
     <nd ref="-25"/>
     <nd ref="-26"/>
     <nd ref="-23"/>
     <tag k="building" v="yes"/>
-    <tag k="addr:street" v="Tiger Lane"/>
+    <tag k="addr:street" v="Rush Lane"/>
     <tag k="addr:city" v="Grand Isle"/>
     <tag k="addr:postcode" v="70358"/>
   </way>
-  <node visible="true" id="-27" lat="29.19384777341650760718039237" lon="-90.07758421501333145897660870"/>
-  <node visible="true" id="-28" lat="29.19379588208423115247569513" lon="-90.07754018380126126430695876"/>
-  <node visible="true" id="-29" lat="29.19374276525782008206988394" lon="-90.07762232533062274342228193"/>
-  <node visible="true" id="-30" lat="29.19379465661699768475045857" lon="-90.07766635654269293809193186"/>
-  <way visible="true" id="-6">
+  <node visible="true" id="-27" lat="29.19328720239442631623205671" lon="-90.07845054382809735216142144"/>
+  <node visible="true" id="-28" lat="29.19322330227577566574836965" lon="-90.07839564582789648738980759"/>
+  <node visible="true" id="-29" lat="29.19312470329025543946954713" lon="-90.07854624034173696145444410"/>
+  <node visible="true" id="-30" lat="29.19318860347035737845544645" lon="-90.07860113834193782622605795"/>
+  <way visible="true" id="-7">
     <nd ref="-27"/>
     <nd ref="-28"/>
     <nd ref="-29"/>
     <nd ref="-30"/>
     <nd ref="-27"/>
     <tag k="building" v="yes"/>
-    <tag k="addr:street" v="Tiger Lane"/>
+    <tag k="addr:street" v="Romes Lane"/>
     <tag k="addr:city" v="Grand Isle"/>
     <tag k="addr:postcode" v="70358"/>
   </way>
-  <node visible="true" id="-31" lat="29.19444687531758120258018607" lon="-90.07796076985438560313923517"/>
-  <node visible="true" id="-32" lat="29.19436871500258945388850407" lon="-90.07790849163767177287809318"/>
-  <node visible="true" id="-33" lat="29.19428206822511739915171347" lon="-90.07807848003258754943090025"/>
-  <node visible="true" id="-34" lat="29.19436022860615054241861799" lon="-90.07813075824925874712789664"/>
-  <way visible="true" id="-7">
+  <node visible="true" id="-31" lat="29.19397437738068035173455428" lon="-90.07710449267806041007133899"/>
+  <node visible="true" id="-32" lat="29.19391136763341165760721196" lon="-90.07704832229434543933166424"/>
+  <node visible="true" id="-33" lat="29.19388050707679838069452671" lon="-90.07709374799513568632391980"/>
+  <node visible="true" id="-34" lat="29.19387431809083466305310139" lon="-90.07708823079330784366902662"/>
+  <node visible="true" id="-35" lat="29.19386468561927472364914138" lon="-90.07710240946362034719641088"/>
+  <node visible="true" id="-36" lat="29.19387087382482093289581826" lon="-90.07710792596924420649884269"/>
+  <node visible="true" id="-37" lat="29.19381525887688866305325064" lon="-90.07718978925873898333520629"/>
+  <node visible="true" id="-38" lat="29.19387826946417519025089859" lon="-90.07724596033864372657262720"/>
+  <way visible="true" id="-8">
     <nd ref="-31"/>
     <nd ref="-32"/>
     <nd ref="-33"/>
     <nd ref="-34"/>
-    <nd ref="-31"/>
-    <tag k="building" v="yes"/>
-    <tag k="addr:street" v="Tiger Lane"/>
-    <tag k="addr:city" v="Grand Isle"/>
-    <tag k="addr:postcode" v="70358"/>
-  </way>
-  <node visible="true" id="-35" lat="29.19456425034914559546450619" lon="-90.07759304382575749059469672"/>
-  <node visible="true" id="-36" lat="29.19448519983314582759703626" lon="-90.07753541874501479469472542"/>
-  <node visible="true" id="-37" lat="29.19438643602388339104436454" lon="-90.07771320299285378041531658"/>
-  <node visible="true" id="-38" lat="29.19446548661601070762117160" lon="-90.07777082807361068717000308"/>
-  <way visible="true" id="-8">
     <nd ref="-35"/>
     <nd ref="-36"/>
     <nd ref="-37"/>
     <nd ref="-38"/>
-    <nd ref="-35"/>
+    <nd ref="-31"/>
     <tag k="building" v="yes"/>
     <tag k="addr:street" v="Rush Lane"/>
     <tag k="addr:city" v="Grand Isle"/>

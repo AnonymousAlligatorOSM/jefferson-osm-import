@@ -1,78 +1,80 @@
 <?xml version='1.0' encoding='utf8'?>
-<osm version="0.6" generator="AnonymousAlligator's import script">
-  <changeset_tag k="comment" v="Import buildings and addresses in Jefferson Parish, see https://wiki.openstreetmap.org/wiki/Import/Catalogue/Jefferson_Parish_Addresses_and_Buildings"/>
-  <changeset_tag k="source" v="Jefferson Parish Planning Department"/>
-  <changeset_tag k="source_file" v="8180_13519"/>
-  <node visible="true" id="-1" lat="29.99516648027844567536703835" lon="-90.12445465009299994108005194"/>
-  <node visible="true" id="-2" lat="29.99517107604269128273699607" lon="-90.12454259580795223882887512"/>
-  <node visible="true" id="-3" lat="29.99510684948676342287399166" lon="-90.12454707040565438092016848"/>
-  <node visible="true" id="-4" lat="29.99511033831024775508922176" lon="-90.12461383338211362570291385"/>
-  <node visible="true" id="-5" lat="29.99523744861496510338838561" lon="-90.12460497773555800904432544"/>
-  <node visible="true" id="-6" lat="29.99523778091722903127447353" lon="-90.12461133676376334733504336"/>
-  <node visible="true" id="-7" lat="29.99525692647990737782492943" lon="-90.12461000291074242340982892"/>
-  <node visible="true" id="-8" lat="29.99525639627892914518270118" lon="-90.12459985683469199102546554"/>
-  <node visible="true" id="-9" lat="29.99530859458692333419094211" lon="-90.12459622022730343360308325"/>
-  <node visible="true" id="-10" lat="29.99530070791176328270921658" lon="-90.12444529858370856345572975"/>
-  <way visible="true" id="-1">
-    <nd ref="-1"/>
-    <nd ref="-2"/>
-    <nd ref="-3"/>
-    <nd ref="-4"/>
-    <nd ref="-5"/>
-    <nd ref="-6"/>
-    <nd ref="-7"/>
-    <nd ref="-8"/>
-    <nd ref="-9"/>
-    <nd ref="-10"/>
-    <nd ref="-1"/>
-    <tag k="building" v="yes"/>
-    <tag k="addr:housenumber" v="108"/>
-    <tag k="addr:street" v="HollyGrove Avenue"/>
-    <tag k="addr:city" v="Metairie"/>
-    <tag k="addr:postcode" v="70005"/>
-  </way>
-  <node visible="true" id="-11" lat="29.99320341923016286500569549" lon="-90.13090249289179212155431742">
+<osm version="0.6" generator="AnonymousAlligator's import script" upload-changeset="-1">
+  <changeset id="-1">
+    <tag k="comment" v="Import buildings and addresses in Jefferson Parish, see https://wiki.openstreetmap.org/wiki/Import/Catalogue/Jefferson_Parish_Addresses_and_Buildings"/>
+    <tag k="source" v="Jefferson Parish Planning Department"/>
+    <tag k="source_file" v="change-8180_13519.osm"/>
+  </changeset>
+  <node visible="true" id="-1" lat="29.99320341923016286500569549" lon="-90.13090249289179212155431742">
     <tag k="addr:housenumber" v="800"/>
     <tag k="addr:street" v="Rue Burgundy Drive"/>
     <tag k="addr:city" v="Metairie"/>
     <tag k="addr:postcode" v="70005"/>
     <tag k="addr:unit" v="315-325"/>
   </node>
-  <node visible="true" id="-12" lat="29.99302577848382256320292072" lon="-90.13039517422093638288060902">
+  <node visible="true" id="-2" lat="29.99302577848382256320292072" lon="-90.13039517422093638288060902">
     <tag k="addr:housenumber" v="401"/>
     <tag k="addr:street" v="Rue SaintPeter"/>
     <tag k="addr:city" v="Metairie"/>
     <tag k="addr:postcode" v="70005"/>
     <tag k="addr:unit" v="326-334"/>
   </node>
-  <node visible="true" id="-13" lat="29.99319602369184423196202260" lon="-90.13079246121888843390479451">
+  <node visible="true" id="-3" lat="29.99319602369184423196202260" lon="-90.13079246121888843390479451">
     <tag k="addr:housenumber" v="800"/>
     <tag k="addr:street" v="Rue Burgundy Drive"/>
     <tag k="addr:city" v="Metairie"/>
     <tag k="addr:postcode" v="70005"/>
     <tag k="addr:unit" v="115-119"/>
   </node>
-  <node visible="true" id="-14" lat="29.99319975545131100602702645" lon="-90.13085114733810598863783525">
+  <node visible="true" id="-4" lat="29.99319975545131100602702645" lon="-90.13085114733810598863783525">
     <tag k="addr:housenumber" v="800"/>
     <tag k="addr:street" v="Rue Burgundy Drive"/>
     <tag k="addr:city" v="Metairie"/>
     <tag k="addr:postcode" v="70005"/>
     <tag k="addr:unit" v="215-225"/>
   </node>
-  <node visible="true" id="-15" lat="29.99316730399842967358381429" lon="-90.13079647765486868138395948">
+  <node visible="true" id="-5" lat="29.99316730399842967358381429" lon="-90.13079647765486868138395948">
     <tag k="addr:housenumber" v="800"/>
     <tag k="addr:street" v="Rue Burgundy Drive"/>
     <tag k="addr:city" v="Metairie"/>
     <tag k="addr:postcode" v="70005"/>
     <tag k="addr:unit" v="121-125"/>
   </node>
-  <node visible="true" id="-16" lat="29.99322098279422377231639985" lon="-90.13071465644061674993281486">
+  <node visible="true" id="-6" lat="29.99322098279422377231639985" lon="-90.13071465644061674993281486">
     <tag k="addr:housenumber" v="800"/>
     <tag k="addr:street" v="Rue Burgundy Drive"/>
     <tag k="addr:city" v="Metairie"/>
     <tag k="addr:postcode" v="70005"/>
     <tag k="addr:unit" v="121"/>
   </node>
+  <node visible="true" id="-7" lat="29.99516648027844567536703835" lon="-90.12445465009299994108005194"/>
+  <node visible="true" id="-8" lat="29.99517107604269128273699607" lon="-90.12454259580795223882887512"/>
+  <node visible="true" id="-9" lat="29.99510684948676342287399166" lon="-90.12454707040565438092016848"/>
+  <node visible="true" id="-10" lat="29.99511033831024775508922176" lon="-90.12461383338211362570291385"/>
+  <node visible="true" id="-11" lat="29.99523744861496510338838561" lon="-90.12460497773555800904432544"/>
+  <node visible="true" id="-12" lat="29.99523778091722903127447353" lon="-90.12461133676376334733504336"/>
+  <node visible="true" id="-13" lat="29.99525692647990737782492943" lon="-90.12461000291074242340982892"/>
+  <node visible="true" id="-14" lat="29.99525639627892914518270118" lon="-90.12459985683469199102546554"/>
+  <node visible="true" id="-15" lat="29.99530859458692333419094211" lon="-90.12459622022730343360308325"/>
+  <node visible="true" id="-16" lat="29.99530070791176328270921658" lon="-90.12444529858370856345572975"/>
+  <way visible="true" id="-1">
+    <nd ref="-7"/>
+    <nd ref="-8"/>
+    <nd ref="-9"/>
+    <nd ref="-10"/>
+    <nd ref="-11"/>
+    <nd ref="-12"/>
+    <nd ref="-13"/>
+    <nd ref="-14"/>
+    <nd ref="-15"/>
+    <nd ref="-16"/>
+    <nd ref="-7"/>
+    <tag k="building" v="yes"/>
+    <tag k="addr:housenumber" v="108"/>
+    <tag k="addr:street" v="HollyGrove Avenue"/>
+    <tag k="addr:city" v="Metairie"/>
+    <tag k="addr:postcode" v="70005"/>
+  </way>
   <node visible="true" id="-17" lat="29.99683594613548009988335252" lon="-90.12545741573838142812746810"/>
   <node visible="true" id="-18" lat="29.99667182153521594045741949" lon="-90.12546865226099157553107943"/>
   <node visible="true" id="-19" lat="29.99667409718786359462683322" lon="-90.12551296797006727956613759"/>

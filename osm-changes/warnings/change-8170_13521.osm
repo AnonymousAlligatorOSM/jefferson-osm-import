@@ -1,8 +1,10 @@
 <?xml version='1.0' encoding='utf8'?>
-<osm version="0.6" generator="AnonymousAlligator's import script">
-  <changeset_tag k="comment" v="Import buildings and addresses in Jefferson Parish, see https://wiki.openstreetmap.org/wiki/Import/Catalogue/Jefferson_Parish_Addresses_and_Buildings"/>
-  <changeset_tag k="source" v="Jefferson Parish Planning Department"/>
-  <changeset_tag k="source_file" v="8170_13521"/>
+<osm version="0.6" generator="AnonymousAlligator's import script" upload-changeset="-1">
+  <changeset id="-1">
+    <tag k="comment" v="Import buildings and addresses in Jefferson Parish, see https://wiki.openstreetmap.org/wiki/Import/Catalogue/Jefferson_Parish_Addresses_and_Buildings"/>
+    <tag k="source" v="Jefferson Parish Planning Department"/>
+    <tag k="source_file" v="change-8170_13521.osm"/>
+  </changeset>
   <node visible="true" id="-1" lat="29.97444098221114927582675591" lon="-90.23262647051615203963592649">
     <tag k="addr:housenumber" v="716"/>
     <tag k="addr:street" v="South Starrett Road"/>
@@ -81,47 +83,39 @@
     <tag k="addr:city" v="River Ridge"/>
     <tag k="addr:postcode" v="70123"/>
   </node>
-  <node visible="true" id="-14" lat="29.97692763568223739412133000" lon="-90.23064084153621422501601046"/>
-  <node visible="true" id="-15" lat="29.97686317802719813130352122" lon="-90.23067664473298066241113702"/>
-  <node visible="true" id="-16" lat="29.97694045253161476694003795" lon="-90.23086205149152760895958636"/>
-  <node visible="true" id="-17" lat="29.97700491013650747618157766" lon="-90.23082624829477538241917500"/>
+  <node visible="true" id="-14" lat="29.97653511460942254984729516" lon="-90.23093576540887283954361919"/>
+  <node visible="true" id="-15" lat="29.97647315084998709266983496" lon="-90.23097011992797433777013794"/>
+  <node visible="true" id="-16" lat="29.97651180731814690716419136" lon="-90.23106303992653920431621373"/>
+  <node visible="true" id="-17" lat="29.97653985138880372574021749" lon="-90.23104749147080383409047499"/>
+  <node visible="true" id="-18" lat="29.97654387749533455576056440" lon="-90.23105716917845597890845966"/>
+  <node visible="true" id="-19" lat="29.97656038946337275774567388" lon="-90.23104801445641953705489868"/>
+  <node visible="true" id="-20" lat="29.97655694176704344044992467" lon="-90.23103972709431275234237546"/>
+  <node visible="true" id="-21" lat="29.97657434946293264488303976" lon="-90.23103007575299727704987163"/>
   <way visible="true" id="-1">
     <nd ref="-14"/>
     <nd ref="-15"/>
     <nd ref="-16"/>
     <nd ref="-17"/>
-    <nd ref="-14"/>
-    <tag k="building" v="yes"/>
-    <tag k="addr:housenumber" v="1033"/>
-    <tag k="addr:street" v="South Starrett Road"/>
-    <tag k="addr:city" v="Metairie"/>
-    <tag k="addr:postcode" v="70003"/>
-  </way>
-  <node visible="true" id="-18" lat="29.97682463547236864087608410" lon="-90.23073908650262353603466181"/>
-  <node visible="true" id="-19" lat="29.97675624911637015657106531" lon="-90.23077696538894088007509708"/>
-  <node visible="true" id="-20" lat="29.97681672806920616380921274" lon="-90.23092248187457187214022269"/>
-  <node visible="true" id="-21" lat="29.97688511438354908023029566" lon="-90.23088460298828294980921783"/>
-  <way visible="true" id="-2">
     <nd ref="-18"/>
     <nd ref="-19"/>
     <nd ref="-20"/>
     <nd ref="-21"/>
-    <nd ref="-18"/>
+    <nd ref="-14"/>
     <tag k="building" v="yes"/>
-    <tag k="addr:housenumber" v="1027"/>
+    <tag k="addr:housenumber" v="1013"/>
     <tag k="addr:street" v="South Starrett Road"/>
     <tag k="addr:city" v="Metairie"/>
     <tag k="addr:postcode" v="70003"/>
   </way>
-  <node visible="true" id="-22" lat="29.97672305938417380843930005" lon="-90.23072185817702006715990137"/>
-  <node visible="true" id="-23" lat="29.97667850530597632996432367" lon="-90.23074598622868336406099843"/>
-  <node visible="true" id="-24" lat="29.97669420430323583559584222" lon="-90.23078462043245906443189597"/>
-  <node visible="true" id="-25" lat="29.97667397683102308292291127" lon="-90.23079557452314247711910866"/>
-  <node visible="true" id="-26" lat="29.97673618817909613198935403" lon="-90.23094867260394380537036341"/>
-  <node visible="true" id="-27" lat="29.97677416728130950218655926" lon="-90.23092810518839712585759116"/>
-  <node visible="true" id="-28" lat="29.97679674649736014657719352" lon="-90.23098367121535545720689697"/>
-  <node visible="true" id="-29" lat="29.97682354889197853253790527" lon="-90.23096915648854121627664426"/>
-  <way visible="true" id="-3">
+  <node visible="true" id="-22" lat="29.97642479545584492939269694" lon="-90.23090354014880176691804081"/>
+  <node visible="true" id="-23" lat="29.97635529447683566672822053" lon="-90.23094141473066542857850436"/>
+  <node visible="true" id="-24" lat="29.97642445035705804912140593" lon="-90.23111053839400597098574508"/>
+  <node visible="true" id="-25" lat="29.97645854493576322852277372" lon="-90.23109195853226083272602409"/>
+  <node visible="true" id="-26" lat="29.97648231542785879355506040" lon="-90.23115009033458022713602986"/>
+  <node visible="true" id="-27" lat="29.97650858378816707272562780" lon="-90.23113577536759066788363270"/>
+  <node visible="true" id="-28" lat="29.97648484437238636246547685" lon="-90.23107771954842348804959329"/>
+  <node visible="true" id="-29" lat="29.97649398235771300846863596" lon="-90.23107273979528031304653268"/>
+  <way visible="true" id="-2">
     <nd ref="-22"/>
     <nd ref="-23"/>
     <nd ref="-24"/>
@@ -132,71 +126,79 @@
     <nd ref="-29"/>
     <nd ref="-22"/>
     <tag k="building" v="yes"/>
-    <tag k="addr:housenumber" v="1023"/>
-    <tag k="addr:street" v="South Starrett Road"/>
-    <tag k="addr:city" v="Metairie"/>
-    <tag k="addr:postcode" v="70003"/>
-  </way>
-  <node visible="true" id="-30" lat="29.97653511460942254984729516" lon="-90.23093576540887283954361919"/>
-  <node visible="true" id="-31" lat="29.97647315084998709266983496" lon="-90.23097011992797433777013794"/>
-  <node visible="true" id="-32" lat="29.97651180731814690716419136" lon="-90.23106303992653920431621373"/>
-  <node visible="true" id="-33" lat="29.97653985138880372574021749" lon="-90.23104749147080383409047499"/>
-  <node visible="true" id="-34" lat="29.97654387749533455576056440" lon="-90.23105716917845597890845966"/>
-  <node visible="true" id="-35" lat="29.97656038946337275774567388" lon="-90.23104801445641953705489868"/>
-  <node visible="true" id="-36" lat="29.97655694176704344044992467" lon="-90.23103972709431275234237546"/>
-  <node visible="true" id="-37" lat="29.97657434946293264488303976" lon="-90.23103007575299727704987163"/>
-  <way visible="true" id="-4">
-    <nd ref="-30"/>
-    <nd ref="-31"/>
-    <nd ref="-32"/>
-    <nd ref="-33"/>
-    <nd ref="-34"/>
-    <nd ref="-35"/>
-    <nd ref="-36"/>
-    <nd ref="-37"/>
-    <nd ref="-30"/>
-    <tag k="building" v="yes"/>
-    <tag k="addr:housenumber" v="1013"/>
-    <tag k="addr:street" v="South Starrett Road"/>
-    <tag k="addr:city" v="Metairie"/>
-    <tag k="addr:postcode" v="70003"/>
-  </way>
-  <node visible="true" id="-38" lat="29.97642479545584492939269694" lon="-90.23090354014880176691804081"/>
-  <node visible="true" id="-39" lat="29.97635529447683566672822053" lon="-90.23094141473066542857850436"/>
-  <node visible="true" id="-40" lat="29.97642445035705804912140593" lon="-90.23111053839400597098574508"/>
-  <node visible="true" id="-41" lat="29.97645854493576322852277372" lon="-90.23109195853226083272602409"/>
-  <node visible="true" id="-42" lat="29.97648231542785879355506040" lon="-90.23115009033458022713602986"/>
-  <node visible="true" id="-43" lat="29.97650858378816707272562780" lon="-90.23113577536759066788363270"/>
-  <node visible="true" id="-44" lat="29.97648484437238636246547685" lon="-90.23107771954842348804959329"/>
-  <node visible="true" id="-45" lat="29.97649398235771300846863596" lon="-90.23107273979528031304653268"/>
-  <way visible="true" id="-5">
-    <nd ref="-38"/>
-    <nd ref="-39"/>
-    <nd ref="-40"/>
-    <nd ref="-41"/>
-    <nd ref="-42"/>
-    <nd ref="-43"/>
-    <nd ref="-44"/>
-    <nd ref="-45"/>
-    <nd ref="-38"/>
-    <tag k="building" v="yes"/>
     <tag k="addr:housenumber" v="1009"/>
     <tag k="addr:street" v="South Starrett Road"/>
     <tag k="addr:city" v="Metairie"/>
     <tag k="addr:postcode" v="70003"/>
   </way>
-  <node visible="true" id="-46" lat="29.97606522131989592594436544" lon="-90.23112873478206097388465423"/>
-  <node visible="true" id="-47" lat="29.97612975998885431749840791" lon="-90.23128322377554866307036718"/>
-  <node visible="true" id="-48" lat="29.97620650756108062751081889" lon="-90.23124049533461743521911558"/>
-  <node visible="true" id="-49" lat="29.97614196894202365228920826" lon="-90.23108600634111553517868742"/>
+  <node visible="true" id="-30" lat="29.97606522131989592594436544" lon="-90.23112873478206097388465423"/>
+  <node visible="true" id="-31" lat="29.97612975998885431749840791" lon="-90.23128322377554866307036718"/>
+  <node visible="true" id="-32" lat="29.97620650756108062751081889" lon="-90.23124049533461743521911558"/>
+  <node visible="true" id="-33" lat="29.97614196894202365228920826" lon="-90.23108600634111553517868742"/>
+  <way visible="true" id="-3">
+    <nd ref="-30"/>
+    <nd ref="-31"/>
+    <nd ref="-32"/>
+    <nd ref="-33"/>
+    <nd ref="-30"/>
+    <tag k="building" v="yes"/>
+    <tag k="addr:housenumber" v="927"/>
+    <tag k="addr:street" v="South Starrett Road"/>
+    <tag k="addr:city" v="Metairie"/>
+    <tag k="addr:postcode" v="70003"/>
+  </way>
+  <node visible="true" id="-34" lat="29.97692763568223739412133000" lon="-90.23064084153621422501601046"/>
+  <node visible="true" id="-35" lat="29.97686317802719813130352122" lon="-90.23067664473298066241113702"/>
+  <node visible="true" id="-36" lat="29.97694045253161476694003795" lon="-90.23086205149152760895958636"/>
+  <node visible="true" id="-37" lat="29.97700491013650747618157766" lon="-90.23082624829477538241917500"/>
+  <way visible="true" id="-4">
+    <nd ref="-34"/>
+    <nd ref="-35"/>
+    <nd ref="-36"/>
+    <nd ref="-37"/>
+    <nd ref="-34"/>
+    <tag k="building" v="yes"/>
+    <tag k="addr:housenumber" v="1033"/>
+    <tag k="addr:street" v="South Starrett Road"/>
+    <tag k="addr:city" v="Metairie"/>
+    <tag k="addr:postcode" v="70003"/>
+  </way>
+  <node visible="true" id="-38" lat="29.97682463547236864087608410" lon="-90.23073908650262353603466181"/>
+  <node visible="true" id="-39" lat="29.97675624911637015657106531" lon="-90.23077696538894088007509708"/>
+  <node visible="true" id="-40" lat="29.97681672806920616380921274" lon="-90.23092248187457187214022269"/>
+  <node visible="true" id="-41" lat="29.97688511438354908023029566" lon="-90.23088460298828294980921783"/>
+  <way visible="true" id="-5">
+    <nd ref="-38"/>
+    <nd ref="-39"/>
+    <nd ref="-40"/>
+    <nd ref="-41"/>
+    <nd ref="-38"/>
+    <tag k="building" v="yes"/>
+    <tag k="addr:housenumber" v="1027"/>
+    <tag k="addr:street" v="South Starrett Road"/>
+    <tag k="addr:city" v="Metairie"/>
+    <tag k="addr:postcode" v="70003"/>
+  </way>
+  <node visible="true" id="-42" lat="29.97672305938417380843930005" lon="-90.23072185817702006715990137"/>
+  <node visible="true" id="-43" lat="29.97667850530597632996432367" lon="-90.23074598622868336406099843"/>
+  <node visible="true" id="-44" lat="29.97669420430323583559584222" lon="-90.23078462043245906443189597"/>
+  <node visible="true" id="-45" lat="29.97667397683102308292291127" lon="-90.23079557452314247711910866"/>
+  <node visible="true" id="-46" lat="29.97673618817909613198935403" lon="-90.23094867260394380537036341"/>
+  <node visible="true" id="-47" lat="29.97677416728130950218655926" lon="-90.23092810518839712585759116"/>
+  <node visible="true" id="-48" lat="29.97679674649736014657719352" lon="-90.23098367121535545720689697"/>
+  <node visible="true" id="-49" lat="29.97682354889197853253790527" lon="-90.23096915648854121627664426"/>
   <way visible="true" id="-6">
+    <nd ref="-42"/>
+    <nd ref="-43"/>
+    <nd ref="-44"/>
+    <nd ref="-45"/>
     <nd ref="-46"/>
     <nd ref="-47"/>
     <nd ref="-48"/>
     <nd ref="-49"/>
-    <nd ref="-46"/>
+    <nd ref="-42"/>
     <tag k="building" v="yes"/>
-    <tag k="addr:housenumber" v="927"/>
+    <tag k="addr:housenumber" v="1023"/>
     <tag k="addr:street" v="South Starrett Road"/>
     <tag k="addr:city" v="Metairie"/>
     <tag k="addr:postcode" v="70003"/>

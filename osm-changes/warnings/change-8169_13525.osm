@@ -1,8 +1,10 @@
 <?xml version='1.0' encoding='utf8'?>
-<osm version="0.6" generator="AnonymousAlligator's import script">
-  <changeset_tag k="comment" v="Import buildings and addresses in Jefferson Parish, see https://wiki.openstreetmap.org/wiki/Import/Catalogue/Jefferson_Parish_Addresses_and_Buildings"/>
-  <changeset_tag k="source" v="Jefferson Parish Planning Department"/>
-  <changeset_tag k="source_file" v="8169_13525"/>
+<osm version="0.6" generator="AnonymousAlligator's import script" upload-changeset="-1">
+  <changeset id="-1">
+    <tag k="comment" v="Import buildings and addresses in Jefferson Parish, see https://wiki.openstreetmap.org/wiki/Import/Catalogue/Jefferson_Parish_Addresses_and_Buildings"/>
+    <tag k="source" v="Jefferson Parish Planning Department"/>
+    <tag k="source_file" v="change-8169_13525.osm"/>
+  </changeset>
   <node visible="true" id="-1" lat="29.94484794589777010287434678" lon="-90.24266527225375966736464761"/>
   <node visible="true" id="-2" lat="29.94484537478937369314735406" lon="-90.24265107187871137739421101"/>
   <node visible="true" id="-3" lat="29.94481827056107192674971884" lon="-90.24265760790973445182316937"/>
@@ -263,60 +265,60 @@
     <tag k="addr:city" v="Waggaman"/>
     <tag k="addr:postcode" v="70094"/>
   </way>
-  <node visible="true" id="-91" lat="29.94428704896586168615613133" lon="-90.25016672656568061938742176"/>
-  <node visible="true" id="-92" lat="29.94421221885909645266110601" lon="-90.25029345873355168805574067"/>
-  <node visible="true" id="-93" lat="29.94430511471511024979008653" lon="-90.25036651159169309721619356"/>
-  <node visible="true" id="-94" lat="29.94437994475195807808631798" lon="-90.25023977942382202854787465"/>
+  <node visible="true" id="-91" lat="29.94405868938067172280170780" lon="-90.24999268385822404070495395"/>
+  <node visible="true" id="-92" lat="29.94395411669654549768893048" lon="-90.24999052992967563113779761"/>
+  <node visible="true" id="-93" lat="29.94395398129421792532411928" lon="-90.24997408556737354956567287"/>
+  <node visible="true" id="-94" lat="29.94388570688477813064309885" lon="-90.24997373072169182250945596"/>
+  <node visible="true" id="-95" lat="29.94388645722571240526121983" lon="-90.25012283100782894962321734"/>
+  <node visible="true" id="-96" lat="29.94394063037304576369024289" lon="-90.25012114693321052527608117"/>
+  <node visible="true" id="-97" lat="29.94394032574989950035160291" lon="-90.25008414686367075319139985"/>
+  <node visible="true" id="-98" lat="29.94399283806881584268921870" lon="-90.25008357683945803273672936"/>
+  <node visible="true" id="-99" lat="29.94399466339318394147994695" lon="-90.25016030496361452151177218"/>
+  <node visible="true" id="-100" lat="29.94405862514167182553137536" lon="-90.25015878815209191543544875"/>
   <way visible="true" id="-11">
     <nd ref="-91"/>
     <nd ref="-92"/>
     <nd ref="-93"/>
     <nd ref="-94"/>
-    <nd ref="-91"/>
-    <tag k="building" v="yes"/>
-    <tag k="addr:housenumber" v="9505"/>
-    <tag k="addr:street" v="Sweet Bay Lane"/>
-    <tag k="addr:city" v="Waggaman"/>
-    <tag k="addr:postcode" v="70094"/>
-  </way>
-  <node visible="true" id="-95" lat="29.94424289309111841816957167" lon="-90.25178434429410856409958797"/>
-  <node visible="true" id="-96" lat="29.94428062301474113837684854" lon="-90.25187010235045192985126050"/>
-  <node visible="true" id="-97" lat="29.94425266746312885857150832" lon="-90.25188648297745430681970902"/>
-  <node visible="true" id="-98" lat="29.94426956306690001952119928" lon="-90.25192488576202265448955586"/>
-  <node visible="true" id="-99" lat="29.94429794260224753088550642" lon="-90.25190825669783123430534033"/>
-  <node visible="true" id="-100" lat="29.94430829375615843446212239" lon="-90.25193178431521801030612551"/>
-  <node visible="true" id="-101" lat="29.94442829422120411209107260" lon="-90.25186146966379396872071084"/>
-  <node visible="true" id="-102" lat="29.94440213019398555616135127" lon="-90.25180200016674803009664174"/>
-  <node visible="true" id="-103" lat="29.94438325339394424418060225" lon="-90.25181306109006129645422334"/>
-  <node visible="true" id="-104" lat="29.94434444081588253538939171" lon="-90.25172484212878032394655747"/>
-  <way visible="true" id="-12">
     <nd ref="-95"/>
     <nd ref="-96"/>
     <nd ref="-97"/>
     <nd ref="-98"/>
     <nd ref="-99"/>
     <nd ref="-100"/>
-    <nd ref="-101"/>
-    <nd ref="-102"/>
-    <nd ref="-103"/>
-    <nd ref="-104"/>
-    <nd ref="-95"/>
+    <nd ref="-91"/>
     <tag k="building" v="yes"/>
-    <tag k="addr:housenumber" v="9520"/>
+    <tag k="addr:housenumber" v="9501"/>
     <tag k="addr:street" v="Sweet Bay Lane"/>
     <tag k="addr:city" v="Waggaman"/>
     <tag k="addr:postcode" v="70094"/>
   </way>
-  <node visible="true" id="-105" lat="29.94405868938067172280170780" lon="-90.24999268385822404070495395"/>
-  <node visible="true" id="-106" lat="29.94395411669654549768893048" lon="-90.24999052992967563113779761"/>
-  <node visible="true" id="-107" lat="29.94395398129421792532411928" lon="-90.24997408556737354956567287"/>
-  <node visible="true" id="-108" lat="29.94388570688477813064309885" lon="-90.24997373072169182250945596"/>
-  <node visible="true" id="-109" lat="29.94388645722571240526121983" lon="-90.25012283100782894962321734"/>
-  <node visible="true" id="-110" lat="29.94394063037304576369024289" lon="-90.25012114693321052527608117"/>
-  <node visible="true" id="-111" lat="29.94394032574989950035160291" lon="-90.25008414686367075319139985"/>
-  <node visible="true" id="-112" lat="29.94399283806881584268921870" lon="-90.25008357683945803273672936"/>
-  <node visible="true" id="-113" lat="29.94399466339318394147994695" lon="-90.25016030496361452151177218"/>
-  <node visible="true" id="-114" lat="29.94405862514167182553137536" lon="-90.25015878815209191543544875"/>
+  <node visible="true" id="-101" lat="29.94428704896586168615613133" lon="-90.25016672656568061938742176"/>
+  <node visible="true" id="-102" lat="29.94421221885909645266110601" lon="-90.25029345873355168805574067"/>
+  <node visible="true" id="-103" lat="29.94430511471511024979008653" lon="-90.25036651159169309721619356"/>
+  <node visible="true" id="-104" lat="29.94437994475195807808631798" lon="-90.25023977942382202854787465"/>
+  <way visible="true" id="-12">
+    <nd ref="-101"/>
+    <nd ref="-102"/>
+    <nd ref="-103"/>
+    <nd ref="-104"/>
+    <nd ref="-101"/>
+    <tag k="building" v="yes"/>
+    <tag k="addr:housenumber" v="9505"/>
+    <tag k="addr:street" v="Sweet Bay Lane"/>
+    <tag k="addr:city" v="Waggaman"/>
+    <tag k="addr:postcode" v="70094"/>
+  </way>
+  <node visible="true" id="-105" lat="29.94424289309111841816957167" lon="-90.25178434429410856409958797"/>
+  <node visible="true" id="-106" lat="29.94428062301474113837684854" lon="-90.25187010235045192985126050"/>
+  <node visible="true" id="-107" lat="29.94425266746312885857150832" lon="-90.25188648297745430681970902"/>
+  <node visible="true" id="-108" lat="29.94426956306690001952119928" lon="-90.25192488576202265448955586"/>
+  <node visible="true" id="-109" lat="29.94429794260224753088550642" lon="-90.25190825669783123430534033"/>
+  <node visible="true" id="-110" lat="29.94430829375615843446212239" lon="-90.25193178431521801030612551"/>
+  <node visible="true" id="-111" lat="29.94442829422120411209107260" lon="-90.25186146966379396872071084"/>
+  <node visible="true" id="-112" lat="29.94440213019398555616135127" lon="-90.25180200016674803009664174"/>
+  <node visible="true" id="-113" lat="29.94438325339394424418060225" lon="-90.25181306109006129645422334"/>
+  <node visible="true" id="-114" lat="29.94434444081588253538939171" lon="-90.25172484212878032394655747"/>
   <way visible="true" id="-13">
     <nd ref="-105"/>
     <nd ref="-106"/>
@@ -330,7 +332,7 @@
     <nd ref="-114"/>
     <nd ref="-105"/>
     <tag k="building" v="yes"/>
-    <tag k="addr:housenumber" v="9501"/>
+    <tag k="addr:housenumber" v="9520"/>
     <tag k="addr:street" v="Sweet Bay Lane"/>
     <tag k="addr:city" v="Waggaman"/>
     <tag k="addr:postcode" v="70094"/>
@@ -1431,99 +1433,99 @@
     <tag k="addr:city" v="Waggaman"/>
     <tag k="addr:postcode" v="70094"/>
   </node>
-  <node visible="true" id="-311" lat="29.94067856515940562189825869" lon="-90.24542800419746413354005199">
-    <tag k="addr:housenumber" v="889"/>
-    <tag k="addr:street" v="Laurel Oaks Drive"/>
-    <tag k="addr:city" v="Waggaman"/>
-    <tag k="addr:postcode" v="70094"/>
-  </node>
-  <node visible="true" id="-312" lat="29.94193660259429989878299239" lon="-90.24324241778396071822498925">
-    <tag k="addr:housenumber" v="841"/>
-    <tag k="addr:street" v="Laurel Oaks Drive"/>
-    <tag k="addr:city" v="Waggaman"/>
-    <tag k="addr:postcode" v="70094"/>
-  </node>
-  <node visible="true" id="-313" lat="29.94176440171092323794255208" lon="-90.24317735766396708640968427">
-    <tag k="addr:housenumber" v="843"/>
-    <tag k="addr:street" v="Laurel Oaks Drive"/>
-    <tag k="addr:city" v="Waggaman"/>
-    <tag k="addr:postcode" v="70094"/>
-  </node>
-  <node visible="true" id="-314" lat="29.94161381936331167707976419" lon="-90.24337610672294829328166088">
-    <tag k="addr:housenumber" v="845"/>
-    <tag k="addr:street" v="Laurel Oaks Drive"/>
-    <tag k="addr:city" v="Waggaman"/>
-    <tag k="addr:postcode" v="70094"/>
-  </node>
-  <node visible="true" id="-315" lat="29.94149509969060218850245292" lon="-90.24351128528518017901660642">
-    <tag k="addr:housenumber" v="847"/>
-    <tag k="addr:street" v="Laurel Oaks Drive"/>
-    <tag k="addr:city" v="Waggaman"/>
-    <tag k="addr:postcode" v="70094"/>
-  </node>
-  <node visible="true" id="-316" lat="29.94142452859520631136547308" lon="-90.24359387285848299598001176">
-    <tag k="addr:housenumber" v="849"/>
-    <tag k="addr:street" v="Laurel Oaks Drive"/>
-    <tag k="addr:city" v="Waggaman"/>
-    <tag k="addr:postcode" v="70094"/>
-  </node>
-  <node visible="true" id="-317" lat="29.94136370332506658087368123" lon="-90.24368007289429272077541100">
-    <tag k="addr:housenumber" v="851"/>
-    <tag k="addr:street" v="Laurel Oaks Drive"/>
-    <tag k="addr:city" v="Waggaman"/>
-    <tag k="addr:postcode" v="70094"/>
-  </node>
-  <node visible="true" id="-318" lat="29.94129973172417180649063084" lon="-90.24377746415223100484581664">
-    <tag k="addr:housenumber" v="853"/>
-    <tag k="addr:street" v="Laurel Oaks Drive"/>
-    <tag k="addr:city" v="Waggaman"/>
-    <tag k="addr:postcode" v="70094"/>
-  </node>
-  <node visible="true" id="-319" lat="29.94122262064139761150727281" lon="-90.24385268375750968061765889">
-    <tag k="addr:housenumber" v="855"/>
-    <tag k="addr:street" v="Laurel Oaks Drive"/>
-    <tag k="addr:city" v="Waggaman"/>
-    <tag k="addr:postcode" v="70094"/>
-  </node>
-  <node visible="true" id="-320" lat="29.94067417935538699680364516" lon="-90.24744556099258829817699734">
+  <node visible="true" id="-311" lat="29.94067417935538699680364516" lon="-90.24744556099258829817699734">
     <tag k="addr:housenumber" v="873"/>
     <tag k="addr:street" v="Water Oaks Drive"/>
     <tag k="addr:city" v="Waggaman"/>
     <tag k="addr:postcode" v="70094"/>
   </node>
-  <node visible="true" id="-321" lat="29.94061955267131125424384663" lon="-90.24749821987359155173180625">
+  <node visible="true" id="-312" lat="29.94061955267131125424384663" lon="-90.24749821987359155173180625">
     <tag k="addr:housenumber" v="875"/>
     <tag k="addr:street" v="Water Oaks Drive"/>
     <tag k="addr:city" v="Waggaman"/>
     <tag k="addr:postcode" v="70094"/>
   </node>
-  <node visible="true" id="-322" lat="29.94052954709331260119142826" lon="-90.24758101531814702411793405">
+  <node visible="true" id="-313" lat="29.94052954709331260119142826" lon="-90.24758101531814702411793405">
     <tag k="addr:housenumber" v="877"/>
     <tag k="addr:street" v="Water Oaks Drive"/>
     <tag k="addr:city" v="Waggaman"/>
     <tag k="addr:postcode" v="70094"/>
   </node>
-  <node visible="true" id="-323" lat="29.94118497415577095921435102" lon="-90.24693794802632851315138396">
+  <node visible="true" id="-314" lat="29.94118497415577095921435102" lon="-90.24693794802632851315138396">
     <tag k="addr:housenumber" v="859"/>
     <tag k="addr:street" v="Water Oaks Drive"/>
     <tag k="addr:city" v="Waggaman"/>
     <tag k="addr:postcode" v="70094"/>
   </node>
-  <node visible="true" id="-324" lat="29.94110459281002079023892293" lon="-90.24700948273410006095218705">
+  <node visible="true" id="-315" lat="29.94110459281002079023892293" lon="-90.24700948273410006095218705">
     <tag k="addr:housenumber" v="861"/>
     <tag k="addr:street" v="Water Oaks Drive"/>
     <tag k="addr:city" v="Waggaman"/>
     <tag k="addr:postcode" v="70094"/>
   </node>
-  <node visible="true" id="-325" lat="29.94103707306220130135443469" lon="-90.24706972038637786681647412">
+  <node visible="true" id="-316" lat="29.94103707306220130135443469" lon="-90.24706972038637786681647412">
     <tag k="addr:housenumber" v="863"/>
     <tag k="addr:street" v="Water Oaks Drive"/>
     <tag k="addr:city" v="Waggaman"/>
     <tag k="addr:postcode" v="70094"/>
   </node>
-  <node visible="true" id="-326" lat="29.94096646811805584320609341" lon="-90.24714858539387307700962992">
+  <node visible="true" id="-317" lat="29.94096646811805584320609341" lon="-90.24714858539387307700962992">
     <tag k="addr:housenumber" v="865"/>
     <tag k="addr:street" v="Water Oaks Drive"/>
+    <tag k="addr:city" v="Waggaman"/>
+    <tag k="addr:postcode" v="70094"/>
+  </node>
+  <node visible="true" id="-318" lat="29.94067856515940562189825869" lon="-90.24542800419746413354005199">
+    <tag k="addr:housenumber" v="889"/>
+    <tag k="addr:street" v="Laurel Oaks Drive"/>
+    <tag k="addr:city" v="Waggaman"/>
+    <tag k="addr:postcode" v="70094"/>
+  </node>
+  <node visible="true" id="-319" lat="29.94193660259429989878299239" lon="-90.24324241778396071822498925">
+    <tag k="addr:housenumber" v="841"/>
+    <tag k="addr:street" v="Laurel Oaks Drive"/>
+    <tag k="addr:city" v="Waggaman"/>
+    <tag k="addr:postcode" v="70094"/>
+  </node>
+  <node visible="true" id="-320" lat="29.94176440171092323794255208" lon="-90.24317735766396708640968427">
+    <tag k="addr:housenumber" v="843"/>
+    <tag k="addr:street" v="Laurel Oaks Drive"/>
+    <tag k="addr:city" v="Waggaman"/>
+    <tag k="addr:postcode" v="70094"/>
+  </node>
+  <node visible="true" id="-321" lat="29.94161381936331167707976419" lon="-90.24337610672294829328166088">
+    <tag k="addr:housenumber" v="845"/>
+    <tag k="addr:street" v="Laurel Oaks Drive"/>
+    <tag k="addr:city" v="Waggaman"/>
+    <tag k="addr:postcode" v="70094"/>
+  </node>
+  <node visible="true" id="-322" lat="29.94149509969060218850245292" lon="-90.24351128528518017901660642">
+    <tag k="addr:housenumber" v="847"/>
+    <tag k="addr:street" v="Laurel Oaks Drive"/>
+    <tag k="addr:city" v="Waggaman"/>
+    <tag k="addr:postcode" v="70094"/>
+  </node>
+  <node visible="true" id="-323" lat="29.94142452859520631136547308" lon="-90.24359387285848299598001176">
+    <tag k="addr:housenumber" v="849"/>
+    <tag k="addr:street" v="Laurel Oaks Drive"/>
+    <tag k="addr:city" v="Waggaman"/>
+    <tag k="addr:postcode" v="70094"/>
+  </node>
+  <node visible="true" id="-324" lat="29.94136370332506658087368123" lon="-90.24368007289429272077541100">
+    <tag k="addr:housenumber" v="851"/>
+    <tag k="addr:street" v="Laurel Oaks Drive"/>
+    <tag k="addr:city" v="Waggaman"/>
+    <tag k="addr:postcode" v="70094"/>
+  </node>
+  <node visible="true" id="-325" lat="29.94129973172417180649063084" lon="-90.24377746415223100484581664">
+    <tag k="addr:housenumber" v="853"/>
+    <tag k="addr:street" v="Laurel Oaks Drive"/>
+    <tag k="addr:city" v="Waggaman"/>
+    <tag k="addr:postcode" v="70094"/>
+  </node>
+  <node visible="true" id="-326" lat="29.94122262064139761150727281" lon="-90.24385268375750968061765889">
+    <tag k="addr:housenumber" v="855"/>
+    <tag k="addr:street" v="Laurel Oaks Drive"/>
     <tag k="addr:city" v="Waggaman"/>
     <tag k="addr:postcode" v="70094"/>
   </node>
@@ -2025,81 +2027,81 @@
     <tag k="addr:city" v="Waggaman"/>
     <tag k="addr:postcode" v="70094"/>
   </node>
-  <node visible="true" id="-410" lat="29.94175324874325028190469311" lon="-90.24581311089843893569195643">
-    <tag k="addr:housenumber" v="808"/>
-    <tag k="addr:street" v="Post Oaks Drive"/>
-    <tag k="addr:city" v="Waggaman"/>
-    <tag k="addr:postcode" v="70094"/>
-  </node>
-  <node visible="true" id="-411" lat="29.93990902772431539347053331" lon="-90.24683358728132986925629666">
-    <tag k="addr:housenumber" v="833"/>
-    <tag k="addr:street" v="Post Oaks Drive"/>
-    <tag k="addr:city" v="Waggaman"/>
-    <tag k="addr:postcode" v="70094"/>
-  </node>
-  <node visible="true" id="-412" lat="29.94140335699217558840246056" lon="-90.24671243405842346874123905">
-    <tag k="addr:housenumber" v="853"/>
-    <tag k="addr:street" v="Water Oaks Drive"/>
-    <tag k="addr:city" v="Waggaman"/>
-    <tag k="addr:postcode" v="70094"/>
-  </node>
-  <node visible="true" id="-413" lat="29.93995063485592211804942053" lon="-90.24591939465842926892946707">
-    <tag k="addr:housenumber" v="19"/>
-    <tag k="addr:street" v="Pin Oaks Place"/>
-    <tag k="addr:city" v="Waggaman"/>
-    <tag k="addr:postcode" v="70094"/>
-  </node>
-  <node visible="true" id="-414" lat="29.94031737777215340656766784" lon="-90.24561788624806979441927979">
-    <tag k="addr:housenumber" v="814"/>
-    <tag k="addr:street" v="Nuttall Oaks Drive"/>
-    <tag k="addr:city" v="Waggaman"/>
-    <tag k="addr:postcode" v="70094"/>
-  </node>
-  <node visible="true" id="-415" lat="29.93967463430850628469670482" lon="-90.24622734918716560059692711">
-    <tag k="addr:housenumber" v="11"/>
-    <tag k="addr:street" v="Pin Oaks Place"/>
-    <tag k="addr:city" v="Waggaman"/>
-    <tag k="addr:postcode" v="70094"/>
-  </node>
-  <node visible="true" id="-416" lat="29.94221741075811848986631958" lon="-90.24488499458243495610076934">
-    <tag k="addr:housenumber" v="820"/>
-    <tag k="addr:street" v="Laurel Oaks Drive"/>
-    <tag k="addr:city" v="Waggaman"/>
-    <tag k="addr:postcode" v="70094"/>
-  </node>
-  <node visible="true" id="-417" lat="29.94154881149316693722539640" lon="-90.24471749698413702844845830">
-    <tag k="addr:housenumber" v="844"/>
-    <tag k="addr:street" v="Laurel Oaks Drive"/>
-    <tag k="addr:city" v="Waggaman"/>
-    <tag k="addr:postcode" v="70094"/>
-  </node>
-  <node visible="true" id="-418" lat="29.94132953102284844248970330" lon="-90.24522566373838117215200327">
-    <tag k="addr:housenumber" v="811"/>
-    <tag k="addr:street" v="Post Oaks Drive"/>
-    <tag k="addr:city" v="Waggaman"/>
-    <tag k="addr:postcode" v="70094"/>
-  </node>
-  <node visible="true" id="-419" lat="29.94247945282328160487850255" lon="-90.24523915872509860491845757">
-    <tag k="addr:housenumber" v="812"/>
-    <tag k="addr:street" v="Laurel Oaks Drive"/>
-    <tag k="addr:city" v="Waggaman"/>
-    <tag k="addr:postcode" v="70094"/>
-  </node>
-  <node visible="true" id="-420" lat="29.94389418657529944312045700" lon="-90.25131250879051947322295746">
-    <tag k="addr:housenumber" v="9512"/>
-    <tag k="addr:street" v="Sweet Bay Lane"/>
-    <tag k="addr:city" v="Waggaman"/>
-    <tag k="addr:postcode" v="70094"/>
-  </node>
-  <node visible="true" id="-421" lat="29.94269890551566248859671759" lon="-90.25256145752902625645219814">
+  <node visible="true" id="-410" lat="29.94269890551566248859671759" lon="-90.25256145752902625645219814">
     <tag k="addr:housenumber" v="9517"/>
     <tag k="addr:street" v="Raintree Lane"/>
     <tag k="addr:city" v="Waggaman"/>
     <tag k="addr:postcode" v="70094"/>
   </node>
-  <node visible="true" id="-422" lat="29.94172303182944716581914690" lon="-90.25171658562256027380499290">
+  <node visible="true" id="-411" lat="29.94172303182944716581914690" lon="-90.25171658562256027380499290">
     <tag k="addr:housenumber" v="881"/>
     <tag k="addr:street" v="Smolkin Lane"/>
+    <tag k="addr:city" v="Waggaman"/>
+    <tag k="addr:postcode" v="70094"/>
+  </node>
+  <node visible="true" id="-412" lat="29.94175324874325028190469311" lon="-90.24581311089843893569195643">
+    <tag k="addr:housenumber" v="808"/>
+    <tag k="addr:street" v="Post Oaks Drive"/>
+    <tag k="addr:city" v="Waggaman"/>
+    <tag k="addr:postcode" v="70094"/>
+  </node>
+  <node visible="true" id="-413" lat="29.93990902772431539347053331" lon="-90.24683358728132986925629666">
+    <tag k="addr:housenumber" v="833"/>
+    <tag k="addr:street" v="Post Oaks Drive"/>
+    <tag k="addr:city" v="Waggaman"/>
+    <tag k="addr:postcode" v="70094"/>
+  </node>
+  <node visible="true" id="-414" lat="29.94140335699217558840246056" lon="-90.24671243405842346874123905">
+    <tag k="addr:housenumber" v="853"/>
+    <tag k="addr:street" v="Water Oaks Drive"/>
+    <tag k="addr:city" v="Waggaman"/>
+    <tag k="addr:postcode" v="70094"/>
+  </node>
+  <node visible="true" id="-415" lat="29.93995063485592211804942053" lon="-90.24591939465842926892946707">
+    <tag k="addr:housenumber" v="19"/>
+    <tag k="addr:street" v="Pin Oaks Place"/>
+    <tag k="addr:city" v="Waggaman"/>
+    <tag k="addr:postcode" v="70094"/>
+  </node>
+  <node visible="true" id="-416" lat="29.94031737777215340656766784" lon="-90.24561788624806979441927979">
+    <tag k="addr:housenumber" v="814"/>
+    <tag k="addr:street" v="Nuttall Oaks Drive"/>
+    <tag k="addr:city" v="Waggaman"/>
+    <tag k="addr:postcode" v="70094"/>
+  </node>
+  <node visible="true" id="-417" lat="29.93967463430850628469670482" lon="-90.24622734918716560059692711">
+    <tag k="addr:housenumber" v="11"/>
+    <tag k="addr:street" v="Pin Oaks Place"/>
+    <tag k="addr:city" v="Waggaman"/>
+    <tag k="addr:postcode" v="70094"/>
+  </node>
+  <node visible="true" id="-418" lat="29.94221741075811848986631958" lon="-90.24488499458243495610076934">
+    <tag k="addr:housenumber" v="820"/>
+    <tag k="addr:street" v="Laurel Oaks Drive"/>
+    <tag k="addr:city" v="Waggaman"/>
+    <tag k="addr:postcode" v="70094"/>
+  </node>
+  <node visible="true" id="-419" lat="29.94154881149316693722539640" lon="-90.24471749698413702844845830">
+    <tag k="addr:housenumber" v="844"/>
+    <tag k="addr:street" v="Laurel Oaks Drive"/>
+    <tag k="addr:city" v="Waggaman"/>
+    <tag k="addr:postcode" v="70094"/>
+  </node>
+  <node visible="true" id="-420" lat="29.94132953102284844248970330" lon="-90.24522566373838117215200327">
+    <tag k="addr:housenumber" v="811"/>
+    <tag k="addr:street" v="Post Oaks Drive"/>
+    <tag k="addr:city" v="Waggaman"/>
+    <tag k="addr:postcode" v="70094"/>
+  </node>
+  <node visible="true" id="-421" lat="29.94247945282328160487850255" lon="-90.24523915872509860491845757">
+    <tag k="addr:housenumber" v="812"/>
+    <tag k="addr:street" v="Laurel Oaks Drive"/>
+    <tag k="addr:city" v="Waggaman"/>
+    <tag k="addr:postcode" v="70094"/>
+  </node>
+  <node visible="true" id="-422" lat="29.94389418657529944312045700" lon="-90.25131250879051947322295746">
+    <tag k="addr:housenumber" v="9512"/>
+    <tag k="addr:street" v="Sweet Bay Lane"/>
     <tag k="addr:city" v="Waggaman"/>
     <tag k="addr:postcode" v="70094"/>
   </node>

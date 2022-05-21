@@ -1,20 +1,16 @@
 <?xml version='1.0' encoding='utf8'?>
-<osm version="0.6" generator="AnonymousAlligator's import script">
-  <changeset_tag k="comment" v="Import buildings and addresses in Jefferson Parish, see https://wiki.openstreetmap.org/wiki/Import/Catalogue/Jefferson_Parish_Addresses_and_Buildings"/>
-  <changeset_tag k="source" v="Jefferson Parish Planning Department"/>
-  <changeset_tag k="source_file" v="8172_13521"/>
-  <node visible="true" id="-1" lat="29.97494006984590697584280861" lon="-90.21804725393934631938464008"/>
-  <node visible="true" id="-2" lat="29.97489288693377673666873307" lon="-90.21807389631801754603657173"/>
-  <node visible="true" id="-3" lat="29.97489969896559713902206568" lon="-90.21808997341494773536396679"/>
-  <node visible="true" id="-4" lat="29.97487966225156341693036666" lon="-90.21810128737492107120488072"/>
-  <node visible="true" id="-5" lat="29.97488677813269219996072934" lon="-90.21811808158538781299284892"/>
-  <node visible="true" id="-6" lat="29.97485675127416016039205715" lon="-90.21813503659176092241978040"/>
-  <node visible="true" id="-7" lat="29.97490745269040601783672173" lon="-90.21825469714065093285171315"/>
-  <node visible="true" id="-8" lat="29.97500210170861123515351210" lon="-90.21820125245393739987775916"/>
-  <node visible="true" id="-9" lat="29.97500777787356440740040853" lon="-90.21821464880262908536678879"/>
-  <node visible="true" id="-10" lat="29.97503831913517302609761828" lon="-90.21819740330643355719075771"/>
-  <node visible="true" id="-11" lat="29.97498153607695670075372618" lon="-90.21806338928557522649498424"/>
-  <node visible="true" id="-12" lat="29.97495359220804189703812881" lon="-90.21807916812339556145161623"/>
+<osm version="0.6" generator="AnonymousAlligator's import script" upload-changeset="-1">
+  <changeset id="-1">
+    <tag k="comment" v="Import buildings and addresses in Jefferson Parish, see https://wiki.openstreetmap.org/wiki/Import/Catalogue/Jefferson_Parish_Addresses_and_Buildings"/>
+    <tag k="source" v="Jefferson Parish Planning Department"/>
+    <tag k="source_file" v="change-8172_13521.osm"/>
+  </changeset>
+  <node visible="true" id="-1" lat="29.97495273358470413427312451" lon="-90.21800620145751281597767957"/>
+  <node visible="true" id="-2" lat="29.97502951070059751259577752" lon="-90.21812599017147249469417147"/>
+  <node visible="true" id="-3" lat="29.97506685835806905515710241" lon="-90.21809408952637454603973310"/>
+  <node visible="true" id="-4" lat="29.97505586587590542535508575" lon="-90.21807693889208223936293507"/>
+  <node visible="true" id="-5" lat="29.97514660379298234715861327" lon="-90.21799943471027916075399844"/>
+  <node visible="true" id="-6" lat="29.97508081924828005071503867" lon="-90.21789679663059757785958936"/>
   <way visible="true" id="-1">
     <nd ref="-1"/>
     <nd ref="-2"/>
@@ -22,57 +18,63 @@
     <nd ref="-4"/>
     <nd ref="-5"/>
     <nd ref="-6"/>
-    <nd ref="-7"/>
-    <nd ref="-8"/>
-    <nd ref="-9"/>
-    <nd ref="-10"/>
-    <nd ref="-11"/>
-    <nd ref="-12"/>
     <nd ref="-1"/>
-    <tag k="building" v="yes"/>
-    <tag k="addr:housenumber" v="1308"/>
-    <tag k="addr:street" v="Meadow Street"/>
-    <tag k="addr:city" v="Metairie"/>
-    <tag k="addr:postcode" v="70003"/>
-  </way>
-  <node visible="true" id="-13" lat="29.97526836785244341854195227" lon="-90.21785604366804989240335999">
-    <tag k="addr:housenumber" v="1320"/>
-    <tag k="addr:street" v="Meadow Street"/>
-    <tag k="addr:city" v="Metairie"/>
-    <tag k="addr:postcode" v="70003"/>
-  </node>
-  <node visible="true" id="-14" lat="29.97524940264059978289878927" lon="-90.21787161037428859344800003">
-    <tag k="addr:housenumber" v="1320"/>
-    <tag k="addr:street" v="Meadow Street"/>
-    <tag k="addr:city" v="Metairie"/>
-    <tag k="addr:postcode" v="70003"/>
-    <tag k="addr:unit" v="REAR"/>
-  </node>
-  <node visible="true" id="-15" lat="29.97526677870543210246978560" lon="-90.21789389934347980215534335">
-    <tag k="addr:street" v="Meadow Street"/>
-    <tag k="addr:city" v="Metairie"/>
-    <tag k="addr:postcode" v="70003"/>
-  </node>
-  <node visible="true" id="-16" lat="29.97495273358470413427312451" lon="-90.21800620145751281597767957"/>
-  <node visible="true" id="-17" lat="29.97502951070059751259577752" lon="-90.21812599017147249469417147"/>
-  <node visible="true" id="-18" lat="29.97506685835806905515710241" lon="-90.21809408952637454603973310"/>
-  <node visible="true" id="-19" lat="29.97505586587590542535508575" lon="-90.21807693889208223936293507"/>
-  <node visible="true" id="-20" lat="29.97514660379298234715861327" lon="-90.21799943471027916075399844"/>
-  <node visible="true" id="-21" lat="29.97508081924828005071503867" lon="-90.21789679663059757785958936"/>
-  <way visible="true" id="-2">
-    <nd ref="-16"/>
-    <nd ref="-17"/>
-    <nd ref="-18"/>
-    <nd ref="-19"/>
-    <nd ref="-20"/>
-    <nd ref="-21"/>
-    <nd ref="-16"/>
     <tag k="building" v="yes"/>
     <tag k="addr:housenumber" v="1318"/>
     <tag k="addr:street" v="Meadow Street"/>
     <tag k="addr:city" v="Metairie"/>
     <tag k="addr:postcode" v="70003"/>
   </way>
+  <node visible="true" id="-7" lat="29.97494006984590697584280861" lon="-90.21804725393934631938464008"/>
+  <node visible="true" id="-8" lat="29.97489288693377673666873307" lon="-90.21807389631801754603657173"/>
+  <node visible="true" id="-9" lat="29.97489969896559713902206568" lon="-90.21808997341494773536396679"/>
+  <node visible="true" id="-10" lat="29.97487966225156341693036666" lon="-90.21810128737492107120488072"/>
+  <node visible="true" id="-11" lat="29.97488677813269219996072934" lon="-90.21811808158538781299284892"/>
+  <node visible="true" id="-12" lat="29.97485675127416016039205715" lon="-90.21813503659176092241978040"/>
+  <node visible="true" id="-13" lat="29.97490745269040601783672173" lon="-90.21825469714065093285171315"/>
+  <node visible="true" id="-14" lat="29.97500210170861123515351210" lon="-90.21820125245393739987775916"/>
+  <node visible="true" id="-15" lat="29.97500777787356440740040853" lon="-90.21821464880262908536678879"/>
+  <node visible="true" id="-16" lat="29.97503831913517302609761828" lon="-90.21819740330643355719075771"/>
+  <node visible="true" id="-17" lat="29.97498153607695670075372618" lon="-90.21806338928557522649498424"/>
+  <node visible="true" id="-18" lat="29.97495359220804189703812881" lon="-90.21807916812339556145161623"/>
+  <way visible="true" id="-2">
+    <nd ref="-7"/>
+    <nd ref="-8"/>
+    <nd ref="-9"/>
+    <nd ref="-10"/>
+    <nd ref="-11"/>
+    <nd ref="-12"/>
+    <nd ref="-13"/>
+    <nd ref="-14"/>
+    <nd ref="-15"/>
+    <nd ref="-16"/>
+    <nd ref="-17"/>
+    <nd ref="-18"/>
+    <nd ref="-7"/>
+    <tag k="building" v="yes"/>
+    <tag k="addr:housenumber" v="1308"/>
+    <tag k="addr:street" v="Meadow Street"/>
+    <tag k="addr:city" v="Metairie"/>
+    <tag k="addr:postcode" v="70003"/>
+  </way>
+  <node visible="true" id="-19" lat="29.97526836785244341854195227" lon="-90.21785604366804989240335999">
+    <tag k="addr:housenumber" v="1320"/>
+    <tag k="addr:street" v="Meadow Street"/>
+    <tag k="addr:city" v="Metairie"/>
+    <tag k="addr:postcode" v="70003"/>
+  </node>
+  <node visible="true" id="-20" lat="29.97524940264059978289878927" lon="-90.21787161037428859344800003">
+    <tag k="addr:housenumber" v="1320"/>
+    <tag k="addr:street" v="Meadow Street"/>
+    <tag k="addr:city" v="Metairie"/>
+    <tag k="addr:postcode" v="70003"/>
+    <tag k="addr:unit" v="REAR"/>
+  </node>
+  <node visible="true" id="-21" lat="29.97526677870543210246978560" lon="-90.21789389934347980215534335">
+    <tag k="addr:street" v="Meadow Street"/>
+    <tag k="addr:city" v="Metairie"/>
+    <tag k="addr:postcode" v="70003"/>
+  </node>
   <node visible="true" id="-22" lat="29.97582181474149010114160774" lon="-90.21715620158917658955033403"/>
   <node visible="true" id="-23" lat="29.97577102059240061748823791" lon="-90.21719858608192055271501886"/>
   <node visible="true" id="-24" lat="29.97583936452648956105804245" lon="-90.21730773858786278651678003"/>
@@ -641,38 +643,38 @@
     <tag k="addr:city" v="Metairie"/>
     <tag k="addr:postcode" v="70003"/>
   </way>
-  <node visible="true" id="-181" lat="29.97714901498245865241187857" lon="-90.21604343909953627189679537"/>
-  <node visible="true" id="-182" lat="29.97707406308130373417952796" lon="-90.21604892329698088815348456"/>
-  <node visible="true" id="-183" lat="29.97708407091512938791311171" lon="-90.21623120707029386267095106"/>
-  <node visible="true" id="-184" lat="29.97715902280860333917189564" lon="-90.21622572287286345726897707"/>
+  <node visible="true" id="-181" lat="29.97559262878468189228442498" lon="-90.21739145053119557360332692"/>
+  <node visible="true" id="-182" lat="29.97555295475049774722720031" lon="-90.21741983421220822947361739"/>
+  <node visible="true" id="-183" lat="29.97559444411342610692372546" lon="-90.21749711996811527114914497"/>
+  <node visible="true" id="-184" lat="29.97556492779100878465214919" lon="-90.21751823659906222019344568"/>
+  <node visible="true" id="-185" lat="29.97558847479014687564813357" lon="-90.21756209959316663571371464"/>
+  <node visible="true" id="-186" lat="29.97565766511374718561455666" lon="-90.21751259928122124165383866"/>
   <way visible="true" id="-31">
     <nd ref="-181"/>
     <nd ref="-182"/>
     <nd ref="-183"/>
     <nd ref="-184"/>
+    <nd ref="-185"/>
+    <nd ref="-186"/>
     <nd ref="-181"/>
     <tag k="building" v="yes"/>
-    <tag k="addr:housenumber" v="1446"/>
+    <tag k="addr:housenumber" v="1340"/>
     <tag k="addr:street" v="Meadow Street"/>
     <tag k="addr:city" v="Metairie"/>
     <tag k="addr:postcode" v="70003"/>
   </way>
-  <node visible="true" id="-185" lat="29.97559262878468189228442498" lon="-90.21739145053119557360332692"/>
-  <node visible="true" id="-186" lat="29.97555295475049774722720031" lon="-90.21741983421220822947361739"/>
-  <node visible="true" id="-187" lat="29.97559444411342610692372546" lon="-90.21749711996811527114914497"/>
-  <node visible="true" id="-188" lat="29.97556492779100878465214919" lon="-90.21751823659906222019344568"/>
-  <node visible="true" id="-189" lat="29.97558847479014687564813357" lon="-90.21756209959316663571371464"/>
-  <node visible="true" id="-190" lat="29.97565766511374718561455666" lon="-90.21751259928122124165383866"/>
+  <node visible="true" id="-187" lat="29.97714901498245865241187857" lon="-90.21604343909953627189679537"/>
+  <node visible="true" id="-188" lat="29.97707406308130373417952796" lon="-90.21604892329698088815348456"/>
+  <node visible="true" id="-189" lat="29.97708407091512938791311171" lon="-90.21623120707029386267095106"/>
+  <node visible="true" id="-190" lat="29.97715902280860333917189564" lon="-90.21622572287286345726897707"/>
   <way visible="true" id="-32">
-    <nd ref="-185"/>
-    <nd ref="-186"/>
     <nd ref="-187"/>
     <nd ref="-188"/>
     <nd ref="-189"/>
     <nd ref="-190"/>
-    <nd ref="-185"/>
+    <nd ref="-187"/>
     <tag k="building" v="yes"/>
-    <tag k="addr:housenumber" v="1340"/>
+    <tag k="addr:housenumber" v="1446"/>
     <tag k="addr:street" v="Meadow Street"/>
     <tag k="addr:city" v="Metairie"/>
     <tag k="addr:postcode" v="70003"/>

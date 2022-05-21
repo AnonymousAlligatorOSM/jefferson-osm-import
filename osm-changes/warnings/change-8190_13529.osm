@@ -1,8 +1,10 @@
 <?xml version='1.0' encoding='utf8'?>
-<osm version="0.6" generator="AnonymousAlligator's import script">
-  <changeset_tag k="comment" v="Import buildings and addresses in Jefferson Parish, see https://wiki.openstreetmap.org/wiki/Import/Catalogue/Jefferson_Parish_Addresses_and_Buildings"/>
-  <changeset_tag k="source" v="Jefferson Parish Planning Department"/>
-  <changeset_tag k="source_file" v="8190_13529"/>
+<osm version="0.6" generator="AnonymousAlligator's import script" upload-changeset="-1">
+  <changeset id="-1">
+    <tag k="comment" v="Import buildings and addresses in Jefferson Parish, see https://wiki.openstreetmap.org/wiki/Import/Catalogue/Jefferson_Parish_Addresses_and_Buildings"/>
+    <tag k="source" v="Jefferson Parish Planning Department"/>
+    <tag k="source_file" v="change-8190_13529.osm"/>
+  </changeset>
   <node visible="true" id="-1" lat="29.90585539661618597051528923" lon="-90.02092301667794060904270737">
     <tag k="addr:housenumber" v="517"/>
     <tag k="addr:street" v="West Morningside Drive"/>
@@ -109,10 +111,10 @@
     <tag k="addr:city" v="Terrytown"/>
     <tag k="addr:postcode" v="70056"/>
   </way>
-  <node visible="true" id="-36" lat="29.89979941663574791732571612" lon="-90.01202647125381872683647089"/>
-  <node visible="true" id="-37" lat="29.89968183844960947226354619" lon="-90.01189894645712286092020804"/>
-  <node visible="true" id="-38" lat="29.89961171003085738107074576" lon="-90.01198498414765936104231514"/>
-  <node visible="true" id="-39" lat="29.89972928829978471299000375" lon="-90.01211250894434101610386278"/>
+  <node visible="true" id="-36" lat="29.89819643507559021600172855" lon="-90.01336262767425466790882638"/>
+  <node visible="true" id="-37" lat="29.89806811524329432927515882" lon="-90.01337062041969261372287292"/>
+  <node visible="true" id="-38" lat="29.89807632298191464315095800" lon="-90.01354595599488561674661469"/>
+  <node visible="true" id="-39" lat="29.89820464280395029277315189" lon="-90.01353796324943346007785294"/>
   <way visible="true" id="-5">
     <nd ref="-36"/>
     <nd ref="-37"/>
@@ -120,15 +122,15 @@
     <nd ref="-39"/>
     <nd ref="-36"/>
     <tag k="building" v="yes"/>
-    <tag k="addr:housenumber" v="686"/>
-    <tag k="addr:street" v="Rue SaintMichael"/>
+    <tag k="addr:housenumber" v="2401"/>
+    <tag k="addr:street" v="Rue Saint Louis"/>
     <tag k="addr:city" v="Terrytown"/>
     <tag k="addr:postcode" v="70056"/>
   </way>
-  <node visible="true" id="-40" lat="29.89819643507559021600172855" lon="-90.01336262767425466790882638"/>
-  <node visible="true" id="-41" lat="29.89806811524329432927515882" lon="-90.01337062041969261372287292"/>
-  <node visible="true" id="-42" lat="29.89807632298191464315095800" lon="-90.01354595599488561674661469"/>
-  <node visible="true" id="-43" lat="29.89820464280395029277315189" lon="-90.01353796324943346007785294"/>
+  <node visible="true" id="-40" lat="29.89979941663574791732571612" lon="-90.01202647125381872683647089"/>
+  <node visible="true" id="-41" lat="29.89968183844960947226354619" lon="-90.01189894645712286092020804"/>
+  <node visible="true" id="-42" lat="29.89961171003085738107074576" lon="-90.01198498414765936104231514"/>
+  <node visible="true" id="-43" lat="29.89972928829978471299000375" lon="-90.01211250894434101610386278"/>
   <way visible="true" id="-6">
     <nd ref="-40"/>
     <nd ref="-41"/>
@@ -136,8 +138,8 @@
     <nd ref="-43"/>
     <nd ref="-40"/>
     <tag k="building" v="yes"/>
-    <tag k="addr:housenumber" v="2401"/>
-    <tag k="addr:street" v="Rue Saint Louis"/>
+    <tag k="addr:housenumber" v="686"/>
+    <tag k="addr:street" v="Rue SaintMichael"/>
     <tag k="addr:city" v="Terrytown"/>
     <tag k="addr:postcode" v="70056"/>
   </way>
@@ -221,16 +223,12 @@
     <tag k="addr:city" v="Terrytown"/>
     <tag k="addr:postcode" v="70056"/>
   </way>
-  <node visible="true" id="-72" lat="29.90006285768392402246718120" lon="-90.01163767555540573539474281"/>
-  <node visible="true" id="-73" lat="29.90007277466765245321766997" lon="-90.01162685971742405399709241"/>
-  <node visible="true" id="-74" lat="29.90005248553036665271065431" lon="-90.01160329157285389101161854"/>
-  <node visible="true" id="-75" lat="29.90004240857633632799661427" lon="-90.01161596518949181700008921"/>
-  <node visible="true" id="-76" lat="29.90002955517314831013209186" lon="-90.01160195073724423764360836"/>
-  <node visible="true" id="-77" lat="29.89991419259727578605634335" lon="-90.01173827731663834583741846"/>
-  <node visible="true" id="-78" lat="29.89995912452024029448693909" lon="-90.01179110934531024668103782"/>
-  <node visible="true" id="-79" lat="29.90000090183561809453749447" lon="-90.01174370609606967263971455"/>
-  <node visible="true" id="-80" lat="29.90006809707599444436709746" lon="-90.01181637501245802468474722"/>
-  <node visible="true" id="-81" lat="29.90012748479949422630852496" lon="-90.01170867786528617671137908"/>
+  <node visible="true" id="-72" lat="29.90015901004434795140696224" lon="-90.01202310433232867126207566"/>
+  <node visible="true" id="-73" lat="29.90027839294159406335893436" lon="-90.01187527321121706336271018"/>
+  <node visible="true" id="-74" lat="29.90016157116187756059844105" lon="-90.01174973751787433684512507"/>
+  <node visible="true" id="-75" lat="29.90009570378077441432651540" lon="-90.01183130062457848907797597"/>
+  <node visible="true" id="-76" lat="29.90015580207131407064480300" lon="-90.01189588167663657714001602"/>
+  <node visible="true" id="-77" lat="29.90010228644747414250559814" lon="-90.01196214969098718938766979"/>
   <way visible="true" id="-10">
     <nd ref="-72"/>
     <nd ref="-73"/>
@@ -238,40 +236,58 @@
     <nd ref="-75"/>
     <nd ref="-76"/>
     <nd ref="-77"/>
-    <nd ref="-78"/>
-    <nd ref="-79"/>
-    <nd ref="-80"/>
-    <nd ref="-81"/>
     <nd ref="-72"/>
     <tag k="building" v="yes"/>
-    <tag k="addr:housenumber" v="699"/>
+    <tag k="addr:housenumber" v="695"/>
     <tag k="addr:street" v="Rue SaintMichael"/>
     <tag k="addr:city" v="Terrytown"/>
     <tag k="addr:postcode" v="70056"/>
   </way>
-  <node visible="true" id="-82" lat="29.90172095137565833056214615" lon="-90.01344326710459142759646056"/>
-  <node visible="true" id="-83" lat="29.90154442752038832509242638" lon="-90.01345188764753402210772038"/>
-  <node visible="true" id="-84" lat="29.90154558219440872335326276" lon="-90.01348335117427268414758146"/>
-  <node visible="true" id="-85" lat="29.90152914837929998270737997" lon="-90.01348415371892031089373631"/>
-  <node visible="true" id="-86" lat="29.90153316397585214758692018" lon="-90.01359357402128580361022614"/>
-  <node visible="true" id="-87" lat="29.90154969921537286836610292" lon="-90.01359276652357266357284971"/>
-  <node visible="true" id="-88" lat="29.90155085813387358939507976" lon="-90.01362434570593507032754133"/>
-  <node visible="true" id="-89" lat="29.90166051235448918532711104" lon="-90.01361899074325378933281172"/>
-  <node visible="true" id="-90" lat="29.90165811839958109885628801" lon="-90.01355375819593973574228585"/>
-  <node visible="true" id="-91" lat="29.90166358489055298264247540" lon="-90.01355349123976168357330607"/>
-  <node visible="true" id="-92" lat="29.90166312199706410979160864" lon="-90.01354087792149982760747662"/>
-  <node visible="true" id="-93" lat="29.90165761694212420707117417" lon="-90.01354114676095719005388673"/>
-  <node visible="true" id="-94" lat="29.90165703860842683070586645" lon="-90.01352538782943213391263271"/>
-  <node visible="true" id="-95" lat="29.90168266349185444141767221" lon="-90.01352413643773786589008523"/>
-  <node visible="true" id="-96" lat="29.90168150713662242878854158" lon="-90.01349262706979459380818298"/>
-  <node visible="true" id="-97" lat="29.90172268901953600561682833" lon="-90.01349061595104217303742189"/>
+  <node visible="true" id="-78" lat="29.90006285768392402246718120" lon="-90.01163767555540573539474281"/>
+  <node visible="true" id="-79" lat="29.90007277466765245321766997" lon="-90.01162685971742405399709241"/>
+  <node visible="true" id="-80" lat="29.90005248553036665271065431" lon="-90.01160329157285389101161854"/>
+  <node visible="true" id="-81" lat="29.90004240857633632799661427" lon="-90.01161596518949181700008921"/>
+  <node visible="true" id="-82" lat="29.90002955517314831013209186" lon="-90.01160195073724423764360836"/>
+  <node visible="true" id="-83" lat="29.89991419259727578605634335" lon="-90.01173827731663834583741846"/>
+  <node visible="true" id="-84" lat="29.89995912452024029448693909" lon="-90.01179110934531024668103782"/>
+  <node visible="true" id="-85" lat="29.90000090183561809453749447" lon="-90.01174370609606967263971455"/>
+  <node visible="true" id="-86" lat="29.90006809707599444436709746" lon="-90.01181637501245802468474722"/>
+  <node visible="true" id="-87" lat="29.90012748479949422630852496" lon="-90.01170867786528617671137908"/>
   <way visible="true" id="-11">
+    <nd ref="-78"/>
+    <nd ref="-79"/>
+    <nd ref="-80"/>
+    <nd ref="-81"/>
     <nd ref="-82"/>
     <nd ref="-83"/>
     <nd ref="-84"/>
     <nd ref="-85"/>
     <nd ref="-86"/>
     <nd ref="-87"/>
+    <nd ref="-78"/>
+    <tag k="building" v="yes"/>
+    <tag k="addr:housenumber" v="699"/>
+    <tag k="addr:street" v="Rue SaintMichael"/>
+    <tag k="addr:city" v="Terrytown"/>
+    <tag k="addr:postcode" v="70056"/>
+  </way>
+  <node visible="true" id="-88" lat="29.90172095137565833056214615" lon="-90.01344326710459142759646056"/>
+  <node visible="true" id="-89" lat="29.90154442752038832509242638" lon="-90.01345188764753402210772038"/>
+  <node visible="true" id="-90" lat="29.90154558219440872335326276" lon="-90.01348335117427268414758146"/>
+  <node visible="true" id="-91" lat="29.90152914837929998270737997" lon="-90.01348415371892031089373631"/>
+  <node visible="true" id="-92" lat="29.90153316397585214758692018" lon="-90.01359357402128580361022614"/>
+  <node visible="true" id="-93" lat="29.90154969921537286836610292" lon="-90.01359276652357266357284971"/>
+  <node visible="true" id="-94" lat="29.90155085813387358939507976" lon="-90.01362434570593507032754133"/>
+  <node visible="true" id="-95" lat="29.90166051235448918532711104" lon="-90.01361899074325378933281172"/>
+  <node visible="true" id="-96" lat="29.90165811839958109885628801" lon="-90.01355375819593973574228585"/>
+  <node visible="true" id="-97" lat="29.90166358489055298264247540" lon="-90.01355349123976168357330607"/>
+  <node visible="true" id="-98" lat="29.90166312199706410979160864" lon="-90.01354087792149982760747662"/>
+  <node visible="true" id="-99" lat="29.90165761694212420707117417" lon="-90.01354114676095719005388673"/>
+  <node visible="true" id="-100" lat="29.90165703860842683070586645" lon="-90.01352538782943213391263271"/>
+  <node visible="true" id="-101" lat="29.90168266349185444141767221" lon="-90.01352413643773786589008523"/>
+  <node visible="true" id="-102" lat="29.90168150713662242878854158" lon="-90.01349262706979459380818298"/>
+  <node visible="true" id="-103" lat="29.90172268901953600561682833" lon="-90.01349061595104217303742189"/>
+  <way visible="true" id="-12">
     <nd ref="-88"/>
     <nd ref="-89"/>
     <nd ref="-90"/>
@@ -282,54 +298,40 @@
     <nd ref="-95"/>
     <nd ref="-96"/>
     <nd ref="-97"/>
-    <nd ref="-82"/>
-    <tag k="building" v="yes"/>
-    <tag k="addr:housenumber" v="651"/>
-    <tag k="addr:street" v="Rue SaintMichael"/>
-    <tag k="addr:city" v="Terrytown"/>
-    <tag k="addr:postcode" v="70056"/>
-  </way>
-  <node visible="true" id="-98" lat="29.89817916102420625179547642" lon="-90.01271443179081188645795919"/>
-  <node visible="true" id="-99" lat="29.89817364749479366992090945" lon="-90.01256388363715643663454102"/>
-  <node visible="true" id="-100" lat="29.89806742596809385759115685" lon="-90.01256905989508538823429262"/>
-  <node visible="true" id="-101" lat="29.89806882917287111922632903" lon="-90.01260737466959938046784373"/>
-  <node visible="true" id="-102" lat="29.89808195267366386360663455" lon="-90.01260673515143651002290426"/>
-  <node visible="true" id="-103" lat="29.89808356242578568640055892" lon="-90.01265068974683458691288251"/>
-  <node visible="true" id="-104" lat="29.89803153381579647884791484" lon="-90.01265322514002775733388262"/>
-  <node visible="true" id="-105" lat="29.89803403439542606179202267" lon="-90.01272150392377113803377142"/>
-  <way visible="true" id="-12">
     <nd ref="-98"/>
     <nd ref="-99"/>
     <nd ref="-100"/>
     <nd ref="-101"/>
     <nd ref="-102"/>
     <nd ref="-103"/>
-    <nd ref="-104"/>
-    <nd ref="-105"/>
-    <nd ref="-98"/>
+    <nd ref="-88"/>
     <tag k="building" v="yes"/>
-    <tag k="addr:housenumber" v="2421"/>
-    <tag k="addr:street" v="Rue Saint Louis"/>
+    <tag k="addr:housenumber" v="651"/>
+    <tag k="addr:street" v="Rue SaintMichael"/>
     <tag k="addr:city" v="Terrytown"/>
     <tag k="addr:postcode" v="70056"/>
   </way>
-  <node visible="true" id="-106" lat="29.90015901004434795140696224" lon="-90.01202310433232867126207566"/>
-  <node visible="true" id="-107" lat="29.90027839294159406335893436" lon="-90.01187527321121706336271018"/>
-  <node visible="true" id="-108" lat="29.90016157116187756059844105" lon="-90.01174973751787433684512507"/>
-  <node visible="true" id="-109" lat="29.90009570378077441432651540" lon="-90.01183130062457848907797597"/>
-  <node visible="true" id="-110" lat="29.90015580207131407064480300" lon="-90.01189588167663657714001602"/>
-  <node visible="true" id="-111" lat="29.90010228644747414250559814" lon="-90.01196214969098718938766979"/>
+  <node visible="true" id="-104" lat="29.89817916102420625179547642" lon="-90.01271443179081188645795919"/>
+  <node visible="true" id="-105" lat="29.89817364749479366992090945" lon="-90.01256388363715643663454102"/>
+  <node visible="true" id="-106" lat="29.89806742596809385759115685" lon="-90.01256905989508538823429262"/>
+  <node visible="true" id="-107" lat="29.89806882917287111922632903" lon="-90.01260737466959938046784373"/>
+  <node visible="true" id="-108" lat="29.89808195267366386360663455" lon="-90.01260673515143651002290426"/>
+  <node visible="true" id="-109" lat="29.89808356242578568640055892" lon="-90.01265068974683458691288251"/>
+  <node visible="true" id="-110" lat="29.89803153381579647884791484" lon="-90.01265322514002775733388262"/>
+  <node visible="true" id="-111" lat="29.89803403439542606179202267" lon="-90.01272150392377113803377142"/>
   <way visible="true" id="-13">
+    <nd ref="-104"/>
+    <nd ref="-105"/>
     <nd ref="-106"/>
     <nd ref="-107"/>
     <nd ref="-108"/>
     <nd ref="-109"/>
     <nd ref="-110"/>
     <nd ref="-111"/>
-    <nd ref="-106"/>
+    <nd ref="-104"/>
     <tag k="building" v="yes"/>
-    <tag k="addr:housenumber" v="695"/>
-    <tag k="addr:street" v="Rue SaintMichael"/>
+    <tag k="addr:housenumber" v="2421"/>
+    <tag k="addr:street" v="Rue Saint Louis"/>
     <tag k="addr:city" v="Terrytown"/>
     <tag k="addr:postcode" v="70056"/>
   </way>

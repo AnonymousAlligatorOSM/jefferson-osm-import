@@ -1,8 +1,10 @@
 <?xml version='1.0' encoding='utf8'?>
-<osm version="0.6" generator="AnonymousAlligator's import script">
-  <changeset_tag k="comment" v="Import buildings and addresses in Jefferson Parish, see https://wiki.openstreetmap.org/wiki/Import/Catalogue/Jefferson_Parish_Addresses_and_Buildings"/>
-  <changeset_tag k="source" v="Jefferson Parish Planning Department"/>
-  <changeset_tag k="source_file" v="8184_13531"/>
+<osm version="0.6" generator="AnonymousAlligator's import script" upload-changeset="-1">
+  <changeset id="-1">
+    <tag k="comment" v="Import buildings and addresses in Jefferson Parish, see https://wiki.openstreetmap.org/wiki/Import/Catalogue/Jefferson_Parish_Addresses_and_Buildings"/>
+    <tag k="source" v="Jefferson Parish Planning Department"/>
+    <tag k="source_file" v="change-8184_13531.osm"/>
+  </changeset>
   <node visible="true" id="-1" lat="29.88490797064760684520479117" lon="-90.08747260413109358978545060"/>
   <node visible="true" id="-2" lat="29.88489091128971963939875423" lon="-90.08760051696980042379436782"/>
   <node visible="true" id="-3" lat="29.88500024281555411675981304" lon="-90.08761991366810661929775961"/>
@@ -184,12 +186,18 @@
     <tag k="addr:city" v="Harvey"/>
     <tag k="addr:postcode" v="70058"/>
   </way>
-  <node visible="true" id="-56" lat="29.88039770910925341240726993" lon="-90.07927875890017332949355477"/>
-  <node visible="true" id="-57" lat="29.88042689166056575800212158" lon="-90.07920438171298371798911830"/>
-  <node visible="true" id="-58" lat="29.88027008248183946648168785" lon="-90.07912254479252567307412392"/>
-  <node visible="true" id="-59" lat="29.88020990190559444954487844" lon="-90.07927592597584975919744466"/>
-  <node visible="true" id="-60" lat="29.88033454620050122230168199" lon="-90.07934097636085368776548421"/>
-  <node visible="true" id="-61" lat="29.88036554414084378095139982" lon="-90.07926197236473342400131514"/>
+  <node visible="true" id="-56" lat="29.88040434107085729920072481" lon="-90.07909531050377438532450469"/>
+  <node visible="true" id="-57" lat="29.88041748305498757076748007" lon="-90.07906152058158966156042879"/>
+  <node visible="true" id="-58" lat="29.88043816979967459701583721" lon="-90.07907222247277445603685919"/>
+  <node visible="true" id="-59" lat="29.88044909775818780417466769" lon="-90.07904412511810221531050047"/>
+  <node visible="true" id="-60" lat="29.88047044752066483397356933" lon="-90.07905517001239559249370359"/>
+  <node visible="true" id="-61" lat="29.88049730512349100308711058" lon="-90.07898611522094256542914081"/>
+  <node visible="true" id="-62" lat="29.88046909275010776241288113" lon="-90.07897152008177954485290684"/>
+  <node visible="true" id="-63" lat="29.88049689006026099491464265" lon="-90.07890004916701798265421530"/>
+  <node visible="true" id="-64" lat="29.88038966318692501999976230" lon="-90.07884457738904870893748011"/>
+  <node visible="true" id="-65" lat="29.88034362621399253612253233" lon="-90.07896294498310396647866582"/>
+  <node visible="true" id="-66" lat="29.88028907392651234431468765" lon="-90.07893472343346275010844693"/>
+  <node visible="true" id="-67" lat="29.88025638593475719062553253" lon="-90.07901876882247904632095015"/>
   <way visible="true" id="-10">
     <nd ref="-56"/>
     <nd ref="-57"/>
@@ -197,60 +205,40 @@
     <nd ref="-59"/>
     <nd ref="-60"/>
     <nd ref="-61"/>
-    <nd ref="-56"/>
-    <tag k="building" v="yes"/>
-    <tag k="addr:housenumber" v="13"/>
-    <tag k="addr:street" v="Wedgwood Court"/>
-    <tag k="addr:city" v="Harvey"/>
-    <tag k="addr:postcode" v="70058"/>
-  </way>
-  <node visible="true" id="-62" lat="29.88040434107085729920072481" lon="-90.07909531050377438532450469"/>
-  <node visible="true" id="-63" lat="29.88041748305498757076748007" lon="-90.07906152058158966156042879"/>
-  <node visible="true" id="-64" lat="29.88043816979967459701583721" lon="-90.07907222247277445603685919"/>
-  <node visible="true" id="-65" lat="29.88044909775818780417466769" lon="-90.07904412511810221531050047"/>
-  <node visible="true" id="-66" lat="29.88047044752066483397356933" lon="-90.07905517001239559249370359"/>
-  <node visible="true" id="-67" lat="29.88049730512349100308711058" lon="-90.07898611522094256542914081"/>
-  <node visible="true" id="-68" lat="29.88046909275010776241288113" lon="-90.07897152008177954485290684"/>
-  <node visible="true" id="-69" lat="29.88049689006026099491464265" lon="-90.07890004916701798265421530"/>
-  <node visible="true" id="-70" lat="29.88038966318692501999976230" lon="-90.07884457738904870893748011"/>
-  <node visible="true" id="-71" lat="29.88034362621399253612253233" lon="-90.07896294498310396647866582"/>
-  <node visible="true" id="-72" lat="29.88028907392651234431468765" lon="-90.07893472343346275010844693"/>
-  <node visible="true" id="-73" lat="29.88025638593475719062553253" lon="-90.07901876882247904632095015"/>
-  <way visible="true" id="-11">
     <nd ref="-62"/>
     <nd ref="-63"/>
     <nd ref="-64"/>
     <nd ref="-65"/>
     <nd ref="-66"/>
     <nd ref="-67"/>
-    <nd ref="-68"/>
-    <nd ref="-69"/>
-    <nd ref="-70"/>
-    <nd ref="-71"/>
-    <nd ref="-72"/>
-    <nd ref="-73"/>
-    <nd ref="-62"/>
+    <nd ref="-56"/>
     <tag k="building" v="yes"/>
     <tag k="addr:housenumber" v="9"/>
     <tag k="addr:street" v="Wedgwood Court"/>
     <tag k="addr:city" v="Harvey"/>
     <tag k="addr:postcode" v="70058"/>
   </way>
-  <node visible="true" id="-74" lat="29.88008335291056383198338153" lon="-90.07868037211380851658759639"/>
-  <node visible="true" id="-75" lat="29.88009448290081948584884231" lon="-90.07868604114631239099253435"/>
-  <node visible="true" id="-76" lat="29.88012199861478990214891382" lon="-90.07861418590378832504939055"/>
-  <node visible="true" id="-77" lat="29.88010983355708916064941150" lon="-90.07860798966062532144860597"/>
-  <node visible="true" id="-78" lat="29.88012628212313970266222896" lon="-90.07856503544820725437602960"/>
-  <node visible="true" id="-79" lat="29.88010616777543049238374806" lon="-90.07855479025306522089522332"/>
-  <node visible="true" id="-80" lat="29.88012778121694879018832580" lon="-90.07849834835143099098786479"/>
-  <node visible="true" id="-81" lat="29.88005196155111775624391157" lon="-90.07845972979528426094475435"/>
-  <node visible="true" id="-82" lat="29.88002316565719240770704346" lon="-90.07853492807927864305383991"/>
-  <node visible="true" id="-83" lat="29.88000993475818845013236569" lon="-90.07852818895908342256007018"/>
-  <node visible="true" id="-84" lat="29.87998527771151557885787042" lon="-90.07859257893299798070074758"/>
-  <node visible="true" id="-85" lat="29.87996499018303708794519480" lon="-90.07858224554325943245203234"/>
-  <node visible="true" id="-86" lat="29.87993807955007952159576234" lon="-90.07865252055124472008174052"/>
-  <node visible="true" id="-87" lat="29.88006856714745396175203496" lon="-90.07871898402312638154398883"/>
-  <way visible="true" id="-12">
+  <node visible="true" id="-68" lat="29.88008335291056383198338153" lon="-90.07868037211380851658759639"/>
+  <node visible="true" id="-69" lat="29.88009448290081948584884231" lon="-90.07868604114631239099253435"/>
+  <node visible="true" id="-70" lat="29.88012199861478990214891382" lon="-90.07861418590378832504939055"/>
+  <node visible="true" id="-71" lat="29.88010983355708916064941150" lon="-90.07860798966062532144860597"/>
+  <node visible="true" id="-72" lat="29.88012628212313970266222896" lon="-90.07856503544820725437602960"/>
+  <node visible="true" id="-73" lat="29.88010616777543049238374806" lon="-90.07855479025306522089522332"/>
+  <node visible="true" id="-74" lat="29.88012778121694879018832580" lon="-90.07849834835143099098786479"/>
+  <node visible="true" id="-75" lat="29.88005196155111775624391157" lon="-90.07845972979528426094475435"/>
+  <node visible="true" id="-76" lat="29.88002316565719240770704346" lon="-90.07853492807927864305383991"/>
+  <node visible="true" id="-77" lat="29.88000993475818845013236569" lon="-90.07852818895908342256007018"/>
+  <node visible="true" id="-78" lat="29.87998527771151557885787042" lon="-90.07859257893299798070074758"/>
+  <node visible="true" id="-79" lat="29.87996499018303708794519480" lon="-90.07858224554325943245203234"/>
+  <node visible="true" id="-80" lat="29.87993807955007952159576234" lon="-90.07865252055124472008174052"/>
+  <node visible="true" id="-81" lat="29.88006856714745396175203496" lon="-90.07871898402312638154398883"/>
+  <way visible="true" id="-11">
+    <nd ref="-68"/>
+    <nd ref="-69"/>
+    <nd ref="-70"/>
+    <nd ref="-71"/>
+    <nd ref="-72"/>
+    <nd ref="-73"/>
     <nd ref="-74"/>
     <nd ref="-75"/>
     <nd ref="-76"/>
@@ -259,15 +247,29 @@
     <nd ref="-79"/>
     <nd ref="-80"/>
     <nd ref="-81"/>
+    <nd ref="-68"/>
+    <tag k="building" v="yes"/>
+    <tag k="addr:housenumber" v="6"/>
+    <tag k="addr:street" v="Wedgwood Court"/>
+    <tag k="addr:city" v="Harvey"/>
+    <tag k="addr:postcode" v="70058"/>
+  </way>
+  <node visible="true" id="-82" lat="29.88039770910925341240726993" lon="-90.07927875890017332949355477"/>
+  <node visible="true" id="-83" lat="29.88042689166056575800212158" lon="-90.07920438171298371798911830"/>
+  <node visible="true" id="-84" lat="29.88027008248183946648168785" lon="-90.07912254479252567307412392"/>
+  <node visible="true" id="-85" lat="29.88020990190559444954487844" lon="-90.07927592597584975919744466"/>
+  <node visible="true" id="-86" lat="29.88033454620050122230168199" lon="-90.07934097636085368776548421"/>
+  <node visible="true" id="-87" lat="29.88036554414084378095139982" lon="-90.07926197236473342400131514"/>
+  <way visible="true" id="-12">
     <nd ref="-82"/>
     <nd ref="-83"/>
     <nd ref="-84"/>
     <nd ref="-85"/>
     <nd ref="-86"/>
     <nd ref="-87"/>
-    <nd ref="-74"/>
+    <nd ref="-82"/>
     <tag k="building" v="yes"/>
-    <tag k="addr:housenumber" v="6"/>
+    <tag k="addr:housenumber" v="13"/>
     <tag k="addr:street" v="Wedgwood Court"/>
     <tag k="addr:city" v="Harvey"/>
     <tag k="addr:postcode" v="70058"/>

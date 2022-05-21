@@ -1,20 +1,16 @@
 <?xml version='1.0' encoding='utf8'?>
-<osm version="0.6" generator="AnonymousAlligator's import script">
-  <changeset_tag k="comment" v="Import buildings and addresses in Jefferson Parish, see https://wiki.openstreetmap.org/wiki/Import/Catalogue/Jefferson_Parish_Addresses_and_Buildings"/>
-  <changeset_tag k="source" v="Jefferson Parish Planning Department"/>
-  <changeset_tag k="source_file" v="8189_13529"/>
-  <node visible="true" id="-1" lat="29.90731560810523959048623510" lon="-90.03258522167386956880363869"/>
-  <node visible="true" id="-2" lat="29.90738857018391527731182578" lon="-90.03255475227260262727213558"/>
-  <node visible="true" id="-3" lat="29.90737714589675633192200621" lon="-90.03251915847575048701401101"/>
-  <node visible="true" id="-4" lat="29.90739084105319633977160265" lon="-90.03251323969496411336876918"/>
-  <node visible="true" id="-5" lat="29.90737599651435729697368515" lon="-90.03246607519480448900139891"/>
-  <node visible="true" id="-6" lat="29.90736230136003470647665381" lon="-90.03247199398117572854971513"/>
-  <node visible="true" id="-7" lat="29.90734166887665779199778626" lon="-90.03240840266452948981168447"/>
-  <node visible="true" id="-8" lat="29.90726571777648246097669471" lon="-90.03244024599530348496045917"/>
-  <node visible="true" id="-9" lat="29.90723416980975102319462167" lon="-90.03245343637883024712209590"/>
-  <node visible="true" id="-10" lat="29.90725075119001630241655221" lon="-90.03250717182723406040167902"/>
-  <node visible="true" id="-11" lat="29.90727787657448999425469083" lon="-90.03259507511570802762435051"/>
-  <node visible="true" id="-12" lat="29.90731398728124901253977441" lon="-90.03258025431668443161470350"/>
+<osm version="0.6" generator="AnonymousAlligator's import script" upload-changeset="-1">
+  <changeset id="-1">
+    <tag k="comment" v="Import buildings and addresses in Jefferson Parish, see https://wiki.openstreetmap.org/wiki/Import/Catalogue/Jefferson_Parish_Addresses_and_Buildings"/>
+    <tag k="source" v="Jefferson Parish Planning Department"/>
+    <tag k="source_file" v="change-8189_13529.osm"/>
+  </changeset>
+  <node visible="true" id="-1" lat="29.89949778974943583875756303" lon="-90.03281783153499873151304200"/>
+  <node visible="true" id="-2" lat="29.89954370333948929783218773" lon="-90.03283065536862750377622433"/>
+  <node visible="true" id="-3" lat="29.89956476278537778057398100" lon="-90.03273032520149854462943040"/>
+  <node visible="true" id="-4" lat="29.89943822327562372720421990" lon="-90.03269498226049449840502348"/>
+  <node visible="true" id="-5" lat="29.89940449848072034910728689" lon="-90.03285565172119220278545981"/>
+  <node visible="true" id="-6" lat="29.89948512443722350440111768" lon="-90.03287817082855326589196920"/>
   <way visible="true" id="-1">
     <nd ref="-1"/>
     <nd ref="-2"/>
@@ -22,36 +18,42 @@
     <nd ref="-4"/>
     <nd ref="-5"/>
     <nd ref="-6"/>
+    <nd ref="-1"/>
+    <tag k="building" v="yes"/>
+    <tag k="addr:housenumber" v="1924"/>
+    <tag k="addr:street" v="Green Oak Drive"/>
+    <tag k="addr:city" v="Terrytown"/>
+    <tag k="addr:postcode" v="70056"/>
+  </way>
+  <node visible="true" id="-7" lat="29.90731560810523959048623510" lon="-90.03258522167386956880363869"/>
+  <node visible="true" id="-8" lat="29.90738857018391527731182578" lon="-90.03255475227260262727213558"/>
+  <node visible="true" id="-9" lat="29.90737714589675633192200621" lon="-90.03251915847575048701401101"/>
+  <node visible="true" id="-10" lat="29.90739084105319633977160265" lon="-90.03251323969496411336876918"/>
+  <node visible="true" id="-11" lat="29.90737599651435729697368515" lon="-90.03246607519480448900139891"/>
+  <node visible="true" id="-12" lat="29.90736230136003470647665381" lon="-90.03247199398117572854971513"/>
+  <node visible="true" id="-13" lat="29.90734166887665779199778626" lon="-90.03240840266452948981168447"/>
+  <node visible="true" id="-14" lat="29.90726571777648246097669471" lon="-90.03244024599530348496045917"/>
+  <node visible="true" id="-15" lat="29.90723416980975102319462167" lon="-90.03245343637883024712209590"/>
+  <node visible="true" id="-16" lat="29.90725075119001630241655221" lon="-90.03250717182723406040167902"/>
+  <node visible="true" id="-17" lat="29.90727787657448999425469083" lon="-90.03259507511570802762435051"/>
+  <node visible="true" id="-18" lat="29.90731398728124901253977441" lon="-90.03258025431668443161470350"/>
+  <way visible="true" id="-2">
     <nd ref="-7"/>
     <nd ref="-8"/>
     <nd ref="-9"/>
     <nd ref="-10"/>
     <nd ref="-11"/>
     <nd ref="-12"/>
-    <nd ref="-1"/>
-    <tag k="building" v="yes"/>
-    <tag k="addr:housenumber" v="1924"/>
-    <tag k="addr:street" v="Friedrica Street"/>
-    <tag k="addr:city" v="Terrytown"/>
-    <tag k="addr:postcode" v="70056"/>
-  </way>
-  <node visible="true" id="-13" lat="29.89949778974943583875756303" lon="-90.03281783153499873151304200"/>
-  <node visible="true" id="-14" lat="29.89954370333948929783218773" lon="-90.03283065536862750377622433"/>
-  <node visible="true" id="-15" lat="29.89956476278537778057398100" lon="-90.03273032520149854462943040"/>
-  <node visible="true" id="-16" lat="29.89943822327562372720421990" lon="-90.03269498226049449840502348"/>
-  <node visible="true" id="-17" lat="29.89940449848072034910728689" lon="-90.03285565172119220278545981"/>
-  <node visible="true" id="-18" lat="29.89948512443722350440111768" lon="-90.03287817082855326589196920"/>
-  <way visible="true" id="-2">
     <nd ref="-13"/>
     <nd ref="-14"/>
     <nd ref="-15"/>
     <nd ref="-16"/>
     <nd ref="-17"/>
     <nd ref="-18"/>
-    <nd ref="-13"/>
+    <nd ref="-7"/>
     <tag k="building" v="yes"/>
     <tag k="addr:housenumber" v="1924"/>
-    <tag k="addr:street" v="Green Oak Drive"/>
+    <tag k="addr:street" v="Friedrica Street"/>
     <tag k="addr:city" v="Terrytown"/>
     <tag k="addr:postcode" v="70056"/>
   </way>
@@ -572,14 +574,16 @@
     <tag k="addr:city" v="Terrytown"/>
     <tag k="addr:postcode" v="70056"/>
   </way>
-  <node visible="true" id="-190" lat="29.90003455501935647475875157" lon="-90.03209178968589299074665178"/>
-  <node visible="true" id="-191" lat="29.90004014235617546546563972" lon="-90.03203601866987071389303310"/>
-  <node visible="true" id="-192" lat="29.90002286471964865199879569" lon="-90.03203371539278521140658995"/>
-  <node visible="true" id="-193" lat="29.90003330751410004495483008" lon="-90.03192947875649565503408667"/>
-  <node visible="true" id="-194" lat="29.89993831051763706341262150" lon="-90.03191681473822427506092936"/>
-  <node visible="true" id="-195" lat="29.89992764371989153460162925" lon="-90.03202328720161062847182620"/>
-  <node visible="true" id="-196" lat="29.89991330675677971839832026" lon="-90.03202137594705334322497947"/>
-  <node visible="true" id="-197" lat="29.89990794340607749290938955" lon="-90.03207491113597882304020459"/>
+  <node visible="true" id="-190" lat="29.89993014964908724095948855" lon="-90.03284751763806070812279359"/>
+  <node visible="true" id="-191" lat="29.89994174248911562585817592" lon="-90.03278479464374584040342597"/>
+  <node visible="true" id="-192" lat="29.89993874477034552228360553" lon="-90.03278405738718959128163988"/>
+  <node visible="true" id="-193" lat="29.89994714165202438493906811" lon="-90.03273862610406297335430281"/>
+  <node visible="true" id="-194" lat="29.89992633277820388570944488" lon="-90.03273350838631472470297012"/>
+  <node visible="true" id="-195" lat="29.89993234169718405723870092" lon="-90.03270099716679908397054533"/>
+  <node visible="true" id="-196" lat="29.89992123811372692898657988" lon="-90.03269826636066852643125458"/>
+  <node visible="true" id="-197" lat="29.89992318861968456644717662" lon="-90.03268771316112406566389836"/>
+  <node visible="true" id="-198" lat="29.89981572845604418375842215" lon="-90.03266128451235772445215844"/>
+  <node visible="true" id="-199" lat="29.89978777927206365916390496" lon="-90.03281250320883088988921372"/>
   <way visible="true" id="-25">
     <nd ref="-190"/>
     <nd ref="-191"/>
@@ -589,26 +593,24 @@
     <nd ref="-195"/>
     <nd ref="-196"/>
     <nd ref="-197"/>
+    <nd ref="-198"/>
+    <nd ref="-199"/>
     <nd ref="-190"/>
     <tag k="building" v="yes"/>
-    <tag k="addr:housenumber" v="1945"/>
+    <tag k="addr:housenumber" v="1929"/>
     <tag k="addr:street" v="Green Oak Drive"/>
     <tag k="addr:city" v="Terrytown"/>
     <tag k="addr:postcode" v="70056"/>
   </way>
-  <node visible="true" id="-198" lat="29.89993014964908724095948855" lon="-90.03284751763806070812279359"/>
-  <node visible="true" id="-199" lat="29.89994174248911562585817592" lon="-90.03278479464374584040342597"/>
-  <node visible="true" id="-200" lat="29.89993874477034552228360553" lon="-90.03278405738718959128163988"/>
-  <node visible="true" id="-201" lat="29.89994714165202438493906811" lon="-90.03273862610406297335430281"/>
-  <node visible="true" id="-202" lat="29.89992633277820388570944488" lon="-90.03273350838631472470297012"/>
-  <node visible="true" id="-203" lat="29.89993234169718405723870092" lon="-90.03270099716679908397054533"/>
-  <node visible="true" id="-204" lat="29.89992123811372692898657988" lon="-90.03269826636066852643125458"/>
-  <node visible="true" id="-205" lat="29.89992318861968456644717662" lon="-90.03268771316112406566389836"/>
-  <node visible="true" id="-206" lat="29.89981572845604418375842215" lon="-90.03266128451235772445215844"/>
-  <node visible="true" id="-207" lat="29.89978777927206365916390496" lon="-90.03281250320883088988921372"/>
+  <node visible="true" id="-200" lat="29.90003455501935647475875157" lon="-90.03209178968589299074665178"/>
+  <node visible="true" id="-201" lat="29.90004014235617546546563972" lon="-90.03203601866987071389303310"/>
+  <node visible="true" id="-202" lat="29.90002286471964865199879569" lon="-90.03203371539278521140658995"/>
+  <node visible="true" id="-203" lat="29.90003330751410004495483008" lon="-90.03192947875649565503408667"/>
+  <node visible="true" id="-204" lat="29.89993831051763706341262150" lon="-90.03191681473822427506092936"/>
+  <node visible="true" id="-205" lat="29.89992764371989153460162925" lon="-90.03202328720161062847182620"/>
+  <node visible="true" id="-206" lat="29.89991330675677971839832026" lon="-90.03202137594705334322497947"/>
+  <node visible="true" id="-207" lat="29.89990794340607749290938955" lon="-90.03207491113597882304020459"/>
   <way visible="true" id="-26">
-    <nd ref="-198"/>
-    <nd ref="-199"/>
     <nd ref="-200"/>
     <nd ref="-201"/>
     <nd ref="-202"/>
@@ -617,9 +619,9 @@
     <nd ref="-205"/>
     <nd ref="-206"/>
     <nd ref="-207"/>
-    <nd ref="-198"/>
+    <nd ref="-200"/>
     <tag k="building" v="yes"/>
-    <tag k="addr:housenumber" v="1929"/>
+    <tag k="addr:housenumber" v="1945"/>
     <tag k="addr:street" v="Green Oak Drive"/>
     <tag k="addr:city" v="Terrytown"/>
     <tag k="addr:postcode" v="70056"/>

@@ -1,8 +1,10 @@
 <?xml version='1.0' encoding='utf8'?>
-<osm version="0.6" generator="AnonymousAlligator's import script">
-  <changeset_tag k="comment" v="Import buildings and addresses in Jefferson Parish, see https://wiki.openstreetmap.org/wiki/Import/Catalogue/Jefferson_Parish_Addresses_and_Buildings"/>
-  <changeset_tag k="source" v="Jefferson Parish Planning Department"/>
-  <changeset_tag k="source_file" v="8170_13520"/>
+<osm version="0.6" generator="AnonymousAlligator's import script" upload-changeset="-1">
+  <changeset id="-1">
+    <tag k="comment" v="Import buildings and addresses in Jefferson Parish, see https://wiki.openstreetmap.org/wiki/Import/Catalogue/Jefferson_Parish_Addresses_and_Buildings"/>
+    <tag k="source" v="Jefferson Parish Planning Department"/>
+    <tag k="source_file" v="change-8170_13520.osm"/>
+  </changeset>
   <node visible="true" id="-1" lat="29.98462139250610292151577596" lon="-90.23153808134520659223198891"/>
   <node visible="true" id="-2" lat="29.98474630722525802184463828" lon="-90.23150337825889266696322011"/>
   <node visible="true" id="-3" lat="29.98472051817919492577857454" lon="-90.23137964520466880458116066"/>
@@ -19,108 +21,108 @@
     <tag k="addr:city" v="Metairie"/>
     <tag k="addr:postcode" v="70003"/>
   </way>
-  <node visible="true" id="-5" lat="29.98506345975062004072242416" lon="-90.23376189332134345022495836"/>
-  <node visible="true" id="-6" lat="29.98513487535928234706261719" lon="-90.23374358855363652764935978"/>
-  <node visible="true" id="-7" lat="29.98510183816089735842069786" lon="-90.23357178166635605975898216"/>
-  <node visible="true" id="-8" lat="29.98502520245178004643094027" lon="-90.23359142440810387597593945"/>
-  <node visible="true" id="-9" lat="29.98505799397864990396556095" lon="-90.23376195357181472900265362"/>
+  <node visible="true" id="-5" lat="29.98469169464834394034369325" lon="-90.23322614724746415504341712"/>
+  <node visible="true" id="-6" lat="29.98467516350729766827498679" lon="-90.23314755380270923978969222"/>
+  <node visible="true" id="-7" lat="29.98469634400203531754414144" lon="-90.23314161556828594257240184"/>
+  <node visible="true" id="-8" lat="29.98468536254889826864200586" lon="-90.23308940681276624218298821"/>
+  <node visible="true" id="-9" lat="29.98460391109385270169696014" lon="-90.23311224280593023649998941"/>
+  <node visible="true" id="-10" lat="29.98463142370723133467436128" lon="-90.23324304500620485214312794"/>
   <way visible="true" id="-2">
     <nd ref="-5"/>
     <nd ref="-6"/>
     <nd ref="-7"/>
     <nd ref="-8"/>
     <nd ref="-9"/>
+    <nd ref="-10"/>
     <nd ref="-5"/>
-    <tag k="building" v="yes"/>
-    <tag k="addr:housenumber" v="9101"/>
-    <tag k="addr:street" v="Dearborn Street"/>
-    <tag k="addr:city" v="Metairie"/>
-    <tag k="addr:postcode" v="70003"/>
-  </way>
-  <node visible="true" id="-10" lat="29.98469169464834394034369325" lon="-90.23322614724746415504341712"/>
-  <node visible="true" id="-11" lat="29.98467516350729766827498679" lon="-90.23314755380270923978969222"/>
-  <node visible="true" id="-12" lat="29.98469634400203531754414144" lon="-90.23314161556828594257240184"/>
-  <node visible="true" id="-13" lat="29.98468536254889826864200586" lon="-90.23308940681276624218298821"/>
-  <node visible="true" id="-14" lat="29.98460391109385270169696014" lon="-90.23311224280593023649998941"/>
-  <node visible="true" id="-15" lat="29.98463142370723133467436128" lon="-90.23324304500620485214312794"/>
-  <way visible="true" id="-3">
-    <nd ref="-10"/>
-    <nd ref="-11"/>
-    <nd ref="-12"/>
-    <nd ref="-13"/>
-    <nd ref="-14"/>
-    <nd ref="-15"/>
-    <nd ref="-10"/>
     <tag k="building" v="yes"/>
     <tag k="addr:housenumber" v="9010"/>
     <tag k="addr:street" v="Dearborn Street"/>
     <tag k="addr:city" v="Metairie"/>
     <tag k="addr:postcode" v="70003"/>
   </way>
-  <node visible="true" id="-16" lat="29.98473073230005070399784017" lon="-90.23341042143876222780818352"/>
-  <node visible="true" id="-17" lat="29.98471743780387654965124966" lon="-90.23334709679392062753322534"/>
-  <node visible="true" id="-18" lat="29.98473682082057223396986956" lon="-90.23334167272022909855877515"/>
-  <node visible="true" id="-19" lat="29.98472258915411714497167850" lon="-90.23327388412100447112607071"/>
-  <node visible="true" id="-20" lat="29.98464310766800267060716578" lon="-90.23329612592432624751381809"/>
-  <node visible="true" id="-21" lat="29.98466111393556587927378132" lon="-90.23338189372275053301564185"/>
-  <node visible="true" id="-22" lat="29.98462707313038322354259435" lon="-90.23339141957130493665317772"/>
-  <node visible="true" id="-23" lat="29.98463659304820083661979879" lon="-90.23343676501694687885901658"/>
-  <way visible="true" id="-4">
+  <node visible="true" id="-11" lat="29.98473073230005070399784017" lon="-90.23341042143876222780818352"/>
+  <node visible="true" id="-12" lat="29.98471743780387654965124966" lon="-90.23334709679392062753322534"/>
+  <node visible="true" id="-13" lat="29.98473682082057223396986956" lon="-90.23334167272022909855877515"/>
+  <node visible="true" id="-14" lat="29.98472258915411714497167850" lon="-90.23327388412100447112607071"/>
+  <node visible="true" id="-15" lat="29.98464310766800267060716578" lon="-90.23329612592432624751381809"/>
+  <node visible="true" id="-16" lat="29.98466111393556587927378132" lon="-90.23338189372275053301564185"/>
+  <node visible="true" id="-17" lat="29.98462707313038322354259435" lon="-90.23339141957130493665317772"/>
+  <node visible="true" id="-18" lat="29.98463659304820083661979879" lon="-90.23343676501694687885901658"/>
+  <way visible="true" id="-3">
+    <nd ref="-11"/>
+    <nd ref="-12"/>
+    <nd ref="-13"/>
+    <nd ref="-14"/>
+    <nd ref="-15"/>
     <nd ref="-16"/>
     <nd ref="-17"/>
     <nd ref="-18"/>
-    <nd ref="-19"/>
-    <nd ref="-20"/>
-    <nd ref="-21"/>
-    <nd ref="-22"/>
-    <nd ref="-23"/>
-    <nd ref="-16"/>
+    <nd ref="-11"/>
     <tag k="building" v="yes"/>
     <tag k="addr:housenumber" v="9014"/>
     <tag k="addr:street" v="Dearborn Street"/>
     <tag k="addr:city" v="Metairie"/>
     <tag k="addr:postcode" v="70003"/>
   </way>
-  <node visible="true" id="-24" lat="29.98496465917013154012238374" lon="-90.23310430060510611838253681"/>
-  <node visible="true" id="-25" lat="29.98498341387955079540006409" lon="-90.23309944252113723450747784"/>
-  <node visible="true" id="-26" lat="29.98498783194515482364295167" lon="-90.23312217698912718333303928"/>
-  <node visible="true" id="-27" lat="29.98496719093287765645072795" lon="-90.23312752368752853726618923"/>
-  <node visible="true" id="-28" lat="29.98497786985493362976740173" lon="-90.23318247524360913303098641"/>
-  <node visible="true" id="-29" lat="29.98509265113781907530210447" lon="-90.23315274311383404892694671"/>
-  <node visible="true" id="-30" lat="29.98506631803063982033563661" lon="-90.23301723816641128905757796"/>
-  <node visible="true" id="-31" lat="29.98495342302135924228423391" lon="-90.23304648168176811395824188"/>
-  <way visible="true" id="-5">
+  <node visible="true" id="-19" lat="29.98496465917013154012238374" lon="-90.23310430060510611838253681"/>
+  <node visible="true" id="-20" lat="29.98498341387955079540006409" lon="-90.23309944252113723450747784"/>
+  <node visible="true" id="-21" lat="29.98498783194515482364295167" lon="-90.23312217698912718333303928"/>
+  <node visible="true" id="-22" lat="29.98496719093287765645072795" lon="-90.23312752368752853726618923"/>
+  <node visible="true" id="-23" lat="29.98497786985493362976740173" lon="-90.23318247524360913303098641"/>
+  <node visible="true" id="-24" lat="29.98509265113781907530210447" lon="-90.23315274311383404892694671"/>
+  <node visible="true" id="-25" lat="29.98506631803063982033563661" lon="-90.23301723816641128905757796"/>
+  <node visible="true" id="-26" lat="29.98495342302135924228423391" lon="-90.23304648168176811395824188"/>
+  <way visible="true" id="-4">
+    <nd ref="-19"/>
+    <nd ref="-20"/>
+    <nd ref="-21"/>
+    <nd ref="-22"/>
+    <nd ref="-23"/>
     <nd ref="-24"/>
     <nd ref="-25"/>
     <nd ref="-26"/>
-    <nd ref="-27"/>
-    <nd ref="-28"/>
-    <nd ref="-29"/>
-    <nd ref="-30"/>
-    <nd ref="-31"/>
-    <nd ref="-24"/>
+    <nd ref="-19"/>
     <tag k="building" v="yes"/>
     <tag k="addr:housenumber" v="9011"/>
     <tag k="addr:street" v="Dearborn Street"/>
     <tag k="addr:city" v="Metairie"/>
     <tag k="addr:postcode" v="70003"/>
   </way>
-  <node visible="true" id="-32" lat="29.98513725001062368846760364" lon="-90.23330616285923611030739266"/>
-  <node visible="true" id="-33" lat="29.98510929179937889443863241" lon="-90.23316879106867816062731436"/>
-  <node visible="true" id="-34" lat="29.98497790897077663885283982" lon="-90.23320443278841196388384560"/>
-  <node visible="true" id="-35" lat="29.98498583086623980875629059" lon="-90.23324335671655660462420201"/>
-  <node visible="true" id="-36" lat="29.98498178819152926166680118" lon="-90.23324445341839350476220716"/>
-  <node visible="true" id="-37" lat="29.98500182454522189345880179" lon="-90.23334290128077839199249865"/>
-  <way visible="true" id="-6">
+  <node visible="true" id="-27" lat="29.98513725001062368846760364" lon="-90.23330616285923611030739266"/>
+  <node visible="true" id="-28" lat="29.98510929179937889443863241" lon="-90.23316879106867816062731436"/>
+  <node visible="true" id="-29" lat="29.98497790897077663885283982" lon="-90.23320443278841196388384560"/>
+  <node visible="true" id="-30" lat="29.98498583086623980875629059" lon="-90.23324335671655660462420201"/>
+  <node visible="true" id="-31" lat="29.98498178819152926166680118" lon="-90.23324445341839350476220716"/>
+  <node visible="true" id="-32" lat="29.98500182454522189345880179" lon="-90.23334290128077839199249865"/>
+  <way visible="true" id="-5">
+    <nd ref="-27"/>
+    <nd ref="-28"/>
+    <nd ref="-29"/>
+    <nd ref="-30"/>
+    <nd ref="-31"/>
     <nd ref="-32"/>
+    <nd ref="-27"/>
+    <tag k="building" v="yes"/>
+    <tag k="addr:housenumber" v="9015"/>
+    <tag k="addr:street" v="Dearborn Street"/>
+    <tag k="addr:city" v="Metairie"/>
+    <tag k="addr:postcode" v="70003"/>
+  </way>
+  <node visible="true" id="-33" lat="29.98506345975062004072242416" lon="-90.23376189332134345022495836"/>
+  <node visible="true" id="-34" lat="29.98513487535928234706261719" lon="-90.23374358855363652764935978"/>
+  <node visible="true" id="-35" lat="29.98510183816089735842069786" lon="-90.23357178166635605975898216"/>
+  <node visible="true" id="-36" lat="29.98502520245178004643094027" lon="-90.23359142440810387597593945"/>
+  <node visible="true" id="-37" lat="29.98505799397864990396556095" lon="-90.23376195357181472900265362"/>
+  <way visible="true" id="-6">
     <nd ref="-33"/>
     <nd ref="-34"/>
     <nd ref="-35"/>
     <nd ref="-36"/>
     <nd ref="-37"/>
-    <nd ref="-32"/>
+    <nd ref="-33"/>
     <tag k="building" v="yes"/>
-    <tag k="addr:housenumber" v="9015"/>
+    <tag k="addr:housenumber" v="9101"/>
     <tag k="addr:street" v="Dearborn Street"/>
     <tag k="addr:city" v="Metairie"/>
     <tag k="addr:postcode" v="70003"/>

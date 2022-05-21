@@ -1,8 +1,10 @@
 <?xml version='1.0' encoding='utf8'?>
-<osm version="0.6" generator="AnonymousAlligator's import script">
-  <changeset_tag k="comment" v="Import buildings and addresses in Jefferson Parish, see https://wiki.openstreetmap.org/wiki/Import/Catalogue/Jefferson_Parish_Addresses_and_Buildings"/>
-  <changeset_tag k="source" v="Jefferson Parish Planning Department"/>
-  <changeset_tag k="source_file" v="8172_13530"/>
+<osm version="0.6" generator="AnonymousAlligator's import script" upload-changeset="-1">
+  <changeset id="-1">
+    <tag k="comment" v="Import buildings and addresses in Jefferson Parish, see https://wiki.openstreetmap.org/wiki/Import/Catalogue/Jefferson_Parish_Addresses_and_Buildings"/>
+    <tag k="source" v="Jefferson Parish Planning Department"/>
+    <tag k="source_file" v="change-8172_13530.osm"/>
+  </changeset>
   <node visible="true" id="-1" lat="29.89773724511463726116744510" lon="-90.21052990761994294643955072"/>
   <node visible="true" id="-2" lat="29.89773227009103706564019376" lon="-90.21053315347378998012572993"/>
   <node visible="true" id="-3" lat="29.89775517090760459382181580" lon="-90.21060808451757395687309327"/>
@@ -2293,118 +2295,132 @@
     <tag k="addr:city" v="Avondale"/>
     <tag k="addr:postcode" v="70094"/>
   </way>
-  <node visible="true" id="-702" lat="29.89535797200337796653002442" lon="-90.21109628033683236481010681"/>
-  <node visible="true" id="-703" lat="29.89539154562668699099958758" lon="-90.21121760801538869145588251"/>
-  <node visible="true" id="-704" lat="29.89551204201919887282201671" lon="-90.21117324330589326564222574"/>
-  <node visible="true" id="-705" lat="29.89547846843649381298746448" lon="-90.21105191562733693899645004"/>
+  <node visible="true" id="-702" lat="29.89696045867447082855505869" lon="-90.20880907964979655844217632"/>
+  <node visible="true" id="-703" lat="29.89705339978114295718114590" lon="-90.20877286916878290412569186"/>
+  <node visible="true" id="-704" lat="29.89703431909252984155500599" lon="-90.20870770529306525986612542"/>
+  <node visible="true" id="-705" lat="29.89698813396273280318382604" lon="-90.20872569933165152633591788"/>
+  <node visible="true" id="-706" lat="29.89696841155583584281885123" lon="-90.20865834392044746437022695"/>
+  <node visible="true" id="-707" lat="29.89683940477861412432503130" lon="-90.20870860577824146275816020"/>
+  <node visible="true" id="-708" lat="29.89687833242282977153081447" lon="-90.20884155021830963505635737"/>
+  <node visible="true" id="-709" lat="29.89696171059466323072228988" lon="-90.20880906554903333471884253"/>
   <way visible="true" id="-113">
     <nd ref="-702"/>
     <nd ref="-703"/>
     <nd ref="-704"/>
     <nd ref="-705"/>
-    <nd ref="-702"/>
-    <tag k="building" v="yes"/>
-    <tag k="addr:housenumber" v="149"/>
-    <tag k="addr:street" v="Winnona Drive"/>
-    <tag k="addr:city" v="Avondale"/>
-    <tag k="addr:postcode" v="70094"/>
-  </way>
-  <node visible="true" id="-706" lat="29.89532907850510312641745259" lon="-90.21093630754975833951903041"/>
-  <node visible="true" id="-707" lat="29.89536399673878364069423696" lon="-90.21106342572396386003674706"/>
-  <node visible="true" id="-708" lat="29.89544951177366272077051690" lon="-90.21103217126035644923831569"/>
-  <node visible="true" id="-709" lat="29.89544135239198752174161200" lon="-90.21100246738875227947573876"/>
-  <node visible="true" id="-710" lat="29.89548137195201960025769949" lon="-90.21098784083133637068385724"/>
-  <node visible="true" id="-711" lat="29.89545461314067509306369175" lon="-90.21089042652873501992871752"/>
-  <way visible="true" id="-114">
     <nd ref="-706"/>
     <nd ref="-707"/>
     <nd ref="-708"/>
     <nd ref="-709"/>
-    <nd ref="-710"/>
-    <nd ref="-711"/>
-    <nd ref="-706"/>
+    <nd ref="-702"/>
     <tag k="building" v="yes"/>
-    <tag k="addr:housenumber" v="145"/>
-    <tag k="addr:street" v="Winnona Drive"/>
+    <tag k="addr:housenumber" v="104"/>
+    <tag k="addr:street" v="Madeira Drive"/>
     <tag k="addr:city" v="Avondale"/>
     <tag k="addr:postcode" v="70094"/>
   </way>
-  <node visible="true" id="-712" lat="29.89532030049171495988957759" lon="-90.21041199498974094694858650"/>
-  <node visible="true" id="-713" lat="29.89533649381121804822214472" lon="-90.21046899052325329648738261"/>
-  <node visible="true" id="-714" lat="29.89529791553000137582785101" lon="-90.21048357404519890678784577"/>
-  <node visible="true" id="-715" lat="29.89531646176894597033424361" lon="-90.21054885112181409567710944"/>
-  <node visible="true" id="-716" lat="29.89543783140085508875927189" lon="-90.21050297044234866916667670"/>
-  <node visible="true" id="-717" lat="29.89540309187843547533702804" lon="-90.21038069783222113073861692"/>
-  <way visible="true" id="-115">
+  <node visible="true" id="-710" lat="29.89688288308830621531342331" lon="-90.20903787751352354007394752"/>
+  <node visible="true" id="-711" lat="29.89689893289298794343267218" lon="-90.20908839762594766398251522"/>
+  <node visible="true" id="-712" lat="29.89690408587007652840839000" lon="-90.20908477006383918705978431"/>
+  <node visible="true" id="-713" lat="29.89693189427453745565799181" lon="-90.20917230284869958722993033"/>
+  <node visible="true" id="-714" lat="29.89701642833643546737221186" lon="-90.20913656933730351283884374"/>
+  <node visible="true" id="-715" lat="29.89697297609527026907016989" lon="-90.20899979419039027561666444"/>
+  <way visible="true" id="-114">
+    <nd ref="-710"/>
+    <nd ref="-711"/>
     <nd ref="-712"/>
     <nd ref="-713"/>
     <nd ref="-714"/>
     <nd ref="-715"/>
-    <nd ref="-716"/>
-    <nd ref="-717"/>
-    <nd ref="-712"/>
+    <nd ref="-710"/>
     <tag k="building" v="yes"/>
-    <tag k="addr:housenumber" v="133"/>
-    <tag k="addr:street" v="Winnona Drive"/>
+    <tag k="addr:housenumber" v="112"/>
+    <tag k="addr:street" v="Madeira Drive"/>
     <tag k="addr:city" v="Avondale"/>
     <tag k="addr:postcode" v="70094"/>
   </way>
-  <node visible="true" id="-718" lat="29.89537144994131168118656205" lon="-90.21021480453771346219582483"/>
-  <node visible="true" id="-719" lat="29.89525119337477576664241496" lon="-90.21026063843062559044483351"/>
-  <node visible="true" id="-720" lat="29.89527376856807805438620562" lon="-90.21034217207795791182434186"/>
-  <node visible="true" id="-721" lat="29.89524322066467476588513819" lon="-90.21035184202560230914968997"/>
-  <node visible="true" id="-722" lat="29.89524069544266282605349261" lon="-90.21034900118003463376226136"/>
-  <node visible="true" id="-723" lat="29.89520517149453482375065505" lon="-90.21036159633828788173559587"/>
-  <node visible="true" id="-724" lat="29.89522188200767160992654681" lon="-90.21041521584362499197595753"/>
-  <node visible="true" id="-725" lat="29.89525740686304544624363189" lon="-90.21040262069219295426591998"/>
-  <node visible="true" id="-726" lat="29.89542500891013077080060611" lon="-90.21033760066973172797588632"/>
-  <node visible="true" id="-727" lat="29.89541340215429343629693903" lon="-90.21029612031578892583638662"/>
-  <node visible="true" id="-728" lat="29.89539720620301466169621563" lon="-90.21030275960522715195111232"/>
-  <way visible="true" id="-116">
+  <node visible="true" id="-716" lat="29.89707013850157935053175606" lon="-90.20965372527182069006812526"/>
+  <node visible="true" id="-717" lat="29.89703152144559439307158755" lon="-90.20952107205732772854389623"/>
+  <node visible="true" id="-718" lat="29.89692747053302923632145394" lon="-90.20956137590516732416290324"/>
+  <node visible="true" id="-719" lat="29.89696608762933038860865054" lon="-90.20969402911967449654184747"/>
+  <way visible="true" id="-115">
+    <nd ref="-716"/>
+    <nd ref="-717"/>
     <nd ref="-718"/>
     <nd ref="-719"/>
+    <nd ref="-716"/>
+    <tag k="building" v="yes"/>
+    <tag k="addr:housenumber" v="124"/>
+    <tag k="addr:street" v="Madeira Drive"/>
+    <tag k="addr:city" v="Avondale"/>
+    <tag k="addr:postcode" v="70094"/>
+  </way>
+  <node visible="true" id="-720" lat="29.89586239432443548480478057" lon="-90.21091535968635355402511777"/>
+  <node visible="true" id="-721" lat="29.89583512096946904534888745" lon="-90.21082032935409245055780048"/>
+  <node visible="true" id="-722" lat="29.89579714282927369595199707" lon="-90.21083483172256478610506747"/>
+  <node visible="true" id="-723" lat="29.89578808599956261105035082" lon="-90.21080327443692681299580727"/>
+  <node visible="true" id="-724" lat="29.89571436422363248652800394" lon="-90.21083142588557279850647319"/>
+  <node visible="true" id="-725" lat="29.89575069444559929365823336" lon="-90.21095801350345766422833549"/>
+  <way visible="true" id="-116">
     <nd ref="-720"/>
     <nd ref="-721"/>
     <nd ref="-722"/>
     <nd ref="-723"/>
     <nd ref="-724"/>
     <nd ref="-725"/>
+    <nd ref="-720"/>
+    <tag k="building" v="yes"/>
+    <tag k="addr:housenumber" v="144"/>
+    <tag k="addr:street" v="Winnona Drive"/>
+    <tag k="addr:city" v="Avondale"/>
+    <tag k="addr:postcode" v="70094"/>
+  </way>
+  <node visible="true" id="-726" lat="29.89588929304579068002567510" lon="-90.21106369737411512232938549"/>
+  <node visible="true" id="-727" lat="29.89585519516720424348932283" lon="-90.21094622122527084684406873"/>
+  <node visible="true" id="-728" lat="29.89573457182652305164083373" lon="-90.21099280535072750808467390"/>
+  <node visible="true" id="-729" lat="29.89576866974641689012059942" lon="-90.21111028149957178356999066"/>
+  <way visible="true" id="-117">
     <nd ref="-726"/>
     <nd ref="-727"/>
     <nd ref="-728"/>
-    <nd ref="-718"/>
+    <nd ref="-729"/>
+    <nd ref="-726"/>
     <tag k="building" v="yes"/>
-    <tag k="addr:housenumber" v="129"/>
+    <tag k="addr:housenumber" v="148"/>
     <tag k="addr:street" v="Winnona Drive"/>
     <tag k="addr:city" v="Avondale"/>
     <tag k="addr:postcode" v="70094"/>
   </way>
-  <node visible="true" id="-729" lat="29.89579689878374324507603887" lon="-90.21024652813740374313056236"/>
-  <node visible="true" id="-730" lat="29.89576168098385977600628394" lon="-90.21012848126144945126725361"/>
-  <node visible="true" id="-731" lat="29.89564212032166068411243032" lon="-90.21017594087085456067143241"/>
-  <node visible="true" id="-732" lat="29.89567733816378591882312321" lon="-90.21029398774680885253474116"/>
-  <way visible="true" id="-117">
-    <nd ref="-729"/>
+  <node visible="true" id="-730" lat="29.89617761599161482877207163" lon="-90.21103041978622627539152745"/>
+  <node visible="true" id="-731" lat="29.89614377951117418774629186" lon="-90.21091051318214226739655714"/>
+  <node visible="true" id="-732" lat="29.89607284306384116234767134" lon="-90.21093714759157933258393314"/>
+  <node visible="true" id="-733" lat="29.89610667956835854397468211" lon="-90.21105705419567755143361865"/>
+  <way visible="true" id="-118">
     <nd ref="-730"/>
     <nd ref="-731"/>
     <nd ref="-732"/>
-    <nd ref="-729"/>
+    <nd ref="-733"/>
+    <nd ref="-730"/>
     <tag k="building" v="yes"/>
-    <tag k="addr:housenumber" v="128"/>
-    <tag k="addr:street" v="Winnona Drive"/>
+    <tag k="addr:housenumber" v="149"/>
+    <tag k="addr:street" v="Helen Drive"/>
     <tag k="addr:city" v="Avondale"/>
     <tag k="addr:postcode" v="70094"/>
   </way>
-  <node visible="true" id="-733" lat="29.89696045867447082855505869" lon="-90.20880907964979655844217632"/>
-  <node visible="true" id="-734" lat="29.89705339978114295718114590" lon="-90.20877286916878290412569186"/>
-  <node visible="true" id="-735" lat="29.89703431909252984155500599" lon="-90.20870770529306525986612542"/>
-  <node visible="true" id="-736" lat="29.89698813396273280318382604" lon="-90.20872569933165152633591788"/>
-  <node visible="true" id="-737" lat="29.89696841155583584281885123" lon="-90.20865834392044746437022695"/>
-  <node visible="true" id="-738" lat="29.89683940477861412432503130" lon="-90.20870860577824146275816020"/>
-  <node visible="true" id="-739" lat="29.89687833242282977153081447" lon="-90.20884155021830963505635737"/>
-  <node visible="true" id="-740" lat="29.89696171059466323072228988" lon="-90.20880906554903333471884253"/>
-  <way visible="true" id="-118">
-    <nd ref="-733"/>
+  <node visible="true" id="-734" lat="29.89504493673502594219826278" lon="-90.20919229911349646044982364"/>
+  <node visible="true" id="-735" lat="29.89503155343328799631308357" lon="-90.20914631515178427889622981"/>
+  <node visible="true" id="-736" lat="29.89505545565977939759250148" lon="-90.20913666687583543080108939"/>
+  <node visible="true" id="-737" lat="29.89503781302904172889611800" lon="-90.20907528501108174623368541"/>
+  <node visible="true" id="-738" lat="29.89501109647338950026096427" lon="-90.20908574261611079236899968"/>
+  <node visible="true" id="-739" lat="29.89500915765765398646180984" lon="-90.20907899568722143612831132"/>
+  <node visible="true" id="-740" lat="29.89500289102625529835677298" lon="-90.20908144779522785938752349"/>
+  <node visible="true" id="-741" lat="29.89495983934734368858698872" lon="-90.20909829998053908184374450"/>
+  <node visible="true" id="-742" lat="29.89495446650604648652915785" lon="-90.20907960842430384218459949"/>
+  <node visible="true" id="-743" lat="29.89484774252784049508591124" lon="-90.20912108718673039220448118"/>
+  <node visible="true" id="-744" lat="29.89487802422648243805269885" lon="-90.20922530204663303265988361"/>
+  <node visible="true" id="-745" lat="29.89489940800135769904954941" lon="-90.20921687914282927067688433"/>
+  <node visible="true" id="-746" lat="29.89490767556864980747377558" lon="-90.20924564619296859291353030"/>
+  <way visible="true" id="-119">
     <nd ref="-734"/>
     <nd ref="-735"/>
     <nd ref="-736"/>
@@ -2412,253 +2428,240 @@
     <nd ref="-738"/>
     <nd ref="-739"/>
     <nd ref="-740"/>
-    <nd ref="-733"/>
-    <tag k="building" v="yes"/>
-    <tag k="addr:housenumber" v="104"/>
-    <tag k="addr:street" v="Madeira Drive"/>
-    <tag k="addr:city" v="Avondale"/>
-    <tag k="addr:postcode" v="70094"/>
-  </way>
-  <node visible="true" id="-741" lat="29.89688288308830621531342331" lon="-90.20903787751352354007394752"/>
-  <node visible="true" id="-742" lat="29.89689893289298794343267218" lon="-90.20908839762594766398251522"/>
-  <node visible="true" id="-743" lat="29.89690408587007652840839000" lon="-90.20908477006383918705978431"/>
-  <node visible="true" id="-744" lat="29.89693189427453745565799181" lon="-90.20917230284869958722993033"/>
-  <node visible="true" id="-745" lat="29.89701642833643546737221186" lon="-90.20913656933730351283884374"/>
-  <node visible="true" id="-746" lat="29.89697297609527026907016989" lon="-90.20899979419039027561666444"/>
-  <way visible="true" id="-119">
     <nd ref="-741"/>
     <nd ref="-742"/>
     <nd ref="-743"/>
     <nd ref="-744"/>
     <nd ref="-745"/>
     <nd ref="-746"/>
-    <nd ref="-741"/>
-    <tag k="building" v="yes"/>
-    <tag k="addr:housenumber" v="112"/>
-    <tag k="addr:street" v="Madeira Drive"/>
-    <tag k="addr:city" v="Avondale"/>
-    <tag k="addr:postcode" v="70094"/>
-  </way>
-  <node visible="true" id="-747" lat="29.89707013850157935053175606" lon="-90.20965372527182069006812526"/>
-  <node visible="true" id="-748" lat="29.89703152144559439307158755" lon="-90.20952107205732772854389623"/>
-  <node visible="true" id="-749" lat="29.89692747053302923632145394" lon="-90.20956137590516732416290324"/>
-  <node visible="true" id="-750" lat="29.89696608762933038860865054" lon="-90.20969402911967449654184747"/>
-  <way visible="true" id="-120">
-    <nd ref="-747"/>
-    <nd ref="-748"/>
-    <nd ref="-749"/>
-    <nd ref="-750"/>
-    <nd ref="-747"/>
-    <tag k="building" v="yes"/>
-    <tag k="addr:housenumber" v="124"/>
-    <tag k="addr:street" v="Madeira Drive"/>
-    <tag k="addr:city" v="Avondale"/>
-    <tag k="addr:postcode" v="70094"/>
-  </way>
-  <node visible="true" id="-751" lat="29.89586239432443548480478057" lon="-90.21091535968635355402511777"/>
-  <node visible="true" id="-752" lat="29.89583512096946904534888745" lon="-90.21082032935409245055780048"/>
-  <node visible="true" id="-753" lat="29.89579714282927369595199707" lon="-90.21083483172256478610506747"/>
-  <node visible="true" id="-754" lat="29.89578808599956261105035082" lon="-90.21080327443692681299580727"/>
-  <node visible="true" id="-755" lat="29.89571436422363248652800394" lon="-90.21083142588557279850647319"/>
-  <node visible="true" id="-756" lat="29.89575069444559929365823336" lon="-90.21095801350345766422833549"/>
-  <way visible="true" id="-121">
-    <nd ref="-751"/>
-    <nd ref="-752"/>
-    <nd ref="-753"/>
-    <nd ref="-754"/>
-    <nd ref="-755"/>
-    <nd ref="-756"/>
-    <nd ref="-751"/>
-    <tag k="building" v="yes"/>
-    <tag k="addr:housenumber" v="144"/>
-    <tag k="addr:street" v="Winnona Drive"/>
-    <tag k="addr:city" v="Avondale"/>
-    <tag k="addr:postcode" v="70094"/>
-  </way>
-  <node visible="true" id="-757" lat="29.89588929304579068002567510" lon="-90.21106369737411512232938549"/>
-  <node visible="true" id="-758" lat="29.89585519516720424348932283" lon="-90.21094622122527084684406873"/>
-  <node visible="true" id="-759" lat="29.89573457182652305164083373" lon="-90.21099280535072750808467390"/>
-  <node visible="true" id="-760" lat="29.89576866974641689012059942" lon="-90.21111028149957178356999066"/>
-  <way visible="true" id="-122">
-    <nd ref="-757"/>
-    <nd ref="-758"/>
-    <nd ref="-759"/>
-    <nd ref="-760"/>
-    <nd ref="-757"/>
-    <tag k="building" v="yes"/>
-    <tag k="addr:housenumber" v="148"/>
-    <tag k="addr:street" v="Winnona Drive"/>
-    <tag k="addr:city" v="Avondale"/>
-    <tag k="addr:postcode" v="70094"/>
-  </way>
-  <node visible="true" id="-761" lat="29.89617761599161482877207163" lon="-90.21103041978622627539152745"/>
-  <node visible="true" id="-762" lat="29.89614377951117418774629186" lon="-90.21091051318214226739655714"/>
-  <node visible="true" id="-763" lat="29.89607284306384116234767134" lon="-90.21093714759157933258393314"/>
-  <node visible="true" id="-764" lat="29.89610667956835854397468211" lon="-90.21105705419567755143361865"/>
-  <way visible="true" id="-123">
-    <nd ref="-761"/>
-    <nd ref="-762"/>
-    <nd ref="-763"/>
-    <nd ref="-764"/>
-    <nd ref="-761"/>
-    <tag k="building" v="yes"/>
-    <tag k="addr:housenumber" v="149"/>
-    <tag k="addr:street" v="Helen Drive"/>
-    <tag k="addr:city" v="Avondale"/>
-    <tag k="addr:postcode" v="70094"/>
-  </way>
-  <node visible="true" id="-765" lat="29.89504493673502594219826278" lon="-90.20919229911349646044982364"/>
-  <node visible="true" id="-766" lat="29.89503155343328799631308357" lon="-90.20914631515178427889622981"/>
-  <node visible="true" id="-767" lat="29.89505545565977939759250148" lon="-90.20913666687583543080108939"/>
-  <node visible="true" id="-768" lat="29.89503781302904172889611800" lon="-90.20907528501108174623368541"/>
-  <node visible="true" id="-769" lat="29.89501109647338950026096427" lon="-90.20908574261611079236899968"/>
-  <node visible="true" id="-770" lat="29.89500915765765398646180984" lon="-90.20907899568722143612831132"/>
-  <node visible="true" id="-771" lat="29.89500289102625529835677298" lon="-90.20908144779522785938752349"/>
-  <node visible="true" id="-772" lat="29.89495983934734368858698872" lon="-90.20909829998053908184374450"/>
-  <node visible="true" id="-773" lat="29.89495446650604648652915785" lon="-90.20907960842430384218459949"/>
-  <node visible="true" id="-774" lat="29.89484774252784049508591124" lon="-90.20912108718673039220448118"/>
-  <node visible="true" id="-775" lat="29.89487802422648243805269885" lon="-90.20922530204663303265988361"/>
-  <node visible="true" id="-776" lat="29.89489940800135769904954941" lon="-90.20921687914282927067688433"/>
-  <node visible="true" id="-777" lat="29.89490767556864980747377558" lon="-90.20924564619296859291353030"/>
-  <way visible="true" id="-124">
-    <nd ref="-765"/>
-    <nd ref="-766"/>
-    <nd ref="-767"/>
-    <nd ref="-768"/>
-    <nd ref="-769"/>
-    <nd ref="-770"/>
-    <nd ref="-771"/>
-    <nd ref="-772"/>
-    <nd ref="-773"/>
-    <nd ref="-774"/>
-    <nd ref="-775"/>
-    <nd ref="-776"/>
-    <nd ref="-777"/>
-    <nd ref="-765"/>
+    <nd ref="-734"/>
     <tag k="building" v="yes"/>
     <tag k="addr:housenumber" v="100"/>
     <tag k="addr:street" v="Nicolle Boulevard"/>
     <tag k="addr:city" v="Avondale"/>
     <tag k="addr:postcode" v="70094"/>
   </way>
-  <node visible="true" id="-778" lat="29.89499295951030433116102358" lon="-90.20954094217849217329785461"/>
-  <node visible="true" id="-779" lat="29.89497723831598108290563687" lon="-90.20948688243214519388857298"/>
-  <node visible="true" id="-780" lat="29.89501734596040449787324178" lon="-90.20947136355549389463703847"/>
-  <node visible="true" id="-781" lat="29.89500124930582813931323471" lon="-90.20941601271785259541502455"/>
-  <node visible="true" id="-782" lat="29.89488075417034806946503522" lon="-90.20946263595179459571227198"/>
-  <node visible="true" id="-783" lat="29.89491257205138197150517954" lon="-90.20957204653576866348885233"/>
-  <way visible="true" id="-125">
-    <nd ref="-778"/>
-    <nd ref="-779"/>
-    <nd ref="-780"/>
-    <nd ref="-781"/>
-    <nd ref="-782"/>
-    <nd ref="-783"/>
-    <nd ref="-778"/>
+  <node visible="true" id="-747" lat="29.89499295951030433116102358" lon="-90.20954094217849217329785461"/>
+  <node visible="true" id="-748" lat="29.89497723831598108290563687" lon="-90.20948688243214519388857298"/>
+  <node visible="true" id="-749" lat="29.89501734596040449787324178" lon="-90.20947136355549389463703847"/>
+  <node visible="true" id="-750" lat="29.89500124930582813931323471" lon="-90.20941601271785259541502455"/>
+  <node visible="true" id="-751" lat="29.89488075417034806946503522" lon="-90.20946263595179459571227198"/>
+  <node visible="true" id="-752" lat="29.89491257205138197150517954" lon="-90.20957204653576866348885233"/>
+  <way visible="true" id="-120">
+    <nd ref="-747"/>
+    <nd ref="-748"/>
+    <nd ref="-749"/>
+    <nd ref="-750"/>
+    <nd ref="-751"/>
+    <nd ref="-752"/>
+    <nd ref="-747"/>
     <tag k="building" v="yes"/>
     <tag k="addr:housenumber" v="108"/>
     <tag k="addr:street" v="Nicolle Boulevard"/>
     <tag k="addr:city" v="Avondale"/>
     <tag k="addr:postcode" v="70094"/>
   </way>
-  <node visible="true" id="-784" lat="29.89502999932106774849671638" lon="-90.20996300804181089461053489"/>
-  <node visible="true" id="-785" lat="29.89506689228755575982177106" lon="-90.20994848169719659836118808"/>
-  <node visible="true" id="-786" lat="29.89504964837217926287848968" lon="-90.20989021166593602174543776"/>
-  <node visible="true" id="-787" lat="29.89492972489081878961769689" lon="-90.20993743066073022873752052"/>
-  <node visible="true" id="-788" lat="29.89496574360921243851407780" lon="-90.21005914371005474094999954"/>
-  <node visible="true" id="-789" lat="29.89504877408774063951568678" lon="-90.21002645105987483020726359"/>
-  <way visible="true" id="-126">
-    <nd ref="-784"/>
-    <nd ref="-785"/>
-    <nd ref="-786"/>
-    <nd ref="-787"/>
-    <nd ref="-788"/>
-    <nd ref="-789"/>
-    <nd ref="-784"/>
+  <node visible="true" id="-753" lat="29.89502999932106774849671638" lon="-90.20996300804181089461053489"/>
+  <node visible="true" id="-754" lat="29.89506689228755575982177106" lon="-90.20994848169719659836118808"/>
+  <node visible="true" id="-755" lat="29.89504964837217926287848968" lon="-90.20989021166593602174543776"/>
+  <node visible="true" id="-756" lat="29.89492972489081878961769689" lon="-90.20993743066073022873752052"/>
+  <node visible="true" id="-757" lat="29.89496574360921243851407780" lon="-90.21005914371005474094999954"/>
+  <node visible="true" id="-758" lat="29.89504877408774063951568678" lon="-90.21002645105987483020726359"/>
+  <way visible="true" id="-121">
+    <nd ref="-753"/>
+    <nd ref="-754"/>
+    <nd ref="-755"/>
+    <nd ref="-756"/>
+    <nd ref="-757"/>
+    <nd ref="-758"/>
+    <nd ref="-753"/>
     <tag k="building" v="yes"/>
     <tag k="addr:housenumber" v="120"/>
     <tag k="addr:street" v="Nicolle Boulevard"/>
     <tag k="addr:city" v="Avondale"/>
     <tag k="addr:postcode" v="70094"/>
   </way>
-  <node visible="true" id="-790" lat="29.89508656065645553212561936" lon="-90.21017882145670796489866916"/>
-  <node visible="true" id="-791" lat="29.89508654989741742724618234" lon="-90.21017756172565782435412984"/>
-  <node visible="true" id="-792" lat="29.89511585278111738261941355" lon="-90.21016642233529125860513886"/>
-  <node visible="true" id="-793" lat="29.89509432365099428352550603" lon="-90.21009106977921021552901948"/>
-  <node visible="true" id="-794" lat="29.89506595918221520946644887" lon="-90.21010185243208923111524200"/>
-  <node visible="true" id="-795" lat="29.89506156259453817369831086" lon="-90.21008646425896415621537017"/>
-  <node visible="true" id="-796" lat="29.89502280968676117822724336" lon="-90.21010119603472787730424898"/>
-  <node visible="true" id="-797" lat="29.89501393269383555661988794" lon="-90.21007012633874921903043287"/>
-  <node visible="true" id="-798" lat="29.89494366264219493700693420" lon="-90.21009683922414978951564990"/>
-  <node visible="true" id="-799" lat="29.89497879110655276235775091" lon="-90.21021978965195842192770215"/>
-  <way visible="true" id="-127">
-    <nd ref="-790"/>
-    <nd ref="-791"/>
-    <nd ref="-792"/>
-    <nd ref="-793"/>
-    <nd ref="-794"/>
-    <nd ref="-795"/>
-    <nd ref="-796"/>
-    <nd ref="-797"/>
-    <nd ref="-798"/>
-    <nd ref="-799"/>
-    <nd ref="-790"/>
+  <node visible="true" id="-759" lat="29.89508656065645553212561936" lon="-90.21017882145670796489866916"/>
+  <node visible="true" id="-760" lat="29.89508654989741742724618234" lon="-90.21017756172565782435412984"/>
+  <node visible="true" id="-761" lat="29.89511585278111738261941355" lon="-90.21016642233529125860513886"/>
+  <node visible="true" id="-762" lat="29.89509432365099428352550603" lon="-90.21009106977921021552901948"/>
+  <node visible="true" id="-763" lat="29.89506595918221520946644887" lon="-90.21010185243208923111524200"/>
+  <node visible="true" id="-764" lat="29.89506156259453817369831086" lon="-90.21008646425896415621537017"/>
+  <node visible="true" id="-765" lat="29.89502280968676117822724336" lon="-90.21010119603472787730424898"/>
+  <node visible="true" id="-766" lat="29.89501393269383555661988794" lon="-90.21007012633874921903043287"/>
+  <node visible="true" id="-767" lat="29.89494366264219493700693420" lon="-90.21009683922414978951564990"/>
+  <node visible="true" id="-768" lat="29.89497879110655276235775091" lon="-90.21021978965195842192770215"/>
+  <way visible="true" id="-122">
+    <nd ref="-759"/>
+    <nd ref="-760"/>
+    <nd ref="-761"/>
+    <nd ref="-762"/>
+    <nd ref="-763"/>
+    <nd ref="-764"/>
+    <nd ref="-765"/>
+    <nd ref="-766"/>
+    <nd ref="-767"/>
+    <nd ref="-768"/>
+    <nd ref="-759"/>
     <tag k="building" v="yes"/>
     <tag k="addr:housenumber" v="124"/>
     <tag k="addr:street" v="Nicolle Boulevard"/>
     <tag k="addr:city" v="Avondale"/>
     <tag k="addr:postcode" v="70094"/>
   </way>
-  <node visible="true" id="-800" lat="29.89524325908320534495032916" lon="-90.20975340734605651960009709"/>
-  <node visible="true" id="-801" lat="29.89525911503110222611212521" lon="-90.20980950630671202361554606"/>
-  <node visible="true" id="-802" lat="29.89521833082324775432425668" lon="-90.20982484375919341346161673"/>
-  <node visible="true" id="-803" lat="29.89523636821288121723227960" lon="-90.20988866073041378967900528"/>
-  <node visible="true" id="-804" lat="29.89536188925801951654648292" lon="-90.20984145681661914295546012"/>
-  <node visible="true" id="-805" lat="29.89532799595674461556882306" lon="-90.20972154088472905186790740"/>
-  <way visible="true" id="-128">
-    <nd ref="-800"/>
-    <nd ref="-801"/>
-    <nd ref="-802"/>
-    <nd ref="-803"/>
-    <nd ref="-804"/>
-    <nd ref="-805"/>
-    <nd ref="-800"/>
+  <node visible="true" id="-769" lat="29.89524325908320534495032916" lon="-90.20975340734605651960009709"/>
+  <node visible="true" id="-770" lat="29.89525911503110222611212521" lon="-90.20980950630671202361554606"/>
+  <node visible="true" id="-771" lat="29.89521833082324775432425668" lon="-90.20982484375919341346161673"/>
+  <node visible="true" id="-772" lat="29.89523636821288121723227960" lon="-90.20988866073041378967900528"/>
+  <node visible="true" id="-773" lat="29.89536188925801951654648292" lon="-90.20984145681661914295546012"/>
+  <node visible="true" id="-774" lat="29.89532799595674461556882306" lon="-90.20972154088472905186790740"/>
+  <way visible="true" id="-123">
+    <nd ref="-769"/>
+    <nd ref="-770"/>
+    <nd ref="-771"/>
+    <nd ref="-772"/>
+    <nd ref="-773"/>
+    <nd ref="-774"/>
+    <nd ref="-769"/>
     <tag k="building" v="yes"/>
     <tag k="addr:housenumber" v="117"/>
     <tag k="addr:street" v="Winnona Drive"/>
     <tag k="addr:city" v="Avondale"/>
     <tag k="addr:postcode" v="70094"/>
   </way>
-  <node visible="true" id="-806" lat="29.89763602036936518402399088" lon="-90.21217873698915923341701273"/>
-  <node visible="true" id="-807" lat="29.89753366736487905086505634" lon="-90.21221806760922845569439232"/>
-  <node visible="true" id="-808" lat="29.89755736229239246881661529" lon="-90.21230011583868702018662589"/>
-  <node visible="true" id="-809" lat="29.89765971527250698613897839" lon="-90.21226078521863200876396149"/>
-  <way visible="true" id="-129">
-    <nd ref="-806"/>
-    <nd ref="-807"/>
-    <nd ref="-808"/>
-    <nd ref="-809"/>
-    <nd ref="-806"/>
+  <node visible="true" id="-775" lat="29.89763602036936518402399088" lon="-90.21217873698915923341701273"/>
+  <node visible="true" id="-776" lat="29.89753366736487905086505634" lon="-90.21221806760922845569439232"/>
+  <node visible="true" id="-777" lat="29.89755736229239246881661529" lon="-90.21230011583868702018662589"/>
+  <node visible="true" id="-778" lat="29.89765971527250698613897839" lon="-90.21226078521863200876396149"/>
+  <way visible="true" id="-124">
+    <nd ref="-775"/>
+    <nd ref="-776"/>
+    <nd ref="-777"/>
+    <nd ref="-778"/>
+    <nd ref="-775"/>
     <tag k="building" v="yes"/>
     <tag k="addr:housenumber" v="752"/>
     <tag k="addr:street" v="Ruth Drive"/>
     <tag k="addr:city" v="Avondale"/>
     <tag k="addr:postcode" v="70094"/>
   </way>
-  <node visible="true" id="-810" lat="29.89741002881432052618038142" lon="-90.21237460546319653076352552"/>
-  <node visible="true" id="-811" lat="29.89746308887263737119610596" lon="-90.21235338086015076441981364"/>
-  <node visible="true" id="-812" lat="29.89747591967538298263207253" lon="-90.21239606092042606633185642"/>
-  <node visible="true" id="-813" lat="29.89752007485115470331038523" lon="-90.21237839835680460964795202"/>
-  <node visible="true" id="-814" lat="29.89749736329858720296215324" lon="-90.21230285118838310154387727"/>
-  <node visible="true" id="-815" lat="29.89752587132599970232149644" lon="-90.21229144765736407407530351"/>
-  <node visible="true" id="-816" lat="29.89750749668639073775011639" lon="-90.21223032668825680957525037"/>
-  <node visible="true" id="-817" lat="29.89747783913353629259290756" lon="-90.21224219004011501965578645"/>
-  <node visible="true" id="-818" lat="29.89747559519561193042136438" lon="-90.21223472586069647149997763"/>
-  <node visible="true" id="-819" lat="29.89737952944627963347556943" lon="-90.21227315320656714447977720"/>
-  <way visible="true" id="-130">
+  <node visible="true" id="-779" lat="29.89741002881432052618038142" lon="-90.21237460546319653076352552"/>
+  <node visible="true" id="-780" lat="29.89746308887263737119610596" lon="-90.21235338086015076441981364"/>
+  <node visible="true" id="-781" lat="29.89747591967538298263207253" lon="-90.21239606092042606633185642"/>
+  <node visible="true" id="-782" lat="29.89752007485115470331038523" lon="-90.21237839835680460964795202"/>
+  <node visible="true" id="-783" lat="29.89749736329858720296215324" lon="-90.21230285118838310154387727"/>
+  <node visible="true" id="-784" lat="29.89752587132599970232149644" lon="-90.21229144765736407407530351"/>
+  <node visible="true" id="-785" lat="29.89750749668639073775011639" lon="-90.21223032668825680957525037"/>
+  <node visible="true" id="-786" lat="29.89747783913353629259290756" lon="-90.21224219004011501965578645"/>
+  <node visible="true" id="-787" lat="29.89747559519561193042136438" lon="-90.21223472586069647149997763"/>
+  <node visible="true" id="-788" lat="29.89737952944627963347556943" lon="-90.21227315320656714447977720"/>
+  <way visible="true" id="-125">
+    <nd ref="-779"/>
+    <nd ref="-780"/>
+    <nd ref="-781"/>
+    <nd ref="-782"/>
+    <nd ref="-783"/>
+    <nd ref="-784"/>
+    <nd ref="-785"/>
+    <nd ref="-786"/>
+    <nd ref="-787"/>
+    <nd ref="-788"/>
+    <nd ref="-779"/>
+    <tag k="building" v="yes"/>
+    <tag k="addr:housenumber" v="756"/>
+    <tag k="addr:street" v="Ruth Drive"/>
+    <tag k="addr:city" v="Avondale"/>
+    <tag k="addr:postcode" v="70094"/>
+  </way>
+  <node visible="true" id="-789" lat="29.89722024300892400106022251" lon="-90.21234189339345732605579542"/>
+  <node visible="true" id="-790" lat="29.89726349300827834554183937" lon="-90.21247733009650460189732257"/>
+  <node visible="true" id="-791" lat="29.89736601662971082760122954" lon="-90.21243376735554875267553143"/>
+  <node visible="true" id="-792" lat="29.89735007500113184164547420" lon="-90.21238384633436169224296464"/>
+  <node visible="true" id="-793" lat="29.89737155456658257435265114" lon="-90.21237471956763442904048134"/>
+  <node visible="true" id="-794" lat="29.89734424624622022292896872" lon="-90.21228920388574579192209058"/>
+  <way visible="true" id="-126">
+    <nd ref="-789"/>
+    <nd ref="-790"/>
+    <nd ref="-791"/>
+    <nd ref="-792"/>
+    <nd ref="-793"/>
+    <nd ref="-794"/>
+    <nd ref="-789"/>
+    <tag k="building" v="yes"/>
+    <tag k="addr:housenumber" v="760"/>
+    <tag k="addr:street" v="Ruth Drive"/>
+    <tag k="addr:city" v="Avondale"/>
+    <tag k="addr:postcode" v="70094"/>
+  </way>
+  <node visible="true" id="-795" lat="29.89717486213850250464929559" lon="-90.21249275989352156557288254"/>
+  <node visible="true" id="-796" lat="29.89720484547424916854652110" lon="-90.21248127238902725366642699"/>
+  <node visible="true" id="-797" lat="29.89719644592905467561649857" lon="-90.21245210142193116098496830"/>
+  <node visible="true" id="-798" lat="29.89719379609034888289897935" lon="-90.21245520271301643333572429"/>
+  <node visible="true" id="-799" lat="29.89716574176311070232259226" lon="-90.21235777223712659633747535"/>
+  <node visible="true" id="-800" lat="29.89714066205191400626972609" lon="-90.21236738101420371549465926"/>
+  <node visible="true" id="-801" lat="29.89714063806531640921093640" lon="-90.21236456697982930563739501"/>
+  <node visible="true" id="-802" lat="29.89705655253927574221961549" lon="-90.21239678260727146152930800"/>
+  <node visible="true" id="-803" lat="29.89709178484958584931518999" lon="-90.21251914152516349076904589"/>
+  <node visible="true" id="-804" lat="29.89717481585888592121591500" lon="-90.21248732990287066968448926"/>
+  <way visible="true" id="-127">
+    <nd ref="-795"/>
+    <nd ref="-796"/>
+    <nd ref="-797"/>
+    <nd ref="-798"/>
+    <nd ref="-799"/>
+    <nd ref="-800"/>
+    <nd ref="-801"/>
+    <nd ref="-802"/>
+    <nd ref="-803"/>
+    <nd ref="-804"/>
+    <nd ref="-795"/>
+    <tag k="building" v="yes"/>
+    <tag k="addr:housenumber" v="764"/>
+    <tag k="addr:street" v="Ruth Drive"/>
+    <tag k="addr:city" v="Avondale"/>
+    <tag k="addr:postcode" v="70094"/>
+  </way>
+  <node visible="true" id="-805" lat="29.89701107970602578234320390" lon="-90.21242237903580019064975204"/>
+  <node visible="true" id="-806" lat="29.89690871006644101726124063" lon="-90.21246199684252076167467749"/>
+  <node visible="true" id="-807" lat="29.89693246337482435137644643" lon="-90.21254366324656359665823402"/>
+  <node visible="true" id="-808" lat="29.89703483298998420991665625" lon="-90.21250404543987144734273897"/>
+  <way visible="true" id="-128">
+    <nd ref="-805"/>
+    <nd ref="-806"/>
+    <nd ref="-807"/>
+    <nd ref="-808"/>
+    <nd ref="-805"/>
+    <tag k="building" v="yes"/>
+    <tag k="addr:housenumber" v="768"/>
+    <tag k="addr:street" v="Ruth Drive"/>
+    <tag k="addr:city" v="Avondale"/>
+    <tag k="addr:postcode" v="70094"/>
+  </way>
+  <node visible="true" id="-809" lat="29.89669736545736000721262826" lon="-90.21254301937831598934280919"/>
+  <node visible="true" id="-810" lat="29.89659186573425131427939050" lon="-90.21258232443913982478989055"/>
+  <node visible="true" id="-811" lat="29.89661563587414150333643192" lon="-90.21266721715170433526509441"/>
+  <node visible="true" id="-812" lat="29.89672113557208632528272574" lon="-90.21262791209086628896329785"/>
+  <way visible="true" id="-129">
+    <nd ref="-809"/>
     <nd ref="-810"/>
     <nd ref="-811"/>
     <nd ref="-812"/>
+    <nd ref="-809"/>
+    <tag k="building" v="yes"/>
+    <tag k="addr:housenumber" v="776"/>
+    <tag k="addr:street" v="Ruth Drive"/>
+    <tag k="addr:city" v="Avondale"/>
+    <tag k="addr:postcode" v="70094"/>
+  </way>
+  <node visible="true" id="-813" lat="29.89651571289920894969327492" lon="-90.21261114714540951808885438"/>
+  <node visible="true" id="-814" lat="29.89651358429049565756940865" lon="-90.21260875149543778661609394"/>
+  <node visible="true" id="-815" lat="29.89643155810279040451860055" lon="-90.21264006088729558996419655"/>
+  <node visible="true" id="-816" lat="29.89646725710941410625309800" lon="-90.21276450330235263663780643"/>
+  <node visible="true" id="-817" lat="29.89655009277620578700407350" lon="-90.21273288492092490287177498"/>
+  <node visible="true" id="-818" lat="29.89653790840121416749752825" lon="-90.21269041162443613757204730"/>
+  <node visible="true" id="-819" lat="29.89656448670287858249139390" lon="-90.21268026667998185530450428"/>
+  <node visible="true" id="-820" lat="29.89654180160217222805840720" lon="-90.21260118908315916996798478"/>
+  <way visible="true" id="-130">
     <nd ref="-813"/>
     <nd ref="-814"/>
     <nd ref="-815"/>
@@ -2666,47 +2669,47 @@
     <nd ref="-817"/>
     <nd ref="-818"/>
     <nd ref="-819"/>
-    <nd ref="-810"/>
+    <nd ref="-820"/>
+    <nd ref="-813"/>
     <tag k="building" v="yes"/>
-    <tag k="addr:housenumber" v="756"/>
+    <tag k="addr:housenumber" v="780"/>
     <tag k="addr:street" v="Ruth Drive"/>
     <tag k="addr:city" v="Avondale"/>
     <tag k="addr:postcode" v="70094"/>
   </way>
-  <node visible="true" id="-820" lat="29.89722024300892400106022251" lon="-90.21234189339345732605579542"/>
-  <node visible="true" id="-821" lat="29.89726349300827834554183937" lon="-90.21247733009650460189732257"/>
-  <node visible="true" id="-822" lat="29.89736601662971082760122954" lon="-90.21243376735554875267553143"/>
-  <node visible="true" id="-823" lat="29.89735007500113184164547420" lon="-90.21238384633436169224296464"/>
-  <node visible="true" id="-824" lat="29.89737155456658257435265114" lon="-90.21237471956763442904048134"/>
-  <node visible="true" id="-825" lat="29.89734424624622022292896872" lon="-90.21228920388574579192209058"/>
+  <node visible="true" id="-821" lat="29.89630843769389656472412753" lon="-90.21278817683207762456731871"/>
+  <node visible="true" id="-822" lat="29.89640972995530532330121787" lon="-90.21274679176747213205089793"/>
+  <node visible="true" id="-823" lat="29.89640330289403280517035455" lon="-90.21272586130666581993864384"/>
+  <node visible="true" id="-824" lat="29.89643101119853341174348316" lon="-90.21271454049475835290650139"/>
+  <node visible="true" id="-825" lat="29.89641494198179927366254560" lon="-90.21266220924201206798898056"/>
+  <node visible="true" id="-826" lat="29.89638720593772092115614214" lon="-90.21267354138571192834206158"/>
+  <node visible="true" id="-827" lat="29.89638424233080726821754070" lon="-90.21266389006255792537558591"/>
+  <node visible="true" id="-828" lat="29.89628297777867516060723574" lon="-90.21270526379537102457106812"/>
   <way visible="true" id="-131">
-    <nd ref="-820"/>
     <nd ref="-821"/>
     <nd ref="-822"/>
     <nd ref="-823"/>
     <nd ref="-824"/>
     <nd ref="-825"/>
-    <nd ref="-820"/>
+    <nd ref="-826"/>
+    <nd ref="-827"/>
+    <nd ref="-828"/>
+    <nd ref="-821"/>
     <tag k="building" v="yes"/>
-    <tag k="addr:housenumber" v="760"/>
+    <tag k="addr:housenumber" v="784"/>
     <tag k="addr:street" v="Ruth Drive"/>
     <tag k="addr:city" v="Avondale"/>
     <tag k="addr:postcode" v="70094"/>
   </way>
-  <node visible="true" id="-826" lat="29.89717486213850250464929559" lon="-90.21249275989352156557288254"/>
-  <node visible="true" id="-827" lat="29.89720484547424916854652110" lon="-90.21248127238902725366642699"/>
-  <node visible="true" id="-828" lat="29.89719644592905467561649857" lon="-90.21245210142193116098496830"/>
-  <node visible="true" id="-829" lat="29.89719379609034888289897935" lon="-90.21245520271301643333572429"/>
-  <node visible="true" id="-830" lat="29.89716574176311070232259226" lon="-90.21235777223712659633747535"/>
-  <node visible="true" id="-831" lat="29.89714066205191400626972609" lon="-90.21236738101420371549465926"/>
-  <node visible="true" id="-832" lat="29.89714063806531640921093640" lon="-90.21236456697982930563739501"/>
-  <node visible="true" id="-833" lat="29.89705655253927574221961549" lon="-90.21239678260727146152930800"/>
-  <node visible="true" id="-834" lat="29.89709178484958584931518999" lon="-90.21251914152516349076904589"/>
-  <node visible="true" id="-835" lat="29.89717481585888592121591500" lon="-90.21248732990287066968448926"/>
+  <node visible="true" id="-829" lat="29.89527117110934639754304953" lon="-90.21164541645799772595637478"/>
+  <node visible="true" id="-830" lat="29.89524605412378832625108771" lon="-90.21156079823666118500113953"/>
+  <node visible="true" id="-831" lat="29.89525625017269661043428641" lon="-90.21155677144254525501310127"/>
+  <node visible="true" id="-832" lat="29.89524315364246831450145692" lon="-90.21151264970683314459165558"/>
+  <node visible="true" id="-833" lat="29.89511118211649787212991214" lon="-90.21156477006969964804738993"/>
+  <node visible="true" id="-834" lat="29.89512238661272292006287898" lon="-90.21160251756107584242272424"/>
+  <node visible="true" id="-835" lat="29.89512029624211919553999905" lon="-90.21160254104665909835603088"/>
+  <node visible="true" id="-836" lat="29.89514751840715689468197525" lon="-90.21169425143010300871537765"/>
   <way visible="true" id="-132">
-    <nd ref="-826"/>
-    <nd ref="-827"/>
-    <nd ref="-828"/>
     <nd ref="-829"/>
     <nd ref="-830"/>
     <nd ref="-831"/>
@@ -2714,242 +2717,241 @@
     <nd ref="-833"/>
     <nd ref="-834"/>
     <nd ref="-835"/>
-    <nd ref="-826"/>
-    <tag k="building" v="yes"/>
-    <tag k="addr:housenumber" v="764"/>
-    <tag k="addr:street" v="Ruth Drive"/>
-    <tag k="addr:city" v="Avondale"/>
-    <tag k="addr:postcode" v="70094"/>
-  </way>
-  <node visible="true" id="-836" lat="29.89701107970602578234320390" lon="-90.21242237903580019064975204"/>
-  <node visible="true" id="-837" lat="29.89690871006644101726124063" lon="-90.21246199684252076167467749"/>
-  <node visible="true" id="-838" lat="29.89693246337482435137644643" lon="-90.21254366324656359665823402"/>
-  <node visible="true" id="-839" lat="29.89703483298998420991665625" lon="-90.21250404543987144734273897"/>
-  <way visible="true" id="-133">
     <nd ref="-836"/>
-    <nd ref="-837"/>
-    <nd ref="-838"/>
-    <nd ref="-839"/>
-    <nd ref="-836"/>
-    <tag k="building" v="yes"/>
-    <tag k="addr:housenumber" v="768"/>
-    <tag k="addr:street" v="Ruth Drive"/>
-    <tag k="addr:city" v="Avondale"/>
-    <tag k="addr:postcode" v="70094"/>
-  </way>
-  <node visible="true" id="-840" lat="29.89669736545736000721262826" lon="-90.21254301937831598934280919"/>
-  <node visible="true" id="-841" lat="29.89659186573425131427939050" lon="-90.21258232443913982478989055"/>
-  <node visible="true" id="-842" lat="29.89661563587414150333643192" lon="-90.21266721715170433526509441"/>
-  <node visible="true" id="-843" lat="29.89672113557208632528272574" lon="-90.21262791209086628896329785"/>
-  <way visible="true" id="-134">
-    <nd ref="-840"/>
-    <nd ref="-841"/>
-    <nd ref="-842"/>
-    <nd ref="-843"/>
-    <nd ref="-840"/>
-    <tag k="building" v="yes"/>
-    <tag k="addr:housenumber" v="776"/>
-    <tag k="addr:street" v="Ruth Drive"/>
-    <tag k="addr:city" v="Avondale"/>
-    <tag k="addr:postcode" v="70094"/>
-  </way>
-  <node visible="true" id="-844" lat="29.89651571289920894969327492" lon="-90.21261114714540951808885438"/>
-  <node visible="true" id="-845" lat="29.89651358429049565756940865" lon="-90.21260875149543778661609394"/>
-  <node visible="true" id="-846" lat="29.89643155810279040451860055" lon="-90.21264006088729558996419655"/>
-  <node visible="true" id="-847" lat="29.89646725710941410625309800" lon="-90.21276450330235263663780643"/>
-  <node visible="true" id="-848" lat="29.89655009277620578700407350" lon="-90.21273288492092490287177498"/>
-  <node visible="true" id="-849" lat="29.89653790840121416749752825" lon="-90.21269041162443613757204730"/>
-  <node visible="true" id="-850" lat="29.89656448670287858249139390" lon="-90.21268026667998185530450428"/>
-  <node visible="true" id="-851" lat="29.89654180160217222805840720" lon="-90.21260118908315916996798478"/>
-  <way visible="true" id="-135">
-    <nd ref="-844"/>
-    <nd ref="-845"/>
-    <nd ref="-846"/>
-    <nd ref="-847"/>
-    <nd ref="-848"/>
-    <nd ref="-849"/>
-    <nd ref="-850"/>
-    <nd ref="-851"/>
-    <nd ref="-844"/>
-    <tag k="building" v="yes"/>
-    <tag k="addr:housenumber" v="780"/>
-    <tag k="addr:street" v="Ruth Drive"/>
-    <tag k="addr:city" v="Avondale"/>
-    <tag k="addr:postcode" v="70094"/>
-  </way>
-  <node visible="true" id="-852" lat="29.89630843769389656472412753" lon="-90.21278817683207762456731871"/>
-  <node visible="true" id="-853" lat="29.89640972995530532330121787" lon="-90.21274679176747213205089793"/>
-  <node visible="true" id="-854" lat="29.89640330289403280517035455" lon="-90.21272586130666581993864384"/>
-  <node visible="true" id="-855" lat="29.89643101119853341174348316" lon="-90.21271454049475835290650139"/>
-  <node visible="true" id="-856" lat="29.89641494198179927366254560" lon="-90.21266220924201206798898056"/>
-  <node visible="true" id="-857" lat="29.89638720593772092115614214" lon="-90.21267354138571192834206158"/>
-  <node visible="true" id="-858" lat="29.89638424233080726821754070" lon="-90.21266389006255792537558591"/>
-  <node visible="true" id="-859" lat="29.89628297777867516060723574" lon="-90.21270526379537102457106812"/>
-  <way visible="true" id="-136">
-    <nd ref="-852"/>
-    <nd ref="-853"/>
-    <nd ref="-854"/>
-    <nd ref="-855"/>
-    <nd ref="-856"/>
-    <nd ref="-857"/>
-    <nd ref="-858"/>
-    <nd ref="-859"/>
-    <nd ref="-852"/>
-    <tag k="building" v="yes"/>
-    <tag k="addr:housenumber" v="784"/>
-    <tag k="addr:street" v="Ruth Drive"/>
-    <tag k="addr:city" v="Avondale"/>
-    <tag k="addr:postcode" v="70094"/>
-  </way>
-  <node visible="true" id="-860" lat="29.89527117110934639754304953" lon="-90.21164541645799772595637478"/>
-  <node visible="true" id="-861" lat="29.89524605412378832625108771" lon="-90.21156079823666118500113953"/>
-  <node visible="true" id="-862" lat="29.89525625017269661043428641" lon="-90.21155677144254525501310127"/>
-  <node visible="true" id="-863" lat="29.89524315364246831450145692" lon="-90.21151264970683314459165558"/>
-  <node visible="true" id="-864" lat="29.89511118211649787212991214" lon="-90.21156477006969964804738993"/>
-  <node visible="true" id="-865" lat="29.89512238661272292006287898" lon="-90.21160251756107584242272424"/>
-  <node visible="true" id="-866" lat="29.89512029624211919553999905" lon="-90.21160254104665909835603088"/>
-  <node visible="true" id="-867" lat="29.89514751840715689468197525" lon="-90.21169425143010300871537765"/>
-  <way visible="true" id="-137">
-    <nd ref="-860"/>
-    <nd ref="-861"/>
-    <nd ref="-862"/>
-    <nd ref="-863"/>
-    <nd ref="-864"/>
-    <nd ref="-865"/>
-    <nd ref="-866"/>
-    <nd ref="-867"/>
-    <nd ref="-860"/>
+    <nd ref="-829"/>
     <tag k="building" v="yes"/>
     <tag k="addr:housenumber" v="160"/>
     <tag k="addr:street" v="Nicolle Boulevard"/>
     <tag k="addr:city" v="Avondale"/>
     <tag k="addr:postcode" v="70094"/>
   </way>
-  <node visible="true" id="-868" lat="29.89525017413164675872394582" lon="-90.21182619427817428459093207"/>
-  <node visible="true" id="-869" lat="29.89523301843412994571735908" lon="-90.21176884588454925051337341"/>
-  <node visible="true" id="-870" lat="29.89527182228740542768719024" lon="-90.21175340095972217113740044"/>
-  <node visible="true" id="-871" lat="29.89525362567386324030849210" lon="-90.21169257295910881566669559"/>
-  <node visible="true" id="-872" lat="29.89513468009115371160078212" lon="-90.21173991631175681504828390"/>
-  <node visible="true" id="-873" lat="29.89517003243771497977832041" lon="-90.21185809270599520459654741"/>
-  <way visible="true" id="-138">
-    <nd ref="-868"/>
-    <nd ref="-869"/>
-    <nd ref="-870"/>
-    <nd ref="-871"/>
-    <nd ref="-872"/>
-    <nd ref="-873"/>
-    <nd ref="-868"/>
+  <node visible="true" id="-837" lat="29.89525017413164675872394582" lon="-90.21182619427817428459093207"/>
+  <node visible="true" id="-838" lat="29.89523301843412994571735908" lon="-90.21176884588454925051337341"/>
+  <node visible="true" id="-839" lat="29.89527182228740542768719024" lon="-90.21175340095972217113740044"/>
+  <node visible="true" id="-840" lat="29.89525362567386324030849210" lon="-90.21169257295910881566669559"/>
+  <node visible="true" id="-841" lat="29.89513468009115371160078212" lon="-90.21173991631175681504828390"/>
+  <node visible="true" id="-842" lat="29.89517003243771497977832041" lon="-90.21185809270599520459654741"/>
+  <way visible="true" id="-133">
+    <nd ref="-837"/>
+    <nd ref="-838"/>
+    <nd ref="-839"/>
+    <nd ref="-840"/>
+    <nd ref="-841"/>
+    <nd ref="-842"/>
+    <nd ref="-837"/>
     <tag k="building" v="yes"/>
     <tag k="addr:housenumber" v="164"/>
     <tag k="addr:street" v="Nicolle Boulevard"/>
     <tag k="addr:city" v="Avondale"/>
     <tag k="addr:postcode" v="70094"/>
   </way>
-  <node visible="true" id="-874" lat="29.89543525875336982267072017" lon="-90.21175784985857148967625108"/>
-  <node visible="true" id="-875" lat="29.89546797087948348803365661" lon="-90.21187736061466466708225198"/>
-  <node visible="true" id="-876" lat="29.89558444947829585203180613" lon="-90.21183494030385929818294244"/>
-  <node visible="true" id="-877" lat="29.89555173739044491298955109" lon="-90.21171542954775190992222633"/>
-  <way visible="true" id="-139">
-    <nd ref="-874"/>
-    <nd ref="-875"/>
-    <nd ref="-876"/>
-    <nd ref="-877"/>
-    <nd ref="-874"/>
+  <node visible="true" id="-843" lat="29.89543525875336982267072017" lon="-90.21175784985857148967625108"/>
+  <node visible="true" id="-844" lat="29.89546797087948348803365661" lon="-90.21187736061466466708225198"/>
+  <node visible="true" id="-845" lat="29.89558444947829585203180613" lon="-90.21183494030385929818294244"/>
+  <node visible="true" id="-846" lat="29.89555173739044491298955109" lon="-90.21171542954775190992222633"/>
+  <way visible="true" id="-134">
+    <nd ref="-843"/>
+    <nd ref="-844"/>
+    <nd ref="-845"/>
+    <nd ref="-846"/>
+    <nd ref="-843"/>
     <tag k="building" v="yes"/>
     <tag k="addr:housenumber" v="165"/>
     <tag k="addr:street" v="Winnona Drive"/>
     <tag k="addr:city" v="Avondale"/>
     <tag k="addr:postcode" v="70094"/>
   </way>
-  <node visible="true" id="-878" lat="29.89543369196531585885168170" lon="-90.21141548148226263492688304"/>
-  <node visible="true" id="-879" lat="29.89544996252008246528930613" lon="-90.21147347402985872122371802"/>
-  <node visible="true" id="-880" lat="29.89543786353028309576984611" lon="-90.21147799055896143727295566"/>
-  <node visible="true" id="-881" lat="29.89545534954916305991901027" lon="-90.21154031534403827663481934"/>
-  <node visible="true" id="-882" lat="29.89554893946625568901254155" lon="-90.21150537839156413610908203"/>
-  <node visible="true" id="-883" lat="29.89551518292241283347721037" lon="-90.21138506105887699959566817"/>
-  <way visible="true" id="-140">
-    <nd ref="-878"/>
-    <nd ref="-879"/>
-    <nd ref="-880"/>
-    <nd ref="-881"/>
-    <nd ref="-882"/>
-    <nd ref="-883"/>
-    <nd ref="-878"/>
+  <node visible="true" id="-847" lat="29.89543369196531585885168170" lon="-90.21141548148226263492688304"/>
+  <node visible="true" id="-848" lat="29.89544996252008246528930613" lon="-90.21147347402985872122371802"/>
+  <node visible="true" id="-849" lat="29.89543786353028309576984611" lon="-90.21147799055896143727295566"/>
+  <node visible="true" id="-850" lat="29.89545534954916305991901027" lon="-90.21154031534403827663481934"/>
+  <node visible="true" id="-851" lat="29.89554893946625568901254155" lon="-90.21150537839156413610908203"/>
+  <node visible="true" id="-852" lat="29.89551518292241283347721037" lon="-90.21138506105887699959566817"/>
+  <way visible="true" id="-135">
+    <nd ref="-847"/>
+    <nd ref="-848"/>
+    <nd ref="-849"/>
+    <nd ref="-850"/>
+    <nd ref="-851"/>
+    <nd ref="-852"/>
+    <nd ref="-847"/>
     <tag k="building" v="yes"/>
     <tag k="addr:housenumber" v="157"/>
     <tag k="addr:street" v="Winnona Drive"/>
     <tag k="addr:city" v="Avondale"/>
     <tag k="addr:postcode" v="70094"/>
   </way>
-  <node visible="true" id="-884" lat="29.89754950295724356124082988" lon="-90.20898318498804258069867501"/>
-  <node visible="true" id="-885" lat="29.89758244184717028701925301" lon="-90.20909696433780311508598970"/>
-  <node visible="true" id="-886" lat="29.89766181948782275412668241" lon="-90.20906638782334141524188453"/>
-  <node visible="true" id="-887" lat="29.89762888062414347700723738" lon="-90.20895260847358088085456984"/>
-  <way visible="true" id="-141">
-    <nd ref="-884"/>
-    <nd ref="-885"/>
-    <nd ref="-886"/>
-    <nd ref="-887"/>
-    <nd ref="-884"/>
+  <node visible="true" id="-853" lat="29.89754950295724356124082988" lon="-90.20898318498804258069867501"/>
+  <node visible="true" id="-854" lat="29.89758244184717028701925301" lon="-90.20909696433780311508598970"/>
+  <node visible="true" id="-855" lat="29.89766181948782275412668241" lon="-90.20906638782334141524188453"/>
+  <node visible="true" id="-856" lat="29.89762888062414347700723738" lon="-90.20895260847358088085456984"/>
+  <way visible="true" id="-136">
+    <nd ref="-853"/>
+    <nd ref="-854"/>
+    <nd ref="-855"/>
+    <nd ref="-856"/>
+    <nd ref="-853"/>
     <tag k="building" v="yes"/>
     <tag k="addr:housenumber" v="116"/>
     <tag k="addr:street" v="Elaine Drive"/>
     <tag k="addr:city" v="Avondale"/>
     <tag k="addr:postcode" v="70094"/>
   </way>
-  <node visible="true" id="-888" lat="29.89414940759307270923272881" lon="-90.21076341557001398996362695"/>
-  <node visible="true" id="-889" lat="29.89418537037633782915690972" lon="-90.21089242439599331646604696"/>
-  <node visible="true" id="-890" lat="29.89428358925982109894903260" lon="-90.21085599570454860440804623"/>
-  <node visible="true" id="-891" lat="29.89424762651201916696663829" lon="-90.21072698687858348876034142"/>
-  <way visible="true" id="-142">
-    <nd ref="-888"/>
-    <nd ref="-889"/>
-    <nd ref="-890"/>
-    <nd ref="-891"/>
-    <nd ref="-888"/>
+  <node visible="true" id="-857" lat="29.89414940759307270923272881" lon="-90.21076341557001398996362695"/>
+  <node visible="true" id="-858" lat="29.89418537037633782915690972" lon="-90.21089242439599331646604696"/>
+  <node visible="true" id="-859" lat="29.89428358925982109894903260" lon="-90.21085599570454860440804623"/>
+  <node visible="true" id="-860" lat="29.89424762651201916696663829" lon="-90.21072698687858348876034142"/>
+  <way visible="true" id="-137">
+    <nd ref="-857"/>
+    <nd ref="-858"/>
+    <nd ref="-859"/>
+    <nd ref="-860"/>
+    <nd ref="-857"/>
     <tag k="building" v="yes"/>
     <tag k="addr:housenumber" v="132"/>
     <tag k="addr:street" v="June Drive"/>
     <tag k="addr:city" v="Avondale"/>
     <tag k="addr:postcode" v="70094"/>
   </way>
-  <node visible="true" id="-892" lat="29.89415098898911082869744860" lon="-90.21028416025436058589548338"/>
-  <node visible="true" id="-893" lat="29.89413180303477446386750671" lon="-90.21029188791612796194385737"/>
-  <node visible="true" id="-894" lat="29.89416131346560234760545427" lon="-90.21038937005721436435123906"/>
-  <node visible="true" id="-895" lat="29.89426561497622358842818358" lon="-90.21034735977380591975816060"/>
-  <node visible="true" id="-896" lat="29.89422654816755908768755035" lon="-90.21021830981224809420382371"/>
-  <node visible="true" id="-897" lat="29.89414143257219436122795742" lon="-90.21025259243391758445795858"/>
-  <way visible="true" id="-143">
-    <nd ref="-892"/>
-    <nd ref="-893"/>
-    <nd ref="-894"/>
-    <nd ref="-895"/>
-    <nd ref="-896"/>
-    <nd ref="-897"/>
-    <nd ref="-892"/>
+  <node visible="true" id="-861" lat="29.89415098898911082869744860" lon="-90.21028416025436058589548338"/>
+  <node visible="true" id="-862" lat="29.89413180303477446386750671" lon="-90.21029188791612796194385737"/>
+  <node visible="true" id="-863" lat="29.89416131346560234760545427" lon="-90.21038937005721436435123906"/>
+  <node visible="true" id="-864" lat="29.89426561497622358842818358" lon="-90.21034735977380591975816060"/>
+  <node visible="true" id="-865" lat="29.89422654816755908768755035" lon="-90.21021830981224809420382371"/>
+  <node visible="true" id="-866" lat="29.89414143257219436122795742" lon="-90.21025259243391758445795858"/>
+  <way visible="true" id="-138">
+    <nd ref="-861"/>
+    <nd ref="-862"/>
+    <nd ref="-863"/>
+    <nd ref="-864"/>
+    <nd ref="-865"/>
+    <nd ref="-866"/>
+    <nd ref="-861"/>
     <tag k="building" v="yes"/>
     <tag k="addr:housenumber" v="120"/>
     <tag k="addr:street" v="June Drive"/>
     <tag k="addr:city" v="Avondale"/>
     <tag k="addr:postcode" v="70094"/>
   </way>
-  <node visible="true" id="-898" lat="29.89418034355605158225444029" lon="-90.21013776463088618129404495"/>
-  <node visible="true" id="-899" lat="29.89420645792593234091327759" lon="-90.21012767128733855770406080"/>
-  <node visible="true" id="-900" lat="29.89418841588208763937473122" lon="-90.21006556366752704434475163"/>
-  <node visible="true" id="-901" lat="29.89408195991437722227601625" lon="-90.21010670944416176553204423"/>
-  <node visible="true" id="-902" lat="29.89411550181204546561275492" lon="-90.21022217337844040230265819"/>
-  <node visible="true" id="-903" lat="29.89419584337814228547358653" lon="-90.21019112094538172641478013"/>
-  <way visible="true" id="-144">
+  <node visible="true" id="-867" lat="29.89418034355605158225444029" lon="-90.21013776463088618129404495"/>
+  <node visible="true" id="-868" lat="29.89420645792593234091327759" lon="-90.21012767128733855770406080"/>
+  <node visible="true" id="-869" lat="29.89418841588208763937473122" lon="-90.21006556366752704434475163"/>
+  <node visible="true" id="-870" lat="29.89408195991437722227601625" lon="-90.21010670944416176553204423"/>
+  <node visible="true" id="-871" lat="29.89411550181204546561275492" lon="-90.21022217337844040230265819"/>
+  <node visible="true" id="-872" lat="29.89419584337814228547358653" lon="-90.21019112094538172641478013"/>
+  <way visible="true" id="-139">
+    <nd ref="-867"/>
+    <nd ref="-868"/>
+    <nd ref="-869"/>
+    <nd ref="-870"/>
+    <nd ref="-871"/>
+    <nd ref="-872"/>
+    <nd ref="-867"/>
+    <tag k="building" v="yes"/>
+    <tag k="addr:housenumber" v="116"/>
+    <tag k="addr:street" v="June Drive"/>
+    <tag k="addr:city" v="Avondale"/>
+    <tag k="addr:postcode" v="70094"/>
+  </way>
+  <node visible="true" id="-873" lat="29.89535797200337796653002442" lon="-90.21109628033683236481010681"/>
+  <node visible="true" id="-874" lat="29.89539154562668699099958758" lon="-90.21121760801538869145588251"/>
+  <node visible="true" id="-875" lat="29.89551204201919887282201671" lon="-90.21117324330589326564222574"/>
+  <node visible="true" id="-876" lat="29.89547846843649381298746448" lon="-90.21105191562733693899645004"/>
+  <way visible="true" id="-140">
+    <nd ref="-873"/>
+    <nd ref="-874"/>
+    <nd ref="-875"/>
+    <nd ref="-876"/>
+    <nd ref="-873"/>
+    <tag k="building" v="yes"/>
+    <tag k="addr:housenumber" v="149"/>
+    <tag k="addr:street" v="Winnona Drive"/>
+    <tag k="addr:city" v="Avondale"/>
+    <tag k="addr:postcode" v="70094"/>
+  </way>
+  <node visible="true" id="-877" lat="29.89532907850510312641745259" lon="-90.21093630754975833951903041"/>
+  <node visible="true" id="-878" lat="29.89536399673878364069423696" lon="-90.21106342572396386003674706"/>
+  <node visible="true" id="-879" lat="29.89544951177366272077051690" lon="-90.21103217126035644923831569"/>
+  <node visible="true" id="-880" lat="29.89544135239198752174161200" lon="-90.21100246738875227947573876"/>
+  <node visible="true" id="-881" lat="29.89548137195201960025769949" lon="-90.21098784083133637068385724"/>
+  <node visible="true" id="-882" lat="29.89545461314067509306369175" lon="-90.21089042652873501992871752"/>
+  <way visible="true" id="-141">
+    <nd ref="-877"/>
+    <nd ref="-878"/>
+    <nd ref="-879"/>
+    <nd ref="-880"/>
+    <nd ref="-881"/>
+    <nd ref="-882"/>
+    <nd ref="-877"/>
+    <tag k="building" v="yes"/>
+    <tag k="addr:housenumber" v="145"/>
+    <tag k="addr:street" v="Winnona Drive"/>
+    <tag k="addr:city" v="Avondale"/>
+    <tag k="addr:postcode" v="70094"/>
+  </way>
+  <node visible="true" id="-883" lat="29.89532030049171495988957759" lon="-90.21041199498974094694858650"/>
+  <node visible="true" id="-884" lat="29.89533649381121804822214472" lon="-90.21046899052325329648738261"/>
+  <node visible="true" id="-885" lat="29.89529791553000137582785101" lon="-90.21048357404519890678784577"/>
+  <node visible="true" id="-886" lat="29.89531646176894597033424361" lon="-90.21054885112181409567710944"/>
+  <node visible="true" id="-887" lat="29.89543783140085508875927189" lon="-90.21050297044234866916667670"/>
+  <node visible="true" id="-888" lat="29.89540309187843547533702804" lon="-90.21038069783222113073861692"/>
+  <way visible="true" id="-142">
+    <nd ref="-883"/>
+    <nd ref="-884"/>
+    <nd ref="-885"/>
+    <nd ref="-886"/>
+    <nd ref="-887"/>
+    <nd ref="-888"/>
+    <nd ref="-883"/>
+    <tag k="building" v="yes"/>
+    <tag k="addr:housenumber" v="133"/>
+    <tag k="addr:street" v="Winnona Drive"/>
+    <tag k="addr:city" v="Avondale"/>
+    <tag k="addr:postcode" v="70094"/>
+  </way>
+  <node visible="true" id="-889" lat="29.89537144994131168118656205" lon="-90.21021480453771346219582483"/>
+  <node visible="true" id="-890" lat="29.89525119337477576664241496" lon="-90.21026063843062559044483351"/>
+  <node visible="true" id="-891" lat="29.89527376856807805438620562" lon="-90.21034217207795791182434186"/>
+  <node visible="true" id="-892" lat="29.89524322066467476588513819" lon="-90.21035184202560230914968997"/>
+  <node visible="true" id="-893" lat="29.89524069544266282605349261" lon="-90.21034900118003463376226136"/>
+  <node visible="true" id="-894" lat="29.89520517149453482375065505" lon="-90.21036159633828788173559587"/>
+  <node visible="true" id="-895" lat="29.89522188200767160992654681" lon="-90.21041521584362499197595753"/>
+  <node visible="true" id="-896" lat="29.89525740686304544624363189" lon="-90.21040262069219295426591998"/>
+  <node visible="true" id="-897" lat="29.89542500891013077080060611" lon="-90.21033760066973172797588632"/>
+  <node visible="true" id="-898" lat="29.89541340215429343629693903" lon="-90.21029612031578892583638662"/>
+  <node visible="true" id="-899" lat="29.89539720620301466169621563" lon="-90.21030275960522715195111232"/>
+  <way visible="true" id="-143">
+    <nd ref="-889"/>
+    <nd ref="-890"/>
+    <nd ref="-891"/>
+    <nd ref="-892"/>
+    <nd ref="-893"/>
+    <nd ref="-894"/>
+    <nd ref="-895"/>
+    <nd ref="-896"/>
+    <nd ref="-897"/>
     <nd ref="-898"/>
     <nd ref="-899"/>
+    <nd ref="-889"/>
+    <tag k="building" v="yes"/>
+    <tag k="addr:housenumber" v="129"/>
+    <tag k="addr:street" v="Winnona Drive"/>
+    <tag k="addr:city" v="Avondale"/>
+    <tag k="addr:postcode" v="70094"/>
+  </way>
+  <node visible="true" id="-900" lat="29.89579689878374324507603887" lon="-90.21024652813740374313056236"/>
+  <node visible="true" id="-901" lat="29.89576168098385977600628394" lon="-90.21012848126144945126725361"/>
+  <node visible="true" id="-902" lat="29.89564212032166068411243032" lon="-90.21017594087085456067143241"/>
+  <node visible="true" id="-903" lat="29.89567733816378591882312321" lon="-90.21029398774680885253474116"/>
+  <way visible="true" id="-144">
     <nd ref="-900"/>
     <nd ref="-901"/>
     <nd ref="-902"/>
     <nd ref="-903"/>
-    <nd ref="-898"/>
+    <nd ref="-900"/>
     <tag k="building" v="yes"/>
-    <tag k="addr:housenumber" v="116"/>
-    <tag k="addr:street" v="June Drive"/>
+    <tag k="addr:housenumber" v="128"/>
+    <tag k="addr:street" v="Winnona Drive"/>
     <tag k="addr:city" v="Avondale"/>
     <tag k="addr:postcode" v="70094"/>
   </way>
@@ -5401,251 +5403,251 @@
     <tag k="addr:city" v="Avondale"/>
     <tag k="addr:postcode" v="70094"/>
   </way>
-  <node visible="true" id="-1672" lat="29.89479693647843561166155268" lon="-90.21253709045413415879011154"/>
-  <node visible="true" id="-1673" lat="29.89467636487017543345245940" lon="-90.21258391427392098194104619"/>
-  <node visible="true" id="-1674" lat="29.89471214640202489931652963" lon="-90.21270650463756624048983213"/>
-  <node visible="true" id="-1675" lat="29.89471513007644531967343937" lon="-90.21270370907134861226950306"/>
-  <node visible="true" id="-1676" lat="29.89472133992066815721955209" lon="-90.21272498449488352889602538"/>
-  <node visible="true" id="-1677" lat="29.89483849868102538493985776" lon="-90.21267948603018282938137418"/>
+  <node visible="true" id="-1672" lat="29.89757003650776923109333438" lon="-90.20915280742663355795230018"/>
+  <node visible="true" id="-1673" lat="29.89760566556146770267332613" lon="-90.20927249339348463763599284"/>
+  <node visible="true" id="-1674" lat="29.89767863228470901049149688" lon="-90.20924359122949454103945754"/>
+  <node visible="true" id="-1675" lat="29.89764300325706614103182801" lon="-90.20912390526265767221048009"/>
   <way visible="true" id="-259">
     <nd ref="-1672"/>
     <nd ref="-1673"/>
     <nd ref="-1674"/>
     <nd ref="-1675"/>
-    <nd ref="-1676"/>
-    <nd ref="-1677"/>
     <nd ref="-1672"/>
-    <tag k="building" v="yes"/>
-    <tag k="addr:housenumber" v="181"/>
-    <tag k="addr:street" v="Nicolle Boulevard"/>
-    <tag k="addr:city" v="Avondale"/>
-    <tag k="addr:postcode" v="70094"/>
-  </way>
-  <node visible="true" id="-1678" lat="29.89524350240108319098908396" lon="-90.21148204162479089518456021"/>
-  <node visible="true" id="-1679" lat="29.89522568325302032121726370" lon="-90.21142062389394311594514875"/>
-  <node visible="true" id="-1680" lat="29.89526164787554662893853674" lon="-90.21140674060285391533398069"/>
-  <node visible="true" id="-1681" lat="29.89524188532035609000558907" lon="-90.21133862446740181439963635"/>
-  <node visible="true" id="-1682" lat="29.89520343843154748242341157" lon="-90.21135346597550608294113772"/>
-  <node visible="true" id="-1683" lat="29.89520049653672728595665831" lon="-90.21134752557927072302845772"/>
-  <node visible="true" id="-1684" lat="29.89516469624878070021622989" lon="-90.21136134542443585360160796"/>
-  <node visible="true" id="-1685" lat="29.89516823060937511513657228" lon="-90.21137352739059167561208596"/>
-  <node visible="true" id="-1686" lat="29.89509454302533697500621201" lon="-90.21140197270587179900758201"/>
-  <node visible="true" id="-1687" lat="29.89513043662206470685305248" lon="-90.21152568796725290667382069"/>
-  <way visible="true" id="-260">
-    <nd ref="-1678"/>
-    <nd ref="-1679"/>
-    <nd ref="-1680"/>
-    <nd ref="-1681"/>
-    <nd ref="-1682"/>
-    <nd ref="-1683"/>
-    <nd ref="-1684"/>
-    <nd ref="-1685"/>
-    <nd ref="-1686"/>
-    <nd ref="-1687"/>
-    <nd ref="-1678"/>
-    <tag k="building" v="yes"/>
-    <tag k="addr:housenumber" v="156"/>
-    <tag k="addr:street" v="Nicolle Boulevard"/>
-    <tag k="addr:city" v="Avondale"/>
-    <tag k="addr:postcode" v="70094"/>
-  </way>
-  <node visible="true" id="-1688" lat="29.89534894558774169581738533" lon="-90.21127262842789207297755638"/>
-  <node visible="true" id="-1689" lat="29.89536640402210920797188010" lon="-90.21133246168815844612254295"/>
-  <node visible="true" id="-1690" lat="29.89533155051855928263648821" lon="-90.21134599281040777896123473"/>
-  <node visible="true" id="-1691" lat="29.89534968405217441045351734" lon="-90.21140813974899685945274541"/>
-  <node visible="true" id="-1692" lat="29.89553240514423038121094578" lon="-90.21133720215411244680581149"/>
-  <node visible="true" id="-1693" lat="29.89549681323538621313673502" lon="-90.21121522195522857145988382"/>
-  <way visible="true" id="-261">
-    <nd ref="-1688"/>
-    <nd ref="-1689"/>
-    <nd ref="-1690"/>
-    <nd ref="-1691"/>
-    <nd ref="-1692"/>
-    <nd ref="-1693"/>
-    <nd ref="-1688"/>
-    <tag k="building" v="yes"/>
-    <tag k="addr:housenumber" v="153"/>
-    <tag k="addr:street" v="Winnona Drive"/>
-    <tag k="addr:city" v="Avondale"/>
-    <tag k="addr:postcode" v="70094"/>
-  </way>
-  <node visible="true" id="-1694" lat="29.89372830291824101323072682" lon="-90.21326709869977378275507363"/>
-  <node visible="true" id="-1695" lat="29.89384049125952458325627958" lon="-90.21322235057174054873030400"/>
-  <node visible="true" id="-1696" lat="29.89380487534129926530113153" lon="-90.21309739656734905111079570"/>
-  <node visible="true" id="-1697" lat="29.89369265435749767334527860" lon="-90.21313830784718845734460047"/>
-  <node visible="true" id="-1698" lat="29.89369607424215402602385439" lon="-90.21315435503294111185823567"/>
-  <way visible="true" id="-262">
-    <nd ref="-1694"/>
-    <nd ref="-1695"/>
-    <nd ref="-1696"/>
-    <nd ref="-1697"/>
-    <nd ref="-1698"/>
-    <nd ref="-1694"/>
-    <tag k="building" v="yes"/>
-    <tag k="addr:housenumber" v="184"/>
-    <tag k="addr:street" v="Janet Drive"/>
-    <tag k="addr:city" v="Avondale"/>
-    <tag k="addr:postcode" v="70094"/>
-  </way>
-  <node visible="true" id="-1699" lat="29.89757003650776923109333438" lon="-90.20915280742663355795230018"/>
-  <node visible="true" id="-1700" lat="29.89760566556146770267332613" lon="-90.20927249339348463763599284"/>
-  <node visible="true" id="-1701" lat="29.89767863228470901049149688" lon="-90.20924359122949454103945754"/>
-  <node visible="true" id="-1702" lat="29.89764300325706614103182801" lon="-90.20912390526265767221048009"/>
-  <way visible="true" id="-263">
-    <nd ref="-1699"/>
-    <nd ref="-1700"/>
-    <nd ref="-1701"/>
-    <nd ref="-1702"/>
-    <nd ref="-1699"/>
     <tag k="building" v="yes"/>
     <tag k="addr:housenumber" v="120"/>
     <tag k="addr:street" v="Elaine Drive"/>
     <tag k="addr:city" v="Avondale"/>
     <tag k="addr:postcode" v="70094"/>
   </way>
-  <node visible="true" id="-1703" lat="29.89517834340241364543544478" lon="-90.21117489755145868457475444"/>
-  <node visible="true" id="-1704" lat="29.89516062460856105076345557" lon="-90.21111517843363003521517385"/>
-  <node visible="true" id="-1705" lat="29.89519979548244421607705590" lon="-90.21109971495404522556782467"/>
-  <node visible="true" id="-1706" lat="29.89518205352623425596902962" lon="-90.21103991775729014079843182"/>
-  <node visible="true" id="-1707" lat="29.89506111052033787700565881" lon="-90.21108766238019427419203566"/>
-  <node visible="true" id="-1708" lat="29.89509657130644626477078418" lon="-90.21120717869480643003043951"/>
-  <way visible="true" id="-264">
-    <nd ref="-1703"/>
-    <nd ref="-1704"/>
-    <nd ref="-1705"/>
-    <nd ref="-1706"/>
-    <nd ref="-1707"/>
-    <nd ref="-1708"/>
-    <nd ref="-1703"/>
+  <node visible="true" id="-1676" lat="29.89517834340241364543544478" lon="-90.21117489755145868457475444"/>
+  <node visible="true" id="-1677" lat="29.89516062460856105076345557" lon="-90.21111517843363003521517385"/>
+  <node visible="true" id="-1678" lat="29.89519979548244421607705590" lon="-90.21109971495404522556782467"/>
+  <node visible="true" id="-1679" lat="29.89518205352623425596902962" lon="-90.21103991775729014079843182"/>
+  <node visible="true" id="-1680" lat="29.89506111052033787700565881" lon="-90.21108766238019427419203566"/>
+  <node visible="true" id="-1681" lat="29.89509657130644626477078418" lon="-90.21120717869480643003043951"/>
+  <way visible="true" id="-260">
+    <nd ref="-1676"/>
+    <nd ref="-1677"/>
+    <nd ref="-1678"/>
+    <nd ref="-1679"/>
+    <nd ref="-1680"/>
+    <nd ref="-1681"/>
+    <nd ref="-1676"/>
     <tag k="building" v="yes"/>
     <tag k="addr:housenumber" v="148"/>
     <tag k="addr:street" v="Nicolle Boulevard"/>
     <tag k="addr:city" v="Avondale"/>
     <tag k="addr:postcode" v="70094"/>
   </way>
-  <node visible="true" id="-1709" lat="29.89530816640474597534193890" lon="-90.21076603872192833932786016"/>
-  <node visible="true" id="-1710" lat="29.89532135982369709381600842" lon="-90.21080880275857794003968593"/>
-  <node visible="true" id="-1711" lat="29.89529592196189611286172294" lon="-90.21081924475768687443633098"/>
-  <node visible="true" id="-1712" lat="29.89531525511612386480919668" lon="-90.21088190960911390448018210"/>
-  <node visible="true" id="-1713" lat="29.89533997626103811739994853" lon="-90.21087176181352162984694587"/>
-  <node visible="true" id="-1714" lat="29.89534586503136637247735052" lon="-90.21089084918303058202582179"/>
-  <node visible="true" id="-1715" lat="29.89542186453633121345774271" lon="-90.21085965208921209068648750"/>
-  <node visible="true" id="-1716" lat="29.89541177790867010344300070" lon="-90.21082695811068674629495945"/>
-  <node visible="true" id="-1717" lat="29.89546585893221575247480359" lon="-90.21080475833851153311115922"/>
-  <node visible="true" id="-1718" lat="29.89543753026564942842924211" lon="-90.21071293605943708371341927"/>
-  <way visible="true" id="-265">
-    <nd ref="-1709"/>
-    <nd ref="-1710"/>
-    <nd ref="-1711"/>
-    <nd ref="-1712"/>
-    <nd ref="-1713"/>
-    <nd ref="-1714"/>
-    <nd ref="-1715"/>
-    <nd ref="-1716"/>
-    <nd ref="-1717"/>
-    <nd ref="-1718"/>
-    <nd ref="-1709"/>
+  <node visible="true" id="-1682" lat="29.89530816640474597534193890" lon="-90.21076603872192833932786016"/>
+  <node visible="true" id="-1683" lat="29.89532135982369709381600842" lon="-90.21080880275857794003968593"/>
+  <node visible="true" id="-1684" lat="29.89529592196189611286172294" lon="-90.21081924475768687443633098"/>
+  <node visible="true" id="-1685" lat="29.89531525511612386480919668" lon="-90.21088190960911390448018210"/>
+  <node visible="true" id="-1686" lat="29.89533997626103811739994853" lon="-90.21087176181352162984694587"/>
+  <node visible="true" id="-1687" lat="29.89534586503136637247735052" lon="-90.21089084918303058202582179"/>
+  <node visible="true" id="-1688" lat="29.89542186453633121345774271" lon="-90.21085965208921209068648750"/>
+  <node visible="true" id="-1689" lat="29.89541177790867010344300070" lon="-90.21082695811068674629495945"/>
+  <node visible="true" id="-1690" lat="29.89546585893221575247480359" lon="-90.21080475833851153311115922"/>
+  <node visible="true" id="-1691" lat="29.89543753026564942842924211" lon="-90.21071293605943708371341927"/>
+  <way visible="true" id="-261">
+    <nd ref="-1682"/>
+    <nd ref="-1683"/>
+    <nd ref="-1684"/>
+    <nd ref="-1685"/>
+    <nd ref="-1686"/>
+    <nd ref="-1687"/>
+    <nd ref="-1688"/>
+    <nd ref="-1689"/>
+    <nd ref="-1690"/>
+    <nd ref="-1691"/>
+    <nd ref="-1682"/>
     <tag k="building" v="yes"/>
     <tag k="addr:housenumber" v="141"/>
     <tag k="addr:street" v="Winnona Drive"/>
     <tag k="addr:city" v="Avondale"/>
     <tag k="addr:postcode" v="70094"/>
   </way>
-  <node visible="true" id="-1719" lat="29.89451945664726650875309133" lon="-90.20987733604874847515020519"/>
-  <node visible="true" id="-1720" lat="29.89448353417404646847899130" lon="-90.20976106542673278454458341"/>
-  <node visible="true" id="-1721" lat="29.89440235646867094487788563" lon="-90.20979443495556893140019383"/>
-  <node visible="true" id="-1722" lat="29.89441993783247752958232013" lon="-90.20985134067689159564906731"/>
-  <node visible="true" id="-1723" lat="29.89438159785209947472139902" lon="-90.20986710099597871703736018"/>
-  <node visible="true" id="-1724" lat="29.89439993899785008579783607" lon="-90.20992646589668595424882369"/>
-  <way visible="true" id="-266">
-    <nd ref="-1719"/>
-    <nd ref="-1720"/>
-    <nd ref="-1721"/>
-    <nd ref="-1722"/>
-    <nd ref="-1723"/>
-    <nd ref="-1724"/>
-    <nd ref="-1719"/>
+  <node visible="true" id="-1692" lat="29.89451945664726650875309133" lon="-90.20987733604874847515020519"/>
+  <node visible="true" id="-1693" lat="29.89448353417404646847899130" lon="-90.20976106542673278454458341"/>
+  <node visible="true" id="-1694" lat="29.89440235646867094487788563" lon="-90.20979443495556893140019383"/>
+  <node visible="true" id="-1695" lat="29.89441993783247752958232013" lon="-90.20985134067689159564906731"/>
+  <node visible="true" id="-1696" lat="29.89438159785209947472139902" lon="-90.20986710099597871703736018"/>
+  <node visible="true" id="-1697" lat="29.89439993899785008579783607" lon="-90.20992646589668595424882369"/>
+  <way visible="true" id="-262">
+    <nd ref="-1692"/>
+    <nd ref="-1693"/>
+    <nd ref="-1694"/>
+    <nd ref="-1695"/>
+    <nd ref="-1696"/>
+    <nd ref="-1697"/>
+    <nd ref="-1692"/>
     <tag k="building" v="yes"/>
     <tag k="addr:housenumber" v="113"/>
     <tag k="addr:street" v="Nicolle Boulevard"/>
     <tag k="addr:city" v="Avondale"/>
     <tag k="addr:postcode" v="70094"/>
   </way>
-  <node visible="true" id="-1725" lat="29.89767497627554249106651696" lon="-90.20998651154634728754899697"/>
-  <node visible="true" id="-1726" lat="29.89770932686938920141983544" lon="-90.21010730623456197463383432"/>
-  <node visible="true" id="-1727" lat="29.89778104361344546191503468" lon="-90.21008016982770527647517156"/>
-  <node visible="true" id="-1728" lat="29.89774669304439669303974370" lon="-90.20995937513947637853561901"/>
-  <way visible="true" id="-267">
-    <nd ref="-1725"/>
-    <nd ref="-1726"/>
-    <nd ref="-1727"/>
-    <nd ref="-1728"/>
-    <nd ref="-1725"/>
+  <node visible="true" id="-1698" lat="29.89767497627554249106651696" lon="-90.20998651154634728754899697"/>
+  <node visible="true" id="-1699" lat="29.89770932686938920141983544" lon="-90.21010730623456197463383432"/>
+  <node visible="true" id="-1700" lat="29.89778104361344546191503468" lon="-90.21008016982770527647517156"/>
+  <node visible="true" id="-1701" lat="29.89774669304439669303974370" lon="-90.20995937513947637853561901"/>
+  <way visible="true" id="-263">
+    <nd ref="-1698"/>
+    <nd ref="-1699"/>
+    <nd ref="-1700"/>
+    <nd ref="-1701"/>
+    <nd ref="-1698"/>
     <tag k="building" v="yes"/>
     <tag k="addr:housenumber" v="140"/>
     <tag k="addr:street" v="Elaine Drive"/>
     <tag k="addr:city" v="Avondale"/>
     <tag k="addr:postcode" v="70094"/>
   </way>
-  <node visible="true" id="-1729" lat="29.89199930351331957467664324" lon="-90.20951565207731448481354164"/>
-  <node visible="true" id="-1730" lat="29.89196708493274101670067466" lon="-90.20920208894669656274345471"/>
-  <node visible="true" id="-1731" lat="29.89179979850344892611246905" lon="-90.20922495741447733053064439"/>
-  <node visible="true" id="-1732" lat="29.89183201713802873200620525" lon="-90.20953852054509525260073133"/>
-  <way visible="true" id="-268">
-    <nd ref="-1729"/>
-    <nd ref="-1730"/>
-    <nd ref="-1731"/>
-    <nd ref="-1732"/>
-    <nd ref="-1729"/>
+  <node visible="true" id="-1702" lat="29.89199930351331957467664324" lon="-90.20951565207731448481354164"/>
+  <node visible="true" id="-1703" lat="29.89196708493274101670067466" lon="-90.20920208894669656274345471"/>
+  <node visible="true" id="-1704" lat="29.89179979850344892611246905" lon="-90.20922495741447733053064439"/>
+  <node visible="true" id="-1705" lat="29.89183201713802873200620525" lon="-90.20953852054509525260073133"/>
+  <way visible="true" id="-264">
+    <nd ref="-1702"/>
+    <nd ref="-1703"/>
+    <nd ref="-1704"/>
+    <nd ref="-1705"/>
+    <nd ref="-1702"/>
     <tag k="building" v="yes"/>
     <tag k="addr:housenumber" v="713"/>
     <tag k="addr:street" v="South Jamie Boulevard"/>
     <tag k="addr:city" v="Avondale"/>
     <tag k="addr:postcode" v="70094"/>
   </way>
-  <node visible="true" id="-1733" lat="29.89439327826665504517222871" lon="-90.21134581795317330943362322"/>
-  <node visible="true" id="-1734" lat="29.89434433976951410727451730" lon="-90.21136135081668783186614746"/>
-  <node visible="true" id="-1735" lat="29.89423218295626938356690516" lon="-90.21140422261653668556391494"/>
-  <node visible="true" id="-1736" lat="29.89426883394554934625375608" lon="-90.21152362012790604239853565"/>
-  <node visible="true" id="-1737" lat="29.89441151431190490939115989" lon="-90.21146820997842041833791882"/>
-  <node visible="true" id="-1738" lat="29.89440890343760415248652862" lon="-90.21145532625288865347101819"/>
-  <node visible="true" id="-1739" lat="29.89444939743252760422365100" lon="-90.21143908791265175750595517"/>
-  <node visible="true" id="-1740" lat="29.89443845382476183658582158" lon="-90.21140190474339703996520257"/>
-  <node visible="true" id="-1741" lat="29.89441103084211448503992870" lon="-90.21141153917035637732624309"/>
-  <way visible="true" id="-269">
-    <nd ref="-1733"/>
-    <nd ref="-1734"/>
-    <nd ref="-1735"/>
-    <nd ref="-1736"/>
-    <nd ref="-1737"/>
-    <nd ref="-1738"/>
-    <nd ref="-1739"/>
-    <nd ref="-1740"/>
-    <nd ref="-1741"/>
-    <nd ref="-1733"/>
+  <node visible="true" id="-1706" lat="29.89439327826665504517222871" lon="-90.21134581795317330943362322"/>
+  <node visible="true" id="-1707" lat="29.89434433976951410727451730" lon="-90.21136135081668783186614746"/>
+  <node visible="true" id="-1708" lat="29.89423218295626938356690516" lon="-90.21140422261653668556391494"/>
+  <node visible="true" id="-1709" lat="29.89426883394554934625375608" lon="-90.21152362012790604239853565"/>
+  <node visible="true" id="-1710" lat="29.89441151431190490939115989" lon="-90.21146820997842041833791882"/>
+  <node visible="true" id="-1711" lat="29.89440890343760415248652862" lon="-90.21145532625288865347101819"/>
+  <node visible="true" id="-1712" lat="29.89444939743252760422365100" lon="-90.21143908791265175750595517"/>
+  <node visible="true" id="-1713" lat="29.89443845382476183658582158" lon="-90.21140190474339703996520257"/>
+  <node visible="true" id="-1714" lat="29.89441103084211448503992870" lon="-90.21141153917035637732624309"/>
+  <way visible="true" id="-265">
+    <nd ref="-1706"/>
+    <nd ref="-1707"/>
+    <nd ref="-1708"/>
+    <nd ref="-1709"/>
+    <nd ref="-1710"/>
+    <nd ref="-1711"/>
+    <nd ref="-1712"/>
+    <nd ref="-1713"/>
+    <nd ref="-1714"/>
+    <nd ref="-1706"/>
     <tag k="building" v="yes"/>
     <tag k="addr:housenumber" v="148"/>
     <tag k="addr:street" v="June Drive"/>
     <tag k="addr:city" v="Avondale"/>
     <tag k="addr:postcode" v="70094"/>
   </way>
-  <node visible="true" id="-1742" lat="29.89470492473946805489504186" lon="-90.21203213070965887254715199"/>
-  <node visible="true" id="-1743" lat="29.89469631151234096932967077" lon="-90.21200264631426080086384900"/>
-  <node visible="true" id="-1744" lat="29.89471638204459580379079853" lon="-90.21199484528963807861146051"/>
-  <node visible="true" id="-1745" lat="29.89468848176471382771524077" lon="-90.21189933835761110003659269"/>
-  <node visible="true" id="-1746" lat="29.89458759501336260200332617" lon="-90.21193855104426972957298858"/>
-  <node visible="true" id="-1747" lat="29.89462410855565011047474400" lon="-90.21206354237168056897644419"/>
-  <way visible="true" id="-270">
+  <node visible="true" id="-1715" lat="29.89470492473946805489504186" lon="-90.21203213070965887254715199"/>
+  <node visible="true" id="-1716" lat="29.89469631151234096932967077" lon="-90.21200264631426080086384900"/>
+  <node visible="true" id="-1717" lat="29.89471638204459580379079853" lon="-90.21199484528963807861146051"/>
+  <node visible="true" id="-1718" lat="29.89468848176471382771524077" lon="-90.21189933835761110003659269"/>
+  <node visible="true" id="-1719" lat="29.89458759501336260200332617" lon="-90.21193855104426972957298858"/>
+  <node visible="true" id="-1720" lat="29.89462410855565011047474400" lon="-90.21206354237168056897644419"/>
+  <way visible="true" id="-266">
+    <nd ref="-1715"/>
+    <nd ref="-1716"/>
+    <nd ref="-1717"/>
+    <nd ref="-1718"/>
+    <nd ref="-1719"/>
+    <nd ref="-1720"/>
+    <nd ref="-1715"/>
+    <tag k="building" v="yes"/>
+    <tag k="addr:housenumber" v="165"/>
+    <tag k="addr:street" v="Nicolle Boulevard"/>
+    <tag k="addr:city" v="Avondale"/>
+    <tag k="addr:postcode" v="70094"/>
+  </way>
+  <node visible="true" id="-1721" lat="29.89479693647843561166155268" lon="-90.21253709045413415879011154"/>
+  <node visible="true" id="-1722" lat="29.89467636487017543345245940" lon="-90.21258391427392098194104619"/>
+  <node visible="true" id="-1723" lat="29.89471214640202489931652963" lon="-90.21270650463756624048983213"/>
+  <node visible="true" id="-1724" lat="29.89471513007644531967343937" lon="-90.21270370907134861226950306"/>
+  <node visible="true" id="-1725" lat="29.89472133992066815721955209" lon="-90.21272498449488352889602538"/>
+  <node visible="true" id="-1726" lat="29.89483849868102538493985776" lon="-90.21267948603018282938137418"/>
+  <way visible="true" id="-267">
+    <nd ref="-1721"/>
+    <nd ref="-1722"/>
+    <nd ref="-1723"/>
+    <nd ref="-1724"/>
+    <nd ref="-1725"/>
+    <nd ref="-1726"/>
+    <nd ref="-1721"/>
+    <tag k="building" v="yes"/>
+    <tag k="addr:housenumber" v="181"/>
+    <tag k="addr:street" v="Nicolle Boulevard"/>
+    <tag k="addr:city" v="Avondale"/>
+    <tag k="addr:postcode" v="70094"/>
+  </way>
+  <node visible="true" id="-1727" lat="29.89524350240108319098908396" lon="-90.21148204162479089518456021"/>
+  <node visible="true" id="-1728" lat="29.89522568325302032121726370" lon="-90.21142062389394311594514875"/>
+  <node visible="true" id="-1729" lat="29.89526164787554662893853674" lon="-90.21140674060285391533398069"/>
+  <node visible="true" id="-1730" lat="29.89524188532035609000558907" lon="-90.21133862446740181439963635"/>
+  <node visible="true" id="-1731" lat="29.89520343843154748242341157" lon="-90.21135346597550608294113772"/>
+  <node visible="true" id="-1732" lat="29.89520049653672728595665831" lon="-90.21134752557927072302845772"/>
+  <node visible="true" id="-1733" lat="29.89516469624878070021622989" lon="-90.21136134542443585360160796"/>
+  <node visible="true" id="-1734" lat="29.89516823060937511513657228" lon="-90.21137352739059167561208596"/>
+  <node visible="true" id="-1735" lat="29.89509454302533697500621201" lon="-90.21140197270587179900758201"/>
+  <node visible="true" id="-1736" lat="29.89513043662206470685305248" lon="-90.21152568796725290667382069"/>
+  <way visible="true" id="-268">
+    <nd ref="-1727"/>
+    <nd ref="-1728"/>
+    <nd ref="-1729"/>
+    <nd ref="-1730"/>
+    <nd ref="-1731"/>
+    <nd ref="-1732"/>
+    <nd ref="-1733"/>
+    <nd ref="-1734"/>
+    <nd ref="-1735"/>
+    <nd ref="-1736"/>
+    <nd ref="-1727"/>
+    <tag k="building" v="yes"/>
+    <tag k="addr:housenumber" v="156"/>
+    <tag k="addr:street" v="Nicolle Boulevard"/>
+    <tag k="addr:city" v="Avondale"/>
+    <tag k="addr:postcode" v="70094"/>
+  </way>
+  <node visible="true" id="-1737" lat="29.89534894558774169581738533" lon="-90.21127262842789207297755638"/>
+  <node visible="true" id="-1738" lat="29.89536640402210920797188010" lon="-90.21133246168815844612254295"/>
+  <node visible="true" id="-1739" lat="29.89533155051855928263648821" lon="-90.21134599281040777896123473"/>
+  <node visible="true" id="-1740" lat="29.89534968405217441045351734" lon="-90.21140813974899685945274541"/>
+  <node visible="true" id="-1741" lat="29.89553240514423038121094578" lon="-90.21133720215411244680581149"/>
+  <node visible="true" id="-1742" lat="29.89549681323538621313673502" lon="-90.21121522195522857145988382"/>
+  <way visible="true" id="-269">
+    <nd ref="-1737"/>
+    <nd ref="-1738"/>
+    <nd ref="-1739"/>
+    <nd ref="-1740"/>
+    <nd ref="-1741"/>
     <nd ref="-1742"/>
+    <nd ref="-1737"/>
+    <tag k="building" v="yes"/>
+    <tag k="addr:housenumber" v="153"/>
+    <tag k="addr:street" v="Winnona Drive"/>
+    <tag k="addr:city" v="Avondale"/>
+    <tag k="addr:postcode" v="70094"/>
+  </way>
+  <node visible="true" id="-1743" lat="29.89372830291824101323072682" lon="-90.21326709869977378275507363"/>
+  <node visible="true" id="-1744" lat="29.89384049125952458325627958" lon="-90.21322235057174054873030400"/>
+  <node visible="true" id="-1745" lat="29.89380487534129926530113153" lon="-90.21309739656734905111079570"/>
+  <node visible="true" id="-1746" lat="29.89369265435749767334527860" lon="-90.21313830784718845734460047"/>
+  <node visible="true" id="-1747" lat="29.89369607424215402602385439" lon="-90.21315435503294111185823567"/>
+  <way visible="true" id="-270">
     <nd ref="-1743"/>
     <nd ref="-1744"/>
     <nd ref="-1745"/>
     <nd ref="-1746"/>
     <nd ref="-1747"/>
-    <nd ref="-1742"/>
+    <nd ref="-1743"/>
     <tag k="building" v="yes"/>
-    <tag k="addr:housenumber" v="165"/>
-    <tag k="addr:street" v="Nicolle Boulevard"/>
+    <tag k="addr:housenumber" v="184"/>
+    <tag k="addr:street" v="Janet Drive"/>
     <tag k="addr:city" v="Avondale"/>
     <tag k="addr:postcode" v="70094"/>
   </way>
@@ -5753,50 +5755,48 @@
     <tag k="addr:city" v="Avondale"/>
     <tag k="addr:postcode" v="70094"/>
   </way>
-  <node visible="true" id="-1784" lat="29.89337600071470291140940390" lon="-90.21343346551947206535260193"/>
-  <node visible="true" id="-1785" lat="29.89340887863746587527202792" lon="-90.21355012977548426533758175"/>
-  <node visible="true" id="-1786" lat="29.89349074091196811764348240" lon="-90.21351943543743345799157396"/>
-  <node visible="true" id="-1787" lat="29.89345786301620222502606339" lon="-90.21340277118142125800659414"/>
+  <node visible="true" id="-1784" lat="29.89365261649583516145867179" lon="-90.21230295062650839099660516"/>
+  <node visible="true" id="-1785" lat="29.89366303869454100095026661" lon="-90.21233726170382283271464985"/>
+  <node visible="true" id="-1786" lat="29.89360772740934990565619955" lon="-90.21235961536267211613449035"/>
+  <node visible="true" id="-1787" lat="29.89363491148958473786478862" lon="-90.21244910844995956722414121"/>
+  <node visible="true" id="-1788" lat="29.89373332676974470700770325" lon="-90.21240933460153144096693723"/>
+  <node visible="true" id="-1789" lat="29.89369572052214252266821859" lon="-90.21228553043694375901395688"/>
   <way visible="true" id="-275">
     <nd ref="-1784"/>
     <nd ref="-1785"/>
     <nd ref="-1786"/>
     <nd ref="-1787"/>
+    <nd ref="-1788"/>
+    <nd ref="-1789"/>
     <nd ref="-1784"/>
+    <tag k="building" v="yes"/>
+    <tag k="addr:housenumber" v="164"/>
+    <tag k="addr:street" v="Janet Drive"/>
+    <tag k="addr:city" v="Avondale"/>
+    <tag k="addr:postcode" v="70094"/>
+  </way>
+  <node visible="true" id="-1790" lat="29.89337600071470291140940390" lon="-90.21343346551947206535260193"/>
+  <node visible="true" id="-1791" lat="29.89340887863746587527202792" lon="-90.21355012977548426533758175"/>
+  <node visible="true" id="-1792" lat="29.89349074091196811764348240" lon="-90.21351943543743345799157396"/>
+  <node visible="true" id="-1793" lat="29.89345786301620222502606339" lon="-90.21340277118142125800659414"/>
+  <way visible="true" id="-276">
+    <nd ref="-1790"/>
+    <nd ref="-1791"/>
+    <nd ref="-1792"/>
+    <nd ref="-1793"/>
+    <nd ref="-1790"/>
     <tag k="building" v="yes"/>
     <tag k="addr:housenumber" v="189"/>
     <tag k="addr:street" v="Janet Drive"/>
     <tag k="addr:city" v="Avondale"/>
     <tag k="addr:postcode" v="70094"/>
   </way>
-  <node visible="true" id="-1788" lat="29.89320365723585126715988736" lon="-90.21395355365213220011355588"/>
-  <node visible="true" id="-1789" lat="29.89316327975333820177183952" lon="-90.21396939270066184235474793"/>
-  <node visible="true" id="-1790" lat="29.89314700474394825846502499" lon="-90.21391419295071045780787244"/>
-  <node visible="true" id="-1791" lat="29.89307755243475739348468778" lon="-90.21394143728694814399204915"/>
-  <node visible="true" id="-1792" lat="29.89311042027525999742465501" lon="-90.21405291467063136678916635"/>
-  <node visible="true" id="-1793" lat="29.89322025003736982284863188" lon="-90.21400983128583561665436719"/>
-  <way visible="true" id="-276">
-    <nd ref="-1788"/>
-    <nd ref="-1789"/>
-    <nd ref="-1790"/>
-    <nd ref="-1791"/>
-    <nd ref="-1792"/>
-    <nd ref="-1793"/>
-    <nd ref="-1788"/>
-    <tag k="building" v="yes"/>
-    <tag k="addr:housenumber" v="948"/>
-    <tag k="addr:street" v="Ruth Drive"/>
-    <tag k="addr:city" v="Avondale"/>
-    <tag k="addr:postcode" v="70094"/>
-  </way>
-  <node visible="true" id="-1794" lat="29.89405369034416892759509210" lon="-90.21370089321331420251226518"/>
-  <node visible="true" id="-1795" lat="29.89406720812915096985307173" lon="-90.21374613332815783905971330"/>
-  <node visible="true" id="-1796" lat="29.89404962514005603679834167" lon="-90.21375312350261310712085105"/>
-  <node visible="true" id="-1797" lat="29.89406403762368924503789458" lon="-90.21380135791309839987661690"/>
-  <node visible="true" id="-1798" lat="29.89411103679558934231863532" lon="-90.21378267323410682365647517"/>
-  <node visible="true" id="-1799" lat="29.89404451796002959440556879" lon="-90.21356005390067878124682466"/>
-  <node visible="true" id="-1800" lat="29.89392072616774598259326012" lon="-90.21360926769256138868513517"/>
-  <node visible="true" id="-1801" lat="29.89395931479343815340143919" lon="-90.21373841250066050179157173"/>
+  <node visible="true" id="-1794" lat="29.89320365723585126715988736" lon="-90.21395355365213220011355588"/>
+  <node visible="true" id="-1795" lat="29.89316327975333820177183952" lon="-90.21396939270066184235474793"/>
+  <node visible="true" id="-1796" lat="29.89314700474394825846502499" lon="-90.21391419295071045780787244"/>
+  <node visible="true" id="-1797" lat="29.89307755243475739348468778" lon="-90.21394143728694814399204915"/>
+  <node visible="true" id="-1798" lat="29.89311042027525999742465501" lon="-90.21405291467063136678916635"/>
+  <node visible="true" id="-1799" lat="29.89322025003736982284863188" lon="-90.21400983128583561665436719"/>
   <way visible="true" id="-277">
     <nd ref="-1794"/>
     <nd ref="-1795"/>
@@ -5804,43 +5804,43 @@
     <nd ref="-1797"/>
     <nd ref="-1798"/>
     <nd ref="-1799"/>
-    <nd ref="-1800"/>
-    <nd ref="-1801"/>
     <nd ref="-1794"/>
     <tag k="building" v="yes"/>
-    <tag k="addr:housenumber" v="928"/>
+    <tag k="addr:housenumber" v="948"/>
     <tag k="addr:street" v="Ruth Drive"/>
     <tag k="addr:city" v="Avondale"/>
     <tag k="addr:postcode" v="70094"/>
   </way>
-  <node visible="true" id="-1802" lat="29.89444076155768215130592580" lon="-90.21285100444026738841785118"/>
-  <node visible="true" id="-1803" lat="29.89445154795589942864353361" lon="-90.21288672132835984029952670"/>
-  <node visible="true" id="-1804" lat="29.89439387967559014214202762" lon="-90.21290989295800955005688593"/>
-  <node visible="true" id="-1805" lat="29.89442045583954055132380745" lon="-90.21299789429842519439262105"/>
-  <node visible="true" id="-1806" lat="29.89451881058857551920482365" lon="-90.21295837446395182723790640"/>
-  <node visible="true" id="-1807" lat="29.89448144805701446102830232" lon="-90.21283465623542952016578056"/>
+  <node visible="true" id="-1800" lat="29.89405369034416892759509210" lon="-90.21370089321331420251226518"/>
+  <node visible="true" id="-1801" lat="29.89406720812915096985307173" lon="-90.21374613332815783905971330"/>
+  <node visible="true" id="-1802" lat="29.89404962514005603679834167" lon="-90.21375312350261310712085105"/>
+  <node visible="true" id="-1803" lat="29.89406403762368924503789458" lon="-90.21380135791309839987661690"/>
+  <node visible="true" id="-1804" lat="29.89411103679558934231863532" lon="-90.21378267323410682365647517"/>
+  <node visible="true" id="-1805" lat="29.89404451796002959440556879" lon="-90.21356005390067878124682466"/>
+  <node visible="true" id="-1806" lat="29.89392072616774598259326012" lon="-90.21360926769256138868513517"/>
+  <node visible="true" id="-1807" lat="29.89395931479343815340143919" lon="-90.21373841250066050179157173"/>
   <way visible="true" id="-278">
+    <nd ref="-1800"/>
+    <nd ref="-1801"/>
     <nd ref="-1802"/>
     <nd ref="-1803"/>
     <nd ref="-1804"/>
     <nd ref="-1805"/>
     <nd ref="-1806"/>
     <nd ref="-1807"/>
-    <nd ref="-1802"/>
+    <nd ref="-1800"/>
     <tag k="building" v="yes"/>
-    <tag k="addr:housenumber" v="184"/>
-    <tag k="addr:street" v="June Drive"/>
+    <tag k="addr:housenumber" v="928"/>
+    <tag k="addr:street" v="Ruth Drive"/>
     <tag k="addr:city" v="Avondale"/>
     <tag k="addr:postcode" v="70094"/>
   </way>
-  <node visible="true" id="-1808" lat="29.89408041186210596151795471" lon="-90.21246589618093025819689501"/>
-  <node visible="true" id="-1809" lat="29.89396646361688070214768231" lon="-90.21250605455701077062258264"/>
-  <node visible="true" id="-1810" lat="29.89398075300529455944342772" lon="-90.21256000041206846162822330"/>
-  <node visible="true" id="-1811" lat="29.89387896885561701765254838" lon="-90.21259587180539085693453671"/>
-  <node visible="true" id="-1812" lat="29.89390363026242880550853442" lon="-90.21268897443100343025434995"/>
-  <node visible="true" id="-1813" lat="29.89400799551938803233497310" lon="-90.21265219337847440783662023"/>
-  <node visible="true" id="-1814" lat="29.89400075844310222805688682" lon="-90.21262487167810206756257685"/>
-  <node visible="true" id="-1815" lat="29.89411212551938135106865957" lon="-90.21258562296127081481245114"/>
+  <node visible="true" id="-1808" lat="29.89444076155768215130592580" lon="-90.21285100444026738841785118"/>
+  <node visible="true" id="-1809" lat="29.89445154795589942864353361" lon="-90.21288672132835984029952670"/>
+  <node visible="true" id="-1810" lat="29.89439387967559014214202762" lon="-90.21290989295800955005688593"/>
+  <node visible="true" id="-1811" lat="29.89442045583954055132380745" lon="-90.21299789429842519439262105"/>
+  <node visible="true" id="-1812" lat="29.89451881058857551920482365" lon="-90.21295837446395182723790640"/>
+  <node visible="true" id="-1813" lat="29.89448144805701446102830232" lon="-90.21283465623542952016578056"/>
   <way visible="true" id="-279">
     <nd ref="-1808"/>
     <nd ref="-1809"/>
@@ -5848,65 +5848,67 @@
     <nd ref="-1811"/>
     <nd ref="-1812"/>
     <nd ref="-1813"/>
-    <nd ref="-1814"/>
-    <nd ref="-1815"/>
     <nd ref="-1808"/>
     <tag k="building" v="yes"/>
-    <tag k="addr:housenumber" v="173"/>
+    <tag k="addr:housenumber" v="184"/>
     <tag k="addr:street" v="June Drive"/>
     <tag k="addr:city" v="Avondale"/>
     <tag k="addr:postcode" v="70094"/>
   </way>
-  <node visible="true" id="-1816" lat="29.89478304524468654790325672" lon="-90.21236617084200304361729650"/>
-  <node visible="true" id="-1817" lat="29.89465320662955605257593561" lon="-90.21241602791262437222030712"/>
-  <node visible="true" id="-1818" lat="29.89468226593143995728496520" lon="-90.21251671674085059748904314"/>
-  <node visible="true" id="-1819" lat="29.89463419917491648902796442" lon="-90.21253517400977273155149305"/>
-  <node visible="true" id="-1820" lat="29.89464767806240175218590593" lon="-90.21258187757578639320854563"/>
-  <node visible="true" id="-1821" lat="29.89469602592801678042633284" lon="-90.21256331236057235400949139"/>
-  <node visible="true" id="-1822" lat="29.89468829352883716410360648" lon="-90.21253652003055378827411914"/>
-  <node visible="true" id="-1823" lat="29.89481785098299937430965656" lon="-90.21248677090619594309828244"/>
+  <node visible="true" id="-1814" lat="29.89408041186210596151795471" lon="-90.21246589618093025819689501"/>
+  <node visible="true" id="-1815" lat="29.89396646361688070214768231" lon="-90.21250605455701077062258264"/>
+  <node visible="true" id="-1816" lat="29.89398075300529455944342772" lon="-90.21256000041206846162822330"/>
+  <node visible="true" id="-1817" lat="29.89387896885561701765254838" lon="-90.21259587180539085693453671"/>
+  <node visible="true" id="-1818" lat="29.89390363026242880550853442" lon="-90.21268897443100343025434995"/>
+  <node visible="true" id="-1819" lat="29.89400799551938803233497310" lon="-90.21265219337847440783662023"/>
+  <node visible="true" id="-1820" lat="29.89400075844310222805688682" lon="-90.21262487167810206756257685"/>
+  <node visible="true" id="-1821" lat="29.89411212551938135106865957" lon="-90.21258562296127081481245114"/>
   <way visible="true" id="-280">
+    <nd ref="-1814"/>
+    <nd ref="-1815"/>
     <nd ref="-1816"/>
     <nd ref="-1817"/>
     <nd ref="-1818"/>
     <nd ref="-1819"/>
     <nd ref="-1820"/>
     <nd ref="-1821"/>
-    <nd ref="-1822"/>
-    <nd ref="-1823"/>
-    <nd ref="-1816"/>
+    <nd ref="-1814"/>
     <tag k="building" v="yes"/>
-    <tag k="addr:housenumber" v="177"/>
-    <tag k="addr:street" v="Nicolle Boulevard"/>
+    <tag k="addr:housenumber" v="173"/>
+    <tag k="addr:street" v="June Drive"/>
     <tag k="addr:city" v="Avondale"/>
     <tag k="addr:postcode" v="70094"/>
   </way>
-  <node visible="true" id="-1824" lat="29.89438518199342809111840324" lon="-90.21236148986882597000658279"/>
-  <node visible="true" id="-1825" lat="29.89439489933341320693216403" lon="-90.21239367027996536307909992"/>
-  <node visible="true" id="-1826" lat="29.89433974901629298415173253" lon="-90.21241582774526079901988851"/>
-  <node visible="true" id="-1827" lat="29.89436716753073142172070220" lon="-90.21250662818501098172419006"/>
-  <node visible="true" id="-1828" lat="29.89450330084487461590470048" lon="-90.21245193455133914994803490"/>
-  <node visible="true" id="-1829" lat="29.89446616503581566348657361" lon="-90.21232895370047799588064663"/>
+  <node visible="true" id="-1822" lat="29.89478304524468654790325672" lon="-90.21236617084200304361729650"/>
+  <node visible="true" id="-1823" lat="29.89465320662955605257593561" lon="-90.21241602791262437222030712"/>
+  <node visible="true" id="-1824" lat="29.89468226593143995728496520" lon="-90.21251671674085059748904314"/>
+  <node visible="true" id="-1825" lat="29.89463419917491648902796442" lon="-90.21253517400977273155149305"/>
+  <node visible="true" id="-1826" lat="29.89464767806240175218590593" lon="-90.21258187757578639320854563"/>
+  <node visible="true" id="-1827" lat="29.89469602592801678042633284" lon="-90.21256331236057235400949139"/>
+  <node visible="true" id="-1828" lat="29.89468829352883716410360648" lon="-90.21253652003055378827411914"/>
+  <node visible="true" id="-1829" lat="29.89481785098299937430965656" lon="-90.21248677090619594309828244"/>
   <way visible="true" id="-281">
+    <nd ref="-1822"/>
+    <nd ref="-1823"/>
     <nd ref="-1824"/>
     <nd ref="-1825"/>
     <nd ref="-1826"/>
     <nd ref="-1827"/>
     <nd ref="-1828"/>
     <nd ref="-1829"/>
-    <nd ref="-1824"/>
+    <nd ref="-1822"/>
     <tag k="building" v="yes"/>
-    <tag k="addr:housenumber" v="172"/>
-    <tag k="addr:street" v="June Drive"/>
+    <tag k="addr:housenumber" v="177"/>
+    <tag k="addr:street" v="Nicolle Boulevard"/>
     <tag k="addr:city" v="Avondale"/>
     <tag k="addr:postcode" v="70094"/>
   </way>
-  <node visible="true" id="-1830" lat="29.89365261649583516145867179" lon="-90.21230295062650839099660516"/>
-  <node visible="true" id="-1831" lat="29.89366303869454100095026661" lon="-90.21233726170382283271464985"/>
-  <node visible="true" id="-1832" lat="29.89360772740934990565619955" lon="-90.21235961536267211613449035"/>
-  <node visible="true" id="-1833" lat="29.89363491148958473786478862" lon="-90.21244910844995956722414121"/>
-  <node visible="true" id="-1834" lat="29.89373332676974470700770325" lon="-90.21240933460153144096693723"/>
-  <node visible="true" id="-1835" lat="29.89369572052214252266821859" lon="-90.21228553043694375901395688"/>
+  <node visible="true" id="-1830" lat="29.89438518199342809111840324" lon="-90.21236148986882597000658279"/>
+  <node visible="true" id="-1831" lat="29.89439489933341320693216403" lon="-90.21239367027996536307909992"/>
+  <node visible="true" id="-1832" lat="29.89433974901629298415173253" lon="-90.21241582774526079901988851"/>
+  <node visible="true" id="-1833" lat="29.89436716753073142172070220" lon="-90.21250662818501098172419006"/>
+  <node visible="true" id="-1834" lat="29.89450330084487461590470048" lon="-90.21245193455133914994803490"/>
+  <node visible="true" id="-1835" lat="29.89446616503581566348657361" lon="-90.21232895370047799588064663"/>
   <way visible="true" id="-282">
     <nd ref="-1830"/>
     <nd ref="-1831"/>
@@ -5916,8 +5918,8 @@
     <nd ref="-1835"/>
     <nd ref="-1830"/>
     <tag k="building" v="yes"/>
-    <tag k="addr:housenumber" v="164"/>
-    <tag k="addr:street" v="Janet Drive"/>
+    <tag k="addr:housenumber" v="172"/>
+    <tag k="addr:street" v="June Drive"/>
     <tag k="addr:city" v="Avondale"/>
     <tag k="addr:postcode" v="70094"/>
   </way>
@@ -6021,13 +6023,12 @@
     <tag k="addr:city" v="Avondale"/>
     <tag k="addr:postcode" v="70094"/>
   </way>
-  <node visible="true" id="-1866" lat="29.89596275412939618831842381" lon="-90.21293306264499278768198565"/>
-  <node visible="true" id="-1867" lat="29.89595441377014495287767204" lon="-90.21290804625893144930159906"/>
-  <node visible="true" id="-1868" lat="29.89598180719371356417468633" lon="-90.21289482454619701456977054"/>
-  <node visible="true" id="-1869" lat="29.89596189233175138610931754" lon="-90.21283191377384014231211040"/>
-  <node visible="true" id="-1870" lat="29.89593447536282155851949938" lon="-90.21284226546225681886426173"/>
-  <node visible="true" id="-1871" lat="29.89583603267903200162436406" lon="-90.21288067692069034819724038"/>
-  <node visible="true" id="-1872" lat="29.89586181771122497252690664" lon="-90.21297221958317891221668106"/>
+  <node visible="true" id="-1866" lat="29.89622400727724027547083097" lon="-90.20931041869880573358386755"/>
+  <node visible="true" id="-1867" lat="29.89626023518195552242104895" lon="-90.20943250421863979227055097"/>
+  <node visible="true" id="-1868" lat="29.89636364841682691917412740" lon="-90.20939167340978315223765094"/>
+  <node visible="true" id="-1869" lat="29.89633700749737954538431950" lon="-90.20930189526615095019224100"/>
+  <node visible="true" id="-1870" lat="29.89632561582578063053006190" lon="-90.20930639305846909792307997"/>
+  <node visible="true" id="-1871" lat="29.89631602887705952298347256" lon="-90.20927408568226724128180649"/>
   <way visible="true" id="-288">
     <nd ref="-1866"/>
     <nd ref="-1867"/>
@@ -6035,48 +6036,50 @@
     <nd ref="-1869"/>
     <nd ref="-1870"/>
     <nd ref="-1871"/>
-    <nd ref="-1872"/>
     <nd ref="-1866"/>
-    <tag k="building" v="yes"/>
-    <tag k="addr:housenumber" v="804"/>
-    <tag k="addr:street" v="Ruth Drive"/>
-    <tag k="addr:city" v="Avondale"/>
-    <tag k="addr:postcode" v="70094"/>
-  </way>
-  <node visible="true" id="-1873" lat="29.89622400727724027547083097" lon="-90.20931041869880573358386755"/>
-  <node visible="true" id="-1874" lat="29.89626023518195552242104895" lon="-90.20943250421863979227055097"/>
-  <node visible="true" id="-1875" lat="29.89636364841682691917412740" lon="-90.20939167340978315223765094"/>
-  <node visible="true" id="-1876" lat="29.89633700749737954538431950" lon="-90.20930189526615095019224100"/>
-  <node visible="true" id="-1877" lat="29.89632561582578063053006190" lon="-90.20930639305846909792307997"/>
-  <node visible="true" id="-1878" lat="29.89631602887705952298347256" lon="-90.20927408568226724128180649"/>
-  <way visible="true" id="-289">
-    <nd ref="-1873"/>
-    <nd ref="-1874"/>
-    <nd ref="-1875"/>
-    <nd ref="-1876"/>
-    <nd ref="-1877"/>
-    <nd ref="-1878"/>
-    <nd ref="-1873"/>
     <tag k="building" v="yes"/>
     <tag k="addr:housenumber" v="112"/>
     <tag k="addr:street" v="Helen Drive"/>
     <tag k="addr:city" v="Avondale"/>
     <tag k="addr:postcode" v="70094"/>
   </way>
-  <node visible="true" id="-1879" lat="29.89757441085954070558727835" lon="-90.21124127004229364956700010"/>
-  <node visible="true" id="-1880" lat="29.89753640094000530780249392" lon="-90.21110274238279203018464614"/>
-  <node visible="true" id="-1881" lat="29.89743203442453989282512339" lon="-90.21114084591786763667187188"/>
-  <node visible="true" id="-1882" lat="29.89744741877306211108589196" lon="-90.21119691431660214675503084"/>
-  <node visible="true" id="-1883" lat="29.89742440855270544375343889" lon="-90.21120531519410690179938683"/>
-  <node visible="true" id="-1884" lat="29.89744042355104980401847570" lon="-90.21126368199756484500539955"/>
-  <node visible="true" id="-1885" lat="29.89742313231338499690536992" lon="-90.21126999491251297058624914"/>
-  <node visible="true" id="-1886" lat="29.89743259048164603086661373" lon="-90.21130446528906077219289728"/>
-  <node visible="true" id="-1887" lat="29.89748363318348367556609446" lon="-90.21128582993591749072948005"/>
-  <node visible="true" id="-1888" lat="29.89748078563546584973664721" lon="-90.21127545201673569863487501"/>
-  <way visible="true" id="-290">
+  <node visible="true" id="-1872" lat="29.89757441085954070558727835" lon="-90.21124127004229364956700010"/>
+  <node visible="true" id="-1873" lat="29.89753640094000530780249392" lon="-90.21110274238279203018464614"/>
+  <node visible="true" id="-1874" lat="29.89743203442453989282512339" lon="-90.21114084591786763667187188"/>
+  <node visible="true" id="-1875" lat="29.89744741877306211108589196" lon="-90.21119691431660214675503084"/>
+  <node visible="true" id="-1876" lat="29.89742440855270544375343889" lon="-90.21120531519410690179938683"/>
+  <node visible="true" id="-1877" lat="29.89744042355104980401847570" lon="-90.21126368199756484500539955"/>
+  <node visible="true" id="-1878" lat="29.89742313231338499690536992" lon="-90.21126999491251297058624914"/>
+  <node visible="true" id="-1879" lat="29.89743259048164603086661373" lon="-90.21130446528906077219289728"/>
+  <node visible="true" id="-1880" lat="29.89748363318348367556609446" lon="-90.21128582993591749072948005"/>
+  <node visible="true" id="-1881" lat="29.89748078563546584973664721" lon="-90.21127545201673569863487501"/>
+  <way visible="true" id="-289">
+    <nd ref="-1872"/>
+    <nd ref="-1873"/>
+    <nd ref="-1874"/>
+    <nd ref="-1875"/>
+    <nd ref="-1876"/>
+    <nd ref="-1877"/>
+    <nd ref="-1878"/>
     <nd ref="-1879"/>
     <nd ref="-1880"/>
     <nd ref="-1881"/>
+    <nd ref="-1872"/>
+    <tag k="building" v="yes"/>
+    <tag k="addr:housenumber" v="165"/>
+    <tag k="addr:street" v="Elaine Drive"/>
+    <tag k="addr:city" v="Avondale"/>
+    <tag k="addr:postcode" v="70094"/>
+  </way>
+  <node visible="true" id="-1882" lat="29.89744372339053057885394082" lon="-90.21016825667646799047361128"/>
+  <node visible="true" id="-1883" lat="29.89744580280482821876830712" lon="-90.21016582288955021340370877"/>
+  <node visible="true" id="-1884" lat="29.89741859887956110242157592" lon="-90.21006710119313254381268052"/>
+  <node visible="true" id="-1885" lat="29.89731208652871785602656018" lon="-90.21010615483243100243271329"/>
+  <node visible="true" id="-1886" lat="29.89733935013508769884538196" lon="-90.21020509300284118126000976"/>
+  <node visible="true" id="-1887" lat="29.89737982358552059736211959" lon="-90.21019025307647609679406742"/>
+  <node visible="true" id="-1888" lat="29.89738655971058278737473302" lon="-90.21021469812828286194417160"/>
+  <node visible="true" id="-1889" lat="29.89745010086616971989315061" lon="-90.21019140022272608803177718"/>
+  <way visible="true" id="-290">
     <nd ref="-1882"/>
     <nd ref="-1883"/>
     <nd ref="-1884"/>
@@ -6084,87 +6087,87 @@
     <nd ref="-1886"/>
     <nd ref="-1887"/>
     <nd ref="-1888"/>
-    <nd ref="-1879"/>
-    <tag k="building" v="yes"/>
-    <tag k="addr:housenumber" v="165"/>
-    <tag k="addr:street" v="Elaine Drive"/>
-    <tag k="addr:city" v="Avondale"/>
-    <tag k="addr:postcode" v="70094"/>
-  </way>
-  <node visible="true" id="-1889" lat="29.89744372339053057885394082" lon="-90.21016825667646799047361128"/>
-  <node visible="true" id="-1890" lat="29.89744580280482821876830712" lon="-90.21016582288955021340370877"/>
-  <node visible="true" id="-1891" lat="29.89741859887956110242157592" lon="-90.21006710119313254381268052"/>
-  <node visible="true" id="-1892" lat="29.89731208652871785602656018" lon="-90.21010615483243100243271329"/>
-  <node visible="true" id="-1893" lat="29.89733935013508769884538196" lon="-90.21020509300284118126000976"/>
-  <node visible="true" id="-1894" lat="29.89737982358552059736211959" lon="-90.21019025307647609679406742"/>
-  <node visible="true" id="-1895" lat="29.89738655971058278737473302" lon="-90.21021469812828286194417160"/>
-  <node visible="true" id="-1896" lat="29.89745010086616971989315061" lon="-90.21019140022272608803177718"/>
-  <way visible="true" id="-291">
     <nd ref="-1889"/>
-    <nd ref="-1890"/>
-    <nd ref="-1891"/>
-    <nd ref="-1892"/>
-    <nd ref="-1893"/>
-    <nd ref="-1894"/>
-    <nd ref="-1895"/>
-    <nd ref="-1896"/>
-    <nd ref="-1889"/>
+    <nd ref="-1882"/>
     <tag k="building" v="yes"/>
     <tag k="addr:housenumber" v="141"/>
     <tag k="addr:street" v="Elaine Drive"/>
     <tag k="addr:city" v="Avondale"/>
     <tag k="addr:postcode" v="70094"/>
   </way>
-  <node visible="true" id="-1897" lat="29.89668351483873109941669099" lon="-90.20942261193478373115794966"/>
-  <node visible="true" id="-1898" lat="29.89664719903189649130581529" lon="-90.20930307523664737345825415"/>
-  <node visible="true" id="-1899" lat="29.89657317973190941984285018" lon="-90.20933299618535272657027235"/>
-  <node visible="true" id="-1900" lat="29.89660949556568425578007009" lon="-90.20945253288348908426996786"/>
-  <way visible="true" id="-292">
-    <nd ref="-1897"/>
-    <nd ref="-1898"/>
-    <nd ref="-1899"/>
-    <nd ref="-1900"/>
-    <nd ref="-1897"/>
+  <node visible="true" id="-1890" lat="29.89668351483873109941669099" lon="-90.20942261193478373115794966"/>
+  <node visible="true" id="-1891" lat="29.89664719903189649130581529" lon="-90.20930307523664737345825415"/>
+  <node visible="true" id="-1892" lat="29.89657317973190941984285018" lon="-90.20933299618535272657027235"/>
+  <node visible="true" id="-1893" lat="29.89660949556568425578007009" lon="-90.20945253288348908426996786"/>
+  <way visible="true" id="-291">
+    <nd ref="-1890"/>
+    <nd ref="-1891"/>
+    <nd ref="-1892"/>
+    <nd ref="-1893"/>
+    <nd ref="-1890"/>
     <tag k="building" v="yes"/>
     <tag k="addr:housenumber" v="117"/>
     <tag k="addr:street" v="Madeira Drive"/>
     <tag k="addr:city" v="Avondale"/>
     <tag k="addr:postcode" v="70094"/>
   </way>
-  <node visible="true" id="-1901" lat="29.89523800257095942356500018" lon="-90.21270776286917225661454722"/>
-  <node visible="true" id="-1902" lat="29.89527328190782995420704538" lon="-90.21282997844417650412651710"/>
-  <node visible="true" id="-1903" lat="29.89541464105279189311659138" lon="-90.21277568566785021175746806"/>
-  <node visible="true" id="-1904" lat="29.89539600837612454142799834" lon="-90.21271113777903849495487520"/>
-  <node visible="true" id="-1905" lat="29.89537353931412866359096370" lon="-90.21271976762932354176882654"/>
-  <node visible="true" id="-1906" lat="29.89535689270019602759020927" lon="-90.21266209994311680020473432"/>
-  <way visible="true" id="-293">
-    <nd ref="-1901"/>
-    <nd ref="-1902"/>
-    <nd ref="-1903"/>
-    <nd ref="-1904"/>
-    <nd ref="-1905"/>
-    <nd ref="-1906"/>
-    <nd ref="-1901"/>
+  <node visible="true" id="-1894" lat="29.89523800257095942356500018" lon="-90.21270776286917225661454722"/>
+  <node visible="true" id="-1895" lat="29.89527328190782995420704538" lon="-90.21282997844417650412651710"/>
+  <node visible="true" id="-1896" lat="29.89541464105279189311659138" lon="-90.21277568566785021175746806"/>
+  <node visible="true" id="-1897" lat="29.89539600837612454142799834" lon="-90.21271113777903849495487520"/>
+  <node visible="true" id="-1898" lat="29.89537353931412866359096370" lon="-90.21271976762932354176882654"/>
+  <node visible="true" id="-1899" lat="29.89535689270019602759020927" lon="-90.21266209994311680020473432"/>
+  <way visible="true" id="-292">
+    <nd ref="-1894"/>
+    <nd ref="-1895"/>
+    <nd ref="-1896"/>
+    <nd ref="-1897"/>
+    <nd ref="-1898"/>
+    <nd ref="-1899"/>
+    <nd ref="-1894"/>
     <tag k="building" v="yes"/>
     <tag k="addr:housenumber" v="188"/>
     <tag k="addr:street" v="Nicolle Boulevard"/>
     <tag k="addr:city" v="Avondale"/>
     <tag k="addr:postcode" v="70094"/>
   </way>
-  <node visible="true" id="-1907" lat="29.89688081640167993668910640" lon="-90.21204836151281369893695228"/>
-  <node visible="true" id="-1908" lat="29.89697109572211886074910581" lon="-90.21201284833553302178188460"/>
-  <node visible="true" id="-1909" lat="29.89696183170102017356839497" lon="-90.21198151281447508154087700"/>
-  <node visible="true" id="-1910" lat="29.89697041134463617595429241" lon="-90.21197813783862784475786611"/>
-  <node visible="true" id="-1911" lat="29.89696208569016278033814160" lon="-90.21194997633973855499789352"/>
-  <node visible="true" id="-1912" lat="29.89696746035425078957814549" lon="-90.21194646943223460766603239"/>
-  <node visible="true" id="-1913" lat="29.89693936855919886852461786" lon="-90.21185144903991215414862381"/>
-  <node visible="true" id="-1914" lat="29.89682951289023904450914415" lon="-90.21189466294761416520486819"/>
-  <node visible="true" id="-1915" lat="29.89685826033421989222915727" lon="-90.21199190096314168840763159"/>
-  <node visible="true" id="-1916" lat="29.89686317637161749871665961" lon="-90.21198869422531174677715171"/>
-  <way visible="true" id="-294">
+  <node visible="true" id="-1900" lat="29.89688081640167993668910640" lon="-90.21204836151281369893695228"/>
+  <node visible="true" id="-1901" lat="29.89697109572211886074910581" lon="-90.21201284833553302178188460"/>
+  <node visible="true" id="-1902" lat="29.89696183170102017356839497" lon="-90.21198151281447508154087700"/>
+  <node visible="true" id="-1903" lat="29.89697041134463617595429241" lon="-90.21197813783862784475786611"/>
+  <node visible="true" id="-1904" lat="29.89696208569016278033814160" lon="-90.21194997633973855499789352"/>
+  <node visible="true" id="-1905" lat="29.89696746035425078957814549" lon="-90.21194646943223460766603239"/>
+  <node visible="true" id="-1906" lat="29.89693936855919886852461786" lon="-90.21185144903991215414862381"/>
+  <node visible="true" id="-1907" lat="29.89682951289023904450914415" lon="-90.21189466294761416520486819"/>
+  <node visible="true" id="-1908" lat="29.89685826033421989222915727" lon="-90.21199190096314168840763159"/>
+  <node visible="true" id="-1909" lat="29.89686317637161749871665961" lon="-90.21198869422531174677715171"/>
+  <way visible="true" id="-293">
+    <nd ref="-1900"/>
+    <nd ref="-1901"/>
+    <nd ref="-1902"/>
+    <nd ref="-1903"/>
+    <nd ref="-1904"/>
+    <nd ref="-1905"/>
+    <nd ref="-1906"/>
     <nd ref="-1907"/>
     <nd ref="-1908"/>
     <nd ref="-1909"/>
+    <nd ref="-1900"/>
+    <tag k="building" v="yes"/>
+    <tag k="addr:housenumber" v="177"/>
+    <tag k="addr:street" v="Madeira Drive"/>
+    <tag k="addr:city" v="Avondale"/>
+    <tag k="addr:postcode" v="70094"/>
+  </way>
+  <node visible="true" id="-1910" lat="29.89629934180664250220615941" lon="-90.21206598303754731205117423"/>
+  <node visible="true" id="-1911" lat="29.89629050309478230929016718" lon="-90.21203204513072648751403904"/>
+  <node visible="true" id="-1912" lat="29.89629292033221830138245423" lon="-90.21203201798284965207130881"/>
+  <node visible="true" id="-1913" lat="29.89626880096948013942892430" lon="-90.21193940714194070551457116"/>
+  <node visible="true" id="-1914" lat="29.89615845680033601183822611" lon="-90.21197764432709220727701904"/>
+  <node visible="true" id="-1915" lat="29.89618114132099435664713383" lon="-90.21206474572751687901472906"/>
+  <node visible="true" id="-1916" lat="29.89622856355651236981429975" lon="-90.21204831266490486996190157"/>
+  <node visible="true" id="-1917" lat="29.89623864353175264341189177" lon="-90.21208701661352336031995947"/>
+  <way visible="true" id="-294">
     <nd ref="-1910"/>
     <nd ref="-1911"/>
     <nd ref="-1912"/>
@@ -6172,262 +6175,261 @@
     <nd ref="-1914"/>
     <nd ref="-1915"/>
     <nd ref="-1916"/>
-    <nd ref="-1907"/>
+    <nd ref="-1917"/>
+    <nd ref="-1910"/>
     <tag k="building" v="yes"/>
-    <tag k="addr:housenumber" v="177"/>
-    <tag k="addr:street" v="Madeira Drive"/>
+    <tag k="addr:housenumber" v="173"/>
+    <tag k="addr:street" v="Helen Drive"/>
     <tag k="addr:city" v="Avondale"/>
     <tag k="addr:postcode" v="70094"/>
   </way>
-  <node visible="true" id="-1917" lat="29.89629934180664250220615941" lon="-90.21206598303754731205117423"/>
-  <node visible="true" id="-1918" lat="29.89629050309478230929016718" lon="-90.21203204513072648751403904"/>
-  <node visible="true" id="-1919" lat="29.89629292033221830138245423" lon="-90.21203201798284965207130881"/>
-  <node visible="true" id="-1920" lat="29.89626880096948013942892430" lon="-90.21193940714194070551457116"/>
-  <node visible="true" id="-1921" lat="29.89615845680033601183822611" lon="-90.21197764432709220727701904"/>
-  <node visible="true" id="-1922" lat="29.89618114132099435664713383" lon="-90.21206474572751687901472906"/>
-  <node visible="true" id="-1923" lat="29.89622856355651236981429975" lon="-90.21204831266490486996190157"/>
-  <node visible="true" id="-1924" lat="29.89623864353175264341189177" lon="-90.21208701661352336031995947"/>
+  <node visible="true" id="-1918" lat="29.89684687130154117085112375" lon="-90.21256059998574983183061704"/>
+  <node visible="true" id="-1919" lat="29.89682641806234641990158707" lon="-90.21249031230004788994847331"/>
+  <node visible="true" id="-1920" lat="29.89674852965832840823168226" lon="-90.21252046964622195446281694"/>
+  <node visible="true" id="-1921" lat="29.89679170162928301124338759" lon="-90.21266883029805683236190816"/>
+  <node visible="true" id="-1922" lat="29.89690343388605597851892526" lon="-90.21262556903955953657714417"/>
+  <node visible="true" id="-1923" lat="29.89688071519575274237467966" lon="-90.21254749607344081141491188"/>
   <way visible="true" id="-295">
-    <nd ref="-1917"/>
     <nd ref="-1918"/>
     <nd ref="-1919"/>
     <nd ref="-1920"/>
     <nd ref="-1921"/>
     <nd ref="-1922"/>
     <nd ref="-1923"/>
-    <nd ref="-1924"/>
-    <nd ref="-1917"/>
-    <tag k="building" v="yes"/>
-    <tag k="addr:housenumber" v="173"/>
-    <tag k="addr:street" v="Helen Drive"/>
-    <tag k="addr:city" v="Avondale"/>
-    <tag k="addr:postcode" v="70094"/>
-  </way>
-  <node visible="true" id="-1925" lat="29.89684687130154117085112375" lon="-90.21256059998574983183061704"/>
-  <node visible="true" id="-1926" lat="29.89682641806234641990158707" lon="-90.21249031230004788994847331"/>
-  <node visible="true" id="-1927" lat="29.89674852965832840823168226" lon="-90.21252046964622195446281694"/>
-  <node visible="true" id="-1928" lat="29.89679170162928301124338759" lon="-90.21266883029805683236190816"/>
-  <node visible="true" id="-1929" lat="29.89690343388605597851892526" lon="-90.21262556903955953657714417"/>
-  <node visible="true" id="-1930" lat="29.89688071519575274237467966" lon="-90.21254749607344081141491188"/>
-  <way visible="true" id="-296">
-    <nd ref="-1925"/>
-    <nd ref="-1926"/>
-    <nd ref="-1927"/>
-    <nd ref="-1928"/>
-    <nd ref="-1929"/>
-    <nd ref="-1930"/>
-    <nd ref="-1925"/>
+    <nd ref="-1918"/>
     <tag k="building" v="yes"/>
     <tag k="addr:housenumber" v="772"/>
     <tag k="addr:street" v="Ruth Drive"/>
     <tag k="addr:city" v="Avondale"/>
     <tag k="addr:postcode" v="70094"/>
   </way>
-  <node visible="true" id="-1931" lat="29.89588289418867361746379174" lon="-90.21230162826584830781939672"/>
-  <node visible="true" id="-1932" lat="29.89591622327316500218330475" lon="-90.21242219266851236625370802"/>
-  <node visible="true" id="-1933" lat="29.89599890596514342178124934" lon="-90.21239178041122386275674216"/>
-  <node visible="true" id="-1934" lat="29.89598500716024176426799386" lon="-90.21234150292242759405780816"/>
-  <node visible="true" id="-1935" lat="29.89599915604799562629523280" lon="-90.21233629869219328156759730"/>
-  <node visible="true" id="-1936" lat="29.89599460698375210654376133" lon="-90.21231984292217020993120968"/>
-  <node visible="true" id="-1937" lat="29.89602125340772076356188336" lon="-90.21231004185872848211147357"/>
-  <node visible="true" id="-1938" lat="29.89603622289784468080142688" lon="-90.21236419246038451547065051"/>
-  <node visible="true" id="-1939" lat="29.89609492055978279267947073" lon="-90.21234260232721169359138003"/>
-  <node visible="true" id="-1940" lat="29.89607110035333903397258837" lon="-90.21225643511638736526947469"/>
-  <node visible="true" id="-1941" lat="29.89601159454669598858345125" lon="-90.21227832249546452203503577"/>
-  <node visible="true" id="-1942" lat="29.89600556409611442632012768" lon="-90.21225650796080230975348968"/>
-  <way visible="true" id="-297">
+  <node visible="true" id="-1924" lat="29.89588289418867361746379174" lon="-90.21230162826584830781939672"/>
+  <node visible="true" id="-1925" lat="29.89591622327316500218330475" lon="-90.21242219266851236625370802"/>
+  <node visible="true" id="-1926" lat="29.89599890596514342178124934" lon="-90.21239178041122386275674216"/>
+  <node visible="true" id="-1927" lat="29.89598500716024176426799386" lon="-90.21234150292242759405780816"/>
+  <node visible="true" id="-1928" lat="29.89599915604799562629523280" lon="-90.21233629869219328156759730"/>
+  <node visible="true" id="-1929" lat="29.89599460698375210654376133" lon="-90.21231984292217020993120968"/>
+  <node visible="true" id="-1930" lat="29.89602125340772076356188336" lon="-90.21231004185872848211147357"/>
+  <node visible="true" id="-1931" lat="29.89603622289784468080142688" lon="-90.21236419246038451547065051"/>
+  <node visible="true" id="-1932" lat="29.89609492055978279267947073" lon="-90.21234260232721169359138003"/>
+  <node visible="true" id="-1933" lat="29.89607110035333903397258837" lon="-90.21225643511638736526947469"/>
+  <node visible="true" id="-1934" lat="29.89601159454669598858345125" lon="-90.21227832249546452203503577"/>
+  <node visible="true" id="-1935" lat="29.89600556409611442632012768" lon="-90.21225650796080230975348968"/>
+  <way visible="true" id="-296">
+    <nd ref="-1924"/>
+    <nd ref="-1925"/>
+    <nd ref="-1926"/>
+    <nd ref="-1927"/>
+    <nd ref="-1928"/>
+    <nd ref="-1929"/>
+    <nd ref="-1930"/>
     <nd ref="-1931"/>
     <nd ref="-1932"/>
     <nd ref="-1933"/>
     <nd ref="-1934"/>
     <nd ref="-1935"/>
-    <nd ref="-1936"/>
-    <nd ref="-1937"/>
-    <nd ref="-1938"/>
-    <nd ref="-1939"/>
-    <nd ref="-1940"/>
-    <nd ref="-1941"/>
-    <nd ref="-1942"/>
-    <nd ref="-1931"/>
+    <nd ref="-1924"/>
     <tag k="building" v="yes"/>
     <tag k="addr:housenumber" v="180"/>
     <tag k="addr:street" v="Winnona Drive"/>
     <tag k="addr:city" v="Avondale"/>
     <tag k="addr:postcode" v="70094"/>
   </way>
-  <node visible="true" id="-1943" lat="29.89691855462887204453181766" lon="-90.21169881715964322665968211"/>
-  <node visible="true" id="-1944" lat="29.89676654372505382184499467" lon="-90.21175855344232275001559174"/>
-  <node visible="true" id="-1945" lat="29.89679281240079333770154335" lon="-90.21184749652603329650446540"/>
-  <node visible="true" id="-1946" lat="29.89684149467829143986818963" lon="-90.21182836567767537871986860"/>
-  <node visible="true" id="-1947" lat="29.89685100237351633722937549" lon="-90.21186055779519108455133392"/>
-  <node visible="true" id="-1948" lat="29.89695433094992793598976277" lon="-90.21181995236085526812530588"/>
-  <way visible="true" id="-298">
-    <nd ref="-1943"/>
-    <nd ref="-1944"/>
-    <nd ref="-1945"/>
-    <nd ref="-1946"/>
-    <nd ref="-1947"/>
-    <nd ref="-1948"/>
-    <nd ref="-1943"/>
+  <node visible="true" id="-1936" lat="29.89691855462887204453181766" lon="-90.21169881715964322665968211"/>
+  <node visible="true" id="-1937" lat="29.89676654372505382184499467" lon="-90.21175855344232275001559174"/>
+  <node visible="true" id="-1938" lat="29.89679281240079333770154335" lon="-90.21184749652603329650446540"/>
+  <node visible="true" id="-1939" lat="29.89684149467829143986818963" lon="-90.21182836567767537871986860"/>
+  <node visible="true" id="-1940" lat="29.89685100237351633722937549" lon="-90.21186055779519108455133392"/>
+  <node visible="true" id="-1941" lat="29.89695433094992793598976277" lon="-90.21181995236085526812530588"/>
+  <way visible="true" id="-297">
+    <nd ref="-1936"/>
+    <nd ref="-1937"/>
+    <nd ref="-1938"/>
+    <nd ref="-1939"/>
+    <nd ref="-1940"/>
+    <nd ref="-1941"/>
+    <nd ref="-1936"/>
     <tag k="building" v="yes"/>
     <tag k="addr:housenumber" v="173"/>
     <tag k="addr:street" v="Madeira Drive"/>
     <tag k="addr:city" v="Avondale"/>
     <tag k="addr:postcode" v="70094"/>
   </way>
-  <node visible="true" id="-1949" lat="29.89586783435064987202167686" lon="-90.21178071363569017648842419"/>
-  <node visible="true" id="-1950" lat="29.89587619096549886421598785" lon="-90.21180932201384905511076795"/>
-  <node visible="true" id="-1951" lat="29.89586072099093527754121169" lon="-90.21181533452650569415709469"/>
-  <node visible="true" id="-1952" lat="29.89588964426449635425342422" lon="-90.21191435165074778979032999"/>
-  <node visible="true" id="-1953" lat="29.89601315751758292549311591" lon="-90.21186634733031439736805623"/>
-  <node visible="true" id="-1954" lat="29.89597587767408271020030952" lon="-90.21173872182791342311247718"/>
-  <way visible="true" id="-299">
-    <nd ref="-1949"/>
-    <nd ref="-1950"/>
-    <nd ref="-1951"/>
-    <nd ref="-1952"/>
-    <nd ref="-1953"/>
-    <nd ref="-1954"/>
-    <nd ref="-1949"/>
+  <node visible="true" id="-1942" lat="29.89586783435064987202167686" lon="-90.21178071363569017648842419"/>
+  <node visible="true" id="-1943" lat="29.89587619096549886421598785" lon="-90.21180932201384905511076795"/>
+  <node visible="true" id="-1944" lat="29.89586072099093527754121169" lon="-90.21181533452650569415709469"/>
+  <node visible="true" id="-1945" lat="29.89588964426449635425342422" lon="-90.21191435165074778979032999"/>
+  <node visible="true" id="-1946" lat="29.89601315751758292549311591" lon="-90.21186634733031439736805623"/>
+  <node visible="true" id="-1947" lat="29.89597587767408271020030952" lon="-90.21173872182791342311247718"/>
+  <way visible="true" id="-298">
+    <nd ref="-1942"/>
+    <nd ref="-1943"/>
+    <nd ref="-1944"/>
+    <nd ref="-1945"/>
+    <nd ref="-1946"/>
+    <nd ref="-1947"/>
+    <nd ref="-1942"/>
     <tag k="building" v="yes"/>
     <tag k="addr:housenumber" v="168"/>
     <tag k="addr:street" v="Winnona Drive"/>
     <tag k="addr:city" v="Avondale"/>
     <tag k="addr:postcode" v="70094"/>
   </way>
-  <node visible="true" id="-1955" lat="29.89417004895022955679451115" lon="-90.21094809338900688544526929"/>
-  <node visible="true" id="-1956" lat="29.89419641878313171901027090" lon="-90.21103628603559343446249841"/>
-  <node visible="true" id="-1957" lat="29.89432080759312526652138331" lon="-90.21098680130670288690453162"/>
-  <node visible="true" id="-1958" lat="29.89429443779310346940292220" lon="-90.21089860866013054874201771"/>
-  <way visible="true" id="-300">
-    <nd ref="-1955"/>
-    <nd ref="-1956"/>
-    <nd ref="-1957"/>
-    <nd ref="-1958"/>
-    <nd ref="-1955"/>
+  <node visible="true" id="-1948" lat="29.89417004895022955679451115" lon="-90.21094809338900688544526929"/>
+  <node visible="true" id="-1949" lat="29.89419641878313171901027090" lon="-90.21103628603559343446249841"/>
+  <node visible="true" id="-1950" lat="29.89432080759312526652138331" lon="-90.21098680130670288690453162"/>
+  <node visible="true" id="-1951" lat="29.89429443779310346940292220" lon="-90.21089860866013054874201771"/>
+  <way visible="true" id="-299">
+    <nd ref="-1948"/>
+    <nd ref="-1949"/>
+    <nd ref="-1950"/>
+    <nd ref="-1951"/>
+    <nd ref="-1948"/>
     <tag k="building" v="yes"/>
     <tag k="addr:housenumber" v="136"/>
     <tag k="addr:street" v="June Drive"/>
     <tag k="addr:city" v="Avondale"/>
     <tag k="addr:postcode" v="70094"/>
   </way>
-  <node visible="true" id="-1959" lat="29.89406669013861161943168554" lon="-90.20994277099185865154140629"/>
-  <node visible="true" id="-1960" lat="29.89410083140490215214413183" lon="-90.21006256032241310549579794"/>
-  <node visible="true" id="-1961" lat="29.89421298549402195021684747" lon="-90.21002003079050268752325792"/>
-  <node visible="true" id="-1962" lat="29.89417884426612204151751939" lon="-90.20990024145994823356886627"/>
-  <way visible="true" id="-301">
-    <nd ref="-1959"/>
-    <nd ref="-1960"/>
-    <nd ref="-1961"/>
-    <nd ref="-1962"/>
-    <nd ref="-1959"/>
+  <node visible="true" id="-1952" lat="29.89406669013861161943168554" lon="-90.20994277099185865154140629"/>
+  <node visible="true" id="-1953" lat="29.89410083140490215214413183" lon="-90.21006256032241310549579794"/>
+  <node visible="true" id="-1954" lat="29.89421298549402195021684747" lon="-90.21002003079050268752325792"/>
+  <node visible="true" id="-1955" lat="29.89417884426612204151751939" lon="-90.20990024145994823356886627"/>
+  <way visible="true" id="-300">
+    <nd ref="-1952"/>
+    <nd ref="-1953"/>
+    <nd ref="-1954"/>
+    <nd ref="-1955"/>
+    <nd ref="-1952"/>
     <tag k="building" v="yes"/>
     <tag k="addr:housenumber" v="112"/>
     <tag k="addr:street" v="June Drive"/>
     <tag k="addr:city" v="Avondale"/>
     <tag k="addr:postcode" v="70094"/>
   </way>
-  <node visible="true" id="-1963" lat="29.89394219158807075586992141" lon="-90.21097282574434927937545581"/>
-  <node visible="true" id="-1964" lat="29.89390540600653878300363431" lon="-90.21084180487530090886139078"/>
-  <node visible="true" id="-1965" lat="29.89372491347610250045363500" lon="-90.21090922789517208002507687"/>
-  <node visible="true" id="-1966" lat="29.89376169912426206565214670" lon="-90.21104024876420623968442669"/>
-  <way visible="true" id="-302">
-    <nd ref="-1963"/>
-    <nd ref="-1964"/>
-    <nd ref="-1965"/>
-    <nd ref="-1966"/>
-    <nd ref="-1963"/>
+  <node visible="true" id="-1956" lat="29.89394219158807075586992141" lon="-90.21097282574434927937545581"/>
+  <node visible="true" id="-1957" lat="29.89390540600653878300363431" lon="-90.21084180487530090886139078"/>
+  <node visible="true" id="-1958" lat="29.89372491347610250045363500" lon="-90.21090922789517208002507687"/>
+  <node visible="true" id="-1959" lat="29.89376169912426206565214670" lon="-90.21104024876420623968442669"/>
+  <way visible="true" id="-301">
+    <nd ref="-1956"/>
+    <nd ref="-1957"/>
+    <nd ref="-1958"/>
+    <nd ref="-1959"/>
+    <nd ref="-1956"/>
     <tag k="building" v="yes"/>
     <tag k="addr:housenumber" v="133"/>
     <tag k="addr:street" v="June Drive"/>
     <tag k="addr:city" v="Avondale"/>
     <tag k="addr:postcode" v="70094"/>
   </way>
-  <node visible="true" id="-1967" lat="29.89343707382586856624584470" lon="-90.21086335853298976417136146"/>
-  <node visible="true" id="-1968" lat="29.89347441418643924748721474" lon="-90.21098272246948113206599373"/>
-  <node visible="true" id="-1969" lat="29.89358406858737282618676545" lon="-90.21093708306467817692464450"/>
-  <node visible="true" id="-1970" lat="29.89354672826789638406808081" lon="-90.21081771912817259817529703"/>
-  <way visible="true" id="-303">
-    <nd ref="-1967"/>
-    <nd ref="-1968"/>
-    <nd ref="-1969"/>
-    <nd ref="-1970"/>
-    <nd ref="-1967"/>
+  <node visible="true" id="-1960" lat="29.89343707382586856624584470" lon="-90.21086335853298976417136146"/>
+  <node visible="true" id="-1961" lat="29.89347441418643924748721474" lon="-90.21098272246948113206599373"/>
+  <node visible="true" id="-1962" lat="29.89358406858737282618676545" lon="-90.21093708306467817692464450"/>
+  <node visible="true" id="-1963" lat="29.89354672826789638406808081" lon="-90.21081771912817259817529703"/>
+  <way visible="true" id="-302">
+    <nd ref="-1960"/>
+    <nd ref="-1961"/>
+    <nd ref="-1962"/>
+    <nd ref="-1963"/>
+    <nd ref="-1960"/>
     <tag k="building" v="yes"/>
     <tag k="addr:housenumber" v="128"/>
     <tag k="addr:street" v="Janet Drive"/>
     <tag k="addr:city" v="Avondale"/>
     <tag k="addr:postcode" v="70094"/>
   </way>
-  <node visible="true" id="-1971" lat="29.89305868871373661477264250" lon="-90.20981266871577020083350362"/>
-  <node visible="true" id="-1972" lat="29.89293360748015260242027580" lon="-90.20986052078750105920335045"/>
-  <node visible="true" id="-1973" lat="29.89295905663615826597379055" lon="-90.20994902598657461112452438"/>
-  <node visible="true" id="-1974" lat="29.89308413783778917149902554" lon="-90.20990117391484375275467755"/>
-  <way visible="true" id="-304">
-    <nd ref="-1971"/>
-    <nd ref="-1972"/>
-    <nd ref="-1973"/>
-    <nd ref="-1974"/>
-    <nd ref="-1971"/>
+  <node visible="true" id="-1964" lat="29.89305868871373661477264250" lon="-90.20981266871577020083350362"/>
+  <node visible="true" id="-1965" lat="29.89293360748015260242027580" lon="-90.20986052078750105920335045"/>
+  <node visible="true" id="-1966" lat="29.89295905663615826597379055" lon="-90.20994902598657461112452438"/>
+  <node visible="true" id="-1967" lat="29.89308413783778917149902554" lon="-90.20990117391484375275467755"/>
+  <way visible="true" id="-303">
+    <nd ref="-1964"/>
+    <nd ref="-1965"/>
+    <nd ref="-1966"/>
+    <nd ref="-1967"/>
+    <nd ref="-1964"/>
     <tag k="building" v="yes"/>
     <tag k="addr:housenumber" v="101"/>
     <tag k="addr:street" v="Janet Drive"/>
     <tag k="addr:city" v="Avondale"/>
     <tag k="addr:postcode" v="70094"/>
   </way>
-  <node visible="true" id="-1975" lat="29.89518999026017453957138059" lon="-90.21065457715899071899912087"/>
-  <node visible="true" id="-1976" lat="29.89515300115090568056075426" lon="-90.21052732127120066252246033"/>
-  <node visible="true" id="-1977" lat="29.89504769332976508167121210" lon="-90.21056804799445671960711479"/>
-  <node visible="true" id="-1978" lat="29.89505667720830572875456710" lon="-90.21059895574258291617297800"/>
-  <node visible="true" id="-1979" lat="29.89503866546089483335890691" lon="-90.21060592159807356438250281"/>
-  <node visible="true" id="-1980" lat="29.89506667073576906545895326" lon="-90.21070226973775163514801534"/>
-  <way visible="true" id="-305">
-    <nd ref="-1975"/>
-    <nd ref="-1976"/>
-    <nd ref="-1977"/>
-    <nd ref="-1978"/>
-    <nd ref="-1979"/>
-    <nd ref="-1980"/>
-    <nd ref="-1975"/>
+  <node visible="true" id="-1968" lat="29.89518999026017453957138059" lon="-90.21065457715899071899912087"/>
+  <node visible="true" id="-1969" lat="29.89515300115090568056075426" lon="-90.21052732127120066252246033"/>
+  <node visible="true" id="-1970" lat="29.89504769332976508167121210" lon="-90.21056804799445671960711479"/>
+  <node visible="true" id="-1971" lat="29.89505667720830572875456710" lon="-90.21059895574258291617297800"/>
+  <node visible="true" id="-1972" lat="29.89503866546089483335890691" lon="-90.21060592159807356438250281"/>
+  <node visible="true" id="-1973" lat="29.89506667073576906545895326" lon="-90.21070226973775163514801534"/>
+  <way visible="true" id="-304">
+    <nd ref="-1968"/>
+    <nd ref="-1969"/>
+    <nd ref="-1970"/>
+    <nd ref="-1971"/>
+    <nd ref="-1972"/>
+    <nd ref="-1973"/>
+    <nd ref="-1968"/>
     <tag k="building" v="yes"/>
     <tag k="addr:housenumber" v="136"/>
     <tag k="addr:street" v="Nicolle Boulevard"/>
     <tag k="addr:city" v="Avondale"/>
     <tag k="addr:postcode" v="70094"/>
   </way>
-  <node visible="true" id="-1981" lat="29.89532746565586407427872473" lon="-90.21058852305057484954886604"/>
-  <node visible="true" id="-1982" lat="29.89536080688432306828872242" lon="-90.21070846193448744543275097"/>
-  <node visible="true" id="-1983" lat="29.89540426724932586921568145" lon="-90.21069238734835948889667634"/>
-  <node visible="true" id="-1984" lat="29.89539452865104607326429687" lon="-90.21065735452830836038629059"/>
-  <node visible="true" id="-1985" lat="29.89544877452698656838947500" lon="-90.21063729072197645564301638"/>
-  <node visible="true" id="-1986" lat="29.89542517192420945093545015" lon="-90.21055238465811498826951720"/>
-  <way visible="true" id="-306">
-    <nd ref="-1981"/>
-    <nd ref="-1982"/>
-    <nd ref="-1983"/>
-    <nd ref="-1984"/>
-    <nd ref="-1985"/>
-    <nd ref="-1986"/>
-    <nd ref="-1981"/>
+  <node visible="true" id="-1974" lat="29.89532746565586407427872473" lon="-90.21058852305057484954886604"/>
+  <node visible="true" id="-1975" lat="29.89536080688432306828872242" lon="-90.21070846193448744543275097"/>
+  <node visible="true" id="-1976" lat="29.89540426724932586921568145" lon="-90.21069238734835948889667634"/>
+  <node visible="true" id="-1977" lat="29.89539452865104607326429687" lon="-90.21065735452830836038629059"/>
+  <node visible="true" id="-1978" lat="29.89544877452698656838947500" lon="-90.21063729072197645564301638"/>
+  <node visible="true" id="-1979" lat="29.89542517192420945093545015" lon="-90.21055238465811498826951720"/>
+  <way visible="true" id="-305">
+    <nd ref="-1974"/>
+    <nd ref="-1975"/>
+    <nd ref="-1976"/>
+    <nd ref="-1977"/>
+    <nd ref="-1978"/>
+    <nd ref="-1979"/>
+    <nd ref="-1974"/>
     <tag k="building" v="yes"/>
     <tag k="addr:housenumber" v="137"/>
     <tag k="addr:street" v="Winnona Drive"/>
     <tag k="addr:city" v="Avondale"/>
     <tag k="addr:postcode" v="70094"/>
   </way>
-  <node visible="true" id="-1987" lat="29.89612967792984576931303309" lon="-90.21074656803796187887201086"/>
-  <node visible="true" id="-1988" lat="29.89602585128850975593195471" lon="-90.21078656946076534950407222"/>
-  <node visible="true" id="-1989" lat="29.89606506239413974412855168" lon="-90.21092198651959392918797676"/>
-  <node visible="true" id="-1990" lat="29.89616888899462310291710310" lon="-90.21088198509679045855591539"/>
+  <node visible="true" id="-1980" lat="29.89612967792984576931303309" lon="-90.21074656803796187887201086"/>
+  <node visible="true" id="-1981" lat="29.89602585128850975593195471" lon="-90.21078656946076534950407222"/>
+  <node visible="true" id="-1982" lat="29.89606506239413974412855168" lon="-90.21092198651959392918797676"/>
+  <node visible="true" id="-1983" lat="29.89616888899462310291710310" lon="-90.21088198509679045855591539"/>
+  <way visible="true" id="-306">
+    <nd ref="-1980"/>
+    <nd ref="-1981"/>
+    <nd ref="-1982"/>
+    <nd ref="-1983"/>
+    <nd ref="-1980"/>
+    <tag k="building" v="yes"/>
+    <tag k="addr:housenumber" v="145"/>
+    <tag k="addr:street" v="Helen Drive"/>
+    <tag k="addr:city" v="Avondale"/>
+    <tag k="addr:postcode" v="70094"/>
+  </way>
+  <node visible="true" id="-1984" lat="29.89596275412939618831842381" lon="-90.21293306264499278768198565"/>
+  <node visible="true" id="-1985" lat="29.89595441377014495287767204" lon="-90.21290804625893144930159906"/>
+  <node visible="true" id="-1986" lat="29.89598180719371356417468633" lon="-90.21289482454619701456977054"/>
+  <node visible="true" id="-1987" lat="29.89596189233175138610931754" lon="-90.21283191377384014231211040"/>
+  <node visible="true" id="-1988" lat="29.89593447536282155851949938" lon="-90.21284226546225681886426173"/>
+  <node visible="true" id="-1989" lat="29.89583603267903200162436406" lon="-90.21288067692069034819724038"/>
+  <node visible="true" id="-1990" lat="29.89586181771122497252690664" lon="-90.21297221958317891221668106"/>
   <way visible="true" id="-307">
+    <nd ref="-1984"/>
+    <nd ref="-1985"/>
+    <nd ref="-1986"/>
     <nd ref="-1987"/>
     <nd ref="-1988"/>
     <nd ref="-1989"/>
     <nd ref="-1990"/>
-    <nd ref="-1987"/>
+    <nd ref="-1984"/>
     <tag k="building" v="yes"/>
-    <tag k="addr:housenumber" v="145"/>
-    <tag k="addr:street" v="Helen Drive"/>
+    <tag k="addr:housenumber" v="804"/>
+    <tag k="addr:street" v="Ruth Drive"/>
     <tag k="addr:city" v="Avondale"/>
     <tag k="addr:postcode" v="70094"/>
   </way>
@@ -6457,10 +6459,10 @@
     <tag k="addr:city" v="Avondale"/>
     <tag k="addr:postcode" v="70094"/>
   </way>
-  <node visible="true" id="-2000" lat="29.89283140041005992770806188" lon="-90.21040926561612138812051853"/>
-  <node visible="true" id="-2001" lat="29.89280864334482856747854385" lon="-90.21041889449821837843046524"/>
-  <node visible="true" id="-2002" lat="29.89281600017750051279108447" lon="-90.21044202760172936450544512"/>
-  <node visible="true" id="-2003" lat="29.89283875724101235960006306" lon="-90.21043239871963237419549841"/>
+  <node visible="true" id="-2000" lat="29.89594789216161885292422085" lon="-90.21303328051304504242580151"/>
+  <node visible="true" id="-2001" lat="29.89593001896837520803273947" lon="-90.21297535148184465469967108"/>
+  <node visible="true" id="-2002" lat="29.89587478454951607886869169" lon="-90.21299802638124276654707501"/>
+  <node visible="true" id="-2003" lat="29.89589265775270021663345688" lon="-90.21305595541244315427320544"/>
   <way visible="true" id="-309">
     <nd ref="-2000"/>
     <nd ref="-2001"/>
@@ -6469,10 +6471,10 @@
     <nd ref="-2000"/>
     <tag k="building" v="yes"/>
   </way>
-  <node visible="true" id="-2004" lat="29.89641485256530017977638636" lon="-90.20889708558550523775920738"/>
-  <node visible="true" id="-2005" lat="29.89642558144220174654037692" lon="-90.20896267740684493219305295"/>
-  <node visible="true" id="-2006" lat="29.89646761189333901143072580" lon="-90.20895352989907678420422599"/>
-  <node visible="true" id="-2007" lat="29.89645688302093162747041788" lon="-90.20888793807773708977038041"/>
+  <node visible="true" id="-2004" lat="29.89621759705067916002008133" lon="-90.21241603996563185319246259"/>
+  <node visible="true" id="-2005" lat="29.89618477698626364258416288" lon="-90.21231696390380250250018435"/>
+  <node visible="true" id="-2006" lat="29.89609620542994150582671864" lon="-90.21235600273836041651520645"/>
+  <node visible="true" id="-2007" lat="29.89612902552357098784341360" lon="-90.21245507880021818891691510"/>
   <way visible="true" id="-310">
     <nd ref="-2004"/>
     <nd ref="-2005"/>
@@ -6481,10 +6483,10 @@
     <nd ref="-2004"/>
     <tag k="building" v="yes"/>
   </way>
-  <node visible="true" id="-2008" lat="29.89428975153076706305910193" lon="-90.20989008743516990307398373"/>
-  <node visible="true" id="-2009" lat="29.89427791370379594582118443" lon="-90.20984683257788105947838631"/>
-  <node visible="true" id="-2010" lat="29.89422810387624096506442584" lon="-90.20986496966067136327183107"/>
-  <node visible="true" id="-2011" lat="29.89423994170908471801340056" lon="-90.20990822451794599601271329"/>
+  <node visible="true" id="-2008" lat="29.89367503814105120341082511" lon="-90.21161787761505479465995450"/>
+  <node visible="true" id="-2009" lat="29.89364551484775134326810075" lon="-90.21162840822802309048711322"/>
+  <node visible="true" id="-2010" lat="29.89365686066382465924107237" lon="-90.21167072931783081912726630"/>
+  <node visible="true" id="-2011" lat="29.89368638395376720495733025" lon="-90.21166019870486252330010757"/>
   <way visible="true" id="-311">
     <nd ref="-2008"/>
     <nd ref="-2009"/>
@@ -6493,10 +6495,10 @@
     <nd ref="-2008"/>
     <tag k="building" v="yes"/>
   </way>
-  <node visible="true" id="-2012" lat="29.89524439251113818727390026" lon="-90.21099400494485109902598197"/>
-  <node visible="true" id="-2013" lat="29.89518918284739257273940893" lon="-90.21101682490099449296394596"/>
-  <node visible="true" id="-2014" lat="29.89521698586462505886629515" lon="-90.21110632339441792737488868"/>
-  <node visible="true" id="-2015" lat="29.89527219551296255417582870" lon="-90.21108350343826032258220948"/>
+  <node visible="true" id="-2012" lat="29.89428975153076706305910193" lon="-90.20989008743516990307398373"/>
+  <node visible="true" id="-2013" lat="29.89427791370379594582118443" lon="-90.20984683257788105947838631"/>
+  <node visible="true" id="-2014" lat="29.89422810387624096506442584" lon="-90.20986496966067136327183107"/>
+  <node visible="true" id="-2015" lat="29.89423994170908471801340056" lon="-90.20990822451794599601271329"/>
   <way visible="true" id="-312">
     <nd ref="-2012"/>
     <nd ref="-2013"/>
@@ -6505,10 +6507,10 @@
     <nd ref="-2012"/>
     <tag k="building" v="yes"/>
   </way>
-  <node visible="true" id="-2016" lat="29.89642625068078629624324094" lon="-90.21081569681808787208865397"/>
-  <node visible="true" id="-2017" lat="29.89641364380749521956204262" lon="-90.21082037599593661525432253"/>
-  <node visible="true" id="-2018" lat="29.89641756863985477821188397" lon="-90.21083444595954858868935844"/>
-  <node visible="true" id="-2019" lat="29.89643017551268400211483822" lon="-90.21082976678168563466897467"/>
+  <node visible="true" id="-2016" lat="29.89524439251113818727390026" lon="-90.21099400494485109902598197"/>
+  <node visible="true" id="-2017" lat="29.89518918284739257273940893" lon="-90.21101682490099449296394596"/>
+  <node visible="true" id="-2018" lat="29.89521698586462505886629515" lon="-90.21110632339441792737488868"/>
+  <node visible="true" id="-2019" lat="29.89527219551296255417582870" lon="-90.21108350343826032258220948"/>
   <way visible="true" id="-313">
     <nd ref="-2016"/>
     <nd ref="-2017"/>
@@ -6517,10 +6519,10 @@
     <nd ref="-2016"/>
     <tag k="building" v="yes"/>
   </way>
-  <node visible="true" id="-2020" lat="29.89594789216161885292422085" lon="-90.21303328051304504242580151"/>
-  <node visible="true" id="-2021" lat="29.89593001896837520803273947" lon="-90.21297535148184465469967108"/>
-  <node visible="true" id="-2022" lat="29.89587478454951607886869169" lon="-90.21299802638124276654707501"/>
-  <node visible="true" id="-2023" lat="29.89589265775270021663345688" lon="-90.21305595541244315427320544"/>
+  <node visible="true" id="-2020" lat="29.89642625068078629624324094" lon="-90.21081569681808787208865397"/>
+  <node visible="true" id="-2021" lat="29.89641364380749521956204262" lon="-90.21082037599593661525432253"/>
+  <node visible="true" id="-2022" lat="29.89641756863985477821188397" lon="-90.21083444595954858868935844"/>
+  <node visible="true" id="-2023" lat="29.89643017551268400211483822" lon="-90.21082976678168563466897467"/>
   <way visible="true" id="-314">
     <nd ref="-2020"/>
     <nd ref="-2021"/>
@@ -6529,10 +6531,10 @@
     <nd ref="-2020"/>
     <tag k="building" v="yes"/>
   </way>
-  <node visible="true" id="-2024" lat="29.89621759705067916002008133" lon="-90.21241603996563185319246259"/>
-  <node visible="true" id="-2025" lat="29.89618477698626364258416288" lon="-90.21231696390380250250018435"/>
-  <node visible="true" id="-2026" lat="29.89609620542994150582671864" lon="-90.21235600273836041651520645"/>
-  <node visible="true" id="-2027" lat="29.89612902552357098784341360" lon="-90.21245507880021818891691510"/>
+  <node visible="true" id="-2024" lat="29.89283140041005992770806188" lon="-90.21040926561612138812051853"/>
+  <node visible="true" id="-2025" lat="29.89280864334482856747854385" lon="-90.21041889449821837843046524"/>
+  <node visible="true" id="-2026" lat="29.89281600017750051279108447" lon="-90.21044202760172936450544512"/>
+  <node visible="true" id="-2027" lat="29.89283875724101235960006306" lon="-90.21043239871963237419549841"/>
   <way visible="true" id="-315">
     <nd ref="-2024"/>
     <nd ref="-2025"/>
@@ -6541,10 +6543,10 @@
     <nd ref="-2024"/>
     <tag k="building" v="yes"/>
   </way>
-  <node visible="true" id="-2028" lat="29.89367503814105120341082511" lon="-90.21161787761505479465995450"/>
-  <node visible="true" id="-2029" lat="29.89364551484775134326810075" lon="-90.21162840822802309048711322"/>
-  <node visible="true" id="-2030" lat="29.89365686066382465924107237" lon="-90.21167072931783081912726630"/>
-  <node visible="true" id="-2031" lat="29.89368638395376720495733025" lon="-90.21166019870486252330010757"/>
+  <node visible="true" id="-2028" lat="29.89641485256530017977638636" lon="-90.20889708558550523775920738"/>
+  <node visible="true" id="-2029" lat="29.89642558144220174654037692" lon="-90.20896267740684493219305295"/>
+  <node visible="true" id="-2030" lat="29.89646761189333901143072580" lon="-90.20895352989907678420422599"/>
+  <node visible="true" id="-2031" lat="29.89645688302093162747041788" lon="-90.20888793807773708977038041"/>
   <way visible="true" id="-316">
     <nd ref="-2028"/>
     <nd ref="-2029"/>
@@ -6855,10 +6857,10 @@
     <tag k="addr:city" v="Avondale"/>
     <tag k="addr:postcode" v="70094"/>
   </way>
-  <node visible="true" id="-2137" lat="29.89307895435033657349777059" lon="-90.21161349251684669070527889"/>
-  <node visible="true" id="-2138" lat="29.89304851117862327214425022" lon="-90.21162343582898301974637434"/>
-  <node visible="true" id="-2139" lat="29.89305593712860087407534593" lon="-90.21165368514698457147460431"/>
-  <node visible="true" id="-2140" lat="29.89308638029801912239236117" lon="-90.21164374183483403157879366"/>
+  <node visible="true" id="-2137" lat="29.89524113683683026465587318" lon="-90.21060156669932439399417490"/>
+  <node visible="true" id="-2138" lat="29.89526718332046328896467458" lon="-90.21059144525190731656039134"/>
+  <node visible="true" id="-2139" lat="29.89526290826389853805267194" lon="-90.21055389280665792739455355"/>
+  <node visible="true" id="-2140" lat="29.89523686269408031535022019" lon="-90.21056401528862522809504298"/>
   <way visible="true" id="-339">
     <nd ref="-2137"/>
     <nd ref="-2138"/>
@@ -6867,10 +6869,10 @@
     <nd ref="-2137"/>
     <tag k="building" v="yes"/>
   </way>
-  <node visible="true" id="-2141" lat="29.89303331917827577512980497" lon="-90.21168578923484915321751032"/>
-  <node visible="true" id="-2142" lat="29.89300068903553508903314651" lon="-90.21169553624166326244449010"/>
-  <node visible="true" id="-2143" lat="29.89300645442346748836826009" lon="-90.21172121538700139353750274"/>
-  <node visible="true" id="-2144" lat="29.89303908456429326179204509" lon="-90.21171146838018728431052295"/>
+  <node visible="true" id="-2141" lat="29.89307895435033657349777059" lon="-90.21161349251684669070527889"/>
+  <node visible="true" id="-2142" lat="29.89304851117862327214425022" lon="-90.21162343582898301974637434"/>
+  <node visible="true" id="-2143" lat="29.89305593712860087407534593" lon="-90.21165368514698457147460431"/>
+  <node visible="true" id="-2144" lat="29.89308638029801912239236117" lon="-90.21164374183483403157879366"/>
   <way visible="true" id="-340">
     <nd ref="-2141"/>
     <nd ref="-2142"/>
@@ -6879,10 +6881,10 @@
     <nd ref="-2141"/>
     <tag k="building" v="yes"/>
   </way>
-  <node visible="true" id="-2145" lat="29.89524113683683026465587318" lon="-90.21060156669932439399417490"/>
-  <node visible="true" id="-2146" lat="29.89526718332046328896467458" lon="-90.21059144525190731656039134"/>
-  <node visible="true" id="-2147" lat="29.89526290826389853805267194" lon="-90.21055389280665792739455355"/>
-  <node visible="true" id="-2148" lat="29.89523686269408031535022019" lon="-90.21056401528862522809504298"/>
+  <node visible="true" id="-2145" lat="29.89303331917827577512980497" lon="-90.21168578923484915321751032"/>
+  <node visible="true" id="-2146" lat="29.89300068903553508903314651" lon="-90.21169553624166326244449010"/>
+  <node visible="true" id="-2147" lat="29.89300645442346748836826009" lon="-90.21172121538700139353750274"/>
+  <node visible="true" id="-2148" lat="29.89303908456429326179204509" lon="-90.21171146838018728431052295"/>
   <way visible="true" id="-341">
     <nd ref="-2145"/>
     <nd ref="-2146"/>
@@ -6959,10 +6961,10 @@
     <tag k="addr:city" v="Avondale"/>
     <tag k="addr:postcode" v="70094"/>
   </way>
-  <node visible="true" id="-2171" lat="29.89542928945030553222750314" lon="-90.21184211794866314448881894"/>
-  <node visible="true" id="-2172" lat="29.89537947468939904638318694" lon="-90.21186282173486858937394572"/>
-  <node visible="true" id="-2173" lat="29.89539813638301524179041735" lon="-90.21192256438138201701804064"/>
-  <node visible="true" id="-2174" lat="29.89544795113459585422788223" lon="-90.21190186059520499384234427"/>
+  <node visible="true" id="-2171" lat="29.89429872989106584668661526" lon="-90.21204293843665311669610674"/>
+  <node visible="true" id="-2172" lat="29.89433976394347780569660245" lon="-90.21218028539712463498290163"/>
+  <node visible="true" id="-2173" lat="29.89450105423753356603810971" lon="-90.21211617185559816789464094"/>
+  <node visible="true" id="-2174" lat="29.89446002025150406211650989" lon="-90.21197882489511243875313085"/>
   <way visible="true" id="-345">
     <nd ref="-2171"/>
     <nd ref="-2172"/>
@@ -6970,11 +6972,15 @@
     <nd ref="-2174"/>
     <nd ref="-2171"/>
     <tag k="building" v="yes"/>
+    <tag k="addr:housenumber" v="164"/>
+    <tag k="addr:street" v="June Drive"/>
+    <tag k="addr:city" v="Avondale"/>
+    <tag k="addr:postcode" v="70094"/>
   </way>
-  <node visible="true" id="-2175" lat="29.89534138753420933198867715" lon="-90.21168538147672677496302640"/>
-  <node visible="true" id="-2176" lat="29.89533257863665838272027031" lon="-90.21164667991463659291184740"/>
-  <node visible="true" id="-2177" lat="29.89527590174948556978051784" lon="-90.21166384411277761046221713"/>
-  <node visible="true" id="-2178" lat="29.89528471065205295076339098" lon="-90.21170254567483937080396572"/>
+  <node visible="true" id="-2175" lat="29.89542928945030553222750314" lon="-90.21184211794866314448881894"/>
+  <node visible="true" id="-2176" lat="29.89537947468939904638318694" lon="-90.21186282173486858937394572"/>
+  <node visible="true" id="-2177" lat="29.89539813638301524179041735" lon="-90.21192256438138201701804064"/>
+  <node visible="true" id="-2178" lat="29.89544795113459585422788223" lon="-90.21190186059520499384234427"/>
   <way visible="true" id="-346">
     <nd ref="-2175"/>
     <nd ref="-2176"/>
@@ -6983,10 +6989,10 @@
     <nd ref="-2175"/>
     <tag k="building" v="yes"/>
   </way>
-  <node visible="true" id="-2179" lat="29.89378746760333527276998211" lon="-90.21234300989192433917196468"/>
-  <node visible="true" id="-2180" lat="29.89375620474536177084701194" lon="-90.21235535049002862706402084"/>
-  <node visible="true" id="-2181" lat="29.89377030670837598336220253" lon="-90.21240288214853819681593450"/>
-  <node visible="true" id="-2182" lat="29.89380156956187661876356287" lon="-90.21239054155044811977859354"/>
+  <node visible="true" id="-2179" lat="29.89534138753420933198867715" lon="-90.21168538147672677496302640"/>
+  <node visible="true" id="-2180" lat="29.89533257863665838272027031" lon="-90.21164667991463659291184740"/>
+  <node visible="true" id="-2181" lat="29.89527590174948556978051784" lon="-90.21166384411277761046221713"/>
+  <node visible="true" id="-2182" lat="29.89528471065205295076339098" lon="-90.21170254567483937080396572"/>
   <way visible="true" id="-347">
     <nd ref="-2179"/>
     <nd ref="-2180"/>
@@ -6995,10 +7001,10 @@
     <nd ref="-2179"/>
     <tag k="building" v="yes"/>
   </way>
-  <node visible="true" id="-2183" lat="29.89429872989106584668661526" lon="-90.21204293843665311669610674"/>
-  <node visible="true" id="-2184" lat="29.89433976394347780569660245" lon="-90.21218028539712463498290163"/>
-  <node visible="true" id="-2185" lat="29.89450105423753356603810971" lon="-90.21211617185559816789464094"/>
-  <node visible="true" id="-2186" lat="29.89446002025150406211650989" lon="-90.21197882489511243875313085"/>
+  <node visible="true" id="-2183" lat="29.89378746760333527276998211" lon="-90.21234300989192433917196468"/>
+  <node visible="true" id="-2184" lat="29.89375620474536177084701194" lon="-90.21235535049002862706402084"/>
+  <node visible="true" id="-2185" lat="29.89377030670837598336220253" lon="-90.21240288214853819681593450"/>
+  <node visible="true" id="-2186" lat="29.89380156956187661876356287" lon="-90.21239054155044811977859354"/>
   <way visible="true" id="-348">
     <nd ref="-2183"/>
     <nd ref="-2184"/>
@@ -7006,10 +7012,6 @@
     <nd ref="-2186"/>
     <nd ref="-2183"/>
     <tag k="building" v="yes"/>
-    <tag k="addr:housenumber" v="164"/>
-    <tag k="addr:street" v="June Drive"/>
-    <tag k="addr:city" v="Avondale"/>
-    <tag k="addr:postcode" v="70094"/>
   </way>
   <node visible="true" id="-2187" lat="29.89537052968515595807730278" lon="-90.21434834419241610703465994"/>
   <node visible="true" id="-2188" lat="29.89537095566891977682644210" lon="-90.21438578982483136314840522"/>

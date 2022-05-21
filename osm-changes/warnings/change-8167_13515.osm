@@ -1,8 +1,10 @@
 <?xml version='1.0' encoding='utf8'?>
-<osm version="0.6" generator="AnonymousAlligator's import script">
-  <changeset_tag k="comment" v="Import buildings and addresses in Jefferson Parish, see https://wiki.openstreetmap.org/wiki/Import/Catalogue/Jefferson_Parish_Addresses_and_Buildings"/>
-  <changeset_tag k="source" v="Jefferson Parish Planning Department"/>
-  <changeset_tag k="source_file" v="8167_13515"/>
+<osm version="0.6" generator="AnonymousAlligator's import script" upload-changeset="-1">
+  <changeset id="-1">
+    <tag k="comment" v="Import buildings and addresses in Jefferson Parish, see https://wiki.openstreetmap.org/wiki/Import/Catalogue/Jefferson_Parish_Addresses_and_Buildings"/>
+    <tag k="source" v="Jefferson Parish Planning Department"/>
+    <tag k="source_file" v="change-8167_13515.osm"/>
+  </changeset>
   <node visible="true" id="-1" lat="30.03214071979384058863615792" lon="-90.27368042182176566257112427"/>
   <node visible="true" id="-2" lat="30.03222380650035105986717099" lon="-90.27367455508711202583072009"/>
   <node visible="true" id="-3" lat="30.03221878893342378091801947" lon="-90.27357974619835090379638132"/>
@@ -111,12 +113,12 @@
     <tag k="addr:city" v="Kenner"/>
     <tag k="addr:postcode" v="70065"/>
   </way>
-  <node visible="true" id="-35" lat="30.03801259789247168896508811" lon="-90.26899413158162133186124265"/>
-  <node visible="true" id="-36" lat="30.03800209148501210165704833" lon="-90.26879017313402187028259505"/>
-  <node visible="true" id="-37" lat="30.03787604592577054063440301" lon="-90.26879883699452022938203299"/>
-  <node visible="true" id="-38" lat="30.03788210929602442433861142" lon="-90.26891654364067107962910086"/>
-  <node visible="true" id="-39" lat="30.03782637990071080480447563" lon="-90.26892037424998704864265164"/>
-  <node visible="true" id="-40" lat="30.03783082295402806494166725" lon="-90.26900662605143565997423138"/>
+  <node visible="true" id="-35" lat="30.03754885063990442972681194" lon="-90.26992003405689501960296184"/>
+  <node visible="true" id="-36" lat="30.03759686293838626625074539" lon="-90.26991746949268247135478305"/>
+  <node visible="true" id="-37" lat="30.03759334910160561094016884" lon="-90.26982969093786834946513409"/>
+  <node visible="true" id="-38" lat="30.03741596314135975376302667" lon="-90.26983916595553125716833165"/>
+  <node visible="true" id="-39" lat="30.03742326160097420029160276" lon="-90.27002148720715979379747296"/>
+  <node visible="true" id="-40" lat="30.03755263525148322401037149" lon="-90.27001457675373785605188459"/>
   <way visible="true" id="-6">
     <nd ref="-35"/>
     <nd ref="-36"/>
@@ -126,25 +128,21 @@
     <nd ref="-40"/>
     <nd ref="-35"/>
     <tag k="building" v="yes"/>
-    <tag k="addr:housenumber" v="244"/>
+    <tag k="addr:housenumber" v="225"/>
     <tag k="addr:street" v="Legrande Bayou Drive"/>
     <tag k="addr:city" v="Kenner"/>
     <tag k="addr:postcode" v="70065"/>
   </way>
-  <node visible="true" id="-41" lat="30.03801230401962740756971471" lon="-90.26868466222337872295611305"/>
-  <node visible="true" id="-42" lat="30.03799217230283247204170038" lon="-90.26864026229995374706049915"/>
-  <node visible="true" id="-43" lat="30.03800280832716040890773002" lon="-90.26863382728591034265264170"/>
-  <node visible="true" id="-44" lat="30.03796440377057663795312692" lon="-90.26854912715492673669359647"/>
-  <node visible="true" id="-45" lat="30.03793544337451848491582496" lon="-90.26856664878327762835397152"/>
-  <node visible="true" id="-46" lat="30.03791671766852999780894606" lon="-90.26852534980805842224071966"/>
-  <node visible="true" id="-47" lat="30.03787618539883297330561618" lon="-90.26854987264196950036421185"/>
-  <node visible="true" id="-48" lat="30.03786806619914173666074930" lon="-90.26853196600367823521082755"/>
-  <node visible="true" id="-49" lat="30.03781952072085559279912559" lon="-90.26856133697347672750765923"/>
-  <node visible="true" id="-50" lat="30.03783513111210012880292197" lon="-90.26859576518226901953312336"/>
-  <node visible="true" id="-51" lat="30.03780658668400960209510231" lon="-90.26861303511904566221346613"/>
-  <node visible="true" id="-52" lat="30.03784351631935578552656807" lon="-90.26869448222380754032201366"/>
-  <node visible="true" id="-53" lat="30.03780992502191793391830288" lon="-90.26871480561638350081921089"/>
-  <node visible="true" id="-54" lat="30.03784276629412985926137480" lon="-90.26878723597071996209706413"/>
+  <node visible="true" id="-41" lat="30.03755192009376528972097731" lon="-90.26980439964054880874755327"/>
+  <node visible="true" id="-42" lat="30.03759549164625397565941967" lon="-90.26980224692358945048908936"/>
+  <node visible="true" id="-43" lat="30.03759263269145307617691287" lon="-90.26972503376545375886053080"/>
+  <node visible="true" id="-44" lat="30.03752668621745058885608159" lon="-90.26972829194799885499378433"/>
+  <node visible="true" id="-45" lat="30.03752326983936171700406703" lon="-90.26963602425192334521852899"/>
+  <node visible="true" id="-46" lat="30.03740640670820383206773840" lon="-90.26964179804129173589899438"/>
+  <node visible="true" id="-47" lat="30.03741056736520675940482761" lon="-90.26975416669283447390625952"/>
+  <node visible="true" id="-48" lat="30.03739854265098330188266118" lon="-90.26975476079060456413571956"/>
+  <node visible="true" id="-49" lat="30.03740128293278743853988999" lon="-90.26982876875426597962359665"/>
+  <node visible="true" id="-50" lat="30.03755254568939747628064652" lon="-90.26982129540152754998416640"/>
   <way visible="true" id="-7">
     <nd ref="-41"/>
     <nd ref="-42"/>
@@ -156,70 +154,88 @@
     <nd ref="-48"/>
     <nd ref="-49"/>
     <nd ref="-50"/>
+    <nd ref="-41"/>
+    <tag k="building" v="yes"/>
+    <tag k="addr:housenumber" v="229"/>
+    <tag k="addr:street" v="Legrande Bayou Drive"/>
+    <tag k="addr:city" v="Kenner"/>
+    <tag k="addr:postcode" v="70065"/>
+  </way>
+  <node visible="true" id="-51" lat="30.03600553925374683217341953" lon="-90.27007934503811270587902982"/>
+  <node visible="true" id="-52" lat="30.03603197300963145721652836" lon="-90.27007766731861693187966011"/>
+  <node visible="true" id="-53" lat="30.03602866900284595885750605" lon="-90.27000820733083230607007863"/>
+  <node visible="true" id="-54" lat="30.03588111650529768326123303" lon="-90.27001757230887335481384071"/>
+  <node visible="true" id="-55" lat="30.03588734894437806133282720" lon="-90.27014859641246857790974900"/>
+  <node visible="true" id="-56" lat="30.03600846767797349912143545" lon="-90.27014090915392330316535663"/>
+  <way visible="true" id="-8">
     <nd ref="-51"/>
     <nd ref="-52"/>
     <nd ref="-53"/>
     <nd ref="-54"/>
-    <nd ref="-41"/>
+    <nd ref="-55"/>
+    <nd ref="-56"/>
+    <nd ref="-51"/>
     <tag k="building" v="yes"/>
-    <tag k="addr:housenumber" v="248"/>
-    <tag k="addr:street" v="Legrande Bayou Drive"/>
+    <tag k="addr:housenumber" v="225"/>
+    <tag k="addr:street" v="Cypress Bayou Drive"/>
     <tag k="addr:city" v="Kenner"/>
     <tag k="addr:postcode" v="70065"/>
   </way>
-  <node visible="true" id="-55" lat="30.03797739914717013220979425" lon="-90.26918308255667966477631126"/>
-  <node visible="true" id="-56" lat="30.03797385995692437177240208" lon="-90.26912047501460278908780310"/>
-  <node visible="true" id="-57" lat="30.03795525863580451186862774" lon="-90.26912187812673948883457342"/>
-  <node visible="true" id="-58" lat="30.03794956740130572825364652" lon="-90.26902120139165219825372333"/>
-  <node visible="true" id="-59" lat="30.03779873535199129719330813" lon="-90.26903257876024611050524982"/>
-  <node visible="true" id="-60" lat="30.03780796579172829297021963" lon="-90.26919586303739606591989286"/>
-  <way visible="true" id="-8">
-    <nd ref="-55"/>
-    <nd ref="-56"/>
+  <node visible="true" id="-57" lat="30.03600737253351482536345429" lon="-90.26981190766963436544756405"/>
+  <node visible="true" id="-58" lat="30.03581170823325408036907902" lon="-90.26982377319946238003467442"/>
+  <node visible="true" id="-59" lat="30.03581486920441534493875224" lon="-90.26989332331369553230615566"/>
+  <node visible="true" id="-60" lat="30.03585873067695644067498506" lon="-90.26989066345582557460147655"/>
+  <node visible="true" id="-61" lat="30.03586210516520793589734240" lon="-90.26996491157304092212143587"/>
+  <node visible="true" id="-62" lat="30.03601390798202785958892491" lon="-90.26995570590106865438428940"/>
+  <way visible="true" id="-9">
     <nd ref="-57"/>
     <nd ref="-58"/>
     <nd ref="-59"/>
     <nd ref="-60"/>
-    <nd ref="-55"/>
+    <nd ref="-61"/>
+    <nd ref="-62"/>
+    <nd ref="-57"/>
     <tag k="building" v="yes"/>
-    <tag k="addr:housenumber" v="240"/>
-    <tag k="addr:street" v="Legrande Bayou Drive"/>
+    <tag k="addr:housenumber" v="229"/>
+    <tag k="addr:street" v="Cypress Bayou Drive"/>
     <tag k="addr:city" v="Kenner"/>
     <tag k="addr:postcode" v="70065"/>
   </way>
-  <node visible="true" id="-61" lat="30.03754340103926523397603887" lon="-90.26923292380909913390496513"/>
-  <node visible="true" id="-62" lat="30.03747587636176064052051515" lon="-90.26923780217011028526030714"/>
-  <node visible="true" id="-63" lat="30.03746161662264668734678708" lon="-90.26925647198798685622023186"/>
-  <node visible="true" id="-64" lat="30.03742330690137407600559527" lon="-90.26925923969498910537367919"/>
-  <node visible="true" id="-65" lat="30.03743049949837029544141842" lon="-90.26939208348218812716368120"/>
-  <node visible="true" id="-66" lat="30.03755154497174828520655865" lon="-90.26938333848072204546042485"/>
-  <way visible="true" id="-9">
-    <nd ref="-61"/>
-    <nd ref="-62"/>
+  <node visible="true" id="-63" lat="30.03801259789247168896508811" lon="-90.26899413158162133186124265"/>
+  <node visible="true" id="-64" lat="30.03800209148501210165704833" lon="-90.26879017313402187028259505"/>
+  <node visible="true" id="-65" lat="30.03787604592577054063440301" lon="-90.26879883699452022938203299"/>
+  <node visible="true" id="-66" lat="30.03788210929602442433861142" lon="-90.26891654364067107962910086"/>
+  <node visible="true" id="-67" lat="30.03782637990071080480447563" lon="-90.26892037424998704864265164"/>
+  <node visible="true" id="-68" lat="30.03783082295402806494166725" lon="-90.26900662605143565997423138"/>
+  <way visible="true" id="-10">
     <nd ref="-63"/>
     <nd ref="-64"/>
     <nd ref="-65"/>
     <nd ref="-66"/>
-    <nd ref="-61"/>
+    <nd ref="-67"/>
+    <nd ref="-68"/>
+    <nd ref="-63"/>
     <tag k="building" v="yes"/>
-    <tag k="addr:housenumber" v="237"/>
+    <tag k="addr:housenumber" v="244"/>
     <tag k="addr:street" v="Legrande Bayou Drive"/>
     <tag k="addr:city" v="Kenner"/>
     <tag k="addr:postcode" v="70065"/>
   </way>
-  <node visible="true" id="-67" lat="30.03753114480237584871247236" lon="-90.26900808934473730005265679"/>
-  <node visible="true" id="-68" lat="30.03741208799304374110761273" lon="-90.26901770754344056513218675"/>
-  <node visible="true" id="-69" lat="30.03740179861756587342824787" lon="-90.26903138067248733023006935"/>
-  <node visible="true" id="-70" lat="30.03737814714618536982015939" lon="-90.26903329139362597288709367"/>
-  <node visible="true" id="-71" lat="30.03738554461923371263765148" lon="-90.26915547429845787519298028"/>
-  <node visible="true" id="-72" lat="30.03740478770053101698067621" lon="-90.26915391971593294329068158"/>
-  <node visible="true" id="-73" lat="30.03740768394775884075897920" lon="-90.26920175659157052905356977"/>
-  <node visible="true" id="-74" lat="30.03750674959353261783689959" lon="-90.26919375341282147928723134"/>
-  <node visible="true" id="-75" lat="30.03750499092159742531293887" lon="-90.26916470566695238630927633"/>
-  <node visible="true" id="-76" lat="30.03754045355285740015460760" lon="-90.26916184075891180782491574"/>
-  <way visible="true" id="-10">
-    <nd ref="-67"/>
-    <nd ref="-68"/>
+  <node visible="true" id="-69" lat="30.03801230401962740756971471" lon="-90.26868466222337872295611305"/>
+  <node visible="true" id="-70" lat="30.03799217230283247204170038" lon="-90.26864026229995374706049915"/>
+  <node visible="true" id="-71" lat="30.03800280832716040890773002" lon="-90.26863382728591034265264170"/>
+  <node visible="true" id="-72" lat="30.03796440377057663795312692" lon="-90.26854912715492673669359647"/>
+  <node visible="true" id="-73" lat="30.03793544337451848491582496" lon="-90.26856664878327762835397152"/>
+  <node visible="true" id="-74" lat="30.03791671766852999780894606" lon="-90.26852534980805842224071966"/>
+  <node visible="true" id="-75" lat="30.03787618539883297330561618" lon="-90.26854987264196950036421185"/>
+  <node visible="true" id="-76" lat="30.03786806619914173666074930" lon="-90.26853196600367823521082755"/>
+  <node visible="true" id="-77" lat="30.03781952072085559279912559" lon="-90.26856133697347672750765923"/>
+  <node visible="true" id="-78" lat="30.03783513111210012880292197" lon="-90.26859576518226901953312336"/>
+  <node visible="true" id="-79" lat="30.03780658668400960209510231" lon="-90.26861303511904566221346613"/>
+  <node visible="true" id="-80" lat="30.03784351631935578552656807" lon="-90.26869448222380754032201366"/>
+  <node visible="true" id="-81" lat="30.03780992502191793391830288" lon="-90.26871480561638350081921089"/>
+  <node visible="true" id="-82" lat="30.03784276629412985926137480" lon="-90.26878723597071996209706413"/>
+  <way visible="true" id="-11">
     <nd ref="-69"/>
     <nd ref="-70"/>
     <nd ref="-71"/>
@@ -228,39 +244,25 @@
     <nd ref="-74"/>
     <nd ref="-75"/>
     <nd ref="-76"/>
-    <nd ref="-67"/>
-    <tag k="building" v="yes"/>
-    <tag k="addr:housenumber" v="241"/>
-    <tag k="addr:street" v="Legrande Bayou Drive"/>
-    <tag k="addr:city" v="Kenner"/>
-    <tag k="addr:postcode" v="70065"/>
-  </way>
-  <node visible="true" id="-77" lat="30.03758117932170890185261669" lon="-90.26952386232974845370335970"/>
-  <node visible="true" id="-78" lat="30.03748227747908927653952560" lon="-90.26952810594949028200062457"/>
-  <node visible="true" id="-79" lat="30.03748021428104664209968178" lon="-90.26946394421047159539739368"/>
-  <node visible="true" id="-80" lat="30.03736682913126188054775412" lon="-90.26946880926580263349023880"/>
-  <node visible="true" id="-81" lat="30.03737140748746270446645212" lon="-90.26961118771862402354599908"/>
-  <node visible="true" id="-82" lat="30.03758369447186282741313335" lon="-90.26960207904356536801060429"/>
-  <way visible="true" id="-11">
     <nd ref="-77"/>
     <nd ref="-78"/>
     <nd ref="-79"/>
     <nd ref="-80"/>
     <nd ref="-81"/>
     <nd ref="-82"/>
-    <nd ref="-77"/>
+    <nd ref="-69"/>
     <tag k="building" v="yes"/>
-    <tag k="addr:housenumber" v="233"/>
+    <tag k="addr:housenumber" v="248"/>
     <tag k="addr:street" v="Legrande Bayou Drive"/>
     <tag k="addr:city" v="Kenner"/>
     <tag k="addr:postcode" v="70065"/>
   </way>
-  <node visible="true" id="-83" lat="30.03754885063990442972681194" lon="-90.26992003405689501960296184"/>
-  <node visible="true" id="-84" lat="30.03759686293838626625074539" lon="-90.26991746949268247135478305"/>
-  <node visible="true" id="-85" lat="30.03759334910160561094016884" lon="-90.26982969093786834946513409"/>
-  <node visible="true" id="-86" lat="30.03741596314135975376302667" lon="-90.26983916595553125716833165"/>
-  <node visible="true" id="-87" lat="30.03742326160097420029160276" lon="-90.27002148720715979379747296"/>
-  <node visible="true" id="-88" lat="30.03755263525148322401037149" lon="-90.27001457675373785605188459"/>
+  <node visible="true" id="-83" lat="30.03797739914717013220979425" lon="-90.26918308255667966477631126"/>
+  <node visible="true" id="-84" lat="30.03797385995692437177240208" lon="-90.26912047501460278908780310"/>
+  <node visible="true" id="-85" lat="30.03795525863580451186862774" lon="-90.26912187812673948883457342"/>
+  <node visible="true" id="-86" lat="30.03794956740130572825364652" lon="-90.26902120139165219825372333"/>
+  <node visible="true" id="-87" lat="30.03779873535199129719330813" lon="-90.26903257876024611050524982"/>
+  <node visible="true" id="-88" lat="30.03780796579172829297021963" lon="-90.26919586303739606591989286"/>
   <way visible="true" id="-12">
     <nd ref="-83"/>
     <nd ref="-84"/>
@@ -270,21 +272,17 @@
     <nd ref="-88"/>
     <nd ref="-83"/>
     <tag k="building" v="yes"/>
-    <tag k="addr:housenumber" v="225"/>
+    <tag k="addr:housenumber" v="240"/>
     <tag k="addr:street" v="Legrande Bayou Drive"/>
     <tag k="addr:city" v="Kenner"/>
     <tag k="addr:postcode" v="70065"/>
   </way>
-  <node visible="true" id="-89" lat="30.03755192009376528972097731" lon="-90.26980439964054880874755327"/>
-  <node visible="true" id="-90" lat="30.03759549164625397565941967" lon="-90.26980224692358945048908936"/>
-  <node visible="true" id="-91" lat="30.03759263269145307617691287" lon="-90.26972503376545375886053080"/>
-  <node visible="true" id="-92" lat="30.03752668621745058885608159" lon="-90.26972829194799885499378433"/>
-  <node visible="true" id="-93" lat="30.03752326983936171700406703" lon="-90.26963602425192334521852899"/>
-  <node visible="true" id="-94" lat="30.03740640670820383206773840" lon="-90.26964179804129173589899438"/>
-  <node visible="true" id="-95" lat="30.03741056736520675940482761" lon="-90.26975416669283447390625952"/>
-  <node visible="true" id="-96" lat="30.03739854265098330188266118" lon="-90.26975476079060456413571956"/>
-  <node visible="true" id="-97" lat="30.03740128293278743853988999" lon="-90.26982876875426597962359665"/>
-  <node visible="true" id="-98" lat="30.03755254568939747628064652" lon="-90.26982129540152754998416640"/>
+  <node visible="true" id="-89" lat="30.03754340103926523397603887" lon="-90.26923292380909913390496513"/>
+  <node visible="true" id="-90" lat="30.03747587636176064052051515" lon="-90.26923780217011028526030714"/>
+  <node visible="true" id="-91" lat="30.03746161662264668734678708" lon="-90.26925647198798685622023186"/>
+  <node visible="true" id="-92" lat="30.03742330690137407600559527" lon="-90.26925923969498910537367919"/>
+  <node visible="true" id="-93" lat="30.03743049949837029544141842" lon="-90.26939208348218812716368120"/>
+  <node visible="true" id="-94" lat="30.03755154497174828520655865" lon="-90.26938333848072204546042485"/>
   <way visible="true" id="-13">
     <nd ref="-89"/>
     <nd ref="-90"/>
@@ -292,43 +290,47 @@
     <nd ref="-92"/>
     <nd ref="-93"/>
     <nd ref="-94"/>
-    <nd ref="-95"/>
-    <nd ref="-96"/>
-    <nd ref="-97"/>
-    <nd ref="-98"/>
     <nd ref="-89"/>
     <tag k="building" v="yes"/>
-    <tag k="addr:housenumber" v="229"/>
+    <tag k="addr:housenumber" v="237"/>
     <tag k="addr:street" v="Legrande Bayou Drive"/>
     <tag k="addr:city" v="Kenner"/>
     <tag k="addr:postcode" v="70065"/>
   </way>
-  <node visible="true" id="-99" lat="30.03600553925374683217341953" lon="-90.27007934503811270587902982"/>
-  <node visible="true" id="-100" lat="30.03603197300963145721652836" lon="-90.27007766731861693187966011"/>
-  <node visible="true" id="-101" lat="30.03602866900284595885750605" lon="-90.27000820733083230607007863"/>
-  <node visible="true" id="-102" lat="30.03588111650529768326123303" lon="-90.27001757230887335481384071"/>
-  <node visible="true" id="-103" lat="30.03588734894437806133282720" lon="-90.27014859641246857790974900"/>
-  <node visible="true" id="-104" lat="30.03600846767797349912143545" lon="-90.27014090915392330316535663"/>
+  <node visible="true" id="-95" lat="30.03753114480237584871247236" lon="-90.26900808934473730005265679"/>
+  <node visible="true" id="-96" lat="30.03741208799304374110761273" lon="-90.26901770754344056513218675"/>
+  <node visible="true" id="-97" lat="30.03740179861756587342824787" lon="-90.26903138067248733023006935"/>
+  <node visible="true" id="-98" lat="30.03737814714618536982015939" lon="-90.26903329139362597288709367"/>
+  <node visible="true" id="-99" lat="30.03738554461923371263765148" lon="-90.26915547429845787519298028"/>
+  <node visible="true" id="-100" lat="30.03740478770053101698067621" lon="-90.26915391971593294329068158"/>
+  <node visible="true" id="-101" lat="30.03740768394775884075897920" lon="-90.26920175659157052905356977"/>
+  <node visible="true" id="-102" lat="30.03750674959353261783689959" lon="-90.26919375341282147928723134"/>
+  <node visible="true" id="-103" lat="30.03750499092159742531293887" lon="-90.26916470566695238630927633"/>
+  <node visible="true" id="-104" lat="30.03754045355285740015460760" lon="-90.26916184075891180782491574"/>
   <way visible="true" id="-14">
+    <nd ref="-95"/>
+    <nd ref="-96"/>
+    <nd ref="-97"/>
+    <nd ref="-98"/>
     <nd ref="-99"/>
     <nd ref="-100"/>
     <nd ref="-101"/>
     <nd ref="-102"/>
     <nd ref="-103"/>
     <nd ref="-104"/>
-    <nd ref="-99"/>
+    <nd ref="-95"/>
     <tag k="building" v="yes"/>
-    <tag k="addr:housenumber" v="225"/>
-    <tag k="addr:street" v="Cypress Bayou Drive"/>
+    <tag k="addr:housenumber" v="241"/>
+    <tag k="addr:street" v="Legrande Bayou Drive"/>
     <tag k="addr:city" v="Kenner"/>
     <tag k="addr:postcode" v="70065"/>
   </way>
-  <node visible="true" id="-105" lat="30.03600737253351482536345429" lon="-90.26981190766963436544756405"/>
-  <node visible="true" id="-106" lat="30.03581170823325408036907902" lon="-90.26982377319946238003467442"/>
-  <node visible="true" id="-107" lat="30.03581486920441534493875224" lon="-90.26989332331369553230615566"/>
-  <node visible="true" id="-108" lat="30.03585873067695644067498506" lon="-90.26989066345582557460147655"/>
-  <node visible="true" id="-109" lat="30.03586210516520793589734240" lon="-90.26996491157304092212143587"/>
-  <node visible="true" id="-110" lat="30.03601390798202785958892491" lon="-90.26995570590106865438428940"/>
+  <node visible="true" id="-105" lat="30.03758117932170890185261669" lon="-90.26952386232974845370335970"/>
+  <node visible="true" id="-106" lat="30.03748227747908927653952560" lon="-90.26952810594949028200062457"/>
+  <node visible="true" id="-107" lat="30.03748021428104664209968178" lon="-90.26946394421047159539739368"/>
+  <node visible="true" id="-108" lat="30.03736682913126188054775412" lon="-90.26946880926580263349023880"/>
+  <node visible="true" id="-109" lat="30.03737140748746270446645212" lon="-90.26961118771862402354599908"/>
+  <node visible="true" id="-110" lat="30.03758369447186282741313335" lon="-90.26960207904356536801060429"/>
   <way visible="true" id="-15">
     <nd ref="-105"/>
     <nd ref="-106"/>
@@ -338,8 +340,8 @@
     <nd ref="-110"/>
     <nd ref="-105"/>
     <tag k="building" v="yes"/>
-    <tag k="addr:housenumber" v="229"/>
-    <tag k="addr:street" v="Cypress Bayou Drive"/>
+    <tag k="addr:housenumber" v="233"/>
+    <tag k="addr:street" v="Legrande Bayou Drive"/>
     <tag k="addr:city" v="Kenner"/>
     <tag k="addr:postcode" v="70065"/>
   </way>

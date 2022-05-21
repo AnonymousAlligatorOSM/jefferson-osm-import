@@ -1,8 +1,10 @@
 <?xml version='1.0' encoding='utf8'?>
-<osm version="0.6" generator="AnonymousAlligator's import script">
-  <changeset_tag k="comment" v="Import buildings and addresses in Jefferson Parish, see https://wiki.openstreetmap.org/wiki/Import/Catalogue/Jefferson_Parish_Addresses_and_Buildings"/>
-  <changeset_tag k="source" v="Jefferson Parish Planning Department"/>
-  <changeset_tag k="source_file" v="8183_13551"/>
+<osm version="0.6" generator="AnonymousAlligator's import script" upload-changeset="-1">
+  <changeset id="-1">
+    <tag k="comment" v="Import buildings and addresses in Jefferson Parish, see https://wiki.openstreetmap.org/wiki/Import/Catalogue/Jefferson_Parish_Addresses_and_Buildings"/>
+    <tag k="source" v="Jefferson Parish Planning Department"/>
+    <tag k="source_file" v="change-8183_13551.osm"/>
+  </changeset>
   <node visible="true" id="-1" lat="29.69250280766271288257485139" lon="-90.09504005665270653935294831"/>
   <node visible="true" id="-2" lat="29.69246349407784890672701295" lon="-90.09513084684952843872451922"/>
   <node visible="true" id="-3" lat="29.69268120601942939629225293" lon="-90.09525577208441404764016625"/>
@@ -293,14 +295,14 @@
     <tag k="addr:city" v="Lafitte"/>
     <tag k="addr:postcode" v="70067"/>
   </node>
-  <node visible="true" id="-74" lat="29.69089955941723246723995544" lon="-90.09437335307691796515427995">
-    <tag k="addr:housenumber" v="4935"/>
+  <node visible="true" id="-74" lat="29.69091405886522139212502225" lon="-90.09347880313298162491264520">
+    <tag k="addr:housenumber" v="4905"/>
     <tag k="addr:street" v="Decamp Street"/>
     <tag k="addr:city" v="Lafitte"/>
     <tag k="addr:postcode" v="70067"/>
   </node>
-  <node visible="true" id="-75" lat="29.69091405886522139212502225" lon="-90.09347880313298162491264520">
-    <tag k="addr:housenumber" v="4905"/>
+  <node visible="true" id="-75" lat="29.69089955941723246723995544" lon="-90.09437335307691796515427995">
+    <tag k="addr:housenumber" v="4935"/>
     <tag k="addr:street" v="Decamp Street"/>
     <tag k="addr:city" v="Lafitte"/>
     <tag k="addr:postcode" v="70067"/>

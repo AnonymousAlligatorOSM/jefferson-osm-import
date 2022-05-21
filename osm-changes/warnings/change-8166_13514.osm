@@ -1,8 +1,10 @@
 <?xml version='1.0' encoding='utf8'?>
-<osm version="0.6" generator="AnonymousAlligator's import script">
-  <changeset_tag k="comment" v="Import buildings and addresses in Jefferson Parish, see https://wiki.openstreetmap.org/wiki/Import/Catalogue/Jefferson_Parish_Addresses_and_Buildings"/>
-  <changeset_tag k="source" v="Jefferson Parish Planning Department"/>
-  <changeset_tag k="source_file" v="8166_13514"/>
+<osm version="0.6" generator="AnonymousAlligator's import script" upload-changeset="-1">
+  <changeset id="-1">
+    <tag k="comment" v="Import buildings and addresses in Jefferson Parish, see https://wiki.openstreetmap.org/wiki/Import/Catalogue/Jefferson_Parish_Addresses_and_Buildings"/>
+    <tag k="source" v="Jefferson Parish Planning Department"/>
+    <tag k="source_file" v="change-8166_13514.osm"/>
+  </changeset>
   <node visible="true" id="-1" lat="30.04067775200185153039456054" lon="-90.27545390580837647576117888"/>
   <node visible="true" id="-2" lat="30.04054194394417720559431473" lon="-90.27546685770100509671465261"/>
   <node visible="true" id="-3" lat="30.04055344243435499151928525" lon="-90.27562774705465642455237685"/>
@@ -753,14 +755,14 @@
     <tag k="addr:city" v="Kenner"/>
     <tag k="addr:postcode" v="70065"/>
   </way>
-  <node visible="true" id="-256" lat="30.04369923963667687871748058" lon="-90.27502713965481007107882760"/>
-  <node visible="true" id="-257" lat="30.04373565557014202909158485" lon="-90.27510548434185011501540430"/>
-  <node visible="true" id="-258" lat="30.04370954661618497993913479" lon="-90.27512167979489277058746666"/>
-  <node visible="true" id="-259" lat="30.04373716357234158635947097" lon="-90.27518109449917460551660042"/>
-  <node visible="true" id="-260" lat="30.04380148853346099713235162" lon="-90.27514119353720900562620955"/>
-  <node visible="true" id="-261" lat="30.04378636505642319320941169" lon="-90.27510865709291465464048088"/>
-  <node visible="true" id="-262" lat="30.04387628135237875426355458" lon="-90.27505288171596475876867771"/>
-  <node visible="true" id="-263" lat="30.04382737201616748734522844" lon="-90.27494765876895144174341112"/>
+  <node visible="true" id="-256" lat="30.04184954973525734089889738" lon="-90.27478807259605275703506777"/>
+  <node visible="true" id="-257" lat="30.04186413349560780261526816" lon="-90.27498488606019577673578169"/>
+  <node visible="true" id="-258" lat="30.04195434259748509475684841" lon="-90.27497596594010076387348818"/>
+  <node visible="true" id="-259" lat="30.04195753584718175943635288" lon="-90.27501906011649168704025215"/>
+  <node visible="true" id="-260" lat="30.04201187280210305630134826" lon="-90.27501368712727014553820482"/>
+  <node visible="true" id="-261" lat="30.04199728732088203742023325" lon="-90.27481685014619472440244863"/>
+  <node visible="true" id="-262" lat="30.04191850300453836553060682" lon="-90.27482464055640321021201089"/>
+  <node visible="true" id="-263" lat="30.04191531149634997177599871" lon="-90.27478156989693047762557399"/>
   <way visible="true" id="-31">
     <nd ref="-256"/>
     <nd ref="-257"/>
@@ -772,19 +774,19 @@
     <nd ref="-263"/>
     <nd ref="-256"/>
     <tag k="building" v="yes"/>
-    <tag k="addr:housenumber" v="3"/>
+    <tag k="addr:housenumber" v="4206"/>
     <tag k="addr:street" v="Platt Drive"/>
     <tag k="addr:city" v="Kenner"/>
     <tag k="addr:postcode" v="70065"/>
   </way>
-  <node visible="true" id="-264" lat="30.04350416431346459944506933" lon="-90.27511973319411708871484734"/>
-  <node visible="true" id="-265" lat="30.04355040768216511537502811" lon="-90.27525452852557918959064409"/>
-  <node visible="true" id="-266" lat="30.04355859391948158076957043" lon="-90.27525078070229369586741086"/>
-  <node visible="true" id="-267" lat="30.04356872159554825429950142" lon="-90.27528030199347597317682812"/>
-  <node visible="true" id="-268" lat="30.04365283596434821333787113" lon="-90.27524179273008542168099666"/>
-  <node visible="true" id="-269" lat="30.04364568811734770292787289" lon="-90.27522095736229346130130580"/>
-  <node visible="true" id="-270" lat="30.04367947014445050513131719" lon="-90.27520549125731008643924724"/>
-  <node visible="true" id="-271" lat="30.04363024701516948766766291" lon="-90.27506201000242924692429369"/>
+  <node visible="true" id="-264" lat="30.04369923963667687871748058" lon="-90.27502713965481007107882760"/>
+  <node visible="true" id="-265" lat="30.04373565557014202909158485" lon="-90.27510548434185011501540430"/>
+  <node visible="true" id="-266" lat="30.04370954661618497993913479" lon="-90.27512167979489277058746666"/>
+  <node visible="true" id="-267" lat="30.04373716357234158635947097" lon="-90.27518109449917460551660042"/>
+  <node visible="true" id="-268" lat="30.04380148853346099713235162" lon="-90.27514119353720900562620955"/>
+  <node visible="true" id="-269" lat="30.04378636505642319320941169" lon="-90.27510865709291465464048088"/>
+  <node visible="true" id="-270" lat="30.04387628135237875426355458" lon="-90.27505288171596475876867771"/>
+  <node visible="true" id="-271" lat="30.04382737201616748734522844" lon="-90.27494765876895144174341112"/>
   <way visible="true" id="-32">
     <nd ref="-264"/>
     <nd ref="-265"/>
@@ -796,19 +798,19 @@
     <nd ref="-271"/>
     <nd ref="-264"/>
     <tag k="building" v="yes"/>
-    <tag k="addr:housenumber" v="1"/>
+    <tag k="addr:housenumber" v="3"/>
     <tag k="addr:street" v="Platt Drive"/>
     <tag k="addr:city" v="Kenner"/>
     <tag k="addr:postcode" v="70065"/>
   </way>
-  <node visible="true" id="-272" lat="30.04184954973525734089889738" lon="-90.27478807259605275703506777"/>
-  <node visible="true" id="-273" lat="30.04186413349560780261526816" lon="-90.27498488606019577673578169"/>
-  <node visible="true" id="-274" lat="30.04195434259748509475684841" lon="-90.27497596594010076387348818"/>
-  <node visible="true" id="-275" lat="30.04195753584718175943635288" lon="-90.27501906011649168704025215"/>
-  <node visible="true" id="-276" lat="30.04201187280210305630134826" lon="-90.27501368712727014553820482"/>
-  <node visible="true" id="-277" lat="30.04199728732088203742023325" lon="-90.27481685014619472440244863"/>
-  <node visible="true" id="-278" lat="30.04191850300453836553060682" lon="-90.27482464055640321021201089"/>
-  <node visible="true" id="-279" lat="30.04191531149634997177599871" lon="-90.27478156989693047762557399"/>
+  <node visible="true" id="-272" lat="30.04350416431346459944506933" lon="-90.27511973319411708871484734"/>
+  <node visible="true" id="-273" lat="30.04355040768216511537502811" lon="-90.27525452852557918959064409"/>
+  <node visible="true" id="-274" lat="30.04355859391948158076957043" lon="-90.27525078070229369586741086"/>
+  <node visible="true" id="-275" lat="30.04356872159554825429950142" lon="-90.27528030199347597317682812"/>
+  <node visible="true" id="-276" lat="30.04365283596434821333787113" lon="-90.27524179273008542168099666"/>
+  <node visible="true" id="-277" lat="30.04364568811734770292787289" lon="-90.27522095736229346130130580"/>
+  <node visible="true" id="-278" lat="30.04367947014445050513131719" lon="-90.27520549125731008643924724"/>
+  <node visible="true" id="-279" lat="30.04363024701516948766766291" lon="-90.27506201000242924692429369"/>
   <way visible="true" id="-33">
     <nd ref="-272"/>
     <nd ref="-273"/>
@@ -820,7 +822,7 @@
     <nd ref="-279"/>
     <nd ref="-272"/>
     <tag k="building" v="yes"/>
-    <tag k="addr:housenumber" v="4206"/>
+    <tag k="addr:housenumber" v="1"/>
     <tag k="addr:street" v="Platt Drive"/>
     <tag k="addr:city" v="Kenner"/>
     <tag k="addr:postcode" v="70065"/>

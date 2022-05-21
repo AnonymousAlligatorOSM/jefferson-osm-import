@@ -1,8 +1,10 @@
 <?xml version='1.0' encoding='utf8'?>
-<osm version="0.6" generator="AnonymousAlligator's import script">
-  <changeset_tag k="comment" v="Import buildings and addresses in Jefferson Parish, see https://wiki.openstreetmap.org/wiki/Import/Catalogue/Jefferson_Parish_Addresses_and_Buildings"/>
-  <changeset_tag k="source" v="Jefferson Parish Planning Department"/>
-  <changeset_tag k="source_file" v="8185_13535"/>
+<osm version="0.6" generator="AnonymousAlligator's import script" upload-changeset="-1">
+  <changeset id="-1">
+    <tag k="comment" v="Import buildings and addresses in Jefferson Parish, see https://wiki.openstreetmap.org/wiki/Import/Catalogue/Jefferson_Parish_Addresses_and_Buildings"/>
+    <tag k="source" v="Jefferson Parish Planning Department"/>
+    <tag k="source_file" v="change-8185_13535.osm"/>
+  </changeset>
   <node visible="true" id="-1" lat="29.84936142591498509091252345" lon="-90.07383149675112576915125828"/>
   <node visible="true" id="-2" lat="29.84933424650756705887033604" lon="-90.07393080134515628287772415"/>
   <node visible="true" id="-3" lat="29.84937161777989444999548141" lon="-90.07394592336589767000987194"/>
@@ -1687,14 +1689,16 @@
     <tag k="addr:city" v="Harvey"/>
     <tag k="addr:postcode" v="70058"/>
   </way>
-  <node visible="true" id="-531" lat="29.84786356667689943833465804" lon="-90.07166295329567162752937293"/>
-  <node visible="true" id="-532" lat="29.84780550965530920848323149" lon="-90.07180582404724589196121087"/>
-  <node visible="true" id="-533" lat="29.84795236379807903404071112" lon="-90.07188514881515573051729007"/>
-  <node visible="true" id="-534" lat="29.84797577126775181000084558" lon="-90.07182754601306839958851924"/>
-  <node visible="true" id="-535" lat="29.84796356633259151180936897" lon="-90.07182095338646377058466896"/>
-  <node visible="true" id="-536" lat="29.84797236630967631754174363" lon="-90.07179929776259541540639475"/>
-  <node visible="true" id="-537" lat="29.84798511386508579334986280" lon="-90.07180618349194389793410664"/>
-  <node visible="true" id="-538" lat="29.84801096335544201565426192" lon="-90.07174257116632531960931374"/>
+  <node visible="true" id="-531" lat="29.84396161987326934195152717" lon="-90.07126772110322576736507472"/>
+  <node visible="true" id="-532" lat="29.84392912451611934443462815" lon="-90.07134832323549744614865631"/>
+  <node visible="true" id="-533" lat="29.84388535377168594209251751" lon="-90.07132486822055739139614161"/>
+  <node visible="true" id="-534" lat="29.84386020345904100281586580" lon="-90.07138725151241942512569949"/>
+  <node visible="true" id="-535" lat="29.84401102624285329056874616" lon="-90.07146807151441691985382931"/>
+  <node visible="true" id="-536" lat="29.84402823178009001026111946" lon="-90.07142539452475205052905949"/>
+  <node visible="true" id="-537" lat="29.84406412682680098669152358" lon="-90.07144462929078088109235978"/>
+  <node visible="true" id="-538" lat="29.84409593729190035560350225" lon="-90.07136572587204170758923283"/>
+  <node visible="true" id="-539" lat="29.84405874248523460323667678" lon="-90.07134579460874590495222947"/>
+  <node visible="true" id="-540" lat="29.84406737206850834809301887" lon="-90.07132438959301623526698677"/>
   <way visible="true" id="-79">
     <nd ref="-531"/>
     <nd ref="-532"/>
@@ -1704,26 +1708,24 @@
     <nd ref="-536"/>
     <nd ref="-537"/>
     <nd ref="-538"/>
+    <nd ref="-539"/>
+    <nd ref="-540"/>
     <nd ref="-531"/>
     <tag k="building" v="yes"/>
-    <tag k="addr:housenumber" v="3825"/>
-    <tag k="addr:street" v="Dulaney Drive"/>
+    <tag k="addr:housenumber" v="3844"/>
+    <tag k="addr:street" v="Burntwood Drive"/>
     <tag k="addr:city" v="Harvey"/>
     <tag k="addr:postcode" v="70058"/>
   </way>
-  <node visible="true" id="-539" lat="29.84396161987326934195152717" lon="-90.07126772110322576736507472"/>
-  <node visible="true" id="-540" lat="29.84392912451611934443462815" lon="-90.07134832323549744614865631"/>
-  <node visible="true" id="-541" lat="29.84388535377168594209251751" lon="-90.07132486822055739139614161"/>
-  <node visible="true" id="-542" lat="29.84386020345904100281586580" lon="-90.07138725151241942512569949"/>
-  <node visible="true" id="-543" lat="29.84401102624285329056874616" lon="-90.07146807151441691985382931"/>
-  <node visible="true" id="-544" lat="29.84402823178009001026111946" lon="-90.07142539452475205052905949"/>
-  <node visible="true" id="-545" lat="29.84406412682680098669152358" lon="-90.07144462929078088109235978"/>
-  <node visible="true" id="-546" lat="29.84409593729190035560350225" lon="-90.07136572587204170758923283"/>
-  <node visible="true" id="-547" lat="29.84405874248523460323667678" lon="-90.07134579460874590495222947"/>
-  <node visible="true" id="-548" lat="29.84406737206850834809301887" lon="-90.07132438959301623526698677"/>
+  <node visible="true" id="-541" lat="29.84087261938787349890844780" lon="-90.07103316706070472719147801"/>
+  <node visible="true" id="-542" lat="29.84100573974697567791736219" lon="-90.07108046577351956329948734"/>
+  <node visible="true" id="-543" lat="29.84105282258241231829742901" lon="-90.07090434557048297392611858"/>
+  <node visible="true" id="-544" lat="29.84099634000132894584567111" lon="-90.07088427684708165088522946"/>
+  <node visible="true" id="-545" lat="29.84099243469861306721213623" lon="-90.07089888519553255719074514"/>
+  <node visible="true" id="-546" lat="29.84097176882720958701611380" lon="-90.07089154244538065086089773"/>
+  <node visible="true" id="-547" lat="29.84097606343789976790503715" lon="-90.07087547783766012798878364"/>
+  <node visible="true" id="-548" lat="29.84092009159343916735451785" lon="-90.07085559059838431039679563"/>
   <way visible="true" id="-80">
-    <nd ref="-539"/>
-    <nd ref="-540"/>
     <nd ref="-541"/>
     <nd ref="-542"/>
     <nd ref="-543"/>
@@ -1732,21 +1734,23 @@
     <nd ref="-546"/>
     <nd ref="-547"/>
     <nd ref="-548"/>
-    <nd ref="-539"/>
+    <nd ref="-541"/>
     <tag k="building" v="yes"/>
-    <tag k="addr:housenumber" v="3844"/>
-    <tag k="addr:street" v="Burntwood Drive"/>
+    <tag k="addr:housenumber" v="3128"/>
+    <tag k="addr:street" v="Keithway Drive"/>
     <tag k="addr:city" v="Harvey"/>
     <tag k="addr:postcode" v="70058"/>
   </way>
-  <node visible="true" id="-549" lat="29.84087261938787349890844780" lon="-90.07103316706070472719147801"/>
-  <node visible="true" id="-550" lat="29.84100573974697567791736219" lon="-90.07108046577351956329948734"/>
-  <node visible="true" id="-551" lat="29.84105282258241231829742901" lon="-90.07090434557048297392611858"/>
-  <node visible="true" id="-552" lat="29.84099634000132894584567111" lon="-90.07088427684708165088522946"/>
-  <node visible="true" id="-553" lat="29.84099243469861306721213623" lon="-90.07089888519553255719074514"/>
-  <node visible="true" id="-554" lat="29.84097176882720958701611380" lon="-90.07089154244538065086089773"/>
-  <node visible="true" id="-555" lat="29.84097606343789976790503715" lon="-90.07087547783766012798878364"/>
-  <node visible="true" id="-556" lat="29.84092009159343916735451785" lon="-90.07085559059838431039679563"/>
+  <node visible="true" id="-549" lat="29.84812574466979739895577950" lon="-90.07212623716654320560337510"/>
+  <node visible="true" id="-550" lat="29.84806744020227498026542889" lon="-90.07227078184281765516061569"/>
+  <node visible="true" id="-551" lat="29.84815005836964729724058998" lon="-90.07231508030135103126667673"/>
+  <node visible="true" id="-552" lat="29.84815827869066495736660727" lon="-90.07229470099984780517843319"/>
+  <node visible="true" id="-553" lat="29.84821127340911317560312455" lon="-90.07232311588968798332643928"/>
+  <node visible="true" id="-554" lat="29.84822715485667998791541322" lon="-90.07228374358054168169473996"/>
+  <node visible="true" id="-555" lat="29.84824262953970119838231767" lon="-90.07229204085331275564385578"/>
+  <node visible="true" id="-556" lat="29.84825812484174889505084138" lon="-90.07225362584047445579926716"/>
+  <node visible="true" id="-557" lat="29.84829680261679385466777603" lon="-90.07227436424176403306773864"/>
+  <node visible="true" id="-558" lat="29.84831550992631221674855624" lon="-90.07222798618892056765616871"/>
   <way visible="true" id="-81">
     <nd ref="-549"/>
     <nd ref="-550"/>
@@ -1756,26 +1760,24 @@
     <nd ref="-554"/>
     <nd ref="-555"/>
     <nd ref="-556"/>
+    <nd ref="-557"/>
+    <nd ref="-558"/>
     <nd ref="-549"/>
     <tag k="building" v="yes"/>
-    <tag k="addr:housenumber" v="3128"/>
-    <tag k="addr:street" v="Keithway Drive"/>
+    <tag k="addr:housenumber" v="3832"/>
+    <tag k="addr:street" v="Dulaney Drive"/>
     <tag k="addr:city" v="Harvey"/>
     <tag k="addr:postcode" v="70058"/>
   </way>
-  <node visible="true" id="-557" lat="29.84812574466979739895577950" lon="-90.07212623716654320560337510"/>
-  <node visible="true" id="-558" lat="29.84806744020227498026542889" lon="-90.07227078184281765516061569"/>
-  <node visible="true" id="-559" lat="29.84815005836964729724058998" lon="-90.07231508030135103126667673"/>
-  <node visible="true" id="-560" lat="29.84815827869066495736660727" lon="-90.07229470099984780517843319"/>
-  <node visible="true" id="-561" lat="29.84821127340911317560312455" lon="-90.07232311588968798332643928"/>
-  <node visible="true" id="-562" lat="29.84822715485667998791541322" lon="-90.07228374358054168169473996"/>
-  <node visible="true" id="-563" lat="29.84824262953970119838231767" lon="-90.07229204085331275564385578"/>
-  <node visible="true" id="-564" lat="29.84825812484174889505084138" lon="-90.07225362584047445579926716"/>
-  <node visible="true" id="-565" lat="29.84829680261679385466777603" lon="-90.07227436424176403306773864"/>
-  <node visible="true" id="-566" lat="29.84831550992631221674855624" lon="-90.07222798618892056765616871"/>
+  <node visible="true" id="-559" lat="29.84764762890884171042671369" lon="-90.07217287946436101719882572"/>
+  <node visible="true" id="-560" lat="29.84758991840697817110594769" lon="-90.07231524901932573357044021"/>
+  <node visible="true" id="-561" lat="29.84768523888601166049738822" lon="-90.07236660997975263853732031"/>
+  <node visible="true" id="-562" lat="29.84771134960023530879880127" lon="-90.07230219581587959964963375"/>
+  <node visible="true" id="-563" lat="29.84772826598326389557769289" lon="-90.07231131077631403059058357"/>
+  <node visible="true" id="-564" lat="29.84773399167333352011155512" lon="-90.07229718570653176357154734"/>
+  <node visible="true" id="-565" lat="29.84777114754400528795486025" lon="-90.07231720620393389253877103"/>
+  <node visible="true" id="-566" lat="29.84779702157150182983968989" lon="-90.07225337588259606036444893"/>
   <way visible="true" id="-82">
-    <nd ref="-557"/>
-    <nd ref="-558"/>
     <nd ref="-559"/>
     <nd ref="-560"/>
     <nd ref="-561"/>
@@ -1784,50 +1786,50 @@
     <nd ref="-564"/>
     <nd ref="-565"/>
     <nd ref="-566"/>
-    <nd ref="-557"/>
-    <tag k="building" v="yes"/>
-    <tag k="addr:housenumber" v="3832"/>
-    <tag k="addr:street" v="Dulaney Drive"/>
-    <tag k="addr:city" v="Harvey"/>
-    <tag k="addr:postcode" v="70058"/>
-  </way>
-  <node visible="true" id="-567" lat="29.84764762890884171042671369" lon="-90.07217287946436101719882572"/>
-  <node visible="true" id="-568" lat="29.84758991840697817110594769" lon="-90.07231524901932573357044021"/>
-  <node visible="true" id="-569" lat="29.84768523888601166049738822" lon="-90.07236660997975263853732031"/>
-  <node visible="true" id="-570" lat="29.84771134960023530879880127" lon="-90.07230219581587959964963375"/>
-  <node visible="true" id="-571" lat="29.84772826598326389557769289" lon="-90.07231131077631403059058357"/>
-  <node visible="true" id="-572" lat="29.84773399167333352011155512" lon="-90.07229718570653176357154734"/>
-  <node visible="true" id="-573" lat="29.84777114754400528795486025" lon="-90.07231720620393389253877103"/>
-  <node visible="true" id="-574" lat="29.84779702157150182983968989" lon="-90.07225337588259606036444893"/>
-  <way visible="true" id="-83">
-    <nd ref="-567"/>
-    <nd ref="-568"/>
-    <nd ref="-569"/>
-    <nd ref="-570"/>
-    <nd ref="-571"/>
-    <nd ref="-572"/>
-    <nd ref="-573"/>
-    <nd ref="-574"/>
-    <nd ref="-567"/>
+    <nd ref="-559"/>
     <tag k="building" v="yes"/>
     <tag k="addr:housenumber" v="3837"/>
     <tag k="addr:street" v="Dulaney Drive"/>
     <tag k="addr:city" v="Harvey"/>
     <tag k="addr:postcode" v="70058"/>
   </way>
-  <node visible="true" id="-575" lat="29.84120689626113431813791976" lon="-90.07051794333906968859082554"/>
-  <node visible="true" id="-576" lat="29.84117604086042163658021309" lon="-90.07063374744542727512452984"/>
-  <node visible="true" id="-577" lat="29.84130089443473821120278444" lon="-90.07067796163082107341324445"/>
-  <node visible="true" id="-578" lat="29.84133174979686486949503887" lon="-90.07056215752447769773425534"/>
+  <node visible="true" id="-567" lat="29.84120689626113431813791976" lon="-90.07051794333906968859082554"/>
+  <node visible="true" id="-568" lat="29.84117604086042163658021309" lon="-90.07063374744542727512452984"/>
+  <node visible="true" id="-569" lat="29.84130089443473821120278444" lon="-90.07067796163082107341324445"/>
+  <node visible="true" id="-570" lat="29.84133174979686486949503887" lon="-90.07056215752447769773425534"/>
+  <way visible="true" id="-83">
+    <nd ref="-567"/>
+    <nd ref="-568"/>
+    <nd ref="-569"/>
+    <nd ref="-570"/>
+    <nd ref="-567"/>
+    <tag k="building" v="yes"/>
+    <tag k="addr:housenumber" v="3125"/>
+    <tag k="addr:street" v="Keithway Drive"/>
+    <tag k="addr:city" v="Harvey"/>
+    <tag k="addr:postcode" v="70058"/>
+  </way>
+  <node visible="true" id="-571" lat="29.84786356667689943833465804" lon="-90.07166295329567162752937293"/>
+  <node visible="true" id="-572" lat="29.84780550965530920848323149" lon="-90.07180582404724589196121087"/>
+  <node visible="true" id="-573" lat="29.84795236379807903404071112" lon="-90.07188514881515573051729007"/>
+  <node visible="true" id="-574" lat="29.84797577126775181000084558" lon="-90.07182754601306839958851924"/>
+  <node visible="true" id="-575" lat="29.84796356633259151180936897" lon="-90.07182095338646377058466896"/>
+  <node visible="true" id="-576" lat="29.84797236630967631754174363" lon="-90.07179929776259541540639475"/>
+  <node visible="true" id="-577" lat="29.84798511386508579334986280" lon="-90.07180618349194389793410664"/>
+  <node visible="true" id="-578" lat="29.84801096335544201565426192" lon="-90.07174257116632531960931374"/>
   <way visible="true" id="-84">
+    <nd ref="-571"/>
+    <nd ref="-572"/>
+    <nd ref="-573"/>
+    <nd ref="-574"/>
     <nd ref="-575"/>
     <nd ref="-576"/>
     <nd ref="-577"/>
     <nd ref="-578"/>
-    <nd ref="-575"/>
+    <nd ref="-571"/>
     <tag k="building" v="yes"/>
-    <tag k="addr:housenumber" v="3125"/>
-    <tag k="addr:street" v="Keithway Drive"/>
+    <tag k="addr:housenumber" v="3825"/>
+    <tag k="addr:street" v="Dulaney Drive"/>
     <tag k="addr:city" v="Harvey"/>
     <tag k="addr:postcode" v="70058"/>
   </way>
@@ -3309,14 +3311,14 @@
     <tag k="addr:city" v="Harvey"/>
     <tag k="addr:postcode" v="70058"/>
   </way>
-  <node visible="true" id="-1046" lat="29.84415268979714852548568160" lon="-90.06956205537177595488174120"/>
-  <node visible="true" id="-1047" lat="29.84409471975091676654301409" lon="-90.06970409163059798629547004"/>
-  <node visible="true" id="-1048" lat="29.84424114383726234223104257" lon="-90.06978352369526419352041557"/>
-  <node visible="true" id="-1049" lat="29.84426480664063774383976124" lon="-90.06972554581473389134771423"/>
-  <node visible="true" id="-1050" lat="29.84425205313499063208837470" lon="-90.06971862729314182161033386"/>
-  <node visible="true" id="-1051" lat="29.84426106780490783876302885" lon="-90.06969653982257284496881766"/>
-  <node visible="true" id="-1052" lat="29.84427234853402310932324326" lon="-90.06970265939288822210073704"/>
-  <node visible="true" id="-1053" lat="29.84429764102352322652222938" lon="-90.06964068848516546950122574"/>
+  <node visible="true" id="-1046" lat="29.84900140936963808258042263" lon="-90.07389661601813202196353814"/>
+  <node visible="true" id="-1047" lat="29.84913116203171412621486525" lon="-90.07394300619992577594530303"/>
+  <node visible="true" id="-1048" lat="29.84917832923918012966169044" lon="-90.07376763734824010043666931"/>
+  <node visible="true" id="-1049" lat="29.84912298551714116001676302" lon="-90.07374785041319853462482570"/>
+  <node visible="true" id="-1050" lat="29.84911900672742390838720894" lon="-90.07376264364752671554015251"/>
+  <node visible="true" id="-1051" lat="29.84909899970664781676532584" lon="-90.07375549057866237490088679"/>
+  <node visible="true" id="-1052" lat="29.84910285740625468520192953" lon="-90.07374114756332517117698444"/>
+  <node visible="true" id="-1053" lat="29.84904845554737562451919075" lon="-90.07372169738542311279161368"/>
   <way visible="true" id="-153">
     <nd ref="-1046"/>
     <nd ref="-1047"/>
@@ -3328,92 +3330,92 @@
     <nd ref="-1053"/>
     <nd ref="-1046"/>
     <tag k="building" v="yes"/>
-    <tag k="addr:housenumber" v="3809"/>
-    <tag k="addr:street" v="Burntwood Drive"/>
-    <tag k="addr:city" v="Harvey"/>
-    <tag k="addr:postcode" v="70058"/>
-  </way>
-  <node visible="true" id="-1054" lat="29.84492765986195195182517637" lon="-90.06885581839209464760642732"/>
-  <node visible="true" id="-1055" lat="29.84502150271337939102522796" lon="-90.06890540798637800889991922"/>
-  <node visible="true" id="-1056" lat="29.84507899318552404110960197" lon="-90.06876079977340054938395042"/>
-  <node visible="true" id="-1057" lat="29.84498515038806587540420878" lon="-90.06871121017913139894517371"/>
-  <way visible="true" id="-154">
-    <nd ref="-1054"/>
-    <nd ref="-1055"/>
-    <nd ref="-1056"/>
-    <nd ref="-1057"/>
-    <nd ref="-1054"/>
-    <tag k="building" v="yes"/>
-    <tag k="addr:housenumber" v="3732"/>
-    <tag k="addr:street" v="Burntwood Drive"/>
-    <tag k="addr:city" v="Harvey"/>
-    <tag k="addr:postcode" v="70058"/>
-  </way>
-  <node visible="true" id="-1058" lat="29.84900140936963808258042263" lon="-90.07389661601813202196353814"/>
-  <node visible="true" id="-1059" lat="29.84913116203171412621486525" lon="-90.07394300619992577594530303"/>
-  <node visible="true" id="-1060" lat="29.84917832923918012966169044" lon="-90.07376763734824010043666931"/>
-  <node visible="true" id="-1061" lat="29.84912298551714116001676302" lon="-90.07374785041319853462482570"/>
-  <node visible="true" id="-1062" lat="29.84911900672742390838720894" lon="-90.07376264364752671554015251"/>
-  <node visible="true" id="-1063" lat="29.84909899970664781676532584" lon="-90.07375549057866237490088679"/>
-  <node visible="true" id="-1064" lat="29.84910285740625468520192953" lon="-90.07374114756332517117698444"/>
-  <node visible="true" id="-1065" lat="29.84904845554737562451919075" lon="-90.07372169738542311279161368"/>
-  <way visible="true" id="-155">
-    <nd ref="-1058"/>
-    <nd ref="-1059"/>
-    <nd ref="-1060"/>
-    <nd ref="-1061"/>
-    <nd ref="-1062"/>
-    <nd ref="-1063"/>
-    <nd ref="-1064"/>
-    <nd ref="-1065"/>
-    <nd ref="-1058"/>
-    <tag k="building" v="yes"/>
     <tag k="addr:housenumber" v="2860"/>
     <tag k="addr:street" v="Keithway Drive"/>
     <tag k="addr:city" v="Harvey"/>
     <tag k="addr:postcode" v="70058"/>
   </way>
-  <node visible="true" id="-1066" lat="29.84831457683183231210932718" lon="-90.07346279472521644038351951"/>
-  <node visible="true" id="-1067" lat="29.84831040046078243221927551" lon="-90.07347851950760286854347214"/>
-  <node visible="true" id="-1068" lat="29.84829150973909861477295635" lon="-90.07347185024096347660815809"/>
-  <node visible="true" id="-1069" lat="29.84829567903399905048900109" lon="-90.07345615210455491705943132"/>
-  <node visible="true" id="-1070" lat="29.84824113696998892919509672" lon="-90.07343689633155747742421227"/>
-  <node visible="true" id="-1071" lat="29.84819369020923929269883956" lon="-90.07361554168431894140667282"/>
-  <node visible="true" id="-1072" lat="29.84832595315555892057091114" lon="-90.07366223637946234248374822"/>
-  <node visible="true" id="-1073" lat="29.84837340693034946070838487" lon="-90.07348356438073722074477701"/>
-  <way visible="true" id="-156">
-    <nd ref="-1066"/>
-    <nd ref="-1067"/>
-    <nd ref="-1068"/>
-    <nd ref="-1069"/>
-    <nd ref="-1070"/>
-    <nd ref="-1071"/>
-    <nd ref="-1072"/>
-    <nd ref="-1073"/>
-    <nd ref="-1066"/>
+  <node visible="true" id="-1054" lat="29.84831457683183231210932718" lon="-90.07346279472521644038351951"/>
+  <node visible="true" id="-1055" lat="29.84831040046078243221927551" lon="-90.07347851950760286854347214"/>
+  <node visible="true" id="-1056" lat="29.84829150973909861477295635" lon="-90.07347185024096347660815809"/>
+  <node visible="true" id="-1057" lat="29.84829567903399905048900109" lon="-90.07345615210455491705943132"/>
+  <node visible="true" id="-1058" lat="29.84824113696998892919509672" lon="-90.07343689633155747742421227"/>
+  <node visible="true" id="-1059" lat="29.84819369020923929269883956" lon="-90.07361554168431894140667282"/>
+  <node visible="true" id="-1060" lat="29.84832595315555892057091114" lon="-90.07366223637946234248374822"/>
+  <node visible="true" id="-1061" lat="29.84837340693034946070838487" lon="-90.07348356438073722074477701"/>
+  <way visible="true" id="-154">
+    <nd ref="-1054"/>
+    <nd ref="-1055"/>
+    <nd ref="-1056"/>
+    <nd ref="-1057"/>
+    <nd ref="-1058"/>
+    <nd ref="-1059"/>
+    <nd ref="-1060"/>
+    <nd ref="-1061"/>
+    <nd ref="-1054"/>
     <tag k="building" v="yes"/>
     <tag k="addr:housenumber" v="2880"/>
     <tag k="addr:street" v="Keithway Drive"/>
     <tag k="addr:city" v="Harvey"/>
     <tag k="addr:postcode" v="70058"/>
   </way>
-  <node visible="true" id="-1074" lat="29.84813087267867359742012923" lon="-90.07340936665367792102188105"/>
-  <node visible="true" id="-1075" lat="29.84813202463171322165180754" lon="-90.07340514531159669786575250"/>
-  <node visible="true" id="-1076" lat="29.84806748420541921973381250" lon="-90.07338173379849877164815553"/>
-  <node visible="true" id="-1077" lat="29.84803561034647145788767375" lon="-90.07349853574552867030433845"/>
-  <node visible="true" id="-1078" lat="29.84816225348476947942799598" lon="-90.07354447451037060545786517"/>
-  <node visible="true" id="-1079" lat="29.84819297535100091067761241" lon="-90.07343189390545035166724119"/>
-  <way visible="true" id="-157">
+  <node visible="true" id="-1062" lat="29.84813087267867359742012923" lon="-90.07340936665367792102188105"/>
+  <node visible="true" id="-1063" lat="29.84813202463171322165180754" lon="-90.07340514531159669786575250"/>
+  <node visible="true" id="-1064" lat="29.84806748420541921973381250" lon="-90.07338173379849877164815553"/>
+  <node visible="true" id="-1065" lat="29.84803561034647145788767375" lon="-90.07349853574552867030433845"/>
+  <node visible="true" id="-1066" lat="29.84816225348476947942799598" lon="-90.07354447451037060545786517"/>
+  <node visible="true" id="-1067" lat="29.84819297535100091067761241" lon="-90.07343189390545035166724119"/>
+  <way visible="true" id="-155">
+    <nd ref="-1062"/>
+    <nd ref="-1063"/>
+    <nd ref="-1064"/>
+    <nd ref="-1065"/>
+    <nd ref="-1066"/>
+    <nd ref="-1067"/>
+    <nd ref="-1062"/>
+    <tag k="building" v="yes"/>
+    <tag k="addr:housenumber" v="2900"/>
+    <tag k="addr:street" v="Keithway Drive"/>
+    <tag k="addr:city" v="Harvey"/>
+    <tag k="addr:postcode" v="70058"/>
+  </way>
+  <node visible="true" id="-1068" lat="29.84415268979714852548568160" lon="-90.06956205537177595488174120"/>
+  <node visible="true" id="-1069" lat="29.84409471975091676654301409" lon="-90.06970409163059798629547004"/>
+  <node visible="true" id="-1070" lat="29.84424114383726234223104257" lon="-90.06978352369526419352041557"/>
+  <node visible="true" id="-1071" lat="29.84426480664063774383976124" lon="-90.06972554581473389134771423"/>
+  <node visible="true" id="-1072" lat="29.84425205313499063208837470" lon="-90.06971862729314182161033386"/>
+  <node visible="true" id="-1073" lat="29.84426106780490783876302885" lon="-90.06969653982257284496881766"/>
+  <node visible="true" id="-1074" lat="29.84427234853402310932324326" lon="-90.06970265939288822210073704"/>
+  <node visible="true" id="-1075" lat="29.84429764102352322652222938" lon="-90.06964068848516546950122574"/>
+  <way visible="true" id="-156">
+    <nd ref="-1068"/>
+    <nd ref="-1069"/>
+    <nd ref="-1070"/>
+    <nd ref="-1071"/>
+    <nd ref="-1072"/>
+    <nd ref="-1073"/>
     <nd ref="-1074"/>
     <nd ref="-1075"/>
+    <nd ref="-1068"/>
+    <tag k="building" v="yes"/>
+    <tag k="addr:housenumber" v="3809"/>
+    <tag k="addr:street" v="Burntwood Drive"/>
+    <tag k="addr:city" v="Harvey"/>
+    <tag k="addr:postcode" v="70058"/>
+  </way>
+  <node visible="true" id="-1076" lat="29.84492765986195195182517637" lon="-90.06885581839209464760642732"/>
+  <node visible="true" id="-1077" lat="29.84502150271337939102522796" lon="-90.06890540798637800889991922"/>
+  <node visible="true" id="-1078" lat="29.84507899318552404110960197" lon="-90.06876079977340054938395042"/>
+  <node visible="true" id="-1079" lat="29.84498515038806587540420878" lon="-90.06871121017913139894517371"/>
+  <way visible="true" id="-157">
     <nd ref="-1076"/>
     <nd ref="-1077"/>
     <nd ref="-1078"/>
     <nd ref="-1079"/>
-    <nd ref="-1074"/>
+    <nd ref="-1076"/>
     <tag k="building" v="yes"/>
-    <tag k="addr:housenumber" v="2900"/>
-    <tag k="addr:street" v="Keithway Drive"/>
+    <tag k="addr:housenumber" v="3732"/>
+    <tag k="addr:street" v="Burntwood Drive"/>
     <tag k="addr:city" v="Harvey"/>
     <tag k="addr:postcode" v="70058"/>
   </way>

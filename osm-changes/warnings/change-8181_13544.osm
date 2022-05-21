@@ -1,8 +1,10 @@
 <?xml version='1.0' encoding='utf8'?>
-<osm version="0.6" generator="AnonymousAlligator's import script">
-  <changeset_tag k="comment" v="Import buildings and addresses in Jefferson Parish, see https://wiki.openstreetmap.org/wiki/Import/Catalogue/Jefferson_Parish_Addresses_and_Buildings"/>
-  <changeset_tag k="source" v="Jefferson Parish Planning Department"/>
-  <changeset_tag k="source_file" v="8181_13544"/>
+<osm version="0.6" generator="AnonymousAlligator's import script" upload-changeset="-1">
+  <changeset id="-1">
+    <tag k="comment" v="Import buildings and addresses in Jefferson Parish, see https://wiki.openstreetmap.org/wiki/Import/Catalogue/Jefferson_Parish_Addresses_and_Buildings"/>
+    <tag k="source" v="Jefferson Parish Planning Department"/>
+    <tag k="source_file" v="change-8181_13544.osm"/>
+  </changeset>
   <node visible="true" id="-1" lat="29.75866632941201217477100727" lon="-90.11197442981068661538301967"/>
   <node visible="true" id="-2" lat="29.75864483046130715138133382" lon="-90.11205448313630483880842803"/>
   <node visible="true" id="-3" lat="29.75862884200353519759119081" lon="-90.11204878567988885151862632"/>
@@ -163,10 +165,10 @@
     <tag k="addr:city" v="Town Of Lafitte"/>
     <tag k="addr:postcode" v="70067"/>
   </way>
-  <node visible="true" id="-53" lat="29.75963804226946507469619974" lon="-90.12007880244986779416649370"/>
-  <node visible="true" id="-54" lat="29.75966326694075902992153715" lon="-90.11995877790707254462176934"/>
-  <node visible="true" id="-55" lat="29.75952852832523731763103569" lon="-90.11992120346357637572509702"/>
-  <node visible="true" id="-56" lat="29.75950330361993323435854109" lon="-90.12004122800634320356039098"/>
+  <node visible="true" id="-53" lat="29.75990474413082509386185848" lon="-90.11795799619690683357475791"/>
+  <node visible="true" id="-54" lat="29.75992317304408629752288107" lon="-90.11780052290484377408574801"/>
+  <node visible="true" id="-55" lat="29.75969036102361187090536987" lon="-90.11776436982552240806398913"/>
+  <node visible="true" id="-56" lat="29.75967193206755823098319524" lon="-90.11792184311759967840771424"/>
   <way visible="true" id="-8">
     <nd ref="-53"/>
     <nd ref="-54"/>
@@ -174,44 +176,32 @@
     <nd ref="-56"/>
     <nd ref="-53"/>
     <tag k="building" v="yes"/>
-    <tag k="addr:housenumber" v="1428"/>
-    <tag k="addr:street" v="la 45"/>
-    <tag k="addr:city" v="Town Of Lafitte"/>
-    <tag k="addr:postcode" v="70067"/>
-  </way>
-  <node visible="true" id="-57" lat="29.75990474413082509386185848" lon="-90.11795799619690683357475791"/>
-  <node visible="true" id="-58" lat="29.75992317304408629752288107" lon="-90.11780052290484377408574801"/>
-  <node visible="true" id="-59" lat="29.75969036102361187090536987" lon="-90.11776436982552240806398913"/>
-  <node visible="true" id="-60" lat="29.75967193206755823098319524" lon="-90.11792184311759967840771424"/>
-  <way visible="true" id="-9">
-    <nd ref="-57"/>
-    <nd ref="-58"/>
-    <nd ref="-59"/>
-    <nd ref="-60"/>
-    <nd ref="-57"/>
-    <tag k="building" v="yes"/>
     <tag k="addr:housenumber" v="1360"/>
     <tag k="addr:street" v="la 45"/>
     <tag k="addr:city" v="Town Of Lafitte"/>
     <tag k="addr:postcode" v="70067"/>
   </way>
-  <node visible="true" id="-61" lat="29.75770465665162944901567244" lon="-90.11936411156359838514617877"/>
-  <node visible="true" id="-62" lat="29.75771512464494961136551865" lon="-90.11932388688377670860063517"/>
-  <node visible="true" id="-63" lat="29.75772991843587789162484114" lon="-90.11932899521215745153313037"/>
-  <node visible="true" id="-64" lat="29.75776094030662477507576114" lon="-90.11920978943648208314698422"/>
-  <node visible="true" id="-65" lat="29.75774818756183393020364747" lon="-90.11920538588439910654415144"/>
-  <node visible="true" id="-66" lat="29.75776195896455078582221176" lon="-90.11915246738320206532080192"/>
-  <node visible="true" id="-67" lat="29.75774383578353265988880594" lon="-90.11914620940724773845431628"/>
-  <node visible="true" id="-68" lat="29.75774777668904391703108558" lon="-90.11913106593945599342987407"/>
-  <node visible="true" id="-69" lat="29.75775812576435441769717727" lon="-90.11913463949889546711347066"/>
-  <node visible="true" id="-70" lat="29.75778239274339753706044576" lon="-90.11904139029435611973894993"/>
-  <node visible="true" id="-71" lat="29.75771237797140145175944781" lon="-90.11901721403438614288461395"/>
-  <node visible="true" id="-72" lat="29.75768996788790587970652268" lon="-90.11910332780323074075568002"/>
-  <node visible="true" id="-73" lat="29.75770929014205634643985832" lon="-90.11910999981834891059406800"/>
-  <node visible="true" id="-74" lat="29.75770088710918770402713562" lon="-90.11914228960688433289760724"/>
-  <node visible="true" id="-75" lat="29.75765205667405766121191846" lon="-90.11912542835851525069301715"/>
-  <node visible="true" id="-76" lat="29.75759940055933228109097399" lon="-90.11932776643016040907241404"/>
-  <way visible="true" id="-10">
+  <node visible="true" id="-57" lat="29.75770465665162944901567244" lon="-90.11936411156359838514617877"/>
+  <node visible="true" id="-58" lat="29.75771512464494961136551865" lon="-90.11932388688377670860063517"/>
+  <node visible="true" id="-59" lat="29.75772991843587789162484114" lon="-90.11932899521215745153313037"/>
+  <node visible="true" id="-60" lat="29.75776094030662477507576114" lon="-90.11920978943648208314698422"/>
+  <node visible="true" id="-61" lat="29.75774818756183393020364747" lon="-90.11920538588439910654415144"/>
+  <node visible="true" id="-62" lat="29.75776195896455078582221176" lon="-90.11915246738320206532080192"/>
+  <node visible="true" id="-63" lat="29.75774383578353265988880594" lon="-90.11914620940724773845431628"/>
+  <node visible="true" id="-64" lat="29.75774777668904391703108558" lon="-90.11913106593945599342987407"/>
+  <node visible="true" id="-65" lat="29.75775812576435441769717727" lon="-90.11913463949889546711347066"/>
+  <node visible="true" id="-66" lat="29.75778239274339753706044576" lon="-90.11904139029435611973894993"/>
+  <node visible="true" id="-67" lat="29.75771237797140145175944781" lon="-90.11901721403438614288461395"/>
+  <node visible="true" id="-68" lat="29.75768996788790587970652268" lon="-90.11910332780323074075568002"/>
+  <node visible="true" id="-69" lat="29.75770929014205634643985832" lon="-90.11910999981834891059406800"/>
+  <node visible="true" id="-70" lat="29.75770088710918770402713562" lon="-90.11914228960688433289760724"/>
+  <node visible="true" id="-71" lat="29.75765205667405766121191846" lon="-90.11912542835851525069301715"/>
+  <node visible="true" id="-72" lat="29.75759940055933228109097399" lon="-90.11932776643016040907241404"/>
+  <way visible="true" id="-9">
+    <nd ref="-57"/>
+    <nd ref="-58"/>
+    <nd ref="-59"/>
+    <nd ref="-60"/>
     <nd ref="-61"/>
     <nd ref="-62"/>
     <nd ref="-63"/>
@@ -224,21 +214,33 @@
     <nd ref="-70"/>
     <nd ref="-71"/>
     <nd ref="-72"/>
-    <nd ref="-73"/>
-    <nd ref="-74"/>
-    <nd ref="-75"/>
-    <nd ref="-76"/>
-    <nd ref="-61"/>
+    <nd ref="-57"/>
     <tag k="building" v="yes"/>
     <tag k="addr:housenumber" v="1417"/>
     <tag k="addr:street" v="la 45"/>
     <tag k="addr:city" v="Town Of Lafitte"/>
     <tag k="addr:postcode" v="70067"/>
   </way>
-  <node visible="true" id="-77" lat="29.75744760793817889066303906" lon="-90.12028445832164891271531815"/>
-  <node visible="true" id="-78" lat="29.75752824888872538622308639" lon="-90.12012967669480190124886576"/>
-  <node visible="true" id="-79" lat="29.75742284243452573377908266" lon="-90.12005680986186462178011425"/>
-  <node visible="true" id="-80" lat="29.75734220139914398828295816" lon="-90.12021159148868321153713623"/>
+  <node visible="true" id="-73" lat="29.75744760793817889066303906" lon="-90.12028445832164891271531815"/>
+  <node visible="true" id="-74" lat="29.75752824888872538622308639" lon="-90.12012967669480190124886576"/>
+  <node visible="true" id="-75" lat="29.75742284243452573377908266" lon="-90.12005680986186462178011425"/>
+  <node visible="true" id="-76" lat="29.75734220139914398828295816" lon="-90.12021159148868321153713623"/>
+  <way visible="true" id="-10">
+    <nd ref="-73"/>
+    <nd ref="-74"/>
+    <nd ref="-75"/>
+    <nd ref="-76"/>
+    <nd ref="-73"/>
+    <tag k="building" v="yes"/>
+    <tag k="addr:housenumber" v="1463"/>
+    <tag k="addr:street" v="la 45"/>
+    <tag k="addr:city" v="Town Of Lafitte"/>
+    <tag k="addr:postcode" v="70067"/>
+  </way>
+  <node visible="true" id="-77" lat="29.76050850995187957437337900" lon="-90.11387045887266822319361381"/>
+  <node visible="true" id="-78" lat="29.76055611351928575913916575" lon="-90.11377743719202726424555294"/>
+  <node visible="true" id="-79" lat="29.76043727201542310467630159" lon="-90.11369673669628355128224939"/>
+  <node visible="true" id="-80" lat="29.76038966839155364141333848" lon="-90.11378975837691029937559506"/>
   <way visible="true" id="-11">
     <nd ref="-77"/>
     <nd ref="-78"/>
@@ -246,47 +248,47 @@
     <nd ref="-80"/>
     <nd ref="-77"/>
     <tag k="building" v="yes"/>
-    <tag k="addr:housenumber" v="1463"/>
-    <tag k="addr:street" v="la 45"/>
-    <tag k="addr:city" v="Town Of Lafitte"/>
-    <tag k="addr:postcode" v="70067"/>
-  </way>
-  <node visible="true" id="-81" lat="29.76050850995187957437337900" lon="-90.11387045887266822319361381"/>
-  <node visible="true" id="-82" lat="29.76055611351928575913916575" lon="-90.11377743719202726424555294"/>
-  <node visible="true" id="-83" lat="29.76043727201542310467630159" lon="-90.11369673669628355128224939"/>
-  <node visible="true" id="-84" lat="29.76038966839155364141333848" lon="-90.11378975837691029937559506"/>
-  <way visible="true" id="-12">
-    <nd ref="-81"/>
-    <nd ref="-82"/>
-    <nd ref="-83"/>
-    <nd ref="-84"/>
-    <nd ref="-81"/>
-    <tag k="building" v="yes"/>
     <tag k="addr:housenumber" v="1224"/>
     <tag k="addr:street" v="la 45"/>
     <tag k="addr:city" v="Town Of Lafitte"/>
     <tag k="addr:postcode" v="70067"/>
   </way>
-  <node visible="true" id="-85" lat="29.76063215872726175348361721" lon="-90.11180677746905587355286116"/>
-  <node visible="true" id="-86" lat="29.76065764367028521064639790" lon="-90.11168984712097085321147460"/>
-  <node visible="true" id="-87" lat="29.76067704282440473662063596" lon="-90.11169545751276643841265468"/>
-  <node visible="true" id="-88" lat="29.76069584584678295868798159" lon="-90.11168249107913652551360428"/>
-  <node visible="true" id="-89" lat="29.76070277935795260759732628" lon="-90.11165067863552735616394784"/>
-  <node visible="true" id="-90" lat="29.76068695176600087393126159" lon="-90.11162022239871305373526411"/>
-  <node visible="true" id="-91" lat="29.76053619621633927749826398" lon="-90.11157662270240109592123190"/>
-  <node visible="true" id="-92" lat="29.76049469848274853234215698" lon="-90.11176702289917272992170183"/>
-  <way visible="true" id="-13">
+  <node visible="true" id="-81" lat="29.76063215872726175348361721" lon="-90.11180677746905587355286116"/>
+  <node visible="true" id="-82" lat="29.76065764367028521064639790" lon="-90.11168984712097085321147460"/>
+  <node visible="true" id="-83" lat="29.76067704282440473662063596" lon="-90.11169545751276643841265468"/>
+  <node visible="true" id="-84" lat="29.76069584584678295868798159" lon="-90.11168249107913652551360428"/>
+  <node visible="true" id="-85" lat="29.76070277935795260759732628" lon="-90.11165067863552735616394784"/>
+  <node visible="true" id="-86" lat="29.76068695176600087393126159" lon="-90.11162022239871305373526411"/>
+  <node visible="true" id="-87" lat="29.76053619621633927749826398" lon="-90.11157662270240109592123190"/>
+  <node visible="true" id="-88" lat="29.76049469848274853234215698" lon="-90.11176702289917272992170183"/>
+  <way visible="true" id="-12">
+    <nd ref="-81"/>
+    <nd ref="-82"/>
+    <nd ref="-83"/>
+    <nd ref="-84"/>
     <nd ref="-85"/>
     <nd ref="-86"/>
     <nd ref="-87"/>
     <nd ref="-88"/>
+    <nd ref="-81"/>
+    <tag k="building" v="yes"/>
+    <tag k="addr:housenumber" v="1154"/>
+    <tag k="addr:street" v="la 45"/>
+    <tag k="addr:city" v="Town Of Lafitte"/>
+    <tag k="addr:postcode" v="70067"/>
+  </way>
+  <node visible="true" id="-89" lat="29.75963804226946507469619974" lon="-90.12007880244986779416649370"/>
+  <node visible="true" id="-90" lat="29.75966326694075902992153715" lon="-90.11995877790707254462176934"/>
+  <node visible="true" id="-91" lat="29.75952852832523731763103569" lon="-90.11992120346357637572509702"/>
+  <node visible="true" id="-92" lat="29.75950330361993323435854109" lon="-90.12004122800634320356039098"/>
+  <way visible="true" id="-13">
     <nd ref="-89"/>
     <nd ref="-90"/>
     <nd ref="-91"/>
     <nd ref="-92"/>
-    <nd ref="-85"/>
+    <nd ref="-89"/>
     <tag k="building" v="yes"/>
-    <tag k="addr:housenumber" v="1154"/>
+    <tag k="addr:housenumber" v="1428"/>
     <tag k="addr:street" v="la 45"/>
     <tag k="addr:city" v="Town Of Lafitte"/>
     <tag k="addr:postcode" v="70067"/>

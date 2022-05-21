@@ -1,8 +1,10 @@
 <?xml version='1.0' encoding='utf8'?>
-<osm version="0.6" generator="AnonymousAlligator's import script">
-  <changeset_tag k="comment" v="Import buildings and addresses in Jefferson Parish, see https://wiki.openstreetmap.org/wiki/Import/Catalogue/Jefferson_Parish_Addresses_and_Buildings"/>
-  <changeset_tag k="source" v="Jefferson Parish Planning Department"/>
-  <changeset_tag k="source_file" v="8189_13530"/>
+<osm version="0.6" generator="AnonymousAlligator's import script" upload-changeset="-1">
+  <changeset id="-1">
+    <tag k="comment" v="Import buildings and addresses in Jefferson Parish, see https://wiki.openstreetmap.org/wiki/Import/Catalogue/Jefferson_Parish_Addresses_and_Buildings"/>
+    <tag k="source" v="Jefferson Parish Planning Department"/>
+    <tag k="source_file" v="change-8189_13530.osm"/>
+  </changeset>
   <node visible="true" id="-1" lat="29.89410365830118010421756480" lon="-90.02821316571387910698831547"/>
   <node visible="true" id="-2" lat="29.89398873363043662720883731" lon="-90.02822206460938048167008674"/>
   <node visible="true" id="-3" lat="29.89399528466657685044083337" lon="-90.02833462880488468726980500"/>
@@ -279,10 +281,10 @@
     <tag k="addr:city" v="Terrytown"/>
     <tag k="addr:postcode" v="70056"/>
   </way>
-  <node visible="true" id="-83" lat="29.89312341242512971462019777" lon="-90.02828218728572551299293991"/>
-  <node visible="true" id="-84" lat="29.89299549094360841650086513" lon="-90.02824336342735023208661005"/>
-  <node visible="true" id="-85" lat="29.89297029720019338583369972" lon="-90.02835380737262482853111578"/>
-  <node visible="true" id="-86" lat="29.89309821871400529857965012" lon="-90.02839263123100010943744564"/>
+  <node visible="true" id="-83" lat="29.89274340188793033235015173" lon="-90.02793326955912789344438352"/>
+  <node visible="true" id="-84" lat="29.89266570493078134518327715" lon="-90.02782932161586870734026888"/>
+  <node visible="true" id="-85" lat="29.89258356348432599247644248" lon="-90.02791100839507976161257830"/>
+  <node visible="true" id="-86" lat="29.89266126050551264370369609" lon="-90.02801495633832473686197773"/>
   <way visible="true" id="-15">
     <nd ref="-83"/>
     <nd ref="-84"/>
@@ -290,51 +292,51 @@
     <nd ref="-86"/>
     <nd ref="-83"/>
     <tag k="building" v="yes"/>
-    <tag k="addr:housenumber" v="852"/>
+    <tag k="addr:housenumber" v="864"/>
     <tag k="addr:street" v="Legion Street"/>
     <tag k="addr:city" v="Terrytown"/>
     <tag k="addr:postcode" v="70056"/>
   </way>
-  <node visible="true" id="-87" lat="29.89481645303427015392117028" lon="-90.02816815053446930505742785"/>
-  <node visible="true" id="-88" lat="29.89482427296330513399880147" lon="-90.02827264036127985491475556"/>
-  <node visible="true" id="-89" lat="29.89488184921711066976968141" lon="-90.02826690722257296783936908"/>
-  <node visible="true" id="-90" lat="29.89488384508650042903354915" lon="-90.02829357603027915502025280"/>
-  <node visible="true" id="-91" lat="29.89494560988925186961751024" lon="-90.02828742581422716284578200"/>
-  <node visible="true" id="-92" lat="29.89493579410143908603458840" lon="-90.02815626717969621495285537"/>
+  <node visible="true" id="-87" lat="29.89312341242512971462019777" lon="-90.02828218728572551299293991"/>
+  <node visible="true" id="-88" lat="29.89299549094360841650086513" lon="-90.02824336342735023208661005"/>
+  <node visible="true" id="-89" lat="29.89297029720019338583369972" lon="-90.02835380737262482853111578"/>
+  <node visible="true" id="-90" lat="29.89309821871400529857965012" lon="-90.02839263123100010943744564"/>
   <way visible="true" id="-16">
     <nd ref="-87"/>
     <nd ref="-88"/>
     <nd ref="-89"/>
     <nd ref="-90"/>
+    <nd ref="-87"/>
+    <tag k="building" v="yes"/>
+    <tag k="addr:housenumber" v="852"/>
+    <tag k="addr:street" v="Legion Street"/>
+    <tag k="addr:city" v="Terrytown"/>
+    <tag k="addr:postcode" v="70056"/>
+  </way>
+  <node visible="true" id="-91" lat="29.89481645303427015392117028" lon="-90.02816815053446930505742785"/>
+  <node visible="true" id="-92" lat="29.89482427296330513399880147" lon="-90.02827264036127985491475556"/>
+  <node visible="true" id="-93" lat="29.89488184921711066976968141" lon="-90.02826690722257296783936908"/>
+  <node visible="true" id="-94" lat="29.89488384508650042903354915" lon="-90.02829357603027915502025280"/>
+  <node visible="true" id="-95" lat="29.89494560988925186961751024" lon="-90.02828742581422716284578200"/>
+  <node visible="true" id="-96" lat="29.89493579410143908603458840" lon="-90.02815626717969621495285537"/>
+  <way visible="true" id="-17">
     <nd ref="-91"/>
     <nd ref="-92"/>
-    <nd ref="-87"/>
+    <nd ref="-93"/>
+    <nd ref="-94"/>
+    <nd ref="-95"/>
+    <nd ref="-96"/>
+    <nd ref="-91"/>
     <tag k="building" v="yes"/>
     <tag k="addr:housenumber" v="808"/>
     <tag k="addr:street" v="Legion Street"/>
     <tag k="addr:city" v="Terrytown"/>
     <tag k="addr:postcode" v="70056"/>
   </way>
-  <node visible="true" id="-93" lat="29.89476583156656630535508157" lon="-90.02815773717681224752595881"/>
-  <node visible="true" id="-94" lat="29.89464683557786983669757319" lon="-90.02816685444032884788612137"/>
-  <node visible="true" id="-95" lat="29.89465247082890542174027360" lon="-90.02826471325532509126787772"/>
-  <node visible="true" id="-96" lat="29.89477146681100450109624944" lon="-90.02825559599180849090771517"/>
-  <way visible="true" id="-17">
-    <nd ref="-93"/>
-    <nd ref="-94"/>
-    <nd ref="-95"/>
-    <nd ref="-96"/>
-    <nd ref="-93"/>
-    <tag k="building" v="yes"/>
-    <tag k="addr:housenumber" v="812"/>
-    <tag k="addr:street" v="Legion Street"/>
-    <tag k="addr:city" v="Terrytown"/>
-    <tag k="addr:postcode" v="70056"/>
-  </way>
-  <node visible="true" id="-97" lat="29.89274340188793033235015173" lon="-90.02793326955912789344438352"/>
-  <node visible="true" id="-98" lat="29.89266570493078134518327715" lon="-90.02782932161586870734026888"/>
-  <node visible="true" id="-99" lat="29.89258356348432599247644248" lon="-90.02791100839507976161257830"/>
-  <node visible="true" id="-100" lat="29.89266126050551264370369609" lon="-90.02801495633832473686197773"/>
+  <node visible="true" id="-97" lat="29.89476583156656630535508157" lon="-90.02815773717681224752595881"/>
+  <node visible="true" id="-98" lat="29.89464683557786983669757319" lon="-90.02816685444032884788612137"/>
+  <node visible="true" id="-99" lat="29.89465247082890542174027360" lon="-90.02826471325532509126787772"/>
+  <node visible="true" id="-100" lat="29.89477146681100450109624944" lon="-90.02825559599180849090771517"/>
   <way visible="true" id="-18">
     <nd ref="-97"/>
     <nd ref="-98"/>
@@ -342,7 +344,7 @@
     <nd ref="-100"/>
     <nd ref="-97"/>
     <tag k="building" v="yes"/>
-    <tag k="addr:housenumber" v="864"/>
+    <tag k="addr:housenumber" v="812"/>
     <tag k="addr:street" v="Legion Street"/>
     <tag k="addr:city" v="Terrytown"/>
     <tag k="addr:postcode" v="70056"/>

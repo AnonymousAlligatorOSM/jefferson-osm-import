@@ -1,8 +1,10 @@
 <?xml version='1.0' encoding='utf8'?>
-<osm version="0.6" generator="AnonymousAlligator's import script">
-  <changeset_tag k="comment" v="Import buildings and addresses in Jefferson Parish, see https://wiki.openstreetmap.org/wiki/Import/Catalogue/Jefferson_Parish_Addresses_and_Buildings"/>
-  <changeset_tag k="source" v="Jefferson Parish Planning Department"/>
-  <changeset_tag k="source_file" v="8189_13533"/>
+<osm version="0.6" generator="AnonymousAlligator's import script" upload-changeset="-1">
+  <changeset id="-1">
+    <tag k="comment" v="Import buildings and addresses in Jefferson Parish, see https://wiki.openstreetmap.org/wiki/Import/Catalogue/Jefferson_Parish_Addresses_and_Buildings"/>
+    <tag k="source" v="Jefferson Parish Planning Department"/>
+    <tag k="source_file" v="change-8189_13533.osm"/>
+  </changeset>
   <node visible="true" id="-1" lat="29.86001630768815218175404880" lon="-90.02877905542956682438671123"/>
   <node visible="true" id="-2" lat="29.86001988594263423237862298" lon="-90.02869868326054358931287425"/>
   <node visible="true" id="-3" lat="29.85997105321528621857396502" lon="-90.02869143258563155995943816"/>
@@ -137,12 +139,17 @@
     <tag k="addr:city" v="Gretna"/>
     <tag k="addr:postcode" v="70056"/>
   </way>
-  <node visible="true" id="-48" lat="29.86079967036235061073057295" lon="-90.02906620818207272805011598"/>
-  <node visible="true" id="-49" lat="29.86080392070720535002692486" lon="-90.02898617112793999694986269"/>
-  <node visible="true" id="-50" lat="29.86078347029086899055982940" lon="-90.02898472715510536090732785"/>
-  <node visible="true" id="-51" lat="29.86078882509873722028714838" lon="-90.02888389228537846520339372"/>
-  <node visible="true" id="-52" lat="29.86064701328662707169314672" lon="-90.02887387917620287680620095"/>
-  <node visible="true" id="-53" lat="29.86063740811909639205623535" lon="-90.02905475110004829275567317"/>
+  <node visible="true" id="-48" lat="29.85975069660523573134014441" lon="-90.02815641744479080443852581"/>
+  <node visible="true" id="-49" lat="29.85982575272870320759466267" lon="-90.02816045687828250265738461"/>
+  <node visible="true" id="-50" lat="29.85982685217059184878962697" lon="-90.02808226818123671364446636"/>
+  <node visible="true" id="-51" lat="29.85979184881683323737888713" lon="-90.02808272563011371403263183"/>
+  <node visible="true" id="-52" lat="29.85978311956788999737000267" lon="-90.02808499169513822835142491"/>
+  <node visible="true" id="-53" lat="29.85978274931757425747491652" lon="-90.02804770270682865884737112"/>
+  <node visible="true" id="-54" lat="29.85970942244604131587948359" lon="-90.02804375642432432869100012"/>
+  <node visible="true" id="-55" lat="29.85970187489528626656465349" lon="-90.02807379598704073941917159"/>
+  <node visible="true" id="-56" lat="29.85962670664982709922696813" lon="-90.02807197503761926782317460"/>
+  <node visible="true" id="-57" lat="29.85962991357323659258327098" lon="-90.02820604743914145728922449"/>
+  <node visible="true" id="-58" lat="29.85975559875908658113985439" lon="-90.02820942531324988067353843"/>
   <way visible="true" id="-6">
     <nd ref="-48"/>
     <nd ref="-49"/>
@@ -150,39 +157,34 @@
     <nd ref="-51"/>
     <nd ref="-52"/>
     <nd ref="-53"/>
-    <nd ref="-48"/>
-    <tag k="building" v="yes"/>
-    <tag k="addr:housenumber" v="1201"/>
-    <tag k="addr:street" v="Lake Kristin Drive"/>
-    <tag k="addr:city" v="Gretna"/>
-    <tag k="addr:postcode" v="70056"/>
-  </way>
-  <node visible="true" id="-54" lat="29.85975069660523573134014441" lon="-90.02815641744479080443852581"/>
-  <node visible="true" id="-55" lat="29.85982575272870320759466267" lon="-90.02816045687828250265738461"/>
-  <node visible="true" id="-56" lat="29.85982685217059184878962697" lon="-90.02808226818123671364446636"/>
-  <node visible="true" id="-57" lat="29.85979184881683323737888713" lon="-90.02808272563011371403263183"/>
-  <node visible="true" id="-58" lat="29.85978311956788999737000267" lon="-90.02808499169513822835142491"/>
-  <node visible="true" id="-59" lat="29.85978274931757425747491652" lon="-90.02804770270682865884737112"/>
-  <node visible="true" id="-60" lat="29.85970942244604131587948359" lon="-90.02804375642432432869100012"/>
-  <node visible="true" id="-61" lat="29.85970187489528626656465349" lon="-90.02807379598704073941917159"/>
-  <node visible="true" id="-62" lat="29.85962670664982709922696813" lon="-90.02807197503761926782317460"/>
-  <node visible="true" id="-63" lat="29.85962991357323659258327098" lon="-90.02820604743914145728922449"/>
-  <node visible="true" id="-64" lat="29.85975559875908658113985439" lon="-90.02820942531324988067353843"/>
-  <way visible="true" id="-7">
     <nd ref="-54"/>
     <nd ref="-55"/>
     <nd ref="-56"/>
     <nd ref="-57"/>
     <nd ref="-58"/>
+    <nd ref="-48"/>
+    <tag k="building" v="yes"/>
+    <tag k="addr:housenumber" v="3509"/>
+    <tag k="addr:street" v="Lake Kristin Drive"/>
+    <tag k="addr:city" v="Gretna"/>
+    <tag k="addr:postcode" v="70056"/>
+  </way>
+  <node visible="true" id="-59" lat="29.86079967036235061073057295" lon="-90.02906620818207272805011598"/>
+  <node visible="true" id="-60" lat="29.86080392070720535002692486" lon="-90.02898617112793999694986269"/>
+  <node visible="true" id="-61" lat="29.86078347029086899055982940" lon="-90.02898472715510536090732785"/>
+  <node visible="true" id="-62" lat="29.86078882509873722028714838" lon="-90.02888389228537846520339372"/>
+  <node visible="true" id="-63" lat="29.86064701328662707169314672" lon="-90.02887387917620287680620095"/>
+  <node visible="true" id="-64" lat="29.86063740811909639205623535" lon="-90.02905475110004829275567317"/>
+  <way visible="true" id="-7">
     <nd ref="-59"/>
     <nd ref="-60"/>
     <nd ref="-61"/>
     <nd ref="-62"/>
     <nd ref="-63"/>
     <nd ref="-64"/>
-    <nd ref="-54"/>
+    <nd ref="-59"/>
     <tag k="building" v="yes"/>
-    <tag k="addr:housenumber" v="3509"/>
+    <tag k="addr:housenumber" v="1201"/>
     <tag k="addr:street" v="Lake Kristin Drive"/>
     <tag k="addr:city" v="Gretna"/>
     <tag k="addr:postcode" v="70056"/>

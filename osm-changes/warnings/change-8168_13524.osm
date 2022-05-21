@@ -1,8 +1,10 @@
 <?xml version='1.0' encoding='utf8'?>
-<osm version="0.6" generator="AnonymousAlligator's import script">
-  <changeset_tag k="comment" v="Import buildings and addresses in Jefferson Parish, see https://wiki.openstreetmap.org/wiki/Import/Catalogue/Jefferson_Parish_Addresses_and_Buildings"/>
-  <changeset_tag k="source" v="Jefferson Parish Planning Department"/>
-  <changeset_tag k="source_file" v="8168_13524"/>
+<osm version="0.6" generator="AnonymousAlligator's import script" upload-changeset="-1">
+  <changeset id="-1">
+    <tag k="comment" v="Import buildings and addresses in Jefferson Parish, see https://wiki.openstreetmap.org/wiki/Import/Catalogue/Jefferson_Parish_Addresses_and_Buildings"/>
+    <tag k="source" v="Jefferson Parish Planning Department"/>
+    <tag k="source_file" v="change-8168_13524.osm"/>
+  </changeset>
   <node visible="true" id="-1" lat="29.95065074075674971254557022" lon="-90.25943702519731459688046016"/>
   <node visible="true" id="-2" lat="29.95067461699253286155908427" lon="-90.25949252907632569531415356"/>
   <node visible="true" id="-3" lat="29.95062860080990319033844571" lon="-90.25951889605723010845395038"/>
@@ -58,20 +60,20 @@
     <tag k="addr:city" v="Waggaman"/>
     <tag k="addr:postcode" v="70094"/>
   </way>
-  <node visible="true" id="-21" lat="29.94745533408378435069607804" lon="-90.25306470245197942858794704"/>
-  <node visible="true" id="-22" lat="29.94748072078660428019247775" lon="-90.25308373049034571522497572"/>
-  <node visible="true" id="-23" lat="29.94747189468261439060370321" lon="-90.25309941463341090184258064"/>
-  <node visible="true" id="-24" lat="29.94753867352110177080248832" lon="-90.25314946724502362940256717"/>
-  <node visible="true" id="-25" lat="29.94754776948495944566275284" lon="-90.25313330354534002708533080"/>
-  <node visible="true" id="-26" lat="29.94758232924749208336834272" lon="-90.25315920707180339377373457"/>
-  <node visible="true" id="-27" lat="29.94765583959051014062424656" lon="-90.25302857770303432971559232"/>
-  <node visible="true" id="-28" lat="29.94762576283609334382163070" lon="-90.25300603430164869678264949"/>
-  <node visible="true" id="-29" lat="29.94762308547037221728714940" lon="-90.25301079203501330994185992"/>
-  <node visible="true" id="-30" lat="29.94760466226576056669728132" lon="-90.25299698331158992914424744"/>
-  <node visible="true" id="-31" lat="29.94760310885449783313561056" lon="-90.25299974375455747122032335"/>
-  <node visible="true" id="-32" lat="29.94757778381649870880210074" lon="-90.25298076191234031284693629"/>
-  <node visible="true" id="-33" lat="29.94759707567705220299103530" lon="-90.25294647989619534200755879"/>
-  <node visible="true" id="-34" lat="29.94754417547648017716710456" lon="-90.25290682968675071151665179"/>
+  <node visible="true" id="-21" lat="29.94559148293433281651232392" lon="-90.25351166498724353459692793"/>
+  <node visible="true" id="-22" lat="29.94573252946905839166902297" lon="-90.25342050815648065054119797"/>
+  <node visible="true" id="-23" lat="29.94567523031573230696267274" lon="-90.25330361339014473287534202"/>
+  <node visible="true" id="-24" lat="29.94565769411621047879634716" lon="-90.25331517094141986490285490"/>
+  <node visible="true" id="-25" lat="29.94564221278858795471933263" lon="-90.25328392772621555195655674"/>
+  <node visible="true" id="-26" lat="29.94556323924426877169935324" lon="-90.25333514325529904454015195"/>
+  <node visible="true" id="-27" lat="29.94555738732049476880092698" lon="-90.25333875065670952153595863"/>
+  <node visible="true" id="-28" lat="29.94556230112690542455311515" lon="-90.25334857549182743241544813"/>
+  <node visible="true" id="-29" lat="29.94554842257347360146013671" lon="-90.25335805360440133426891407"/>
+  <node visible="true" id="-30" lat="29.94553304339193999794588308" lon="-90.25336805143795970707287779"/>
+  <node visible="true" id="-31" lat="29.94554977800817496813579055" lon="-90.25340172907574753935477929"/>
+  <node visible="true" id="-32" lat="29.94556548274594831582362531" lon="-90.25339248294784511017496698"/>
+  <node visible="true" id="-33" lat="29.94558852900427226018109650" lon="-90.25343899225353538895433303"/>
+  <node visible="true" id="-34" lat="29.94556384274503457731952949" lon="-90.25345527659804645281838020"/>
   <way visible="true" id="-3">
     <nd ref="-21"/>
     <nd ref="-22"/>
@@ -89,25 +91,25 @@
     <nd ref="-34"/>
     <nd ref="-21"/>
     <tag k="building" v="yes"/>
-    <tag k="addr:housenumber" v="9570"/>
-    <tag k="addr:street" v="Catalpa Loop"/>
+    <tag k="addr:housenumber" v="9563"/>
+    <tag k="addr:street" v="Sweet Bay Lane"/>
     <tag k="addr:city" v="Waggaman"/>
     <tag k="addr:postcode" v="70094"/>
   </way>
-  <node visible="true" id="-35" lat="29.94559148293433281651232392" lon="-90.25351166498724353459692793"/>
-  <node visible="true" id="-36" lat="29.94573252946905839166902297" lon="-90.25342050815648065054119797"/>
-  <node visible="true" id="-37" lat="29.94567523031573230696267274" lon="-90.25330361339014473287534202"/>
-  <node visible="true" id="-38" lat="29.94565769411621047879634716" lon="-90.25331517094141986490285490"/>
-  <node visible="true" id="-39" lat="29.94564221278858795471933263" lon="-90.25328392772621555195655674"/>
-  <node visible="true" id="-40" lat="29.94556323924426877169935324" lon="-90.25333514325529904454015195"/>
-  <node visible="true" id="-41" lat="29.94555738732049476880092698" lon="-90.25333875065670952153595863"/>
-  <node visible="true" id="-42" lat="29.94556230112690542455311515" lon="-90.25334857549182743241544813"/>
-  <node visible="true" id="-43" lat="29.94554842257347360146013671" lon="-90.25335805360440133426891407"/>
-  <node visible="true" id="-44" lat="29.94553304339193999794588308" lon="-90.25336805143795970707287779"/>
-  <node visible="true" id="-45" lat="29.94554977800817496813579055" lon="-90.25340172907574753935477929"/>
-  <node visible="true" id="-46" lat="29.94556548274594831582362531" lon="-90.25339248294784511017496698"/>
-  <node visible="true" id="-47" lat="29.94558852900427226018109650" lon="-90.25343899225353538895433303"/>
-  <node visible="true" id="-48" lat="29.94556384274503457731952949" lon="-90.25345527659804645281838020"/>
+  <node visible="true" id="-35" lat="29.94745533408378435069607804" lon="-90.25306470245197942858794704"/>
+  <node visible="true" id="-36" lat="29.94748072078660428019247775" lon="-90.25308373049034571522497572"/>
+  <node visible="true" id="-37" lat="29.94747189468261439060370321" lon="-90.25309941463341090184258064"/>
+  <node visible="true" id="-38" lat="29.94753867352110177080248832" lon="-90.25314946724502362940256717"/>
+  <node visible="true" id="-39" lat="29.94754776948495944566275284" lon="-90.25313330354534002708533080"/>
+  <node visible="true" id="-40" lat="29.94758232924749208336834272" lon="-90.25315920707180339377373457"/>
+  <node visible="true" id="-41" lat="29.94765583959051014062424656" lon="-90.25302857770303432971559232"/>
+  <node visible="true" id="-42" lat="29.94762576283609334382163070" lon="-90.25300603430164869678264949"/>
+  <node visible="true" id="-43" lat="29.94762308547037221728714940" lon="-90.25301079203501330994185992"/>
+  <node visible="true" id="-44" lat="29.94760466226576056669728132" lon="-90.25299698331158992914424744"/>
+  <node visible="true" id="-45" lat="29.94760310885449783313561056" lon="-90.25299974375455747122032335"/>
+  <node visible="true" id="-46" lat="29.94757778381649870880210074" lon="-90.25298076191234031284693629"/>
+  <node visible="true" id="-47" lat="29.94759707567705220299103530" lon="-90.25294647989619534200755879"/>
+  <node visible="true" id="-48" lat="29.94754417547648017716710456" lon="-90.25290682968675071151665179"/>
   <way visible="true" id="-4">
     <nd ref="-35"/>
     <nd ref="-36"/>
@@ -125,8 +127,8 @@
     <nd ref="-48"/>
     <nd ref="-35"/>
     <tag k="building" v="yes"/>
-    <tag k="addr:housenumber" v="9563"/>
-    <tag k="addr:street" v="Sweet Bay Lane"/>
+    <tag k="addr:housenumber" v="9570"/>
+    <tag k="addr:street" v="Catalpa Loop"/>
     <tag k="addr:city" v="Waggaman"/>
     <tag k="addr:postcode" v="70094"/>
   </way>

@@ -1,8 +1,10 @@
 <?xml version='1.0' encoding='utf8'?>
-<osm version="0.6" generator="AnonymousAlligator's import script">
-  <changeset_tag k="comment" v="Import buildings and addresses in Jefferson Parish, see https://wiki.openstreetmap.org/wiki/Import/Catalogue/Jefferson_Parish_Addresses_and_Buildings"/>
-  <changeset_tag k="source" v="Jefferson Parish Planning Department"/>
-  <changeset_tag k="source_file" v="8177_13526"/>
+<osm version="0.6" generator="AnonymousAlligator's import script" upload-changeset="-1">
+  <changeset id="-1">
+    <tag k="comment" v="Import buildings and addresses in Jefferson Parish, see https://wiki.openstreetmap.org/wiki/Import/Catalogue/Jefferson_Parish_Addresses_and_Buildings"/>
+    <tag k="source" v="Jefferson Parish Planning Department"/>
+    <tag k="source_file" v="change-8177_13526.osm"/>
+  </changeset>
   <node visible="true" id="-1" lat="29.92821610092019923854422814" lon="-90.15438367889086634932027664"/>
   <node visible="true" id="-2" lat="29.92834827647395812277864025" lon="-90.15430015344503544838516973"/>
   <node visible="true" id="-3" lat="29.92833973715367434920153755" lon="-90.15428216192552213215094525"/>
@@ -50,10 +52,10 @@
     <tag k="addr:city" v="Bridge City"/>
     <tag k="addr:postcode" v="70094"/>
   </way>
-  <node visible="true" id="-17" lat="29.92845250667255996290805342" lon="-90.15745255152386050667701056"/>
-  <node visible="true" id="-18" lat="29.92826714952883548903628252" lon="-90.15753603123607717861887068"/>
-  <node visible="true" id="-19" lat="29.92831352556519064478379732" lon="-90.15767313024713303093449213"/>
-  <node visible="true" id="-20" lat="29.92849888262248470027770963" lon="-90.15758965053491635899263201"/>
+  <node visible="true" id="-17" lat="29.93475521699457075897043978" lon="-90.16431091744875914173462661"/>
+  <node visible="true" id="-18" lat="29.93468774718681402191577945" lon="-90.16431756244956829959846800"/>
+  <node visible="true" id="-19" lat="29.93470219900668993773251714" lon="-90.16451295364778673047112534"/>
+  <node visible="true" id="-20" lat="29.93476966880453105090964527" lon="-90.16450630864697757260728395"/>
   <way visible="true" id="-3">
     <nd ref="-17"/>
     <nd ref="-18"/>
@@ -61,44 +63,44 @@
     <nd ref="-20"/>
     <nd ref="-17"/>
     <tag k="building" v="yes"/>
-    <tag k="addr:housenumber" v="701"/>
-    <tag k="addr:street" v="Seven Oaks Boulevard"/>
+    <tag k="addr:street" v="Lafitte Street"/>
     <tag k="addr:city" v="Bridge City"/>
     <tag k="addr:postcode" v="70094"/>
   </way>
-  <node visible="true" id="-21" lat="29.93475521699457075897043978" lon="-90.16431091744875914173462661"/>
-  <node visible="true" id="-22" lat="29.93468774718681402191577945" lon="-90.16431756244956829959846800"/>
-  <node visible="true" id="-23" lat="29.93470219900668993773251714" lon="-90.16451295364778673047112534"/>
-  <node visible="true" id="-24" lat="29.93476966880453105090964527" lon="-90.16450630864697757260728395"/>
+  <node visible="true" id="-21" lat="29.93464962748410940207577369" lon="-90.16423576417705021412984934"/>
+  <node visible="true" id="-22" lat="29.93472648406638469964491378" lon="-90.16423199242615282855695114"/>
+  <node visible="true" id="-23" lat="29.93472598024381881032240926" lon="-90.16417529896023097535362467"/>
+  <node visible="true" id="-24" lat="29.93471472889734386058080418" lon="-90.16417543076850904526509112"/>
+  <node visible="true" id="-25" lat="29.93452786314913538490145584" lon="-90.16418049026512449017900508"/>
+  <node visible="true" id="-26" lat="29.93452876237066817566301324" lon="-90.16428167882810384980984963"/>
+  <node visible="true" id="-27" lat="29.93464999098473455774183094" lon="-90.16427666949249442041036673"/>
   <way visible="true" id="-4">
     <nd ref="-21"/>
     <nd ref="-22"/>
     <nd ref="-23"/>
     <nd ref="-24"/>
+    <nd ref="-25"/>
+    <nd ref="-26"/>
+    <nd ref="-27"/>
     <nd ref="-21"/>
     <tag k="building" v="yes"/>
     <tag k="addr:street" v="Lafitte Street"/>
     <tag k="addr:city" v="Bridge City"/>
     <tag k="addr:postcode" v="70094"/>
   </way>
-  <node visible="true" id="-25" lat="29.93464962748410940207577369" lon="-90.16423576417705021412984934"/>
-  <node visible="true" id="-26" lat="29.93472648406638469964491378" lon="-90.16423199242615282855695114"/>
-  <node visible="true" id="-27" lat="29.93472598024381881032240926" lon="-90.16417529896023097535362467"/>
-  <node visible="true" id="-28" lat="29.93471472889734386058080418" lon="-90.16417543076850904526509112"/>
-  <node visible="true" id="-29" lat="29.93452786314913538490145584" lon="-90.16418049026512449017900508"/>
-  <node visible="true" id="-30" lat="29.93452876237066817566301324" lon="-90.16428167882810384980984963"/>
-  <node visible="true" id="-31" lat="29.93464999098473455774183094" lon="-90.16427666949249442041036673"/>
+  <node visible="true" id="-28" lat="29.92845250667255996290805342" lon="-90.15745255152386050667701056"/>
+  <node visible="true" id="-29" lat="29.92826714952883548903628252" lon="-90.15753603123607717861887068"/>
+  <node visible="true" id="-30" lat="29.92831352556519064478379732" lon="-90.15767313024713303093449213"/>
+  <node visible="true" id="-31" lat="29.92849888262248470027770963" lon="-90.15758965053491635899263201"/>
   <way visible="true" id="-5">
-    <nd ref="-25"/>
-    <nd ref="-26"/>
-    <nd ref="-27"/>
     <nd ref="-28"/>
     <nd ref="-29"/>
     <nd ref="-30"/>
     <nd ref="-31"/>
-    <nd ref="-25"/>
+    <nd ref="-28"/>
     <tag k="building" v="yes"/>
-    <tag k="addr:street" v="Lafitte Street"/>
+    <tag k="addr:housenumber" v="701"/>
+    <tag k="addr:street" v="Seven Oaks Boulevard"/>
     <tag k="addr:city" v="Bridge City"/>
     <tag k="addr:postcode" v="70094"/>
   </way>
@@ -259,58 +261,16 @@
     <tag k="addr:city" v="Bridge City"/>
     <tag k="addr:postcode" v="70094"/>
   </way>
-  <node visible="true" id="-72" lat="29.92979664034719178289378760" lon="-90.15993338892936037609615596">
-    <tag k="addr:housenumber" v="836"/>
-    <tag k="addr:street" v="Seven Oaks Boulevard"/>
-    <tag k="addr:city" v="Bridge City"/>
-    <tag k="addr:postcode" v="70094"/>
-  </node>
-  <node visible="true" id="-73" lat="29.93006929509691005364402372" lon="-90.15871365549114102577732410"/>
-  <node visible="true" id="-74" lat="29.92994770370692592109662655" lon="-90.15835284269421379121922655"/>
-  <node visible="true" id="-75" lat="29.92968725720060874095906911" lon="-90.15846970261691240011714399"/>
-  <node visible="true" id="-76" lat="29.92965042357407767781296570" lon="-90.15836040212744251221010927"/>
-  <node visible="true" id="-77" lat="29.92951496908430542021051224" lon="-90.15842117915256892501929542"/>
-  <node visible="true" id="-78" lat="29.92967339463459452986171527" lon="-90.15889129243898025833914289"/>
+  <node visible="true" id="-72" lat="29.93040886642446096743697126" lon="-90.16031660409240089393279050"/>
+  <node visible="true" id="-73" lat="29.93030758855487505343262455" lon="-90.16001711402125806671392638"/>
+  <node visible="true" id="-74" lat="29.93005481788712884849701368" lon="-90.16013092602905487638054183"/>
+  <node visible="true" id="-75" lat="29.93015609601395254912858945" lon="-90.16043041610019770359940594"/>
   <way visible="true" id="-12">
+    <nd ref="-72"/>
     <nd ref="-73"/>
     <nd ref="-74"/>
     <nd ref="-75"/>
-    <nd ref="-76"/>
-    <nd ref="-77"/>
-    <nd ref="-78"/>
-    <nd ref="-73"/>
-    <tag k="building" v="yes"/>
-    <tag k="addr:housenumber" v="850"/>
-    <tag k="addr:street" v="Seven Oaks Boulevard"/>
-    <tag k="addr:city" v="Bridge City"/>
-    <tag k="addr:postcode" v="70094"/>
-  </way>
-  <node visible="true" id="-79" lat="29.92909918062666108085068117" lon="-90.15966257297152708360954421"/>
-  <node visible="true" id="-80" lat="29.92894229282464380048622843" lon="-90.15974014648763557033817051"/>
-  <node visible="true" id="-81" lat="29.92899640747407374874455854" lon="-90.15988586297960694082576083"/>
-  <node visible="true" id="-82" lat="29.92915329519079747910836886" lon="-90.15980828946349845409713453"/>
-  <way visible="true" id="-13">
-    <nd ref="-79"/>
-    <nd ref="-80"/>
-    <nd ref="-81"/>
-    <nd ref="-82"/>
-    <nd ref="-79"/>
-    <tag k="building" v="yes"/>
-    <tag k="addr:housenumber" v="829.5"/>
-    <tag k="addr:street" v="Seven Oaks Boulevard"/>
-    <tag k="addr:city" v="Bridge City"/>
-    <tag k="addr:postcode" v="70094"/>
-  </way>
-  <node visible="true" id="-83" lat="29.93040886642446096743697126" lon="-90.16031660409240089393279050"/>
-  <node visible="true" id="-84" lat="29.93030758855487505343262455" lon="-90.16001711402125806671392638"/>
-  <node visible="true" id="-85" lat="29.93005481788712884849701368" lon="-90.16013092602905487638054183"/>
-  <node visible="true" id="-86" lat="29.93015609601395254912858945" lon="-90.16043041610019770359940594"/>
-  <way visible="true" id="-14">
-    <nd ref="-83"/>
-    <nd ref="-84"/>
-    <nd ref="-85"/>
-    <nd ref="-86"/>
-    <nd ref="-83"/>
+    <nd ref="-72"/>
     <tag k="building" v="yes"/>
     <tag k="addr:housenumber" v="900"/>
     <tag k="addr:street" v="Seven Oaks Boulevard"/>
@@ -318,10 +278,52 @@
     <tag k="addr:postcode" v="70094"/>
     <tag k="addr:unit" v="A"/>
   </way>
-  <node visible="true" id="-87" lat="29.92928662274253071018392802" lon="-90.15967915508230134946643375"/>
-  <node visible="true" id="-88" lat="29.92920839584990488901894423" lon="-90.15971585730908088862634031"/>
-  <node visible="true" id="-89" lat="29.92924248183589241989466245" lon="-90.15981258699771672127099009"/>
-  <node visible="true" id="-90" lat="29.92932070870179117605403007" lon="-90.15977588477090876040165313"/>
+  <node visible="true" id="-76" lat="29.92928662274253071018392802" lon="-90.15967915508230134946643375"/>
+  <node visible="true" id="-77" lat="29.92920839584990488901894423" lon="-90.15971585730908088862634031"/>
+  <node visible="true" id="-78" lat="29.92924248183589241989466245" lon="-90.15981258699771672127099009"/>
+  <node visible="true" id="-79" lat="29.92932070870179117605403007" lon="-90.15977588477090876040165313"/>
+  <way visible="true" id="-13">
+    <nd ref="-76"/>
+    <nd ref="-77"/>
+    <nd ref="-78"/>
+    <nd ref="-79"/>
+    <nd ref="-76"/>
+    <tag k="building" v="yes"/>
+    <tag k="addr:housenumber" v="829"/>
+    <tag k="addr:street" v="Seven Oaks Boulevard"/>
+    <tag k="addr:city" v="Bridge City"/>
+    <tag k="addr:postcode" v="70094"/>
+  </way>
+  <node visible="true" id="-80" lat="29.92979664034719178289378760" lon="-90.15993338892936037609615596">
+    <tag k="addr:housenumber" v="836"/>
+    <tag k="addr:street" v="Seven Oaks Boulevard"/>
+    <tag k="addr:city" v="Bridge City"/>
+    <tag k="addr:postcode" v="70094"/>
+  </node>
+  <node visible="true" id="-81" lat="29.93006929509691005364402372" lon="-90.15871365549114102577732410"/>
+  <node visible="true" id="-82" lat="29.92994770370692592109662655" lon="-90.15835284269421379121922655"/>
+  <node visible="true" id="-83" lat="29.92968725720060874095906911" lon="-90.15846970261691240011714399"/>
+  <node visible="true" id="-84" lat="29.92965042357407767781296570" lon="-90.15836040212744251221010927"/>
+  <node visible="true" id="-85" lat="29.92951496908430542021051224" lon="-90.15842117915256892501929542"/>
+  <node visible="true" id="-86" lat="29.92967339463459452986171527" lon="-90.15889129243898025833914289"/>
+  <way visible="true" id="-14">
+    <nd ref="-81"/>
+    <nd ref="-82"/>
+    <nd ref="-83"/>
+    <nd ref="-84"/>
+    <nd ref="-85"/>
+    <nd ref="-86"/>
+    <nd ref="-81"/>
+    <tag k="building" v="yes"/>
+    <tag k="addr:housenumber" v="850"/>
+    <tag k="addr:street" v="Seven Oaks Boulevard"/>
+    <tag k="addr:city" v="Bridge City"/>
+    <tag k="addr:postcode" v="70094"/>
+  </way>
+  <node visible="true" id="-87" lat="29.92909918062666108085068117" lon="-90.15966257297152708360954421"/>
+  <node visible="true" id="-88" lat="29.92894229282464380048622843" lon="-90.15974014648763557033817051"/>
+  <node visible="true" id="-89" lat="29.92899640747407374874455854" lon="-90.15988586297960694082576083"/>
+  <node visible="true" id="-90" lat="29.92915329519079747910836886" lon="-90.15980828946349845409713453"/>
   <way visible="true" id="-15">
     <nd ref="-87"/>
     <nd ref="-88"/>
@@ -329,7 +331,7 @@
     <nd ref="-90"/>
     <nd ref="-87"/>
     <tag k="building" v="yes"/>
-    <tag k="addr:housenumber" v="829"/>
+    <tag k="addr:housenumber" v="829.5"/>
     <tag k="addr:street" v="Seven Oaks Boulevard"/>
     <tag k="addr:city" v="Bridge City"/>
     <tag k="addr:postcode" v="70094"/>

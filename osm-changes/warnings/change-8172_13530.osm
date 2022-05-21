@@ -1,8 +1,10 @@
 <?xml version='1.0' encoding='utf8'?>
-<osm version="0.6" generator="AnonymousAlligator's import script">
-  <changeset_tag k="comment" v="Import buildings and addresses in Jefferson Parish, see https://wiki.openstreetmap.org/wiki/Import/Catalogue/Jefferson_Parish_Addresses_and_Buildings"/>
-  <changeset_tag k="source" v="Jefferson Parish Planning Department"/>
-  <changeset_tag k="source_file" v="8172_13530"/>
+<osm version="0.6" generator="AnonymousAlligator's import script" upload-changeset="-1">
+  <changeset id="-1">
+    <tag k="comment" v="Import buildings and addresses in Jefferson Parish, see https://wiki.openstreetmap.org/wiki/Import/Catalogue/Jefferson_Parish_Addresses_and_Buildings"/>
+    <tag k="source" v="Jefferson Parish Planning Department"/>
+    <tag k="source_file" v="change-8172_13530.osm"/>
+  </changeset>
   <node visible="true" id="-1" lat="29.89303735515189686111625633" lon="-90.21261584257460697244823677"/>
   <node visible="true" id="-2" lat="29.89306633378204836049008009" lon="-90.21260450674951414384850068"/>
   <node visible="true" id="-3" lat="29.89305912839020962223912647" lon="-90.21257999992414511325478088"/>
@@ -536,38 +538,38 @@
     <tag k="addr:city" v="Avondale"/>
     <tag k="addr:postcode" v="70094"/>
   </way>
-  <node visible="true" id="-190" lat="29.89248594934704073011744185" lon="-90.21123216558774515760887880"/>
-  <node visible="true" id="-191" lat="29.89233899667325289328800864" lon="-90.21128440356423539014940616"/>
-  <node visible="true" id="-192" lat="29.89234407363792556111548038" lon="-90.21130340533605362907110248"/>
-  <node visible="true" id="-193" lat="29.89231435808322956404481374" lon="-90.21131396845893846148101147"/>
-  <node visible="true" id="-194" lat="29.89234273767446836700401036" lon="-90.21142018594949263388116378"/>
-  <node visible="true" id="-195" lat="29.89251940584518152377313527" lon="-90.21135738485008914722129703"/>
+  <node visible="true" id="-190" lat="29.89255571386586041171540273" lon="-90.21198218247937461455876473"/>
+  <node visible="true" id="-191" lat="29.89242247687539588696381543" lon="-90.21203033553116767961910227"/>
+  <node visible="true" id="-192" lat="29.89247371677473097406618763" lon="-90.21221896470996171046863310"/>
+  <node visible="true" id="-193" lat="29.89260695369670273180418008" lon="-90.21217081165816864540829556"/>
   <way visible="true" id="-20">
     <nd ref="-190"/>
     <nd ref="-191"/>
     <nd ref="-192"/>
     <nd ref="-193"/>
-    <nd ref="-194"/>
-    <nd ref="-195"/>
     <nd ref="-190"/>
     <tag k="building" v="yes"/>
-    <tag k="addr:housenumber" v="129"/>
+    <tag k="addr:housenumber" v="149"/>
     <tag k="addr:street" v="Andre Dung Lac Drive"/>
     <tag k="addr:city" v="Avondale"/>
     <tag k="addr:postcode" v="70094"/>
   </way>
-  <node visible="true" id="-196" lat="29.89255571386586041171540273" lon="-90.21198218247937461455876473"/>
-  <node visible="true" id="-197" lat="29.89242247687539588696381543" lon="-90.21203033553116767961910227"/>
-  <node visible="true" id="-198" lat="29.89247371677473097406618763" lon="-90.21221896470996171046863310"/>
-  <node visible="true" id="-199" lat="29.89260695369670273180418008" lon="-90.21217081165816864540829556"/>
+  <node visible="true" id="-194" lat="29.89248594934704073011744185" lon="-90.21123216558774515760887880"/>
+  <node visible="true" id="-195" lat="29.89233899667325289328800864" lon="-90.21128440356423539014940616"/>
+  <node visible="true" id="-196" lat="29.89234407363792556111548038" lon="-90.21130340533605362907110248"/>
+  <node visible="true" id="-197" lat="29.89231435808322956404481374" lon="-90.21131396845893846148101147"/>
+  <node visible="true" id="-198" lat="29.89234273767446836700401036" lon="-90.21142018594949263388116378"/>
+  <node visible="true" id="-199" lat="29.89251940584518152377313527" lon="-90.21135738485008914722129703"/>
   <way visible="true" id="-21">
+    <nd ref="-194"/>
+    <nd ref="-195"/>
     <nd ref="-196"/>
     <nd ref="-197"/>
     <nd ref="-198"/>
     <nd ref="-199"/>
-    <nd ref="-196"/>
+    <nd ref="-194"/>
     <tag k="building" v="yes"/>
-    <tag k="addr:housenumber" v="149"/>
+    <tag k="addr:housenumber" v="129"/>
     <tag k="addr:street" v="Andre Dung Lac Drive"/>
     <tag k="addr:city" v="Avondale"/>
     <tag k="addr:postcode" v="70094"/>

@@ -1,21 +1,16 @@
 <?xml version='1.0' encoding='utf8'?>
-<osm version="0.6" generator="AnonymousAlligator's import script">
-  <changeset_tag k="comment" v="Import buildings and addresses in Jefferson Parish, see https://wiki.openstreetmap.org/wiki/Import/Catalogue/Jefferson_Parish_Addresses_and_Buildings"/>
-  <changeset_tag k="source" v="Jefferson Parish Planning Department"/>
-  <changeset_tag k="source_file" v="8168_13517"/>
-  <node visible="true" id="-1" lat="30.01792211264050180830054160" lon="-90.25353966971138675035035703"/>
-  <node visible="true" id="-2" lat="30.01792489519393214436604467" lon="-90.25365025928995521553588333"/>
-  <node visible="true" id="-3" lat="30.01807675964193578010963392" lon="-90.25364574220921554115193430"/>
-  <node visible="true" id="-4" lat="30.01807437171027714839510736" lon="-90.25358327412277503754012287"/>
-  <node visible="true" id="-5" lat="30.01807062157863725815332145" lon="-90.25358331472975237375067081"/>
-  <node visible="true" id="-6" lat="30.01806804513269000267428055" lon="-90.25349786340258617656218121"/>
-  <node visible="true" id="-7" lat="30.01801617753869777516229078" lon="-90.25349986198028773287660442"/>
-  <node visible="true" id="-8" lat="30.01800109952828421455706120" lon="-90.25349068642388772332196822"/>
-  <node visible="true" id="-9" lat="30.01800039279266485436892253" lon="-90.25348063782648466712998925"/>
-  <node visible="true" id="-10" lat="30.01798845742373345046871691" lon="-90.25347358463362468228297075"/>
-  <node visible="true" id="-11" lat="30.01797721880355496182346542" lon="-90.25347514220567290976759978"/>
-  <node visible="true" id="-12" lat="30.01789052535569979340834834" lon="-90.25342292602528004863415845"/>
-  <node visible="true" id="-13" lat="30.01785677749017722248936479" lon="-90.25350015121543378882051911"/>
+<osm version="0.6" generator="AnonymousAlligator's import script" upload-changeset="-1">
+  <changeset id="-1">
+    <tag k="comment" v="Import buildings and addresses in Jefferson Parish, see https://wiki.openstreetmap.org/wiki/Import/Catalogue/Jefferson_Parish_Addresses_and_Buildings"/>
+    <tag k="source" v="Jefferson Parish Planning Department"/>
+    <tag k="source_file" v="change-8168_13517.osm"/>
+  </changeset>
+  <node visible="true" id="-1" lat="30.01851107759364722937789338" lon="-90.25377367051100918615702540"/>
+  <node visible="true" id="-2" lat="30.01846071904168766764087195" lon="-90.25377545648160548807936721"/>
+  <node visible="true" id="-3" lat="30.01845982461717809997026052" lon="-90.25374181745644364127656445"/>
+  <node visible="true" id="-4" lat="30.01831489405979169760030345" lon="-90.25374695742665664965898031"/>
+  <node visible="true" id="-5" lat="30.01831832851519621385705250" lon="-90.25387612593640085378865479"/>
+  <node visible="true" id="-6" lat="30.01851361761738701261492679" lon="-90.25386919999560575433861231"/>
   <way visible="true" id="-1">
     <nd ref="-1"/>
     <nd ref="-2"/>
@@ -23,72 +18,79 @@
     <nd ref="-4"/>
     <nd ref="-5"/>
     <nd ref="-6"/>
-    <nd ref="-7"/>
-    <nd ref="-8"/>
-    <nd ref="-9"/>
-    <nd ref="-10"/>
-    <nd ref="-11"/>
-    <nd ref="-12"/>
-    <nd ref="-13"/>
     <nd ref="-1"/>
-    <tag k="building" v="yes"/>
-    <tag k="addr:housenumber" v="1017"/>
-    <tag k="addr:street" v="Cheval Place"/>
-    <tag k="addr:city" v="Kenner"/>
-    <tag k="addr:postcode" v="70065"/>
-  </way>
-  <node visible="true" id="-14" lat="30.01809819597290029946634604" lon="-90.25419770981278588806162588"/>
-  <node visible="true" id="-15" lat="30.01809389515418757810039097" lon="-90.25406240958714931821305072"/>
-  <node visible="true" id="-16" lat="30.01792616125846180352709780" lon="-90.25406952123506698626442812"/>
-  <node visible="true" id="-17" lat="30.01792946485848290194553556" lon="-90.25417344960482068927376531"/>
-  <node visible="true" id="-18" lat="30.01794913057561231539693836" lon="-90.25417261581056038721726509"/>
-  <node visible="true" id="-19" lat="30.01795012780141291841573548" lon="-90.25420398766645746491121827"/>
-  <way visible="true" id="-2">
-    <nd ref="-14"/>
-    <nd ref="-15"/>
-    <nd ref="-16"/>
-    <nd ref="-17"/>
-    <nd ref="-18"/>
-    <nd ref="-19"/>
-    <nd ref="-14"/>
-    <tag k="building" v="yes"/>
-    <tag k="addr:housenumber" v="1005"/>
-    <tag k="addr:street" v="Cheval Place"/>
-    <tag k="addr:city" v="Kenner"/>
-    <tag k="addr:postcode" v="70065"/>
-  </way>
-  <node visible="true" id="-20" lat="30.01851107759364722937789338" lon="-90.25377367051100918615702540"/>
-  <node visible="true" id="-21" lat="30.01846071904168766764087195" lon="-90.25377545648160548807936721"/>
-  <node visible="true" id="-22" lat="30.01845982461717809997026052" lon="-90.25374181745644364127656445"/>
-  <node visible="true" id="-23" lat="30.01831489405979169760030345" lon="-90.25374695742665664965898031"/>
-  <node visible="true" id="-24" lat="30.01831832851519621385705250" lon="-90.25387612593640085378865479"/>
-  <node visible="true" id="-25" lat="30.01851361761738701261492679" lon="-90.25386919999560575433861231"/>
-  <way visible="true" id="-3">
-    <nd ref="-20"/>
-    <nd ref="-21"/>
-    <nd ref="-22"/>
-    <nd ref="-23"/>
-    <nd ref="-24"/>
-    <nd ref="-25"/>
-    <nd ref="-20"/>
     <tag k="building" v="yes"/>
     <tag k="addr:housenumber" v="1012"/>
     <tag k="addr:street" v="Cheval Place"/>
     <tag k="addr:city" v="Kenner"/>
     <tag k="addr:postcode" v="70065"/>
   </way>
-  <node visible="true" id="-26" lat="30.01832879240174634105642326" lon="-90.25413612967773246964497957"/>
-  <node visible="true" id="-27" lat="30.01833288168759850123024080" lon="-90.25428943772720913329976611"/>
-  <node visible="true" id="-28" lat="30.01850599345209857915506291" lon="-90.25428327874838885236385977"/>
-  <node visible="true" id="-29" lat="30.01850190417340513704402838" lon="-90.25412997069891218870907323"/>
+  <node visible="true" id="-7" lat="30.01809819597290029946634604" lon="-90.25419770981278588806162588"/>
+  <node visible="true" id="-8" lat="30.01809389515418757810039097" lon="-90.25406240958714931821305072"/>
+  <node visible="true" id="-9" lat="30.01792616125846180352709780" lon="-90.25406952123506698626442812"/>
+  <node visible="true" id="-10" lat="30.01792946485848290194553556" lon="-90.25417344960482068927376531"/>
+  <node visible="true" id="-11" lat="30.01794913057561231539693836" lon="-90.25417261581056038721726509"/>
+  <node visible="true" id="-12" lat="30.01795012780141291841573548" lon="-90.25420398766645746491121827"/>
+  <way visible="true" id="-2">
+    <nd ref="-7"/>
+    <nd ref="-8"/>
+    <nd ref="-9"/>
+    <nd ref="-10"/>
+    <nd ref="-11"/>
+    <nd ref="-12"/>
+    <nd ref="-7"/>
+    <tag k="building" v="yes"/>
+    <tag k="addr:housenumber" v="1005"/>
+    <tag k="addr:street" v="Cheval Place"/>
+    <tag k="addr:city" v="Kenner"/>
+    <tag k="addr:postcode" v="70065"/>
+  </way>
+  <node visible="true" id="-13" lat="30.01832879240174634105642326" lon="-90.25413612967773246964497957"/>
+  <node visible="true" id="-14" lat="30.01833288168759850123024080" lon="-90.25428943772720913329976611"/>
+  <node visible="true" id="-15" lat="30.01850599345209857915506291" lon="-90.25428327874838885236385977"/>
+  <node visible="true" id="-16" lat="30.01850190417340513704402838" lon="-90.25412997069891218870907323"/>
+  <way visible="true" id="-3">
+    <nd ref="-13"/>
+    <nd ref="-14"/>
+    <nd ref="-15"/>
+    <nd ref="-16"/>
+    <nd ref="-13"/>
+    <tag k="building" v="yes"/>
+    <tag k="addr:housenumber" v="1004"/>
+    <tag k="addr:street" v="Cheval Place"/>
+    <tag k="addr:city" v="Kenner"/>
+    <tag k="addr:postcode" v="70065"/>
+  </way>
+  <node visible="true" id="-17" lat="30.01792211264050180830054160" lon="-90.25353966971138675035035703"/>
+  <node visible="true" id="-18" lat="30.01792489519393214436604467" lon="-90.25365025928995521553588333"/>
+  <node visible="true" id="-19" lat="30.01807675964193578010963392" lon="-90.25364574220921554115193430"/>
+  <node visible="true" id="-20" lat="30.01807437171027714839510736" lon="-90.25358327412277503754012287"/>
+  <node visible="true" id="-21" lat="30.01807062157863725815332145" lon="-90.25358331472975237375067081"/>
+  <node visible="true" id="-22" lat="30.01806804513269000267428055" lon="-90.25349786340258617656218121"/>
+  <node visible="true" id="-23" lat="30.01801617753869777516229078" lon="-90.25349986198028773287660442"/>
+  <node visible="true" id="-24" lat="30.01800109952828421455706120" lon="-90.25349068642388772332196822"/>
+  <node visible="true" id="-25" lat="30.01800039279266485436892253" lon="-90.25348063782648466712998925"/>
+  <node visible="true" id="-26" lat="30.01798845742373345046871691" lon="-90.25347358463362468228297075"/>
+  <node visible="true" id="-27" lat="30.01797721880355496182346542" lon="-90.25347514220567290976759978"/>
+  <node visible="true" id="-28" lat="30.01789052535569979340834834" lon="-90.25342292602528004863415845"/>
+  <node visible="true" id="-29" lat="30.01785677749017722248936479" lon="-90.25350015121543378882051911"/>
   <way visible="true" id="-4">
+    <nd ref="-17"/>
+    <nd ref="-18"/>
+    <nd ref="-19"/>
+    <nd ref="-20"/>
+    <nd ref="-21"/>
+    <nd ref="-22"/>
+    <nd ref="-23"/>
+    <nd ref="-24"/>
+    <nd ref="-25"/>
     <nd ref="-26"/>
     <nd ref="-27"/>
     <nd ref="-28"/>
     <nd ref="-29"/>
-    <nd ref="-26"/>
+    <nd ref="-17"/>
     <tag k="building" v="yes"/>
-    <tag k="addr:housenumber" v="1004"/>
+    <tag k="addr:housenumber" v="1017"/>
     <tag k="addr:street" v="Cheval Place"/>
     <tag k="addr:city" v="Kenner"/>
     <tag k="addr:postcode" v="70065"/>

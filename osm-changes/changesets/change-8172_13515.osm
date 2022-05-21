@@ -1,8 +1,10 @@
 <?xml version='1.0' encoding='utf8'?>
-<osm version="0.6" generator="AnonymousAlligator's import script">
-  <changeset_tag k="comment" v="Import buildings and addresses in Jefferson Parish, see https://wiki.openstreetmap.org/wiki/Import/Catalogue/Jefferson_Parish_Addresses_and_Buildings"/>
-  <changeset_tag k="source" v="Jefferson Parish Planning Department"/>
-  <changeset_tag k="source_file" v="8172_13515"/>
+<osm version="0.6" generator="AnonymousAlligator's import script" upload-changeset="-1">
+  <changeset id="-1">
+    <tag k="comment" v="Import buildings and addresses in Jefferson Parish, see https://wiki.openstreetmap.org/wiki/Import/Catalogue/Jefferson_Parish_Addresses_and_Buildings"/>
+    <tag k="source" v="Jefferson Parish Planning Department"/>
+    <tag k="source_file" v="change-8172_13515.osm"/>
+  </changeset>
   <node visible="true" id="-1" lat="30.03158494060273042691733281" lon="-90.21936397688504882808047114"/>
   <node visible="true" id="-2" lat="30.03157445398972313910235243" lon="-90.21940313552244106176658534"/>
   <node visible="true" id="-3" lat="30.03153570609533673518853902" lon="-90.21938929122299555274366867"/>
@@ -549,10 +551,10 @@
     <tag k="addr:city" v="Metairie"/>
     <tag k="addr:postcode" v="70003"/>
   </way>
-  <node visible="true" id="-206" lat="30.03175431278060969475518505" lon="-90.21880140295884586976171704"/>
-  <node visible="true" id="-207" lat="30.03170450993150097929174080" lon="-90.21877525873354386476421496"/>
-  <node visible="true" id="-208" lat="30.03167706906344847084255889" lon="-90.21884500046303401177283376"/>
-  <node visible="true" id="-209" lat="30.03172687192637724251653708" lon="-90.21887114468832180591562064"/>
+  <node visible="true" id="-206" lat="30.03106363822152147236010933" lon="-90.21913004254213319654809311"/>
+  <node visible="true" id="-207" lat="30.03105670147125749736005673" lon="-90.21915364832186412513692630"/>
+  <node visible="true" id="-208" lat="30.03108347307270520332167507" lon="-90.21916414429867359103809576"/>
+  <node visible="true" id="-209" lat="30.03109040982107913464460580" lon="-90.21914053851891424073983217"/>
   <way visible="true" id="-18">
     <nd ref="-206"/>
     <nd ref="-207"/>
@@ -560,16 +562,11 @@
     <nd ref="-209"/>
     <nd ref="-206"/>
     <tag k="building" v="yes"/>
-    <tag k="addr:housenumber" v="5413"/>
-    <tag k="addr:street" v="Caryota Drive"/>
-    <tag k="addr:city" v="Metairie"/>
-    <tag k="addr:postcode" v="70003"/>
-    <tag k="addr:unit" v="A"/>
   </way>
-  <node visible="true" id="-210" lat="30.03106363822152147236010933" lon="-90.21913004254213319654809311"/>
-  <node visible="true" id="-211" lat="30.03105670147125749736005673" lon="-90.21915364832186412513692630"/>
-  <node visible="true" id="-212" lat="30.03108347307270520332167507" lon="-90.21916414429867359103809576"/>
-  <node visible="true" id="-213" lat="30.03109040982107913464460580" lon="-90.21914053851891424073983217"/>
+  <node visible="true" id="-210" lat="30.03175431278060969475518505" lon="-90.21880140295884586976171704"/>
+  <node visible="true" id="-211" lat="30.03170450993150097929174080" lon="-90.21877525873354386476421496"/>
+  <node visible="true" id="-212" lat="30.03167706906344847084255889" lon="-90.21884500046303401177283376"/>
+  <node visible="true" id="-213" lat="30.03172687192637724251653708" lon="-90.21887114468832180591562064"/>
   <way visible="true" id="-19">
     <nd ref="-210"/>
     <nd ref="-211"/>
@@ -577,6 +574,11 @@
     <nd ref="-213"/>
     <nd ref="-210"/>
     <tag k="building" v="yes"/>
+    <tag k="addr:housenumber" v="5413"/>
+    <tag k="addr:street" v="Caryota Drive"/>
+    <tag k="addr:city" v="Metairie"/>
+    <tag k="addr:postcode" v="70003"/>
+    <tag k="addr:unit" v="A"/>
   </way>
   <node visible="true" id="-214" lat="30.03132529542592266125211609" lon="-90.21906296902587030217546271"/>
   <node visible="true" id="-215" lat="30.03126299250684283492773829" lon="-90.21903309988044838974019513"/>

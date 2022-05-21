@@ -1,8 +1,10 @@
 <?xml version='1.0' encoding='utf8'?>
-<osm version="0.6" generator="AnonymousAlligator's import script">
-  <changeset_tag k="comment" v="Import buildings and addresses in Jefferson Parish, see https://wiki.openstreetmap.org/wiki/Import/Catalogue/Jefferson_Parish_Addresses_and_Buildings"/>
-  <changeset_tag k="source" v="Jefferson Parish Planning Department"/>
-  <changeset_tag k="source_file" v="8177_13517"/>
+<osm version="0.6" generator="AnonymousAlligator's import script" upload-changeset="-1">
+  <changeset id="-1">
+    <tag k="comment" v="Import buildings and addresses in Jefferson Parish, see https://wiki.openstreetmap.org/wiki/Import/Catalogue/Jefferson_Parish_Addresses_and_Buildings"/>
+    <tag k="source" v="Jefferson Parish Planning Department"/>
+    <tag k="source_file" v="change-8177_13517.osm"/>
+  </changeset>
   <node visible="true" id="-1" lat="30.01657307728359924681171833" lon="-90.15408094803997585131583037"/>
   <node visible="true" id="-2" lat="30.01658177981648378818135825" lon="-90.15436924190946399448876036"/>
   <node visible="true" id="-3" lat="30.01671332365145872245193459" lon="-90.15436394570242839563434245"/>
@@ -187,19 +189,19 @@
     <tag k="addr:postcode" v="70002"/>
     <tag k="addr:unit" v="700"/>
   </node>
-  <node visible="true" id="-29" lat="30.01342053657821651313497568" lon="-90.15412451588846920458308887">
-    <tag k="addr:housenumber" v="3525"/>
-    <tag k="addr:street" v="North Causeway Boulevard East"/>
-    <tag k="addr:city" v="Metairie"/>
-    <tag k="addr:postcode" v="70002"/>
-    <tag k="addr:unit" v="719"/>
-  </node>
-  <node visible="true" id="-30" lat="30.01334432484378567096428014" lon="-90.15417176220350370385858696">
+  <node visible="true" id="-29" lat="30.01334432484378567096428014" lon="-90.15417176220350370385858696">
     <tag k="addr:housenumber" v="3525"/>
     <tag k="addr:street" v="North Causeway Boulevard East"/>
     <tag k="addr:city" v="Metairie"/>
     <tag k="addr:postcode" v="70002"/>
     <tag k="addr:unit" v="105"/>
+  </node>
+  <node visible="true" id="-30" lat="30.01342053657821651313497568" lon="-90.15412451588846920458308887">
+    <tag k="addr:housenumber" v="3525"/>
+    <tag k="addr:street" v="North Causeway Boulevard East"/>
+    <tag k="addr:city" v="Metairie"/>
+    <tag k="addr:postcode" v="70002"/>
+    <tag k="addr:unit" v="719"/>
   </node>
   <node visible="true" id="-31" lat="30.01361732160893680543267692" lon="-90.15402949738303561844077194">
     <tag k="addr:housenumber" v="3525"/>
@@ -976,26 +978,26 @@
     <tag k="addr:postcode" v="70002"/>
     <tag k="addr:unit" v="306"/>
   </node>
-  <node visible="true" id="-191" lat="30.01335338759155035859294003" lon="-90.15428288538015522135538049">
-    <tag k="addr:housenumber" v="3525"/>
-    <tag k="addr:street" v="North Causeway Boulevard East"/>
-    <tag k="addr:city" v="Metairie"/>
-    <tag k="addr:postcode" v="70002"/>
-    <tag k="addr:unit" v="406"/>
-  </node>
-  <node visible="true" id="-192" lat="30.01338585841302375456507434" lon="-90.15430567454357912993145874">
+  <node visible="true" id="-191" lat="30.01338585841302375456507434" lon="-90.15430567454357912993145874">
     <tag k="addr:housenumber" v="3525"/>
     <tag k="addr:street" v="North Causeway Boulevard East"/>
     <tag k="addr:city" v="Metairie"/>
     <tag k="addr:postcode" v="70002"/>
     <tag k="addr:unit" v="750"/>
   </node>
-  <node visible="true" id="-193" lat="30.01260206098679361730319215" lon="-90.15385864696220608038856881">
+  <node visible="true" id="-192" lat="30.01260206098679361730319215" lon="-90.15385864696220608038856881">
     <tag k="addr:housenumber" v="3501"/>
     <tag k="addr:street" v="North Causeway Boulevard East"/>
     <tag k="addr:city" v="Metairie"/>
     <tag k="addr:postcode" v="70002"/>
     <tag k="addr:unit" v="350"/>
+  </node>
+  <node visible="true" id="-193" lat="30.01335338759155035859294003" lon="-90.15428288538015522135538049">
+    <tag k="addr:housenumber" v="3525"/>
+    <tag k="addr:street" v="North Causeway Boulevard East"/>
+    <tag k="addr:city" v="Metairie"/>
+    <tag k="addr:postcode" v="70002"/>
+    <tag k="addr:unit" v="406"/>
   </node>
   <node visible="true" id="-194" lat="30.01364384415682096118871414" lon="-90.15428872021553274862526450">
     <tag k="addr:housenumber" v="3525"/>
@@ -1024,19 +1026,19 @@
     <tag k="addr:postcode" v="70002"/>
     <tag k="addr:unit" v="T"/>
   </node>
-  <node visible="true" id="-198" lat="30.01360711773343226127508387" lon="-90.15445335267389737055054866">
-    <tag k="addr:housenumber" v="3525"/>
-    <tag k="addr:street" v="North Causeway Boulevard East"/>
-    <tag k="addr:city" v="Metairie"/>
-    <tag k="addr:postcode" v="70002"/>
-    <tag k="addr:unit" v="900"/>
-  </node>
-  <node visible="true" id="-199" lat="30.01637174549952291613408306" lon="-90.15440274301229806042101700">
+  <node visible="true" id="-198" lat="30.01637174549952291613408306" lon="-90.15440274301229806042101700">
     <tag k="addr:housenumber" v="3701"/>
     <tag k="addr:street" v="North Causeway Boulevard East"/>
     <tag k="addr:city" v="Metairie"/>
     <tag k="addr:postcode" v="70002"/>
     <tag k="addr:unit" v="CELL TOWER"/>
+  </node>
+  <node visible="true" id="-199" lat="30.01360711773343226127508387" lon="-90.15445335267389737055054866">
+    <tag k="addr:housenumber" v="3525"/>
+    <tag k="addr:street" v="North Causeway Boulevard East"/>
+    <tag k="addr:city" v="Metairie"/>
+    <tag k="addr:postcode" v="70002"/>
+    <tag k="addr:unit" v="900"/>
   </node>
   <node visible="true" id="-200" lat="30.01695404560030766560885240" lon="-90.15508989096252889794413932">
     <tag k="addr:housenumber" v="3748"/>

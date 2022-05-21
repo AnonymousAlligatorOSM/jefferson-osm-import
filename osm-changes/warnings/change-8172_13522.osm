@@ -1,8 +1,10 @@
 <?xml version='1.0' encoding='utf8'?>
-<osm version="0.6" generator="AnonymousAlligator's import script">
-  <changeset_tag k="comment" v="Import buildings and addresses in Jefferson Parish, see https://wiki.openstreetmap.org/wiki/Import/Catalogue/Jefferson_Parish_Addresses_and_Buildings"/>
-  <changeset_tag k="source" v="Jefferson Parish Planning Department"/>
-  <changeset_tag k="source_file" v="8172_13522"/>
+<osm version="0.6" generator="AnonymousAlligator's import script" upload-changeset="-1">
+  <changeset id="-1">
+    <tag k="comment" v="Import buildings and addresses in Jefferson Parish, see https://wiki.openstreetmap.org/wiki/Import/Catalogue/Jefferson_Parish_Addresses_and_Buildings"/>
+    <tag k="source" v="Jefferson Parish Planning Department"/>
+    <tag k="source_file" v="change-8172_13522.osm"/>
+  </changeset>
   <node visible="true" id="-1" lat="29.96653152362445382550504291" lon="-90.21801340592176643440325279"/>
   <node visible="true" id="-2" lat="29.96663407284176017242316448" lon="-90.21814117376993635843973607"/>
   <node visible="true" id="-3" lat="29.96675465492056744665205770" lon="-90.21801221809052151456853608"/>
@@ -243,18 +245,35 @@
     <tag k="addr:city" v="River Ridge"/>
     <tag k="addr:postcode" v="70123"/>
   </way>
-  <node visible="true" id="-85" lat="29.96499157487177811276524153" lon="-90.20957838632595837680128170"/>
-  <node visible="true" id="-86" lat="29.96501503716057257520333224" lon="-90.20960892652686879955581389"/>
-  <node visible="true" id="-87" lat="29.96499537627455467259096622" lon="-90.20962905144976673454948468"/>
-  <node visible="true" id="-88" lat="29.96506962590306244464954943" lon="-90.20972570012965263686055550"/>
-  <node visible="true" id="-89" lat="29.96509142301983175116220082" lon="-90.20970338853972236847766908"/>
-  <node visible="true" id="-90" lat="29.96511363478331801957210700" lon="-90.20973230099593820341397077"/>
-  <node visible="true" id="-91" lat="29.96516782341156215352384606" lon="-90.20967683333030606718239142"/>
-  <node visible="true" id="-92" lat="29.96514422382037068359750265" lon="-90.20964611435945812445424963"/>
-  <node visible="true" id="-93" lat="29.96516889301922148547419056" lon="-90.20962086287889292179897893"/>
-  <node visible="true" id="-94" lat="29.96509594659226038970700756" lon="-90.20952591044479618176410440"/>
-  <node visible="true" id="-95" lat="29.96506901196865513270495285" lon="-90.20955348080170210778305773"/>
-  <node visible="true" id="-96" lat="29.96504563440581492272940523" lon="-90.20952305086962041968945414"/>
+  <node visible="true" id="-85" lat="29.96538319477249601163748594" lon="-90.21689027824538698041578755"/>
+  <node visible="true" id="-86" lat="29.96537894948042790588260686" lon="-90.21689801286863996665488230"/>
+  <node visible="true" id="-87" lat="29.96539180485924092067762103" lon="-90.21690741419776315979106585"/>
+  <node visible="true" id="-88" lat="29.96536038038341587252944009" lon="-90.21696466737708419714181218"/>
+  <node visible="true" id="-89" lat="29.96543451056179918623456615" lon="-90.21701887988211865376797505"/>
+  <node visible="true" id="-90" lat="29.96546979221703566054202383" lon="-90.21695459914465686779294629"/>
+  <node visible="true" id="-91" lat="29.96548510034089929376932560" lon="-90.21696579421295325573737500"/>
+  <node visible="true" id="-92" lat="29.96548711404108900069331867" lon="-90.21696212538908810074644862"/>
+  <node visible="true" id="-93" lat="29.96554222798840072528037126" lon="-90.21700243108827521609782707"/>
+  <node visible="true" id="-94" lat="29.96555574970263791101388051" lon="-90.21697779543546857894398272"/>
+  <node visible="true" id="-95" lat="29.96557216226062436703614367" lon="-90.21698979820401120832684683"/>
+  <node visible="true" id="-96" lat="29.96560272365718802234368923" lon="-90.21693411737587098286894616"/>
+  <node visible="true" id="-97" lat="29.96558595419573123308509821" lon="-90.21692185359430027347116265"/>
+  <node visible="true" id="-98" lat="29.96561737354112509024162136" lon="-90.21686460963235276722116396"/>
+  <node visible="true" id="-99" lat="29.96556116171572270445722097" lon="-90.21682350100672920234501362"/>
+  <node visible="true" id="-100" lat="29.96556264725992235753437853" lon="-90.21682176045911205619631801"/>
+  <node visible="true" id="-101" lat="29.96552773886763887389861338" lon="-90.21679623139328896286315285"/>
+  <node visible="true" id="-102" lat="29.96552961800716730067506433" lon="-90.21679280772826814427389763"/>
+  <node visible="true" id="-103" lat="29.96550356105443668752741360" lon="-90.21677375186726521860691719"/>
+  <node visible="true" id="-104" lat="29.96550345808792314983293181" lon="-90.21676161610680821922869654"/>
+  <node visible="true" id="-105" lat="29.96548440818986236422460934" lon="-90.21674768461872417901759036"/>
+  <node visible="true" id="-106" lat="29.96547261337698131455908879" lon="-90.21675073869673155968484934"/>
+  <node visible="true" id="-107" lat="29.96547211534966592694217979" lon="-90.21675164606834584901662311"/>
+  <node visible="true" id="-108" lat="29.96545080015986428634278127" lon="-90.21673605794208583574800286"/>
+  <node visible="true" id="-109" lat="29.96539648658991339402746235" lon="-90.21683501348432798749854555"/>
+  <node visible="true" id="-110" lat="29.96538889567630192800606892" lon="-90.21683509843192894095409429"/>
+  <node visible="true" id="-111" lat="29.96537373796796188685220841" lon="-90.21686271470794338256382616"/>
+  <node visible="true" id="-112" lat="29.96537758019783481699960248" lon="-90.21687133037455907924595522"/>
+  <node visible="true" id="-113" lat="29.96537176726021911576935963" lon="-90.21688192113688842255214695"/>
   <way visible="true" id="-10">
     <nd ref="-85"/>
     <nd ref="-86"/>
@@ -268,99 +287,43 @@
     <nd ref="-94"/>
     <nd ref="-95"/>
     <nd ref="-96"/>
-    <nd ref="-85"/>
-    <tag k="building" v="yes"/>
-    <tag k="addr:housenumber" v="9630"/>
-    <tag k="addr:street" v="Garden Oak Lane"/>
-    <tag k="addr:city" v="River Ridge"/>
-    <tag k="addr:postcode" v="70123"/>
-  </way>
-  <node visible="true" id="-97" lat="29.96522637643786524108691083" lon="-90.20969272614507872276590206"/>
-  <node visible="true" id="-98" lat="29.96515508938526295423798729" lon="-90.20976316868960509509633994"/>
-  <node visible="true" id="-99" lat="29.96525500026618971105563105" lon="-90.20989701564644747122656554"/>
-  <node visible="true" id="-100" lat="29.96529356995154458331853675" lon="-90.20994827340409472071769414"/>
-  <node visible="true" id="-101" lat="29.96536485710181807462504366" lon="-90.20987783089404388192633633"/>
-  <way visible="true" id="-11">
     <nd ref="-97"/>
     <nd ref="-98"/>
     <nd ref="-99"/>
     <nd ref="-100"/>
     <nd ref="-101"/>
-    <nd ref="-97"/>
-    <tag k="building" v="yes"/>
-    <tag k="addr:housenumber" v="9640"/>
-    <tag k="addr:street" v="Garden Oak Lane"/>
-    <tag k="addr:city" v="River Ridge"/>
-    <tag k="addr:postcode" v="70123"/>
-  </way>
-  <node visible="true" id="-102" lat="29.97063927247508630102856841" lon="-90.21118104867106524125119904"/>
-  <node visible="true" id="-103" lat="29.97053505262067218950505776" lon="-90.21129005392559463416546350"/>
-  <node visible="true" id="-104" lat="29.97055646211727264471846865" lon="-90.21131733055841550594777800"/>
-  <node visible="true" id="-105" lat="29.97055715138625231475089095" lon="-90.21130118667132080645387759"/>
-  <node visible="true" id="-106" lat="29.97060930941709244734738604" lon="-90.21136763830348570536443731"/>
-  <node visible="true" id="-107" lat="29.97070619198917640346735425" lon="-90.21126630716084093819517875"/>
-  <way visible="true" id="-12">
     <nd ref="-102"/>
     <nd ref="-103"/>
     <nd ref="-104"/>
     <nd ref="-105"/>
     <nd ref="-106"/>
     <nd ref="-107"/>
-    <nd ref="-102"/>
-    <tag k="building" v="yes"/>
-    <tag k="addr:housenumber" v="613"/>
-    <tag k="addr:street" v="Sheldon Lane"/>
-    <tag k="addr:city" v="River Ridge"/>
-    <tag k="addr:postcode" v="70123"/>
-  </way>
-  <node visible="true" id="-108" lat="29.97112485520958102824806701" lon="-90.21123492894695061750098830"/>
-  <node visible="true" id="-109" lat="29.97103314981727351096196799" lon="-90.21133254281551216990919784"/>
-  <node visible="true" id="-110" lat="29.97108684696967273453083180" lon="-90.21139976618459854762477335"/>
-  <node visible="true" id="-111" lat="29.97117855231243055413870024" lon="-90.21130215231605120607127901"/>
-  <way visible="true" id="-13">
     <nd ref="-108"/>
     <nd ref="-109"/>
     <nd ref="-110"/>
     <nd ref="-111"/>
-    <nd ref="-108"/>
+    <nd ref="-112"/>
+    <nd ref="-113"/>
+    <nd ref="-85"/>
     <tag k="building" v="yes"/>
-    <tag k="addr:housenumber" v="620"/>
-    <tag k="addr:street" v="Sheldon Lane"/>
+    <tag k="addr:housenumber" v="10012"/>
+    <tag k="addr:street" v="Sauve Oaks Lane"/>
     <tag k="addr:city" v="River Ridge"/>
     <tag k="addr:postcode" v="70123"/>
   </way>
-  <node visible="true" id="-112" lat="29.96538319477249601163748594" lon="-90.21689027824538698041578755"/>
-  <node visible="true" id="-113" lat="29.96537894948042790588260686" lon="-90.21689801286863996665488230"/>
-  <node visible="true" id="-114" lat="29.96539180485924092067762103" lon="-90.21690741419776315979106585"/>
-  <node visible="true" id="-115" lat="29.96536038038341587252944009" lon="-90.21696466737708419714181218"/>
-  <node visible="true" id="-116" lat="29.96543451056179918623456615" lon="-90.21701887988211865376797505"/>
-  <node visible="true" id="-117" lat="29.96546979221703566054202383" lon="-90.21695459914465686779294629"/>
-  <node visible="true" id="-118" lat="29.96548510034089929376932560" lon="-90.21696579421295325573737500"/>
-  <node visible="true" id="-119" lat="29.96548711404108900069331867" lon="-90.21696212538908810074644862"/>
-  <node visible="true" id="-120" lat="29.96554222798840072528037126" lon="-90.21700243108827521609782707"/>
-  <node visible="true" id="-121" lat="29.96555574970263791101388051" lon="-90.21697779543546857894398272"/>
-  <node visible="true" id="-122" lat="29.96557216226062436703614367" lon="-90.21698979820401120832684683"/>
-  <node visible="true" id="-123" lat="29.96560272365718802234368923" lon="-90.21693411737587098286894616"/>
-  <node visible="true" id="-124" lat="29.96558595419573123308509821" lon="-90.21692185359430027347116265"/>
-  <node visible="true" id="-125" lat="29.96561737354112509024162136" lon="-90.21686460963235276722116396"/>
-  <node visible="true" id="-126" lat="29.96556116171572270445722097" lon="-90.21682350100672920234501362"/>
-  <node visible="true" id="-127" lat="29.96556264725992235753437853" lon="-90.21682176045911205619631801"/>
-  <node visible="true" id="-128" lat="29.96552773886763887389861338" lon="-90.21679623139328896286315285"/>
-  <node visible="true" id="-129" lat="29.96552961800716730067506433" lon="-90.21679280772826814427389763"/>
-  <node visible="true" id="-130" lat="29.96550356105443668752741360" lon="-90.21677375186726521860691719"/>
-  <node visible="true" id="-131" lat="29.96550345808792314983293181" lon="-90.21676161610680821922869654"/>
-  <node visible="true" id="-132" lat="29.96548440818986236422460934" lon="-90.21674768461872417901759036"/>
-  <node visible="true" id="-133" lat="29.96547261337698131455908879" lon="-90.21675073869673155968484934"/>
-  <node visible="true" id="-134" lat="29.96547211534966592694217979" lon="-90.21675164606834584901662311"/>
-  <node visible="true" id="-135" lat="29.96545080015986428634278127" lon="-90.21673605794208583574800286"/>
-  <node visible="true" id="-136" lat="29.96539648658991339402746235" lon="-90.21683501348432798749854555"/>
-  <node visible="true" id="-137" lat="29.96538889567630192800606892" lon="-90.21683509843192894095409429"/>
-  <node visible="true" id="-138" lat="29.96537373796796188685220841" lon="-90.21686271470794338256382616"/>
-  <node visible="true" id="-139" lat="29.96537758019783481699960248" lon="-90.21687133037455907924595522"/>
-  <node visible="true" id="-140" lat="29.96537176726021911576935963" lon="-90.21688192113688842255214695"/>
-  <way visible="true" id="-14">
-    <nd ref="-112"/>
-    <nd ref="-113"/>
+  <node visible="true" id="-114" lat="29.96503630230163750525207433" lon="-90.20945537348242737607506569"/>
+  <node visible="true" id="-115" lat="29.96502560642494472631369717" lon="-90.20944105743004115538496990"/>
+  <node visible="true" id="-116" lat="29.96502583004626529827874037" lon="-90.20943756369796062699606409"/>
+  <node visible="true" id="-117" lat="29.96491619637147252319664403" lon="-90.20929082299305434844427509"/>
+  <node visible="true" id="-118" lat="29.96489070941334986741821922" lon="-90.20931619433522996587271336"/>
+  <node visible="true" id="-119" lat="29.96486345296736786281144305" lon="-90.20927971260344691017962759"/>
+  <node visible="true" id="-120" lat="29.96480071795564370518150099" lon="-90.20934216298688568258512532"/>
+  <node visible="true" id="-121" lat="29.96485660494826674948853906" lon="-90.20941696559617639650241472"/>
+  <node visible="true" id="-122" lat="29.96484149535100627304018417" lon="-90.20943200664385130949085578"/>
+  <node visible="true" id="-123" lat="29.96487202171545760620574583" lon="-90.20947286503060524864849867"/>
+  <node visible="true" id="-124" lat="29.96489009775036294058736530" lon="-90.20945487099767490235535661"/>
+  <node visible="true" id="-125" lat="29.96495267207126644848358410" lon="-90.20953862441915305225847987"/>
+  <way visible="true" id="-11">
     <nd ref="-114"/>
     <nd ref="-115"/>
     <nd ref="-116"/>
@@ -373,6 +336,26 @@
     <nd ref="-123"/>
     <nd ref="-124"/>
     <nd ref="-125"/>
+    <nd ref="-114"/>
+    <tag k="building" v="yes"/>
+    <tag k="addr:housenumber" v="9624"/>
+    <tag k="addr:street" v="Garden Oak Lane"/>
+    <tag k="addr:city" v="River Ridge"/>
+    <tag k="addr:postcode" v="70123"/>
+  </way>
+  <node visible="true" id="-126" lat="29.96499157487177811276524153" lon="-90.20957838632595837680128170"/>
+  <node visible="true" id="-127" lat="29.96501503716057257520333224" lon="-90.20960892652686879955581389"/>
+  <node visible="true" id="-128" lat="29.96499537627455467259096622" lon="-90.20962905144976673454948468"/>
+  <node visible="true" id="-129" lat="29.96506962590306244464954943" lon="-90.20972570012965263686055550"/>
+  <node visible="true" id="-130" lat="29.96509142301983175116220082" lon="-90.20970338853972236847766908"/>
+  <node visible="true" id="-131" lat="29.96511363478331801957210700" lon="-90.20973230099593820341397077"/>
+  <node visible="true" id="-132" lat="29.96516782341156215352384606" lon="-90.20967683333030606718239142"/>
+  <node visible="true" id="-133" lat="29.96514422382037068359750265" lon="-90.20964611435945812445424963"/>
+  <node visible="true" id="-134" lat="29.96516889301922148547419056" lon="-90.20962086287889292179897893"/>
+  <node visible="true" id="-135" lat="29.96509594659226038970700756" lon="-90.20952591044479618176410440"/>
+  <node visible="true" id="-136" lat="29.96506901196865513270495285" lon="-90.20955348080170210778305773"/>
+  <node visible="true" id="-137" lat="29.96504563440581492272940523" lon="-90.20952305086962041968945414"/>
+  <way visible="true" id="-12">
     <nd ref="-126"/>
     <nd ref="-127"/>
     <nd ref="-128"/>
@@ -385,108 +368,127 @@
     <nd ref="-135"/>
     <nd ref="-136"/>
     <nd ref="-137"/>
-    <nd ref="-138"/>
-    <nd ref="-139"/>
-    <nd ref="-140"/>
-    <nd ref="-112"/>
+    <nd ref="-126"/>
     <tag k="building" v="yes"/>
-    <tag k="addr:housenumber" v="10012"/>
-    <tag k="addr:street" v="Sauve Oaks Lane"/>
+    <tag k="addr:housenumber" v="9630"/>
+    <tag k="addr:street" v="Garden Oak Lane"/>
     <tag k="addr:city" v="River Ridge"/>
     <tag k="addr:postcode" v="70123"/>
   </way>
-  <node visible="true" id="-141" lat="29.96503630230163750525207433" lon="-90.20945537348242737607506569"/>
-  <node visible="true" id="-142" lat="29.96502560642494472631369717" lon="-90.20944105743004115538496990"/>
-  <node visible="true" id="-143" lat="29.96502583004626529827874037" lon="-90.20943756369796062699606409"/>
-  <node visible="true" id="-144" lat="29.96491619637147252319664403" lon="-90.20929082299305434844427509"/>
-  <node visible="true" id="-145" lat="29.96489070941334986741821922" lon="-90.20931619433522996587271336"/>
-  <node visible="true" id="-146" lat="29.96486345296736786281144305" lon="-90.20927971260344691017962759"/>
-  <node visible="true" id="-147" lat="29.96480071795564370518150099" lon="-90.20934216298688568258512532"/>
-  <node visible="true" id="-148" lat="29.96485660494826674948853906" lon="-90.20941696559617639650241472"/>
-  <node visible="true" id="-149" lat="29.96484149535100627304018417" lon="-90.20943200664385130949085578"/>
-  <node visible="true" id="-150" lat="29.96487202171545760620574583" lon="-90.20947286503060524864849867"/>
-  <node visible="true" id="-151" lat="29.96489009775036294058736530" lon="-90.20945487099767490235535661"/>
-  <node visible="true" id="-152" lat="29.96495267207126644848358410" lon="-90.20953862441915305225847987"/>
-  <way visible="true" id="-15">
+  <node visible="true" id="-138" lat="29.96522637643786524108691083" lon="-90.20969272614507872276590206"/>
+  <node visible="true" id="-139" lat="29.96515508938526295423798729" lon="-90.20976316868960509509633994"/>
+  <node visible="true" id="-140" lat="29.96525500026618971105563105" lon="-90.20989701564644747122656554"/>
+  <node visible="true" id="-141" lat="29.96529356995154458331853675" lon="-90.20994827340409472071769414"/>
+  <node visible="true" id="-142" lat="29.96536485710181807462504366" lon="-90.20987783089404388192633633"/>
+  <way visible="true" id="-13">
+    <nd ref="-138"/>
+    <nd ref="-139"/>
+    <nd ref="-140"/>
     <nd ref="-141"/>
     <nd ref="-142"/>
+    <nd ref="-138"/>
+    <tag k="building" v="yes"/>
+    <tag k="addr:housenumber" v="9640"/>
+    <tag k="addr:street" v="Garden Oak Lane"/>
+    <tag k="addr:city" v="River Ridge"/>
+    <tag k="addr:postcode" v="70123"/>
+  </way>
+  <node visible="true" id="-143" lat="29.97063927247508630102856841" lon="-90.21118104867106524125119904"/>
+  <node visible="true" id="-144" lat="29.97053505262067218950505776" lon="-90.21129005392559463416546350"/>
+  <node visible="true" id="-145" lat="29.97055646211727264471846865" lon="-90.21131733055841550594777800"/>
+  <node visible="true" id="-146" lat="29.97055715138625231475089095" lon="-90.21130118667132080645387759"/>
+  <node visible="true" id="-147" lat="29.97060930941709244734738604" lon="-90.21136763830348570536443731"/>
+  <node visible="true" id="-148" lat="29.97070619198917640346735425" lon="-90.21126630716084093819517875"/>
+  <way visible="true" id="-14">
     <nd ref="-143"/>
     <nd ref="-144"/>
     <nd ref="-145"/>
     <nd ref="-146"/>
     <nd ref="-147"/>
     <nd ref="-148"/>
+    <nd ref="-143"/>
+    <tag k="building" v="yes"/>
+    <tag k="addr:housenumber" v="613"/>
+    <tag k="addr:street" v="Sheldon Lane"/>
+    <tag k="addr:city" v="River Ridge"/>
+    <tag k="addr:postcode" v="70123"/>
+  </way>
+  <node visible="true" id="-149" lat="29.97112485520958102824806701" lon="-90.21123492894695061750098830"/>
+  <node visible="true" id="-150" lat="29.97103314981727351096196799" lon="-90.21133254281551216990919784"/>
+  <node visible="true" id="-151" lat="29.97108684696967273453083180" lon="-90.21139976618459854762477335"/>
+  <node visible="true" id="-152" lat="29.97117855231243055413870024" lon="-90.21130215231605120607127901"/>
+  <way visible="true" id="-15">
     <nd ref="-149"/>
     <nd ref="-150"/>
     <nd ref="-151"/>
     <nd ref="-152"/>
-    <nd ref="-141"/>
+    <nd ref="-149"/>
     <tag k="building" v="yes"/>
-    <tag k="addr:housenumber" v="9624"/>
-    <tag k="addr:street" v="Garden Oak Lane"/>
+    <tag k="addr:housenumber" v="620"/>
+    <tag k="addr:street" v="Sheldon Lane"/>
     <tag k="addr:city" v="River Ridge"/>
     <tag k="addr:postcode" v="70123"/>
   </way>
-  <node visible="true" id="-153" lat="29.97092010296396935586926702" lon="-90.21104721561854944411606994"/>
-  <node visible="true" id="-154" lat="29.97087151431150786606849579" lon="-90.21098955081181713921978371"/>
-  <node visible="true" id="-155" lat="29.97089768285761479660322948" lon="-90.21096016838177433783130255"/>
-  <node visible="true" id="-156" lat="29.97085922905493404755361553" lon="-90.21091453157974626719806110"/>
-  <node visible="true" id="-157" lat="29.97083491988325576471652312" lon="-90.21094182626644908395974198"/>
-  <node visible="true" id="-158" lat="29.97082846622421570259575674" lon="-90.21093416709619816629128763"/>
-  <node visible="true" id="-159" lat="29.97076245379665948576075607" lon="-90.21100828675834293335356051"/>
-  <node visible="true" id="-160" lat="29.97085594998142710210231598" lon="-90.21111924753734001569682732"/>
+  <node visible="true" id="-153" lat="29.97048946192993668091730797" lon="-90.21149838146160959695407655"/>
+  <node visible="true" id="-154" lat="29.97059306881622120499741868" lon="-90.21138611000074547519034240"/>
+  <node visible="true" id="-155" lat="29.97053478981263197056250647" lon="-90.21131444410750077622651588"/>
+  <node visible="true" id="-156" lat="29.97043118286556406815179798" lon="-90.21142671556839331969968043"/>
   <way visible="true" id="-16">
     <nd ref="-153"/>
     <nd ref="-154"/>
     <nd ref="-155"/>
     <nd ref="-156"/>
+    <nd ref="-153"/>
+    <tag k="building" v="yes"/>
+    <tag k="addr:housenumber" v="609"/>
+    <tag k="addr:street" v="Sheldon Lane"/>
+    <tag k="addr:city" v="River Ridge"/>
+    <tag k="addr:postcode" v="70123"/>
+  </way>
+  <node visible="true" id="-157" lat="29.97092010296396935586926702" lon="-90.21104721561854944411606994"/>
+  <node visible="true" id="-158" lat="29.97087151431150786606849579" lon="-90.21098955081181713921978371"/>
+  <node visible="true" id="-159" lat="29.97089768285761479660322948" lon="-90.21096016838177433783130255"/>
+  <node visible="true" id="-160" lat="29.97085922905493404755361553" lon="-90.21091453157974626719806110"/>
+  <node visible="true" id="-161" lat="29.97083491988325576471652312" lon="-90.21094182626644908395974198"/>
+  <node visible="true" id="-162" lat="29.97082846622421570259575674" lon="-90.21093416709619816629128763"/>
+  <node visible="true" id="-163" lat="29.97076245379665948576075607" lon="-90.21100828675834293335356051"/>
+  <node visible="true" id="-164" lat="29.97085594998142710210231598" lon="-90.21111924753734001569682732"/>
+  <way visible="true" id="-17">
     <nd ref="-157"/>
     <nd ref="-158"/>
     <nd ref="-159"/>
     <nd ref="-160"/>
-    <nd ref="-153"/>
+    <nd ref="-161"/>
+    <nd ref="-162"/>
+    <nd ref="-163"/>
+    <nd ref="-164"/>
+    <nd ref="-157"/>
     <tag k="building" v="yes"/>
     <tag k="addr:housenumber" v="621"/>
     <tag k="addr:street" v="Sheldon Lane"/>
     <tag k="addr:city" v="River Ridge"/>
     <tag k="addr:postcode" v="70123"/>
   </way>
-  <node visible="true" id="-161" lat="29.97109616921992980564937170" lon="-90.21087026818828746854705969"/>
-  <node visible="true" id="-162" lat="29.97105977261811915468570078" lon="-90.21082459830789446186827263"/>
-  <node visible="true" id="-163" lat="29.97104350090483038115962700" lon="-90.21084187855207403572421754"/>
-  <node visible="true" id="-164" lat="29.97099029715773710336179647" lon="-90.21077511937252779716800433"/>
-  <node visible="true" id="-165" lat="29.97096001592762348764154012" lon="-90.21080727742740634766960284"/>
-  <node visible="true" id="-166" lat="29.97093919039221177058607282" lon="-90.21078114590864061028696597"/>
-  <node visible="true" id="-167" lat="29.97087926727746776123240124" lon="-90.21084478300412001772201620"/>
-  <node visible="true" id="-168" lat="29.97098969326169282112459769" lon="-90.21098334358281078948493814"/>
-  <way visible="true" id="-17">
-    <nd ref="-161"/>
-    <nd ref="-162"/>
-    <nd ref="-163"/>
-    <nd ref="-164"/>
+  <node visible="true" id="-165" lat="29.97109616921992980564937170" lon="-90.21087026818828746854705969"/>
+  <node visible="true" id="-166" lat="29.97105977261811915468570078" lon="-90.21082459830789446186827263"/>
+  <node visible="true" id="-167" lat="29.97104350090483038115962700" lon="-90.21084187855207403572421754"/>
+  <node visible="true" id="-168" lat="29.97099029715773710336179647" lon="-90.21077511937252779716800433"/>
+  <node visible="true" id="-169" lat="29.97096001592762348764154012" lon="-90.21080727742740634766960284"/>
+  <node visible="true" id="-170" lat="29.97093919039221177058607282" lon="-90.21078114590864061028696597"/>
+  <node visible="true" id="-171" lat="29.97087926727746776123240124" lon="-90.21084478300412001772201620"/>
+  <node visible="true" id="-172" lat="29.97098969326169282112459769" lon="-90.21098334358281078948493814"/>
+  <way visible="true" id="-18">
     <nd ref="-165"/>
     <nd ref="-166"/>
     <nd ref="-167"/>
     <nd ref="-168"/>
-    <nd ref="-161"/>
-    <tag k="building" v="yes"/>
-    <tag k="addr:housenumber" v="625"/>
-    <tag k="addr:street" v="Sheldon Lane"/>
-    <tag k="addr:city" v="River Ridge"/>
-    <tag k="addr:postcode" v="70123"/>
-  </way>
-  <node visible="true" id="-169" lat="29.97048946192993668091730797" lon="-90.21149838146160959695407655"/>
-  <node visible="true" id="-170" lat="29.97059306881622120499741868" lon="-90.21138611000074547519034240"/>
-  <node visible="true" id="-171" lat="29.97053478981263197056250647" lon="-90.21131444410750077622651588"/>
-  <node visible="true" id="-172" lat="29.97043118286556406815179798" lon="-90.21142671556839331969968043"/>
-  <way visible="true" id="-18">
     <nd ref="-169"/>
     <nd ref="-170"/>
     <nd ref="-171"/>
     <nd ref="-172"/>
-    <nd ref="-169"/>
+    <nd ref="-165"/>
     <tag k="building" v="yes"/>
-    <tag k="addr:housenumber" v="609"/>
+    <tag k="addr:housenumber" v="625"/>
     <tag k="addr:street" v="Sheldon Lane"/>
     <tag k="addr:city" v="River Ridge"/>
     <tag k="addr:postcode" v="70123"/>
@@ -909,43 +911,43 @@
     <tag k="addr:city" v="River Ridge"/>
     <tag k="addr:postcode" v="70123"/>
   </way>
-  <node visible="true" id="-318" lat="29.97099539406443113875866402" lon="-90.21135636207405639197531855"/>
-  <node visible="true" id="-319" lat="29.97090146376126540417317301" lon="-90.21145679353520563381607644"/>
-  <node visible="true" id="-320" lat="29.97098902994010316547246475" lon="-90.21156592674776675266912207"/>
-  <node visible="true" id="-321" lat="29.97108296016048001320086769" lon="-90.21146549528660329997364897"/>
+  <node visible="true" id="-318" lat="29.96673949902757527752328315" lon="-90.21819878786759261402039556"/>
+  <node visible="true" id="-319" lat="29.96669728137203492224216461" lon="-90.21823487856687506791786291"/>
+  <node visible="true" id="-320" lat="29.96677382919210330669557152" lon="-90.21835418925563487846375210"/>
+  <node visible="true" id="-321" lat="29.96686030819596879837263259" lon="-90.21828026068753558774915291"/>
+  <node visible="true" id="-322" lat="29.96684266670559537715234910" lon="-90.21825276387806979982997291"/>
+  <node visible="true" id="-323" lat="29.96688879092423363204034104" lon="-90.21821333350821703334077029"/>
+  <node visible="true" id="-324" lat="29.96679125104312291227870446" lon="-90.21806130354029562568030087"/>
+  <node visible="true" id="-325" lat="29.96670086534709653847130539" lon="-90.21813857177897943984135054"/>
   <way visible="true" id="-35">
     <nd ref="-318"/>
     <nd ref="-319"/>
     <nd ref="-320"/>
     <nd ref="-321"/>
-    <nd ref="-318"/>
-    <tag k="building" v="yes"/>
-    <tag k="addr:housenumber" v="616"/>
-    <tag k="addr:street" v="Sheldon Lane"/>
-    <tag k="addr:city" v="River Ridge"/>
-    <tag k="addr:postcode" v="70123"/>
-  </way>
-  <node visible="true" id="-322" lat="29.96673949902757527752328315" lon="-90.21819878786759261402039556"/>
-  <node visible="true" id="-323" lat="29.96669728137203492224216461" lon="-90.21823487856687506791786291"/>
-  <node visible="true" id="-324" lat="29.96677382919210330669557152" lon="-90.21835418925563487846375210"/>
-  <node visible="true" id="-325" lat="29.96686030819596879837263259" lon="-90.21828026068753558774915291"/>
-  <node visible="true" id="-326" lat="29.96684266670559537715234910" lon="-90.21825276387806979982997291"/>
-  <node visible="true" id="-327" lat="29.96688879092423363204034104" lon="-90.21821333350821703334077029"/>
-  <node visible="true" id="-328" lat="29.96679125104312291227870446" lon="-90.21806130354029562568030087"/>
-  <node visible="true" id="-329" lat="29.96670086534709653847130539" lon="-90.21813857177897943984135054"/>
-  <way visible="true" id="-36">
     <nd ref="-322"/>
     <nd ref="-323"/>
     <nd ref="-324"/>
     <nd ref="-325"/>
+    <nd ref="-318"/>
+    <tag k="building" v="yes"/>
+    <tag k="addr:housenumber" v="10128"/>
+    <tag k="addr:street" v="Florence Court"/>
+    <tag k="addr:city" v="River Ridge"/>
+    <tag k="addr:postcode" v="70123"/>
+  </way>
+  <node visible="true" id="-326" lat="29.97099539406443113875866402" lon="-90.21135636207405639197531855"/>
+  <node visible="true" id="-327" lat="29.97090146376126540417317301" lon="-90.21145679353520563381607644"/>
+  <node visible="true" id="-328" lat="29.97098902994010316547246475" lon="-90.21156592674776675266912207"/>
+  <node visible="true" id="-329" lat="29.97108296016048001320086769" lon="-90.21146549528660329997364897"/>
+  <way visible="true" id="-36">
     <nd ref="-326"/>
     <nd ref="-327"/>
     <nd ref="-328"/>
     <nd ref="-329"/>
-    <nd ref="-322"/>
+    <nd ref="-326"/>
     <tag k="building" v="yes"/>
-    <tag k="addr:housenumber" v="10128"/>
-    <tag k="addr:street" v="Florence Court"/>
+    <tag k="addr:housenumber" v="616"/>
+    <tag k="addr:street" v="Sheldon Lane"/>
     <tag k="addr:city" v="River Ridge"/>
     <tag k="addr:postcode" v="70123"/>
   </way>

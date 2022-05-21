@@ -1,8 +1,10 @@
 <?xml version='1.0' encoding='utf8'?>
-<osm version="0.6" generator="AnonymousAlligator's import script">
-  <changeset_tag k="comment" v="Import buildings and addresses in Jefferson Parish, see https://wiki.openstreetmap.org/wiki/Import/Catalogue/Jefferson_Parish_Addresses_and_Buildings"/>
-  <changeset_tag k="source" v="Jefferson Parish Planning Department"/>
-  <changeset_tag k="source_file" v="8178_13525"/>
+<osm version="0.6" generator="AnonymousAlligator's import script" upload-changeset="-1">
+  <changeset id="-1">
+    <tag k="comment" v="Import buildings and addresses in Jefferson Parish, see https://wiki.openstreetmap.org/wiki/Import/Catalogue/Jefferson_Parish_Addresses_and_Buildings"/>
+    <tag k="source" v="Jefferson Parish Planning Department"/>
+    <tag k="source_file" v="change-8178_13525.osm"/>
+  </changeset>
   <node visible="true" id="-1" lat="29.94270777827260943126930215" lon="-90.15377577130946917804976692"/>
   <node visible="true" id="-2" lat="29.94273142066932180682670150" lon="-90.15376480496520628094003769"/>
   <node visible="true" id="-3" lat="29.94270300138990492655466369" lon="-90.15368320675229085736646084"/>
@@ -119,14 +121,16 @@
     <nd ref="-37"/>
     <tag k="building" v="yes"/>
   </way>
-  <node visible="true" id="-41" lat="29.93719560458777095846016891" lon="-90.14856454949699582357425243"/>
-  <node visible="true" id="-42" lat="29.93725976876928740466610179" lon="-90.14856033255534839554456994"/>
-  <node visible="true" id="-43" lat="29.93725477711666727032024937" lon="-90.14845919101433935338718584"/>
-  <node visible="true" id="-44" lat="29.93731007209813910208140442" lon="-90.14845555696440726478613215"/>
-  <node visible="true" id="-45" lat="29.93730056241592052401756519" lon="-90.14826287039892349639558233"/>
-  <node visible="true" id="-46" lat="29.93724325602223146347569127" lon="-90.14826663664078409965441097"/>
-  <node visible="true" id="-47" lat="29.93723858399786763584415894" lon="-90.14817197146591354339761892"/>
-  <node visible="true" id="-48" lat="29.93717643121082261359333643" lon="-90.14817605621566087847895687"/>
+  <node visible="true" id="-41" lat="29.94284961467529271317289385" lon="-90.15374794374567102295259247"/>
+  <node visible="true" id="-42" lat="29.94286920120881845264193544" lon="-90.15373906899095857170323143"/>
+  <node visible="true" id="-43" lat="29.94283987584402595416577242" lon="-90.15365287364573987360927276"/>
+  <node visible="true" id="-44" lat="29.94280844216775960831000702" lon="-90.15366711639408947576157516"/>
+  <node visible="true" id="-45" lat="29.94281260624316232110686542" lon="-90.15367935575609692477883073"/>
+  <node visible="true" id="-46" lat="29.94279126918601718898571562" lon="-90.15368902367609393877501134"/>
+  <node visible="true" id="-47" lat="29.94276326625040951512346510" lon="-90.15360671537932546470983652"/>
+  <node visible="true" id="-48" lat="29.94269741953990759952830558" lon="-90.15363655080916771566990064"/>
+  <node visible="true" id="-49" lat="29.94278178709127047341098660" lon="-90.15388453005415669849753613"/>
+  <node visible="true" id="-50" lat="29.94288081792078415332980512" lon="-90.15383965871068028263835004"/>
   <way visible="true" id="-6">
     <nd ref="-41"/>
     <nd ref="-42"/>
@@ -136,22 +140,24 @@
     <nd ref="-46"/>
     <nd ref="-47"/>
     <nd ref="-48"/>
-    <nd ref="-41"/>
-    <tag k="building" v="yes"/>
-  </way>
-  <node visible="true" id="-49" lat="29.94284961467529271317289385" lon="-90.15374794374567102295259247"/>
-  <node visible="true" id="-50" lat="29.94286920120881845264193544" lon="-90.15373906899095857170323143"/>
-  <node visible="true" id="-51" lat="29.94283987584402595416577242" lon="-90.15365287364573987360927276"/>
-  <node visible="true" id="-52" lat="29.94280844216775960831000702" lon="-90.15366711639408947576157516"/>
-  <node visible="true" id="-53" lat="29.94281260624316232110686542" lon="-90.15367935575609692477883073"/>
-  <node visible="true" id="-54" lat="29.94279126918601718898571562" lon="-90.15368902367609393877501134"/>
-  <node visible="true" id="-55" lat="29.94276326625040951512346510" lon="-90.15360671537932546470983652"/>
-  <node visible="true" id="-56" lat="29.94269741953990759952830558" lon="-90.15363655080916771566990064"/>
-  <node visible="true" id="-57" lat="29.94278178709127047341098660" lon="-90.15388453005415669849753613"/>
-  <node visible="true" id="-58" lat="29.94288081792078415332980512" lon="-90.15383965871068028263835004"/>
-  <way visible="true" id="-7">
     <nd ref="-49"/>
     <nd ref="-50"/>
+    <nd ref="-41"/>
+    <tag k="building" v="yes"/>
+    <tag k="addr:housenumber" v="531"/>
+    <tag k="addr:street" v="Oak Avenue"/>
+    <tag k="addr:city" v="Bridge City"/>
+    <tag k="addr:postcode" v="70094"/>
+  </way>
+  <node visible="true" id="-51" lat="29.93719560458777095846016891" lon="-90.14856454949699582357425243"/>
+  <node visible="true" id="-52" lat="29.93725976876928740466610179" lon="-90.14856033255534839554456994"/>
+  <node visible="true" id="-53" lat="29.93725477711666727032024937" lon="-90.14845919101433935338718584"/>
+  <node visible="true" id="-54" lat="29.93731007209813910208140442" lon="-90.14845555696440726478613215"/>
+  <node visible="true" id="-55" lat="29.93730056241592052401756519" lon="-90.14826287039892349639558233"/>
+  <node visible="true" id="-56" lat="29.93724325602223146347569127" lon="-90.14826663664078409965441097"/>
+  <node visible="true" id="-57" lat="29.93723858399786763584415894" lon="-90.14817197146591354339761892"/>
+  <node visible="true" id="-58" lat="29.93717643121082261359333643" lon="-90.14817605621566087847895687"/>
+  <way visible="true" id="-7">
     <nd ref="-51"/>
     <nd ref="-52"/>
     <nd ref="-53"/>
@@ -160,12 +166,8 @@
     <nd ref="-56"/>
     <nd ref="-57"/>
     <nd ref="-58"/>
-    <nd ref="-49"/>
+    <nd ref="-51"/>
     <tag k="building" v="yes"/>
-    <tag k="addr:housenumber" v="531"/>
-    <tag k="addr:street" v="Oak Avenue"/>
-    <tag k="addr:city" v="Bridge City"/>
-    <tag k="addr:postcode" v="70094"/>
   </way>
   <node visible="true" id="-59" lat="29.93608921170776326903251174" lon="-90.14418184656295807144488208"/>
   <node visible="true" id="-60" lat="29.93609879227523506983743573" lon="-90.14426432360677665656112367"/>
@@ -1335,39 +1337,39 @@
     <nd ref="-507"/>
     <tag k="building" v="yes"/>
   </way>
-  <node visible="true" id="-515" lat="29.94264450537926336437521968" lon="-90.14605777817419607345073018"/>
-  <node visible="true" id="-516" lat="29.94262403834985875050733739" lon="-90.14604594224289257908822037"/>
-  <node visible="true" id="-517" lat="29.94261491249800144487380749" lon="-90.14606695886683951357554179"/>
-  <node visible="true" id="-518" lat="29.94263537952924991714098724" lon="-90.14607879479811458622862119"/>
+  <node visible="true" id="-515" lat="29.94318845642775173132577038" lon="-90.15353015702784489349141950"/>
+  <node visible="true" id="-516" lat="29.94310767207382895094269770" lon="-90.15356728252392315425822744"/>
+  <node visible="true" id="-517" lat="29.94312674442712562949964195" lon="-90.15362255397295143666269723"/>
+  <node visible="true" id="-518" lat="29.94314837824778408048587153" lon="-90.15361261187155150764738210"/>
+  <node visible="true" id="-519" lat="29.94318793171721537760276988" lon="-90.15372723740583182916452643"/>
+  <node visible="true" id="-520" lat="29.94324708221146735809270467" lon="-90.15370005401119612997717923"/>
   <way visible="true" id="-52">
     <nd ref="-515"/>
     <nd ref="-516"/>
     <nd ref="-517"/>
     <nd ref="-518"/>
+    <nd ref="-519"/>
+    <nd ref="-520"/>
     <nd ref="-515"/>
     <tag k="building" v="yes"/>
-    <tag k="addr:housenumber" v="1213"/>
-    <tag k="addr:street" v="River Road"/>
+    <tag k="addr:housenumber" v="521"/>
+    <tag k="addr:street" v="Oak Avenue"/>
     <tag k="addr:city" v="Bridge City"/>
     <tag k="addr:postcode" v="70094"/>
   </way>
-  <node visible="true" id="-519" lat="29.94318845642775173132577038" lon="-90.15353015702784489349141950"/>
-  <node visible="true" id="-520" lat="29.94310767207382895094269770" lon="-90.15356728252392315425822744"/>
-  <node visible="true" id="-521" lat="29.94312674442712562949964195" lon="-90.15362255397295143666269723"/>
-  <node visible="true" id="-522" lat="29.94314837824778408048587153" lon="-90.15361261187155150764738210"/>
-  <node visible="true" id="-523" lat="29.94318793171721537760276988" lon="-90.15372723740583182916452643"/>
-  <node visible="true" id="-524" lat="29.94324708221146735809270467" lon="-90.15370005401119612997717923"/>
+  <node visible="true" id="-521" lat="29.94264450537926336437521968" lon="-90.14605777817419607345073018"/>
+  <node visible="true" id="-522" lat="29.94262403834985875050733739" lon="-90.14604594224289257908822037"/>
+  <node visible="true" id="-523" lat="29.94261491249800144487380749" lon="-90.14606695886683951357554179"/>
+  <node visible="true" id="-524" lat="29.94263537952924991714098724" lon="-90.14607879479811458622862119"/>
   <way visible="true" id="-53">
-    <nd ref="-519"/>
-    <nd ref="-520"/>
     <nd ref="-521"/>
     <nd ref="-522"/>
     <nd ref="-523"/>
     <nd ref="-524"/>
-    <nd ref="-519"/>
+    <nd ref="-521"/>
     <tag k="building" v="yes"/>
-    <tag k="addr:housenumber" v="521"/>
-    <tag k="addr:street" v="Oak Avenue"/>
+    <tag k="addr:housenumber" v="1213"/>
+    <tag k="addr:street" v="River Road"/>
     <tag k="addr:city" v="Bridge City"/>
     <tag k="addr:postcode" v="70094"/>
   </way>

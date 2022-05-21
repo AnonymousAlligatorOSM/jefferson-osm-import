@@ -1,8 +1,10 @@
 <?xml version='1.0' encoding='utf8'?>
-<osm version="0.6" generator="AnonymousAlligator's import script">
-  <changeset_tag k="comment" v="Import buildings and addresses in Jefferson Parish, see https://wiki.openstreetmap.org/wiki/Import/Catalogue/Jefferson_Parish_Addresses_and_Buildings"/>
-  <changeset_tag k="source" v="Jefferson Parish Planning Department"/>
-  <changeset_tag k="source_file" v="8174_13525"/>
+<osm version="0.6" generator="AnonymousAlligator's import script" upload-changeset="-1">
+  <changeset id="-1">
+    <tag k="comment" v="Import buildings and addresses in Jefferson Parish, see https://wiki.openstreetmap.org/wiki/Import/Catalogue/Jefferson_Parish_Addresses_and_Buildings"/>
+    <tag k="source" v="Jefferson Parish Planning Department"/>
+    <tag k="source_file" v="change-8174_13525.osm"/>
+  </changeset>
   <node visible="true" id="-1" lat="29.93901392424323049112899753" lon="-90.19551608411994436664826935"/>
   <node visible="true" id="-2" lat="29.93895690928771813332787133" lon="-90.19559185791186450842360500"/>
   <node visible="true" id="-3" lat="29.93899967866848044195648981" lon="-90.19563471355962747111334465"/>
@@ -352,70 +354,70 @@
     <tag k="addr:city" v="Harahan"/>
     <tag k="addr:postcode" v="70123"/>
   </way>
-  <node visible="true" id="-110" lat="29.94165549405723680820301524" lon="-90.19190951743873085888481000">
-    <tag k="addr:housenumber" v="219"/>
-    <tag k="addr:street" v="Funston Street"/>
-    <tag k="addr:city" v="Jefferson"/>
-    <tag k="addr:postcode" v="70123"/>
-  </node>
-  <node visible="true" id="-111" lat="29.94147362388937949617684353" lon="-90.19181458727865674518398009">
-    <tag k="addr:housenumber" v="215"/>
-    <tag k="addr:street" v="Funston Street"/>
-    <tag k="addr:city" v="Jefferson"/>
-    <tag k="addr:postcode" v="70123"/>
-  </node>
-  <node visible="true" id="-112" lat="29.94196004394558130456971412" lon="-90.19218673816429543421691051">
-    <tag k="addr:housenumber" v="225"/>
-    <tag k="addr:street" v="Funston Street"/>
-    <tag k="addr:city" v="Jefferson"/>
-    <tag k="addr:postcode" v="70123"/>
-  </node>
-  <node visible="true" id="-113" lat="29.94194949406445616091332340" lon="-90.19206033296532609710993711">
-    <tag k="addr:housenumber" v="223"/>
-    <tag k="addr:street" v="Funston Street"/>
-    <tag k="addr:city" v="Jefferson"/>
-    <tag k="addr:postcode" v="70123"/>
-  </node>
-  <node visible="true" id="-114" lat="29.94202474031718708147309371" lon="-90.19229940199998907246481394">
-    <tag k="addr:housenumber" v="231"/>
-    <tag k="addr:street" v="Funston Street"/>
-    <tag k="addr:city" v="Jefferson"/>
-    <tag k="addr:postcode" v="70123"/>
-  </node>
-  <node visible="true" id="-115" lat="29.94208274461473351379936503" lon="-90.19211597658063794824556680">
-    <tag k="addr:housenumber" v="227"/>
-    <tag k="addr:street" v="Funston Street"/>
-    <tag k="addr:city" v="Jefferson"/>
-    <tag k="addr:postcode" v="70123"/>
-  </node>
-  <node visible="true" id="-116" lat="29.94142108570285287783008243" lon="-90.19231339922529855357424822">
-    <tag k="addr:housenumber" v="202"/>
-    <tag k="addr:street" v="Funston Street"/>
-    <tag k="addr:city" v="Jefferson"/>
-    <tag k="addr:postcode" v="70123"/>
-  </node>
-  <node visible="true" id="-117" lat="29.94154573037613076280649693" lon="-90.19233601612188522267388180">
-    <tag k="addr:housenumber" v="200"/>
-    <tag k="addr:street" v="Funston Street"/>
-    <tag k="addr:city" v="Jefferson"/>
-    <tag k="addr:postcode" v="70123"/>
-  </node>
-  <node visible="true" id="-118" lat="29.93586543259895904611767037" lon="-90.19200195153878496512334095"/>
-  <node visible="true" id="-119" lat="29.93593321322777711657181499" lon="-90.19206111504688294644438429"/>
-  <node visible="true" id="-120" lat="29.93599644499333578551159007" lon="-90.19196465095251369348261505"/>
-  <node visible="true" id="-121" lat="29.93592866440758726298554393" lon="-90.19190548744442992301628692"/>
+  <node visible="true" id="-110" lat="29.93586543259895904611767037" lon="-90.19200195153878496512334095"/>
+  <node visible="true" id="-111" lat="29.93593321322777711657181499" lon="-90.19206111504688294644438429"/>
+  <node visible="true" id="-112" lat="29.93599644499333578551159007" lon="-90.19196465095251369348261505"/>
+  <node visible="true" id="-113" lat="29.93592866440758726298554393" lon="-90.19190548744442992301628692"/>
   <way visible="true" id="-17">
-    <nd ref="-118"/>
-    <nd ref="-119"/>
-    <nd ref="-120"/>
-    <nd ref="-121"/>
-    <nd ref="-118"/>
+    <nd ref="-110"/>
+    <nd ref="-111"/>
+    <nd ref="-112"/>
+    <nd ref="-113"/>
+    <nd ref="-110"/>
     <tag k="building" v="yes"/>
     <tag k="addr:housenumber" v="40"/>
     <tag k="addr:street" v="Elodie Avenue"/>
     <tag k="addr:city" v="Harahan"/>
     <tag k="addr:postcode" v="70123"/>
   </way>
+  <node visible="true" id="-114" lat="29.94165549405723680820301524" lon="-90.19190951743873085888481000">
+    <tag k="addr:housenumber" v="219"/>
+    <tag k="addr:street" v="Funston Street"/>
+    <tag k="addr:city" v="Jefferson"/>
+    <tag k="addr:postcode" v="70123"/>
+  </node>
+  <node visible="true" id="-115" lat="29.94147362388937949617684353" lon="-90.19181458727865674518398009">
+    <tag k="addr:housenumber" v="215"/>
+    <tag k="addr:street" v="Funston Street"/>
+    <tag k="addr:city" v="Jefferson"/>
+    <tag k="addr:postcode" v="70123"/>
+  </node>
+  <node visible="true" id="-116" lat="29.94196004394558130456971412" lon="-90.19218673816429543421691051">
+    <tag k="addr:housenumber" v="225"/>
+    <tag k="addr:street" v="Funston Street"/>
+    <tag k="addr:city" v="Jefferson"/>
+    <tag k="addr:postcode" v="70123"/>
+  </node>
+  <node visible="true" id="-117" lat="29.94194949406445616091332340" lon="-90.19206033296532609710993711">
+    <tag k="addr:housenumber" v="223"/>
+    <tag k="addr:street" v="Funston Street"/>
+    <tag k="addr:city" v="Jefferson"/>
+    <tag k="addr:postcode" v="70123"/>
+  </node>
+  <node visible="true" id="-118" lat="29.94202474031718708147309371" lon="-90.19229940199998907246481394">
+    <tag k="addr:housenumber" v="231"/>
+    <tag k="addr:street" v="Funston Street"/>
+    <tag k="addr:city" v="Jefferson"/>
+    <tag k="addr:postcode" v="70123"/>
+  </node>
+  <node visible="true" id="-119" lat="29.94208274461473351379936503" lon="-90.19211597658063794824556680">
+    <tag k="addr:housenumber" v="227"/>
+    <tag k="addr:street" v="Funston Street"/>
+    <tag k="addr:city" v="Jefferson"/>
+    <tag k="addr:postcode" v="70123"/>
+  </node>
+  <node visible="true" id="-120" lat="29.94142108570285287783008243" lon="-90.19231339922529855357424822">
+    <tag k="addr:housenumber" v="202"/>
+    <tag k="addr:street" v="Funston Street"/>
+    <tag k="addr:city" v="Jefferson"/>
+    <tag k="addr:postcode" v="70123"/>
+  </node>
+  <node visible="true" id="-121" lat="29.94154573037613076280649693" lon="-90.19233601612188522267388180">
+    <tag k="addr:housenumber" v="200"/>
+    <tag k="addr:street" v="Funston Street"/>
+    <tag k="addr:city" v="Jefferson"/>
+    <tag k="addr:postcode" v="70123"/>
+  </node>
   <node visible="true" id="-122" lat="29.93598440424449336205725558" lon="-90.19208235266862061507708859"/>
   <node visible="true" id="-123" lat="29.93619663685445431156040286" lon="-90.19234755820409077387012076"/>
   <node visible="true" id="-124" lat="29.93634213041733715954251238" lon="-90.19219251448390650693909265"/>

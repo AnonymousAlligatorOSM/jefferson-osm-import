@@ -1,33 +1,27 @@
 <?xml version='1.0' encoding='utf8'?>
-<osm version="0.6" generator="AnonymousAlligator's import script">
-  <changeset_tag k="comment" v="Import buildings and addresses in Jefferson Parish, see https://wiki.openstreetmap.org/wiki/Import/Catalogue/Jefferson_Parish_Addresses_and_Buildings"/>
-  <changeset_tag k="source" v="Jefferson Parish Planning Department"/>
-  <changeset_tag k="source_file" v="8175_13527"/>
-  <node visible="true" id="-1" lat="29.92234949709600044798207819" lon="-90.18451194851749619374459144"/>
-  <node visible="true" id="-2" lat="29.92228256886236081868446490" lon="-90.18445960254081228413269855"/>
-  <node visible="true" id="-3" lat="29.92218741450847829810300027" lon="-90.18462156495459680627391208"/>
-  <node visible="true" id="-4" lat="29.92225434280610230075581057" lon="-90.18467391093126650503108976"/>
+<osm version="0.6" generator="AnonymousAlligator's import script" upload-changeset="-1">
+  <changeset id="-1">
+    <tag k="comment" v="Import buildings and addresses in Jefferson Parish, see https://wiki.openstreetmap.org/wiki/Import/Catalogue/Jefferson_Parish_Addresses_and_Buildings"/>
+    <tag k="source" v="Jefferson Parish Planning Department"/>
+    <tag k="source_file" v="change-8175_13527.osm"/>
+  </changeset>
+  <node visible="true" id="-1" lat="29.92003158678406649073622248" lon="-90.18631112980716579841100611"/>
+  <node visible="true" id="-2" lat="29.91987792996441086756931327" lon="-90.18633577206470874898514012"/>
+  <node visible="true" id="-3" lat="29.91986594028186985383399588" lon="-90.18623625032850554816832300"/>
+  <node visible="true" id="-4" lat="29.91952564246484058685382479" lon="-90.18629082444148536978900665"/>
+  <node visible="true" id="-5" lat="29.91953676682621221516455989" lon="-90.18638316316335590272501577"/>
+  <node visible="true" id="-6" lat="29.91946088819535631841972645" lon="-90.18639533191840484960266622"/>
+  <node visible="true" id="-7" lat="29.91954106858081985365060973" lon="-90.18706087592985909395792987"/>
+  <node visible="true" id="-8" lat="29.91969296306947967423184309" lon="-90.18703651638355722752748989"/>
+  <node visible="true" id="-9" lat="29.91970454562841297274644603" lon="-90.18713265857584815421432722"/>
+  <node visible="true" id="-10" lat="29.92004508461077705305797281" lon="-90.18707804568856545301969163"/>
+  <node visible="true" id="-11" lat="29.92003384707757973615116498" lon="-90.18698476709744227264309302"/>
+  <node visible="true" id="-12" lat="29.92011124633848240250699746" lon="-90.18697235440542669948627008"/>
   <way visible="true" id="-1">
     <nd ref="-1"/>
     <nd ref="-2"/>
     <nd ref="-3"/>
     <nd ref="-4"/>
-    <nd ref="-1"/>
-    <tag k="building" v="yes"/>
-  </way>
-  <node visible="true" id="-5" lat="29.92003158678406649073622248" lon="-90.18631112980716579841100611"/>
-  <node visible="true" id="-6" lat="29.91987792996441086756931327" lon="-90.18633577206470874898514012"/>
-  <node visible="true" id="-7" lat="29.91986594028186985383399588" lon="-90.18623625032850554816832300"/>
-  <node visible="true" id="-8" lat="29.91952564246484058685382479" lon="-90.18629082444148536978900665"/>
-  <node visible="true" id="-9" lat="29.91953676682621221516455989" lon="-90.18638316316335590272501577"/>
-  <node visible="true" id="-10" lat="29.91946088819535631841972645" lon="-90.18639533191840484960266622"/>
-  <node visible="true" id="-11" lat="29.91954106858081985365060973" lon="-90.18706087592985909395792987"/>
-  <node visible="true" id="-12" lat="29.91969296306947967423184309" lon="-90.18703651638355722752748989"/>
-  <node visible="true" id="-13" lat="29.91970454562841297274644603" lon="-90.18713265857584815421432722"/>
-  <node visible="true" id="-14" lat="29.92004508461077705305797281" lon="-90.18707804568856545301969163"/>
-  <node visible="true" id="-15" lat="29.92003384707757973615116498" lon="-90.18698476709744227264309302"/>
-  <node visible="true" id="-16" lat="29.92011124633848240250699746" lon="-90.18697235440542669948627008"/>
-  <way visible="true" id="-2">
     <nd ref="-5"/>
     <nd ref="-6"/>
     <nd ref="-7"/>
@@ -36,16 +30,24 @@
     <nd ref="-10"/>
     <nd ref="-11"/>
     <nd ref="-12"/>
-    <nd ref="-13"/>
-    <nd ref="-14"/>
-    <nd ref="-15"/>
-    <nd ref="-16"/>
-    <nd ref="-5"/>
+    <nd ref="-1"/>
     <tag k="building" v="yes"/>
     <tag k="addr:housenumber" v="5220"/>
     <tag k="addr:street" v="River Road"/>
     <tag k="addr:city" v="Avondale"/>
     <tag k="addr:postcode" v="70094"/>
+  </way>
+  <node visible="true" id="-13" lat="29.92234949709600044798207819" lon="-90.18451194851749619374459144"/>
+  <node visible="true" id="-14" lat="29.92228256886236081868446490" lon="-90.18445960254081228413269855"/>
+  <node visible="true" id="-15" lat="29.92218741450847829810300027" lon="-90.18462156495459680627391208"/>
+  <node visible="true" id="-16" lat="29.92225434280610230075581057" lon="-90.18467391093126650503108976"/>
+  <way visible="true" id="-2">
+    <nd ref="-13"/>
+    <nd ref="-14"/>
+    <nd ref="-15"/>
+    <nd ref="-16"/>
+    <nd ref="-13"/>
+    <tag k="building" v="yes"/>
   </way>
   <node visible="true" id="-17" lat="29.92592025910346364980796352" lon="-90.18446727030638498945336323"/>
   <node visible="true" id="-18" lat="29.92590917829035035424567468" lon="-90.18445843145941864804626675"/>
@@ -71,10 +73,10 @@
     <nd ref="-17"/>
     <tag k="building" v="yes"/>
   </way>
-  <node visible="true" id="-27" lat="29.92537236755702068080609024" lon="-90.18503525858616853838611860"/>
-  <node visible="true" id="-28" lat="29.92530611329030776346371567" lon="-90.18499578034656849467864959"/>
-  <node visible="true" id="-29" lat="29.92523134945038876253420312" lon="-90.18516282539899009407236008"/>
-  <node visible="true" id="-30" lat="29.92529760376687164580289391" lon="-90.18520230363859013777982909"/>
+  <node visible="true" id="-27" lat="29.92579371484312744655653660" lon="-90.17635915166252402741520200"/>
+  <node visible="true" id="-28" lat="29.92573582667217024777528422" lon="-90.17619643010222318935120711"/>
+  <node visible="true" id="-29" lat="29.92560738192002744995079411" lon="-90.17625726470156166669767117"/>
+  <node visible="true" id="-30" lat="29.92566527016569821739722101" lon="-90.17641998626187671561638126"/>
   <way visible="true" id="-4">
     <nd ref="-27"/>
     <nd ref="-28"/>
@@ -83,10 +85,10 @@
     <nd ref="-27"/>
     <tag k="building" v="yes"/>
   </way>
-  <node visible="true" id="-31" lat="29.92579371484312744655653660" lon="-90.17635915166252402741520200"/>
-  <node visible="true" id="-32" lat="29.92573582667217024777528422" lon="-90.17619643010222318935120711"/>
-  <node visible="true" id="-33" lat="29.92560738192002744995079411" lon="-90.17625726470156166669767117"/>
-  <node visible="true" id="-34" lat="29.92566527016569821739722101" lon="-90.17641998626187671561638126"/>
+  <node visible="true" id="-31" lat="29.92618153531329028282925719" lon="-90.17598813271413860093161929"/>
+  <node visible="true" id="-32" lat="29.92608258188186454162860173" lon="-90.17601702728127577302075224"/>
+  <node visible="true" id="-33" lat="29.92610884793036518658482237" lon="-90.17613678469855642561014974"/>
+  <node visible="true" id="-34" lat="29.92620780133577795822930057" lon="-90.17610789013143346437573200"/>
   <way visible="true" id="-5">
     <nd ref="-31"/>
     <nd ref="-32"/>
@@ -95,10 +97,10 @@
     <nd ref="-31"/>
     <tag k="building" v="yes"/>
   </way>
-  <node visible="true" id="-35" lat="29.92618153531329028282925719" lon="-90.17598813271413860093161929"/>
-  <node visible="true" id="-36" lat="29.92608258188186454162860173" lon="-90.17601702728127577302075224"/>
-  <node visible="true" id="-37" lat="29.92610884793036518658482237" lon="-90.17613678469855642561014974"/>
-  <node visible="true" id="-38" lat="29.92620780133577795822930057" lon="-90.17610789013143346437573200"/>
+  <node visible="true" id="-35" lat="29.92618286659998005916349939" lon="-90.18250195093682464175799396"/>
+  <node visible="true" id="-36" lat="29.92599516743884180414170260" lon="-90.18235276735046568319376092"/>
+  <node visible="true" id="-37" lat="29.92501272481479190901154652" lon="-90.18399842209967687267635483"/>
+  <node visible="true" id="-38" lat="29.92520042582854244983536773" lon="-90.18414760568603583124058787"/>
   <way visible="true" id="-6">
     <nd ref="-35"/>
     <nd ref="-36"/>
@@ -107,10 +109,10 @@
     <nd ref="-35"/>
     <tag k="building" v="yes"/>
   </way>
-  <node visible="true" id="-39" lat="29.92618286659998005916349939" lon="-90.18250195093682464175799396"/>
-  <node visible="true" id="-40" lat="29.92599516743884180414170260" lon="-90.18235276735046568319376092"/>
-  <node visible="true" id="-41" lat="29.92501272481479190901154652" lon="-90.18399842209967687267635483"/>
-  <node visible="true" id="-42" lat="29.92520042582854244983536773" lon="-90.18414760568603583124058787"/>
+  <node visible="true" id="-39" lat="29.92537236755702068080609024" lon="-90.18503525858616853838611860"/>
+  <node visible="true" id="-40" lat="29.92530611329030776346371567" lon="-90.18499578034656849467864959"/>
+  <node visible="true" id="-41" lat="29.92523134945038876253420312" lon="-90.18516282539899009407236008"/>
+  <node visible="true" id="-42" lat="29.92529760376687164580289391" lon="-90.18520230363859013777982909"/>
   <way visible="true" id="-7">
     <nd ref="-39"/>
     <nd ref="-40"/>

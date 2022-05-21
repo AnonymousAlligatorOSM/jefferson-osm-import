@@ -1,8 +1,10 @@
 <?xml version='1.0' encoding='utf8'?>
-<osm version="0.6" generator="AnonymousAlligator's import script">
-  <changeset_tag k="comment" v="Import buildings and addresses in Jefferson Parish, see https://wiki.openstreetmap.org/wiki/Import/Catalogue/Jefferson_Parish_Addresses_and_Buildings"/>
-  <changeset_tag k="source" v="Jefferson Parish Planning Department"/>
-  <changeset_tag k="source_file" v="8180_13531"/>
+<osm version="0.6" generator="AnonymousAlligator's import script" upload-changeset="-1">
+  <changeset id="-1">
+    <tag k="comment" v="Import buildings and addresses in Jefferson Parish, see https://wiki.openstreetmap.org/wiki/Import/Catalogue/Jefferson_Parish_Addresses_and_Buildings"/>
+    <tag k="source" v="Jefferson Parish Planning Department"/>
+    <tag k="source_file" v="change-8180_13531.osm"/>
+  </changeset>
   <node visible="true" id="-1" lat="29.88482643945045680311523029" lon="-90.12378880816484638671681751"/>
   <node visible="true" id="-2" lat="29.88483623179967096916698210" lon="-90.12391121734282251054537483"/>
   <node visible="true" id="-3" lat="29.88491199795103980818566924" lon="-90.12390315462634760024229763"/>
@@ -988,12 +990,14 @@
     <tag k="addr:city" v="Marrero"/>
     <tag k="addr:postcode" v="70072"/>
   </way>
-  <node visible="true" id="-330" lat="29.88627160521036074669609661" lon="-90.12811548232353686671558535"/>
-  <node visible="true" id="-331" lat="29.88613365317979742030729540" lon="-90.12813554648705860472546192"/>
-  <node visible="true" id="-332" lat="29.88614044202999764365813462" lon="-90.12819764025221047631930560"/>
-  <node visible="true" id="-333" lat="29.88605463182816279754661082" lon="-90.12821012073619897364551434"/>
-  <node visible="true" id="-334" lat="29.88606210355242964737954026" lon="-90.12827846030948819588957122"/>
-  <node visible="true" id="-335" lat="29.88628586575885393017415481" lon="-90.12824591566197796055348590"/>
+  <node visible="true" id="-330" lat="29.88743856592620318224362563" lon="-90.12321357161576429462002125"/>
+  <node visible="true" id="-331" lat="29.88743537540564432219980517" lon="-90.12317618716404865608637920"/>
+  <node visible="true" id="-332" lat="29.88750771225498681360477349" lon="-90.12316797446248983760597184"/>
+  <node visible="true" id="-333" lat="29.88749986148136628116844804" lon="-90.12307598412499487494642381"/>
+  <node visible="true" id="-334" lat="29.88745743608961902282317169" lon="-90.12308080085543338100251276"/>
+  <node visible="true" id="-335" lat="29.88745826849665832014579792" lon="-90.12309055446193895022588549"/>
+  <node visible="true" id="-336" lat="29.88735402965260590235629934" lon="-90.12310238912104409791936632"/>
+  <node visible="true" id="-337" lat="29.88736423855320722964279412" lon="-90.12322201030376334074389888"/>
   <way visible="true" id="-42">
     <nd ref="-330"/>
     <nd ref="-331"/>
@@ -1001,34 +1005,32 @@
     <nd ref="-333"/>
     <nd ref="-334"/>
     <nd ref="-335"/>
+    <nd ref="-336"/>
+    <nd ref="-337"/>
     <nd ref="-330"/>
     <tag k="building" v="yes"/>
-    <tag k="addr:housenumber" v="1"/>
-    <tag k="addr:street" v="Azalea Lane"/>
+    <tag k="addr:housenumber" v="1105"/>
+    <tag k="addr:street" v="Candlelight Court"/>
     <tag k="addr:city" v="Marrero"/>
     <tag k="addr:postcode" v="70072"/>
   </way>
-  <node visible="true" id="-336" lat="29.88743856592620318224362563" lon="-90.12321357161576429462002125"/>
-  <node visible="true" id="-337" lat="29.88743537540564432219980517" lon="-90.12317618716404865608637920"/>
-  <node visible="true" id="-338" lat="29.88750771225498681360477349" lon="-90.12316797446248983760597184"/>
-  <node visible="true" id="-339" lat="29.88749986148136628116844804" lon="-90.12307598412499487494642381"/>
-  <node visible="true" id="-340" lat="29.88745743608961902282317169" lon="-90.12308080085543338100251276"/>
-  <node visible="true" id="-341" lat="29.88745826849665832014579792" lon="-90.12309055446193895022588549"/>
-  <node visible="true" id="-342" lat="29.88735402965260590235629934" lon="-90.12310238912104409791936632"/>
-  <node visible="true" id="-343" lat="29.88736423855320722964279412" lon="-90.12322201030376334074389888"/>
+  <node visible="true" id="-338" lat="29.88627160521036074669609661" lon="-90.12811548232353686671558535"/>
+  <node visible="true" id="-339" lat="29.88613365317979742030729540" lon="-90.12813554648705860472546192"/>
+  <node visible="true" id="-340" lat="29.88614044202999764365813462" lon="-90.12819764025221047631930560"/>
+  <node visible="true" id="-341" lat="29.88605463182816279754661082" lon="-90.12821012073619897364551434"/>
+  <node visible="true" id="-342" lat="29.88606210355242964737954026" lon="-90.12827846030948819588957122"/>
+  <node visible="true" id="-343" lat="29.88628586575885393017415481" lon="-90.12824591566197796055348590"/>
   <way visible="true" id="-43">
-    <nd ref="-336"/>
-    <nd ref="-337"/>
     <nd ref="-338"/>
     <nd ref="-339"/>
     <nd ref="-340"/>
     <nd ref="-341"/>
     <nd ref="-342"/>
     <nd ref="-343"/>
-    <nd ref="-336"/>
+    <nd ref="-338"/>
     <tag k="building" v="yes"/>
-    <tag k="addr:housenumber" v="1105"/>
-    <tag k="addr:street" v="Candlelight Court"/>
+    <tag k="addr:housenumber" v="1"/>
+    <tag k="addr:street" v="Azalea Lane"/>
     <tag k="addr:city" v="Marrero"/>
     <tag k="addr:postcode" v="70072"/>
   </way>
@@ -1084,58 +1086,58 @@
     <tag k="addr:city" v="Marrero"/>
     <tag k="addr:postcode" v="70072"/>
   </way>
-  <node visible="true" id="-362" lat="29.88696622389729284918757912" lon="-90.12326584398459772273781709"/>
-  <node visible="true" id="-363" lat="29.88695437150015266070113285" lon="-90.12312109660962278212537058"/>
-  <node visible="true" id="-364" lat="29.88681602710271434375499666" lon="-90.12313616643997704613866517"/>
-  <node visible="true" id="-365" lat="29.88682787951639241441625927" lon="-90.12328091381496619760582689"/>
+  <node visible="true" id="-362" lat="29.88515062699111979327426525" lon="-90.12333710942026243628788507"/>
+  <node visible="true" id="-363" lat="29.88509465776278872795046482" lon="-90.12334304018156672100303695"/>
+  <node visible="true" id="-364" lat="29.88509127484030614141374826" lon="-90.12330057173342368059820728"/>
+  <node visible="true" id="-365" lat="29.88504372216121751648643112" lon="-90.12330561063500056206976296"/>
+  <node visible="true" id="-366" lat="29.88504730925998131851883954" lon="-90.12335064224477321204176405"/>
+  <node visible="true" id="-367" lat="29.88499273602455019727131003" lon="-90.12335642507417787783197127"/>
+  <node visible="true" id="-368" lat="29.88500311278761145672433486" lon="-90.12348669249988120100169908"/>
+  <node visible="true" id="-369" lat="29.88516120791219776720026857" lon="-90.12346994000760957987949951"/>
   <way visible="true" id="-46">
     <nd ref="-362"/>
     <nd ref="-363"/>
     <nd ref="-364"/>
     <nd ref="-365"/>
+    <nd ref="-366"/>
+    <nd ref="-367"/>
+    <nd ref="-368"/>
+    <nd ref="-369"/>
     <nd ref="-362"/>
+    <tag k="building" v="yes"/>
+    <tag k="addr:housenumber" v="1149"/>
+    <tag k="addr:street" v="Candlelight Court"/>
+    <tag k="addr:city" v="Marrero"/>
+    <tag k="addr:postcode" v="70072"/>
+  </way>
+  <node visible="true" id="-370" lat="29.88696622389729284918757912" lon="-90.12326584398459772273781709"/>
+  <node visible="true" id="-371" lat="29.88695437150015266070113285" lon="-90.12312109660962278212537058"/>
+  <node visible="true" id="-372" lat="29.88681602710271434375499666" lon="-90.12313616643997704613866517"/>
+  <node visible="true" id="-373" lat="29.88682787951639241441625927" lon="-90.12328091381496619760582689"/>
+  <way visible="true" id="-47">
+    <nd ref="-370"/>
+    <nd ref="-371"/>
+    <nd ref="-372"/>
+    <nd ref="-373"/>
+    <nd ref="-370"/>
     <tag k="building" v="yes"/>
     <tag k="addr:housenumber" v="1117"/>
     <tag k="addr:street" v="Candlelight Court"/>
     <tag k="addr:city" v="Marrero"/>
     <tag k="addr:postcode" v="70072"/>
   </way>
-  <node visible="true" id="-366" lat="29.88699353952923587485202006" lon="-90.12367461375519894772878615"/>
-  <node visible="true" id="-367" lat="29.88715056559752980547273182" lon="-90.12365562694627385553758359"/>
-  <node visible="true" id="-368" lat="29.88713861188393750012437522" lon="-90.12352411187508494094799971"/>
-  <node visible="true" id="-369" lat="29.88698158579680708157866320" lon="-90.12354309868401003313920228"/>
-  <way visible="true" id="-47">
-    <nd ref="-366"/>
-    <nd ref="-367"/>
-    <nd ref="-368"/>
-    <nd ref="-369"/>
-    <nd ref="-366"/>
-    <tag k="building" v="yes"/>
-    <tag k="addr:housenumber" v="1112"/>
-    <tag k="addr:street" v="Candlelight Court"/>
-    <tag k="addr:city" v="Marrero"/>
-    <tag k="addr:postcode" v="70072"/>
-  </way>
-  <node visible="true" id="-370" lat="29.88515062699111979327426525" lon="-90.12333710942026243628788507"/>
-  <node visible="true" id="-371" lat="29.88509465776278872795046482" lon="-90.12334304018156672100303695"/>
-  <node visible="true" id="-372" lat="29.88509127484030614141374826" lon="-90.12330057173342368059820728"/>
-  <node visible="true" id="-373" lat="29.88504372216121751648643112" lon="-90.12330561063500056206976296"/>
-  <node visible="true" id="-374" lat="29.88504730925998131851883954" lon="-90.12335064224477321204176405"/>
-  <node visible="true" id="-375" lat="29.88499273602455019727131003" lon="-90.12335642507417787783197127"/>
-  <node visible="true" id="-376" lat="29.88500311278761145672433486" lon="-90.12348669249988120100169908"/>
-  <node visible="true" id="-377" lat="29.88516120791219776720026857" lon="-90.12346994000760957987949951"/>
+  <node visible="true" id="-374" lat="29.88699353952923587485202006" lon="-90.12367461375519894772878615"/>
+  <node visible="true" id="-375" lat="29.88715056559752980547273182" lon="-90.12365562694627385553758359"/>
+  <node visible="true" id="-376" lat="29.88713861188393750012437522" lon="-90.12352411187508494094799971"/>
+  <node visible="true" id="-377" lat="29.88698158579680708157866320" lon="-90.12354309868401003313920228"/>
   <way visible="true" id="-48">
-    <nd ref="-370"/>
-    <nd ref="-371"/>
-    <nd ref="-372"/>
-    <nd ref="-373"/>
     <nd ref="-374"/>
     <nd ref="-375"/>
     <nd ref="-376"/>
     <nd ref="-377"/>
-    <nd ref="-370"/>
+    <nd ref="-374"/>
     <tag k="building" v="yes"/>
-    <tag k="addr:housenumber" v="1149"/>
+    <tag k="addr:housenumber" v="1112"/>
     <tag k="addr:street" v="Candlelight Court"/>
     <tag k="addr:city" v="Marrero"/>
     <tag k="addr:postcode" v="70072"/>
@@ -1308,19 +1310,14 @@
     <tag k="addr:city" v="Marrero"/>
     <tag k="addr:postcode" v="70072"/>
   </way>
-  <node visible="true" id="-430" lat="29.88083916476974266629440535" lon="-90.12651282598032764781237347"/>
-  <node visible="true" id="-431" lat="29.88081785144881052929122234" lon="-90.12633639996748513567581540"/>
-  <node visible="true" id="-432" lat="29.88077065380215913137362804" lon="-90.12634257979574670116562629"/>
-  <node visible="true" id="-433" lat="29.88077273306565828647762828" lon="-90.12636101637576757639180869"/>
-  <node visible="true" id="-434" lat="29.88071766107319859884228208" lon="-90.12636880499547942235949449"/>
-  <node visible="true" id="-435" lat="29.88070464943120541079224495" lon="-90.12637031645799368106963811"/>
-  <node visible="true" id="-436" lat="29.88072005673877740150601312" lon="-90.12650152802426362086407607"/>
-  <node visible="true" id="-437" lat="29.88075075464513830070245604" lon="-90.12649704785692961195309181"/>
-  <node visible="true" id="-438" lat="29.88075006298764080270302657" lon="-90.12649197489800201310572447"/>
-  <node visible="true" id="-439" lat="29.88077740768312295926989464" lon="-90.12648802806238279572426109"/>
-  <node visible="true" id="-440" lat="29.88077811031787334172804549" lon="-90.12649301910019516981265042"/>
-  <node visible="true" id="-441" lat="29.88079456215470841584647133" lon="-90.12649071961345725867431611"/>
-  <node visible="true" id="-442" lat="29.88079810920015688679995947" lon="-90.12651975871139597984438296"/>
+  <node visible="true" id="-430" lat="29.88151792810760554175431025" lon="-90.12676518227056021714815870"/>
+  <node visible="true" id="-431" lat="29.88152008622025945783207135" lon="-90.12678440031839954826864414"/>
+  <node visible="true" id="-432" lat="29.88150760626800561681193358" lon="-90.12678626447308261049329303"/>
+  <node visible="true" id="-433" lat="29.88150534071590413986996282" lon="-90.12676608967733216104534222"/>
+  <node visible="true" id="-434" lat="29.88142307997164692778824246" lon="-90.12677837711827066868863767"/>
+  <node visible="true" id="-435" lat="29.88144161602310333591958624" lon="-90.12694344098295573530776892"/>
+  <node visible="true" id="-436" lat="29.88156702334215353289437189" lon="-90.12692470865005134328384884"/>
+  <node visible="true" id="-437" lat="29.88154859475318048112058023" lon="-90.12676060153330581670161337"/>
   <way visible="true" id="-57">
     <nd ref="-430"/>
     <nd ref="-431"/>
@@ -1330,27 +1327,37 @@
     <nd ref="-435"/>
     <nd ref="-436"/>
     <nd ref="-437"/>
-    <nd ref="-438"/>
-    <nd ref="-439"/>
-    <nd ref="-440"/>
-    <nd ref="-441"/>
-    <nd ref="-442"/>
     <nd ref="-430"/>
     <tag k="building" v="yes"/>
-    <tag k="addr:housenumber" v="1613"/>
+    <tag k="addr:housenumber" v="1524"/>
     <tag k="addr:street" v="Wild Oak Lane"/>
     <tag k="addr:city" v="Marrero"/>
     <tag k="addr:postcode" v="70072"/>
   </way>
-  <node visible="true" id="-443" lat="29.88151792810760554175431025" lon="-90.12676518227056021714815870"/>
-  <node visible="true" id="-444" lat="29.88152008622025945783207135" lon="-90.12678440031839954826864414"/>
-  <node visible="true" id="-445" lat="29.88150760626800561681193358" lon="-90.12678626447308261049329303"/>
-  <node visible="true" id="-446" lat="29.88150534071590413986996282" lon="-90.12676608967733216104534222"/>
-  <node visible="true" id="-447" lat="29.88142307997164692778824246" lon="-90.12677837711827066868863767"/>
-  <node visible="true" id="-448" lat="29.88144161602310333591958624" lon="-90.12694344098295573530776892"/>
-  <node visible="true" id="-449" lat="29.88156702334215353289437189" lon="-90.12692470865005134328384884"/>
-  <node visible="true" id="-450" lat="29.88154859475318048112058023" lon="-90.12676060153330581670161337"/>
+  <node visible="true" id="-438" lat="29.87968308180951382269086025" lon="-90.12542578278164739913336234">
+    <tag k="addr:housenumber" v="6964"/>
+    <tag k="addr:street" v="Cyprus Bark Drive"/>
+    <tag k="addr:city" v="Marrero"/>
+    <tag k="addr:postcode" v="70072"/>
+  </node>
+  <node visible="true" id="-439" lat="29.88083916476974266629440535" lon="-90.12651282598032764781237347"/>
+  <node visible="true" id="-440" lat="29.88081785144881052929122234" lon="-90.12633639996748513567581540"/>
+  <node visible="true" id="-441" lat="29.88077065380215913137362804" lon="-90.12634257979574670116562629"/>
+  <node visible="true" id="-442" lat="29.88077273306565828647762828" lon="-90.12636101637576757639180869"/>
+  <node visible="true" id="-443" lat="29.88071766107319859884228208" lon="-90.12636880499547942235949449"/>
+  <node visible="true" id="-444" lat="29.88070464943120541079224495" lon="-90.12637031645799368106963811"/>
+  <node visible="true" id="-445" lat="29.88072005673877740150601312" lon="-90.12650152802426362086407607"/>
+  <node visible="true" id="-446" lat="29.88075075464513830070245604" lon="-90.12649704785692961195309181"/>
+  <node visible="true" id="-447" lat="29.88075006298764080270302657" lon="-90.12649197489800201310572447"/>
+  <node visible="true" id="-448" lat="29.88077740768312295926989464" lon="-90.12648802806238279572426109"/>
+  <node visible="true" id="-449" lat="29.88077811031787334172804549" lon="-90.12649301910019516981265042"/>
+  <node visible="true" id="-450" lat="29.88079456215470841584647133" lon="-90.12649071961345725867431611"/>
+  <node visible="true" id="-451" lat="29.88079810920015688679995947" lon="-90.12651975871139597984438296"/>
   <way visible="true" id="-58">
+    <nd ref="-439"/>
+    <nd ref="-440"/>
+    <nd ref="-441"/>
+    <nd ref="-442"/>
     <nd ref="-443"/>
     <nd ref="-444"/>
     <nd ref="-445"/>
@@ -1359,19 +1366,14 @@
     <nd ref="-448"/>
     <nd ref="-449"/>
     <nd ref="-450"/>
-    <nd ref="-443"/>
+    <nd ref="-451"/>
+    <nd ref="-439"/>
     <tag k="building" v="yes"/>
-    <tag k="addr:housenumber" v="1524"/>
+    <tag k="addr:housenumber" v="1613"/>
     <tag k="addr:street" v="Wild Oak Lane"/>
     <tag k="addr:city" v="Marrero"/>
     <tag k="addr:postcode" v="70072"/>
   </way>
-  <node visible="true" id="-451" lat="29.87968308180951382269086025" lon="-90.12542578278164739913336234">
-    <tag k="addr:housenumber" v="6964"/>
-    <tag k="addr:street" v="Cyprus Bark Drive"/>
-    <tag k="addr:city" v="Marrero"/>
-    <tag k="addr:postcode" v="70072"/>
-  </node>
   <node visible="true" id="-452" lat="29.87929983817639723042702826" lon="-90.12515908290511390532628866"/>
   <node visible="true" id="-453" lat="29.87929090238278817537320720" lon="-90.12515801078056654205283849"/>
   <node visible="true" id="-454" lat="29.87929541578062497819701093" lon="-90.12510797550018537549476605"/>
@@ -1930,63 +1932,63 @@
     <tag k="addr:city" v="Marrero"/>
     <tag k="addr:postcode" v="70072"/>
   </node>
-  <node visible="true" id="-593" lat="29.87936115740063769408152439" lon="-90.12389506123085425315366592">
-    <tag k="addr:housenumber" v="1720"/>
-    <tag k="addr:street" v="Rue Esplanade"/>
-    <tag k="addr:city" v="Marrero"/>
-    <tag k="addr:postcode" v="70072"/>
-  </node>
-  <node visible="true" id="-594" lat="29.87907736084943621790444013" lon="-90.12346331892550210795889143">
-    <tag k="addr:housenumber" v="1805"/>
-    <tag k="addr:street" v="Rue Esplanade"/>
-    <tag k="addr:city" v="Marrero"/>
-    <tag k="addr:postcode" v="70072"/>
-  </node>
-  <node visible="true" id="-595" lat="29.87936563428909764184027154" lon="-90.12352660920895175422629109">
-    <tag k="addr:housenumber" v="1801"/>
-    <tag k="addr:street" v="Rue Esplanade"/>
-    <tag k="addr:city" v="Marrero"/>
-    <tag k="addr:postcode" v="70072"/>
-  </node>
-  <node visible="true" id="-596" lat="29.87949687607602200500878098" lon="-90.12345360618732570401334669">
-    <tag k="addr:housenumber" v="1719"/>
-    <tag k="addr:street" v="Rue Esplanade"/>
-    <tag k="addr:city" v="Marrero"/>
-    <tag k="addr:postcode" v="70072"/>
-  </node>
-  <node visible="true" id="-597" lat="29.87971862928641186840650334" lon="-90.12343703079396561861358350">
+  <node visible="true" id="-593" lat="29.87971862928641186840650334" lon="-90.12343703079396561861358350">
     <tag k="addr:housenumber" v="1709"/>
     <tag k="addr:street" v="Rue Esplanade"/>
     <tag k="addr:city" v="Marrero"/>
     <tag k="addr:postcode" v="70072"/>
   </node>
-  <node visible="true" id="-598" lat="29.87985158730492685208446346" lon="-90.12341690030062579808145529">
+  <node visible="true" id="-594" lat="29.87985158730492685208446346" lon="-90.12341690030062579808145529">
     <tag k="addr:housenumber" v="1705"/>
     <tag k="addr:street" v="Rue Esplanade"/>
     <tag k="addr:city" v="Marrero"/>
     <tag k="addr:postcode" v="70072"/>
   </node>
-  <node visible="true" id="-599" lat="29.87955040641664083977957489" lon="-90.12444834794200687611009926">
+  <node visible="true" id="-595" lat="29.87955040641664083977957489" lon="-90.12444834794200687611009926">
     <tag k="addr:housenumber" v="1720"/>
     <tag k="addr:street" v="Rue Conti"/>
     <tag k="addr:city" v="Marrero"/>
     <tag k="addr:postcode" v="70072"/>
   </node>
-  <node visible="true" id="-600" lat="29.87968345063108088766057335" lon="-90.12443747856865172707330203">
+  <node visible="true" id="-596" lat="29.87968345063108088766057335" lon="-90.12443747856865172707330203">
     <tag k="addr:housenumber" v="1716"/>
     <tag k="addr:street" v="Rue Conti"/>
     <tag k="addr:city" v="Marrero"/>
     <tag k="addr:postcode" v="70072"/>
   </node>
-  <node visible="true" id="-601" lat="29.87983933064306540927645983" lon="-90.12440770447810223231499549">
+  <node visible="true" id="-597" lat="29.87983933064306540927645983" lon="-90.12440770447810223231499549">
     <tag k="addr:housenumber" v="1712"/>
     <tag k="addr:street" v="Rue Conti"/>
     <tag k="addr:city" v="Marrero"/>
     <tag k="addr:postcode" v="70072"/>
   </node>
-  <node visible="true" id="-602" lat="29.87996794130884836704353802" lon="-90.12439006706719624162360560">
+  <node visible="true" id="-598" lat="29.87996794130884836704353802" lon="-90.12439006706719624162360560">
     <tag k="addr:housenumber" v="1708"/>
     <tag k="addr:street" v="Rue Conti"/>
+    <tag k="addr:city" v="Marrero"/>
+    <tag k="addr:postcode" v="70072"/>
+  </node>
+  <node visible="true" id="-599" lat="29.87936115740063769408152439" lon="-90.12389506123085425315366592">
+    <tag k="addr:housenumber" v="1720"/>
+    <tag k="addr:street" v="Rue Esplanade"/>
+    <tag k="addr:city" v="Marrero"/>
+    <tag k="addr:postcode" v="70072"/>
+  </node>
+  <node visible="true" id="-600" lat="29.87907736084943621790444013" lon="-90.12346331892550210795889143">
+    <tag k="addr:housenumber" v="1805"/>
+    <tag k="addr:street" v="Rue Esplanade"/>
+    <tag k="addr:city" v="Marrero"/>
+    <tag k="addr:postcode" v="70072"/>
+  </node>
+  <node visible="true" id="-601" lat="29.87936563428909764184027154" lon="-90.12352660920895175422629109">
+    <tag k="addr:housenumber" v="1801"/>
+    <tag k="addr:street" v="Rue Esplanade"/>
+    <tag k="addr:city" v="Marrero"/>
+    <tag k="addr:postcode" v="70072"/>
+  </node>
+  <node visible="true" id="-602" lat="29.87949687607602200500878098" lon="-90.12345360618732570401334669">
+    <tag k="addr:housenumber" v="1719"/>
+    <tag k="addr:street" v="Rue Esplanade"/>
     <tag k="addr:city" v="Marrero"/>
     <tag k="addr:postcode" v="70072"/>
   </node>

@@ -1,8 +1,10 @@
 <?xml version='1.0' encoding='utf8'?>
-<osm version="0.6" generator="AnonymousAlligator's import script">
-  <changeset_tag k="comment" v="Import buildings and addresses in Jefferson Parish, see https://wiki.openstreetmap.org/wiki/Import/Catalogue/Jefferson_Parish_Addresses_and_Buildings"/>
-  <changeset_tag k="source" v="Jefferson Parish Planning Department"/>
-  <changeset_tag k="source_file" v="8180_13529"/>
+<osm version="0.6" generator="AnonymousAlligator's import script" upload-changeset="-1">
+  <changeset id="-1">
+    <tag k="comment" v="Import buildings and addresses in Jefferson Parish, see https://wiki.openstreetmap.org/wiki/Import/Catalogue/Jefferson_Parish_Addresses_and_Buildings"/>
+    <tag k="source" v="Jefferson Parish Planning Department"/>
+    <tag k="source_file" v="change-8180_13529.osm"/>
+  </changeset>
   <node visible="true" id="-1" lat="29.90340060196592020247408072" lon="-90.13041340443062665599427419"/>
   <node visible="true" id="-2" lat="29.90339450853546310327146784" lon="-90.13041586892110501594288507"/>
   <node visible="true" id="-3" lat="29.90338941922419024876944604" lon="-90.13039912378897611233696807"/>
@@ -366,48 +368,48 @@
     <tag k="addr:city" v="Marrero"/>
     <tag k="addr:postcode" v="70072"/>
   </way>
-  <node visible="true" id="-115" lat="29.89794107354736851789311913" lon="-90.12931368432283818492578575"/>
-  <node visible="true" id="-116" lat="29.89809347211788903564411157" lon="-90.12926001408779086432332406"/>
-  <node visible="true" id="-117" lat="29.89807938466279679801118618" lon="-90.12920678755088488287583459"/>
-  <node visible="true" id="-118" lat="29.89792698607074328265298391" lon="-90.12926045778590378176886588"/>
+  <node visible="true" id="-115" lat="29.90318670458098182507455931" lon="-90.13048233516933294140471844"/>
+  <node visible="true" id="-116" lat="29.90323593589571515849456773" lon="-90.13064292431735680111160036"/>
+  <node visible="true" id="-117" lat="29.90327170633877784666765365" lon="-90.13062833137080076539859874"/>
+  <node visible="true" id="-118" lat="29.90327538401762552666696138" lon="-90.13064032771258382581436308"/>
+  <node visible="true" id="-119" lat="29.90332218841594880132106482" lon="-90.13062123333374131561868126"/>
+  <node visible="true" id="-120" lat="29.90326927946493640320113627" lon="-90.13044864784393439549603499"/>
   <way visible="true" id="-16">
     <nd ref="-115"/>
     <nd ref="-116"/>
     <nd ref="-117"/>
     <nd ref="-118"/>
+    <nd ref="-119"/>
+    <nd ref="-120"/>
     <nd ref="-115"/>
+    <tag k="building" v="yes"/>
+    <tag k="addr:housenumber" v="426"/>
+    <tag k="addr:street" v="Celotex Park"/>
+    <tag k="addr:city" v="Westwego"/>
+    <tag k="addr:postcode" v="70094"/>
+  </way>
+  <node visible="true" id="-121" lat="29.89794107354736851789311913" lon="-90.12931368432283818492578575"/>
+  <node visible="true" id="-122" lat="29.89809347211788903564411157" lon="-90.12926001408779086432332406"/>
+  <node visible="true" id="-123" lat="29.89807938466279679801118618" lon="-90.12920678755088488287583459"/>
+  <node visible="true" id="-124" lat="29.89792698607074328265298391" lon="-90.12926045778590378176886588"/>
+  <way visible="true" id="-17">
+    <nd ref="-121"/>
+    <nd ref="-122"/>
+    <nd ref="-123"/>
+    <nd ref="-124"/>
+    <nd ref="-121"/>
     <tag k="building" v="yes"/>
     <tag k="addr:housenumber" v="7424"/>
     <tag k="addr:street" v="Saint Rita Drive"/>
     <tag k="addr:city" v="Marrero"/>
     <tag k="addr:postcode" v="70072"/>
   </way>
-  <node visible="true" id="-119" lat="29.89786209732864818988673505" lon="-90.12866891671988867074105656"/>
-  <node visible="true" id="-120" lat="29.89794803645137477587923058" lon="-90.12863839675179633559309877"/>
-  <node visible="true" id="-121" lat="29.89793524782331246569810901" lon="-90.12859048103968007126240991"/>
-  <node visible="true" id="-122" lat="29.89798754206925579524067871" lon="-90.12857190952570363151608035"/>
-  <node visible="true" id="-123" lat="29.89796157835221990239915613" lon="-90.12847463009944704026565887"/>
-  <node visible="true" id="-124" lat="29.89782334493652982132516627" lon="-90.12852372158154423686937662"/>
-  <way visible="true" id="-17">
-    <nd ref="-119"/>
-    <nd ref="-120"/>
-    <nd ref="-121"/>
-    <nd ref="-122"/>
-    <nd ref="-123"/>
-    <nd ref="-124"/>
-    <nd ref="-119"/>
-    <tag k="building" v="yes"/>
-    <tag k="addr:housenumber" v="7410"/>
-    <tag k="addr:street" v="Saint Rita Drive"/>
-    <tag k="addr:city" v="Marrero"/>
-    <tag k="addr:postcode" v="70072"/>
-  </way>
-  <node visible="true" id="-125" lat="29.90318670458098182507455931" lon="-90.13048233516933294140471844"/>
-  <node visible="true" id="-126" lat="29.90323593589571515849456773" lon="-90.13064292431735680111160036"/>
-  <node visible="true" id="-127" lat="29.90327170633877784666765365" lon="-90.13062833137080076539859874"/>
-  <node visible="true" id="-128" lat="29.90327538401762552666696138" lon="-90.13064032771258382581436308"/>
-  <node visible="true" id="-129" lat="29.90332218841594880132106482" lon="-90.13062123333374131561868126"/>
-  <node visible="true" id="-130" lat="29.90326927946493640320113627" lon="-90.13044864784393439549603499"/>
+  <node visible="true" id="-125" lat="29.89786209732864818988673505" lon="-90.12866891671988867074105656"/>
+  <node visible="true" id="-126" lat="29.89794803645137477587923058" lon="-90.12863839675179633559309877"/>
+  <node visible="true" id="-127" lat="29.89793524782331246569810901" lon="-90.12859048103968007126240991"/>
+  <node visible="true" id="-128" lat="29.89798754206925579524067871" lon="-90.12857190952570363151608035"/>
+  <node visible="true" id="-129" lat="29.89796157835221990239915613" lon="-90.12847463009944704026565887"/>
+  <node visible="true" id="-130" lat="29.89782334493652982132516627" lon="-90.12852372158154423686937662"/>
   <way visible="true" id="-18">
     <nd ref="-125"/>
     <nd ref="-126"/>
@@ -417,10 +419,10 @@
     <nd ref="-130"/>
     <nd ref="-125"/>
     <tag k="building" v="yes"/>
-    <tag k="addr:housenumber" v="426"/>
-    <tag k="addr:street" v="Celotex Park"/>
-    <tag k="addr:city" v="Westwego"/>
-    <tag k="addr:postcode" v="70094"/>
+    <tag k="addr:housenumber" v="7410"/>
+    <tag k="addr:street" v="Saint Rita Drive"/>
+    <tag k="addr:city" v="Marrero"/>
+    <tag k="addr:postcode" v="70072"/>
   </way>
   <node visible="true" id="-131" lat="29.89858196062082740240839485" lon="-90.12397027701300089574942831"/>
   <node visible="true" id="-132" lat="29.89850485448126704568494461" lon="-90.12399296933426739997230470"/>

@@ -1,8 +1,10 @@
 <?xml version='1.0' encoding='utf8'?>
-<osm version="0.6" generator="AnonymousAlligator's import script">
-  <changeset_tag k="comment" v="Import buildings and addresses in Jefferson Parish, see https://wiki.openstreetmap.org/wiki/Import/Catalogue/Jefferson_Parish_Addresses_and_Buildings"/>
-  <changeset_tag k="source" v="Jefferson Parish Planning Department"/>
-  <changeset_tag k="source_file" v="8167_13521"/>
+<osm version="0.6" generator="AnonymousAlligator's import script" upload-changeset="-1">
+  <changeset id="-1">
+    <tag k="comment" v="Import buildings and addresses in Jefferson Parish, see https://wiki.openstreetmap.org/wiki/Import/Catalogue/Jefferson_Parish_Addresses_and_Buildings"/>
+    <tag k="source" v="Jefferson Parish Planning Department"/>
+    <tag k="source_file" v="change-8167_13521.osm"/>
+  </changeset>
   <node visible="true" id="-1" lat="29.98166152073468282424073550" lon="-90.27441858536319330141850514"/>
   <node visible="true" id="-2" lat="29.98163516603595368792412046" lon="-90.27442099780816420206974726"/>
   <node visible="true" id="-3" lat="29.98163410347812174450154998" lon="-90.27440552634597281667083735"/>
@@ -237,42 +239,42 @@
     <tag k="addr:city" v="Kenner"/>
     <tag k="addr:postcode" v="70062"/>
   </way>
-  <node visible="true" id="-90" lat="29.98150908938188052843543119" lon="-90.26744230434378835070674540"/>
-  <node visible="true" id="-91" lat="29.98129412741434407507767901" lon="-90.26745178207461606234573992"/>
-  <node visible="true" id="-92" lat="29.98129629024769826628471492" lon="-90.26750540117899390679667704"/>
-  <node visible="true" id="-93" lat="29.98138415977362569719844032" lon="-90.26750794134497368759184610"/>
-  <node visible="true" id="-94" lat="29.98138755538978017511908547" lon="-90.26755314049556488953385269"/>
-  <node visible="true" id="-95" lat="29.98148748509266781070436991" lon="-90.26754859382602091955050128"/>
-  <node visible="true" id="-96" lat="29.98148399086011650638283754" lon="-90.26749121654353302801609971"/>
-  <node visible="true" id="-97" lat="29.98151069931843792915060476" lon="-90.26748680651301981470169267"/>
+  <node visible="true" id="-90" lat="29.97687739693142816577164922" lon="-90.27134855780195721308700740"/>
+  <node visible="true" id="-91" lat="29.97688410588476770612942346" lon="-90.27146744004255651816492900"/>
+  <node visible="true" id="-92" lat="29.97702276941025090195580560" lon="-90.27145701118291754028177820"/>
+  <node visible="true" id="-93" lat="29.97701606046641487068882270" lon="-90.27133812894231823520385660"/>
   <way visible="true" id="-8">
     <nd ref="-90"/>
     <nd ref="-91"/>
     <nd ref="-92"/>
     <nd ref="-93"/>
+    <nd ref="-90"/>
+    <tag k="building" v="yes"/>
+    <tag k="addr:street" v="3rd Street"/>
+    <tag k="addr:city" v="Kenner"/>
+    <tag k="addr:postcode" v="70062"/>
+  </way>
+  <node visible="true" id="-94" lat="29.98150908938188052843543119" lon="-90.26744230434378835070674540"/>
+  <node visible="true" id="-95" lat="29.98129412741434407507767901" lon="-90.26745178207461606234573992"/>
+  <node visible="true" id="-96" lat="29.98129629024769826628471492" lon="-90.26750540117899390679667704"/>
+  <node visible="true" id="-97" lat="29.98138415977362569719844032" lon="-90.26750794134497368759184610"/>
+  <node visible="true" id="-98" lat="29.98138755538978017511908547" lon="-90.26755314049556488953385269"/>
+  <node visible="true" id="-99" lat="29.98148748509266781070436991" lon="-90.26754859382602091955050128"/>
+  <node visible="true" id="-100" lat="29.98148399086011650638283754" lon="-90.26749121654353302801609971"/>
+  <node visible="true" id="-101" lat="29.98151069931843792915060476" lon="-90.26748680651301981470169267"/>
+  <way visible="true" id="-9">
     <nd ref="-94"/>
     <nd ref="-95"/>
     <nd ref="-96"/>
     <nd ref="-97"/>
-    <nd ref="-90"/>
-    <tag k="building" v="yes"/>
-    <tag k="addr:housenumber" v="324"/>
-    <tag k="addr:street" v="Fortier  Street"/>
-    <tag k="addr:city" v="Kenner"/>
-    <tag k="addr:postcode" v="70062"/>
-  </way>
-  <node visible="true" id="-98" lat="29.97687739693142816577164922" lon="-90.27134855780195721308700740"/>
-  <node visible="true" id="-99" lat="29.97688410588476770612942346" lon="-90.27146744004255651816492900"/>
-  <node visible="true" id="-100" lat="29.97702276941025090195580560" lon="-90.27145701118291754028177820"/>
-  <node visible="true" id="-101" lat="29.97701606046641487068882270" lon="-90.27133812894231823520385660"/>
-  <way visible="true" id="-9">
     <nd ref="-98"/>
     <nd ref="-99"/>
     <nd ref="-100"/>
     <nd ref="-101"/>
-    <nd ref="-98"/>
+    <nd ref="-94"/>
     <tag k="building" v="yes"/>
-    <tag k="addr:street" v="3rd Street"/>
+    <tag k="addr:housenumber" v="324"/>
+    <tag k="addr:street" v="Fortier  Street"/>
     <tag k="addr:city" v="Kenner"/>
     <tag k="addr:postcode" v="70062"/>
   </way>
@@ -480,12 +482,14 @@
     <tag k="addr:city" v="Kenner"/>
     <tag k="addr:postcode" v="70062"/>
   </way>
-  <node visible="true" id="-172" lat="29.97573704519198756202058576" lon="-90.26784372569267134167603217"/>
-  <node visible="true" id="-173" lat="29.97574430796341360405676824" lon="-90.26794160042436487856321037"/>
-  <node visible="true" id="-174" lat="29.97598511113623231949532055" lon="-90.26791778704382807063666405"/>
-  <node visible="true" id="-175" lat="29.97597709327151704883362981" lon="-90.26780973624666160048946040"/>
-  <node visible="true" id="-176" lat="29.97588913730301740656614129" lon="-90.26781843434797281133796787"/>
-  <node visible="true" id="-177" lat="29.97588989241437573696202890" lon="-90.26782861041344574459799333"/>
+  <node visible="true" id="-172" lat="29.98318693301398951689407113" lon="-90.27426512508554878877475858"/>
+  <node visible="true" id="-173" lat="29.98303388783816458840192354" lon="-90.27427985906987828457204159"/>
+  <node visible="true" id="-174" lat="29.98304433547896508116537007" lon="-90.27442450570403309484390775"/>
+  <node visible="true" id="-175" lat="29.98314399545806097080458130" lon="-90.27441491122763750354351941"/>
+  <node visible="true" id="-176" lat="29.98314706676353935677070695" lon="-90.27445743321821680638095131"/>
+  <node visible="true" id="-177" lat="29.98319487739222211075684754" lon="-90.27445283038458967439510161"/>
+  <node visible="true" id="-178" lat="29.98319176340840996886072389" lon="-90.27440971749786058353492990"/>
+  <node visible="true" id="-179" lat="29.98319733795939967535559845" lon="-90.27440918082352538931445451"/>
   <way visible="true" id="-18">
     <nd ref="-172"/>
     <nd ref="-173"/>
@@ -493,61 +497,54 @@
     <nd ref="-175"/>
     <nd ref="-176"/>
     <nd ref="-177"/>
-    <nd ref="-172"/>
-    <tag k="building" v="yes"/>
-    <tag k="addr:street" v="3rd Street"/>
-    <tag k="addr:city" v="Kenner"/>
-    <tag k="addr:postcode" v="70062"/>
-  </way>
-  <node visible="true" id="-178" lat="29.97515857758060775495323469" lon="-90.26508912370688619830616517"/>
-  <node visible="true" id="-179" lat="29.97523292520918047898703662" lon="-90.26508212694767507855431177"/>
-  <node visible="true" id="-180" lat="29.97521995632862612524149881" lon="-90.26489847541421340793021955"/>
-  <node visible="true" id="-181" lat="29.97514560869035094015089271" lon="-90.26490547217339610597264254"/>
-  <way visible="true" id="-19">
     <nd ref="-178"/>
     <nd ref="-179"/>
-    <nd ref="-180"/>
-    <nd ref="-181"/>
-    <nd ref="-178"/>
-    <tag k="building" v="yes"/>
-    <tag k="addr:housenumber" v="133"/>
-    <tag k="addr:street" v="Hanson Avenue"/>
-    <tag k="addr:city" v="Kenner"/>
-    <tag k="addr:postcode" v="70062"/>
-  </way>
-  <node visible="true" id="-182" lat="29.98318693301398951689407113" lon="-90.27426512508554878877475858"/>
-  <node visible="true" id="-183" lat="29.98303388783816458840192354" lon="-90.27427985906987828457204159"/>
-  <node visible="true" id="-184" lat="29.98304433547896508116537007" lon="-90.27442450570403309484390775"/>
-  <node visible="true" id="-185" lat="29.98314399545806097080458130" lon="-90.27441491122763750354351941"/>
-  <node visible="true" id="-186" lat="29.98314706676353935677070695" lon="-90.27445743321821680638095131"/>
-  <node visible="true" id="-187" lat="29.98319487739222211075684754" lon="-90.27445283038458967439510161"/>
-  <node visible="true" id="-188" lat="29.98319176340840996886072389" lon="-90.27440971749786058353492990"/>
-  <node visible="true" id="-189" lat="29.98319733795939967535559845" lon="-90.27440918082352538931445451"/>
-  <way visible="true" id="-20">
-    <nd ref="-182"/>
-    <nd ref="-183"/>
-    <nd ref="-184"/>
-    <nd ref="-185"/>
-    <nd ref="-186"/>
-    <nd ref="-187"/>
-    <nd ref="-188"/>
-    <nd ref="-189"/>
-    <nd ref="-182"/>
+    <nd ref="-172"/>
     <tag k="building" v="yes"/>
     <tag k="addr:housenumber" v="911"/>
     <tag k="addr:street" v="Minden Street"/>
     <tag k="addr:city" v="Kenner"/>
     <tag k="addr:postcode" v="70062"/>
   </way>
-  <node visible="true" id="-190" lat="29.98247359882448748180650000" lon="-90.27441675234609874678426422"/>
-  <node visible="true" id="-191" lat="29.98246862949592994596059725" lon="-90.27434675868737201653857483"/>
-  <node visible="true" id="-192" lat="29.98244202971430638626770815" lon="-90.27434927579851375867292518"/>
-  <node visible="true" id="-193" lat="29.98244073840633205918493331" lon="-90.27433108755973023562546587"/>
-  <node visible="true" id="-194" lat="29.98240110292467974772989692" lon="-90.27433483822504456384194782"/>
-  <node visible="true" id="-195" lat="29.98240232734356425225996645" lon="-90.27435208431749913415842457"/>
-  <node visible="true" id="-196" lat="29.98237426678843675631469523" lon="-90.27435473965842049892671639"/>
-  <node visible="true" id="-197" lat="29.98237930301111120456880599" lon="-90.27442567546351881446753396"/>
-  <way visible="true" id="-21">
+  <node visible="true" id="-180" lat="29.98247359882448748180650000" lon="-90.27441675234609874678426422"/>
+  <node visible="true" id="-181" lat="29.98246862949592994596059725" lon="-90.27434675868737201653857483"/>
+  <node visible="true" id="-182" lat="29.98244202971430638626770815" lon="-90.27434927579851375867292518"/>
+  <node visible="true" id="-183" lat="29.98244073840633205918493331" lon="-90.27433108755973023562546587"/>
+  <node visible="true" id="-184" lat="29.98240110292467974772989692" lon="-90.27433483822504456384194782"/>
+  <node visible="true" id="-185" lat="29.98240232734356425225996645" lon="-90.27435208431749913415842457"/>
+  <node visible="true" id="-186" lat="29.98237426678843675631469523" lon="-90.27435473965842049892671639"/>
+  <node visible="true" id="-187" lat="29.98237930301111120456880599" lon="-90.27442567546351881446753396"/>
+  <way visible="true" id="-19">
+    <nd ref="-180"/>
+    <nd ref="-181"/>
+    <nd ref="-182"/>
+    <nd ref="-183"/>
+    <nd ref="-184"/>
+    <nd ref="-185"/>
+    <nd ref="-186"/>
+    <nd ref="-187"/>
+    <nd ref="-180"/>
+    <tag k="building" v="yes"/>
+    <tag k="addr:housenumber" v="839"/>
+    <tag k="addr:street" v="Minden Street"/>
+    <tag k="addr:city" v="Kenner"/>
+    <tag k="addr:postcode" v="70062"/>
+  </way>
+  <node visible="true" id="-188" lat="29.98206485214432959196528827" lon="-90.27407809060619570118433330"/>
+  <node visible="true" id="-189" lat="29.98205711935551320834747457" lon="-90.27394435899994107330712723"/>
+  <node visible="true" id="-190" lat="29.98198778999102387388120405" lon="-90.27394154577908125247631688"/>
+  <node visible="true" id="-191" lat="29.98198565440541329962798045" lon="-90.27390925607556937393383123"/>
+  <node visible="true" id="-192" lat="29.98194505492802619528447394" lon="-90.27391327717587898860074347"/>
+  <node visible="true" id="-193" lat="29.98194844574403106207682868" lon="-90.27394627172662922021117993"/>
+  <node visible="true" id="-194" lat="29.98194344523211185560285230" lon="-90.27394632483216696527961176"/>
+  <node visible="true" id="-195" lat="29.98195461929963556713119033" lon="-90.27409197197493995190598071"/>
+  <node visible="true" id="-196" lat="29.98195774428134185995986627" lon="-90.27409193879212523370370036"/>
+  <node visible="true" id="-197" lat="29.98195843301250818058178993" lon="-90.27409982950648270616511581"/>
+  <node visible="true" id="-198" lat="29.98198091843006451995279349" lon="-90.27409743617211290711566107"/>
+  <node visible="true" id="-199" lat="29.98198084909627425531652989" lon="-90.27408882068776563301071292"/>
+  <way visible="true" id="-20">
+    <nd ref="-188"/>
+    <nd ref="-189"/>
     <nd ref="-190"/>
     <nd ref="-191"/>
     <nd ref="-192"/>
@@ -556,42 +553,47 @@
     <nd ref="-195"/>
     <nd ref="-196"/>
     <nd ref="-197"/>
-    <nd ref="-190"/>
+    <nd ref="-198"/>
+    <nd ref="-199"/>
+    <nd ref="-188"/>
     <tag k="building" v="yes"/>
-    <tag k="addr:housenumber" v="839"/>
+    <tag k="addr:housenumber" v="828"/>
     <tag k="addr:street" v="Minden Street"/>
     <tag k="addr:city" v="Kenner"/>
     <tag k="addr:postcode" v="70062"/>
   </way>
-  <node visible="true" id="-198" lat="29.98206485214432959196528827" lon="-90.27407809060619570118433330"/>
-  <node visible="true" id="-199" lat="29.98205711935551320834747457" lon="-90.27394435899994107330712723"/>
-  <node visible="true" id="-200" lat="29.98198778999102387388120405" lon="-90.27394154577908125247631688"/>
-  <node visible="true" id="-201" lat="29.98198565440541329962798045" lon="-90.27390925607556937393383123"/>
-  <node visible="true" id="-202" lat="29.98194505492802619528447394" lon="-90.27391327717587898860074347"/>
-  <node visible="true" id="-203" lat="29.98194844574403106207682868" lon="-90.27394627172662922021117993"/>
-  <node visible="true" id="-204" lat="29.98194344523211185560285230" lon="-90.27394632483216696527961176"/>
-  <node visible="true" id="-205" lat="29.98195461929963556713119033" lon="-90.27409197197493995190598071"/>
-  <node visible="true" id="-206" lat="29.98195774428134185995986627" lon="-90.27409193879212523370370036"/>
-  <node visible="true" id="-207" lat="29.98195843301250818058178993" lon="-90.27409982950648270616511581"/>
-  <node visible="true" id="-208" lat="29.98198091843006451995279349" lon="-90.27409743617211290711566107"/>
-  <node visible="true" id="-209" lat="29.98198084909627425531652989" lon="-90.27408882068776563301071292"/>
-  <way visible="true" id="-22">
-    <nd ref="-198"/>
-    <nd ref="-199"/>
+  <node visible="true" id="-200" lat="29.97573704519198756202058576" lon="-90.26784372569267134167603217"/>
+  <node visible="true" id="-201" lat="29.97574430796341360405676824" lon="-90.26794160042436487856321037"/>
+  <node visible="true" id="-202" lat="29.97598511113623231949532055" lon="-90.26791778704382807063666405"/>
+  <node visible="true" id="-203" lat="29.97597709327151704883362981" lon="-90.26780973624666160048946040"/>
+  <node visible="true" id="-204" lat="29.97588913730301740656614129" lon="-90.26781843434797281133796787"/>
+  <node visible="true" id="-205" lat="29.97588989241437573696202890" lon="-90.26782861041344574459799333"/>
+  <way visible="true" id="-21">
     <nd ref="-200"/>
     <nd ref="-201"/>
     <nd ref="-202"/>
     <nd ref="-203"/>
     <nd ref="-204"/>
     <nd ref="-205"/>
+    <nd ref="-200"/>
+    <tag k="building" v="yes"/>
+    <tag k="addr:street" v="3rd Street"/>
+    <tag k="addr:city" v="Kenner"/>
+    <tag k="addr:postcode" v="70062"/>
+  </way>
+  <node visible="true" id="-206" lat="29.97515857758060775495323469" lon="-90.26508912370688619830616517"/>
+  <node visible="true" id="-207" lat="29.97523292520918047898703662" lon="-90.26508212694767507855431177"/>
+  <node visible="true" id="-208" lat="29.97521995632862612524149881" lon="-90.26489847541421340793021955"/>
+  <node visible="true" id="-209" lat="29.97514560869035094015089271" lon="-90.26490547217339610597264254"/>
+  <way visible="true" id="-22">
     <nd ref="-206"/>
     <nd ref="-207"/>
     <nd ref="-208"/>
     <nd ref="-209"/>
-    <nd ref="-198"/>
+    <nd ref="-206"/>
     <tag k="building" v="yes"/>
-    <tag k="addr:housenumber" v="828"/>
-    <tag k="addr:street" v="Minden Street"/>
+    <tag k="addr:housenumber" v="133"/>
+    <tag k="addr:street" v="Hanson Avenue"/>
     <tag k="addr:city" v="Kenner"/>
     <tag k="addr:postcode" v="70062"/>
   </way>

@@ -1,8 +1,10 @@
 <?xml version='1.0' encoding='utf8'?>
-<osm version="0.6" generator="AnonymousAlligator's import script">
-  <changeset_tag k="comment" v="Import buildings and addresses in Jefferson Parish, see https://wiki.openstreetmap.org/wiki/Import/Catalogue/Jefferson_Parish_Addresses_and_Buildings"/>
-  <changeset_tag k="source" v="Jefferson Parish Planning Department"/>
-  <changeset_tag k="source_file" v="8166_13520"/>
+<osm version="0.6" generator="AnonymousAlligator's import script" upload-changeset="-1">
+  <changeset id="-1">
+    <tag k="comment" v="Import buildings and addresses in Jefferson Parish, see https://wiki.openstreetmap.org/wiki/Import/Catalogue/Jefferson_Parish_Addresses_and_Buildings"/>
+    <tag k="source" v="Jefferson Parish Planning Department"/>
+    <tag k="source_file" v="change-8166_13520.osm"/>
+  </changeset>
   <node visible="true" id="-1" lat="29.98628041717031322832553997" lon="-90.27885124310716946638422087"/>
   <node visible="true" id="-2" lat="29.98628331486546017004002351" lon="-90.27904474496531861404946540"/>
   <node visible="true" id="-3" lat="29.98639190928636111266314401" lon="-90.27904257729130677034845576"/>
@@ -345,30 +347,26 @@
     <tag k="addr:city" v="Kenner"/>
     <tag k="addr:postcode" v="70062"/>
   </way>
-  <node visible="true" id="-126" lat="29.98354230943101583761745133" lon="-90.27820088996489289456803817"/>
-  <node visible="true" id="-127" lat="29.98343731583538840368419187" lon="-90.27820388374014726196037373"/>
-  <node visible="true" id="-128" lat="29.98344119370540994395923917" lon="-90.27838515582811851345468313"/>
-  <node visible="true" id="-129" lat="29.98354618729728215953400650" lon="-90.27838216205286414606234757"/>
+  <node visible="true" id="-126" lat="29.98554240260050818278614315" lon="-90.27879123686047080354910577"/>
+  <node visible="true" id="-127" lat="29.98562607954416492361815472" lon="-90.27878781027889942834008252"/>
+  <node visible="true" id="-128" lat="29.98562103488960062236401427" lon="-90.27862360430229671237611910"/>
+  <node visible="true" id="-129" lat="29.98557296880010270001548633" lon="-90.27862557261508413830597419"/>
+  <node visible="true" id="-130" lat="29.98557365761990567420980369" lon="-90.27864799402013318285753485"/>
+  <node visible="true" id="-131" lat="29.98553804676126688377735263" lon="-90.27864945228894555384613341"/>
   <way visible="true" id="-12">
     <nd ref="-126"/>
     <nd ref="-127"/>
     <nd ref="-128"/>
     <nd ref="-129"/>
+    <nd ref="-130"/>
+    <nd ref="-131"/>
     <nd ref="-126"/>
     <tag k="building" v="yes"/>
+    <tag k="addr:housenumber" v="1113"/>
+    <tag k="addr:street" v="Lesan Drive"/>
+    <tag k="addr:city" v="Kenner"/>
+    <tag k="addr:postcode" v="70062"/>
   </way>
-  <node visible="true" id="-130" lat="29.98350724087227803238420165" lon="-90.27835371475997305878991028">
-    <tag k="addr:housenumber" v="1008"/>
-    <tag k="addr:street" v="Lesan Drive"/>
-    <tag k="addr:city" v="Kenner"/>
-    <tag k="addr:postcode" v="70062"/>
-  </node>
-  <node visible="true" id="-131" lat="29.98349299476107887585385470" lon="-90.27829211251302865548495902">
-    <tag k="addr:housenumber" v="1010"/>
-    <tag k="addr:street" v="Lesan Drive"/>
-    <tag k="addr:city" v="Kenner"/>
-    <tag k="addr:postcode" v="70062"/>
-  </node>
   <node visible="true" id="-132" lat="29.98434647766062255413999083" lon="-90.27824000128916281937563326"/>
   <node visible="true" id="-133" lat="29.98433460110646819885005243" lon="-90.27824012691023369825416012"/>
   <node visible="true" id="-134" lat="29.98433475074293497186772584" lon="-90.27825879458509916730690747"/>
@@ -421,34 +419,38 @@
     <tag k="addr:city" v="Kenner"/>
     <tag k="addr:postcode" v="70062"/>
   </way>
-  <node visible="true" id="-150" lat="29.98554240260050818278614315" lon="-90.27879123686047080354910577"/>
-  <node visible="true" id="-151" lat="29.98562607954416492361815472" lon="-90.27878781027889942834008252"/>
-  <node visible="true" id="-152" lat="29.98562103488960062236401427" lon="-90.27862360430229671237611910"/>
-  <node visible="true" id="-153" lat="29.98557296880010270001548633" lon="-90.27862557261508413830597419"/>
-  <node visible="true" id="-154" lat="29.98557365761990567420980369" lon="-90.27864799402013318285753485"/>
-  <node visible="true" id="-155" lat="29.98553804676126688377735263" lon="-90.27864945228894555384613341"/>
+  <node visible="true" id="-150" lat="29.98354230943101583761745133" lon="-90.27820088996489289456803817"/>
+  <node visible="true" id="-151" lat="29.98343731583538840368419187" lon="-90.27820388374014726196037373"/>
+  <node visible="true" id="-152" lat="29.98344119370540994395923917" lon="-90.27838515582811851345468313"/>
+  <node visible="true" id="-153" lat="29.98354618729728215953400650" lon="-90.27838216205286414606234757"/>
   <way visible="true" id="-15">
     <nd ref="-150"/>
     <nd ref="-151"/>
     <nd ref="-152"/>
     <nd ref="-153"/>
-    <nd ref="-154"/>
-    <nd ref="-155"/>
     <nd ref="-150"/>
     <tag k="building" v="yes"/>
-    <tag k="addr:housenumber" v="1113"/>
+  </way>
+  <node visible="true" id="-154" lat="29.98350724087227803238420165" lon="-90.27835371475997305878991028">
+    <tag k="addr:housenumber" v="1008"/>
     <tag k="addr:street" v="Lesan Drive"/>
     <tag k="addr:city" v="Kenner"/>
     <tag k="addr:postcode" v="70062"/>
-  </way>
-  <node visible="true" id="-156" lat="29.98370702805397769452611101" lon="-90.27822249313254587832489051"/>
-  <node visible="true" id="-157" lat="29.98361577228546082096727332" lon="-90.27822388880402115773904370"/>
-  <node visible="true" id="-158" lat="29.98361666286786331170333142" lon="-90.27830150408910014903085539"/>
-  <node visible="true" id="-159" lat="29.98358603518350307126638654" lon="-90.27830197251054755724908318"/>
-  <node visible="true" id="-160" lat="29.98358722886166916055117326" lon="-90.27840600284899608141131466"/>
-  <node visible="true" id="-161" lat="29.98373848707896982546117215" lon="-90.27840368949625826644478366"/>
-  <node visible="true" id="-162" lat="29.98373729172497093031779514" lon="-90.27829951300502386857260717"/>
-  <node visible="true" id="-163" lat="29.98370791695985460023621272" lon="-90.27829996226479636334261158"/>
+  </node>
+  <node visible="true" id="-155" lat="29.98349299476107887585385470" lon="-90.27829211251302865548495902">
+    <tag k="addr:housenumber" v="1010"/>
+    <tag k="addr:street" v="Lesan Drive"/>
+    <tag k="addr:city" v="Kenner"/>
+    <tag k="addr:postcode" v="70062"/>
+  </node>
+  <node visible="true" id="-156" lat="29.98491037646678947226064338" lon="-90.27826845053685644870711258"/>
+  <node visible="true" id="-157" lat="29.98491148869283406952490623" lon="-90.27836263017269402553210966"/>
+  <node visible="true" id="-158" lat="29.98493816311865245438639249" lon="-90.27836221028050545100995805"/>
+  <node visible="true" id="-159" lat="29.98493830974163287805822620" lon="-90.27837462587524441914865747"/>
+  <node visible="true" id="-160" lat="29.98499330974944498962031503" lon="-90.27837376009905767659802223"/>
+  <node visible="true" id="-161" lat="29.98499317688617438193432463" lon="-90.27836250969214404449303402"/>
+  <node visible="true" id="-162" lat="29.98503025577930358736011840" lon="-90.27836192601881748487357982"/>
+  <node visible="true" id="-163" lat="29.98502912979432721840566956" lon="-90.27826658119516878286958672"/>
   <way visible="true" id="-16">
     <nd ref="-156"/>
     <nd ref="-157"/>
@@ -460,96 +462,100 @@
     <nd ref="-163"/>
     <nd ref="-156"/>
     <tag k="building" v="yes"/>
+    <tag k="addr:housenumber" v="1056"/>
+    <tag k="addr:street" v="Lesan Drive"/>
+    <tag k="addr:city" v="Kenner"/>
+    <tag k="addr:postcode" v="70062"/>
   </way>
-  <node visible="true" id="-164" lat="29.98364046460054055387445260" lon="-90.27836307675291038776776986">
-    <tag k="addr:housenumber" v="1014"/>
-    <tag k="addr:street" v="Lesan Drive"/>
-    <tag k="addr:city" v="Kenner"/>
-    <tag k="addr:postcode" v="70062"/>
-  </node>
-  <node visible="true" id="-165" lat="29.98365560699399878785698093" lon="-90.27830259896309428313543322">
-    <tag k="addr:housenumber" v="1012"/>
-    <tag k="addr:street" v="Lesan Drive"/>
-    <tag k="addr:city" v="Kenner"/>
-    <tag k="addr:postcode" v="70062"/>
-  </node>
-  <node visible="true" id="-166" lat="29.98366237496392372463560605" lon="-90.27737461556507980731112184"/>
-  <node visible="true" id="-167" lat="29.98365200721841006270551588" lon="-90.27721170109813897397543769"/>
-  <node visible="true" id="-168" lat="29.98340527650207576471075299" lon="-90.27723262983788288238429232"/>
-  <node visible="true" id="-169" lat="29.98341564427333238995743159" lon="-90.27739554430482371571997646"/>
+  <node visible="true" id="-164" lat="29.98532383560637271102677914" lon="-90.27835676261361186334397644"/>
+  <node visible="true" id="-165" lat="29.98532338456142909421942022" lon="-90.27822248710224073420249624"/>
+  <node visible="true" id="-166" lat="29.98520148704839982656267239" lon="-90.27822234004510448812652612"/>
+  <node visible="true" id="-167" lat="29.98520131292095669550690218" lon="-90.27835662200440935976075707"/>
   <way visible="true" id="-17">
+    <nd ref="-164"/>
+    <nd ref="-165"/>
     <nd ref="-166"/>
     <nd ref="-167"/>
+    <nd ref="-164"/>
+    <tag k="building" v="yes"/>
+    <tag k="addr:housenumber" v="1102"/>
+    <tag k="addr:street" v="Lesan Drive"/>
+    <tag k="addr:city" v="Kenner"/>
+    <tag k="addr:postcode" v="70062"/>
+  </way>
+  <node visible="true" id="-168" lat="29.98557572434054208088127780" lon="-90.27835284149502115269569913"/>
+  <node visible="true" id="-169" lat="29.98564822268596685717056971" lon="-90.27835099886286229775578249"/>
+  <node visible="true" id="-170" lat="29.98564498515992582383660192" lon="-90.27818120744623797691019718"/>
+  <node visible="true" id="-171" lat="29.98557248681213849295090768" lon="-90.27818305007839683185011381"/>
+  <way visible="true" id="-18">
     <nd ref="-168"/>
     <nd ref="-169"/>
-    <nd ref="-166"/>
-    <tag k="building" v="yes"/>
-    <tag k="addr:housenumber" v="901"/>
-    <tag k="addr:street" v="Industry Road"/>
-    <tag k="addr:city" v="Kenner"/>
-    <tag k="addr:postcode" v="70062"/>
-  </way>
-  <node visible="true" id="-170" lat="29.98337182714233506430900889" lon="-90.27651671534997035450942349"/>
-  <node visible="true" id="-171" lat="29.98339458647649635736343043" lon="-90.27685537343010935273923678"/>
-  <node visible="true" id="-172" lat="29.98376222335395269169566745" lon="-90.27682244194036798035085667"/>
-  <node visible="true" id="-173" lat="29.98373946410415413765804260" lon="-90.27648378386021477126632817"/>
-  <way visible="true" id="-18">
     <nd ref="-170"/>
     <nd ref="-171"/>
+    <nd ref="-168"/>
+    <tag k="building" v="yes"/>
+    <tag k="addr:housenumber" v="1114"/>
+    <tag k="addr:street" v="Lesan Drive"/>
+    <tag k="addr:city" v="Kenner"/>
+    <tag k="addr:postcode" v="70062"/>
+  </way>
+  <node visible="true" id="-172" lat="29.98568874410068119118477625" lon="-90.27835087613890152624662733"/>
+  <node visible="true" id="-173" lat="29.98577374932013483999071468" lon="-90.27834972477025132775452221"/>
+  <node visible="true" id="-174" lat="29.98577182317536227174059604" lon="-90.27816017021785910401376896"/>
+  <node visible="true" id="-175" lat="29.98568681795354962105193408" lon="-90.27816132158649509165115887"/>
+  <way visible="true" id="-19">
     <nd ref="-172"/>
     <nd ref="-173"/>
-    <nd ref="-170"/>
-    <tag k="building" v="yes"/>
-    <tag k="addr:housenumber" v="908"/>
-    <tag k="addr:street" v="Industry Road"/>
-    <tag k="addr:city" v="Kenner"/>
-    <tag k="addr:postcode" v="70062"/>
-  </way>
-  <node visible="true" id="-174" lat="29.98382030856214441882912070" lon="-90.27681896260001792597904569"/>
-  <node visible="true" id="-175" lat="29.98401299934328889662538131" lon="-90.27680219291957541827287059"/>
-  <node visible="true" id="-176" lat="29.98399233592139623283401306" lon="-90.27648571983245062710921047"/>
-  <node visible="true" id="-177" lat="29.98379964510003503619373078" lon="-90.27650248951289313481538557"/>
-  <way visible="true" id="-19">
     <nd ref="-174"/>
     <nd ref="-175"/>
+    <nd ref="-172"/>
+    <tag k="building" v="yes"/>
+    <tag k="addr:housenumber" v="1120"/>
+    <tag k="addr:street" v="Lesan Drive"/>
+    <tag k="addr:city" v="Kenner"/>
+    <tag k="addr:postcode" v="70062"/>
+  </way>
+  <node visible="true" id="-176" lat="29.98475888373206998949171975" lon="-90.27806566066199422948557185"/>
+  <node visible="true" id="-177" lat="29.98490629870138945989310741" lon="-90.27805220446686007562675513"/>
+  <node visible="true" id="-178" lat="29.98486740472253231359900383" lon="-90.27748425728844949844642542"/>
+  <node visible="true" id="-179" lat="29.98471998969538176993410161" lon="-90.27749771348359786315995734"/>
+  <way visible="true" id="-20">
     <nd ref="-176"/>
     <nd ref="-177"/>
-    <nd ref="-174"/>
+    <nd ref="-178"/>
+    <nd ref="-179"/>
+    <nd ref="-176"/>
     <tag k="building" v="yes"/>
-    <tag k="addr:housenumber" v="914"/>
+    <tag k="addr:housenumber" v="933"/>
     <tag k="addr:street" v="Industry Road"/>
     <tag k="addr:city" v="Kenner"/>
     <tag k="addr:postcode" v="70062"/>
   </way>
-  <node visible="true" id="-178" lat="29.98446899264598997092434729" lon="-90.27824307875023635006073164"/>
-  <node visible="true" id="-179" lat="29.98446923027727706312361988" lon="-90.27826480847262757833959768"/>
-  <node visible="true" id="-180" lat="29.98441718612700057633446704" lon="-90.27826556709058536398515571"/>
-  <node visible="true" id="-181" lat="29.98441818793625657235679682" lon="-90.27835717566190965044370387"/>
-  <node visible="true" id="-182" lat="29.98450291193464778416455374" lon="-90.27835594068817215429589851"/>
-  <node visible="true" id="-183" lat="29.98450167249638909083842009" lon="-90.27824260239444242870376911"/>
-  <way visible="true" id="-20">
-    <nd ref="-178"/>
-    <nd ref="-179"/>
+  <node visible="true" id="-180" lat="29.98453563300838098371059459" lon="-90.27753310547571174993208842"/>
+  <node visible="true" id="-181" lat="29.98470084471977514795071329" lon="-90.27751793620134890261397231"/>
+  <node visible="true" id="-182" lat="29.98467798372191950306842045" lon="-90.27718606034008530514256563"/>
+  <node visible="true" id="-183" lat="29.98451277197272091257218563" lon="-90.27720122961443394160596654"/>
+  <way visible="true" id="-21">
     <nd ref="-180"/>
     <nd ref="-181"/>
     <nd ref="-182"/>
     <nd ref="-183"/>
-    <nd ref="-178"/>
+    <nd ref="-180"/>
     <tag k="building" v="yes"/>
-    <tag k="addr:housenumber" v="1038"/>
-    <tag k="addr:street" v="Lesan Drive"/>
+    <tag k="addr:housenumber" v="931"/>
+    <tag k="addr:street" v="Industry Road"/>
     <tag k="addr:city" v="Kenner"/>
     <tag k="addr:postcode" v="70062"/>
   </way>
-  <node visible="true" id="-184" lat="29.98491037646678947226064338" lon="-90.27826845053685644870711258"/>
-  <node visible="true" id="-185" lat="29.98491148869283406952490623" lon="-90.27836263017269402553210966"/>
-  <node visible="true" id="-186" lat="29.98493816311865245438639249" lon="-90.27836221028050545100995805"/>
-  <node visible="true" id="-187" lat="29.98493830974163287805822620" lon="-90.27837462587524441914865747"/>
-  <node visible="true" id="-188" lat="29.98499330974944498962031503" lon="-90.27837376009905767659802223"/>
-  <node visible="true" id="-189" lat="29.98499317688617438193432463" lon="-90.27836250969214404449303402"/>
-  <node visible="true" id="-190" lat="29.98503025577930358736011840" lon="-90.27836192601881748487357982"/>
-  <node visible="true" id="-191" lat="29.98502912979432721840566956" lon="-90.27826658119516878286958672"/>
-  <way visible="true" id="-21">
+  <node visible="true" id="-184" lat="29.98370702805397769452611101" lon="-90.27822249313254587832489051"/>
+  <node visible="true" id="-185" lat="29.98361577228546082096727332" lon="-90.27822388880402115773904370"/>
+  <node visible="true" id="-186" lat="29.98361666286786331170333142" lon="-90.27830150408910014903085539"/>
+  <node visible="true" id="-187" lat="29.98358603518350307126638654" lon="-90.27830197251054755724908318"/>
+  <node visible="true" id="-188" lat="29.98358722886166916055117326" lon="-90.27840600284899608141131466"/>
+  <node visible="true" id="-189" lat="29.98373848707896982546117215" lon="-90.27840368949625826644478366"/>
+  <node visible="true" id="-190" lat="29.98373729172497093031779514" lon="-90.27829951300502386857260717"/>
+  <node visible="true" id="-191" lat="29.98370791695985460023621272" lon="-90.27829996226479636334261158"/>
+  <way visible="true" id="-22">
     <nd ref="-184"/>
     <nd ref="-185"/>
     <nd ref="-186"/>
@@ -560,88 +566,84 @@
     <nd ref="-191"/>
     <nd ref="-184"/>
     <tag k="building" v="yes"/>
-    <tag k="addr:housenumber" v="1056"/>
+  </way>
+  <node visible="true" id="-192" lat="29.98364046460054055387445260" lon="-90.27836307675291038776776986">
+    <tag k="addr:housenumber" v="1014"/>
     <tag k="addr:street" v="Lesan Drive"/>
     <tag k="addr:city" v="Kenner"/>
     <tag k="addr:postcode" v="70062"/>
-  </way>
-  <node visible="true" id="-192" lat="29.98532383560637271102677914" lon="-90.27835676261361186334397644"/>
-  <node visible="true" id="-193" lat="29.98532338456142909421942022" lon="-90.27822248710224073420249624"/>
-  <node visible="true" id="-194" lat="29.98520148704839982656267239" lon="-90.27822234004510448812652612"/>
-  <node visible="true" id="-195" lat="29.98520131292095669550690218" lon="-90.27835662200440935976075707"/>
-  <way visible="true" id="-22">
-    <nd ref="-192"/>
-    <nd ref="-193"/>
+  </node>
+  <node visible="true" id="-193" lat="29.98365560699399878785698093" lon="-90.27830259896309428313543322">
+    <tag k="addr:housenumber" v="1012"/>
+    <tag k="addr:street" v="Lesan Drive"/>
+    <tag k="addr:city" v="Kenner"/>
+    <tag k="addr:postcode" v="70062"/>
+  </node>
+  <node visible="true" id="-194" lat="29.98366237496392372463560605" lon="-90.27737461556507980731112184"/>
+  <node visible="true" id="-195" lat="29.98365200721841006270551588" lon="-90.27721170109813897397543769"/>
+  <node visible="true" id="-196" lat="29.98340527650207576471075299" lon="-90.27723262983788288238429232"/>
+  <node visible="true" id="-197" lat="29.98341564427333238995743159" lon="-90.27739554430482371571997646"/>
+  <way visible="true" id="-23">
     <nd ref="-194"/>
     <nd ref="-195"/>
-    <nd ref="-192"/>
-    <tag k="building" v="yes"/>
-    <tag k="addr:housenumber" v="1102"/>
-    <tag k="addr:street" v="Lesan Drive"/>
-    <tag k="addr:city" v="Kenner"/>
-    <tag k="addr:postcode" v="70062"/>
-  </way>
-  <node visible="true" id="-196" lat="29.98557572434054208088127780" lon="-90.27835284149502115269569913"/>
-  <node visible="true" id="-197" lat="29.98564822268596685717056971" lon="-90.27835099886286229775578249"/>
-  <node visible="true" id="-198" lat="29.98564498515992582383660192" lon="-90.27818120744623797691019718"/>
-  <node visible="true" id="-199" lat="29.98557248681213849295090768" lon="-90.27818305007839683185011381"/>
-  <way visible="true" id="-23">
     <nd ref="-196"/>
     <nd ref="-197"/>
-    <nd ref="-198"/>
-    <nd ref="-199"/>
-    <nd ref="-196"/>
+    <nd ref="-194"/>
     <tag k="building" v="yes"/>
-    <tag k="addr:housenumber" v="1114"/>
-    <tag k="addr:street" v="Lesan Drive"/>
-    <tag k="addr:city" v="Kenner"/>
-    <tag k="addr:postcode" v="70062"/>
-  </way>
-  <node visible="true" id="-200" lat="29.98568874410068119118477625" lon="-90.27835087613890152624662733"/>
-  <node visible="true" id="-201" lat="29.98577374932013483999071468" lon="-90.27834972477025132775452221"/>
-  <node visible="true" id="-202" lat="29.98577182317536227174059604" lon="-90.27816017021785910401376896"/>
-  <node visible="true" id="-203" lat="29.98568681795354962105193408" lon="-90.27816132158649509165115887"/>
-  <way visible="true" id="-24">
-    <nd ref="-200"/>
-    <nd ref="-201"/>
-    <nd ref="-202"/>
-    <nd ref="-203"/>
-    <nd ref="-200"/>
-    <tag k="building" v="yes"/>
-    <tag k="addr:housenumber" v="1120"/>
-    <tag k="addr:street" v="Lesan Drive"/>
-    <tag k="addr:city" v="Kenner"/>
-    <tag k="addr:postcode" v="70062"/>
-  </way>
-  <node visible="true" id="-204" lat="29.98475888373206998949171975" lon="-90.27806566066199422948557185"/>
-  <node visible="true" id="-205" lat="29.98490629870138945989310741" lon="-90.27805220446686007562675513"/>
-  <node visible="true" id="-206" lat="29.98486740472253231359900383" lon="-90.27748425728844949844642542"/>
-  <node visible="true" id="-207" lat="29.98471998969538176993410161" lon="-90.27749771348359786315995734"/>
-  <way visible="true" id="-25">
-    <nd ref="-204"/>
-    <nd ref="-205"/>
-    <nd ref="-206"/>
-    <nd ref="-207"/>
-    <nd ref="-204"/>
-    <tag k="building" v="yes"/>
-    <tag k="addr:housenumber" v="933"/>
+    <tag k="addr:housenumber" v="901"/>
     <tag k="addr:street" v="Industry Road"/>
     <tag k="addr:city" v="Kenner"/>
     <tag k="addr:postcode" v="70062"/>
   </way>
-  <node visible="true" id="-208" lat="29.98453563300838098371059459" lon="-90.27753310547571174993208842"/>
-  <node visible="true" id="-209" lat="29.98470084471977514795071329" lon="-90.27751793620134890261397231"/>
-  <node visible="true" id="-210" lat="29.98467798372191950306842045" lon="-90.27718606034008530514256563"/>
-  <node visible="true" id="-211" lat="29.98451277197272091257218563" lon="-90.27720122961443394160596654"/>
+  <node visible="true" id="-198" lat="29.98337182714233506430900889" lon="-90.27651671534997035450942349"/>
+  <node visible="true" id="-199" lat="29.98339458647649635736343043" lon="-90.27685537343010935273923678"/>
+  <node visible="true" id="-200" lat="29.98376222335395269169566745" lon="-90.27682244194036798035085667"/>
+  <node visible="true" id="-201" lat="29.98373946410415413765804260" lon="-90.27648378386021477126632817"/>
+  <way visible="true" id="-24">
+    <nd ref="-198"/>
+    <nd ref="-199"/>
+    <nd ref="-200"/>
+    <nd ref="-201"/>
+    <nd ref="-198"/>
+    <tag k="building" v="yes"/>
+    <tag k="addr:housenumber" v="908"/>
+    <tag k="addr:street" v="Industry Road"/>
+    <tag k="addr:city" v="Kenner"/>
+    <tag k="addr:postcode" v="70062"/>
+  </way>
+  <node visible="true" id="-202" lat="29.98382030856214441882912070" lon="-90.27681896260001792597904569"/>
+  <node visible="true" id="-203" lat="29.98401299934328889662538131" lon="-90.27680219291957541827287059"/>
+  <node visible="true" id="-204" lat="29.98399233592139623283401306" lon="-90.27648571983245062710921047"/>
+  <node visible="true" id="-205" lat="29.98379964510003503619373078" lon="-90.27650248951289313481538557"/>
+  <way visible="true" id="-25">
+    <nd ref="-202"/>
+    <nd ref="-203"/>
+    <nd ref="-204"/>
+    <nd ref="-205"/>
+    <nd ref="-202"/>
+    <tag k="building" v="yes"/>
+    <tag k="addr:housenumber" v="914"/>
+    <tag k="addr:street" v="Industry Road"/>
+    <tag k="addr:city" v="Kenner"/>
+    <tag k="addr:postcode" v="70062"/>
+  </way>
+  <node visible="true" id="-206" lat="29.98446899264598997092434729" lon="-90.27824307875023635006073164"/>
+  <node visible="true" id="-207" lat="29.98446923027727706312361988" lon="-90.27826480847262757833959768"/>
+  <node visible="true" id="-208" lat="29.98441718612700057633446704" lon="-90.27826556709058536398515571"/>
+  <node visible="true" id="-209" lat="29.98441818793625657235679682" lon="-90.27835717566190965044370387"/>
+  <node visible="true" id="-210" lat="29.98450291193464778416455374" lon="-90.27835594068817215429589851"/>
+  <node visible="true" id="-211" lat="29.98450167249638909083842009" lon="-90.27824260239444242870376911"/>
   <way visible="true" id="-26">
+    <nd ref="-206"/>
+    <nd ref="-207"/>
     <nd ref="-208"/>
     <nd ref="-209"/>
     <nd ref="-210"/>
     <nd ref="-211"/>
-    <nd ref="-208"/>
+    <nd ref="-206"/>
     <tag k="building" v="yes"/>
-    <tag k="addr:housenumber" v="931"/>
-    <tag k="addr:street" v="Industry Road"/>
+    <tag k="addr:housenumber" v="1038"/>
+    <tag k="addr:street" v="Lesan Drive"/>
     <tag k="addr:city" v="Kenner"/>
     <tag k="addr:postcode" v="70062"/>
   </way>

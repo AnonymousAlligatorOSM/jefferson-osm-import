@@ -1,8 +1,10 @@
 <?xml version='1.0' encoding='utf8'?>
-<osm version="0.6" generator="AnonymousAlligator's import script">
-  <changeset_tag k="comment" v="Import buildings and addresses in Jefferson Parish, see https://wiki.openstreetmap.org/wiki/Import/Catalogue/Jefferson_Parish_Addresses_and_Buildings"/>
-  <changeset_tag k="source" v="Jefferson Parish Planning Department"/>
-  <changeset_tag k="source_file" v="8180_13534"/>
+<osm version="0.6" generator="AnonymousAlligator's import script" upload-changeset="-1">
+  <changeset id="-1">
+    <tag k="comment" v="Import buildings and addresses in Jefferson Parish, see https://wiki.openstreetmap.org/wiki/Import/Catalogue/Jefferson_Parish_Addresses_and_Buildings"/>
+    <tag k="source" v="Jefferson Parish Planning Department"/>
+    <tag k="source_file" v="change-8180_13534.osm"/>
+  </changeset>
   <node visible="true" id="-1" lat="29.85302990594793470791046275" lon="-90.12139565733001234093535459"/>
   <node visible="true" id="-2" lat="29.85307479830337840098763991" lon="-90.12138292104405934423994040"/>
   <node visible="true" id="-3" lat="29.85311345961005002891397453" lon="-90.12137241217487826361320913"/>
@@ -67,90 +69,88 @@
     <tag k="addr:city" v="Marrero"/>
     <tag k="addr:postcode" v="70072"/>
   </way>
-  <node visible="true" id="-25" lat="29.85024016614430308891314780" lon="-90.12154633296746908399654785"/>
-  <node visible="true" id="-26" lat="29.85033530932046375028221519" lon="-90.12156181941236354759894311"/>
-  <node visible="true" id="-27" lat="29.85035553787736617437076347" lon="-90.12139661433245407806680305"/>
-  <node visible="true" id="-28" lat="29.85026039472041503586297040" lon="-90.12138112788755961446440779"/>
+  <node visible="true" id="-25" lat="29.85218679218333193148282589" lon="-90.12161201463156601221271558"/>
+  <node visible="true" id="-26" lat="29.85230867514699326648042188" lon="-90.12157841186012774414848536"/>
+  <node visible="true" id="-27" lat="29.85228037674597700856793381" lon="-90.12144196002162743752705865"/>
+  <node visible="true" id="-28" lat="29.85222279695577896063696244" lon="-90.12145783459956760452769231"/>
+  <node visible="true" id="-29" lat="29.85222875067725922804129368" lon="-90.12148654278306025844358373"/>
+  <node visible="true" id="-30" lat="29.85216444747319997077283915" lon="-90.12150427097654414865246508"/>
   <way visible="true" id="-3">
     <nd ref="-25"/>
     <nd ref="-26"/>
     <nd ref="-27"/>
     <nd ref="-28"/>
+    <nd ref="-29"/>
+    <nd ref="-30"/>
     <nd ref="-25"/>
+    <tag k="building" v="yes"/>
+    <tag k="addr:housenumber" v="5076"/>
+    <tag k="addr:street" v="Bowdon Street"/>
+    <tag k="addr:city" v="Marrero"/>
+    <tag k="addr:postcode" v="70072"/>
+  </way>
+  <node visible="true" id="-31" lat="29.85222058894276742080364784" lon="-90.12113348934349232877139002"/>
+  <node visible="true" id="-32" lat="29.85228801313958868490772147" lon="-90.12111503759849995276454138"/>
+  <node visible="true" id="-33" lat="29.85229481289212927208609472" lon="-90.12114806854731341445585713"/>
+  <node visible="true" id="-34" lat="29.85235664727476745383683010" lon="-90.12113114653519119201519061"/>
+  <node visible="true" id="-35" lat="29.85233119978177285247511463" lon="-90.12100753096594019098120043"/>
+  <node visible="true" id="-36" lat="29.85220194117395209332244121" lon="-90.12104290472305478942871559"/>
+  <way visible="true" id="-4">
+    <nd ref="-31"/>
+    <nd ref="-32"/>
+    <nd ref="-33"/>
+    <nd ref="-34"/>
+    <nd ref="-35"/>
+    <nd ref="-36"/>
+    <nd ref="-31"/>
+    <tag k="building" v="yes"/>
+    <tag k="addr:housenumber" v="5079"/>
+    <tag k="addr:street" v="Bowdon Street"/>
+    <tag k="addr:city" v="Marrero"/>
+    <tag k="addr:postcode" v="70072"/>
+  </way>
+  <node visible="true" id="-37" lat="29.85240008261734345751392539" lon="-90.12111734169539545291627292"/>
+  <node visible="true" id="-38" lat="29.85245086544605896961002145" lon="-90.12110280366086101366818184"/>
+  <node visible="true" id="-39" lat="29.85245278240538624459077255" lon="-90.12111170540546822849137243"/>
+  <node visible="true" id="-40" lat="29.85253010860203559673209384" lon="-90.12108956855944086328236153"/>
+  <node visible="true" id="-41" lat="29.85250719639855176978926465" lon="-90.12098317155833626657113200"/>
+  <node visible="true" id="-42" lat="29.85237908734475453798040689" lon="-90.12101984643892649273766438"/>
+  <way visible="true" id="-5">
+    <nd ref="-37"/>
+    <nd ref="-38"/>
+    <nd ref="-39"/>
+    <nd ref="-40"/>
+    <nd ref="-41"/>
+    <nd ref="-42"/>
+    <nd ref="-37"/>
+    <tag k="building" v="yes"/>
+    <tag k="addr:housenumber" v="5083"/>
+    <tag k="addr:street" v="Bowdon Street"/>
+    <tag k="addr:city" v="Marrero"/>
+    <tag k="addr:postcode" v="70072"/>
+  </way>
+  <node visible="true" id="-43" lat="29.85024016614430308891314780" lon="-90.12154633296746908399654785"/>
+  <node visible="true" id="-44" lat="29.85033530932046375028221519" lon="-90.12156181941236354759894311"/>
+  <node visible="true" id="-45" lat="29.85035553787736617437076347" lon="-90.12139661433245407806680305"/>
+  <node visible="true" id="-46" lat="29.85026039472041503586297040" lon="-90.12138112788755961446440779"/>
+  <way visible="true" id="-6">
+    <nd ref="-43"/>
+    <nd ref="-44"/>
+    <nd ref="-45"/>
+    <nd ref="-46"/>
+    <nd ref="-43"/>
     <tag k="building" v="yes"/>
     <tag k="addr:housenumber" v="3085"/>
     <tag k="addr:street" v="Sorbonne Drive"/>
     <tag k="addr:city" v="Marrero"/>
     <tag k="addr:postcode" v="70072"/>
   </way>
-  <node visible="true" id="-29" lat="29.85029366928748828513562330" lon="-90.12099243271137538613402285"/>
-  <node visible="true" id="-30" lat="29.85027516236722533449210459" lon="-90.12114301404740501766355010"/>
-  <node visible="true" id="-31" lat="29.85036033168829661121890240" lon="-90.12115692890100149270438123"/>
-  <node visible="true" id="-32" lat="29.85037014323960136152891209" lon="-90.12107709726659265925263753"/>
-  <node visible="true" id="-33" lat="29.85039617568903480560038588" lon="-90.12108135041732737136044307"/>
-  <node visible="true" id="-34" lat="29.85040487103999495843709155" lon="-90.12101060071572078413737472"/>
-  <way visible="true" id="-4">
-    <nd ref="-29"/>
-    <nd ref="-30"/>
-    <nd ref="-31"/>
-    <nd ref="-32"/>
-    <nd ref="-33"/>
-    <nd ref="-34"/>
-    <nd ref="-29"/>
-    <tag k="building" v="yes"/>
-    <tag k="addr:housenumber" v="3077"/>
-    <tag k="addr:street" v="Sorbonne Drive"/>
-    <tag k="addr:city" v="Marrero"/>
-    <tag k="addr:postcode" v="70072"/>
-  </way>
-  <node visible="true" id="-35" lat="29.85100260286299800327469711" lon="-90.12139552534274855588591890"/>
-  <node visible="true" id="-36" lat="29.85102087593896413864058559" lon="-90.12148921768472575877240160"/>
-  <node visible="true" id="-37" lat="29.85107253632811463717189326" lon="-90.12147582387818545157642802"/>
-  <node visible="true" id="-38" lat="29.85107420820003909511797247" lon="-90.12148439614557560162211303"/>
-  <node visible="true" id="-39" lat="29.85114741181303443795513886" lon="-90.12146541689136824970773887"/>
-  <node visible="true" id="-40" lat="29.85112746688922058524440217" lon="-90.12136315228200089677557116"/>
-  <way visible="true" id="-5">
-    <nd ref="-35"/>
-    <nd ref="-36"/>
-    <nd ref="-37"/>
-    <nd ref="-38"/>
-    <nd ref="-39"/>
-    <nd ref="-40"/>
-    <nd ref="-35"/>
-    <tag k="building" v="yes"/>
-    <tag k="addr:housenumber" v="5051"/>
-    <tag k="addr:street" v="Bowdon Street"/>
-    <tag k="addr:city" v="Marrero"/>
-    <tag k="addr:postcode" v="70072"/>
-  </way>
-  <node visible="true" id="-41" lat="29.85060557370626455053752579" lon="-90.12132738432745782120036893"/>
-  <node visible="true" id="-42" lat="29.85059935965219679587789869" lon="-90.12132640375737935301003745"/>
-  <node visible="true" id="-43" lat="29.85058853792025601592285966" lon="-90.12141756877079501464322675"/>
-  <node visible="true" id="-44" lat="29.85068415373780581489882024" lon="-90.12143265683401693877385696"/>
-  <node visible="true" id="-45" lat="29.85070228627598254433905822" lon="-90.12127990358320062114216853"/>
-  <node visible="true" id="-46" lat="29.85061288452937588999702712" lon="-90.12126579609004295434715459"/>
-  <way visible="true" id="-6">
-    <nd ref="-41"/>
-    <nd ref="-42"/>
-    <nd ref="-43"/>
-    <nd ref="-44"/>
-    <nd ref="-45"/>
-    <nd ref="-46"/>
-    <nd ref="-41"/>
-    <tag k="building" v="yes"/>
-    <tag k="addr:housenumber" v="3080"/>
-    <tag k="addr:street" v="Sorbonne Drive"/>
-    <tag k="addr:city" v="Marrero"/>
-    <tag k="addr:postcode" v="70072"/>
-  </way>
-  <node visible="true" id="-47" lat="29.85019911724913299622130580" lon="-90.12205653144479811089695431"/>
-  <node visible="true" id="-48" lat="29.85020444158125485500931973" lon="-90.12208339949168589555483777"/>
-  <node visible="true" id="-49" lat="29.85014009625659880953207903" lon="-90.12210034979545980604598299"/>
-  <node visible="true" id="-50" lat="29.85016255204146773394313641" lon="-90.12221366781773213006090373"/>
-  <node visible="true" id="-51" lat="29.85022362789683469941337535" lon="-90.12219757877751646901742788"/>
-  <node visible="true" id="-52" lat="29.85022879428625586228918110" lon="-90.12222364980885913610109128"/>
-  <node visible="true" id="-53" lat="29.85029003285550786017665814" lon="-90.12220751789465111869503744"/>
-  <node visible="true" id="-54" lat="29.85025708638298524988385907" lon="-90.12204126079410571037442423"/>
+  <node visible="true" id="-47" lat="29.85029366928748828513562330" lon="-90.12099243271137538613402285"/>
+  <node visible="true" id="-48" lat="29.85027516236722533449210459" lon="-90.12114301404740501766355010"/>
+  <node visible="true" id="-49" lat="29.85036033168829661121890240" lon="-90.12115692890100149270438123"/>
+  <node visible="true" id="-50" lat="29.85037014323960136152891209" lon="-90.12107709726659265925263753"/>
+  <node visible="true" id="-51" lat="29.85039617568903480560038588" lon="-90.12108135041732737136044307"/>
+  <node visible="true" id="-52" lat="29.85040487103999495843709155" lon="-90.12101060071572078413737472"/>
   <way visible="true" id="-7">
     <nd ref="-47"/>
     <nd ref="-48"/>
@@ -158,99 +158,101 @@
     <nd ref="-50"/>
     <nd ref="-51"/>
     <nd ref="-52"/>
-    <nd ref="-53"/>
-    <nd ref="-54"/>
     <nd ref="-47"/>
     <tag k="building" v="yes"/>
-    <tag k="addr:housenumber" v="5028"/>
-    <tag k="addr:street" v="Bowdon Street"/>
+    <tag k="addr:housenumber" v="3077"/>
+    <tag k="addr:street" v="Sorbonne Drive"/>
     <tag k="addr:city" v="Marrero"/>
     <tag k="addr:postcode" v="70072"/>
   </way>
-  <node visible="true" id="-55" lat="29.85086928560742336458133650" lon="-90.12136685818478554210742004"/>
-  <node visible="true" id="-56" lat="29.85088122797567322663780942" lon="-90.12142464018198495523392921"/>
-  <node visible="true" id="-57" lat="29.85083403914881472474007751" lon="-90.12143760523983360144484323"/>
-  <node visible="true" id="-58" lat="29.85085446171286349681395222" lon="-90.12153641781571877800161019"/>
-  <node visible="true" id="-59" lat="29.85090539317357638537941966" lon="-90.12152242447182004525529919"/>
-  <node visible="true" id="-60" lat="29.85090748273095329068382853" lon="-90.12153253459686652604432311"/>
-  <node visible="true" id="-61" lat="29.85098296847037246948275424" lon="-90.12151179498746955687238369"/>
-  <node visible="true" id="-62" lat="29.85096065237237894507416058" lon="-90.12140382059510557155590504"/>
-  <node visible="true" id="-63" lat="29.85094801891171201191355067" lon="-90.12140729162241825633827830"/>
-  <node visible="true" id="-64" lat="29.85093588055541857784191961" lon="-90.12134856131663696032774169"/>
+  <node visible="true" id="-53" lat="29.85100260286299800327469711" lon="-90.12139552534274855588591890"/>
+  <node visible="true" id="-54" lat="29.85102087593896413864058559" lon="-90.12148921768472575877240160"/>
+  <node visible="true" id="-55" lat="29.85107253632811463717189326" lon="-90.12147582387818545157642802"/>
+  <node visible="true" id="-56" lat="29.85107420820003909511797247" lon="-90.12148439614557560162211303"/>
+  <node visible="true" id="-57" lat="29.85114741181303443795513886" lon="-90.12146541689136824970773887"/>
+  <node visible="true" id="-58" lat="29.85112746688922058524440217" lon="-90.12136315228200089677557116"/>
   <way visible="true" id="-8">
+    <nd ref="-53"/>
+    <nd ref="-54"/>
     <nd ref="-55"/>
     <nd ref="-56"/>
     <nd ref="-57"/>
     <nd ref="-58"/>
+    <nd ref="-53"/>
+    <tag k="building" v="yes"/>
+    <tag k="addr:housenumber" v="5051"/>
+    <tag k="addr:street" v="Bowdon Street"/>
+    <tag k="addr:city" v="Marrero"/>
+    <tag k="addr:postcode" v="70072"/>
+  </way>
+  <node visible="true" id="-59" lat="29.85060557370626455053752579" lon="-90.12132738432745782120036893"/>
+  <node visible="true" id="-60" lat="29.85059935965219679587789869" lon="-90.12132640375737935301003745"/>
+  <node visible="true" id="-61" lat="29.85058853792025601592285966" lon="-90.12141756877079501464322675"/>
+  <node visible="true" id="-62" lat="29.85068415373780581489882024" lon="-90.12143265683401693877385696"/>
+  <node visible="true" id="-63" lat="29.85070228627598254433905822" lon="-90.12127990358320062114216853"/>
+  <node visible="true" id="-64" lat="29.85061288452937588999702712" lon="-90.12126579609004295434715459"/>
+  <way visible="true" id="-9">
     <nd ref="-59"/>
     <nd ref="-60"/>
     <nd ref="-61"/>
     <nd ref="-62"/>
     <nd ref="-63"/>
     <nd ref="-64"/>
-    <nd ref="-55"/>
+    <nd ref="-59"/>
     <tag k="building" v="yes"/>
-    <tag k="addr:housenumber" v="5047"/>
-    <tag k="addr:street" v="Bowdon Street"/>
+    <tag k="addr:housenumber" v="3080"/>
+    <tag k="addr:street" v="Sorbonne Drive"/>
     <tag k="addr:city" v="Marrero"/>
     <tag k="addr:postcode" v="70072"/>
   </way>
-  <node visible="true" id="-65" lat="29.85218679218333193148282589" lon="-90.12161201463156601221271558"/>
-  <node visible="true" id="-66" lat="29.85230867514699326648042188" lon="-90.12157841186012774414848536"/>
-  <node visible="true" id="-67" lat="29.85228037674597700856793381" lon="-90.12144196002162743752705865"/>
-  <node visible="true" id="-68" lat="29.85222279695577896063696244" lon="-90.12145783459956760452769231"/>
-  <node visible="true" id="-69" lat="29.85222875067725922804129368" lon="-90.12148654278306025844358373"/>
-  <node visible="true" id="-70" lat="29.85216444747319997077283915" lon="-90.12150427097654414865246508"/>
-  <way visible="true" id="-9">
+  <node visible="true" id="-65" lat="29.85019911724913299622130580" lon="-90.12205653144479811089695431"/>
+  <node visible="true" id="-66" lat="29.85020444158125485500931973" lon="-90.12208339949168589555483777"/>
+  <node visible="true" id="-67" lat="29.85014009625659880953207903" lon="-90.12210034979545980604598299"/>
+  <node visible="true" id="-68" lat="29.85016255204146773394313641" lon="-90.12221366781773213006090373"/>
+  <node visible="true" id="-69" lat="29.85022362789683469941337535" lon="-90.12219757877751646901742788"/>
+  <node visible="true" id="-70" lat="29.85022879428625586228918110" lon="-90.12222364980885913610109128"/>
+  <node visible="true" id="-71" lat="29.85029003285550786017665814" lon="-90.12220751789465111869503744"/>
+  <node visible="true" id="-72" lat="29.85025708638298524988385907" lon="-90.12204126079410571037442423"/>
+  <way visible="true" id="-10">
     <nd ref="-65"/>
     <nd ref="-66"/>
     <nd ref="-67"/>
     <nd ref="-68"/>
     <nd ref="-69"/>
     <nd ref="-70"/>
+    <nd ref="-71"/>
+    <nd ref="-72"/>
     <nd ref="-65"/>
     <tag k="building" v="yes"/>
-    <tag k="addr:housenumber" v="5076"/>
+    <tag k="addr:housenumber" v="5028"/>
     <tag k="addr:street" v="Bowdon Street"/>
     <tag k="addr:city" v="Marrero"/>
     <tag k="addr:postcode" v="70072"/>
   </way>
-  <node visible="true" id="-71" lat="29.85222058894276742080364784" lon="-90.12113348934349232877139002"/>
-  <node visible="true" id="-72" lat="29.85228801313958868490772147" lon="-90.12111503759849995276454138"/>
-  <node visible="true" id="-73" lat="29.85229481289212927208609472" lon="-90.12114806854731341445585713"/>
-  <node visible="true" id="-74" lat="29.85235664727476745383683010" lon="-90.12113114653519119201519061"/>
-  <node visible="true" id="-75" lat="29.85233119978177285247511463" lon="-90.12100753096594019098120043"/>
-  <node visible="true" id="-76" lat="29.85220194117395209332244121" lon="-90.12104290472305478942871559"/>
-  <way visible="true" id="-10">
-    <nd ref="-71"/>
-    <nd ref="-72"/>
+  <node visible="true" id="-73" lat="29.85086928560742336458133650" lon="-90.12136685818478554210742004"/>
+  <node visible="true" id="-74" lat="29.85088122797567322663780942" lon="-90.12142464018198495523392921"/>
+  <node visible="true" id="-75" lat="29.85083403914881472474007751" lon="-90.12143760523983360144484323"/>
+  <node visible="true" id="-76" lat="29.85085446171286349681395222" lon="-90.12153641781571877800161019"/>
+  <node visible="true" id="-77" lat="29.85090539317357638537941966" lon="-90.12152242447182004525529919"/>
+  <node visible="true" id="-78" lat="29.85090748273095329068382853" lon="-90.12153253459686652604432311"/>
+  <node visible="true" id="-79" lat="29.85098296847037246948275424" lon="-90.12151179498746955687238369"/>
+  <node visible="true" id="-80" lat="29.85096065237237894507416058" lon="-90.12140382059510557155590504"/>
+  <node visible="true" id="-81" lat="29.85094801891171201191355067" lon="-90.12140729162241825633827830"/>
+  <node visible="true" id="-82" lat="29.85093588055541857784191961" lon="-90.12134856131663696032774169"/>
+  <way visible="true" id="-11">
     <nd ref="-73"/>
     <nd ref="-74"/>
     <nd ref="-75"/>
     <nd ref="-76"/>
-    <nd ref="-71"/>
-    <tag k="building" v="yes"/>
-    <tag k="addr:housenumber" v="5079"/>
-    <tag k="addr:street" v="Bowdon Street"/>
-    <tag k="addr:city" v="Marrero"/>
-    <tag k="addr:postcode" v="70072"/>
-  </way>
-  <node visible="true" id="-77" lat="29.85240008261734345751392539" lon="-90.12111734169539545291627292"/>
-  <node visible="true" id="-78" lat="29.85245086544605896961002145" lon="-90.12110280366086101366818184"/>
-  <node visible="true" id="-79" lat="29.85245278240538624459077255" lon="-90.12111170540546822849137243"/>
-  <node visible="true" id="-80" lat="29.85253010860203559673209384" lon="-90.12108956855944086328236153"/>
-  <node visible="true" id="-81" lat="29.85250719639855176978926465" lon="-90.12098317155833626657113200"/>
-  <node visible="true" id="-82" lat="29.85237908734475453798040689" lon="-90.12101984643892649273766438"/>
-  <way visible="true" id="-11">
     <nd ref="-77"/>
     <nd ref="-78"/>
     <nd ref="-79"/>
     <nd ref="-80"/>
     <nd ref="-81"/>
     <nd ref="-82"/>
-    <nd ref="-77"/>
+    <nd ref="-73"/>
     <tag k="building" v="yes"/>
-    <tag k="addr:housenumber" v="5083"/>
+    <tag k="addr:housenumber" v="5047"/>
     <tag k="addr:street" v="Bowdon Street"/>
     <tag k="addr:city" v="Marrero"/>
     <tag k="addr:postcode" v="70072"/>
@@ -659,14 +661,12 @@
     <tag k="addr:city" v="Marrero"/>
     <tag k="addr:postcode" v="70072"/>
   </way>
-  <node visible="true" id="-213" lat="29.85200026585703625414680573" lon="-90.12151649844594203386805020"/>
-  <node visible="true" id="-214" lat="29.85203020674603635598032270" lon="-90.12166440425041002981743077"/>
-  <node visible="true" id="-215" lat="29.85211562315309308246469300" lon="-90.12164141798670868865883676"/>
-  <node visible="true" id="-216" lat="29.85211459541783440840845287" lon="-90.12163634104467746510636061"/>
-  <node visible="true" id="-217" lat="29.85214064568493697038320533" lon="-90.12162933069784287454240257"/>
-  <node visible="true" id="-218" lat="29.85213142501409677720403124" lon="-90.12158378120241764008824248"/>
-  <node visible="true" id="-219" lat="29.85213769520923321465488698" lon="-90.12158209383984797113953391"/>
-  <node visible="true" id="-220" lat="29.85211800276074001203596708" lon="-90.12148481447279380063264398"/>
+  <node visible="true" id="-213" lat="29.85193947004250958343618549" lon="-90.12163624763815050755511038"/>
+  <node visible="true" id="-214" lat="29.85197293618066893827744934" lon="-90.12162719209656813745823456"/>
+  <node visible="true" id="-215" lat="29.85195349520810026433537132" lon="-90.12153168051487739376170794"/>
+  <node visible="true" id="-216" lat="29.85183701941201306340190058" lon="-90.12156319746992494401638396"/>
+  <node visible="true" id="-217" lat="29.85186680332846975716165616" lon="-90.12170952275194224512233632"/>
+  <node visible="true" id="-218" lat="29.85194981295506622132052144" lon="-90.12168706133850548667396652"/>
   <way visible="true" id="-30">
     <nd ref="-213"/>
     <nd ref="-214"/>
@@ -674,91 +674,93 @@
     <nd ref="-216"/>
     <nd ref="-217"/>
     <nd ref="-218"/>
-    <nd ref="-219"/>
-    <nd ref="-220"/>
     <nd ref="-213"/>
-    <tag k="building" v="yes"/>
-    <tag k="addr:housenumber" v="5072"/>
-    <tag k="addr:street" v="Bowdon Street"/>
-    <tag k="addr:city" v="Marrero"/>
-    <tag k="addr:postcode" v="70072"/>
-  </way>
-  <node visible="true" id="-221" lat="29.85285276708254187383317912" lon="-90.12089416503462757646047976"/>
-  <node visible="true" id="-222" lat="29.85279240632732111748737225" lon="-90.12090962282547934592003003"/>
-  <node visible="true" id="-223" lat="29.85278688804264035638880159" lon="-90.12088097672021547168696998"/>
-  <node visible="true" id="-224" lat="29.85273201217950855834715185" lon="-90.12089502987568323533196235"/>
-  <node visible="true" id="-225" lat="29.85273809556879953674979333" lon="-90.12092660949201672337949276"/>
-  <node visible="true" id="-226" lat="29.85272050216017802881651733" lon="-90.12093111498528230640658876"/>
-  <node visible="true" id="-227" lat="29.85273960517271163439545489" lon="-90.12103028105083524224028224"/>
-  <node visible="true" id="-228" lat="29.85287243517056054997738102" lon="-90.12099626461125012610864360"/>
-  <way visible="true" id="-31">
-    <nd ref="-221"/>
-    <nd ref="-222"/>
-    <nd ref="-223"/>
-    <nd ref="-224"/>
-    <nd ref="-225"/>
-    <nd ref="-226"/>
-    <nd ref="-227"/>
-    <nd ref="-228"/>
-    <nd ref="-221"/>
-    <tag k="building" v="yes"/>
-    <tag k="addr:housenumber" v="5091"/>
-    <tag k="addr:street" v="Bowdon Street"/>
-    <tag k="addr:city" v="Marrero"/>
-    <tag k="addr:postcode" v="70072"/>
-  </way>
-  <node visible="true" id="-229" lat="29.85193947004250958343618549" lon="-90.12163624763815050755511038"/>
-  <node visible="true" id="-230" lat="29.85197293618066893827744934" lon="-90.12162719209656813745823456"/>
-  <node visible="true" id="-231" lat="29.85195349520810026433537132" lon="-90.12153168051487739376170794"/>
-  <node visible="true" id="-232" lat="29.85183701941201306340190058" lon="-90.12156319746992494401638396"/>
-  <node visible="true" id="-233" lat="29.85186680332846975716165616" lon="-90.12170952275194224512233632"/>
-  <node visible="true" id="-234" lat="29.85194981295506622132052144" lon="-90.12168706133850548667396652"/>
-  <way visible="true" id="-32">
-    <nd ref="-229"/>
-    <nd ref="-230"/>
-    <nd ref="-231"/>
-    <nd ref="-232"/>
-    <nd ref="-233"/>
-    <nd ref="-234"/>
-    <nd ref="-229"/>
     <tag k="building" v="yes"/>
     <tag k="addr:housenumber" v="5068"/>
     <tag k="addr:street" v="Bowdon Street"/>
     <tag k="addr:city" v="Marrero"/>
     <tag k="addr:postcode" v="70072"/>
   </way>
-  <node visible="true" id="-235" lat="29.85121578375180462217031163" lon="-90.12174187846223105680110166"/>
-  <node visible="true" id="-236" lat="29.85117151928288237172637309" lon="-90.12175377870104853172961157"/>
-  <node visible="true" id="-237" lat="29.85119193115390956450028170" lon="-90.12185470923257923914206913"/>
-  <node visible="true" id="-238" lat="29.85132342147501205431581184" lon="-90.12181935882033201323793037"/>
-  <node visible="true" id="-239" lat="29.85130054954984402115769626" lon="-90.12170626391718997183488682"/>
-  <node visible="true" id="-240" lat="29.85121332366869140173548658" lon="-90.12172971409063393366523087"/>
-  <way visible="true" id="-33">
-    <nd ref="-235"/>
-    <nd ref="-236"/>
-    <nd ref="-237"/>
-    <nd ref="-238"/>
-    <nd ref="-239"/>
-    <nd ref="-240"/>
-    <nd ref="-235"/>
+  <node visible="true" id="-219" lat="29.85121578375180462217031163" lon="-90.12174187846223105680110166"/>
+  <node visible="true" id="-220" lat="29.85117151928288237172637309" lon="-90.12175377870104853172961157"/>
+  <node visible="true" id="-221" lat="29.85119193115390956450028170" lon="-90.12185470923257923914206913"/>
+  <node visible="true" id="-222" lat="29.85132342147501205431581184" lon="-90.12181935882033201323793037"/>
+  <node visible="true" id="-223" lat="29.85130054954984402115769626" lon="-90.12170626391718997183488682"/>
+  <node visible="true" id="-224" lat="29.85121332366869140173548658" lon="-90.12172971409063393366523087"/>
+  <way visible="true" id="-31">
+    <nd ref="-219"/>
+    <nd ref="-220"/>
+    <nd ref="-221"/>
+    <nd ref="-222"/>
+    <nd ref="-223"/>
+    <nd ref="-224"/>
+    <nd ref="-219"/>
     <tag k="building" v="yes"/>
     <tag k="addr:housenumber" v="5052"/>
     <tag k="addr:street" v="Bowdon Street"/>
     <tag k="addr:city" v="Marrero"/>
     <tag k="addr:postcode" v="70072"/>
   </way>
-  <node visible="true" id="-241" lat="29.85171260749748967100458685" lon="-90.12131342740468653573771007"/>
-  <node visible="true" id="-242" lat="29.85184540995886948167026276" lon="-90.12127662200835231942619430"/>
-  <node visible="true" id="-243" lat="29.85182452944653164195187856" lon="-90.12117646500348655536072329"/>
-  <node visible="true" id="-244" lat="29.85169172695719908006140031" lon="-90.12121327039982077167223906"/>
+  <node visible="true" id="-225" lat="29.85171260749748967100458685" lon="-90.12131342740468653573771007"/>
+  <node visible="true" id="-226" lat="29.85184540995886948167026276" lon="-90.12127662200835231942619430"/>
+  <node visible="true" id="-227" lat="29.85182452944653164195187856" lon="-90.12117646500348655536072329"/>
+  <node visible="true" id="-228" lat="29.85169172695719908006140031" lon="-90.12121327039982077167223906"/>
+  <way visible="true" id="-32">
+    <nd ref="-225"/>
+    <nd ref="-226"/>
+    <nd ref="-227"/>
+    <nd ref="-228"/>
+    <nd ref="-225"/>
+    <tag k="building" v="yes"/>
+    <tag k="addr:housenumber" v="5067"/>
+    <tag k="addr:street" v="Bowdon Street"/>
+    <tag k="addr:city" v="Marrero"/>
+    <tag k="addr:postcode" v="70072"/>
+  </way>
+  <node visible="true" id="-229" lat="29.85200026585703625414680573" lon="-90.12151649844594203386805020"/>
+  <node visible="true" id="-230" lat="29.85203020674603635598032270" lon="-90.12166440425041002981743077"/>
+  <node visible="true" id="-231" lat="29.85211562315309308246469300" lon="-90.12164141798670868865883676"/>
+  <node visible="true" id="-232" lat="29.85211459541783440840845287" lon="-90.12163634104467746510636061"/>
+  <node visible="true" id="-233" lat="29.85214064568493697038320533" lon="-90.12162933069784287454240257"/>
+  <node visible="true" id="-234" lat="29.85213142501409677720403124" lon="-90.12158378120241764008824248"/>
+  <node visible="true" id="-235" lat="29.85213769520923321465488698" lon="-90.12158209383984797113953391"/>
+  <node visible="true" id="-236" lat="29.85211800276074001203596708" lon="-90.12148481447279380063264398"/>
+  <way visible="true" id="-33">
+    <nd ref="-229"/>
+    <nd ref="-230"/>
+    <nd ref="-231"/>
+    <nd ref="-232"/>
+    <nd ref="-233"/>
+    <nd ref="-234"/>
+    <nd ref="-235"/>
+    <nd ref="-236"/>
+    <nd ref="-229"/>
+    <tag k="building" v="yes"/>
+    <tag k="addr:housenumber" v="5072"/>
+    <tag k="addr:street" v="Bowdon Street"/>
+    <tag k="addr:city" v="Marrero"/>
+    <tag k="addr:postcode" v="70072"/>
+  </way>
+  <node visible="true" id="-237" lat="29.85285276708254187383317912" lon="-90.12089416503462757646047976"/>
+  <node visible="true" id="-238" lat="29.85279240632732111748737225" lon="-90.12090962282547934592003003"/>
+  <node visible="true" id="-239" lat="29.85278688804264035638880159" lon="-90.12088097672021547168696998"/>
+  <node visible="true" id="-240" lat="29.85273201217950855834715185" lon="-90.12089502987568323533196235"/>
+  <node visible="true" id="-241" lat="29.85273809556879953674979333" lon="-90.12092660949201672337949276"/>
+  <node visible="true" id="-242" lat="29.85272050216017802881651733" lon="-90.12093111498528230640658876"/>
+  <node visible="true" id="-243" lat="29.85273960517271163439545489" lon="-90.12103028105083524224028224"/>
+  <node visible="true" id="-244" lat="29.85287243517056054997738102" lon="-90.12099626461125012610864360"/>
   <way visible="true" id="-34">
+    <nd ref="-237"/>
+    <nd ref="-238"/>
+    <nd ref="-239"/>
+    <nd ref="-240"/>
     <nd ref="-241"/>
     <nd ref="-242"/>
     <nd ref="-243"/>
     <nd ref="-244"/>
-    <nd ref="-241"/>
+    <nd ref="-237"/>
     <tag k="building" v="yes"/>
-    <tag k="addr:housenumber" v="5067"/>
+    <tag k="addr:housenumber" v="5091"/>
     <tag k="addr:street" v="Bowdon Street"/>
     <tag k="addr:city" v="Marrero"/>
     <tag k="addr:postcode" v="70072"/>

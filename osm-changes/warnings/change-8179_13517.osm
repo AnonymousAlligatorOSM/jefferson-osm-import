@@ -1,8 +1,10 @@
 <?xml version='1.0' encoding='utf8'?>
-<osm version="0.6" generator="AnonymousAlligator's import script">
-  <changeset_tag k="comment" v="Import buildings and addresses in Jefferson Parish, see https://wiki.openstreetmap.org/wiki/Import/Catalogue/Jefferson_Parish_Addresses_and_Buildings"/>
-  <changeset_tag k="source" v="Jefferson Parish Planning Department"/>
-  <changeset_tag k="source_file" v="8179_13517"/>
+<osm version="0.6" generator="AnonymousAlligator's import script" upload-changeset="-1">
+  <changeset id="-1">
+    <tag k="comment" v="Import buildings and addresses in Jefferson Parish, see https://wiki.openstreetmap.org/wiki/Import/Catalogue/Jefferson_Parish_Addresses_and_Buildings"/>
+    <tag k="source" v="Jefferson Parish Planning Department"/>
+    <tag k="source_file" v="change-8179_13517.osm"/>
+  </changeset>
   <node visible="true" id="-1" lat="30.01491126706988765704409161" lon="-90.14052456696116166767751565"/>
   <node visible="true" id="-2" lat="30.01486555536106592967371398" lon="-90.14052689198803136605420150"/>
   <node visible="true" id="-3" lat="30.01486457646404559795882960" lon="-90.14050122319311242335970746"/>
@@ -107,10 +109,10 @@
     <tag k="addr:city" v="Metairie"/>
     <tag k="addr:postcode" v="70005"/>
   </way>
-  <node visible="true" id="-37" lat="30.01600431112284894652475487" lon="-90.14064360452272239854210056"/>
-  <node visible="true" id="-38" lat="30.01599795028125328144597006" lon="-90.14043524740306168041570345"/>
-  <node visible="true" id="-39" lat="30.01590733655905296473065391" lon="-90.14043893699931686569470912"/>
-  <node visible="true" id="-40" lat="30.01591369740672021748650877" lon="-90.14064729411897758382110624"/>
+  <node visible="true" id="-37" lat="30.01653390966503920367358660" lon="-90.14043051540173223656893242"/>
+  <node visible="true" id="-38" lat="30.01643956846601213328540325" lon="-90.14043470227710486142314039"/>
+  <node visible="true" id="-39" lat="30.01644579273514068518124986" lon="-90.14062176299961492986767553"/>
+  <node visible="true" id="-40" lat="30.01654013392801445547775074" lon="-90.14061757612424230501346756"/>
   <way visible="true" id="-5">
     <nd ref="-37"/>
     <nd ref="-38"/>
@@ -118,17 +120,19 @@
     <nd ref="-40"/>
     <nd ref="-37"/>
     <tag k="building" v="yes"/>
-    <tag k="addr:housenumber" v="1401"/>
+    <tag k="addr:housenumber" v="1417"/>
     <tag k="addr:street" v="Poinsettia Drive"/>
     <tag k="addr:city" v="Metairie"/>
     <tag k="addr:postcode" v="70005"/>
   </way>
-  <node visible="true" id="-41" lat="30.01604087589929292789747706" lon="-90.14117003562436991614958970"/>
-  <node visible="true" id="-42" lat="30.01603114169385122522726306" lon="-90.14091504020930756269081030"/>
-  <node visible="true" id="-43" lat="30.01593916449488830267000594" lon="-90.14091972324240487068891525"/>
-  <node visible="true" id="-44" lat="30.01594267645130997834712616" lon="-90.14101172169910114462254569"/>
-  <node visible="true" id="-45" lat="30.01591209237555446520673286" lon="-90.14101327889108006274909712"/>
-  <node visible="true" id="-46" lat="30.01591831463568382787343580" lon="-90.14117627584944614227424609"/>
+  <node visible="true" id="-41" lat="30.01716119744333255425772222" lon="-90.14109216291413417820876930"/>
+  <node visible="true" id="-42" lat="30.01715911981651530027193076" lon="-90.14104287223841538434498943"/>
+  <node visible="true" id="-43" lat="30.01718636829364683649146173" lon="-90.14104134032554327404795913"/>
+  <node visible="true" id="-44" lat="30.01718413118192785304927384" lon="-90.14098826592793045620055636"/>
+  <node visible="true" id="-45" lat="30.01721177409132579327888379" lon="-90.14098671183965905129298335"/>
+  <node visible="true" id="-46" lat="30.01720638128663054544631450" lon="-90.14085877013259562318125973"/>
+  <node visible="true" id="-47" lat="30.01709058141548069897908135" lon="-90.14086528041443102665652987"/>
+  <node visible="true" id="-48" lat="30.01710028896899018491239985" lon="-90.14109558719484027733415132"/>
   <way visible="true" id="-6">
     <nd ref="-41"/>
     <nd ref="-42"/>
@@ -136,189 +140,187 @@
     <nd ref="-44"/>
     <nd ref="-45"/>
     <nd ref="-46"/>
-    <nd ref="-41"/>
-    <tag k="building" v="yes"/>
-    <tag k="addr:housenumber" v="1400"/>
-    <tag k="addr:street" v="Poinsettia Drive"/>
-    <tag k="addr:city" v="Metairie"/>
-    <tag k="addr:postcode" v="70005"/>
-  </way>
-  <node visible="true" id="-47" lat="30.01792336474105127308575902" lon="-90.14032407832752369358786382"/>
-  <node visible="true" id="-48" lat="30.01784488611738765939662699" lon="-90.14032815970155354534654180"/>
-  <node visible="true" id="-49" lat="30.01784599786491725126325036" lon="-90.14035667292162656849541236"/>
-  <node visible="true" id="-50" lat="30.01780741238280825200490654" lon="-90.14035867960429015965928556"/>
-  <node visible="true" id="-51" lat="30.01781484548042655546851165" lon="-90.14054931775794443638005760"/>
-  <node visible="true" id="-52" lat="30.01787146043782783522146929" lon="-90.14054637343106435309891822"/>
-  <node visible="true" id="-53" lat="30.01787037566707638802654401" lon="-90.14051855208208507974632084"/>
-  <node visible="true" id="-54" lat="30.01793082480647001375473337" lon="-90.14051540835227172010490904"/>
-  <way visible="true" id="-7">
     <nd ref="-47"/>
     <nd ref="-48"/>
-    <nd ref="-49"/>
-    <nd ref="-50"/>
-    <nd ref="-51"/>
-    <nd ref="-52"/>
-    <nd ref="-53"/>
-    <nd ref="-54"/>
-    <nd ref="-47"/>
-    <tag k="building" v="yes"/>
-    <tag k="addr:housenumber" v="1457"/>
-    <tag k="addr:street" v="Poinsettia Drive"/>
-    <tag k="addr:city" v="Metairie"/>
-    <tag k="addr:postcode" v="70005"/>
-  </way>
-  <node visible="true" id="-55" lat="30.01778524865635944252062473" lon="-90.14091289078071156382065965"/>
-  <node visible="true" id="-56" lat="30.01775057356644893502561899" lon="-90.14091441276910643409792101"/>
-  <node visible="true" id="-57" lat="30.01774777990144116301962640" lon="-90.14082951920191533190518385"/>
-  <node visible="true" id="-58" lat="30.01766019384294281735492405" lon="-90.14083336360083364979800535"/>
-  <node visible="true" id="-59" lat="30.01766675510020121464549447" lon="-90.14103274615541749881231226"/>
-  <node visible="true" id="-60" lat="30.01767156211867870752030285" lon="-90.14103253516191216476727277"/>
-  <node visible="true" id="-61" lat="30.01767240720408125298490631" lon="-90.14105821550495534211222548"/>
-  <node visible="true" id="-62" lat="30.01774726142442162313273002" lon="-90.14105492994211488166911295"/>
-  <node visible="true" id="-63" lat="30.01774937856093927734946192" lon="-90.14111926524729767606913811"/>
-  <node visible="true" id="-64" lat="30.01779197846173730113150668" lon="-90.14111739541635870409663767"/>
-  <way visible="true" id="-8">
-    <nd ref="-55"/>
-    <nd ref="-56"/>
-    <nd ref="-57"/>
-    <nd ref="-58"/>
-    <nd ref="-59"/>
-    <nd ref="-60"/>
-    <nd ref="-61"/>
-    <nd ref="-62"/>
-    <nd ref="-63"/>
-    <nd ref="-64"/>
-    <nd ref="-55"/>
-    <tag k="building" v="yes"/>
-    <tag k="addr:housenumber" v="1452"/>
-    <tag k="addr:street" v="Poinsettia Drive"/>
-    <tag k="addr:city" v="Metairie"/>
-    <tag k="addr:postcode" v="70005"/>
-  </way>
-  <node visible="true" id="-65" lat="30.01521223856185827116860310" lon="-90.14068572172261895047995495"/>
-  <node visible="true" id="-66" lat="30.01528756211666504327695293" lon="-90.14068173734175104527821532"/>
-  <node visible="true" id="-67" lat="30.01528523845688667393005744" lon="-90.14062314850606583149783546"/>
-  <node visible="true" id="-68" lat="30.01532827508890122203411011" lon="-90.14062087200129269604076399"/>
-  <node visible="true" id="-69" lat="30.01532187752505009825654270" lon="-90.14045956353731980925658718"/>
-  <node visible="true" id="-70" lat="30.01520351732942515354807256" lon="-90.14046582442294663906068308"/>
-  <way visible="true" id="-9">
-    <nd ref="-65"/>
-    <nd ref="-66"/>
-    <nd ref="-67"/>
-    <nd ref="-68"/>
-    <nd ref="-69"/>
-    <nd ref="-70"/>
-    <nd ref="-65"/>
-    <tag k="building" v="yes"/>
-    <tag k="addr:housenumber" v="1337"/>
-    <tag k="addr:street" v="Poinsettia Drive"/>
-    <tag k="addr:city" v="Metairie"/>
-    <tag k="addr:postcode" v="70005"/>
-  </way>
-  <node visible="true" id="-71" lat="30.01538785490917504716890107" lon="-90.14108916439795393671374768"/>
-  <node visible="true" id="-72" lat="30.01538873789652939194638748" lon="-90.14111339391752153460402042"/>
-  <node visible="true" id="-73" lat="30.01536772838273137153919379" lon="-90.14111441509004407635075040"/>
-  <node visible="true" id="-74" lat="30.01537118471818388343308470" lon="-90.14120925826246377710049273"/>
-  <node visible="true" id="-75" lat="30.01543543844511674478781060" lon="-90.14120613519361313592526130"/>
-  <node visible="true" id="-76" lat="30.01543645861787723561064922" lon="-90.14123412914466371148591861"/>
-  <node visible="true" id="-77" lat="30.01548931613169202137214597" lon="-90.14123155999010350569733419"/>
-  <node visible="true" id="-78" lat="30.01547896031699735885922564" lon="-90.14094739210801776607695501"/>
-  <node visible="true" id="-79" lat="30.01539640210172521506137855" lon="-90.14095140487258106531953672"/>
-  <node visible="true" id="-80" lat="30.01539699896210322549450211" lon="-90.14096778295190404151071562"/>
-  <node visible="true" id="-81" lat="30.01533358023289821403523092" lon="-90.14097086543428360982943559"/>
-  <node visible="true" id="-82" lat="30.01533797970493466777952563" lon="-90.14109158859403692076739389"/>
-  <way visible="true" id="-10">
-    <nd ref="-71"/>
-    <nd ref="-72"/>
-    <nd ref="-73"/>
-    <nd ref="-74"/>
-    <nd ref="-75"/>
-    <nd ref="-76"/>
-    <nd ref="-77"/>
-    <nd ref="-78"/>
-    <nd ref="-79"/>
-    <nd ref="-80"/>
-    <nd ref="-81"/>
-    <nd ref="-82"/>
-    <nd ref="-71"/>
-    <tag k="building" v="yes"/>
-    <tag k="addr:housenumber" v="1336"/>
-    <tag k="addr:street" v="Poinsettia Drive"/>
-    <tag k="addr:city" v="Metairie"/>
-    <tag k="addr:postcode" v="70005"/>
-  </way>
-  <node visible="true" id="-83" lat="30.01653390966503920367358660" lon="-90.14043051540173223656893242"/>
-  <node visible="true" id="-84" lat="30.01643956846601213328540325" lon="-90.14043470227710486142314039"/>
-  <node visible="true" id="-85" lat="30.01644579273514068518124986" lon="-90.14062176299961492986767553"/>
-  <node visible="true" id="-86" lat="30.01654013392801445547775074" lon="-90.14061757612424230501346756"/>
-  <way visible="true" id="-11">
-    <nd ref="-83"/>
-    <nd ref="-84"/>
-    <nd ref="-85"/>
-    <nd ref="-86"/>
-    <nd ref="-83"/>
-    <tag k="building" v="yes"/>
-    <tag k="addr:housenumber" v="1417"/>
-    <tag k="addr:street" v="Poinsettia Drive"/>
-    <tag k="addr:city" v="Metairie"/>
-    <tag k="addr:postcode" v="70005"/>
-  </way>
-  <node visible="true" id="-87" lat="30.01716119744333255425772222" lon="-90.14109216291413417820876930"/>
-  <node visible="true" id="-88" lat="30.01715911981651530027193076" lon="-90.14104287223841538434498943"/>
-  <node visible="true" id="-89" lat="30.01718636829364683649146173" lon="-90.14104134032554327404795913"/>
-  <node visible="true" id="-90" lat="30.01718413118192785304927384" lon="-90.14098826592793045620055636"/>
-  <node visible="true" id="-91" lat="30.01721177409132579327888379" lon="-90.14098671183965905129298335"/>
-  <node visible="true" id="-92" lat="30.01720638128663054544631450" lon="-90.14085877013259562318125973"/>
-  <node visible="true" id="-93" lat="30.01709058141548069897908135" lon="-90.14086528041443102665652987"/>
-  <node visible="true" id="-94" lat="30.01710028896899018491239985" lon="-90.14109558719484027733415132"/>
-  <way visible="true" id="-12">
-    <nd ref="-87"/>
-    <nd ref="-88"/>
-    <nd ref="-89"/>
-    <nd ref="-90"/>
-    <nd ref="-91"/>
-    <nd ref="-92"/>
-    <nd ref="-93"/>
-    <nd ref="-94"/>
-    <nd ref="-87"/>
+    <nd ref="-41"/>
     <tag k="building" v="yes"/>
     <tag k="addr:housenumber" v="1432"/>
     <tag k="addr:street" v="Poinsettia Drive"/>
     <tag k="addr:city" v="Metairie"/>
     <tag k="addr:postcode" v="70005"/>
   </way>
-  <node visible="true" id="-95" lat="30.01835190452218071754941775" lon="-90.14079596684362627456721384"/>
-  <node visible="true" id="-96" lat="30.01827363699686301856672799" lon="-90.14080015926708711049286649"/>
-  <node visible="true" id="-97" lat="30.01827552962628686827883939" lon="-90.14084728747936026138631860"/>
-  <node visible="true" id="-98" lat="30.01823809946638021983744693" lon="-90.14084929243595922798704123"/>
-  <node visible="true" id="-99" lat="30.01824331202381301864079433" lon="-90.14097908986070706305326894"/>
-  <node visible="true" id="-100" lat="30.01835900970150561306581949" lon="-90.14097289248061883881746326"/>
-  <way visible="true" id="-13">
-    <nd ref="-95"/>
-    <nd ref="-96"/>
-    <nd ref="-97"/>
-    <nd ref="-98"/>
-    <nd ref="-99"/>
-    <nd ref="-100"/>
-    <nd ref="-95"/>
+  <node visible="true" id="-49" lat="30.01835190452218071754941775" lon="-90.14079596684362627456721384"/>
+  <node visible="true" id="-50" lat="30.01827363699686301856672799" lon="-90.14080015926708711049286649"/>
+  <node visible="true" id="-51" lat="30.01827552962628686827883939" lon="-90.14084728747936026138631860"/>
+  <node visible="true" id="-52" lat="30.01823809946638021983744693" lon="-90.14084929243595922798704123"/>
+  <node visible="true" id="-53" lat="30.01824331202381301864079433" lon="-90.14097908986070706305326894"/>
+  <node visible="true" id="-54" lat="30.01835900970150561306581949" lon="-90.14097289248061883881746326"/>
+  <way visible="true" id="-7">
+    <nd ref="-49"/>
+    <nd ref="-50"/>
+    <nd ref="-51"/>
+    <nd ref="-52"/>
+    <nd ref="-53"/>
+    <nd ref="-54"/>
+    <nd ref="-49"/>
     <tag k="building" v="yes"/>
     <tag k="addr:housenumber" v="1504"/>
     <tag k="addr:street" v="Poinsettia Drive"/>
     <tag k="addr:city" v="Metairie"/>
     <tag k="addr:postcode" v="70005"/>
   </way>
-  <node visible="true" id="-101" lat="30.01820663880822337432618951" lon="-90.14080178534818799107597442"/>
-  <node visible="true" id="-102" lat="30.01811101846232787693224964" lon="-90.14080716224563616378873121"/>
-  <node visible="true" id="-103" lat="30.01811985543768912521045422" lon="-90.14101677597794548546517035"/>
-  <node visible="true" id="-104" lat="30.01821547577488047409133287" lon="-90.14101139908051152360712877"/>
+  <node visible="true" id="-55" lat="30.01820663880822337432618951" lon="-90.14080178534818799107597442"/>
+  <node visible="true" id="-56" lat="30.01811101846232787693224964" lon="-90.14080716224563616378873121"/>
+  <node visible="true" id="-57" lat="30.01811985543768912521045422" lon="-90.14101677597794548546517035"/>
+  <node visible="true" id="-58" lat="30.01821547577488047409133287" lon="-90.14101139908051152360712877"/>
+  <way visible="true" id="-8">
+    <nd ref="-55"/>
+    <nd ref="-56"/>
+    <nd ref="-57"/>
+    <nd ref="-58"/>
+    <nd ref="-55"/>
+    <tag k="building" v="yes"/>
+    <tag k="addr:housenumber" v="1500"/>
+    <tag k="addr:street" v="Poinsettia Drive"/>
+    <tag k="addr:city" v="Metairie"/>
+    <tag k="addr:postcode" v="70005"/>
+  </way>
+  <node visible="true" id="-59" lat="30.01600431112284894652475487" lon="-90.14064360452272239854210056"/>
+  <node visible="true" id="-60" lat="30.01599795028125328144597006" lon="-90.14043524740306168041570345"/>
+  <node visible="true" id="-61" lat="30.01590733655905296473065391" lon="-90.14043893699931686569470912"/>
+  <node visible="true" id="-62" lat="30.01591369740672021748650877" lon="-90.14064729411897758382110624"/>
+  <way visible="true" id="-9">
+    <nd ref="-59"/>
+    <nd ref="-60"/>
+    <nd ref="-61"/>
+    <nd ref="-62"/>
+    <nd ref="-59"/>
+    <tag k="building" v="yes"/>
+    <tag k="addr:housenumber" v="1401"/>
+    <tag k="addr:street" v="Poinsettia Drive"/>
+    <tag k="addr:city" v="Metairie"/>
+    <tag k="addr:postcode" v="70005"/>
+  </way>
+  <node visible="true" id="-63" lat="30.01604087589929292789747706" lon="-90.14117003562436991614958970"/>
+  <node visible="true" id="-64" lat="30.01603114169385122522726306" lon="-90.14091504020930756269081030"/>
+  <node visible="true" id="-65" lat="30.01593916449488830267000594" lon="-90.14091972324240487068891525"/>
+  <node visible="true" id="-66" lat="30.01594267645130997834712616" lon="-90.14101172169910114462254569"/>
+  <node visible="true" id="-67" lat="30.01591209237555446520673286" lon="-90.14101327889108006274909712"/>
+  <node visible="true" id="-68" lat="30.01591831463568382787343580" lon="-90.14117627584944614227424609"/>
+  <way visible="true" id="-10">
+    <nd ref="-63"/>
+    <nd ref="-64"/>
+    <nd ref="-65"/>
+    <nd ref="-66"/>
+    <nd ref="-67"/>
+    <nd ref="-68"/>
+    <nd ref="-63"/>
+    <tag k="building" v="yes"/>
+    <tag k="addr:housenumber" v="1400"/>
+    <tag k="addr:street" v="Poinsettia Drive"/>
+    <tag k="addr:city" v="Metairie"/>
+    <tag k="addr:postcode" v="70005"/>
+  </way>
+  <node visible="true" id="-69" lat="30.01792336474105127308575902" lon="-90.14032407832752369358786382"/>
+  <node visible="true" id="-70" lat="30.01784488611738765939662699" lon="-90.14032815970155354534654180"/>
+  <node visible="true" id="-71" lat="30.01784599786491725126325036" lon="-90.14035667292162656849541236"/>
+  <node visible="true" id="-72" lat="30.01780741238280825200490654" lon="-90.14035867960429015965928556"/>
+  <node visible="true" id="-73" lat="30.01781484548042655546851165" lon="-90.14054931775794443638005760"/>
+  <node visible="true" id="-74" lat="30.01787146043782783522146929" lon="-90.14054637343106435309891822"/>
+  <node visible="true" id="-75" lat="30.01787037566707638802654401" lon="-90.14051855208208507974632084"/>
+  <node visible="true" id="-76" lat="30.01793082480647001375473337" lon="-90.14051540835227172010490904"/>
+  <way visible="true" id="-11">
+    <nd ref="-69"/>
+    <nd ref="-70"/>
+    <nd ref="-71"/>
+    <nd ref="-72"/>
+    <nd ref="-73"/>
+    <nd ref="-74"/>
+    <nd ref="-75"/>
+    <nd ref="-76"/>
+    <nd ref="-69"/>
+    <tag k="building" v="yes"/>
+    <tag k="addr:housenumber" v="1457"/>
+    <tag k="addr:street" v="Poinsettia Drive"/>
+    <tag k="addr:city" v="Metairie"/>
+    <tag k="addr:postcode" v="70005"/>
+  </way>
+  <node visible="true" id="-77" lat="30.01778524865635944252062473" lon="-90.14091289078071156382065965"/>
+  <node visible="true" id="-78" lat="30.01775057356644893502561899" lon="-90.14091441276910643409792101"/>
+  <node visible="true" id="-79" lat="30.01774777990144116301962640" lon="-90.14082951920191533190518385"/>
+  <node visible="true" id="-80" lat="30.01766019384294281735492405" lon="-90.14083336360083364979800535"/>
+  <node visible="true" id="-81" lat="30.01766675510020121464549447" lon="-90.14103274615541749881231226"/>
+  <node visible="true" id="-82" lat="30.01767156211867870752030285" lon="-90.14103253516191216476727277"/>
+  <node visible="true" id="-83" lat="30.01767240720408125298490631" lon="-90.14105821550495534211222548"/>
+  <node visible="true" id="-84" lat="30.01774726142442162313273002" lon="-90.14105492994211488166911295"/>
+  <node visible="true" id="-85" lat="30.01774937856093927734946192" lon="-90.14111926524729767606913811"/>
+  <node visible="true" id="-86" lat="30.01779197846173730113150668" lon="-90.14111739541635870409663767"/>
+  <way visible="true" id="-12">
+    <nd ref="-77"/>
+    <nd ref="-78"/>
+    <nd ref="-79"/>
+    <nd ref="-80"/>
+    <nd ref="-81"/>
+    <nd ref="-82"/>
+    <nd ref="-83"/>
+    <nd ref="-84"/>
+    <nd ref="-85"/>
+    <nd ref="-86"/>
+    <nd ref="-77"/>
+    <tag k="building" v="yes"/>
+    <tag k="addr:housenumber" v="1452"/>
+    <tag k="addr:street" v="Poinsettia Drive"/>
+    <tag k="addr:city" v="Metairie"/>
+    <tag k="addr:postcode" v="70005"/>
+  </way>
+  <node visible="true" id="-87" lat="30.01521223856185827116860310" lon="-90.14068572172261895047995495"/>
+  <node visible="true" id="-88" lat="30.01528756211666504327695293" lon="-90.14068173734175104527821532"/>
+  <node visible="true" id="-89" lat="30.01528523845688667393005744" lon="-90.14062314850606583149783546"/>
+  <node visible="true" id="-90" lat="30.01532827508890122203411011" lon="-90.14062087200129269604076399"/>
+  <node visible="true" id="-91" lat="30.01532187752505009825654270" lon="-90.14045956353731980925658718"/>
+  <node visible="true" id="-92" lat="30.01520351732942515354807256" lon="-90.14046582442294663906068308"/>
+  <way visible="true" id="-13">
+    <nd ref="-87"/>
+    <nd ref="-88"/>
+    <nd ref="-89"/>
+    <nd ref="-90"/>
+    <nd ref="-91"/>
+    <nd ref="-92"/>
+    <nd ref="-87"/>
+    <tag k="building" v="yes"/>
+    <tag k="addr:housenumber" v="1337"/>
+    <tag k="addr:street" v="Poinsettia Drive"/>
+    <tag k="addr:city" v="Metairie"/>
+    <tag k="addr:postcode" v="70005"/>
+  </way>
+  <node visible="true" id="-93" lat="30.01538785490917504716890107" lon="-90.14108916439795393671374768"/>
+  <node visible="true" id="-94" lat="30.01538873789652939194638748" lon="-90.14111339391752153460402042"/>
+  <node visible="true" id="-95" lat="30.01536772838273137153919379" lon="-90.14111441509004407635075040"/>
+  <node visible="true" id="-96" lat="30.01537118471818388343308470" lon="-90.14120925826246377710049273"/>
+  <node visible="true" id="-97" lat="30.01543543844511674478781060" lon="-90.14120613519361313592526130"/>
+  <node visible="true" id="-98" lat="30.01543645861787723561064922" lon="-90.14123412914466371148591861"/>
+  <node visible="true" id="-99" lat="30.01548931613169202137214597" lon="-90.14123155999010350569733419"/>
+  <node visible="true" id="-100" lat="30.01547896031699735885922564" lon="-90.14094739210801776607695501"/>
+  <node visible="true" id="-101" lat="30.01539640210172521506137855" lon="-90.14095140487258106531953672"/>
+  <node visible="true" id="-102" lat="30.01539699896210322549450211" lon="-90.14096778295190404151071562"/>
+  <node visible="true" id="-103" lat="30.01533358023289821403523092" lon="-90.14097086543428360982943559"/>
+  <node visible="true" id="-104" lat="30.01533797970493466777952563" lon="-90.14109158859403692076739389"/>
   <way visible="true" id="-14">
+    <nd ref="-93"/>
+    <nd ref="-94"/>
+    <nd ref="-95"/>
+    <nd ref="-96"/>
+    <nd ref="-97"/>
+    <nd ref="-98"/>
+    <nd ref="-99"/>
+    <nd ref="-100"/>
     <nd ref="-101"/>
     <nd ref="-102"/>
     <nd ref="-103"/>
     <nd ref="-104"/>
-    <nd ref="-101"/>
+    <nd ref="-93"/>
     <tag k="building" v="yes"/>
-    <tag k="addr:housenumber" v="1500"/>
+    <tag k="addr:housenumber" v="1336"/>
     <tag k="addr:street" v="Poinsettia Drive"/>
     <tag k="addr:city" v="Metairie"/>
     <tag k="addr:postcode" v="70005"/>

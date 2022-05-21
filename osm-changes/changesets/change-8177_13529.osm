@@ -1,8 +1,10 @@
 <?xml version='1.0' encoding='utf8'?>
-<osm version="0.6" generator="AnonymousAlligator's import script">
-  <changeset_tag k="comment" v="Import buildings and addresses in Jefferson Parish, see https://wiki.openstreetmap.org/wiki/Import/Catalogue/Jefferson_Parish_Addresses_and_Buildings"/>
-  <changeset_tag k="source" v="Jefferson Parish Planning Department"/>
-  <changeset_tag k="source_file" v="8177_13529"/>
+<osm version="0.6" generator="AnonymousAlligator's import script" upload-changeset="-1">
+  <changeset id="-1">
+    <tag k="comment" v="Import buildings and addresses in Jefferson Parish, see https://wiki.openstreetmap.org/wiki/Import/Catalogue/Jefferson_Parish_Addresses_and_Buildings"/>
+    <tag k="source" v="Jefferson Parish Planning Department"/>
+    <tag k="source_file" v="change-8177_13529.osm"/>
+  </changeset>
   <node visible="true" id="-1" lat="29.89866596921143226950334792" lon="-90.15422603084724073596589733"/>
   <node visible="true" id="-2" lat="29.89861570123754930250470352" lon="-90.15419720918896473449422047"/>
   <node visible="true" id="-3" lat="29.89857219650534858601531596" lon="-90.15429529775313710615591845"/>
@@ -1345,10 +1347,10 @@
     <tag k="addr:city" v="Bridge City"/>
     <tag k="addr:postcode" v="70094"/>
   </way>
-  <node visible="true" id="-414" lat="29.90727342523330634094236302" lon="-90.15481593964210560443461873"/>
-  <node visible="true" id="-415" lat="29.90725963586096369795086503" lon="-90.15478639204236799287173199"/>
-  <node visible="true" id="-416" lat="29.90723492474441158606168756" lon="-90.15480173973816135912784375"/>
-  <node visible="true" id="-417" lat="29.90724871412019680860794324" lon="-90.15483128733789897069073049"/>
+  <node visible="true" id="-414" lat="29.90703852407294149884364742" lon="-90.15424830620496265964902705"/>
+  <node visible="true" id="-415" lat="29.90688059745191651472850936" lon="-90.15434739261510799224197399"/>
+  <node visible="true" id="-416" lat="29.90692346437603177378150576" lon="-90.15443831885845327178685693"/>
+  <node visible="true" id="-417" lat="29.90708139092911110878958425" lon="-90.15433923244830793919390999"/>
   <way visible="true" id="-70">
     <nd ref="-414"/>
     <nd ref="-415"/>
@@ -1356,61 +1358,61 @@
     <nd ref="-417"/>
     <nd ref="-414"/>
     <tag k="building" v="yes"/>
+    <tag k="addr:housenumber" v="7848"/>
+    <tag k="addr:street" v="Robert Davison Drive"/>
+    <tag k="addr:city" v="Bridge City"/>
+    <tag k="addr:postcode" v="70094"/>
   </way>
-  <node visible="true" id="-418" lat="29.90675450623779951797587273" lon="-90.15674497619207272691710386"/>
-  <node visible="true" id="-419" lat="29.90653726131240119912035880" lon="-90.15678472310250413102039602"/>
-  <node visible="true" id="-420" lat="29.90654411910657728412843426" lon="-90.15683460620354594539094251"/>
-  <node visible="true" id="-421" lat="29.90676136401705065281930729" lon="-90.15679485929310033043293515"/>
+  <node visible="true" id="-418" lat="29.90577764154228290749415464" lon="-90.15384753236379822283197427">
+    <tag k="addr:housenumber" v="7816"/>
+    <tag k="addr:street" v="Freddie Washington Avenue"/>
+    <tag k="addr:city" v="Bridge City"/>
+    <tag k="addr:postcode" v="70094"/>
+  </node>
+  <node visible="true" id="-419" lat="29.90727342523330634094236302" lon="-90.15481593964210560443461873"/>
+  <node visible="true" id="-420" lat="29.90725963586096369795086503" lon="-90.15478639204236799287173199"/>
+  <node visible="true" id="-421" lat="29.90723492474441158606168756" lon="-90.15480173973816135912784375"/>
+  <node visible="true" id="-422" lat="29.90724871412019680860794324" lon="-90.15483128733789897069073049"/>
   <way visible="true" id="-71">
-    <nd ref="-418"/>
     <nd ref="-419"/>
     <nd ref="-420"/>
     <nd ref="-421"/>
-    <nd ref="-418"/>
+    <nd ref="-422"/>
+    <nd ref="-419"/>
+    <tag k="building" v="yes"/>
+  </way>
+  <node visible="true" id="-423" lat="29.90675450623779951797587273" lon="-90.15674497619207272691710386"/>
+  <node visible="true" id="-424" lat="29.90653726131240119912035880" lon="-90.15678472310250413102039602"/>
+  <node visible="true" id="-425" lat="29.90654411910657728412843426" lon="-90.15683460620354594539094251"/>
+  <node visible="true" id="-426" lat="29.90676136401705065281930729" lon="-90.15679485929310033043293515"/>
+  <way visible="true" id="-72">
+    <nd ref="-423"/>
+    <nd ref="-424"/>
+    <nd ref="-425"/>
+    <nd ref="-426"/>
+    <nd ref="-423"/>
     <tag k="building" v="yes"/>
     <tag k="addr:housenumber" v="119"/>
     <tag k="addr:street" v="Plum Street"/>
     <tag k="addr:city" v="Bridge City"/>
     <tag k="addr:postcode" v="70094"/>
   </way>
-  <node visible="true" id="-422" lat="29.90736763836610379030389595" lon="-90.15636125046989945985842496"/>
-  <node visible="true" id="-423" lat="29.90713885436829144737203023" lon="-90.15639739517600048657186562"/>
-  <node visible="true" id="-424" lat="29.90714907866450644746691978" lon="-90.15648352278348909294436453"/>
-  <node visible="true" id="-425" lat="29.90737786263883535298191418" lon="-90.15644737807737385537620867"/>
-  <way visible="true" id="-72">
-    <nd ref="-422"/>
-    <nd ref="-423"/>
-    <nd ref="-424"/>
-    <nd ref="-425"/>
-    <nd ref="-422"/>
+  <node visible="true" id="-427" lat="29.90736763836610379030389595" lon="-90.15636125046989945985842496"/>
+  <node visible="true" id="-428" lat="29.90713885436829144737203023" lon="-90.15639739517600048657186562"/>
+  <node visible="true" id="-429" lat="29.90714907866450644746691978" lon="-90.15648352278348909294436453"/>
+  <node visible="true" id="-430" lat="29.90737786263883535298191418" lon="-90.15644737807737385537620867"/>
+  <way visible="true" id="-73">
+    <nd ref="-427"/>
+    <nd ref="-428"/>
+    <nd ref="-429"/>
+    <nd ref="-430"/>
+    <nd ref="-427"/>
     <tag k="building" v="yes"/>
     <tag k="addr:housenumber" v="123"/>
     <tag k="addr:street" v="Cherry Street"/>
     <tag k="addr:city" v="Bridge City"/>
     <tag k="addr:postcode" v="70094"/>
   </way>
-  <node visible="true" id="-426" lat="29.90703852407294149884364742" lon="-90.15424830620496265964902705"/>
-  <node visible="true" id="-427" lat="29.90688059745191651472850936" lon="-90.15434739261510799224197399"/>
-  <node visible="true" id="-428" lat="29.90692346437603177378150576" lon="-90.15443831885845327178685693"/>
-  <node visible="true" id="-429" lat="29.90708139092911110878958425" lon="-90.15433923244830793919390999"/>
-  <way visible="true" id="-73">
-    <nd ref="-426"/>
-    <nd ref="-427"/>
-    <nd ref="-428"/>
-    <nd ref="-429"/>
-    <nd ref="-426"/>
-    <tag k="building" v="yes"/>
-    <tag k="addr:housenumber" v="7848"/>
-    <tag k="addr:street" v="Robert Davison Drive"/>
-    <tag k="addr:city" v="Bridge City"/>
-    <tag k="addr:postcode" v="70094"/>
-  </way>
-  <node visible="true" id="-430" lat="29.90577764154228290749415464" lon="-90.15384753236379822283197427">
-    <tag k="addr:housenumber" v="7816"/>
-    <tag k="addr:street" v="Freddie Washington Avenue"/>
-    <tag k="addr:city" v="Bridge City"/>
-    <tag k="addr:postcode" v="70094"/>
-  </node>
   <node visible="true" id="-431" lat="29.90618579405005306171005941" lon="-90.15551001303015254961792380"/>
   <node visible="true" id="-432" lat="29.90612891078778545761451824" lon="-90.15554780760953690332826227"/>
   <node visible="true" id="-433" lat="29.90615117450013471511738317" lon="-90.15559240109506333737954265"/>

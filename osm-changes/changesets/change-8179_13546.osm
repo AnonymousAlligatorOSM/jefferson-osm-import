@@ -1,8 +1,10 @@
 <?xml version='1.0' encoding='utf8'?>
-<osm version="0.6" generator="AnonymousAlligator's import script">
-  <changeset_tag k="comment" v="Import buildings and addresses in Jefferson Parish, see https://wiki.openstreetmap.org/wiki/Import/Catalogue/Jefferson_Parish_Addresses_and_Buildings"/>
-  <changeset_tag k="source" v="Jefferson Parish Planning Department"/>
-  <changeset_tag k="source_file" v="8179_13546"/>
+<osm version="0.6" generator="AnonymousAlligator's import script" upload-changeset="-1">
+  <changeset id="-1">
+    <tag k="comment" v="Import buildings and addresses in Jefferson Parish, see https://wiki.openstreetmap.org/wiki/Import/Catalogue/Jefferson_Parish_Addresses_and_Buildings"/>
+    <tag k="source" v="Jefferson Parish Planning Department"/>
+    <tag k="source_file" v="change-8179_13546.osm"/>
+  </changeset>
   <node visible="true" id="-1" lat="29.73971596443337972459630691" lon="-90.13413992021753529115812853"/>
   <node visible="true" id="-2" lat="29.73978251177348397504829336" lon="-90.13416203538476167977933073"/>
   <node visible="true" id="-3" lat="29.73978541256339980236589327" lon="-90.13415045748658371849160176"/>
@@ -1275,14 +1277,14 @@
     <tag k="addr:city" v="Barataria"/>
     <tag k="addr:postcode" v="70036"/>
   </node>
-  <node visible="true" id="-432" lat="29.73597257468190235840665991" lon="-90.13223298690461149362818105">
-    <tag k="addr:housenumber" v="2511"/>
+  <node visible="true" id="-432" lat="29.73989252613442246797603730" lon="-90.13476415319470902431930881">
+    <tag k="addr:housenumber" v="2342"/>
     <tag k="addr:street" v="Privateer Boulevard"/>
     <tag k="addr:city" v="Barataria"/>
     <tag k="addr:postcode" v="70036"/>
   </node>
-  <node visible="true" id="-433" lat="29.73989252613442246797603730" lon="-90.13476415319470902431930881">
-    <tag k="addr:housenumber" v="2342"/>
+  <node visible="true" id="-433" lat="29.73597257468190235840665991" lon="-90.13223298690461149362818105">
+    <tag k="addr:housenumber" v="2511"/>
     <tag k="addr:street" v="Privateer Boulevard"/>
     <tag k="addr:city" v="Barataria"/>
     <tag k="addr:postcode" v="70036"/>

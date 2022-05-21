@@ -1,8 +1,10 @@
 <?xml version='1.0' encoding='utf8'?>
-<osm version="0.6" generator="AnonymousAlligator's import script">
-  <changeset_tag k="comment" v="Import buildings and addresses in Jefferson Parish, see https://wiki.openstreetmap.org/wiki/Import/Catalogue/Jefferson_Parish_Addresses_and_Buildings"/>
-  <changeset_tag k="source" v="Jefferson Parish Planning Department"/>
-  <changeset_tag k="source_file" v="8183_13531"/>
+<osm version="0.6" generator="AnonymousAlligator's import script" upload-changeset="-1">
+  <changeset id="-1">
+    <tag k="comment" v="Import buildings and addresses in Jefferson Parish, see https://wiki.openstreetmap.org/wiki/Import/Catalogue/Jefferson_Parish_Addresses_and_Buildings"/>
+    <tag k="source" v="Jefferson Parish Planning Department"/>
+    <tag k="source_file" v="change-8183_13531.osm"/>
+  </changeset>
   <node visible="true" id="-1" lat="29.88525143771273562265378132" lon="-90.08886141782797096766444156"/>
   <node visible="true" id="-2" lat="29.88526145815902879121495062" lon="-90.08886344442578320013126358"/>
   <node visible="true" id="-3" lat="29.88528089046883096102646959" lon="-90.08873694580550761656922987"/>
@@ -29,10 +31,10 @@
     <tag k="addr:city" v="Marrero"/>
     <tag k="addr:postcode" v="70072"/>
   </way>
-  <node visible="true" id="-10" lat="29.88513142578531756043958012" lon="-90.09642015574060280869161943"/>
-  <node visible="true" id="-11" lat="29.88512043316983479712689586" lon="-90.09657059088338826313702157"/>
-  <node visible="true" id="-12" lat="29.88526871502296700100487215" lon="-90.09658500458968433122208808"/>
-  <node visible="true" id="-13" lat="29.88527970762209307054035889" lon="-90.09643456944691308763140114"/>
+  <node visible="true" id="-10" lat="29.88518970670263286137924297" lon="-90.08901120366761006152955815"/>
+  <node visible="true" id="-11" lat="29.88520667996621682505065110" lon="-90.08888653334946639006375335"/>
+  <node visible="true" id="-12" lat="29.88512714833942141012812499" lon="-90.08887212950988043758115964"/>
+  <node visible="true" id="-13" lat="29.88511017506231581819520216" lon="-90.08899679982802410904696444"/>
   <way visible="true" id="-2">
     <nd ref="-10"/>
     <nd ref="-11"/>
@@ -40,17 +42,23 @@
     <nd ref="-13"/>
     <nd ref="-10"/>
     <tag k="building" v="yes"/>
-    <tag k="addr:housenumber" v="1433"/>
-    <tag k="addr:street" v="Avenue East"/>
+    <tag k="addr:housenumber" v="4037"/>
+    <tag k="addr:street" v="Cottonwood Street"/>
     <tag k="addr:city" v="Marrero"/>
     <tag k="addr:postcode" v="70072"/>
   </way>
-  <node visible="true" id="-14" lat="29.88584563697480689370422624" lon="-90.09644691819084982853382826"/>
-  <node visible="true" id="-15" lat="29.88584449203061765842903696" lon="-90.09646307594653080741409212"/>
-  <node visible="true" id="-16" lat="29.88579332696232881971809547" lon="-90.09645825293125653843162581"/>
-  <node visible="true" id="-17" lat="29.88578097540631617334838666" lon="-90.09663256125253383288509212"/>
-  <node visible="true" id="-18" lat="29.88592236988276695797139837" lon="-90.09664588964176346053136513"/>
-  <node visible="true" id="-19" lat="29.88593586636441301607192145" lon="-90.09645542356479097634291975"/>
+  <node visible="true" id="-14" lat="29.88524526527441338430435280" lon="-90.08820940511652963778033154"/>
+  <node visible="true" id="-15" lat="29.88529285690892578486455022" lon="-90.08821813718036253249010770"/>
+  <node visible="true" id="-16" lat="29.88529228697372275291854749" lon="-90.08822388331104491498990683"/>
+  <node visible="true" id="-17" lat="29.88537181143086840506839508" lon="-90.08823795622312502473505447"/>
+  <node visible="true" id="-18" lat="29.88538408157165093825824442" lon="-90.08814741480705379217397422"/>
+  <node visible="true" id="-19" lat="29.88530768886918664861696016" lon="-90.08813402041778317652642727"/>
+  <node visible="true" id="-20" lat="29.88531353215278940638199856" lon="-90.08809090537873487392062088"/>
+  <node visible="true" id="-21" lat="29.88524402903998833380683209" lon="-90.08807885909945412095112260"/>
+  <node visible="true" id="-22" lat="29.88524215351639412574513699" lon="-90.08807888248942674636055017"/>
+  <node visible="true" id="-23" lat="29.88523569185607087206335564" lon="-90.08812272271700294368201867"/>
+  <node visible="true" id="-24" lat="29.88524320663590927438235667" lon="-90.08812406401627015384292463"/>
+  <node visible="true" id="-25" lat="29.88523211803343571091318154" lon="-90.08820741653995867181947688"/>
   <way visible="true" id="-3">
     <nd ref="-14"/>
     <nd ref="-15"/>
@@ -58,73 +66,67 @@
     <nd ref="-17"/>
     <nd ref="-18"/>
     <nd ref="-19"/>
-    <nd ref="-14"/>
-    <tag k="building" v="yes"/>
-    <tag k="addr:housenumber" v="1417"/>
-    <tag k="addr:street" v="Avenue East"/>
-    <tag k="addr:city" v="Marrero"/>
-    <tag k="addr:postcode" v="70072"/>
-  </way>
-  <node visible="true" id="-20" lat="29.88617562118339776588982204" lon="-90.09650051847948759586870437"/>
-  <node visible="true" id="-21" lat="29.88617278499203422370555927" lon="-90.09654081323073171461146558"/>
-  <node visible="true" id="-22" lat="29.88611403900032570390976616" lon="-90.09653531263275283436087193"/>
-  <node visible="true" id="-23" lat="29.88611673579503147379909933" lon="-90.09649699835853198237600736"/>
-  <node visible="true" id="-24" lat="29.88598414605334596672037151" lon="-90.09648458351688304901472293"/>
-  <node visible="true" id="-25" lat="29.88597693668426558133432991" lon="-90.09658700931898067665315466"/>
-  <node visible="true" id="-26" lat="29.88605322093992100462855888" lon="-90.09659415207832466876425315"/>
-  <node visible="true" id="-27" lat="29.88604893330150247265919461" lon="-90.09665506796609690809418680"/>
-  <node visible="true" id="-28" lat="29.88611729289876350890153844" lon="-90.09666146871657588235393632"/>
-  <node visible="true" id="-29" lat="29.88611634626488111621256394" lon="-90.09667491786305504319898318"/>
-  <node visible="true" id="-30" lat="29.88624769047964946366846561" lon="-90.09668721609789088233810617"/>
-  <node visible="true" id="-31" lat="29.88626027348904656832928595" lon="-90.09650844478450437691208208"/>
-  <way visible="true" id="-4">
     <nd ref="-20"/>
     <nd ref="-21"/>
     <nd ref="-22"/>
     <nd ref="-23"/>
     <nd ref="-24"/>
     <nd ref="-25"/>
-    <nd ref="-26"/>
-    <nd ref="-27"/>
-    <nd ref="-28"/>
-    <nd ref="-29"/>
-    <nd ref="-30"/>
-    <nd ref="-31"/>
-    <nd ref="-20"/>
+    <nd ref="-14"/>
     <tag k="building" v="yes"/>
-    <tag k="addr:housenumber" v="1409"/>
-    <tag k="addr:street" v="Avenue East"/>
-    <tag k="addr:city" v="Marrero"/>
-    <tag k="addr:postcode" v="70072"/>
-  </way>
-  <node visible="true" id="-32" lat="29.88518970670263286137924297" lon="-90.08901120366761006152955815"/>
-  <node visible="true" id="-33" lat="29.88520667996621682505065110" lon="-90.08888653334946639006375335"/>
-  <node visible="true" id="-34" lat="29.88512714833942141012812499" lon="-90.08887212950988043758115964"/>
-  <node visible="true" id="-35" lat="29.88511017506231581819520216" lon="-90.08899679982802410904696444"/>
-  <way visible="true" id="-5">
-    <nd ref="-32"/>
-    <nd ref="-33"/>
-    <nd ref="-34"/>
-    <nd ref="-35"/>
-    <nd ref="-32"/>
-    <tag k="building" v="yes"/>
-    <tag k="addr:housenumber" v="4037"/>
+    <tag k="addr:housenumber" v="4017"/>
     <tag k="addr:street" v="Cottonwood Street"/>
     <tag k="addr:city" v="Marrero"/>
     <tag k="addr:postcode" v="70072"/>
   </way>
-  <node visible="true" id="-36" lat="29.88524526527441338430435280" lon="-90.08820940511652963778033154"/>
-  <node visible="true" id="-37" lat="29.88529285690892578486455022" lon="-90.08821813718036253249010770"/>
-  <node visible="true" id="-38" lat="29.88529228697372275291854749" lon="-90.08822388331104491498990683"/>
-  <node visible="true" id="-39" lat="29.88537181143086840506839508" lon="-90.08823795622312502473505447"/>
-  <node visible="true" id="-40" lat="29.88538408157165093825824442" lon="-90.08814741480705379217397422"/>
-  <node visible="true" id="-41" lat="29.88530768886918664861696016" lon="-90.08813402041778317652642727"/>
-  <node visible="true" id="-42" lat="29.88531353215278940638199856" lon="-90.08809090537873487392062088"/>
-  <node visible="true" id="-43" lat="29.88524402903998833380683209" lon="-90.08807885909945412095112260"/>
-  <node visible="true" id="-44" lat="29.88524215351639412574513699" lon="-90.08807888248942674636055017"/>
-  <node visible="true" id="-45" lat="29.88523569185607087206335564" lon="-90.08812272271700294368201867"/>
-  <node visible="true" id="-46" lat="29.88524320663590927438235667" lon="-90.08812406401627015384292463"/>
-  <node visible="true" id="-47" lat="29.88523211803343571091318154" lon="-90.08820741653995867181947688"/>
+  <node visible="true" id="-26" lat="29.88513142578531756043958012" lon="-90.09642015574060280869161943"/>
+  <node visible="true" id="-27" lat="29.88512043316983479712689586" lon="-90.09657059088338826313702157"/>
+  <node visible="true" id="-28" lat="29.88526871502296700100487215" lon="-90.09658500458968433122208808"/>
+  <node visible="true" id="-29" lat="29.88527970762209307054035889" lon="-90.09643456944691308763140114"/>
+  <way visible="true" id="-4">
+    <nd ref="-26"/>
+    <nd ref="-27"/>
+    <nd ref="-28"/>
+    <nd ref="-29"/>
+    <nd ref="-26"/>
+    <tag k="building" v="yes"/>
+    <tag k="addr:housenumber" v="1433"/>
+    <tag k="addr:street" v="Avenue East"/>
+    <tag k="addr:city" v="Marrero"/>
+    <tag k="addr:postcode" v="70072"/>
+  </way>
+  <node visible="true" id="-30" lat="29.88584563697480689370422624" lon="-90.09644691819084982853382826"/>
+  <node visible="true" id="-31" lat="29.88584449203061765842903696" lon="-90.09646307594653080741409212"/>
+  <node visible="true" id="-32" lat="29.88579332696232881971809547" lon="-90.09645825293125653843162581"/>
+  <node visible="true" id="-33" lat="29.88578097540631617334838666" lon="-90.09663256125253383288509212"/>
+  <node visible="true" id="-34" lat="29.88592236988276695797139837" lon="-90.09664588964176346053136513"/>
+  <node visible="true" id="-35" lat="29.88593586636441301607192145" lon="-90.09645542356479097634291975"/>
+  <way visible="true" id="-5">
+    <nd ref="-30"/>
+    <nd ref="-31"/>
+    <nd ref="-32"/>
+    <nd ref="-33"/>
+    <nd ref="-34"/>
+    <nd ref="-35"/>
+    <nd ref="-30"/>
+    <tag k="building" v="yes"/>
+    <tag k="addr:housenumber" v="1417"/>
+    <tag k="addr:street" v="Avenue East"/>
+    <tag k="addr:city" v="Marrero"/>
+    <tag k="addr:postcode" v="70072"/>
+  </way>
+  <node visible="true" id="-36" lat="29.88617562118339776588982204" lon="-90.09650051847948759586870437"/>
+  <node visible="true" id="-37" lat="29.88617278499203422370555927" lon="-90.09654081323073171461146558"/>
+  <node visible="true" id="-38" lat="29.88611403900032570390976616" lon="-90.09653531263275283436087193"/>
+  <node visible="true" id="-39" lat="29.88611673579503147379909933" lon="-90.09649699835853198237600736"/>
+  <node visible="true" id="-40" lat="29.88598414605334596672037151" lon="-90.09648458351688304901472293"/>
+  <node visible="true" id="-41" lat="29.88597693668426558133432991" lon="-90.09658700931898067665315466"/>
+  <node visible="true" id="-42" lat="29.88605322093992100462855888" lon="-90.09659415207832466876425315"/>
+  <node visible="true" id="-43" lat="29.88604893330150247265919461" lon="-90.09665506796609690809418680"/>
+  <node visible="true" id="-44" lat="29.88611729289876350890153844" lon="-90.09666146871657588235393632"/>
+  <node visible="true" id="-45" lat="29.88611634626488111621256394" lon="-90.09667491786305504319898318"/>
+  <node visible="true" id="-46" lat="29.88624769047964946366846561" lon="-90.09668721609789088233810617"/>
+  <node visible="true" id="-47" lat="29.88626027348904656832928595" lon="-90.09650844478450437691208208"/>
   <way visible="true" id="-6">
     <nd ref="-36"/>
     <nd ref="-37"/>
@@ -140,8 +142,8 @@
     <nd ref="-47"/>
     <nd ref="-36"/>
     <tag k="building" v="yes"/>
-    <tag k="addr:housenumber" v="4017"/>
-    <tag k="addr:street" v="Cottonwood Street"/>
+    <tag k="addr:housenumber" v="1409"/>
+    <tag k="addr:street" v="Avenue East"/>
     <tag k="addr:city" v="Marrero"/>
     <tag k="addr:postcode" v="70072"/>
   </way>

@@ -1,8 +1,10 @@
 <?xml version='1.0' encoding='utf8'?>
-<osm version="0.6" generator="AnonymousAlligator's import script">
-  <changeset_tag k="comment" v="Import buildings and addresses in Jefferson Parish, see https://wiki.openstreetmap.org/wiki/Import/Catalogue/Jefferson_Parish_Addresses_and_Buildings"/>
-  <changeset_tag k="source" v="Jefferson Parish Planning Department"/>
-  <changeset_tag k="source_file" v="8170_13523"/>
+<osm version="0.6" generator="AnonymousAlligator's import script" upload-changeset="-1">
+  <changeset id="-1">
+    <tag k="comment" v="Import buildings and addresses in Jefferson Parish, see https://wiki.openstreetmap.org/wiki/Import/Catalogue/Jefferson_Parish_Addresses_and_Buildings"/>
+    <tag k="source" v="Jefferson Parish Planning Department"/>
+    <tag k="source_file" v="change-8170_13523.osm"/>
+  </changeset>
   <node visible="true" id="-1" lat="29.95598141181286777623427042" lon="-90.24124995662972992249706294"/>
   <node visible="true" id="-2" lat="29.95594808334559999707380484" lon="-90.24127225390090245582541684"/>
   <node visible="true" id="-3" lat="29.95596068994433380794362165" lon="-90.24129735629654192052839790"/>
@@ -815,130 +817,128 @@
     <tag k="addr:city" v="Waggaman"/>
     <tag k="addr:postcode" v="70094"/>
   </way>
-  <node visible="true" id="-295" lat="29.95697574238457860928974696" lon="-90.24079744783911394279130036"/>
-  <node visible="true" id="-296" lat="29.95689932480524930724641308" lon="-90.24064519469131084861146519"/>
-  <node visible="true" id="-297" lat="29.95679693645177366079224157" lon="-90.24071365507440134479111293"/>
-  <node visible="true" id="-298" lat="29.95687335410980622896204295" lon="-90.24086590822219022811623290"/>
+  <node visible="true" id="-295" lat="29.95667556016197607959838933" lon="-90.23762247525407076409464935"/>
+  <node visible="true" id="-296" lat="29.95675184155956927156694292" lon="-90.23752757701568327775021316"/>
+  <node visible="true" id="-297" lat="29.95662982847720456902607111" lon="-90.23738669905790743541729171"/>
+  <node visible="true" id="-298" lat="29.95658367804902155739910086" lon="-90.23744482707782310626498656"/>
+  <node visible="true" id="-299" lat="29.95660475454588222987695190" lon="-90.23746857337459914560895413"/>
+  <node visible="true" id="-300" lat="29.95658036801770407464573509" lon="-90.23751805161985828362958273"/>
   <way visible="true" id="-29">
     <nd ref="-295"/>
     <nd ref="-296"/>
     <nd ref="-297"/>
     <nd ref="-298"/>
-    <nd ref="-295"/>
-    <tag k="building" v="yes"/>
-    <tag k="addr:housenumber" v="228"/>
-    <tag k="addr:street" v="Jeffer Drive"/>
-    <tag k="addr:city" v="Waggaman"/>
-    <tag k="addr:postcode" v="70094"/>
-  </way>
-  <node visible="true" id="-299" lat="29.95710656782516068119548436" lon="-90.24072170565116834950458724"/>
-  <node visible="true" id="-300" lat="29.95702871435405612032809586" lon="-90.24056001006569260880496586"/>
-  <node visible="true" id="-301" lat="29.95698913320056178122285928" lon="-90.24058539823022329073864967"/>
-  <node visible="true" id="-302" lat="29.95700019733021335355260817" lon="-90.24060837754751673855935223"/>
-  <node visible="true" id="-303" lat="29.95692654900782159188565856" lon="-90.24065561707202220986800967"/>
-  <node visible="true" id="-304" lat="29.95699333842970801811134152" lon="-90.24079433334021871360164369"/>
-  <way visible="true" id="-30">
     <nd ref="-299"/>
     <nd ref="-300"/>
-    <nd ref="-301"/>
-    <nd ref="-302"/>
-    <nd ref="-303"/>
-    <nd ref="-304"/>
-    <nd ref="-299"/>
-    <tag k="building" v="yes"/>
-    <tag k="addr:housenumber" v="224"/>
-    <tag k="addr:street" v="Jeffer Drive"/>
-    <tag k="addr:city" v="Waggaman"/>
-    <tag k="addr:postcode" v="70094"/>
-  </way>
-  <node visible="true" id="-305" lat="29.95723632803082381315107341" lon="-90.24062241040984133633173769"/>
-  <node visible="true" id="-306" lat="29.95716519316008685791530297" lon="-90.24047750314595361942338059"/>
-  <node visible="true" id="-307" lat="29.95705526241247085295071884" lon="-90.24054939432998878601210890"/>
-  <node visible="true" id="-308" lat="29.95712639736185423089409596" lon="-90.24069430159387650292046601"/>
-  <way visible="true" id="-31">
-    <nd ref="-305"/>
-    <nd ref="-306"/>
-    <nd ref="-307"/>
-    <nd ref="-308"/>
-    <nd ref="-305"/>
-    <tag k="building" v="yes"/>
-    <tag k="addr:housenumber" v="220"/>
-    <tag k="addr:street" v="Jeffer Drive"/>
-    <tag k="addr:city" v="Waggaman"/>
-    <tag k="addr:postcode" v="70094"/>
-  </way>
-  <node visible="true" id="-309" lat="29.95729286740783692266631988" lon="-90.24064886720663025698740967"/>
-  <node visible="true" id="-310" lat="29.95740093786980651202611625" lon="-90.24057386378052569853025489"/>
-  <node visible="true" id="-311" lat="29.95731820179337034915079130" lon="-90.24041781769940939739171881"/>
-  <node visible="true" id="-312" lat="29.95730293196092830498855619" lon="-90.24038568047683384065749124"/>
-  <node visible="true" id="-313" lat="29.95726749395688059962594707" lon="-90.24040904099736337684589671"/>
-  <node visible="true" id="-314" lat="29.95728025205119848806134542" lon="-90.24043976969295499657164328"/>
-  <node visible="true" id="-315" lat="29.95721183499884787693190447" lon="-90.24048143866835403059667442"/>
-  <node visible="true" id="-316" lat="29.95727796239089002483524382" lon="-90.24061567535976280396425864"/>
-  <way visible="true" id="-32">
-    <nd ref="-309"/>
-    <nd ref="-310"/>
-    <nd ref="-311"/>
-    <nd ref="-312"/>
-    <nd ref="-313"/>
-    <nd ref="-314"/>
-    <nd ref="-315"/>
-    <nd ref="-316"/>
-    <nd ref="-309"/>
-    <tag k="building" v="yes"/>
-    <tag k="addr:housenumber" v="216"/>
-    <tag k="addr:street" v="Jeffer Drive"/>
-    <tag k="addr:city" v="Waggaman"/>
-    <tag k="addr:postcode" v="70094"/>
-  </way>
-  <node visible="true" id="-317" lat="29.95667556016197607959838933" lon="-90.23762247525407076409464935"/>
-  <node visible="true" id="-318" lat="29.95675184155956927156694292" lon="-90.23752757701568327775021316"/>
-  <node visible="true" id="-319" lat="29.95662982847720456902607111" lon="-90.23738669905790743541729171"/>
-  <node visible="true" id="-320" lat="29.95658367804902155739910086" lon="-90.23744482707782310626498656"/>
-  <node visible="true" id="-321" lat="29.95660475454588222987695190" lon="-90.23746857337459914560895413"/>
-  <node visible="true" id="-322" lat="29.95658036801770407464573509" lon="-90.23751805161985828362958273"/>
-  <way visible="true" id="-33">
-    <nd ref="-317"/>
-    <nd ref="-318"/>
-    <nd ref="-319"/>
-    <nd ref="-320"/>
-    <nd ref="-321"/>
-    <nd ref="-322"/>
-    <nd ref="-317"/>
+    <nd ref="-295"/>
     <tag k="building" v="yes"/>
     <tag k="addr:housenumber" v="2"/>
     <tag k="addr:street" v="Adrian Court"/>
     <tag k="addr:city" v="Waggaman"/>
     <tag k="addr:postcode" v="70094"/>
   </way>
-  <node visible="true" id="-323" lat="29.95827213616925632777565625" lon="-90.23920953393414379206660669"/>
-  <node visible="true" id="-324" lat="29.95826617470886787941708462" lon="-90.23919772683811402202991303"/>
-  <node visible="true" id="-325" lat="29.95832431792053540675624390" lon="-90.23915861731741472340218024"/>
-  <node visible="true" id="-326" lat="29.95827771943172379565112351" lon="-90.23906632566858831978606759"/>
-  <node visible="true" id="-327" lat="29.95818933952420337618605117" lon="-90.23912577360030695672321599"/>
-  <node visible="true" id="-328" lat="29.95824189951662930297970888" lon="-90.23922987234516313037602231"/>
-  <way visible="true" id="-34">
-    <nd ref="-323"/>
-    <nd ref="-324"/>
-    <nd ref="-325"/>
-    <nd ref="-326"/>
-    <nd ref="-327"/>
-    <nd ref="-328"/>
-    <nd ref="-323"/>
+  <node visible="true" id="-301" lat="29.95827213616925632777565625" lon="-90.23920953393414379206660669"/>
+  <node visible="true" id="-302" lat="29.95826617470886787941708462" lon="-90.23919772683811402202991303"/>
+  <node visible="true" id="-303" lat="29.95832431792053540675624390" lon="-90.23915861731741472340218024"/>
+  <node visible="true" id="-304" lat="29.95827771943172379565112351" lon="-90.23906632566858831978606759"/>
+  <node visible="true" id="-305" lat="29.95818933952420337618605117" lon="-90.23912577360030695672321599"/>
+  <node visible="true" id="-306" lat="29.95824189951662930297970888" lon="-90.23922987234516313037602231"/>
+  <way visible="true" id="-30">
+    <nd ref="-301"/>
+    <nd ref="-302"/>
+    <nd ref="-303"/>
+    <nd ref="-304"/>
+    <nd ref="-305"/>
+    <nd ref="-306"/>
+    <nd ref="-301"/>
     <tag k="building" v="yes"/>
     <tag k="addr:housenumber" v="109"/>
     <tag k="addr:street" v="Jeffer Drive"/>
     <tag k="addr:city" v="Waggaman"/>
     <tag k="addr:postcode" v="70094"/>
   </way>
-  <node visible="true" id="-329" lat="29.95681717539844512998570281" lon="-90.23741560953176588100177469"/>
-  <node visible="true" id="-330" lat="29.95682919822442613622115459" lon="-90.23740118925655906423344277"/>
-  <node visible="true" id="-331" lat="29.95676465981362923685082933" lon="-90.23732950689144161060539773"/>
-  <node visible="true" id="-332" lat="29.95673593303933657239213062" lon="-90.23736396199277010055084247"/>
-  <node visible="true" id="-333" lat="29.95669642339447591439238749" lon="-90.23732007893997320024936926"/>
-  <node visible="true" id="-334" lat="29.95665188086624297625348845" lon="-90.23737350353026442917325767"/>
-  <node visible="true" id="-335" lat="29.95677673199838153550444986" lon="-90.23751217470127983233396662"/>
-  <node visible="true" id="-336" lat="29.95683797839684103792023961" lon="-90.23743871528489535194239579"/>
+  <node visible="true" id="-307" lat="29.95697574238457860928974696" lon="-90.24079744783911394279130036"/>
+  <node visible="true" id="-308" lat="29.95689932480524930724641308" lon="-90.24064519469131084861146519"/>
+  <node visible="true" id="-309" lat="29.95679693645177366079224157" lon="-90.24071365507440134479111293"/>
+  <node visible="true" id="-310" lat="29.95687335410980622896204295" lon="-90.24086590822219022811623290"/>
+  <way visible="true" id="-31">
+    <nd ref="-307"/>
+    <nd ref="-308"/>
+    <nd ref="-309"/>
+    <nd ref="-310"/>
+    <nd ref="-307"/>
+    <tag k="building" v="yes"/>
+    <tag k="addr:housenumber" v="228"/>
+    <tag k="addr:street" v="Jeffer Drive"/>
+    <tag k="addr:city" v="Waggaman"/>
+    <tag k="addr:postcode" v="70094"/>
+  </way>
+  <node visible="true" id="-311" lat="29.95710656782516068119548436" lon="-90.24072170565116834950458724"/>
+  <node visible="true" id="-312" lat="29.95702871435405612032809586" lon="-90.24056001006569260880496586"/>
+  <node visible="true" id="-313" lat="29.95698913320056178122285928" lon="-90.24058539823022329073864967"/>
+  <node visible="true" id="-314" lat="29.95700019733021335355260817" lon="-90.24060837754751673855935223"/>
+  <node visible="true" id="-315" lat="29.95692654900782159188565856" lon="-90.24065561707202220986800967"/>
+  <node visible="true" id="-316" lat="29.95699333842970801811134152" lon="-90.24079433334021871360164369"/>
+  <way visible="true" id="-32">
+    <nd ref="-311"/>
+    <nd ref="-312"/>
+    <nd ref="-313"/>
+    <nd ref="-314"/>
+    <nd ref="-315"/>
+    <nd ref="-316"/>
+    <nd ref="-311"/>
+    <tag k="building" v="yes"/>
+    <tag k="addr:housenumber" v="224"/>
+    <tag k="addr:street" v="Jeffer Drive"/>
+    <tag k="addr:city" v="Waggaman"/>
+    <tag k="addr:postcode" v="70094"/>
+  </way>
+  <node visible="true" id="-317" lat="29.95723632803082381315107341" lon="-90.24062241040984133633173769"/>
+  <node visible="true" id="-318" lat="29.95716519316008685791530297" lon="-90.24047750314595361942338059"/>
+  <node visible="true" id="-319" lat="29.95705526241247085295071884" lon="-90.24054939432998878601210890"/>
+  <node visible="true" id="-320" lat="29.95712639736185423089409596" lon="-90.24069430159387650292046601"/>
+  <way visible="true" id="-33">
+    <nd ref="-317"/>
+    <nd ref="-318"/>
+    <nd ref="-319"/>
+    <nd ref="-320"/>
+    <nd ref="-317"/>
+    <tag k="building" v="yes"/>
+    <tag k="addr:housenumber" v="220"/>
+    <tag k="addr:street" v="Jeffer Drive"/>
+    <tag k="addr:city" v="Waggaman"/>
+    <tag k="addr:postcode" v="70094"/>
+  </way>
+  <node visible="true" id="-321" lat="29.95729286740783692266631988" lon="-90.24064886720663025698740967"/>
+  <node visible="true" id="-322" lat="29.95740093786980651202611625" lon="-90.24057386378052569853025489"/>
+  <node visible="true" id="-323" lat="29.95731820179337034915079130" lon="-90.24041781769940939739171881"/>
+  <node visible="true" id="-324" lat="29.95730293196092830498855619" lon="-90.24038568047683384065749124"/>
+  <node visible="true" id="-325" lat="29.95726749395688059962594707" lon="-90.24040904099736337684589671"/>
+  <node visible="true" id="-326" lat="29.95728025205119848806134542" lon="-90.24043976969295499657164328"/>
+  <node visible="true" id="-327" lat="29.95721183499884787693190447" lon="-90.24048143866835403059667442"/>
+  <node visible="true" id="-328" lat="29.95727796239089002483524382" lon="-90.24061567535976280396425864"/>
+  <way visible="true" id="-34">
+    <nd ref="-321"/>
+    <nd ref="-322"/>
+    <nd ref="-323"/>
+    <nd ref="-324"/>
+    <nd ref="-325"/>
+    <nd ref="-326"/>
+    <nd ref="-327"/>
+    <nd ref="-328"/>
+    <nd ref="-321"/>
+    <tag k="building" v="yes"/>
+    <tag k="addr:housenumber" v="216"/>
+    <tag k="addr:street" v="Jeffer Drive"/>
+    <tag k="addr:city" v="Waggaman"/>
+    <tag k="addr:postcode" v="70094"/>
+  </way>
+  <node visible="true" id="-329" lat="29.95752675169894985174323665" lon="-90.24048569634979344300518278"/>
+  <node visible="true" id="-330" lat="29.95743337288040919474951806" lon="-90.24030684114435985065938439"/>
+  <node visible="true" id="-331" lat="29.95739862256646546256888541" lon="-90.24033101089354147461563116"/>
+  <node visible="true" id="-332" lat="29.95740937212256227439866052" lon="-90.24035160028010693622491090"/>
+  <node visible="true" id="-333" lat="29.95733210762026033080474008" lon="-90.24040533973102640175056877"/>
+  <node visible="true" id="-334" lat="29.95741473697957601984853682" lon="-90.24056360554989453248708742"/>
   <way visible="true" id="-35">
     <nd ref="-329"/>
     <nd ref="-330"/>
@@ -946,212 +946,222 @@
     <nd ref="-332"/>
     <nd ref="-333"/>
     <nd ref="-334"/>
-    <nd ref="-335"/>
-    <nd ref="-336"/>
     <nd ref="-329"/>
     <tag k="building" v="yes"/>
-    <tag k="addr:housenumber" v="4"/>
-    <tag k="addr:street" v="Adrian Court"/>
+    <tag k="addr:housenumber" v="212"/>
+    <tag k="addr:street" v="Jeffer Drive"/>
     <tag k="addr:city" v="Waggaman"/>
     <tag k="addr:postcode" v="70094"/>
   </way>
-  <node visible="true" id="-337" lat="29.95695311458518972358433530" lon="-90.23730743870476089796284214"/>
-  <node visible="true" id="-338" lat="29.95687670668869628798347549" lon="-90.23722270085640673187299399"/>
-  <node visible="true" id="-339" lat="29.95680172339161373429305968" lon="-90.23730910166547403150616447"/>
-  <node visible="true" id="-340" lat="29.95687345791657207882963121" lon="-90.23740068243706957673566649"/>
+  <node visible="true" id="-335" lat="29.95702707612149851001959178" lon="-90.24022121308834698538703378"/>
+  <node visible="true" id="-336" lat="29.95697023230036748486782017" lon="-90.24010412846901374450681033"/>
+  <node visible="true" id="-337" lat="29.95686171479738746370458102" lon="-90.24017431366888786214985885"/>
+  <node visible="true" id="-338" lat="29.95691855868060926582074899" lon="-90.24029139828822110303008230"/>
   <way visible="true" id="-36">
+    <nd ref="-335"/>
+    <nd ref="-336"/>
     <nd ref="-337"/>
     <nd ref="-338"/>
-    <nd ref="-339"/>
-    <nd ref="-340"/>
-    <nd ref="-337"/>
+    <nd ref="-335"/>
     <tag k="building" v="yes"/>
-    <tag k="addr:housenumber" v="6"/>
-    <tag k="addr:street" v="Adrian Court"/>
+    <tag k="addr:housenumber" v="221"/>
+    <tag k="addr:street" v="Jeffer Drive"/>
     <tag k="addr:city" v="Waggaman"/>
     <tag k="addr:postcode" v="70094"/>
   </way>
-  <node visible="true" id="-341" lat="29.95718253283714105350554746" lon="-90.23711039951373891199182253"/>
-  <node visible="true" id="-342" lat="29.95709403589274799628583423" lon="-90.23697747890638254375517135"/>
-  <node visible="true" id="-343" lat="29.95696619803128513126466714" lon="-90.23709086476608831617340911"/>
-  <node visible="true" id="-344" lat="29.95700399784631429156434024" lon="-90.23714763923061354944366030"/>
-  <node visible="true" id="-345" lat="29.95703028349509722261245770" lon="-90.23712432516340697929990711"/>
-  <node visible="true" id="-346" lat="29.95708098072480041196286038" lon="-90.23720047130625232512102230"/>
+  <node visible="true" id="-339" lat="29.95709522301900307184041594" lon="-90.24018386444259931522537954"/>
+  <node visible="true" id="-340" lat="29.95708273910721430866033188" lon="-90.24015734320077797292469768"/>
+  <node visible="true" id="-341" lat="29.95716031270728052504637162" lon="-90.24010869862634365290432470"/>
+  <node visible="true" id="-342" lat="29.95709733668640595283250150" lon="-90.23997491019719063842785545"/>
+  <node visible="true" id="-343" lat="29.95698731202531206463390845" lon="-90.24004390401141506572457729"/>
+  <node visible="true" id="-344" lat="29.95706277203176881585022784" lon="-90.24020421368240363335644361"/>
   <way visible="true" id="-37">
+    <nd ref="-339"/>
+    <nd ref="-340"/>
     <nd ref="-341"/>
     <nd ref="-342"/>
     <nd ref="-343"/>
     <nd ref="-344"/>
-    <nd ref="-345"/>
-    <nd ref="-346"/>
-    <nd ref="-341"/>
+    <nd ref="-339"/>
     <tag k="building" v="yes"/>
-    <tag k="addr:housenumber" v="8"/>
-    <tag k="addr:street" v="Adrian Court"/>
+    <tag k="addr:housenumber" v="217"/>
+    <tag k="addr:street" v="Jeffer Drive"/>
     <tag k="addr:city" v="Waggaman"/>
     <tag k="addr:postcode" v="70094"/>
   </way>
-  <node visible="true" id="-347" lat="29.95693706054192873011743359" lon="-90.23685920294573747924005147"/>
-  <node visible="true" id="-348" lat="29.95686878834055377751610649" lon="-90.23694115686495820227719378"/>
-  <node visible="true" id="-349" lat="29.95695249110129054770368384" lon="-90.23703404833871388746047160"/>
-  <node visible="true" id="-350" lat="29.95702076324517193484098243" lon="-90.23695209441946474271389889"/>
+  <node visible="true" id="-345" lat="29.95712754086522622287702688" lon="-90.23999512418835422522533918"/>
+  <node visible="true" id="-346" lat="29.95718567236798435260425322" lon="-90.24011311786529176970361732"/>
+  <node visible="true" id="-347" lat="29.95729347242101425763394218" lon="-90.24004236627173725082684541"/>
+  <node visible="true" id="-348" lat="29.95723622346032399832438387" lon="-90.23992616382699338828388136"/>
+  <node visible="true" id="-349" lat="29.95713416946666285411993158" lon="-90.23999314411622663101297803"/>
   <way visible="true" id="-38">
+    <nd ref="-345"/>
+    <nd ref="-346"/>
     <nd ref="-347"/>
     <nd ref="-348"/>
     <nd ref="-349"/>
-    <nd ref="-350"/>
-    <nd ref="-347"/>
+    <nd ref="-345"/>
     <tag k="building" v="yes"/>
-    <tag k="addr:housenumber" v="10"/>
-    <tag k="addr:street" v="Adrian Court"/>
+    <tag k="addr:housenumber" v="213"/>
+    <tag k="addr:street" v="Jeffer Drive"/>
     <tag k="addr:city" v="Waggaman"/>
     <tag k="addr:postcode" v="70094"/>
   </way>
-  <node visible="true" id="-351" lat="29.95683331038057062301049882" lon="-90.23671153284374213399132714"/>
-  <node visible="true" id="-352" lat="29.95676082683532470696263772" lon="-90.23680949391284400462609483"/>
-  <node visible="true" id="-353" lat="29.95679993635561899623098725" lon="-90.23684804434579120879789116"/>
-  <node visible="true" id="-354" lat="29.95680751933494079253250675" lon="-90.23683779599483045785746071"/>
-  <node visible="true" id="-355" lat="29.95682996191555957921082154" lon="-90.23685991775765558031707769"/>
-  <node visible="true" id="-356" lat="29.95678667983516518802389328" lon="-90.23686385124801745405420661"/>
-  <node visible="true" id="-357" lat="29.95683696508561766336242727" lon="-90.23691341766496520904183853"/>
-  <node visible="true" id="-358" lat="29.95692180263113613136738422" lon="-90.23679876014494993796688505"/>
+  <node visible="true" id="-350" lat="29.95835877322211260320727888" lon="-90.23972951464645575470058247"/>
+  <node visible="true" id="-351" lat="29.95829323815070566183749179" lon="-90.23962928042226394609315321"/>
+  <node visible="true" id="-352" lat="29.95819279182227035107644042" lon="-90.23971677189759077464259462"/>
+  <node visible="true" id="-353" lat="29.95825832695987145370963844" lon="-90.23981700612179679410473909"/>
   <way visible="true" id="-39">
+    <nd ref="-350"/>
     <nd ref="-351"/>
     <nd ref="-352"/>
     <nd ref="-353"/>
+    <nd ref="-350"/>
+    <tag k="building" v="yes"/>
+    <tag k="addr:housenumber" v="140"/>
+    <tag k="addr:street" v="Jeffer Drive"/>
+    <tag k="addr:city" v="Waggaman"/>
+    <tag k="addr:postcode" v="70094"/>
+  </way>
+  <node visible="true" id="-354" lat="29.95843155787867218009523640" lon="-90.23974287725185661201976473"/>
+  <node visible="true" id="-355" lat="29.95851893909958718609232164" lon="-90.23966517351615834741096478"/>
+  <node visible="true" id="-356" lat="29.95845177225371713802815066" lon="-90.23956454830492646124184830"/>
+  <node visible="true" id="-357" lat="29.95836439097373826712100708" lon="-90.23964225204066735841479385"/>
+  <way visible="true" id="-40">
     <nd ref="-354"/>
     <nd ref="-355"/>
     <nd ref="-356"/>
     <nd ref="-357"/>
-    <nd ref="-358"/>
-    <nd ref="-351"/>
+    <nd ref="-354"/>
     <tag k="building" v="yes"/>
-    <tag k="addr:housenumber" v="13"/>
-    <tag k="addr:street" v="Adrian Court"/>
+    <tag k="addr:housenumber" v="136"/>
+    <tag k="addr:street" v="Jeffer Drive"/>
     <tag k="addr:city" v="Waggaman"/>
     <tag k="addr:postcode" v="70094"/>
   </way>
-  <node visible="true" id="-359" lat="29.95670711567818145226738125" lon="-90.23656492709810095220746007"/>
-  <node visible="true" id="-360" lat="29.95660068607519121997029288" lon="-90.23669893886464876686659409"/>
-  <node visible="true" id="-361" lat="29.95665163816757825543390936" lon="-90.23675284535951846009993460"/>
-  <node visible="true" id="-362" lat="29.95668885517350688019178051" lon="-90.23670598323289482323161792"/>
-  <node visible="true" id="-363" lat="29.95673713033393070759302645" lon="-90.23675705762143195443059085"/>
-  <node visible="true" id="-364" lat="29.95680634284280330348337884" lon="-90.23666990798150777663977351"/>
-  <way visible="true" id="-40">
+  <node visible="true" id="-358" lat="29.95865974239020346203687950" lon="-90.23960762158465342963609146"/>
+  <node visible="true" id="-359" lat="29.95857996585481330953371071" lon="-90.23949072681681116137042409"/>
+  <node visible="true" id="-360" lat="29.95852194956264824554637016" lon="-90.23954347489322458386595827"/>
+  <node visible="true" id="-361" lat="29.95850030714437650658510393" lon="-90.23951176277786601076513762"/>
+  <node visible="true" id="-362" lat="29.95846192966200760565698147" lon="-90.23954665533777586006181082"/>
+  <node visible="true" id="-363" lat="29.95856334870140358361823019" lon="-90.23969526222099091228301404"/>
+  <way visible="true" id="-41">
+    <nd ref="-358"/>
     <nd ref="-359"/>
     <nd ref="-360"/>
     <nd ref="-361"/>
     <nd ref="-362"/>
     <nd ref="-363"/>
-    <nd ref="-364"/>
-    <nd ref="-359"/>
+    <nd ref="-358"/>
     <tag k="building" v="yes"/>
-    <tag k="addr:housenumber" v="11"/>
-    <tag k="addr:street" v="Adrian Court"/>
+    <tag k="addr:housenumber" v="134"/>
+    <tag k="addr:street" v="Jeffer Drive"/>
     <tag k="addr:city" v="Waggaman"/>
     <tag k="addr:postcode" v="70094"/>
   </way>
-  <node visible="true" id="-365" lat="29.95657356611329547035893484" lon="-90.23690406493817306454729987"/>
-  <node visible="true" id="-366" lat="29.95660986838645101215661271" lon="-90.23686019892583942691999255"/>
-  <node visible="true" id="-367" lat="29.95660271562506338227649394" lon="-90.23685348491889612887462135"/>
-  <node visible="true" id="-368" lat="29.95653836565269756420093472" lon="-90.23677558393661968239030102"/>
-  <node visible="true" id="-369" lat="29.95645979659406066275550984" lon="-90.23687814781116856011067284"/>
-  <node visible="true" id="-370" lat="29.95652188790483805291842145" lon="-90.23694810090675844094221247"/>
-  <node visible="true" id="-371" lat="29.95656401312110617141115654" lon="-90.23689330339993830421008170"/>
-  <way visible="true" id="-41">
+  <node visible="true" id="-364" lat="29.95874589168164092711776902" lon="-90.23948603881278529570408864"/>
+  <node visible="true" id="-365" lat="29.95867501448862313395693491" lon="-90.23937231432944372500060126"/>
+  <node visible="true" id="-366" lat="29.95858105412631999797667959" lon="-90.23945032868246585167071316"/>
+  <node visible="true" id="-367" lat="29.95865193138634197111969115" lon="-90.23956405316580742237420054"/>
+  <way visible="true" id="-42">
+    <nd ref="-364"/>
     <nd ref="-365"/>
     <nd ref="-366"/>
     <nd ref="-367"/>
+    <nd ref="-364"/>
+    <tag k="building" v="yes"/>
+    <tag k="addr:housenumber" v="104"/>
+    <tag k="addr:street" v="Jeffer Drive"/>
+    <tag k="addr:city" v="Waggaman"/>
+    <tag k="addr:postcode" v="70094"/>
+  </way>
+  <node visible="true" id="-368" lat="29.95887646600841591748576320" lon="-90.23939462240622333411010914"/>
+  <node visible="true" id="-369" lat="29.95881544580513633491136716" lon="-90.23930355546946202593971975"/>
+  <node visible="true" id="-370" lat="29.95878606063681104387796950" lon="-90.23932978676512561833078507"/>
+  <node visible="true" id="-371" lat="29.95876435141098070857879065" lon="-90.23929738780242360007832758"/>
+  <node visible="true" id="-372" lat="29.95872260170162704184804170" lon="-90.23933465654718588666582946"/>
+  <node visible="true" id="-373" lat="29.95880533118352673227491323" lon="-90.23945812244664921308867633"/>
+  <way visible="true" id="-43">
     <nd ref="-368"/>
     <nd ref="-369"/>
     <nd ref="-370"/>
     <nd ref="-371"/>
-    <nd ref="-365"/>
-    <tag k="building" v="yes"/>
-    <tag k="addr:housenumber" v="9"/>
-    <tag k="addr:street" v="Adrian Court"/>
-    <tag k="addr:city" v="Waggaman"/>
-    <tag k="addr:postcode" v="70094"/>
-  </way>
-  <node visible="true" id="-372" lat="29.95646367921632347020022280" lon="-90.23692941123395883096236503"/>
-  <node visible="true" id="-373" lat="29.95639189452053230411365803" lon="-90.23701072997801020392216742"/>
-  <node visible="true" id="-374" lat="29.95646153847561876659710833" lon="-90.23709566175300267332204385"/>
-  <node visible="true" id="-375" lat="29.95653299528226654047102784" lon="-90.23701201645091884984140052"/>
-  <way visible="true" id="-42">
     <nd ref="-372"/>
     <nd ref="-373"/>
-    <nd ref="-374"/>
-    <nd ref="-375"/>
-    <nd ref="-372"/>
+    <nd ref="-368"/>
     <tag k="building" v="yes"/>
-    <tag k="addr:housenumber" v="7"/>
-    <tag k="addr:street" v="Adrian Court"/>
+    <tag k="addr:housenumber" v="100"/>
+    <tag k="addr:street" v="Jeffer Drive"/>
     <tag k="addr:city" v="Waggaman"/>
     <tag k="addr:postcode" v="70094"/>
   </way>
-  <node visible="true" id="-376" lat="29.95647044396505975782929454" lon="-90.23718032220762097495025955"/>
-  <node visible="true" id="-377" lat="29.95634654156160436855316220" lon="-90.23703807228793039030279033"/>
-  <node visible="true" id="-378" lat="29.95627131819054866923579539" lon="-90.23712748110359882502962137"/>
-  <node visible="true" id="-379" lat="29.95636692823094904269964900" lon="-90.23723640211156293844396714"/>
-  <node visible="true" id="-380" lat="29.95640210449055018671060679" lon="-90.23719934024086342105874792"/>
-  <node visible="true" id="-381" lat="29.95642994467687714177372982" lon="-90.23722908511317086777125951"/>
-  <way visible="true" id="-43">
+  <node visible="true" id="-374" lat="29.95802262150706241072839475" lon="-90.24002501467548142954910873"/>
+  <node visible="true" id="-375" lat="29.95800138243472687804569432" lon="-90.24004328670199015505204443"/>
+  <node visible="true" id="-376" lat="29.95801755332168170298245968" lon="-90.24006832784831999560992699"/>
+  <node visible="true" id="-377" lat="29.95812541403824624808294175" lon="-90.23997553495132706302683800"/>
+  <node visible="true" id="-378" lat="29.95809015576880085518496344" lon="-90.23992093631618160998186795"/>
+  <node visible="true" id="-379" lat="29.95800353409043381702758779" lon="-90.23999545718665160620730603"/>
+  <way visible="true" id="-44">
+    <nd ref="-374"/>
+    <nd ref="-375"/>
     <nd ref="-376"/>
     <nd ref="-377"/>
     <nd ref="-378"/>
     <nd ref="-379"/>
-    <nd ref="-380"/>
-    <nd ref="-381"/>
-    <nd ref="-376"/>
+    <nd ref="-374"/>
     <tag k="building" v="yes"/>
-    <tag k="addr:housenumber" v="5"/>
-    <tag k="addr:street" v="Adrian Court"/>
+    <tag k="addr:housenumber" v="148"/>
+    <tag k="addr:street" v="Jeffer Drive"/>
     <tag k="addr:city" v="Waggaman"/>
     <tag k="addr:postcode" v="70094"/>
   </way>
-  <node visible="true" id="-382" lat="29.95626209122035987775234389" lon="-90.23715299424748081946745515"/>
-  <node visible="true" id="-383" lat="29.95618242892887650441480218" lon="-90.23724965177289902840129798"/>
-  <node visible="true" id="-384" lat="29.95624967213878875327282003" lon="-90.23732347983052193285402609"/>
-  <node visible="true" id="-385" lat="29.95629355335058008336091007" lon="-90.23727023693014359650987899"/>
-  <node visible="true" id="-386" lat="29.95630324684258027900796151" lon="-90.23728087967428734827990411"/>
-  <node visible="true" id="-387" lat="29.95633902786487823277639109" lon="-90.23723746504924747569020838"/>
-  <way visible="true" id="-44">
+  <node visible="true" id="-380" lat="29.95681717539844512998570281" lon="-90.23741560953176588100177469"/>
+  <node visible="true" id="-381" lat="29.95682919822442613622115459" lon="-90.23740118925655906423344277"/>
+  <node visible="true" id="-382" lat="29.95676465981362923685082933" lon="-90.23732950689144161060539773"/>
+  <node visible="true" id="-383" lat="29.95673593303933657239213062" lon="-90.23736396199277010055084247"/>
+  <node visible="true" id="-384" lat="29.95669642339447591439238749" lon="-90.23732007893997320024936926"/>
+  <node visible="true" id="-385" lat="29.95665188086624297625348845" lon="-90.23737350353026442917325767"/>
+  <node visible="true" id="-386" lat="29.95677673199838153550444986" lon="-90.23751217470127983233396662"/>
+  <node visible="true" id="-387" lat="29.95683797839684103792023961" lon="-90.23743871528489535194239579"/>
+  <way visible="true" id="-45">
+    <nd ref="-380"/>
+    <nd ref="-381"/>
     <nd ref="-382"/>
     <nd ref="-383"/>
     <nd ref="-384"/>
     <nd ref="-385"/>
     <nd ref="-386"/>
     <nd ref="-387"/>
-    <nd ref="-382"/>
+    <nd ref="-380"/>
     <tag k="building" v="yes"/>
-    <tag k="addr:housenumber" v="3"/>
+    <tag k="addr:housenumber" v="4"/>
     <tag k="addr:street" v="Adrian Court"/>
     <tag k="addr:city" v="Waggaman"/>
     <tag k="addr:postcode" v="70094"/>
   </way>
-  <node visible="true" id="-388" lat="29.95615346327426209427358117" lon="-90.23728539686807437192328507"/>
-  <node visible="true" id="-389" lat="29.95609500539865521773208457" lon="-90.23739693716952103841322241"/>
-  <node visible="true" id="-390" lat="29.95618121628736219008715125" lon="-90.23745712773894922520412365"/>
-  <node visible="true" id="-391" lat="29.95623967411226118429112830" lon="-90.23734558743744571529532550"/>
-  <way visible="true" id="-45">
+  <node visible="true" id="-388" lat="29.95695311458518972358433530" lon="-90.23730743870476089796284214"/>
+  <node visible="true" id="-389" lat="29.95687670668869628798347549" lon="-90.23722270085640673187299399"/>
+  <node visible="true" id="-390" lat="29.95680172339161373429305968" lon="-90.23730910166547403150616447"/>
+  <node visible="true" id="-391" lat="29.95687345791657207882963121" lon="-90.23740068243706957673566649"/>
+  <way visible="true" id="-46">
     <nd ref="-388"/>
     <nd ref="-389"/>
     <nd ref="-390"/>
     <nd ref="-391"/>
     <nd ref="-388"/>
     <tag k="building" v="yes"/>
-    <tag k="addr:housenumber" v="1"/>
+    <tag k="addr:housenumber" v="6"/>
     <tag k="addr:street" v="Adrian Court"/>
     <tag k="addr:city" v="Waggaman"/>
     <tag k="addr:postcode" v="70094"/>
   </way>
-  <node visible="true" id="-392" lat="29.95752675169894985174323665" lon="-90.24048569634979344300518278"/>
-  <node visible="true" id="-393" lat="29.95743337288040919474951806" lon="-90.24030684114435985065938439"/>
-  <node visible="true" id="-394" lat="29.95739862256646546256888541" lon="-90.24033101089354147461563116"/>
-  <node visible="true" id="-395" lat="29.95740937212256227439866052" lon="-90.24035160028010693622491090"/>
-  <node visible="true" id="-396" lat="29.95733210762026033080474008" lon="-90.24040533973102640175056877"/>
-  <node visible="true" id="-397" lat="29.95741473697957601984853682" lon="-90.24056360554989453248708742"/>
-  <way visible="true" id="-46">
+  <node visible="true" id="-392" lat="29.95718253283714105350554746" lon="-90.23711039951373891199182253"/>
+  <node visible="true" id="-393" lat="29.95709403589274799628583423" lon="-90.23697747890638254375517135"/>
+  <node visible="true" id="-394" lat="29.95696619803128513126466714" lon="-90.23709086476608831617340911"/>
+  <node visible="true" id="-395" lat="29.95700399784631429156434024" lon="-90.23714763923061354944366030"/>
+  <node visible="true" id="-396" lat="29.95703028349509722261245770" lon="-90.23712432516340697929990711"/>
+  <node visible="true" id="-397" lat="29.95708098072480041196286038" lon="-90.23720047130625232512102230"/>
+  <way visible="true" id="-47">
     <nd ref="-392"/>
     <nd ref="-393"/>
     <nd ref="-394"/>
@@ -1160,170 +1170,162 @@
     <nd ref="-397"/>
     <nd ref="-392"/>
     <tag k="building" v="yes"/>
-    <tag k="addr:housenumber" v="212"/>
-    <tag k="addr:street" v="Jeffer Drive"/>
+    <tag k="addr:housenumber" v="8"/>
+    <tag k="addr:street" v="Adrian Court"/>
     <tag k="addr:city" v="Waggaman"/>
     <tag k="addr:postcode" v="70094"/>
   </way>
-  <node visible="true" id="-398" lat="29.95702707612149851001959178" lon="-90.24022121308834698538703378"/>
-  <node visible="true" id="-399" lat="29.95697023230036748486782017" lon="-90.24010412846901374450681033"/>
-  <node visible="true" id="-400" lat="29.95686171479738746370458102" lon="-90.24017431366888786214985885"/>
-  <node visible="true" id="-401" lat="29.95691855868060926582074899" lon="-90.24029139828822110303008230"/>
-  <way visible="true" id="-47">
+  <node visible="true" id="-398" lat="29.95693706054192873011743359" lon="-90.23685920294573747924005147"/>
+  <node visible="true" id="-399" lat="29.95686878834055377751610649" lon="-90.23694115686495820227719378"/>
+  <node visible="true" id="-400" lat="29.95695249110129054770368384" lon="-90.23703404833871388746047160"/>
+  <node visible="true" id="-401" lat="29.95702076324517193484098243" lon="-90.23695209441946474271389889"/>
+  <way visible="true" id="-48">
     <nd ref="-398"/>
     <nd ref="-399"/>
     <nd ref="-400"/>
     <nd ref="-401"/>
     <nd ref="-398"/>
     <tag k="building" v="yes"/>
-    <tag k="addr:housenumber" v="221"/>
-    <tag k="addr:street" v="Jeffer Drive"/>
+    <tag k="addr:housenumber" v="10"/>
+    <tag k="addr:street" v="Adrian Court"/>
     <tag k="addr:city" v="Waggaman"/>
     <tag k="addr:postcode" v="70094"/>
   </way>
-  <node visible="true" id="-402" lat="29.95709522301900307184041594" lon="-90.24018386444259931522537954"/>
-  <node visible="true" id="-403" lat="29.95708273910721430866033188" lon="-90.24015734320077797292469768"/>
-  <node visible="true" id="-404" lat="29.95716031270728052504637162" lon="-90.24010869862634365290432470"/>
-  <node visible="true" id="-405" lat="29.95709733668640595283250150" lon="-90.23997491019719063842785545"/>
-  <node visible="true" id="-406" lat="29.95698731202531206463390845" lon="-90.24004390401141506572457729"/>
-  <node visible="true" id="-407" lat="29.95706277203176881585022784" lon="-90.24020421368240363335644361"/>
-  <way visible="true" id="-48">
+  <node visible="true" id="-402" lat="29.95683331038057062301049882" lon="-90.23671153284374213399132714"/>
+  <node visible="true" id="-403" lat="29.95676082683532470696263772" lon="-90.23680949391284400462609483"/>
+  <node visible="true" id="-404" lat="29.95679993635561899623098725" lon="-90.23684804434579120879789116"/>
+  <node visible="true" id="-405" lat="29.95680751933494079253250675" lon="-90.23683779599483045785746071"/>
+  <node visible="true" id="-406" lat="29.95682996191555957921082154" lon="-90.23685991775765558031707769"/>
+  <node visible="true" id="-407" lat="29.95678667983516518802389328" lon="-90.23686385124801745405420661"/>
+  <node visible="true" id="-408" lat="29.95683696508561766336242727" lon="-90.23691341766496520904183853"/>
+  <node visible="true" id="-409" lat="29.95692180263113613136738422" lon="-90.23679876014494993796688505"/>
+  <way visible="true" id="-49">
     <nd ref="-402"/>
     <nd ref="-403"/>
     <nd ref="-404"/>
     <nd ref="-405"/>
     <nd ref="-406"/>
     <nd ref="-407"/>
+    <nd ref="-408"/>
+    <nd ref="-409"/>
     <nd ref="-402"/>
     <tag k="building" v="yes"/>
-    <tag k="addr:housenumber" v="217"/>
-    <tag k="addr:street" v="Jeffer Drive"/>
+    <tag k="addr:housenumber" v="13"/>
+    <tag k="addr:street" v="Adrian Court"/>
     <tag k="addr:city" v="Waggaman"/>
     <tag k="addr:postcode" v="70094"/>
   </way>
-  <node visible="true" id="-408" lat="29.95712754086522622287702688" lon="-90.23999512418835422522533918"/>
-  <node visible="true" id="-409" lat="29.95718567236798435260425322" lon="-90.24011311786529176970361732"/>
-  <node visible="true" id="-410" lat="29.95729347242101425763394218" lon="-90.24004236627173725082684541"/>
-  <node visible="true" id="-411" lat="29.95723622346032399832438387" lon="-90.23992616382699338828388136"/>
-  <node visible="true" id="-412" lat="29.95713416946666285411993158" lon="-90.23999314411622663101297803"/>
-  <way visible="true" id="-49">
-    <nd ref="-408"/>
-    <nd ref="-409"/>
+  <node visible="true" id="-410" lat="29.95670711567818145226738125" lon="-90.23656492709810095220746007"/>
+  <node visible="true" id="-411" lat="29.95660068607519121997029288" lon="-90.23669893886464876686659409"/>
+  <node visible="true" id="-412" lat="29.95665163816757825543390936" lon="-90.23675284535951846009993460"/>
+  <node visible="true" id="-413" lat="29.95668885517350688019178051" lon="-90.23670598323289482323161792"/>
+  <node visible="true" id="-414" lat="29.95673713033393070759302645" lon="-90.23675705762143195443059085"/>
+  <node visible="true" id="-415" lat="29.95680634284280330348337884" lon="-90.23666990798150777663977351"/>
+  <way visible="true" id="-50">
     <nd ref="-410"/>
     <nd ref="-411"/>
     <nd ref="-412"/>
-    <nd ref="-408"/>
-    <tag k="building" v="yes"/>
-    <tag k="addr:housenumber" v="213"/>
-    <tag k="addr:street" v="Jeffer Drive"/>
-    <tag k="addr:city" v="Waggaman"/>
-    <tag k="addr:postcode" v="70094"/>
-  </way>
-  <node visible="true" id="-413" lat="29.95835877322211260320727888" lon="-90.23972951464645575470058247"/>
-  <node visible="true" id="-414" lat="29.95829323815070566183749179" lon="-90.23962928042226394609315321"/>
-  <node visible="true" id="-415" lat="29.95819279182227035107644042" lon="-90.23971677189759077464259462"/>
-  <node visible="true" id="-416" lat="29.95825832695987145370963844" lon="-90.23981700612179679410473909"/>
-  <way visible="true" id="-50">
     <nd ref="-413"/>
     <nd ref="-414"/>
     <nd ref="-415"/>
-    <nd ref="-416"/>
-    <nd ref="-413"/>
+    <nd ref="-410"/>
     <tag k="building" v="yes"/>
-    <tag k="addr:housenumber" v="140"/>
-    <tag k="addr:street" v="Jeffer Drive"/>
+    <tag k="addr:housenumber" v="11"/>
+    <tag k="addr:street" v="Adrian Court"/>
     <tag k="addr:city" v="Waggaman"/>
     <tag k="addr:postcode" v="70094"/>
   </way>
-  <node visible="true" id="-417" lat="29.95843155787867218009523640" lon="-90.23974287725185661201976473"/>
-  <node visible="true" id="-418" lat="29.95851893909958718609232164" lon="-90.23966517351615834741096478"/>
-  <node visible="true" id="-419" lat="29.95845177225371713802815066" lon="-90.23956454830492646124184830"/>
-  <node visible="true" id="-420" lat="29.95836439097373826712100708" lon="-90.23964225204066735841479385"/>
+  <node visible="true" id="-416" lat="29.95657356611329547035893484" lon="-90.23690406493817306454729987"/>
+  <node visible="true" id="-417" lat="29.95660986838645101215661271" lon="-90.23686019892583942691999255"/>
+  <node visible="true" id="-418" lat="29.95660271562506338227649394" lon="-90.23685348491889612887462135"/>
+  <node visible="true" id="-419" lat="29.95653836565269756420093472" lon="-90.23677558393661968239030102"/>
+  <node visible="true" id="-420" lat="29.95645979659406066275550984" lon="-90.23687814781116856011067284"/>
+  <node visible="true" id="-421" lat="29.95652188790483805291842145" lon="-90.23694810090675844094221247"/>
+  <node visible="true" id="-422" lat="29.95656401312110617141115654" lon="-90.23689330339993830421008170"/>
   <way visible="true" id="-51">
+    <nd ref="-416"/>
     <nd ref="-417"/>
     <nd ref="-418"/>
     <nd ref="-419"/>
     <nd ref="-420"/>
-    <nd ref="-417"/>
+    <nd ref="-421"/>
+    <nd ref="-422"/>
+    <nd ref="-416"/>
     <tag k="building" v="yes"/>
-    <tag k="addr:housenumber" v="136"/>
-    <tag k="addr:street" v="Jeffer Drive"/>
+    <tag k="addr:housenumber" v="9"/>
+    <tag k="addr:street" v="Adrian Court"/>
     <tag k="addr:city" v="Waggaman"/>
     <tag k="addr:postcode" v="70094"/>
   </way>
-  <node visible="true" id="-421" lat="29.95865974239020346203687950" lon="-90.23960762158465342963609146"/>
-  <node visible="true" id="-422" lat="29.95857996585481330953371071" lon="-90.23949072681681116137042409"/>
-  <node visible="true" id="-423" lat="29.95852194956264824554637016" lon="-90.23954347489322458386595827"/>
-  <node visible="true" id="-424" lat="29.95850030714437650658510393" lon="-90.23951176277786601076513762"/>
-  <node visible="true" id="-425" lat="29.95846192966200760565698147" lon="-90.23954665533777586006181082"/>
-  <node visible="true" id="-426" lat="29.95856334870140358361823019" lon="-90.23969526222099091228301404"/>
+  <node visible="true" id="-423" lat="29.95646367921632347020022280" lon="-90.23692941123395883096236503"/>
+  <node visible="true" id="-424" lat="29.95639189452053230411365803" lon="-90.23701072997801020392216742"/>
+  <node visible="true" id="-425" lat="29.95646153847561876659710833" lon="-90.23709566175300267332204385"/>
+  <node visible="true" id="-426" lat="29.95653299528226654047102784" lon="-90.23701201645091884984140052"/>
   <way visible="true" id="-52">
-    <nd ref="-421"/>
-    <nd ref="-422"/>
     <nd ref="-423"/>
     <nd ref="-424"/>
     <nd ref="-425"/>
     <nd ref="-426"/>
-    <nd ref="-421"/>
+    <nd ref="-423"/>
     <tag k="building" v="yes"/>
-    <tag k="addr:housenumber" v="134"/>
-    <tag k="addr:street" v="Jeffer Drive"/>
+    <tag k="addr:housenumber" v="7"/>
+    <tag k="addr:street" v="Adrian Court"/>
     <tag k="addr:city" v="Waggaman"/>
     <tag k="addr:postcode" v="70094"/>
   </way>
-  <node visible="true" id="-427" lat="29.95874589168164092711776902" lon="-90.23948603881278529570408864"/>
-  <node visible="true" id="-428" lat="29.95867501448862313395693491" lon="-90.23937231432944372500060126"/>
-  <node visible="true" id="-429" lat="29.95858105412631999797667959" lon="-90.23945032868246585167071316"/>
-  <node visible="true" id="-430" lat="29.95865193138634197111969115" lon="-90.23956405316580742237420054"/>
+  <node visible="true" id="-427" lat="29.95647044396505975782929454" lon="-90.23718032220762097495025955"/>
+  <node visible="true" id="-428" lat="29.95634654156160436855316220" lon="-90.23703807228793039030279033"/>
+  <node visible="true" id="-429" lat="29.95627131819054866923579539" lon="-90.23712748110359882502962137"/>
+  <node visible="true" id="-430" lat="29.95636692823094904269964900" lon="-90.23723640211156293844396714"/>
+  <node visible="true" id="-431" lat="29.95640210449055018671060679" lon="-90.23719934024086342105874792"/>
+  <node visible="true" id="-432" lat="29.95642994467687714177372982" lon="-90.23722908511317086777125951"/>
   <way visible="true" id="-53">
     <nd ref="-427"/>
     <nd ref="-428"/>
     <nd ref="-429"/>
     <nd ref="-430"/>
+    <nd ref="-431"/>
+    <nd ref="-432"/>
     <nd ref="-427"/>
     <tag k="building" v="yes"/>
-    <tag k="addr:housenumber" v="104"/>
-    <tag k="addr:street" v="Jeffer Drive"/>
+    <tag k="addr:housenumber" v="5"/>
+    <tag k="addr:street" v="Adrian Court"/>
     <tag k="addr:city" v="Waggaman"/>
     <tag k="addr:postcode" v="70094"/>
   </way>
-  <node visible="true" id="-431" lat="29.95887646600841591748576320" lon="-90.23939462240622333411010914"/>
-  <node visible="true" id="-432" lat="29.95881544580513633491136716" lon="-90.23930355546946202593971975"/>
-  <node visible="true" id="-433" lat="29.95878606063681104387796950" lon="-90.23932978676512561833078507"/>
-  <node visible="true" id="-434" lat="29.95876435141098070857879065" lon="-90.23929738780242360007832758"/>
-  <node visible="true" id="-435" lat="29.95872260170162704184804170" lon="-90.23933465654718588666582946"/>
-  <node visible="true" id="-436" lat="29.95880533118352673227491323" lon="-90.23945812244664921308867633"/>
+  <node visible="true" id="-433" lat="29.95626209122035987775234389" lon="-90.23715299424748081946745515"/>
+  <node visible="true" id="-434" lat="29.95618242892887650441480218" lon="-90.23724965177289902840129798"/>
+  <node visible="true" id="-435" lat="29.95624967213878875327282003" lon="-90.23732347983052193285402609"/>
+  <node visible="true" id="-436" lat="29.95629355335058008336091007" lon="-90.23727023693014359650987899"/>
+  <node visible="true" id="-437" lat="29.95630324684258027900796151" lon="-90.23728087967428734827990411"/>
+  <node visible="true" id="-438" lat="29.95633902786487823277639109" lon="-90.23723746504924747569020838"/>
   <way visible="true" id="-54">
-    <nd ref="-431"/>
-    <nd ref="-432"/>
     <nd ref="-433"/>
     <nd ref="-434"/>
     <nd ref="-435"/>
     <nd ref="-436"/>
-    <nd ref="-431"/>
+    <nd ref="-437"/>
+    <nd ref="-438"/>
+    <nd ref="-433"/>
     <tag k="building" v="yes"/>
-    <tag k="addr:housenumber" v="100"/>
-    <tag k="addr:street" v="Jeffer Drive"/>
+    <tag k="addr:housenumber" v="3"/>
+    <tag k="addr:street" v="Adrian Court"/>
     <tag k="addr:city" v="Waggaman"/>
     <tag k="addr:postcode" v="70094"/>
   </way>
-  <node visible="true" id="-437" lat="29.95802262150706241072839475" lon="-90.24002501467548142954910873"/>
-  <node visible="true" id="-438" lat="29.95800138243472687804569432" lon="-90.24004328670199015505204443"/>
-  <node visible="true" id="-439" lat="29.95801755332168170298245968" lon="-90.24006832784831999560992699"/>
-  <node visible="true" id="-440" lat="29.95812541403824624808294175" lon="-90.23997553495132706302683800"/>
-  <node visible="true" id="-441" lat="29.95809015576880085518496344" lon="-90.23992093631618160998186795"/>
-  <node visible="true" id="-442" lat="29.95800353409043381702758779" lon="-90.23999545718665160620730603"/>
+  <node visible="true" id="-439" lat="29.95615346327426209427358117" lon="-90.23728539686807437192328507"/>
+  <node visible="true" id="-440" lat="29.95609500539865521773208457" lon="-90.23739693716952103841322241"/>
+  <node visible="true" id="-441" lat="29.95618121628736219008715125" lon="-90.23745712773894922520412365"/>
+  <node visible="true" id="-442" lat="29.95623967411226118429112830" lon="-90.23734558743744571529532550"/>
   <way visible="true" id="-55">
-    <nd ref="-437"/>
-    <nd ref="-438"/>
     <nd ref="-439"/>
     <nd ref="-440"/>
     <nd ref="-441"/>
     <nd ref="-442"/>
-    <nd ref="-437"/>
+    <nd ref="-439"/>
     <tag k="building" v="yes"/>
-    <tag k="addr:housenumber" v="148"/>
-    <tag k="addr:street" v="Jeffer Drive"/>
+    <tag k="addr:housenumber" v="1"/>
+    <tag k="addr:street" v="Adrian Court"/>
     <tag k="addr:city" v="Waggaman"/>
     <tag k="addr:postcode" v="70094"/>
   </way>

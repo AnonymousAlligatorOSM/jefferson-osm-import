@@ -1,8 +1,10 @@
 <?xml version='1.0' encoding='utf8'?>
-<osm version="0.6" generator="AnonymousAlligator's import script">
-  <changeset_tag k="comment" v="Import buildings and addresses in Jefferson Parish, see https://wiki.openstreetmap.org/wiki/Import/Catalogue/Jefferson_Parish_Addresses_and_Buildings"/>
-  <changeset_tag k="source" v="Jefferson Parish Planning Department"/>
-  <changeset_tag k="source_file" v="8185_13533"/>
+<osm version="0.6" generator="AnonymousAlligator's import script" upload-changeset="-1">
+  <changeset id="-1">
+    <tag k="comment" v="Import buildings and addresses in Jefferson Parish, see https://wiki.openstreetmap.org/wiki/Import/Catalogue/Jefferson_Parish_Addresses_and_Buildings"/>
+    <tag k="source" v="Jefferson Parish Planning Department"/>
+    <tag k="source_file" v="change-8185_13533.osm"/>
+  </changeset>
   <node visible="true" id="-1" lat="29.86030808927745994196811807" lon="-90.07462822633574717201554449"/>
   <node visible="true" id="-2" lat="29.86027044077605907546058006" lon="-90.07477307172945302227162756"/>
   <node visible="true" id="-3" lat="29.86037182938930101272489992" lon="-90.07480811072828430496883811"/>
@@ -91,12 +93,12 @@
     <tag k="addr:city" v="Harvey"/>
     <tag k="addr:postcode" v="70058"/>
   </way>
-  <node visible="true" id="-29" lat="29.86002821637407222965521214" lon="-90.07571663428214492341794539"/>
-  <node visible="true" id="-30" lat="29.86001342295555360806247336" lon="-90.07577153319304841261327965"/>
-  <node visible="true" id="-31" lat="29.86000401682149885118633392" lon="-90.07576816316938561612914782"/>
-  <node visible="true" id="-32" lat="29.85997760103546738719160203" lon="-90.07586619307670616763061844"/>
-  <node visible="true" id="-33" lat="29.86012390996419796351801779" lon="-90.07591861256786103240301600"/>
-  <node visible="true" id="-34" lat="29.86016511910969128962278774" lon="-90.07576568374962278085149592"/>
+  <node visible="true" id="-29" lat="29.85974675742061990035836061" lon="-90.07676900040141276804206427"/>
+  <node visible="true" id="-30" lat="29.85983897011605492366470571" lon="-90.07680226565865666543686530"/>
+  <node visible="true" id="-31" lat="29.85984864120149850919005985" lon="-90.07676771858001529835746624"/>
+  <node visible="true" id="-32" lat="29.85987824116642030958246323" lon="-90.07665976803777141412865603"/>
+  <node visible="true" id="-33" lat="29.85977598720168657564499881" lon="-90.07662232632999632642167853"/>
+  <node visible="true" id="-34" lat="29.85973672214526430934711243" lon="-90.07676554106940614019549685"/>
   <way visible="true" id="-5">
     <nd ref="-29"/>
     <nd ref="-30"/>
@@ -106,15 +108,15 @@
     <nd ref="-34"/>
     <nd ref="-29"/>
     <tag k="building" v="yes"/>
-    <tag k="addr:housenumber" v="3824"/>
+    <tag k="addr:housenumber" v="3844"/>
     <tag k="addr:street" v="Deerrun Lane"/>
     <tag k="addr:city" v="Harvey"/>
     <tag k="addr:postcode" v="70058"/>
   </way>
-  <node visible="true" id="-35" lat="29.86006867018053512197184318" lon="-90.07553122411815138548263349"/>
-  <node visible="true" id="-36" lat="29.86002839334035030560698942" lon="-90.07567740002689049561013235"/>
-  <node visible="true" id="-37" lat="29.86012744248506578514934517" lon="-90.07571368674683753852150403"/>
-  <node visible="true" id="-38" lat="29.86016771928527546720033570" lon="-90.07556751083811263924872037"/>
+  <node visible="true" id="-35" lat="29.85972696540171611445657618" lon="-90.07679832323074720079603139"/>
+  <node visible="true" id="-36" lat="29.85968672296375459040973510" lon="-90.07694915365331667089776602"/>
+  <node visible="true" id="-37" lat="29.85983280992070376669289544" lon="-90.07700097650420900663448265"/>
+  <node visible="true" id="-38" lat="29.85987305229974353437683021" lon="-90.07685014608162532567803282"/>
   <way visible="true" id="-6">
     <nd ref="-35"/>
     <nd ref="-36"/>
@@ -122,17 +124,17 @@
     <nd ref="-38"/>
     <nd ref="-35"/>
     <tag k="building" v="yes"/>
-    <tag k="addr:housenumber" v="3820"/>
+    <tag k="addr:housenumber" v="3848"/>
     <tag k="addr:street" v="Deerrun Lane"/>
     <tag k="addr:city" v="Harvey"/>
     <tag k="addr:postcode" v="70058"/>
   </way>
-  <node visible="true" id="-39" lat="29.85974675742061990035836061" lon="-90.07676900040141276804206427"/>
-  <node visible="true" id="-40" lat="29.85983897011605492366470571" lon="-90.07680226565865666543686530"/>
-  <node visible="true" id="-41" lat="29.85984864120149850919005985" lon="-90.07676771858001529835746624"/>
-  <node visible="true" id="-42" lat="29.85987824116642030958246323" lon="-90.07665976803777141412865603"/>
-  <node visible="true" id="-43" lat="29.85977598720168657564499881" lon="-90.07662232632999632642167853"/>
-  <node visible="true" id="-44" lat="29.85973672214526430934711243" lon="-90.07676554106940614019549685"/>
+  <node visible="true" id="-39" lat="29.86002821637407222965521214" lon="-90.07571663428214492341794539"/>
+  <node visible="true" id="-40" lat="29.86001342295555360806247336" lon="-90.07577153319304841261327965"/>
+  <node visible="true" id="-41" lat="29.86000401682149885118633392" lon="-90.07576816316938561612914782"/>
+  <node visible="true" id="-42" lat="29.85997760103546738719160203" lon="-90.07586619307670616763061844"/>
+  <node visible="true" id="-43" lat="29.86012390996419796351801779" lon="-90.07591861256786103240301600"/>
+  <node visible="true" id="-44" lat="29.86016511910969128962278774" lon="-90.07576568374962278085149592"/>
   <way visible="true" id="-7">
     <nd ref="-39"/>
     <nd ref="-40"/>
@@ -142,15 +144,15 @@
     <nd ref="-44"/>
     <nd ref="-39"/>
     <tag k="building" v="yes"/>
-    <tag k="addr:housenumber" v="3844"/>
+    <tag k="addr:housenumber" v="3824"/>
     <tag k="addr:street" v="Deerrun Lane"/>
     <tag k="addr:city" v="Harvey"/>
     <tag k="addr:postcode" v="70058"/>
   </way>
-  <node visible="true" id="-45" lat="29.85972696540171611445657618" lon="-90.07679832323074720079603139"/>
-  <node visible="true" id="-46" lat="29.85968672296375459040973510" lon="-90.07694915365331667089776602"/>
-  <node visible="true" id="-47" lat="29.85983280992070376669289544" lon="-90.07700097650420900663448265"/>
-  <node visible="true" id="-48" lat="29.85987305229974353437683021" lon="-90.07685014608162532567803282"/>
+  <node visible="true" id="-45" lat="29.86006867018053512197184318" lon="-90.07553122411815138548263349"/>
+  <node visible="true" id="-46" lat="29.86002839334035030560698942" lon="-90.07567740002689049561013235"/>
+  <node visible="true" id="-47" lat="29.86012744248506578514934517" lon="-90.07571368674683753852150403"/>
+  <node visible="true" id="-48" lat="29.86016771928527546720033570" lon="-90.07556751083811263924872037"/>
   <way visible="true" id="-8">
     <nd ref="-45"/>
     <nd ref="-46"/>
@@ -158,7 +160,7 @@
     <nd ref="-48"/>
     <nd ref="-45"/>
     <tag k="building" v="yes"/>
-    <tag k="addr:housenumber" v="3848"/>
+    <tag k="addr:housenumber" v="3820"/>
     <tag k="addr:street" v="Deerrun Lane"/>
     <tag k="addr:city" v="Harvey"/>
     <tag k="addr:postcode" v="70058"/>

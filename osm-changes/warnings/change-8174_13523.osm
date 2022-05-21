@@ -1,8 +1,10 @@
 <?xml version='1.0' encoding='utf8'?>
-<osm version="0.6" generator="AnonymousAlligator's import script">
-  <changeset_tag k="comment" v="Import buildings and addresses in Jefferson Parish, see https://wiki.openstreetmap.org/wiki/Import/Catalogue/Jefferson_Parish_Addresses_and_Buildings"/>
-  <changeset_tag k="source" v="Jefferson Parish Planning Department"/>
-  <changeset_tag k="source_file" v="8174_13523"/>
+<osm version="0.6" generator="AnonymousAlligator's import script" upload-changeset="-1">
+  <changeset id="-1">
+    <tag k="comment" v="Import buildings and addresses in Jefferson Parish, see https://wiki.openstreetmap.org/wiki/Import/Catalogue/Jefferson_Parish_Addresses_and_Buildings"/>
+    <tag k="source" v="Jefferson Parish Planning Department"/>
+    <tag k="source_file" v="change-8174_13523.osm"/>
+  </changeset>
   <node visible="true" id="-1" lat="29.96148577860695283447967086" lon="-90.19337635440643907713820226"/>
   <node visible="true" id="-2" lat="29.96166157105571414831501897" lon="-90.19344121984930495727894595"/>
   <node visible="true" id="-3" lat="29.96173464754599180537297798" lon="-90.19317736339372970633121440"/>
@@ -127,183 +129,183 @@
     <tag k="addr:city" v="Jefferson"/>
     <tag k="addr:postcode" v="70123"/>
   </way>
-  <node visible="true" id="-25" lat="29.96144999184355839361160179" lon="-90.19412829170916268139990279"/>
-  <node visible="true" id="-26" lat="29.96131945710924071590852691" lon="-90.19408186141319561102136504"/>
-  <node visible="true" id="-27" lat="29.96127108748259004755709611" lon="-90.19426303630136487754498376"/>
-  <node visible="true" id="-28" lat="29.96140162228044445669183915" lon="-90.19430946659733194792352151"/>
-  <way visible="true" id="-4">
-    <nd ref="-25"/>
-    <nd ref="-26"/>
-    <nd ref="-27"/>
-    <nd ref="-28"/>
-    <nd ref="-25"/>
-    <tag k="building" v="yes"/>
-    <tag k="addr:housenumber" v="5621"/>
+  <node visible="true" id="-25" lat="29.96083330714795778249026625" lon="-90.19580452836075323830300476">
+    <tag k="addr:housenumber" v="5709"/>
     <tag k="addr:street" v="Salmen Street"/>
     <tag k="addr:city" v="Jefferson"/>
     <tag k="addr:postcode" v="70123"/>
-  </way>
-  <node visible="true" id="-29" lat="29.96112653086666099966350885" lon="-90.19301568755076914385426790"/>
-  <node visible="true" id="-30" lat="29.96085423483740584060797119" lon="-90.19291641325284558661223855"/>
-  <node visible="true" id="-31" lat="29.96079628558656438030993741" lon="-90.19312817580495789115957450"/>
-  <node visible="true" id="-32" lat="29.96106858177457255010267545" lon="-90.19322745010288144840160385"/>
-  <way visible="true" id="-5">
+    <tag k="addr:unit" v="A"/>
+  </node>
+  <node visible="true" id="-26" lat="29.96081422293311646853908314" lon="-90.19587251970844477000355255">
+    <tag k="addr:housenumber" v="5709"/>
+    <tag k="addr:street" v="Salmen Street"/>
+    <tag k="addr:city" v="Jefferson"/>
+    <tag k="addr:postcode" v="70123"/>
+    <tag k="addr:unit" v="B"/>
+  </node>
+  <node visible="true" id="-27" lat="29.96080123033054576353606535" lon="-90.19581920934453478366776835">
+    <tag k="addr:housenumber" v="5709"/>
+    <tag k="addr:street" v="Salmen Street"/>
+    <tag k="addr:city" v="Jefferson"/>
+    <tag k="addr:postcode" v="70123"/>
+  </node>
+  <node visible="true" id="-28" lat="29.96094511544813343562054797" lon="-90.19601139942319889541977318"/>
+  <node visible="true" id="-29" lat="29.96072672430420880118617788" lon="-90.19593473003847350355499657"/>
+  <node visible="true" id="-30" lat="29.96058389187151149712917686" lon="-90.19647677500167048947332660"/>
+  <node visible="true" id="-31" lat="29.96080228332923667267095880" lon="-90.19655344438641009219281841"/>
+  <way visible="true" id="-4">
+    <nd ref="-28"/>
     <nd ref="-29"/>
     <nd ref="-30"/>
     <nd ref="-31"/>
-    <nd ref="-32"/>
-    <nd ref="-29"/>
+    <nd ref="-28"/>
     <tag k="building" v="yes"/>
-    <tag k="addr:housenumber" v="5608"/>
+    <tag k="addr:housenumber" v="5717"/>
     <tag k="addr:street" v="Salmen Street"/>
     <tag k="addr:city" v="Jefferson"/>
     <tag k="addr:postcode" v="70123"/>
   </way>
-  <node visible="true" id="-33" lat="29.96157626951010044535905763" lon="-90.19419490771704772669181693"/>
-  <node visible="true" id="-34" lat="29.96164295501769814222825516" lon="-90.19421908508225271816627355"/>
-  <node visible="true" id="-35" lat="29.96168094202621290378374397" lon="-90.19407949299581161994865397"/>
-  <node visible="true" id="-36" lat="29.96151102823232292848842917" lon="-90.19401788939654807109036483"/>
-  <node visible="true" id="-37" lat="29.96146146600086623834613420" lon="-90.19420001700650857401342364"/>
-  <node visible="true" id="-38" lat="29.96156469436408187334563991" lon="-90.19423744324055292054254096"/>
-  <way visible="true" id="-6">
+  <node visible="true" id="-32" lat="29.96123225781325061234383611" lon="-90.19600176651334777488955297"/>
+  <node visible="true" id="-33" lat="29.96098856830987600119442504" lon="-90.19591318870345730829285458"/>
+  <node visible="true" id="-34" lat="29.96093988679439590328001941" lon="-90.19609162120288203823292861"/>
+  <node visible="true" id="-35" lat="29.96118357641709195604562410" lon="-90.19618019901275829397491179"/>
+  <way visible="true" id="-5">
+    <nd ref="-32"/>
     <nd ref="-33"/>
     <nd ref="-34"/>
     <nd ref="-35"/>
+    <nd ref="-32"/>
+    <tag k="building" v="yes"/>
+    <tag k="addr:housenumber" v="5712"/>
+    <tag k="addr:street" v="Salmen Street"/>
+    <tag k="addr:city" v="Jefferson"/>
+    <tag k="addr:postcode" v="70123"/>
+  </way>
+  <node visible="true" id="-36" lat="29.96157626951010044535905763" lon="-90.19419490771704772669181693"/>
+  <node visible="true" id="-37" lat="29.96164295501769814222825516" lon="-90.19421908508225271816627355"/>
+  <node visible="true" id="-38" lat="29.96168094202621290378374397" lon="-90.19407949299581161994865397"/>
+  <node visible="true" id="-39" lat="29.96151102823232292848842917" lon="-90.19401788939654807109036483"/>
+  <node visible="true" id="-40" lat="29.96146146600086623834613420" lon="-90.19420001700650857401342364"/>
+  <node visible="true" id="-41" lat="29.96156469436408187334563991" lon="-90.19423744324055292054254096"/>
+  <way visible="true" id="-6">
     <nd ref="-36"/>
     <nd ref="-37"/>
     <nd ref="-38"/>
-    <nd ref="-33"/>
+    <nd ref="-39"/>
+    <nd ref="-40"/>
+    <nd ref="-41"/>
+    <nd ref="-36"/>
     <tag k="building" v="yes"/>
     <tag k="addr:street" v="Heebe Street"/>
     <tag k="addr:city" v="Jefferson"/>
     <tag k="addr:postcode" v="70123"/>
   </way>
-  <node visible="true" id="-39" lat="29.96181367691422892107766529" lon="-90.19396231964498156230547465"/>
-  <node visible="true" id="-40" lat="29.96168466381541506393659802" lon="-90.19391626084301094579132041"/>
-  <node visible="true" id="-41" lat="29.96169311483615516067402496" lon="-90.19388472283354474257066613"/>
-  <node visible="true" id="-42" lat="29.96162847675165252780971059" lon="-90.19386164649391446346271550"/>
-  <node visible="true" id="-43" lat="29.96162063920785811887981254" lon="-90.19389089507548362689703936"/>
-  <node visible="true" id="-44" lat="29.96155141983150116402612184" lon="-90.19386618319472859184315894"/>
-  <node visible="true" id="-45" lat="29.96151067396822398336553306" lon="-90.19401824072937756682222243"/>
-  <node visible="true" id="-46" lat="29.96177354463996422850868839" lon="-90.19411208775176191920763813"/>
+  <node visible="true" id="-42" lat="29.96181367691422892107766529" lon="-90.19396231964498156230547465"/>
+  <node visible="true" id="-43" lat="29.96168466381541506393659802" lon="-90.19391626084301094579132041"/>
+  <node visible="true" id="-44" lat="29.96169311483615516067402496" lon="-90.19388472283354474257066613"/>
+  <node visible="true" id="-45" lat="29.96162847675165252780971059" lon="-90.19386164649391446346271550"/>
+  <node visible="true" id="-46" lat="29.96162063920785811887981254" lon="-90.19389089507548362689703936"/>
+  <node visible="true" id="-47" lat="29.96155141983150116402612184" lon="-90.19386618319472859184315894"/>
+  <node visible="true" id="-48" lat="29.96151067396822398336553306" lon="-90.19401824072937756682222243"/>
+  <node visible="true" id="-49" lat="29.96177354463996422850868839" lon="-90.19411208775176191920763813"/>
   <way visible="true" id="-7">
-    <nd ref="-39"/>
-    <nd ref="-40"/>
-    <nd ref="-41"/>
     <nd ref="-42"/>
     <nd ref="-43"/>
     <nd ref="-44"/>
     <nd ref="-45"/>
     <nd ref="-46"/>
-    <nd ref="-39"/>
-    <tag k="building" v="yes"/>
-    <tag k="addr:street" v="Heebe Street"/>
-    <tag k="addr:city" v="Jefferson"/>
-    <tag k="addr:postcode" v="70123"/>
-  </way>
-  <node visible="true" id="-47" lat="29.96188898535427824754151516" lon="-90.19369496506786276768252719"/>
-  <node visible="true" id="-48" lat="29.96162878053389633237202361" lon="-90.19359881121745559084956767"/>
-  <node visible="true" id="-49" lat="29.96156752394503186565088981" lon="-90.19381966510808013026689878"/>
-  <node visible="true" id="-50" lat="29.96182772892581880341822398" lon="-90.19391581895850151795457350"/>
-  <way visible="true" id="-8">
     <nd ref="-47"/>
     <nd ref="-48"/>
     <nd ref="-49"/>
-    <nd ref="-50"/>
-    <nd ref="-47"/>
+    <nd ref="-42"/>
     <tag k="building" v="yes"/>
     <tag k="addr:street" v="Heebe Street"/>
     <tag k="addr:city" v="Jefferson"/>
     <tag k="addr:postcode" v="70123"/>
   </way>
-  <node visible="true" id="-51" lat="29.96151300087052149478950014" lon="-90.19348364634143422335910145">
+  <node visible="true" id="-50" lat="29.96188898535427824754151516" lon="-90.19369496506786276768252719"/>
+  <node visible="true" id="-51" lat="29.96162878053389633237202361" lon="-90.19359881121745559084956767"/>
+  <node visible="true" id="-52" lat="29.96156752394503186565088981" lon="-90.19381966510808013026689878"/>
+  <node visible="true" id="-53" lat="29.96182772892581880341822398" lon="-90.19391581895850151795457350"/>
+  <way visible="true" id="-8">
+    <nd ref="-50"/>
+    <nd ref="-51"/>
+    <nd ref="-52"/>
+    <nd ref="-53"/>
+    <nd ref="-50"/>
+    <tag k="building" v="yes"/>
+    <tag k="addr:street" v="Heebe Street"/>
+    <tag k="addr:city" v="Jefferson"/>
+    <tag k="addr:postcode" v="70123"/>
+  </way>
+  <node visible="true" id="-54" lat="29.96151300087052149478950014" lon="-90.19348364634143422335910145">
     <tag k="addr:housenumber" v="5609"/>
     <tag k="addr:street" v="Salmen Street"/>
     <tag k="addr:city" v="Jefferson"/>
     <tag k="addr:postcode" v="70123"/>
     <tag k="addr:unit" v="A"/>
   </node>
-  <node visible="true" id="-52" lat="29.96149995144483924036649114" lon="-90.19353929653249224429600872">
+  <node visible="true" id="-55" lat="29.96149995144483924036649114" lon="-90.19353929653249224429600872">
     <tag k="addr:housenumber" v="5609"/>
     <tag k="addr:street" v="Salmen Street"/>
     <tag k="addr:city" v="Jefferson"/>
     <tag k="addr:postcode" v="70123"/>
     <tag k="addr:unit" v="B"/>
   </node>
-  <node visible="true" id="-53" lat="29.96148313160602683069555496" lon="-90.19360608999895134729740676">
+  <node visible="true" id="-56" lat="29.96148313160602683069555496" lon="-90.19360608999895134729740676">
     <tag k="addr:housenumber" v="5609"/>
     <tag k="addr:street" v="Salmen Street"/>
     <tag k="addr:city" v="Jefferson"/>
     <tag k="addr:postcode" v="70123"/>
     <tag k="addr:unit" v="C"/>
   </node>
-  <node visible="true" id="-54" lat="29.96146820744725047802603513" lon="-90.19366842190915178889554227">
+  <node visible="true" id="-57" lat="29.96146820744725047802603513" lon="-90.19366842190915178889554227">
     <tag k="addr:housenumber" v="5609"/>
     <tag k="addr:street" v="Salmen Street"/>
     <tag k="addr:city" v="Jefferson"/>
     <tag k="addr:postcode" v="70123"/>
     <tag k="addr:unit" v="D"/>
   </node>
-  <node visible="true" id="-55" lat="29.96154617458135049901102320" lon="-90.19375898432937788129493129"/>
-  <node visible="true" id="-56" lat="29.96128780838801475283617037" lon="-90.19366597638499172262527281"/>
-  <node visible="true" id="-57" lat="29.96123936401284382213816571" lon="-90.19384526785643174662254751"/>
-  <node visible="true" id="-58" lat="29.96149773033208063566235069" lon="-90.19393827580081790529220598"/>
+  <node visible="true" id="-58" lat="29.96154617458135049901102320" lon="-90.19375898432937788129493129"/>
+  <node visible="true" id="-59" lat="29.96128780838801475283617037" lon="-90.19366597638499172262527281"/>
+  <node visible="true" id="-60" lat="29.96123936401284382213816571" lon="-90.19384526785643174662254751"/>
+  <node visible="true" id="-61" lat="29.96149773033208063566235069" lon="-90.19393827580081790529220598"/>
   <way visible="true" id="-9">
-    <nd ref="-55"/>
-    <nd ref="-56"/>
-    <nd ref="-57"/>
     <nd ref="-58"/>
-    <nd ref="-55"/>
+    <nd ref="-59"/>
+    <nd ref="-60"/>
+    <nd ref="-61"/>
+    <nd ref="-58"/>
     <tag k="building" v="yes"/>
     <tag k="addr:housenumber" v="5613"/>
     <tag k="addr:street" v="Salmen Street"/>
     <tag k="addr:city" v="Jefferson"/>
     <tag k="addr:postcode" v="70123"/>
   </way>
-  <node visible="true" id="-59" lat="29.96152856448905055231080041" lon="-90.19395308512793008048902266"/>
-  <node visible="true" id="-60" lat="29.96126147716728027603494411" lon="-90.19385589124171076491620624"/>
-  <node visible="true" id="-61" lat="29.96121546792089063160346996" lon="-90.19402433691959686257177964"/>
-  <node visible="true" id="-62" lat="29.96134508611723390458791982" lon="-90.19407150531979766583390301"/>
-  <node visible="true" id="-63" lat="29.96134104500364259138223133" lon="-90.19408630036390661643963540"/>
-  <node visible="true" id="-64" lat="29.96147851425827113303057558" lon="-90.19413632584991091789561324"/>
+  <node visible="true" id="-62" lat="29.96152856448905055231080041" lon="-90.19395308512793008048902266"/>
+  <node visible="true" id="-63" lat="29.96126147716728027603494411" lon="-90.19385589124171076491620624"/>
+  <node visible="true" id="-64" lat="29.96121546792089063160346996" lon="-90.19402433691959686257177964"/>
+  <node visible="true" id="-65" lat="29.96134508611723390458791982" lon="-90.19407150531979766583390301"/>
+  <node visible="true" id="-66" lat="29.96134104500364259138223133" lon="-90.19408630036390661643963540"/>
+  <node visible="true" id="-67" lat="29.96147851425827113303057558" lon="-90.19413632584991091789561324"/>
   <way visible="true" id="-10">
-    <nd ref="-59"/>
-    <nd ref="-60"/>
-    <nd ref="-61"/>
     <nd ref="-62"/>
     <nd ref="-63"/>
     <nd ref="-64"/>
-    <nd ref="-59"/>
+    <nd ref="-65"/>
+    <nd ref="-66"/>
+    <nd ref="-67"/>
+    <nd ref="-62"/>
     <tag k="building" v="yes"/>
     <tag k="addr:housenumber" v="5617"/>
     <tag k="addr:street" v="Salmen Street"/>
     <tag k="addr:city" v="Jefferson"/>
     <tag k="addr:postcode" v="70123"/>
   </way>
-  <node visible="true" id="-65" lat="29.96083330714795778249026625" lon="-90.19580452836075323830300476">
-    <tag k="addr:housenumber" v="5709"/>
-    <tag k="addr:street" v="Salmen Street"/>
-    <tag k="addr:city" v="Jefferson"/>
-    <tag k="addr:postcode" v="70123"/>
-    <tag k="addr:unit" v="A"/>
-  </node>
-  <node visible="true" id="-66" lat="29.96081422293311646853908314" lon="-90.19587251970844477000355255">
-    <tag k="addr:housenumber" v="5709"/>
-    <tag k="addr:street" v="Salmen Street"/>
-    <tag k="addr:city" v="Jefferson"/>
-    <tag k="addr:postcode" v="70123"/>
-    <tag k="addr:unit" v="B"/>
-  </node>
-  <node visible="true" id="-67" lat="29.96080123033054576353606535" lon="-90.19581920934453478366776835">
-    <tag k="addr:housenumber" v="5709"/>
-    <tag k="addr:street" v="Salmen Street"/>
-    <tag k="addr:city" v="Jefferson"/>
-    <tag k="addr:postcode" v="70123"/>
-  </node>
-  <node visible="true" id="-68" lat="29.96094511544813343562054797" lon="-90.19601139942319889541977318"/>
-  <node visible="true" id="-69" lat="29.96072672430420880118617788" lon="-90.19593473003847350355499657"/>
-  <node visible="true" id="-70" lat="29.96058389187151149712917686" lon="-90.19647677500167048947332660"/>
-  <node visible="true" id="-71" lat="29.96080228332923667267095880" lon="-90.19655344438641009219281841"/>
+  <node visible="true" id="-68" lat="29.96144999184355839361160179" lon="-90.19412829170916268139990279"/>
+  <node visible="true" id="-69" lat="29.96131945710924071590852691" lon="-90.19408186141319561102136504"/>
+  <node visible="true" id="-70" lat="29.96127108748259004755709611" lon="-90.19426303630136487754498376"/>
+  <node visible="true" id="-71" lat="29.96140162228044445669183915" lon="-90.19430946659733194792352151"/>
   <way visible="true" id="-11">
     <nd ref="-68"/>
     <nd ref="-69"/>
@@ -311,15 +313,15 @@
     <nd ref="-71"/>
     <nd ref="-68"/>
     <tag k="building" v="yes"/>
-    <tag k="addr:housenumber" v="5717"/>
+    <tag k="addr:housenumber" v="5621"/>
     <tag k="addr:street" v="Salmen Street"/>
     <tag k="addr:city" v="Jefferson"/>
     <tag k="addr:postcode" v="70123"/>
   </way>
-  <node visible="true" id="-72" lat="29.96123225781325061234383611" lon="-90.19600176651334777488955297"/>
-  <node visible="true" id="-73" lat="29.96098856830987600119442504" lon="-90.19591318870345730829285458"/>
-  <node visible="true" id="-74" lat="29.96093988679439590328001941" lon="-90.19609162120288203823292861"/>
-  <node visible="true" id="-75" lat="29.96118357641709195604562410" lon="-90.19618019901275829397491179"/>
+  <node visible="true" id="-72" lat="29.96112653086666099966350885" lon="-90.19301568755076914385426790"/>
+  <node visible="true" id="-73" lat="29.96085423483740584060797119" lon="-90.19291641325284558661223855"/>
+  <node visible="true" id="-74" lat="29.96079628558656438030993741" lon="-90.19312817580495789115957450"/>
+  <node visible="true" id="-75" lat="29.96106858177457255010267545" lon="-90.19322745010288144840160385"/>
   <way visible="true" id="-12">
     <nd ref="-72"/>
     <nd ref="-73"/>
@@ -327,7 +329,7 @@
     <nd ref="-75"/>
     <nd ref="-72"/>
     <tag k="building" v="yes"/>
-    <tag k="addr:housenumber" v="5712"/>
+    <tag k="addr:housenumber" v="5608"/>
     <tag k="addr:street" v="Salmen Street"/>
     <tag k="addr:city" v="Jefferson"/>
     <tag k="addr:postcode" v="70123"/>

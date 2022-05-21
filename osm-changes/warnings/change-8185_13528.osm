@@ -1,8 +1,10 @@
 <?xml version='1.0' encoding='utf8'?>
-<osm version="0.6" generator="AnonymousAlligator's import script">
-  <changeset_tag k="comment" v="Import buildings and addresses in Jefferson Parish, see https://wiki.openstreetmap.org/wiki/Import/Catalogue/Jefferson_Parish_Addresses_and_Buildings"/>
-  <changeset_tag k="source" v="Jefferson Parish Planning Department"/>
-  <changeset_tag k="source_file" v="8185_13528"/>
+<osm version="0.6" generator="AnonymousAlligator's import script" upload-changeset="-1">
+  <changeset id="-1">
+    <tag k="comment" v="Import buildings and addresses in Jefferson Parish, see https://wiki.openstreetmap.org/wiki/Import/Catalogue/Jefferson_Parish_Addresses_and_Buildings"/>
+    <tag k="source" v="Jefferson Parish Planning Department"/>
+    <tag k="source_file" v="change-8185_13528.osm"/>
+  </changeset>
   <node visible="true" id="-1" lat="29.91024558217434048401628388" lon="-90.07249077679151127995282877"/>
   <node visible="true" id="-2" lat="29.91016892304073948594123067" lon="-90.07244343265996633363101864"/>
   <node visible="true" id="-3" lat="29.91016051463379810115839064" lon="-90.07246155296638789877761155"/>
@@ -1428,14 +1430,20 @@
     <tag k="addr:city" v="Harvey"/>
     <tag k="addr:postcode" v="70058"/>
   </way>
-  <node visible="true" id="-490" lat="29.90749061566071276274669799" lon="-90.07650926944369018656288972"/>
-  <node visible="true" id="-491" lat="29.90753785873247849735889758" lon="-90.07639537259798601098736981"/>
-  <node visible="true" id="-492" lat="29.90750544690588341723014310" lon="-90.07637748052192705472407397"/>
-  <node visible="true" id="-493" lat="29.90751138891678451159350516" lon="-90.07636315511426516877691029"/>
-  <node visible="true" id="-494" lat="29.90749287682769974594521045" lon="-90.07635293601600778856663965"/>
-  <node visible="true" id="-495" lat="29.90748775368834344590140972" lon="-90.07636528722960633785987739"/>
-  <node visible="true" id="-496" lat="29.90746386008892443442164222" lon="-90.07635209741752646550594363"/>
-  <node visible="true" id="-497" lat="29.90741579810872963207657449" lon="-90.07646796845729397773538949"/>
+  <node visible="true" id="-490" lat="29.90824405768993443643921637" lon="-90.07097862663276544026302872"/>
+  <node visible="true" id="-491" lat="29.90827209757292948211215844" lon="-90.07099560501380608457111521"/>
+  <node visible="true" id="-492" lat="29.90826425830926638127493788" lon="-90.07101283529991064824571367"/>
+  <node visible="true" id="-493" lat="29.90832589211232317438771133" lon="-90.07105015509121415107074426"/>
+  <node visible="true" id="-494" lat="29.90833250265360732100816676" lon="-90.07103562546295449919853127"/>
+  <node visible="true" id="-495" lat="29.90835469033698501561957528" lon="-90.07104906030026825192180695"/>
+  <node visible="true" id="-496" lat="29.90839598199728754934767494" lon="-90.07095830332170294241223019"/>
+  <node visible="true" id="-497" lat="29.90831286767203067711307085" lon="-90.07090797686173289093858330"/>
+  <node visible="true" id="-498" lat="29.90831681107437844957530615" lon="-90.07089930946823130852862960"/>
+  <node visible="true" id="-499" lat="29.90834646741690150406611792" lon="-90.07091726664214093034388497"/>
+  <node visible="true" id="-500" lat="29.90836593670881526918492455" lon="-90.07087447413258018968917895"/>
+  <node visible="true" id="-501" lat="29.90833461371527945971138251" lon="-90.07085550778339211319689639"/>
+  <node visible="true" id="-502" lat="29.90833883826605799072240188" lon="-90.07084622243817761955142487"/>
+  <node visible="true" id="-503" lat="29.90831175793676166563273000" lon="-90.07082982506376822584570618"/>
   <way visible="true" id="-56">
     <nd ref="-490"/>
     <nd ref="-491"/>
@@ -1445,36 +1453,34 @@
     <nd ref="-495"/>
     <nd ref="-496"/>
     <nd ref="-497"/>
-    <nd ref="-490"/>
-    <tag k="building" v="yes"/>
-    <tag k="addr:housenumber" v="448"/>
-    <tag k="addr:street" v="Marion Avenue"/>
-    <tag k="addr:city" v="Harvey"/>
-    <tag k="addr:postcode" v="70058"/>
-  </way>
-  <node visible="true" id="-498" lat="29.90822835399254842059235671" lon="-90.07538032229945201834198087"/>
-  <node visible="true" id="-499" lat="29.90825627795677732478907274" lon="-90.07539548907087123552628327"/>
-  <node visible="true" id="-500" lat="29.90828114813630023149926274" lon="-90.07533454940336525851307670"/>
-  <node visible="true" id="-501" lat="29.90826766631317568112535810" lon="-90.07532722681142445253499318"/>
-  <node visible="true" id="-502" lat="29.90826973420262291369908780" lon="-90.07532215983979995144181885"/>
-  <node visible="true" id="-503" lat="29.90826227703055195661363541" lon="-90.07531810951049067170970375"/>
-  <node visible="true" id="-504" lat="29.90825982641787206262051768" lon="-90.07532411427257557079428807"/>
-  <node visible="true" id="-505" lat="29.90822805904382875041847001" lon="-90.07530685997068076176219620"/>
-  <node visible="true" id="-506" lat="29.90821920670211042647679278" lon="-90.07532855094866874878789531"/>
-  <node visible="true" id="-507" lat="29.90823397051202547913817398" lon="-90.07533656984216463570191991"/>
-  <node visible="true" id="-508" lat="29.90821697411320556625469180" lon="-90.07537821628235974458220880"/>
-  <node visible="true" id="-509" lat="29.90814558302689718516376161" lon="-90.07533944056929442467662739"/>
-  <node visible="true" id="-510" lat="29.90809745050614765204954892" lon="-90.07545738002652058185049100"/>
-  <node visible="true" id="-511" lat="29.90813829201731266493879957" lon="-90.07547956287581314427370671"/>
-  <node visible="true" id="-512" lat="29.90813138706462126492624520" lon="-90.07549648213267801111214794"/>
-  <node visible="true" id="-513" lat="29.90817195528801164527976653" lon="-90.07551851655465213752904674"/>
-  <way visible="true" id="-57">
     <nd ref="-498"/>
     <nd ref="-499"/>
     <nd ref="-500"/>
     <nd ref="-501"/>
     <nd ref="-502"/>
     <nd ref="-503"/>
+    <nd ref="-490"/>
+    <tag k="building" v="yes"/>
+    <tag k="addr:housenumber" v="525"/>
+    <tag k="addr:street" v="Gardere Avenue"/>
+    <tag k="addr:city" v="Harvey"/>
+    <tag k="addr:postcode" v="70058"/>
+  </way>
+  <node visible="true" id="-504" lat="29.90842587987195955179231532" lon="-90.07100383445525437764445087"/>
+  <node visible="true" id="-505" lat="29.90839175246409453734486306" lon="-90.07108026850731619106227299"/>
+  <node visible="true" id="-506" lat="29.90844227600491578300534457" lon="-90.07111029114184930222108960"/>
+  <node visible="true" id="-507" lat="29.90844693001942289356520632" lon="-90.07109986769222587099648081"/>
+  <node visible="true" id="-508" lat="29.90847536166933551271540637" lon="-90.07111676265640198835171759"/>
+  <node visible="true" id="-509" lat="29.90853135209088975443592062" lon="-90.07099136260022476108133560"/>
+  <node visible="true" id="-510" lat="29.90852341909971912059518218" lon="-90.07098664856881953255651752"/>
+  <node visible="true" id="-511" lat="29.90853369477944312393447035" lon="-90.07096363443348252530995524"/>
+  <node visible="true" id="-512" lat="29.90850350891532727359845012" lon="-90.07094569705070341569808079"/>
+  <node visible="true" id="-513" lat="29.90850015560278052362264134" lon="-90.07095320736345911427633837"/>
+  <node visible="true" id="-514" lat="29.90847529637025914439618646" lon="-90.07093843523605869449966121"/>
+  <node visible="true" id="-515" lat="29.90847964433566374964357237" lon="-90.07092869723182104735315079"/>
+  <node visible="true" id="-516" lat="29.90843700195120291596140305" lon="-90.07090335781114731616980862"/>
+  <node visible="true" id="-517" lat="29.90839921452688088265858823" lon="-90.07098798909169090620707721"/>
+  <way visible="true" id="-57">
     <nd ref="-504"/>
     <nd ref="-505"/>
     <nd ref="-506"/>
@@ -1485,50 +1491,42 @@
     <nd ref="-511"/>
     <nd ref="-512"/>
     <nd ref="-513"/>
-    <nd ref="-498"/>
-    <tag k="building" v="yes"/>
-    <tag k="addr:housenumber" v="451"/>
-    <tag k="addr:street" v="Yetta Avenue"/>
-    <tag k="addr:city" v="Harvey"/>
-    <tag k="addr:postcode" v="70058"/>
-  </way>
-  <node visible="true" id="-514" lat="29.90793095681752689074528462" lon="-90.07590124692927702199085616"/>
-  <node visible="true" id="-515" lat="29.90799567741413866883704031" lon="-90.07593499274126713771693176"/>
-  <node visible="true" id="-516" lat="29.90805723224875833921032608" lon="-90.07577787697992732773855096"/>
-  <node visible="true" id="-517" lat="29.90802868376076872891644598" lon="-90.07576299156896482145384653"/>
-  <node visible="true" id="-518" lat="29.90803491483007192641707661" lon="-90.07574708706273725056234980"/>
-  <node visible="true" id="-519" lat="29.90799874276368086611910257" lon="-90.07572822666170964112097863"/>
-  <way visible="true" id="-58">
     <nd ref="-514"/>
     <nd ref="-515"/>
     <nd ref="-516"/>
     <nd ref="-517"/>
-    <nd ref="-518"/>
-    <nd ref="-519"/>
-    <nd ref="-514"/>
+    <nd ref="-504"/>
     <tag k="building" v="yes"/>
-    <tag k="addr:housenumber" v="452"/>
-    <tag k="addr:street" v="Yetta Avenue"/>
+    <tag k="addr:housenumber" v="521"/>
+    <tag k="addr:street" v="Gardere Avenue"/>
     <tag k="addr:city" v="Harvey"/>
     <tag k="addr:postcode" v="70058"/>
   </way>
-  <node visible="true" id="-520" lat="29.90824405768993443643921637" lon="-90.07097862663276544026302872"/>
-  <node visible="true" id="-521" lat="29.90827209757292948211215844" lon="-90.07099560501380608457111521"/>
-  <node visible="true" id="-522" lat="29.90826425830926638127493788" lon="-90.07101283529991064824571367"/>
-  <node visible="true" id="-523" lat="29.90832589211232317438771133" lon="-90.07105015509121415107074426"/>
-  <node visible="true" id="-524" lat="29.90833250265360732100816676" lon="-90.07103562546295449919853127"/>
-  <node visible="true" id="-525" lat="29.90835469033698501561957528" lon="-90.07104906030026825192180695"/>
-  <node visible="true" id="-526" lat="29.90839598199728754934767494" lon="-90.07095830332170294241223019"/>
-  <node visible="true" id="-527" lat="29.90831286767203067711307085" lon="-90.07090797686173289093858330"/>
-  <node visible="true" id="-528" lat="29.90831681107437844957530615" lon="-90.07089930946823130852862960"/>
-  <node visible="true" id="-529" lat="29.90834646741690150406611792" lon="-90.07091726664214093034388497"/>
-  <node visible="true" id="-530" lat="29.90836593670881526918492455" lon="-90.07087447413258018968917895"/>
-  <node visible="true" id="-531" lat="29.90833461371527945971138251" lon="-90.07085550778339211319689639"/>
-  <node visible="true" id="-532" lat="29.90833883826605799072240188" lon="-90.07084622243817761955142487"/>
-  <node visible="true" id="-533" lat="29.90831175793676166563273000" lon="-90.07082982506376822584570618"/>
-  <way visible="true" id="-59">
+  <node visible="true" id="-518" lat="29.90891344468719736937600828" lon="-90.07649610088925840045703808"/>
+  <node visible="true" id="-519" lat="29.90880621970391572972403083" lon="-90.07644389969941300932987360"/>
+  <node visible="true" id="-520" lat="29.90871095525097089762311953" lon="-90.07670432820576422727754107"/>
+  <node visible="true" id="-521" lat="29.90881818033679095947263704" lon="-90.07675652939562382925942075"/>
+  <way visible="true" id="-58">
+    <nd ref="-518"/>
+    <nd ref="-519"/>
     <nd ref="-520"/>
     <nd ref="-521"/>
+    <nd ref="-518"/>
+    <tag k="building" v="yes"/>
+    <tag k="addr:housenumber" v="423"/>
+    <tag k="addr:street" v="Marion Avenue"/>
+    <tag k="addr:city" v="Harvey"/>
+    <tag k="addr:postcode" v="70058"/>
+  </way>
+  <node visible="true" id="-522" lat="29.90771008232404071236487653" lon="-90.07616846843428959346056217"/>
+  <node visible="true" id="-523" lat="29.90775043661677301543022622" lon="-90.07619002287795240135892527"/>
+  <node visible="true" id="-524" lat="29.90779849978055082715400204" lon="-90.07607026664709337637759745"/>
+  <node visible="true" id="-525" lat="29.90777585509788494277927384" lon="-90.07605817143287652015715139"/>
+  <node visible="true" id="-526" lat="29.90779202438106665340455947" lon="-90.07601788335267656293581240"/>
+  <node visible="true" id="-527" lat="29.90774733349804748172573454" lon="-90.07599401259604121605661931"/>
+  <node visible="true" id="-528" lat="29.90769252108552578306444047" lon="-90.07613058546836271034408128"/>
+  <node visible="true" id="-529" lat="29.90771950239571097540647315" lon="-90.07614499699559473810950294"/>
+  <way visible="true" id="-59">
     <nd ref="-522"/>
     <nd ref="-523"/>
     <nd ref="-524"/>
@@ -1537,36 +1535,54 @@
     <nd ref="-527"/>
     <nd ref="-528"/>
     <nd ref="-529"/>
+    <nd ref="-522"/>
+    <tag k="building" v="yes"/>
+    <tag k="addr:housenumber" v="459"/>
+    <tag k="addr:street" v="Marion Avenue"/>
+    <tag k="addr:city" v="Harvey"/>
+    <tag k="addr:postcode" v="70058"/>
+  </way>
+  <node visible="true" id="-530" lat="29.90749061566071276274669799" lon="-90.07650926944369018656288972"/>
+  <node visible="true" id="-531" lat="29.90753785873247849735889758" lon="-90.07639537259798601098736981"/>
+  <node visible="true" id="-532" lat="29.90750544690588341723014310" lon="-90.07637748052192705472407397"/>
+  <node visible="true" id="-533" lat="29.90751138891678451159350516" lon="-90.07636315511426516877691029"/>
+  <node visible="true" id="-534" lat="29.90749287682769974594521045" lon="-90.07635293601600778856663965"/>
+  <node visible="true" id="-535" lat="29.90748775368834344590140972" lon="-90.07636528722960633785987739"/>
+  <node visible="true" id="-536" lat="29.90746386008892443442164222" lon="-90.07635209741752646550594363"/>
+  <node visible="true" id="-537" lat="29.90741579810872963207657449" lon="-90.07646796845729397773538949"/>
+  <way visible="true" id="-60">
     <nd ref="-530"/>
     <nd ref="-531"/>
     <nd ref="-532"/>
     <nd ref="-533"/>
-    <nd ref="-520"/>
-    <tag k="building" v="yes"/>
-    <tag k="addr:housenumber" v="525"/>
-    <tag k="addr:street" v="Gardere Avenue"/>
-    <tag k="addr:city" v="Harvey"/>
-    <tag k="addr:postcode" v="70058"/>
-  </way>
-  <node visible="true" id="-534" lat="29.90842587987195955179231532" lon="-90.07100383445525437764445087"/>
-  <node visible="true" id="-535" lat="29.90839175246409453734486306" lon="-90.07108026850731619106227299"/>
-  <node visible="true" id="-536" lat="29.90844227600491578300534457" lon="-90.07111029114184930222108960"/>
-  <node visible="true" id="-537" lat="29.90844693001942289356520632" lon="-90.07109986769222587099648081"/>
-  <node visible="true" id="-538" lat="29.90847536166933551271540637" lon="-90.07111676265640198835171759"/>
-  <node visible="true" id="-539" lat="29.90853135209088975443592062" lon="-90.07099136260022476108133560"/>
-  <node visible="true" id="-540" lat="29.90852341909971912059518218" lon="-90.07098664856881953255651752"/>
-  <node visible="true" id="-541" lat="29.90853369477944312393447035" lon="-90.07096363443348252530995524"/>
-  <node visible="true" id="-542" lat="29.90850350891532727359845012" lon="-90.07094569705070341569808079"/>
-  <node visible="true" id="-543" lat="29.90850015560278052362264134" lon="-90.07095320736345911427633837"/>
-  <node visible="true" id="-544" lat="29.90847529637025914439618646" lon="-90.07093843523605869449966121"/>
-  <node visible="true" id="-545" lat="29.90847964433566374964357237" lon="-90.07092869723182104735315079"/>
-  <node visible="true" id="-546" lat="29.90843700195120291596140305" lon="-90.07090335781114731616980862"/>
-  <node visible="true" id="-547" lat="29.90839921452688088265858823" lon="-90.07098798909169090620707721"/>
-  <way visible="true" id="-60">
     <nd ref="-534"/>
     <nd ref="-535"/>
     <nd ref="-536"/>
     <nd ref="-537"/>
+    <nd ref="-530"/>
+    <tag k="building" v="yes"/>
+    <tag k="addr:housenumber" v="448"/>
+    <tag k="addr:street" v="Marion Avenue"/>
+    <tag k="addr:city" v="Harvey"/>
+    <tag k="addr:postcode" v="70058"/>
+  </way>
+  <node visible="true" id="-538" lat="29.90822835399254842059235671" lon="-90.07538032229945201834198087"/>
+  <node visible="true" id="-539" lat="29.90825627795677732478907274" lon="-90.07539548907087123552628327"/>
+  <node visible="true" id="-540" lat="29.90828114813630023149926274" lon="-90.07533454940336525851307670"/>
+  <node visible="true" id="-541" lat="29.90826766631317568112535810" lon="-90.07532722681142445253499318"/>
+  <node visible="true" id="-542" lat="29.90826973420262291369908780" lon="-90.07532215983979995144181885"/>
+  <node visible="true" id="-543" lat="29.90826227703055195661363541" lon="-90.07531810951049067170970375"/>
+  <node visible="true" id="-544" lat="29.90825982641787206262051768" lon="-90.07532411427257557079428807"/>
+  <node visible="true" id="-545" lat="29.90822805904382875041847001" lon="-90.07530685997068076176219620"/>
+  <node visible="true" id="-546" lat="29.90821920670211042647679278" lon="-90.07532855094866874878789531"/>
+  <node visible="true" id="-547" lat="29.90823397051202547913817398" lon="-90.07533656984216463570191991"/>
+  <node visible="true" id="-548" lat="29.90821697411320556625469180" lon="-90.07537821628235974458220880"/>
+  <node visible="true" id="-549" lat="29.90814558302689718516376161" lon="-90.07533944056929442467662739"/>
+  <node visible="true" id="-550" lat="29.90809745050614765204954892" lon="-90.07545738002652058185049100"/>
+  <node visible="true" id="-551" lat="29.90813829201731266493879957" lon="-90.07547956287581314427370671"/>
+  <node visible="true" id="-552" lat="29.90813138706462126492624520" lon="-90.07549648213267801111214794"/>
+  <node visible="true" id="-553" lat="29.90817195528801164527976653" lon="-90.07551851655465213752904674"/>
+  <way visible="true" id="-61">
     <nd ref="-538"/>
     <nd ref="-539"/>
     <nd ref="-540"/>
@@ -1577,50 +1593,36 @@
     <nd ref="-545"/>
     <nd ref="-546"/>
     <nd ref="-547"/>
-    <nd ref="-534"/>
-    <tag k="building" v="yes"/>
-    <tag k="addr:housenumber" v="521"/>
-    <tag k="addr:street" v="Gardere Avenue"/>
-    <tag k="addr:city" v="Harvey"/>
-    <tag k="addr:postcode" v="70058"/>
-  </way>
-  <node visible="true" id="-548" lat="29.90891344468719736937600828" lon="-90.07649610088925840045703808"/>
-  <node visible="true" id="-549" lat="29.90880621970391572972403083" lon="-90.07644389969941300932987360"/>
-  <node visible="true" id="-550" lat="29.90871095525097089762311953" lon="-90.07670432820576422727754107"/>
-  <node visible="true" id="-551" lat="29.90881818033679095947263704" lon="-90.07675652939562382925942075"/>
-  <way visible="true" id="-61">
     <nd ref="-548"/>
     <nd ref="-549"/>
     <nd ref="-550"/>
     <nd ref="-551"/>
-    <nd ref="-548"/>
+    <nd ref="-552"/>
+    <nd ref="-553"/>
+    <nd ref="-538"/>
     <tag k="building" v="yes"/>
-    <tag k="addr:housenumber" v="423"/>
-    <tag k="addr:street" v="Marion Avenue"/>
+    <tag k="addr:housenumber" v="451"/>
+    <tag k="addr:street" v="Yetta Avenue"/>
     <tag k="addr:city" v="Harvey"/>
     <tag k="addr:postcode" v="70058"/>
   </way>
-  <node visible="true" id="-552" lat="29.90771008232404071236487653" lon="-90.07616846843428959346056217"/>
-  <node visible="true" id="-553" lat="29.90775043661677301543022622" lon="-90.07619002287795240135892527"/>
-  <node visible="true" id="-554" lat="29.90779849978055082715400204" lon="-90.07607026664709337637759745"/>
-  <node visible="true" id="-555" lat="29.90777585509788494277927384" lon="-90.07605817143287652015715139"/>
-  <node visible="true" id="-556" lat="29.90779202438106665340455947" lon="-90.07601788335267656293581240"/>
-  <node visible="true" id="-557" lat="29.90774733349804748172573454" lon="-90.07599401259604121605661931"/>
-  <node visible="true" id="-558" lat="29.90769252108552578306444047" lon="-90.07613058546836271034408128"/>
-  <node visible="true" id="-559" lat="29.90771950239571097540647315" lon="-90.07614499699559473810950294"/>
+  <node visible="true" id="-554" lat="29.90793095681752689074528462" lon="-90.07590124692927702199085616"/>
+  <node visible="true" id="-555" lat="29.90799567741413866883704031" lon="-90.07593499274126713771693176"/>
+  <node visible="true" id="-556" lat="29.90805723224875833921032608" lon="-90.07577787697992732773855096"/>
+  <node visible="true" id="-557" lat="29.90802868376076872891644598" lon="-90.07576299156896482145384653"/>
+  <node visible="true" id="-558" lat="29.90803491483007192641707661" lon="-90.07574708706273725056234980"/>
+  <node visible="true" id="-559" lat="29.90799874276368086611910257" lon="-90.07572822666170964112097863"/>
   <way visible="true" id="-62">
-    <nd ref="-552"/>
-    <nd ref="-553"/>
     <nd ref="-554"/>
     <nd ref="-555"/>
     <nd ref="-556"/>
     <nd ref="-557"/>
     <nd ref="-558"/>
     <nd ref="-559"/>
-    <nd ref="-552"/>
+    <nd ref="-554"/>
     <tag k="building" v="yes"/>
-    <tag k="addr:housenumber" v="459"/>
-    <tag k="addr:street" v="Marion Avenue"/>
+    <tag k="addr:housenumber" v="452"/>
+    <tag k="addr:street" v="Yetta Avenue"/>
     <tag k="addr:city" v="Harvey"/>
     <tag k="addr:postcode" v="70058"/>
   </way>
@@ -1652,75 +1654,75 @@
     <tag k="addr:city" v="Harvey"/>
     <tag k="addr:postcode" v="70058"/>
   </way>
-  <node visible="true" id="-570" lat="29.90852857513024076752117253" lon="-90.07609612706626478484395193">
-    <tag k="addr:housenumber" v="436"/>
-    <tag k="addr:street" v="Yetta Avenue"/>
-    <tag k="addr:city" v="Harvey"/>
-    <tag k="addr:postcode" v="70058"/>
-  </node>
-  <node visible="true" id="-571" lat="29.90852831502151332188077504" lon="-90.07609609927392568806681084">
-    <tag k="addr:housenumber" v="438"/>
-    <tag k="addr:street" v="Yetta Avenue"/>
-    <tag k="addr:city" v="Harvey"/>
-    <tag k="addr:postcode" v="70058"/>
-  </node>
-  <node visible="true" id="-572" lat="29.90992949299590719647312653" lon="-90.07233735754373071813461138"/>
-  <node visible="true" id="-573" lat="29.90987956133731628938221547" lon="-90.07230740342325248093402479"/>
-  <node visible="true" id="-574" lat="29.90988560261984829935499874" lon="-90.07229400048314005289284978"/>
-  <node visible="true" id="-575" lat="29.90985029276229667516417976" lon="-90.07227281802354923456732649"/>
-  <node visible="true" id="-576" lat="29.90984379094095402251696214" lon="-90.07228724269097597243671771"/>
-  <node visible="true" id="-577" lat="29.90983473860191210746961588" lon="-90.07228181217485030174429994"/>
-  <node visible="true" id="-578" lat="29.90978963211673402611268102" lon="-90.07238188349124641263188096"/>
-  <node visible="true" id="-579" lat="29.90988392601713385943185131" lon="-90.07243845058744113885040861"/>
+  <node visible="true" id="-570" lat="29.90861313861181969286917592" lon="-90.07155967208909430610219715"/>
+  <node visible="true" id="-571" lat="29.90853766398835134054934315" lon="-90.07172861711582356747385347"/>
+  <node visible="true" id="-572" lat="29.90863057897031751508620800" lon="-90.07178386063624486723711016"/>
+  <node visible="true" id="-573" lat="29.90869147444921694045660843" lon="-90.07164754995747557586582843"/>
+  <node visible="true" id="-574" lat="29.90866272767399181020664400" lon="-90.07163045826234792912146077"/>
+  <node visible="true" id="-575" lat="29.90867730675239144488841703" lon="-90.07159782391435953741165577"/>
   <way visible="true" id="-64">
+    <nd ref="-570"/>
+    <nd ref="-571"/>
     <nd ref="-572"/>
     <nd ref="-573"/>
     <nd ref="-574"/>
     <nd ref="-575"/>
-    <nd ref="-576"/>
-    <nd ref="-577"/>
-    <nd ref="-578"/>
-    <nd ref="-579"/>
-    <nd ref="-572"/>
-    <tag k="building" v="yes"/>
-    <tag k="addr:housenumber" v="420"/>
-    <tag k="addr:street" v="Gardere Avenue"/>
-    <tag k="addr:city" v="Harvey"/>
-    <tag k="addr:postcode" v="70058"/>
-  </way>
-  <node visible="true" id="-580" lat="29.90861313861181969286917592" lon="-90.07155967208909430610219715"/>
-  <node visible="true" id="-581" lat="29.90853766398835134054934315" lon="-90.07172861711582356747385347"/>
-  <node visible="true" id="-582" lat="29.90863057897031751508620800" lon="-90.07178386063624486723711016"/>
-  <node visible="true" id="-583" lat="29.90869147444921694045660843" lon="-90.07164754995747557586582843"/>
-  <node visible="true" id="-584" lat="29.90866272767399181020664400" lon="-90.07163045826234792912146077"/>
-  <node visible="true" id="-585" lat="29.90867730675239144488841703" lon="-90.07159782391435953741165577"/>
-  <way visible="true" id="-65">
-    <nd ref="-580"/>
-    <nd ref="-581"/>
-    <nd ref="-582"/>
-    <nd ref="-583"/>
-    <nd ref="-584"/>
-    <nd ref="-585"/>
-    <nd ref="-580"/>
+    <nd ref="-570"/>
     <tag k="building" v="yes"/>
     <tag k="addr:housenumber" v="508"/>
     <tag k="addr:street" v="Gardere Avenue"/>
     <tag k="addr:city" v="Harvey"/>
     <tag k="addr:postcode" v="70058"/>
   </way>
-  <node visible="true" id="-586" lat="29.90766362970504488316692004" lon="-90.07646181550789776792953489"/>
-  <node visible="true" id="-587" lat="29.90763091052074784670367080" lon="-90.07644415962454331747721881"/>
-  <node visible="true" id="-588" lat="29.90763359358599871029582573" lon="-90.07643754239634859004581813"/>
-  <node visible="true" id="-589" lat="29.90761917103810318963041937" lon="-90.07642975972156307307159295"/>
-  <node visible="true" id="-590" lat="29.90761653009849752038462611" lon="-90.07643627305454003817430930"/>
-  <node visible="true" id="-591" lat="29.90760739226410436231162748" lon="-90.07643134211008373313234188"/>
-  <node visible="true" id="-592" lat="29.90760156499923638762084011" lon="-90.07644571385557696885371115"/>
-  <node visible="true" id="-593" lat="29.90758727634383262738992926" lon="-90.07643800343420537046768004"/>
-  <node visible="true" id="-594" lat="29.90754516562990161787638499" lon="-90.07654186077378710706398124"/>
-  <node visible="true" id="-595" lat="29.90761573388532923445382039" lon="-90.07657994069772655620909063"/>
+  <node visible="true" id="-576" lat="29.90766362970504488316692004" lon="-90.07646181550789776792953489"/>
+  <node visible="true" id="-577" lat="29.90763091052074784670367080" lon="-90.07644415962454331747721881"/>
+  <node visible="true" id="-578" lat="29.90763359358599871029582573" lon="-90.07643754239634859004581813"/>
+  <node visible="true" id="-579" lat="29.90761917103810318963041937" lon="-90.07642975972156307307159295"/>
+  <node visible="true" id="-580" lat="29.90761653009849752038462611" lon="-90.07643627305454003817430930"/>
+  <node visible="true" id="-581" lat="29.90760739226410436231162748" lon="-90.07643134211008373313234188"/>
+  <node visible="true" id="-582" lat="29.90760156499923638762084011" lon="-90.07644571385557696885371115"/>
+  <node visible="true" id="-583" lat="29.90758727634383262738992926" lon="-90.07643800343420537046768004"/>
+  <node visible="true" id="-584" lat="29.90754516562990161787638499" lon="-90.07654186077378710706398124"/>
+  <node visible="true" id="-585" lat="29.90761573388532923445382039" lon="-90.07657994069772655620909063"/>
+  <way visible="true" id="-65">
+    <nd ref="-576"/>
+    <nd ref="-577"/>
+    <nd ref="-578"/>
+    <nd ref="-579"/>
+    <nd ref="-580"/>
+    <nd ref="-581"/>
+    <nd ref="-582"/>
+    <nd ref="-583"/>
+    <nd ref="-584"/>
+    <nd ref="-585"/>
+    <nd ref="-576"/>
+    <tag k="building" v="yes"/>
+    <tag k="addr:housenumber" v="444"/>
+    <tag k="addr:street" v="Marion Avenue"/>
+    <tag k="addr:city" v="Harvey"/>
+    <tag k="addr:postcode" v="70058"/>
+  </way>
+  <node visible="true" id="-586" lat="29.90852857513024076752117253" lon="-90.07609612706626478484395193">
+    <tag k="addr:housenumber" v="436"/>
+    <tag k="addr:street" v="Yetta Avenue"/>
+    <tag k="addr:city" v="Harvey"/>
+    <tag k="addr:postcode" v="70058"/>
+  </node>
+  <node visible="true" id="-587" lat="29.90852831502151332188077504" lon="-90.07609609927392568806681084">
+    <tag k="addr:housenumber" v="438"/>
+    <tag k="addr:street" v="Yetta Avenue"/>
+    <tag k="addr:city" v="Harvey"/>
+    <tag k="addr:postcode" v="70058"/>
+  </node>
+  <node visible="true" id="-588" lat="29.90992949299590719647312653" lon="-90.07233735754373071813461138"/>
+  <node visible="true" id="-589" lat="29.90987956133731628938221547" lon="-90.07230740342325248093402479"/>
+  <node visible="true" id="-590" lat="29.90988560261984829935499874" lon="-90.07229400048314005289284978"/>
+  <node visible="true" id="-591" lat="29.90985029276229667516417976" lon="-90.07227281802354923456732649"/>
+  <node visible="true" id="-592" lat="29.90984379094095402251696214" lon="-90.07228724269097597243671771"/>
+  <node visible="true" id="-593" lat="29.90983473860191210746961588" lon="-90.07228181217485030174429994"/>
+  <node visible="true" id="-594" lat="29.90978963211673402611268102" lon="-90.07238188349124641263188096"/>
+  <node visible="true" id="-595" lat="29.90988392601713385943185131" lon="-90.07243845058744113885040861"/>
   <way visible="true" id="-66">
-    <nd ref="-586"/>
-    <nd ref="-587"/>
     <nd ref="-588"/>
     <nd ref="-589"/>
     <nd ref="-590"/>
@@ -1729,10 +1731,10 @@
     <nd ref="-593"/>
     <nd ref="-594"/>
     <nd ref="-595"/>
-    <nd ref="-586"/>
+    <nd ref="-588"/>
     <tag k="building" v="yes"/>
-    <tag k="addr:housenumber" v="444"/>
-    <tag k="addr:street" v="Marion Avenue"/>
+    <tag k="addr:housenumber" v="420"/>
+    <tag k="addr:street" v="Gardere Avenue"/>
     <tag k="addr:city" v="Harvey"/>
     <tag k="addr:postcode" v="70058"/>
   </way>

@@ -1,8 +1,10 @@
 <?xml version='1.0' encoding='utf8'?>
-<osm version="0.6" generator="AnonymousAlligator's import script">
-  <changeset_tag k="comment" v="Import buildings and addresses in Jefferson Parish, see https://wiki.openstreetmap.org/wiki/Import/Catalogue/Jefferson_Parish_Addresses_and_Buildings"/>
-  <changeset_tag k="source" v="Jefferson Parish Planning Department"/>
-  <changeset_tag k="source_file" v="8172_13519"/>
+<osm version="0.6" generator="AnonymousAlligator's import script" upload-changeset="-1">
+  <changeset id="-1">
+    <tag k="comment" v="Import buildings and addresses in Jefferson Parish, see https://wiki.openstreetmap.org/wiki/Import/Catalogue/Jefferson_Parish_Addresses_and_Buildings"/>
+    <tag k="source" v="Jefferson Parish Planning Department"/>
+    <tag k="source_file" v="change-8172_13519.osm"/>
+  </changeset>
   <node visible="true" id="-1" lat="29.99665441201884874544703052" lon="-90.21967684725889569108403521">
     <tag k="addr:housenumber" v="8503"/>
     <tag k="addr:street" v="West Napoleon Avenue North"/>
@@ -33,18 +35,18 @@
     <tag k="addr:city" v="Metairie"/>
     <tag k="addr:postcode" v="70003"/>
   </node>
-  <node visible="true" id="-6" lat="29.99634578027226083918321820" lon="-90.21773691524960270271549234">
-    <tag k="addr:housenumber" v="7207"/>
-    <tag k="addr:street" v="West Napoleon Avenue North"/>
-    <tag k="addr:city" v="Metairie"/>
-    <tag k="addr:postcode" v="70003"/>
-  </node>
-  <node visible="true" id="-7" lat="29.99568142349375676758427289" lon="-90.21128757135973330605338560">
+  <node visible="true" id="-6" lat="29.99568142349375676758427289" lon="-90.21128757135973330605338560">
     <tag k="addr:housenumber" v="6802"/>
     <tag k="addr:street" v="West Napoleon Avenue South"/>
     <tag k="addr:city" v="Metairie"/>
     <tag k="addr:postcode" v="70003"/>
     <tag k="addr:unit" v="METER"/>
+  </node>
+  <node visible="true" id="-7" lat="29.99634578027226083918321820" lon="-90.21773691524960270271549234">
+    <tag k="addr:housenumber" v="7207"/>
+    <tag k="addr:street" v="West Napoleon Avenue North"/>
+    <tag k="addr:city" v="Metairie"/>
+    <tag k="addr:postcode" v="70003"/>
   </node>
   <way id="722613445" version="2" action="modify">
     <tag k="addr:housenumber" v="2815"/>

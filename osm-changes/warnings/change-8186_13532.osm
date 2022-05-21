@@ -1,8 +1,10 @@
 <?xml version='1.0' encoding='utf8'?>
-<osm version="0.6" generator="AnonymousAlligator's import script">
-  <changeset_tag k="comment" v="Import buildings and addresses in Jefferson Parish, see https://wiki.openstreetmap.org/wiki/Import/Catalogue/Jefferson_Parish_Addresses_and_Buildings"/>
-  <changeset_tag k="source" v="Jefferson Parish Planning Department"/>
-  <changeset_tag k="source_file" v="8186_13532"/>
+<osm version="0.6" generator="AnonymousAlligator's import script" upload-changeset="-1">
+  <changeset id="-1">
+    <tag k="comment" v="Import buildings and addresses in Jefferson Parish, see https://wiki.openstreetmap.org/wiki/Import/Catalogue/Jefferson_Parish_Addresses_and_Buildings"/>
+    <tag k="source" v="Jefferson Parish Planning Department"/>
+    <tag k="source_file" v="change-8186_13532.osm"/>
+  </changeset>
   <node visible="true" id="-1" lat="29.87488064871216764117889397" lon="-90.05947479809670142003596993"/>
   <node visible="true" id="-2" lat="29.87484389368421133781339449" lon="-90.05955860163498982728924602"/>
   <node visible="true" id="-3" lat="29.87481449652617726542302989" lon="-90.05954145393658905049960595"/>
@@ -867,39 +869,39 @@
     <tag k="addr:city" v="Harvey"/>
     <tag k="addr:postcode" v="70058"/>
   </way>
-  <node visible="true" id="-281" lat="29.87492494386895813818227907" lon="-90.05915817044552795778145082"/>
-  <node visible="true" id="-282" lat="29.87487104857157405035650299" lon="-90.05927382183162421824818011"/>
-  <node visible="true" id="-283" lat="29.87492150448982997090752178" lon="-90.05930509404925032868050039"/>
-  <node visible="true" id="-284" lat="29.87497539975994342853482522" lon="-90.05918944266315406821377110"/>
+  <node visible="true" id="-281" lat="29.87076863842338880772331322" lon="-90.05702893613199933042778866"/>
+  <node visible="true" id="-282" lat="29.87076973998190254633300356" lon="-90.05720482031145479595579673"/>
+  <node visible="true" id="-283" lat="29.87086118678657697955713957" lon="-90.05720405865366728903609328"/>
+  <node visible="true" id="-284" lat="29.87086075548097241494360787" lon="-90.05713519266042510480474448"/>
+  <node visible="true" id="-285" lat="29.87093577445599379416307784" lon="-90.05713456782902426311920863"/>
+  <node visible="true" id="-286" lat="29.87093510420461228704880341" lon="-90.05702754964282519267726457"/>
   <way visible="true" id="-38">
     <nd ref="-281"/>
     <nd ref="-282"/>
     <nd ref="-283"/>
     <nd ref="-284"/>
+    <nd ref="-285"/>
+    <nd ref="-286"/>
     <nd ref="-281"/>
     <tag k="building" v="yes"/>
-    <tag k="addr:housenumber" v="2333"/>
-    <tag k="addr:street" v="Lafayette Avenue"/>
+    <tag k="addr:housenumber" v="2243"/>
+    <tag k="addr:street" v="East Von Braun Court"/>
     <tag k="addr:city" v="Harvey"/>
     <tag k="addr:postcode" v="70058"/>
   </way>
-  <node visible="true" id="-285" lat="29.87076863842338880772331322" lon="-90.05702893613199933042778866"/>
-  <node visible="true" id="-286" lat="29.87076973998190254633300356" lon="-90.05720482031145479595579673"/>
-  <node visible="true" id="-287" lat="29.87086118678657697955713957" lon="-90.05720405865366728903609328"/>
-  <node visible="true" id="-288" lat="29.87086075548097241494360787" lon="-90.05713519266042510480474448"/>
-  <node visible="true" id="-289" lat="29.87093577445599379416307784" lon="-90.05713456782902426311920863"/>
-  <node visible="true" id="-290" lat="29.87093510420461228704880341" lon="-90.05702754964282519267726457"/>
+  <node visible="true" id="-287" lat="29.87492494386895813818227907" lon="-90.05915817044552795778145082"/>
+  <node visible="true" id="-288" lat="29.87487104857157405035650299" lon="-90.05927382183162421824818011"/>
+  <node visible="true" id="-289" lat="29.87492150448982997090752178" lon="-90.05930509404925032868050039"/>
+  <node visible="true" id="-290" lat="29.87497539975994342853482522" lon="-90.05918944266315406821377110"/>
   <way visible="true" id="-39">
-    <nd ref="-285"/>
-    <nd ref="-286"/>
     <nd ref="-287"/>
     <nd ref="-288"/>
     <nd ref="-289"/>
     <nd ref="-290"/>
-    <nd ref="-285"/>
+    <nd ref="-287"/>
     <tag k="building" v="yes"/>
-    <tag k="addr:housenumber" v="2243"/>
-    <tag k="addr:street" v="East Von Braun Court"/>
+    <tag k="addr:housenumber" v="2333"/>
+    <tag k="addr:street" v="Lafayette Avenue"/>
     <tag k="addr:city" v="Harvey"/>
     <tag k="addr:postcode" v="70058"/>
   </way>

@@ -1,8 +1,10 @@
 <?xml version='1.0' encoding='utf8'?>
-<osm version="0.6" generator="AnonymousAlligator's import script">
-  <changeset_tag k="comment" v="Import buildings and addresses in Jefferson Parish, see https://wiki.openstreetmap.org/wiki/Import/Catalogue/Jefferson_Parish_Addresses_and_Buildings"/>
-  <changeset_tag k="source" v="Jefferson Parish Planning Department"/>
-  <changeset_tag k="source_file" v="8177_13528"/>
+<osm version="0.6" generator="AnonymousAlligator's import script" upload-changeset="-1">
+  <changeset id="-1">
+    <tag k="comment" v="Import buildings and addresses in Jefferson Parish, see https://wiki.openstreetmap.org/wiki/Import/Catalogue/Jefferson_Parish_Addresses_and_Buildings"/>
+    <tag k="source" v="Jefferson Parish Planning Department"/>
+    <tag k="source_file" v="change-8177_13528.osm"/>
+  </changeset>
   <node visible="true" id="-1" lat="29.91044195692322915647309856" lon="-90.15618091631792196949390927"/>
   <node visible="true" id="-2" lat="29.91053435363759049891996256" lon="-90.15632237672237181413947837"/>
   <node visible="true" id="-3" lat="29.91056340712469108211735147" lon="-90.15629712000749407252442325"/>
@@ -1122,154 +1124,154 @@
     <tag k="addr:city" v="Bridge City"/>
     <tag k="addr:postcode" v="70094"/>
   </way>
-  <node visible="true" id="-349" lat="29.91232346066679070872851298" lon="-90.15498830188805357011005981"/>
-  <node visible="true" id="-350" lat="29.91236551338756299855958787" lon="-90.15516113622545901762350695"/>
-  <node visible="true" id="-351" lat="29.91240163087826786636469478" lon="-90.15514943975848893842339749"/>
-  <node visible="true" id="-352" lat="29.91235957817280066706189245" lon="-90.15497660542106928005523514"/>
+  <node visible="true" id="-349" lat="29.90916011672498342477410915" lon="-90.15724991418672118470567511"/>
+  <node visible="true" id="-350" lat="29.90915708279340989861339040" lon="-90.15724490022408588174585020"/>
+  <node visible="true" id="-351" lat="29.90913196040316890389476612" lon="-90.15726513184543478018895257"/>
+  <node visible="true" id="-352" lat="29.90917982971793520619030460" lon="-90.15734424205065522528457223"/>
+  <node visible="true" id="-353" lat="29.90920512140648668264475418" lon="-90.15732387407979331328533590"/>
+  <node visible="true" id="-354" lat="29.90926562034640667775420297" lon="-90.15742385644624334872787585"/>
+  <node visible="true" id="-355" lat="29.90929670080889124506029475" lon="-90.15739882662205673113930970"/>
+  <node visible="true" id="-356" lat="29.90919136653075227627596178" lon="-90.15722474801304997527040541"/>
   <way visible="true" id="-54">
     <nd ref="-349"/>
     <nd ref="-350"/>
     <nd ref="-351"/>
     <nd ref="-352"/>
+    <nd ref="-353"/>
+    <nd ref="-354"/>
+    <nd ref="-355"/>
+    <nd ref="-356"/>
     <nd ref="-349"/>
+    <tag k="building" v="yes"/>
+    <tag k="addr:housenumber" v="107"/>
+    <tag k="addr:street" v="Circle West Drive"/>
+    <tag k="addr:city" v="Bridge City"/>
+    <tag k="addr:postcode" v="70094"/>
+  </way>
+  <node visible="true" id="-357" lat="29.91232346066679070872851298" lon="-90.15498830188805357011005981"/>
+  <node visible="true" id="-358" lat="29.91236551338756299855958787" lon="-90.15516113622545901762350695"/>
+  <node visible="true" id="-359" lat="29.91240163087826786636469478" lon="-90.15514943975848893842339749"/>
+  <node visible="true" id="-360" lat="29.91235957817280066706189245" lon="-90.15497660542106928005523514"/>
+  <way visible="true" id="-55">
+    <nd ref="-357"/>
+    <nd ref="-358"/>
+    <nd ref="-359"/>
+    <nd ref="-360"/>
+    <nd ref="-357"/>
     <tag k="building" v="yes"/>
     <tag k="addr:housenumber" v="305"/>
     <tag k="addr:street" v="Circle West Drive"/>
     <tag k="addr:city" v="Bridge City"/>
     <tag k="addr:postcode" v="70094"/>
   </way>
-  <node visible="true" id="-353" lat="29.91259172298951796165056294" lon="-90.15439619641125545967952348"/>
-  <node visible="true" id="-354" lat="29.91263226153605003787561145" lon="-90.15455644081680475210305303"/>
-  <node visible="true" id="-355" lat="29.91266748373455897080930299" lon="-90.15454458102284718279406661"/>
-  <node visible="true" id="-356" lat="29.91262694520236919970557210" lon="-90.15438433661729789037053706"/>
-  <way visible="true" id="-55">
-    <nd ref="-353"/>
-    <nd ref="-354"/>
-    <nd ref="-355"/>
-    <nd ref="-356"/>
-    <nd ref="-353"/>
+  <node visible="true" id="-361" lat="29.91259172298951796165056294" lon="-90.15439619641125545967952348"/>
+  <node visible="true" id="-362" lat="29.91263226153605003787561145" lon="-90.15455644081680475210305303"/>
+  <node visible="true" id="-363" lat="29.91266748373455897080930299" lon="-90.15454458102284718279406661"/>
+  <node visible="true" id="-364" lat="29.91262694520236919970557210" lon="-90.15438433661729789037053706"/>
+  <way visible="true" id="-56">
+    <nd ref="-361"/>
+    <nd ref="-362"/>
+    <nd ref="-363"/>
+    <nd ref="-364"/>
+    <nd ref="-361"/>
     <tag k="building" v="yes"/>
     <tag k="addr:housenumber" v="316"/>
     <tag k="addr:street" v="Circle West Drive"/>
     <tag k="addr:city" v="Bridge City"/>
     <tag k="addr:postcode" v="70094"/>
   </way>
-  <node visible="true" id="-357" lat="29.91240908781053065013111336" lon="-90.15449795876484984091803199"/>
-  <node visible="true" id="-358" lat="29.91245716416974786966420652" lon="-90.15470612404973849152156617"/>
-  <node visible="true" id="-359" lat="29.91249193726810062798904255" lon="-90.15469543496554649664176395"/>
-  <node visible="true" id="-360" lat="29.91248503552225557200472394" lon="-90.15466555115752100846293615"/>
-  <node visible="true" id="-361" lat="29.91251234724390428709739354" lon="-90.15465715566283222415222554"/>
-  <node visible="true" id="-362" lat="29.91249933362788837598600367" lon="-90.15460080811276100121176569"/>
-  <node visible="true" id="-363" lat="29.91247290687010007559365476" lon="-90.15460893157268174036289565"/>
-  <node visible="true" id="-364" lat="29.91244474589336377334802819" lon="-90.15448699764593243344279472"/>
-  <way visible="true" id="-56">
-    <nd ref="-357"/>
-    <nd ref="-358"/>
-    <nd ref="-359"/>
-    <nd ref="-360"/>
-    <nd ref="-361"/>
-    <nd ref="-362"/>
-    <nd ref="-363"/>
-    <nd ref="-364"/>
-    <nd ref="-357"/>
+  <node visible="true" id="-365" lat="29.91240908781053065013111336" lon="-90.15449795876484984091803199"/>
+  <node visible="true" id="-366" lat="29.91245716416974786966420652" lon="-90.15470612404973849152156617"/>
+  <node visible="true" id="-367" lat="29.91249193726810062798904255" lon="-90.15469543496554649664176395"/>
+  <node visible="true" id="-368" lat="29.91248503552225557200472394" lon="-90.15466555115752100846293615"/>
+  <node visible="true" id="-369" lat="29.91251234724390428709739354" lon="-90.15465715566283222415222554"/>
+  <node visible="true" id="-370" lat="29.91249933362788837598600367" lon="-90.15460080811276100121176569"/>
+  <node visible="true" id="-371" lat="29.91247290687010007559365476" lon="-90.15460893157268174036289565"/>
+  <node visible="true" id="-372" lat="29.91244474589336377334802819" lon="-90.15448699764593243344279472"/>
+  <way visible="true" id="-57">
+    <nd ref="-365"/>
+    <nd ref="-366"/>
+    <nd ref="-367"/>
+    <nd ref="-368"/>
+    <nd ref="-369"/>
+    <nd ref="-370"/>
+    <nd ref="-371"/>
+    <nd ref="-372"/>
+    <nd ref="-365"/>
     <tag k="building" v="yes"/>
     <tag k="addr:housenumber" v="312"/>
     <tag k="addr:street" v="Circle West Drive"/>
     <tag k="addr:city" v="Bridge City"/>
     <tag k="addr:postcode" v="70094"/>
   </way>
-  <node visible="true" id="-365" lat="29.91128721790612132735986961" lon="-90.15571818712523111116752261"/>
-  <node visible="true" id="-366" lat="29.91117262252461372895595559" lon="-90.15553129285544287085940596"/>
-  <node visible="true" id="-367" lat="29.91114190459680344247317407" lon="-90.15555636121383997760858620"/>
-  <node visible="true" id="-368" lat="29.91125650001364988384011667" lon="-90.15574325548362821791670285"/>
-  <way visible="true" id="-57">
-    <nd ref="-365"/>
-    <nd ref="-366"/>
-    <nd ref="-367"/>
-    <nd ref="-368"/>
-    <nd ref="-365"/>
+  <node visible="true" id="-373" lat="29.91128721790612132735986961" lon="-90.15571818712523111116752261"/>
+  <node visible="true" id="-374" lat="29.91117262252461372895595559" lon="-90.15553129285544287085940596"/>
+  <node visible="true" id="-375" lat="29.91114190459680344247317407" lon="-90.15555636121383997760858620"/>
+  <node visible="true" id="-376" lat="29.91125650001364988384011667" lon="-90.15574325548362821791670285"/>
+  <way visible="true" id="-58">
+    <nd ref="-373"/>
+    <nd ref="-374"/>
+    <nd ref="-375"/>
+    <nd ref="-376"/>
+    <nd ref="-373"/>
     <tag k="building" v="yes"/>
     <tag k="addr:housenumber" v="227"/>
     <tag k="addr:street" v="Circle West Drive"/>
     <tag k="addr:city" v="Bridge City"/>
     <tag k="addr:postcode" v="70094"/>
   </way>
-  <node visible="true" id="-369" lat="29.91195309826665038599458057" lon="-90.15524932525615042777644703"/>
-  <node visible="true" id="-370" lat="29.91192565258447189080470707" lon="-90.15524932811267433407920180"/>
-  <node visible="true" id="-371" lat="29.91192410838637982806176296" lon="-90.15521754408793242419051239"/>
-  <node visible="true" id="-372" lat="29.91186809288088355174295430" lon="-90.15522037379456321559700882"/>
-  <node visible="true" id="-373" lat="29.91186777391329698616573296" lon="-90.15525507127829030196153326"/>
-  <node visible="true" id="-374" lat="29.91176704956595955309239798" lon="-90.15525770572219244058942422"/>
-  <node visible="true" id="-375" lat="29.91176745736343178805327625" lon="-90.15530323559349312745325733"/>
-  <node visible="true" id="-376" lat="29.91195473419741190923559770" lon="-90.15529235933908580591378268"/>
-  <way visible="true" id="-58">
-    <nd ref="-369"/>
-    <nd ref="-370"/>
-    <nd ref="-371"/>
-    <nd ref="-372"/>
-    <nd ref="-373"/>
-    <nd ref="-374"/>
-    <nd ref="-375"/>
-    <nd ref="-376"/>
-    <nd ref="-369"/>
+  <node visible="true" id="-377" lat="29.91195309826665038599458057" lon="-90.15524932525615042777644703"/>
+  <node visible="true" id="-378" lat="29.91192565258447189080470707" lon="-90.15524932811267433407920180"/>
+  <node visible="true" id="-379" lat="29.91192410838637982806176296" lon="-90.15521754408793242419051239"/>
+  <node visible="true" id="-380" lat="29.91186809288088355174295430" lon="-90.15522037379456321559700882"/>
+  <node visible="true" id="-381" lat="29.91186777391329698616573296" lon="-90.15525507127829030196153326"/>
+  <node visible="true" id="-382" lat="29.91176704956595955309239798" lon="-90.15525770572219244058942422"/>
+  <node visible="true" id="-383" lat="29.91176745736343178805327625" lon="-90.15530323559349312745325733"/>
+  <node visible="true" id="-384" lat="29.91195473419741190923559770" lon="-90.15529235933908580591378268"/>
+  <way visible="true" id="-59">
+    <nd ref="-377"/>
+    <nd ref="-378"/>
+    <nd ref="-379"/>
+    <nd ref="-380"/>
+    <nd ref="-381"/>
+    <nd ref="-382"/>
+    <nd ref="-383"/>
+    <nd ref="-384"/>
+    <nd ref="-377"/>
     <tag k="building" v="yes"/>
     <tag k="addr:housenumber" v="239"/>
     <tag k="addr:street" v="Circle West Drive"/>
     <tag k="addr:city" v="Bridge City"/>
     <tag k="addr:postcode" v="70094"/>
   </way>
-  <node visible="true" id="-377" lat="29.91185454205707117125712102" lon="-90.15490680333049056116578868"/>
-  <node visible="true" id="-378" lat="29.91190025715729916555574164" lon="-90.15507844149155403101758566"/>
-  <node visible="true" id="-379" lat="29.91193549557002029359864537" lon="-90.15506594951521890379808610"/>
-  <node visible="true" id="-380" lat="29.91188978048597135739328223" lon="-90.15489431135416964480100432"/>
-  <way visible="true" id="-59">
-    <nd ref="-377"/>
-    <nd ref="-378"/>
-    <nd ref="-379"/>
-    <nd ref="-380"/>
-    <nd ref="-377"/>
+  <node visible="true" id="-385" lat="29.91185454205707117125712102" lon="-90.15490680333049056116578868"/>
+  <node visible="true" id="-386" lat="29.91190025715729916555574164" lon="-90.15507844149155403101758566"/>
+  <node visible="true" id="-387" lat="29.91193549557002029359864537" lon="-90.15506594951521890379808610"/>
+  <node visible="true" id="-388" lat="29.91188978048597135739328223" lon="-90.15489431135416964480100432"/>
+  <way visible="true" id="-60">
+    <nd ref="-385"/>
+    <nd ref="-386"/>
+    <nd ref="-387"/>
+    <nd ref="-388"/>
+    <nd ref="-385"/>
     <tag k="building" v="yes"/>
     <tag k="addr:housenumber" v="300"/>
     <tag k="addr:street" v="Circle West Drive"/>
     <tag k="addr:city" v="Bridge City"/>
     <tag k="addr:postcode" v="70094"/>
   </way>
-  <node visible="true" id="-381" lat="29.91096716256346255136122636" lon="-90.15520463946008078437444055"/>
-  <node visible="true" id="-382" lat="29.91102985916392498211280326" lon="-90.15540028066652666893787682"/>
-  <node visible="true" id="-383" lat="29.91106275128740676905181317" lon="-90.15538625133653738430439262"/>
-  <node visible="true" id="-384" lat="29.91100005470768863347075239" lon="-90.15519061013009149974095635"/>
-  <way visible="true" id="-60">
-    <nd ref="-381"/>
-    <nd ref="-382"/>
-    <nd ref="-383"/>
-    <nd ref="-384"/>
-    <nd ref="-381"/>
-    <tag k="building" v="yes"/>
-    <tag k="addr:housenumber" v="228"/>
-    <tag k="addr:street" v="Circle West Drive"/>
-    <tag k="addr:city" v="Bridge City"/>
-    <tag k="addr:postcode" v="70094"/>
-  </way>
-  <node visible="true" id="-385" lat="29.90916011672498342477410915" lon="-90.15724991418672118470567511"/>
-  <node visible="true" id="-386" lat="29.90915708279340989861339040" lon="-90.15724490022408588174585020"/>
-  <node visible="true" id="-387" lat="29.90913196040316890389476612" lon="-90.15726513184543478018895257"/>
-  <node visible="true" id="-388" lat="29.90917982971793520619030460" lon="-90.15734424205065522528457223"/>
-  <node visible="true" id="-389" lat="29.90920512140648668264475418" lon="-90.15732387407979331328533590"/>
-  <node visible="true" id="-390" lat="29.90926562034640667775420297" lon="-90.15742385644624334872787585"/>
-  <node visible="true" id="-391" lat="29.90929670080889124506029475" lon="-90.15739882662205673113930970"/>
-  <node visible="true" id="-392" lat="29.90919136653075227627596178" lon="-90.15722474801304997527040541"/>
+  <node visible="true" id="-389" lat="29.91096716256346255136122636" lon="-90.15520463946008078437444055"/>
+  <node visible="true" id="-390" lat="29.91102985916392498211280326" lon="-90.15540028066652666893787682"/>
+  <node visible="true" id="-391" lat="29.91106275128740676905181317" lon="-90.15538625133653738430439262"/>
+  <node visible="true" id="-392" lat="29.91100005470768863347075239" lon="-90.15519061013009149974095635"/>
   <way visible="true" id="-61">
-    <nd ref="-385"/>
-    <nd ref="-386"/>
-    <nd ref="-387"/>
-    <nd ref="-388"/>
     <nd ref="-389"/>
     <nd ref="-390"/>
     <nd ref="-391"/>
     <nd ref="-392"/>
-    <nd ref="-385"/>
+    <nd ref="-389"/>
     <tag k="building" v="yes"/>
-    <tag k="addr:housenumber" v="107"/>
+    <tag k="addr:housenumber" v="228"/>
     <tag k="addr:street" v="Circle West Drive"/>
     <tag k="addr:city" v="Bridge City"/>
     <tag k="addr:postcode" v="70094"/>

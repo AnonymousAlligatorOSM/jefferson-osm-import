@@ -1,8 +1,10 @@
 <?xml version='1.0' encoding='utf8'?>
-<osm version="0.6" generator="AnonymousAlligator's import script">
-  <changeset_tag k="comment" v="Import buildings and addresses in Jefferson Parish, see https://wiki.openstreetmap.org/wiki/Import/Catalogue/Jefferson_Parish_Addresses_and_Buildings"/>
-  <changeset_tag k="source" v="Jefferson Parish Planning Department"/>
-  <changeset_tag k="source_file" v="8181_13532"/>
+<osm version="0.6" generator="AnonymousAlligator's import script" upload-changeset="-1">
+  <changeset id="-1">
+    <tag k="comment" v="Import buildings and addresses in Jefferson Parish, see https://wiki.openstreetmap.org/wiki/Import/Catalogue/Jefferson_Parish_Addresses_and_Buildings"/>
+    <tag k="source" v="Jefferson Parish Planning Department"/>
+    <tag k="source_file" v="change-8181_13532.osm"/>
+  </changeset>
   <node visible="true" id="-1" lat="29.87227025288778392564381647" lon="-90.11876715403589344077772694"/>
   <node visible="true" id="-2" lat="29.87232226953265978863782948" lon="-90.11876224883201302873203531"/>
   <node visible="true" id="-3" lat="29.87232470420475038963559200" lon="-90.11879658483739774510468123"/>
@@ -71,10 +73,10 @@
     <tag k="addr:city" v="Marrero"/>
     <tag k="addr:postcode" v="70072"/>
   </way>
-  <node visible="true" id="-23" lat="29.87608692359943418637158175" lon="-90.11391109877332894484425196"/>
-  <node visible="true" id="-24" lat="29.87601652394154072567289404" lon="-90.11393292731830229058687110"/>
-  <node visible="true" id="-25" lat="29.87605738777911668080378149" lon="-90.11410821097955192726658424"/>
-  <node visible="true" id="-26" lat="29.87612778740825802969993674" lon="-90.11408638243457858152396511"/>
+  <node visible="true" id="-23" lat="29.87255820623430935256692464" lon="-90.11710760662123220754438080"/>
+  <node visible="true" id="-24" lat="29.87256815532014897485169058" lon="-90.11726171682600750045821769"/>
+  <node visible="true" id="-25" lat="29.87265933736173195711671724" lon="-90.11725388816435611261113081"/>
+  <node visible="true" id="-26" lat="29.87264938828474925003320095" lon="-90.11709977795958081969729392"/>
   <way visible="true" id="-4">
     <nd ref="-23"/>
     <nd ref="-24"/>
@@ -82,18 +84,18 @@
     <nd ref="-26"/>
     <nd ref="-23"/>
     <tag k="building" v="yes"/>
-    <tag k="addr:street" v="Ames Boulevard"/>
+    <tag k="addr:housenumber" v="6408"/>
+    <tag k="addr:street" v="Rue Louis Phillipe"/>
     <tag k="addr:city" v="Marrero"/>
     <tag k="addr:postcode" v="70072"/>
   </way>
-  <node visible="true" id="-27" lat="29.87737076519810486274764116" lon="-90.11084942065313896364386892"/>
-  <node visible="true" id="-28" lat="29.87744488597862613232791773" lon="-90.11085225185082947518822039"/>
-  <node visible="true" id="-29" lat="29.87744529782374058868299471" lon="-90.11083791107910201390041038"/>
-  <node visible="true" id="-30" lat="29.87748493960849671680080064" lon="-90.11083942528054535614501219"/>
-  <node visible="true" id="-31" lat="29.87748696419961902392969932" lon="-90.11076892742465815899777226"/>
-  <node visible="true" id="-32" lat="29.87749635816678051014605444" lon="-90.11076928624710546955611790"/>
-  <node visible="true" id="-33" lat="29.87749810912750447755570349" lon="-90.11070831641613665397017030"/>
-  <node visible="true" id="-34" lat="29.87737495260061848512123106" lon="-90.11070361219455548962287139"/>
+  <node visible="true" id="-27" lat="29.87269596655798054030128696" lon="-90.11748381121711304331256542"/>
+  <node visible="true" id="-28" lat="29.87261288729737529479280056" lon="-90.11749056099479560089093866"/>
+  <node visible="true" id="-29" lat="29.87261738026330348816372862" lon="-90.11757084117132876599498559"/>
+  <node visible="true" id="-30" lat="29.87259364130897765221561713" lon="-90.11757256500311541458358988"/>
+  <node visible="true" id="-31" lat="29.87259739721067219875294541" lon="-90.11764066016891661092813592"/>
+  <node visible="true" id="-32" lat="29.87270484725372909906582208" lon="-90.11763289745708505051879911"/>
+  <node visible="true" id="-33" lat="29.87269597319170699734058871" lon="-90.11748452855121627180778887"/>
   <way visible="true" id="-5">
     <nd ref="-27"/>
     <nd ref="-28"/>
@@ -102,129 +104,129 @@
     <nd ref="-31"/>
     <nd ref="-32"/>
     <nd ref="-33"/>
-    <nd ref="-34"/>
     <nd ref="-27"/>
-    <tag k="building" v="yes"/>
-    <tag k="addr:housenumber" v="1749"/>
-    <tag k="addr:street" v="Robin Drive"/>
-    <tag k="addr:city" v="Marrero"/>
-    <tag k="addr:postcode" v="70072"/>
-  </way>
-  <node visible="true" id="-35" lat="29.87764535774450536109725363" lon="-90.11086164319993940807762556"/>
-  <node visible="true" id="-36" lat="29.87775943916036425207494176" lon="-90.11086509954874657069012756"/>
-  <node visible="true" id="-37" lat="29.87776115179694258472409274" lon="-90.11078991410300886855111457"/>
-  <node visible="true" id="-38" lat="29.87772434714270985978146200" lon="-90.11078879902416360891947988"/>
-  <node visible="true" id="-39" lat="29.87772606510047168626442726" lon="-90.11071338001147523755207658"/>
-  <node visible="true" id="-40" lat="29.87764878834212467495490273" lon="-90.11071103874151333457120927"/>
-  <way visible="true" id="-6">
-    <nd ref="-35"/>
-    <nd ref="-36"/>
-    <nd ref="-37"/>
-    <nd ref="-38"/>
-    <nd ref="-39"/>
-    <nd ref="-40"/>
-    <nd ref="-35"/>
-    <tag k="building" v="yes"/>
-    <tag k="addr:housenumber" v="1741"/>
-    <tag k="addr:street" v="Robin Drive"/>
-    <tag k="addr:city" v="Marrero"/>
-    <tag k="addr:postcode" v="70072"/>
-  </way>
-  <node visible="true" id="-41" lat="29.87785241773885758220785647" lon="-90.11114269627863393452571472"/>
-  <node visible="true" id="-42" lat="29.87775065098621851689131290" lon="-90.11113902960035204614541726"/>
-  <node visible="true" id="-43" lat="29.87774792153276592898691888" lon="-90.11123978778570631220645737"/>
-  <node visible="true" id="-44" lat="29.87773169711686804816963559" lon="-90.11123920321682589928968810"/>
-  <node visible="true" id="-45" lat="29.87773064746966156235430390" lon="-90.11127795109550220331584569"/>
-  <node visible="true" id="-46" lat="29.87777524947372498331787938" lon="-90.11127955811465994884201791"/>
-  <node visible="true" id="-47" lat="29.87777887404553922578998026" lon="-90.11128400788186354475328699"/>
-  <node visible="true" id="-48" lat="29.87784852175410676977662661" lon="-90.11128651730429339750116924"/>
-  <way visible="true" id="-7">
-    <nd ref="-41"/>
-    <nd ref="-42"/>
-    <nd ref="-43"/>
-    <nd ref="-44"/>
-    <nd ref="-45"/>
-    <nd ref="-46"/>
-    <nd ref="-47"/>
-    <nd ref="-48"/>
-    <nd ref="-41"/>
-    <tag k="building" v="yes"/>
-    <tag k="addr:housenumber" v="1740"/>
-    <tag k="addr:street" v="Robin Drive"/>
-    <tag k="addr:city" v="Marrero"/>
-    <tag k="addr:postcode" v="70072"/>
-  </way>
-  <node visible="true" id="-49" lat="29.87255820623430935256692464" lon="-90.11710760662123220754438080"/>
-  <node visible="true" id="-50" lat="29.87256815532014897485169058" lon="-90.11726171682600750045821769"/>
-  <node visible="true" id="-51" lat="29.87265933736173195711671724" lon="-90.11725388816435611261113081"/>
-  <node visible="true" id="-52" lat="29.87264938828474925003320095" lon="-90.11709977795958081969729392"/>
-  <way visible="true" id="-8">
-    <nd ref="-49"/>
-    <nd ref="-50"/>
-    <nd ref="-51"/>
-    <nd ref="-52"/>
-    <nd ref="-49"/>
-    <tag k="building" v="yes"/>
-    <tag k="addr:housenumber" v="6408"/>
-    <tag k="addr:street" v="Rue Louis Phillipe"/>
-    <tag k="addr:city" v="Marrero"/>
-    <tag k="addr:postcode" v="70072"/>
-  </way>
-  <node visible="true" id="-53" lat="29.87269596655798054030128696" lon="-90.11748381121711304331256542"/>
-  <node visible="true" id="-54" lat="29.87261288729737529479280056" lon="-90.11749056099479560089093866"/>
-  <node visible="true" id="-55" lat="29.87261738026330348816372862" lon="-90.11757084117132876599498559"/>
-  <node visible="true" id="-56" lat="29.87259364130897765221561713" lon="-90.11757256500311541458358988"/>
-  <node visible="true" id="-57" lat="29.87259739721067219875294541" lon="-90.11764066016891661092813592"/>
-  <node visible="true" id="-58" lat="29.87270484725372909906582208" lon="-90.11763289745708505051879911"/>
-  <node visible="true" id="-59" lat="29.87269597319170699734058871" lon="-90.11748452855121627180778887"/>
-  <way visible="true" id="-9">
-    <nd ref="-53"/>
-    <nd ref="-54"/>
-    <nd ref="-55"/>
-    <nd ref="-56"/>
-    <nd ref="-57"/>
-    <nd ref="-58"/>
-    <nd ref="-59"/>
-    <nd ref="-53"/>
     <tag k="building" v="yes"/>
     <tag k="addr:housenumber" v="6416"/>
     <tag k="addr:street" v="Rue Louis Phillipe"/>
     <tag k="addr:city" v="Marrero"/>
     <tag k="addr:postcode" v="70072"/>
   </way>
-  <node visible="true" id="-60" lat="29.87253907327508883895461622" lon="-90.12079877950317552404158050"/>
-  <node visible="true" id="-61" lat="29.87253189543253384385934623" lon="-90.12070498943884899745171424"/>
-  <node visible="true" id="-62" lat="29.87250874754207075056910980" lon="-90.12070734543411276717961300"/>
-  <node visible="true" id="-63" lat="29.87250605624490162881556898" lon="-90.12067217931365803451626562"/>
-  <node visible="true" id="-64" lat="29.87242421843908957157509576" lon="-90.12068050877142866283975309"/>
-  <node visible="true" id="-65" lat="29.87243408758865470531418396" lon="-90.12080946495619571123825153"/>
-  <way visible="true" id="-10">
-    <nd ref="-60"/>
-    <nd ref="-61"/>
-    <nd ref="-62"/>
-    <nd ref="-63"/>
-    <nd ref="-64"/>
-    <nd ref="-65"/>
-    <nd ref="-60"/>
+  <node visible="true" id="-34" lat="29.87253907327508883895461622" lon="-90.12079877950317552404158050"/>
+  <node visible="true" id="-35" lat="29.87253189543253384385934623" lon="-90.12070498943884899745171424"/>
+  <node visible="true" id="-36" lat="29.87250874754207075056910980" lon="-90.12070734543411276717961300"/>
+  <node visible="true" id="-37" lat="29.87250605624490162881556898" lon="-90.12067217931365803451626562"/>
+  <node visible="true" id="-38" lat="29.87242421843908957157509576" lon="-90.12068050877142866283975309"/>
+  <node visible="true" id="-39" lat="29.87243408758865470531418396" lon="-90.12080946495619571123825153"/>
+  <way visible="true" id="-6">
+    <nd ref="-34"/>
+    <nd ref="-35"/>
+    <nd ref="-36"/>
+    <nd ref="-37"/>
+    <nd ref="-38"/>
+    <nd ref="-39"/>
+    <nd ref="-34"/>
     <tag k="building" v="yes"/>
     <tag k="addr:housenumber" v="6529"/>
     <tag k="addr:street" v="Rue Louis Phillipe"/>
     <tag k="addr:city" v="Marrero"/>
     <tag k="addr:postcode" v="70072"/>
   </way>
-  <node visible="true" id="-66" lat="29.87251278118752750856401690" lon="-90.12047603352431224266183563"/>
-  <node visible="true" id="-67" lat="29.87250448157025672912823211" lon="-90.12035811809425922547234222"/>
-  <node visible="true" id="-68" lat="29.87237271381448522333812434" lon="-90.12037045260736078944319161"/>
-  <node visible="true" id="-69" lat="29.87238101344296126171684591" lon="-90.12048836803739959577796981"/>
+  <node visible="true" id="-40" lat="29.87251278118752750856401690" lon="-90.12047603352431224266183563"/>
+  <node visible="true" id="-41" lat="29.87250448157025672912823211" lon="-90.12035811809425922547234222"/>
+  <node visible="true" id="-42" lat="29.87237271381448522333812434" lon="-90.12037045260736078944319161"/>
+  <node visible="true" id="-43" lat="29.87238101344296126171684591" lon="-90.12048836803739959577796981"/>
+  <way visible="true" id="-7">
+    <nd ref="-40"/>
+    <nd ref="-41"/>
+    <nd ref="-42"/>
+    <nd ref="-43"/>
+    <nd ref="-40"/>
+    <tag k="building" v="yes"/>
+    <tag k="addr:housenumber" v="6521"/>
+    <tag k="addr:street" v="Rue Louis Phillipe"/>
+    <tag k="addr:city" v="Marrero"/>
+    <tag k="addr:postcode" v="70072"/>
+  </way>
+  <node visible="true" id="-44" lat="29.87608692359943418637158175" lon="-90.11391109877332894484425196"/>
+  <node visible="true" id="-45" lat="29.87601652394154072567289404" lon="-90.11393292731830229058687110"/>
+  <node visible="true" id="-46" lat="29.87605738777911668080378149" lon="-90.11410821097955192726658424"/>
+  <node visible="true" id="-47" lat="29.87612778740825802969993674" lon="-90.11408638243457858152396511"/>
+  <way visible="true" id="-8">
+    <nd ref="-44"/>
+    <nd ref="-45"/>
+    <nd ref="-46"/>
+    <nd ref="-47"/>
+    <nd ref="-44"/>
+    <tag k="building" v="yes"/>
+    <tag k="addr:street" v="Ames Boulevard"/>
+    <tag k="addr:city" v="Marrero"/>
+    <tag k="addr:postcode" v="70072"/>
+  </way>
+  <node visible="true" id="-48" lat="29.87737076519810486274764116" lon="-90.11084942065313896364386892"/>
+  <node visible="true" id="-49" lat="29.87744488597862613232791773" lon="-90.11085225185082947518822039"/>
+  <node visible="true" id="-50" lat="29.87744529782374058868299471" lon="-90.11083791107910201390041038"/>
+  <node visible="true" id="-51" lat="29.87748493960849671680080064" lon="-90.11083942528054535614501219"/>
+  <node visible="true" id="-52" lat="29.87748696419961902392969932" lon="-90.11076892742465815899777226"/>
+  <node visible="true" id="-53" lat="29.87749635816678051014605444" lon="-90.11076928624710546955611790"/>
+  <node visible="true" id="-54" lat="29.87749810912750447755570349" lon="-90.11070831641613665397017030"/>
+  <node visible="true" id="-55" lat="29.87737495260061848512123106" lon="-90.11070361219455548962287139"/>
+  <way visible="true" id="-9">
+    <nd ref="-48"/>
+    <nd ref="-49"/>
+    <nd ref="-50"/>
+    <nd ref="-51"/>
+    <nd ref="-52"/>
+    <nd ref="-53"/>
+    <nd ref="-54"/>
+    <nd ref="-55"/>
+    <nd ref="-48"/>
+    <tag k="building" v="yes"/>
+    <tag k="addr:housenumber" v="1749"/>
+    <tag k="addr:street" v="Robin Drive"/>
+    <tag k="addr:city" v="Marrero"/>
+    <tag k="addr:postcode" v="70072"/>
+  </way>
+  <node visible="true" id="-56" lat="29.87764535774450536109725363" lon="-90.11086164319993940807762556"/>
+  <node visible="true" id="-57" lat="29.87775943916036425207494176" lon="-90.11086509954874657069012756"/>
+  <node visible="true" id="-58" lat="29.87776115179694258472409274" lon="-90.11078991410300886855111457"/>
+  <node visible="true" id="-59" lat="29.87772434714270985978146200" lon="-90.11078879902416360891947988"/>
+  <node visible="true" id="-60" lat="29.87772606510047168626442726" lon="-90.11071338001147523755207658"/>
+  <node visible="true" id="-61" lat="29.87764878834212467495490273" lon="-90.11071103874151333457120927"/>
+  <way visible="true" id="-10">
+    <nd ref="-56"/>
+    <nd ref="-57"/>
+    <nd ref="-58"/>
+    <nd ref="-59"/>
+    <nd ref="-60"/>
+    <nd ref="-61"/>
+    <nd ref="-56"/>
+    <tag k="building" v="yes"/>
+    <tag k="addr:housenumber" v="1741"/>
+    <tag k="addr:street" v="Robin Drive"/>
+    <tag k="addr:city" v="Marrero"/>
+    <tag k="addr:postcode" v="70072"/>
+  </way>
+  <node visible="true" id="-62" lat="29.87785241773885758220785647" lon="-90.11114269627863393452571472"/>
+  <node visible="true" id="-63" lat="29.87775065098621851689131290" lon="-90.11113902960035204614541726"/>
+  <node visible="true" id="-64" lat="29.87774792153276592898691888" lon="-90.11123978778570631220645737"/>
+  <node visible="true" id="-65" lat="29.87773169711686804816963559" lon="-90.11123920321682589928968810"/>
+  <node visible="true" id="-66" lat="29.87773064746966156235430390" lon="-90.11127795109550220331584569"/>
+  <node visible="true" id="-67" lat="29.87777524947372498331787938" lon="-90.11127955811465994884201791"/>
+  <node visible="true" id="-68" lat="29.87777887404553922578998026" lon="-90.11128400788186354475328699"/>
+  <node visible="true" id="-69" lat="29.87784852175410676977662661" lon="-90.11128651730429339750116924"/>
   <way visible="true" id="-11">
+    <nd ref="-62"/>
+    <nd ref="-63"/>
+    <nd ref="-64"/>
+    <nd ref="-65"/>
     <nd ref="-66"/>
     <nd ref="-67"/>
     <nd ref="-68"/>
     <nd ref="-69"/>
-    <nd ref="-66"/>
+    <nd ref="-62"/>
     <tag k="building" v="yes"/>
-    <tag k="addr:housenumber" v="6521"/>
-    <tag k="addr:street" v="Rue Louis Phillipe"/>
+    <tag k="addr:housenumber" v="1740"/>
+    <tag k="addr:street" v="Robin Drive"/>
     <tag k="addr:city" v="Marrero"/>
     <tag k="addr:postcode" v="70072"/>
   </way>
@@ -1095,44 +1097,44 @@
     <tag k="addr:city" v="Marrero"/>
     <tag k="addr:postcode" v="70072"/>
   </way>
-  <node visible="true" id="-327" lat="29.87118237825333721957576927" lon="-90.11091646156427259484189562"/>
-  <node visible="true" id="-328" lat="29.87104941453427997544167738" lon="-90.11089908981924168074328918"/>
-  <node visible="true" id="-329" lat="29.87103261832556455601661582" lon="-90.11107005759257049248844851"/>
-  <node visible="true" id="-330" lat="29.87116522639078297629566805" lon="-90.11108738286840491582552204"/>
-  <node visible="true" id="-331" lat="29.87116562236256456230876211" lon="-90.11108701916963070743804565"/>
+  <node visible="true" id="-327" lat="29.87188496982419394498720067" lon="-90.11056916650794335055252304">
+    <tag k="addr:housenumber" v="1913"/>
+    <tag k="addr:street" v="Chareston Drive"/>
+    <tag k="addr:city" v="Marrero"/>
+    <tag k="addr:postcode" v="70072"/>
+  </node>
+  <node visible="true" id="-328" lat="29.87188829428134084764678846" lon="-90.11051015639165484572004061">
+    <tag k="addr:housenumber" v="1915"/>
+    <tag k="addr:street" v="Chareston Drive"/>
+    <tag k="addr:city" v="Marrero"/>
+    <tag k="addr:postcode" v="70072"/>
+  </node>
+  <node visible="true" id="-329" lat="29.87118237825333721957576927" lon="-90.11091646156427259484189562"/>
+  <node visible="true" id="-330" lat="29.87104941453427997544167738" lon="-90.11089908981924168074328918"/>
+  <node visible="true" id="-331" lat="29.87103261832556455601661582" lon="-90.11107005759257049248844851"/>
+  <node visible="true" id="-332" lat="29.87116522639078297629566805" lon="-90.11108738286840491582552204"/>
+  <node visible="true" id="-333" lat="29.87116562236256456230876211" lon="-90.11108701916963070743804565"/>
   <way visible="true" id="-46">
-    <nd ref="-327"/>
-    <nd ref="-328"/>
     <nd ref="-329"/>
     <nd ref="-330"/>
     <nd ref="-331"/>
-    <nd ref="-327"/>
+    <nd ref="-332"/>
+    <nd ref="-333"/>
+    <nd ref="-329"/>
     <tag k="building" v="yes"/>
     <tag k="addr:housenumber" v="1932"/>
     <tag k="addr:street" v="Chareston Drive"/>
     <tag k="addr:city" v="Marrero"/>
     <tag k="addr:postcode" v="70072"/>
   </way>
-  <node visible="true" id="-332" lat="29.87172149141531463101273403" lon="-90.11102869458183306505816290">
+  <node visible="true" id="-334" lat="29.87172149141531463101273403" lon="-90.11102869458183306505816290">
     <tag k="addr:housenumber" v="1916"/>
     <tag k="addr:street" v="Chareston Drive"/>
     <tag k="addr:city" v="Marrero"/>
     <tag k="addr:postcode" v="70072"/>
   </node>
-  <node visible="true" id="-333" lat="29.87173430896394776823399297" lon="-90.11098565158224005244846921">
+  <node visible="true" id="-335" lat="29.87173430896394776823399297" lon="-90.11098565158224005244846921">
     <tag k="addr:housenumber" v="1918"/>
-    <tag k="addr:street" v="Chareston Drive"/>
-    <tag k="addr:city" v="Marrero"/>
-    <tag k="addr:postcode" v="70072"/>
-  </node>
-  <node visible="true" id="-334" lat="29.87188496982419394498720067" lon="-90.11056916650794335055252304">
-    <tag k="addr:housenumber" v="1913"/>
-    <tag k="addr:street" v="Chareston Drive"/>
-    <tag k="addr:city" v="Marrero"/>
-    <tag k="addr:postcode" v="70072"/>
-  </node>
-  <node visible="true" id="-335" lat="29.87188829428134084764678846" lon="-90.11051015639165484572004061">
-    <tag k="addr:housenumber" v="1915"/>
     <tag k="addr:street" v="Chareston Drive"/>
     <tag k="addr:city" v="Marrero"/>
     <tag k="addr:postcode" v="70072"/>
@@ -1181,14 +1183,12 @@
     <tag k="addr:city" v="Marrero"/>
     <tag k="addr:postcode" v="70072"/>
   </way>
-  <node visible="true" id="-346" lat="29.87219770786611405810617725" lon="-90.11900553641503108792676358"/>
-  <node visible="true" id="-347" lat="29.87220313205079591512003390" lon="-90.11907723989173746304004453"/>
-  <node visible="true" id="-348" lat="29.87222336159024393964500632" lon="-90.11907520470929000566684408"/>
-  <node visible="true" id="-349" lat="29.87222675484442291349296283" lon="-90.11912006088451221330615226"/>
-  <node visible="true" id="-350" lat="29.87232200111380819862461067" lon="-90.11911047867647539533209056"/>
-  <node visible="true" id="-351" lat="29.87232404824469256254815264" lon="-90.11913754017891164949105587"/>
-  <node visible="true" id="-352" lat="29.87243096511529572012477729" lon="-90.11912678384416608423634898"/>
-  <node visible="true" id="-353" lat="29.87242010056699115239098319" lon="-90.11898316268980124732479453"/>
+  <node visible="true" id="-346" lat="29.87225775967948493416770361" lon="-90.11834924083116504789359169"/>
+  <node visible="true" id="-347" lat="29.87226336506974888607146568" lon="-90.11844649250620875591266667"/>
+  <node visible="true" id="-348" lat="29.87236167596960001446859678" lon="-90.11843895662164527493587229"/>
+  <node visible="true" id="-349" lat="29.87235813179332311051439319" lon="-90.11837746627061562776361825"/>
+  <node visible="true" id="-350" lat="29.87237050765433110655067139" lon="-90.11837651761580048059840919"/>
+  <node visible="true" id="-351" lat="29.87236844644602129505983612" lon="-90.11834075629178641975158826"/>
   <way visible="true" id="-48">
     <nd ref="-346"/>
     <nd ref="-347"/>
@@ -1196,31 +1196,33 @@
     <nd ref="-349"/>
     <nd ref="-350"/>
     <nd ref="-351"/>
-    <nd ref="-352"/>
-    <nd ref="-353"/>
     <nd ref="-346"/>
     <tag k="building" v="yes"/>
-    <tag k="addr:housenumber" v="6453"/>
+    <tag k="addr:housenumber" v="6437"/>
     <tag k="addr:street" v="Rue Louis Phillipe"/>
     <tag k="addr:city" v="Marrero"/>
     <tag k="addr:postcode" v="70072"/>
   </way>
-  <node visible="true" id="-354" lat="29.87225775967948493416770361" lon="-90.11834924083116504789359169"/>
-  <node visible="true" id="-355" lat="29.87226336506974888607146568" lon="-90.11844649250620875591266667"/>
-  <node visible="true" id="-356" lat="29.87236167596960001446859678" lon="-90.11843895662164527493587229"/>
-  <node visible="true" id="-357" lat="29.87235813179332311051439319" lon="-90.11837746627061562776361825"/>
-  <node visible="true" id="-358" lat="29.87237050765433110655067139" lon="-90.11837651761580048059840919"/>
-  <node visible="true" id="-359" lat="29.87236844644602129505983612" lon="-90.11834075629178641975158826"/>
+  <node visible="true" id="-352" lat="29.87219770786611405810617725" lon="-90.11900553641503108792676358"/>
+  <node visible="true" id="-353" lat="29.87220313205079591512003390" lon="-90.11907723989173746304004453"/>
+  <node visible="true" id="-354" lat="29.87222336159024393964500632" lon="-90.11907520470929000566684408"/>
+  <node visible="true" id="-355" lat="29.87222675484442291349296283" lon="-90.11912006088451221330615226"/>
+  <node visible="true" id="-356" lat="29.87232200111380819862461067" lon="-90.11911047867647539533209056"/>
+  <node visible="true" id="-357" lat="29.87232404824469256254815264" lon="-90.11913754017891164949105587"/>
+  <node visible="true" id="-358" lat="29.87243096511529572012477729" lon="-90.11912678384416608423634898"/>
+  <node visible="true" id="-359" lat="29.87242010056699115239098319" lon="-90.11898316268980124732479453"/>
   <way visible="true" id="-49">
+    <nd ref="-352"/>
+    <nd ref="-353"/>
     <nd ref="-354"/>
     <nd ref="-355"/>
     <nd ref="-356"/>
     <nd ref="-357"/>
     <nd ref="-358"/>
     <nd ref="-359"/>
-    <nd ref="-354"/>
+    <nd ref="-352"/>
     <tag k="building" v="yes"/>
-    <tag k="addr:housenumber" v="6437"/>
+    <tag k="addr:housenumber" v="6453"/>
     <tag k="addr:street" v="Rue Louis Phillipe"/>
     <tag k="addr:city" v="Marrero"/>
     <tag k="addr:postcode" v="70072"/>

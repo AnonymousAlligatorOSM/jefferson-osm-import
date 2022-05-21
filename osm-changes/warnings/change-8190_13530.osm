@@ -1,8 +1,10 @@
 <?xml version='1.0' encoding='utf8'?>
-<osm version="0.6" generator="AnonymousAlligator's import script">
-  <changeset_tag k="comment" v="Import buildings and addresses in Jefferson Parish, see https://wiki.openstreetmap.org/wiki/Import/Catalogue/Jefferson_Parish_Addresses_and_Buildings"/>
-  <changeset_tag k="source" v="Jefferson Parish Planning Department"/>
-  <changeset_tag k="source_file" v="8190_13530"/>
+<osm version="0.6" generator="AnonymousAlligator's import script" upload-changeset="-1">
+  <changeset id="-1">
+    <tag k="comment" v="Import buildings and addresses in Jefferson Parish, see https://wiki.openstreetmap.org/wiki/Import/Catalogue/Jefferson_Parish_Addresses_and_Buildings"/>
+    <tag k="source" v="Jefferson Parish Planning Department"/>
+    <tag k="source_file" v="change-8190_13530.osm"/>
+  </changeset>
   <node visible="true" id="-1" lat="29.89543117022606466548495519" lon="-90.01142112652060234267992200">
     <tag k="addr:housenumber" v="2425"/>
     <tag k="addr:street" v="Ashley Drive"/>
@@ -326,10 +328,10 @@
     <tag k="addr:postcode" v="70056"/>
     <tag k="addr:unit" v="A-D"/>
   </way>
-  <node visible="true" id="-98" lat="29.89152184785796251276224211" lon="-90.01629834828214882236352423"/>
-  <node visible="true" id="-99" lat="29.89137658741143610541257658" lon="-90.01630725874896654659096384"/>
-  <node visible="true" id="-100" lat="29.89138676880797262924716051" lon="-90.01652808195568411520071095"/>
-  <node visible="true" id="-101" lat="29.89153202923999685935996240" lon="-90.01651917148888060182798654"/>
+  <node visible="true" id="-98" lat="29.89097799925900034168080310" lon="-90.01705727903878084816824412"/>
+  <node visible="true" id="-99" lat="29.89112543921728715190511139" lon="-90.01704816394010322255780920"/>
+  <node visible="true" id="-100" lat="29.89111507769505848841617990" lon="-90.01682518443213609771191841"/>
+  <node visible="true" id="-101" lat="29.89096763772126408298390743" lon="-90.01683429953082793417706853"/>
   <way visible="true" id="-14">
     <nd ref="-98"/>
     <nd ref="-99"/>
@@ -337,16 +339,15 @@
     <nd ref="-101"/>
     <nd ref="-98"/>
     <tag k="building" v="yes"/>
-    <tag k="addr:housenumber" v="909"/>
+    <tag k="addr:housenumber" v="920"/>
     <tag k="addr:street" v="West Monterey Court"/>
     <tag k="addr:city" v="Terrytown"/>
     <tag k="addr:postcode" v="70056"/>
-    <tag k="addr:unit" v="A-D"/>
   </way>
-  <node visible="true" id="-102" lat="29.89097799925900034168080310" lon="-90.01705727903878084816824412"/>
-  <node visible="true" id="-103" lat="29.89112543921728715190511139" lon="-90.01704816394010322255780920"/>
-  <node visible="true" id="-104" lat="29.89111507769505848841617990" lon="-90.01682518443213609771191841"/>
-  <node visible="true" id="-105" lat="29.89096763772126408298390743" lon="-90.01683429953082793417706853"/>
+  <node visible="true" id="-102" lat="29.89046089870775446684092458" lon="-90.01687061204670214920042781"/>
+  <node visible="true" id="-103" lat="29.89047211051223840172497148" lon="-90.01709178958270740622538142"/>
+  <node visible="true" id="-104" lat="29.89061235477239719671160856" lon="-90.01708233152206162230868358"/>
+  <node visible="true" id="-105" lat="29.89060114298383297182226670" lon="-90.01686115398601373271958437"/>
   <way visible="true" id="-15">
     <nd ref="-102"/>
     <nd ref="-103"/>
@@ -354,46 +355,30 @@
     <nd ref="-105"/>
     <nd ref="-102"/>
     <tag k="building" v="yes"/>
-    <tag k="addr:housenumber" v="920"/>
-    <tag k="addr:street" v="West Monterey Court"/>
-    <tag k="addr:city" v="Terrytown"/>
-    <tag k="addr:postcode" v="70056"/>
-  </way>
-  <node visible="true" id="-106" lat="29.89046089870775446684092458" lon="-90.01687061204670214920042781"/>
-  <node visible="true" id="-107" lat="29.89047211051223840172497148" lon="-90.01709178958270740622538142"/>
-  <node visible="true" id="-108" lat="29.89061235477239719671160856" lon="-90.01708233152206162230868358"/>
-  <node visible="true" id="-109" lat="29.89060114298383297182226670" lon="-90.01686115398601373271958437"/>
-  <way visible="true" id="-16">
-    <nd ref="-106"/>
-    <nd ref="-107"/>
-    <nd ref="-108"/>
-    <nd ref="-109"/>
-    <nd ref="-106"/>
-    <tag k="building" v="yes"/>
     <tag k="addr:housenumber" v="932"/>
     <tag k="addr:street" v="West Monterey Court"/>
     <tag k="addr:city" v="Terrytown"/>
     <tag k="addr:postcode" v="70056"/>
     <tag k="addr:unit" v="A-D"/>
   </way>
-  <node visible="true" id="-110" lat="29.88966571995359089441990363" lon="-90.01557350569245841143128928"/>
-  <node visible="true" id="-111" lat="29.88952233604958408363927447" lon="-90.01558484237021673379786080"/>
-  <node visible="true" id="-112" lat="29.88953182538276465152193850" lon="-90.01574451282580469069216633"/>
-  <node visible="true" id="-113" lat="29.88953860438248710806874442" lon="-90.01574397684312600631528767"/>
-  <node visible="true" id="-114" lat="29.88954212225435824734631751" lon="-90.01580316965218742097931681"/>
-  <node visible="true" id="-115" lat="29.88961367635961607902572723" lon="-90.01579751221311198605690151"/>
-  <node visible="true" id="-116" lat="29.88961008784722750419859949" lon="-90.01573713074247962140361778"/>
-  <node visible="true" id="-117" lat="29.88967513863024905163001677" lon="-90.01573198748648962919105543"/>
-  <way visible="true" id="-17">
+  <node visible="true" id="-106" lat="29.88966571995359089441990363" lon="-90.01557350569245841143128928"/>
+  <node visible="true" id="-107" lat="29.88952233604958408363927447" lon="-90.01558484237021673379786080"/>
+  <node visible="true" id="-108" lat="29.88953182538276465152193850" lon="-90.01574451282580469069216633"/>
+  <node visible="true" id="-109" lat="29.88953860438248710806874442" lon="-90.01574397684312600631528767"/>
+  <node visible="true" id="-110" lat="29.88954212225435824734631751" lon="-90.01580316965218742097931681"/>
+  <node visible="true" id="-111" lat="29.88961367635961607902572723" lon="-90.01579751221311198605690151"/>
+  <node visible="true" id="-112" lat="29.88961008784722750419859949" lon="-90.01573713074247962140361778"/>
+  <node visible="true" id="-113" lat="29.88967513863024905163001677" lon="-90.01573198748648962919105543"/>
+  <way visible="true" id="-16">
+    <nd ref="-106"/>
+    <nd ref="-107"/>
+    <nd ref="-108"/>
+    <nd ref="-109"/>
     <nd ref="-110"/>
     <nd ref="-111"/>
     <nd ref="-112"/>
     <nd ref="-113"/>
-    <nd ref="-114"/>
-    <nd ref="-115"/>
-    <nd ref="-116"/>
-    <nd ref="-117"/>
-    <nd ref="-110"/>
+    <nd ref="-106"/>
     <tag k="building" v="yes"/>
     <tag k="addr:housenumber" v="961"/>
     <tag k="addr:street" v="East Monterey Court"/>
@@ -401,24 +386,24 @@
     <tag k="addr:postcode" v="70056"/>
     <tag k="addr:unit" v="A-D"/>
   </way>
-  <node visible="true" id="-118" lat="29.88983820737257346422666160" lon="-90.01555747517259931100852555"/>
-  <node visible="true" id="-119" lat="29.88969509713917815929562494" lon="-90.01556740739924578065256355"/>
-  <node visible="true" id="-120" lat="29.88970365086229108442239522" lon="-90.01573137386252199121372541"/>
-  <node visible="true" id="-121" lat="29.88971153669471192415585392" lon="-90.01573082656533131284959381"/>
-  <node visible="true" id="-122" lat="29.88971440326715267588042479" lon="-90.01578577594973751274665119"/>
-  <node visible="true" id="-123" lat="29.88978723474636822743377707" lon="-90.01578072125430196592787979"/>
-  <node visible="true" id="-124" lat="29.88978423544191898031385790" lon="-90.01572322748594956465240102"/>
-  <node visible="true" id="-125" lat="29.88984662834967309663625201" lon="-90.01571889725191510933655081"/>
-  <way visible="true" id="-18">
+  <node visible="true" id="-114" lat="29.88983820737257346422666160" lon="-90.01555747517259931100852555"/>
+  <node visible="true" id="-115" lat="29.88969509713917815929562494" lon="-90.01556740739924578065256355"/>
+  <node visible="true" id="-116" lat="29.88970365086229108442239522" lon="-90.01573137386252199121372541"/>
+  <node visible="true" id="-117" lat="29.88971153669471192415585392" lon="-90.01573082656533131284959381"/>
+  <node visible="true" id="-118" lat="29.88971440326715267588042479" lon="-90.01578577594973751274665119"/>
+  <node visible="true" id="-119" lat="29.88978723474636822743377707" lon="-90.01578072125430196592787979"/>
+  <node visible="true" id="-120" lat="29.88978423544191898031385790" lon="-90.01572322748594956465240102"/>
+  <node visible="true" id="-121" lat="29.88984662834967309663625201" lon="-90.01571889725191510933655081"/>
+  <way visible="true" id="-17">
+    <nd ref="-114"/>
+    <nd ref="-115"/>
+    <nd ref="-116"/>
+    <nd ref="-117"/>
     <nd ref="-118"/>
     <nd ref="-119"/>
     <nd ref="-120"/>
     <nd ref="-121"/>
-    <nd ref="-122"/>
-    <nd ref="-123"/>
-    <nd ref="-124"/>
-    <nd ref="-125"/>
-    <nd ref="-118"/>
+    <nd ref="-114"/>
     <tag k="building" v="yes"/>
     <tag k="addr:housenumber" v="957"/>
     <tag k="addr:street" v="East Monterey Court"/>
@@ -426,10 +411,27 @@
     <tag k="addr:postcode" v="70056"/>
     <tag k="addr:unit" v="A-D"/>
   </way>
-  <node visible="true" id="-126" lat="29.89017197564465888603990606" lon="-90.01660634510037084510258865"/>
-  <node visible="true" id="-127" lat="29.89015683259790279180379002" lon="-90.01638879781040714078699239"/>
-  <node visible="true" id="-128" lat="29.89001444536111762317887042" lon="-90.01640198371214296457765158"/>
-  <node visible="true" id="-129" lat="29.89002958842973356468064594" lon="-90.01661953100210666889324784"/>
+  <node visible="true" id="-122" lat="29.89017197564465888603990606" lon="-90.01660634510037084510258865"/>
+  <node visible="true" id="-123" lat="29.89015683259790279180379002" lon="-90.01638879781040714078699239"/>
+  <node visible="true" id="-124" lat="29.89001444536111762317887042" lon="-90.01640198371214296457765158"/>
+  <node visible="true" id="-125" lat="29.89002958842973356468064594" lon="-90.01661953100210666889324784"/>
+  <way visible="true" id="-18">
+    <nd ref="-122"/>
+    <nd ref="-123"/>
+    <nd ref="-124"/>
+    <nd ref="-125"/>
+    <nd ref="-122"/>
+    <tag k="building" v="yes"/>
+    <tag k="addr:housenumber" v="941"/>
+    <tag k="addr:street" v="West Monterey Court"/>
+    <tag k="addr:city" v="Terrytown"/>
+    <tag k="addr:postcode" v="70056"/>
+    <tag k="addr:unit" v="A-D"/>
+  </way>
+  <node visible="true" id="-126" lat="29.89152184785796251276224211" lon="-90.01629834828214882236352423"/>
+  <node visible="true" id="-127" lat="29.89137658741143610541257658" lon="-90.01630725874896654659096384"/>
+  <node visible="true" id="-128" lat="29.89138676880797262924716051" lon="-90.01652808195568411520071095"/>
+  <node visible="true" id="-129" lat="29.89153202923999685935996240" lon="-90.01651917148888060182798654"/>
   <way visible="true" id="-19">
     <nd ref="-126"/>
     <nd ref="-127"/>
@@ -437,7 +439,7 @@
     <nd ref="-129"/>
     <nd ref="-126"/>
     <tag k="building" v="yes"/>
-    <tag k="addr:housenumber" v="941"/>
+    <tag k="addr:housenumber" v="909"/>
     <tag k="addr:street" v="West Monterey Court"/>
     <tag k="addr:city" v="Terrytown"/>
     <tag k="addr:postcode" v="70056"/>
@@ -853,10 +855,10 @@
     <tag k="addr:city" v="Terrytown"/>
     <tag k="addr:postcode" v="70056"/>
   </way>
-  <node visible="true" id="-232" lat="29.88945735585340912621177267" lon="-90.01728955908895102311362280"/>
-  <node visible="true" id="-233" lat="29.88964129462294039285552572" lon="-90.01727406654572405386716127"/>
-  <node visible="true" id="-234" lat="29.88963217235968983231941820" lon="-90.01712997858057008215837413"/>
-  <node visible="true" id="-235" lat="29.88944823357344304781690880" lon="-90.01714547112378284055012045"/>
+  <node visible="true" id="-232" lat="29.89282310101416584302569390" lon="-90.01592511546245134468335891"/>
+  <node visible="true" id="-233" lat="29.89280086590477836239188036" lon="-90.01549316266161326893779915"/>
+  <node visible="true" id="-234" lat="29.89269247542101126668967481" lon="-90.01550058595192638222215464"/>
+  <node visible="true" id="-235" lat="29.89271471055485562828835100" lon="-90.01593253875277866882242961"/>
   <way visible="true" id="-38">
     <nd ref="-232"/>
     <nd ref="-233"/>
@@ -864,16 +866,16 @@
     <nd ref="-235"/>
     <nd ref="-232"/>
     <tag k="building" v="yes"/>
-    <tag k="addr:housenumber" v="2900"/>
-    <tag k="addr:street" v="South Monterey Court"/>
+    <tag k="addr:housenumber" v="2916"/>
+    <tag k="addr:street" v="North Monterey Court"/>
     <tag k="addr:city" v="Terrytown"/>
     <tag k="addr:postcode" v="70056"/>
-    <tag k="addr:unit" v="A-D"/>
+    <tag k="addr:unit" v="E1 - E8"/>
   </way>
-  <node visible="true" id="-236" lat="29.89282310101416584302569390" lon="-90.01592511546245134468335891"/>
-  <node visible="true" id="-237" lat="29.89280086590477836239188036" lon="-90.01549316266161326893779915"/>
-  <node visible="true" id="-238" lat="29.89269247542101126668967481" lon="-90.01550058595192638222215464"/>
-  <node visible="true" id="-239" lat="29.89271471055485562828835100" lon="-90.01593253875277866882242961"/>
+  <node visible="true" id="-236" lat="29.88945735585340912621177267" lon="-90.01728955908895102311362280"/>
+  <node visible="true" id="-237" lat="29.88964129462294039285552572" lon="-90.01727406654572405386716127"/>
+  <node visible="true" id="-238" lat="29.88963217235968983231941820" lon="-90.01712997858057008215837413"/>
+  <node visible="true" id="-239" lat="29.88944823357344304781690880" lon="-90.01714547112378284055012045"/>
   <way visible="true" id="-39">
     <nd ref="-236"/>
     <nd ref="-237"/>
@@ -881,11 +883,11 @@
     <nd ref="-239"/>
     <nd ref="-236"/>
     <tag k="building" v="yes"/>
-    <tag k="addr:housenumber" v="2916"/>
-    <tag k="addr:street" v="North Monterey Court"/>
+    <tag k="addr:housenumber" v="2900"/>
+    <tag k="addr:street" v="South Monterey Court"/>
     <tag k="addr:city" v="Terrytown"/>
     <tag k="addr:postcode" v="70056"/>
-    <tag k="addr:unit" v="E1 - E8"/>
+    <tag k="addr:unit" v="A-D"/>
   </way>
   <node visible="true" id="-240" lat="29.89074358853591206752753351" lon="-90.01605313452124335071857786"/>
   <node visible="true" id="-241" lat="29.89068290211032064007667941" lon="-90.01605677517562753564561717"/>
@@ -1124,10 +1126,10 @@
     <tag k="addr:postcode" v="70056"/>
     <tag k="addr:unit" v="130-133"/>
   </way>
-  <node visible="true" id="-318" lat="29.89304710534054265735903755" lon="-90.01564040250383413876988925"/>
-  <node visible="true" id="-319" lat="29.89315644495638224498179625" lon="-90.01563380065913122507481603"/>
-  <node visible="true" id="-320" lat="29.89314897767355816426970705" lon="-90.01546925737054039018403273"/>
-  <node visible="true" id="-321" lat="29.89303963805002695153234527" lon="-90.01547585921524330387910595"/>
+  <node visible="true" id="-318" lat="29.89080745192691423994801880" lon="-90.01706867519177990288881119"/>
+  <node visible="true" id="-319" lat="29.89095425637707847954516183" lon="-90.01705849108418533432995901"/>
+  <node visible="true" id="-320" lat="29.89094264906859876873568282" lon="-90.01683588663232171711570118"/>
+  <node visible="true" id="-321" lat="29.89079584460089833441998053" lon="-90.01684607073993049652926857"/>
   <way visible="true" id="-48">
     <nd ref="-318"/>
     <nd ref="-319"/>
@@ -1135,16 +1137,16 @@
     <nd ref="-321"/>
     <nd ref="-318"/>
     <tag k="building" v="yes"/>
-    <tag k="addr:housenumber" v="2916"/>
-    <tag k="addr:street" v="North Monterey Court"/>
+    <tag k="addr:housenumber" v="924"/>
+    <tag k="addr:street" v="West Monterey Court"/>
     <tag k="addr:city" v="Terrytown"/>
     <tag k="addr:postcode" v="70056"/>
-    <tag k="addr:unit" v="G1 - G3"/>
+    <tag k="addr:unit" v="A-D"/>
   </way>
-  <node visible="true" id="-322" lat="29.88958385962924424461562012" lon="-90.01616256018330375354707940"/>
-  <node visible="true" id="-323" lat="29.88939832523862705215833557" lon="-90.01617514600221170439908747"/>
-  <node visible="true" id="-324" lat="29.88940600217859255849361944" lon="-90.01632570418438206161226844"/>
-  <node visible="true" id="-325" lat="29.88959153655475731170554354" lon="-90.01631311836547411076026037"/>
+  <node visible="true" id="-322" lat="29.89034942254216176138470473" lon="-90.01659771927329245500004617"/>
+  <node visible="true" id="-323" lat="29.89033736290596010576336994" lon="-90.01637475302526070208841702"/>
+  <node visible="true" id="-324" lat="29.89018744767093238579036552" lon="-90.01638554054436269780126167"/>
+  <node visible="true" id="-325" lat="29.89019950732485852995523601" lon="-90.01660850679242287242232123"/>
   <way visible="true" id="-49">
     <nd ref="-322"/>
     <nd ref="-323"/>
@@ -1152,64 +1154,64 @@
     <nd ref="-325"/>
     <nd ref="-322"/>
     <tag k="building" v="yes"/>
+    <tag k="addr:housenumber" v="937"/>
+    <tag k="addr:street" v="West Monterey Court"/>
+    <tag k="addr:city" v="Terrytown"/>
+    <tag k="addr:postcode" v="70056"/>
+    <tag k="addr:unit" v="A-D"/>
+  </way>
+  <node visible="true" id="-326" lat="29.89304710534054265735903755" lon="-90.01564040250383413876988925"/>
+  <node visible="true" id="-327" lat="29.89315644495638224498179625" lon="-90.01563380065913122507481603"/>
+  <node visible="true" id="-328" lat="29.89314897767355816426970705" lon="-90.01546925737054039018403273"/>
+  <node visible="true" id="-329" lat="29.89303963805002695153234527" lon="-90.01547585921524330387910595"/>
+  <way visible="true" id="-50">
+    <nd ref="-326"/>
+    <nd ref="-327"/>
+    <nd ref="-328"/>
+    <nd ref="-329"/>
+    <nd ref="-326"/>
+    <tag k="building" v="yes"/>
+    <tag k="addr:housenumber" v="2916"/>
+    <tag k="addr:street" v="North Monterey Court"/>
+    <tag k="addr:city" v="Terrytown"/>
+    <tag k="addr:postcode" v="70056"/>
+    <tag k="addr:unit" v="G1 - G3"/>
+  </way>
+  <node visible="true" id="-330" lat="29.88958385962924424461562012" lon="-90.01616256018330375354707940"/>
+  <node visible="true" id="-331" lat="29.88939832523862705215833557" lon="-90.01617514600221170439908747"/>
+  <node visible="true" id="-332" lat="29.88940600217859255849361944" lon="-90.01632570418438206161226844"/>
+  <node visible="true" id="-333" lat="29.88959153655475731170554354" lon="-90.01631311836547411076026037"/>
+  <way visible="true" id="-51">
+    <nd ref="-330"/>
+    <nd ref="-331"/>
+    <nd ref="-332"/>
+    <nd ref="-333"/>
+    <nd ref="-330"/>
+    <tag k="building" v="yes"/>
     <tag k="addr:housenumber" v="2920"/>
     <tag k="addr:street" v="South Monterey Court"/>
     <tag k="addr:city" v="Terrytown"/>
     <tag k="addr:postcode" v="70056"/>
     <tag k="addr:unit" v="A-D"/>
   </way>
-  <node visible="true" id="-326" lat="29.89172666039008419147648965" lon="-90.01689573205456440518901218">
+  <node visible="true" id="-334" lat="29.89172666039008419147648965" lon="-90.01689573205456440518901218">
     <tag k="addr:housenumber" v="904"/>
     <tag k="addr:street" v="West Monterey Court"/>
     <tag k="addr:city" v="Terrytown"/>
     <tag k="addr:postcode" v="70056"/>
     <tag k="addr:unit" v="A-D"/>
   </node>
-  <node visible="true" id="-327" lat="29.89167829213778304620063864" lon="-90.01683335926873041898943484">
+  <node visible="true" id="-335" lat="29.89167829213778304620063864" lon="-90.01683335926873041898943484">
     <tag k="addr:housenumber" v="904"/>
     <tag k="addr:street" v="West Monterey Court"/>
     <tag k="addr:city" v="Terrytown"/>
     <tag k="addr:postcode" v="70056"/>
     <tag k="addr:unit" v="D"/>
   </node>
-  <node visible="true" id="-328" lat="29.89159452529981209067955206" lon="-90.01544412478304479918733705"/>
-  <node visible="true" id="-329" lat="29.89146303167357743291177030" lon="-90.01545261875071446411311626"/>
-  <node visible="true" id="-330" lat="29.89147333623972357941056543" lon="-90.01566485275833429113845341"/>
-  <node visible="true" id="-331" lat="29.89160482985265332445123931" lon="-90.01565635879065041535795899"/>
-  <way visible="true" id="-50">
-    <nd ref="-328"/>
-    <nd ref="-329"/>
-    <nd ref="-330"/>
-    <nd ref="-331"/>
-    <nd ref="-328"/>
-    <tag k="building" v="yes"/>
-    <tag k="addr:housenumber" v="917"/>
-    <tag k="addr:street" v="East Monterey Court"/>
-    <tag k="addr:city" v="Terrytown"/>
-    <tag k="addr:postcode" v="70056"/>
-    <tag k="addr:unit" v="A-D"/>
-  </way>
-  <node visible="true" id="-332" lat="29.89198950181961933481034066" lon="-90.01542626173890937479882268"/>
-  <node visible="true" id="-333" lat="29.89200089105659685628779698" lon="-90.01563702151848644916753983"/>
-  <node visible="true" id="-334" lat="29.89213114783204261470928031" lon="-90.01562765662170306768530281"/>
-  <node visible="true" id="-335" lat="29.89211975861022807521294453" lon="-90.01541689684212599331658566"/>
-  <way visible="true" id="-51">
-    <nd ref="-332"/>
-    <nd ref="-333"/>
-    <nd ref="-334"/>
-    <nd ref="-335"/>
-    <nd ref="-332"/>
-    <tag k="building" v="yes"/>
-    <tag k="addr:housenumber" v="905"/>
-    <tag k="addr:street" v="East Monterey Court"/>
-    <tag k="addr:city" v="Terrytown"/>
-    <tag k="addr:postcode" v="70056"/>
-    <tag k="addr:unit" v="A-D"/>
-  </way>
-  <node visible="true" id="-336" lat="29.89080745192691423994801880" lon="-90.01706867519177990288881119"/>
-  <node visible="true" id="-337" lat="29.89095425637707847954516183" lon="-90.01705849108418533432995901"/>
-  <node visible="true" id="-338" lat="29.89094264906859876873568282" lon="-90.01683588663232171711570118"/>
-  <node visible="true" id="-339" lat="29.89079584460089833441998053" lon="-90.01684607073993049652926857"/>
+  <node visible="true" id="-336" lat="29.89159452529981209067955206" lon="-90.01544412478304479918733705"/>
+  <node visible="true" id="-337" lat="29.89146303167357743291177030" lon="-90.01545261875071446411311626"/>
+  <node visible="true" id="-338" lat="29.89147333623972357941056543" lon="-90.01566485275833429113845341"/>
+  <node visible="true" id="-339" lat="29.89160482985265332445123931" lon="-90.01565635879065041535795899"/>
   <way visible="true" id="-52">
     <nd ref="-336"/>
     <nd ref="-337"/>
@@ -1217,16 +1219,16 @@
     <nd ref="-339"/>
     <nd ref="-336"/>
     <tag k="building" v="yes"/>
-    <tag k="addr:housenumber" v="924"/>
-    <tag k="addr:street" v="West Monterey Court"/>
+    <tag k="addr:housenumber" v="917"/>
+    <tag k="addr:street" v="East Monterey Court"/>
     <tag k="addr:city" v="Terrytown"/>
     <tag k="addr:postcode" v="70056"/>
     <tag k="addr:unit" v="A-D"/>
   </way>
-  <node visible="true" id="-340" lat="29.89034942254216176138470473" lon="-90.01659771927329245500004617"/>
-  <node visible="true" id="-341" lat="29.89033736290596010576336994" lon="-90.01637475302526070208841702"/>
-  <node visible="true" id="-342" lat="29.89018744767093238579036552" lon="-90.01638554054436269780126167"/>
-  <node visible="true" id="-343" lat="29.89019950732485852995523601" lon="-90.01660850679242287242232123"/>
+  <node visible="true" id="-340" lat="29.89198950181961933481034066" lon="-90.01542626173890937479882268"/>
+  <node visible="true" id="-341" lat="29.89200089105659685628779698" lon="-90.01563702151848644916753983"/>
+  <node visible="true" id="-342" lat="29.89213114783204261470928031" lon="-90.01562765662170306768530281"/>
+  <node visible="true" id="-343" lat="29.89211975861022807521294453" lon="-90.01541689684212599331658566"/>
   <way visible="true" id="-53">
     <nd ref="-340"/>
     <nd ref="-341"/>
@@ -1234,8 +1236,8 @@
     <nd ref="-343"/>
     <nd ref="-340"/>
     <tag k="building" v="yes"/>
-    <tag k="addr:housenumber" v="937"/>
-    <tag k="addr:street" v="West Monterey Court"/>
+    <tag k="addr:housenumber" v="905"/>
+    <tag k="addr:street" v="East Monterey Court"/>
     <tag k="addr:city" v="Terrytown"/>
     <tag k="addr:postcode" v="70056"/>
     <tag k="addr:unit" v="A-D"/>
@@ -1256,16 +1258,134 @@
     <tag k="addr:city" v="Terrytown"/>
     <tag k="addr:postcode" v="70056"/>
   </way>
-  <node visible="true" id="-348" lat="29.89317315526708540573963546" lon="-90.01527136994765498911874602"/>
-  <node visible="true" id="-349" lat="29.89288891421094618294773682" lon="-90.01529002358601871947030304"/>
-  <node visible="true" id="-350" lat="29.89289497970604969623309444" lon="-90.01541299195831413726409664"/>
-  <node visible="true" id="-351" lat="29.89317922074519984221296909" lon="-90.01539433831992198520310922"/>
+  <node visible="true" id="-348" lat="29.89659761505597757036412077" lon="-90.01247081708821440315659856"/>
+  <node visible="true" id="-349" lat="29.89661493641534306675566768" lon="-90.01247329410590225506894058"/>
+  <node visible="true" id="-350" lat="29.89660610483939251480478561" lon="-90.01231201623167521574941929"/>
+  <node visible="true" id="-351" lat="29.89650570346935865018167533" lon="-90.01231933163914789020054741"/>
+  <node visible="true" id="-352" lat="29.89651433111557210509090510" lon="-90.01247688529187485073634889"/>
   <way visible="true" id="-55">
     <nd ref="-348"/>
     <nd ref="-349"/>
     <nd ref="-350"/>
     <nd ref="-351"/>
+    <nd ref="-352"/>
     <nd ref="-348"/>
+    <tag k="building" v="yes"/>
+    <tag k="addr:housenumber" v="2429"/>
+    <tag k="addr:street" v="Avenue Mont Martre"/>
+    <tag k="addr:city" v="Terrytown"/>
+    <tag k="addr:postcode" v="70056"/>
+  </way>
+  <node visible="true" id="-353" lat="29.89652227225911218511100742" lon="-90.01305257017919814188644523"/>
+  <node visible="true" id="-354" lat="29.89663820972291574662449420" lon="-90.01304950402752069749112707"/>
+  <node visible="true" id="-355" lat="29.89663523023293834057767526" lon="-90.01289960190938188588916091"/>
+  <node visible="true" id="-356" lat="29.89651929276605102359098964" lon="-90.01290266806105933028447907"/>
+  <way visible="true" id="-56">
+    <nd ref="-353"/>
+    <nd ref="-354"/>
+    <nd ref="-355"/>
+    <nd ref="-356"/>
+    <nd ref="-353"/>
+    <tag k="building" v="yes"/>
+    <tag k="addr:housenumber" v="2417"/>
+    <tag k="addr:street" v="Avenue Mont Martre"/>
+    <tag k="addr:city" v="Terrytown"/>
+    <tag k="addr:postcode" v="70056"/>
+  </way>
+  <node visible="true" id="-357" lat="29.89665414791773656588702579" lon="-90.01323695660720147770916810"/>
+  <node visible="true" id="-358" lat="29.89664502337107521157122392" lon="-90.01308510793076322897832142"/>
+  <node visible="true" id="-359" lat="29.89653934711419225322970306" lon="-90.01309355709011583712708671"/>
+  <node visible="true" id="-360" lat="29.89654847167039264377308427" lon="-90.01324540576653987500321819"/>
+  <way visible="true" id="-57">
+    <nd ref="-357"/>
+    <nd ref="-358"/>
+    <nd ref="-359"/>
+    <nd ref="-360"/>
+    <nd ref="-357"/>
+    <tag k="building" v="yes"/>
+    <tag k="addr:housenumber" v="2413"/>
+    <tag k="addr:street" v="Avenue Mont Martre"/>
+    <tag k="addr:city" v="Terrytown"/>
+    <tag k="addr:postcode" v="70056"/>
+  </way>
+  <node visible="true" id="-361" lat="29.89671091776851952204197005" lon="-90.01342878933034796773426933"/>
+  <node visible="true" id="-362" lat="29.89670690743709968728580861" lon="-90.01326740066596698852663394"/>
+  <node visible="true" id="-363" lat="29.89655568760014858753493172" lon="-90.01327240046094857461866923"/>
+  <node visible="true" id="-364" lat="29.89655969793735934558753797" lon="-90.01343378912532955382630462"/>
+  <way visible="true" id="-58">
+    <nd ref="-361"/>
+    <nd ref="-362"/>
+    <nd ref="-363"/>
+    <nd ref="-364"/>
+    <nd ref="-361"/>
+    <tag k="building" v="yes"/>
+    <tag k="addr:housenumber" v="2409"/>
+    <tag k="addr:street" v="Avenue Mont Martre"/>
+    <tag k="addr:city" v="Terrytown"/>
+    <tag k="addr:postcode" v="70056"/>
+  </way>
+  <node visible="true" id="-365" lat="29.89670320545889836694186670" lon="-90.01361810873927993270626757"/>
+  <node visible="true" id="-366" lat="29.89669117497011185946576006" lon="-90.01345747727279444916348439"/>
+  <node visible="true" id="-367" lat="29.89658070830299507747440657" lon="-90.01346848556860891221731436"/>
+  <node visible="true" id="-368" lat="29.89659273880501189069036627" lon="-90.01362911703510860661481274"/>
+  <way visible="true" id="-59">
+    <nd ref="-365"/>
+    <nd ref="-366"/>
+    <nd ref="-367"/>
+    <nd ref="-368"/>
+    <nd ref="-365"/>
+    <tag k="building" v="yes"/>
+    <tag k="addr:housenumber" v="2405"/>
+    <tag k="addr:street" v="Avenue Mont Martre"/>
+    <tag k="addr:city" v="Terrytown"/>
+    <tag k="addr:postcode" v="70056"/>
+  </way>
+  <node visible="true" id="-369" lat="29.89656540460104849898925750" lon="-90.01200518560192165296029998">
+    <tag k="addr:housenumber" v="2433"/>
+    <tag k="addr:street" v="Avenue Mont Martre"/>
+    <tag k="addr:city" v="Terrytown"/>
+    <tag k="addr:postcode" v="70056"/>
+  </node>
+  <node visible="true" id="-370" lat="29.89656560231091830814875721" lon="-90.01200519748213935145031428">
+    <tag k="addr:housenumber" v="2433"/>
+    <tag k="addr:street" v="Rue Saint Honore"/>
+    <tag k="addr:city" v="Terrytown"/>
+    <tag k="addr:postcode" v="70056"/>
+  </node>
+  <node visible="true" id="-371" lat="29.89616197930904206714330940" lon="-90.01407347476502707195322728"/>
+  <node visible="true" id="-372" lat="29.89618594175128762913118408" lon="-90.01406120441804148413211806"/>
+  <node visible="true" id="-373" lat="29.89621750457491344832305913" lon="-90.01411493047756096075318055"/>
+  <node visible="true" id="-374" lat="29.89626339943698241086167400" lon="-90.01407905586324886826332659"/>
+  <node visible="true" id="-375" lat="29.89623670661613630272768205" lon="-90.01403361947281211996596539"/>
+  <node visible="true" id="-376" lat="29.89626418512177608022284403" lon="-90.01401214036062015111383516"/>
+  <node visible="true" id="-377" lat="29.89619589172370339724693622" lon="-90.01389589169232863241632003"/>
+  <node visible="true" id="-378" lat="29.89610115676686064034583978" lon="-90.01396994305126497692981502"/>
+  <way visible="true" id="-60">
+    <nd ref="-371"/>
+    <nd ref="-372"/>
+    <nd ref="-373"/>
+    <nd ref="-374"/>
+    <nd ref="-375"/>
+    <nd ref="-376"/>
+    <nd ref="-377"/>
+    <nd ref="-378"/>
+    <nd ref="-371"/>
+    <tag k="building" v="yes"/>
+    <tag k="addr:housenumber" v="2400"/>
+    <tag k="addr:street" v="Avenue Mont Martre"/>
+    <tag k="addr:city" v="Terrytown"/>
+    <tag k="addr:postcode" v="70056"/>
+  </way>
+  <node visible="true" id="-379" lat="29.89317315526708540573963546" lon="-90.01527136994765498911874602"/>
+  <node visible="true" id="-380" lat="29.89288891421094618294773682" lon="-90.01529002358601871947030304"/>
+  <node visible="true" id="-381" lat="29.89289497970604969623309444" lon="-90.01541299195831413726409664"/>
+  <node visible="true" id="-382" lat="29.89317922074519984221296909" lon="-90.01539433831992198520310922"/>
+  <way visible="true" id="-61">
+    <nd ref="-379"/>
+    <nd ref="-380"/>
+    <nd ref="-381"/>
+    <nd ref="-382"/>
+    <nd ref="-379"/>
     <tag k="building" v="yes"/>
     <tag k="addr:housenumber" v="2916"/>
     <tag k="addr:street" v="North Monterey Court"/>
@@ -1273,194 +1393,84 @@
     <tag k="addr:postcode" v="70056"/>
     <tag k="addr:unit" v="B1 - B6"/>
   </way>
-  <node visible="true" id="-352" lat="29.89622817100684315505532140" lon="-90.01219916553507971457293024"/>
-  <node visible="true" id="-353" lat="29.89622194191756676673321635" lon="-90.01203963729953727579413680"/>
-  <node visible="true" id="-354" lat="29.89606464125401075193622091" lon="-90.01204780969830210324289510"/>
-  <node visible="true" id="-355" lat="29.89607087035330224011886457" lon="-90.01220733793384454202168854"/>
-  <way visible="true" id="-56">
-    <nd ref="-352"/>
-    <nd ref="-353"/>
-    <nd ref="-354"/>
-    <nd ref="-355"/>
-    <nd ref="-352"/>
+  <node visible="true" id="-383" lat="29.89622817100684315505532140" lon="-90.01219916553507971457293024"/>
+  <node visible="true" id="-384" lat="29.89622194191756676673321635" lon="-90.01203963729953727579413680"/>
+  <node visible="true" id="-385" lat="29.89606464125401075193622091" lon="-90.01204780969830210324289510"/>
+  <node visible="true" id="-386" lat="29.89607087035330224011886457" lon="-90.01220733793384454202168854"/>
+  <way visible="true" id="-62">
+    <nd ref="-383"/>
+    <nd ref="-384"/>
+    <nd ref="-385"/>
+    <nd ref="-386"/>
+    <nd ref="-383"/>
     <tag k="building" v="yes"/>
     <tag k="addr:housenumber" v="2438"/>
     <tag k="addr:street" v="Avenue Mont Martre"/>
     <tag k="addr:city" v="Terrytown"/>
     <tag k="addr:postcode" v="70056"/>
   </way>
-  <node visible="true" id="-356" lat="29.89623274227062310615110619" lon="-90.01237535480488816119759576"/>
-  <node visible="true" id="-357" lat="29.89622900508493330562487245" lon="-90.01229953735118272106774384"/>
-  <node visible="true" id="-358" lat="29.89609143337857588562656019" lon="-90.01230438850853943222318776"/>
-  <node visible="true" id="-359" lat="29.89609164722154943660825666" lon="-90.01232567626264824411919108"/>
-  <node visible="true" id="-360" lat="29.89607602791790696983298403" lon="-90.01232588292715774969110498"/>
-  <node visible="true" id="-361" lat="29.89607781432864186399456230" lon="-90.01240653900367760797962546"/>
-  <node visible="true" id="-362" lat="29.89609638532066782090623747" lon="-90.01240853408647524247498950"/>
-  <node visible="true" id="-363" lat="29.89609679046521861778273887" lon="-90.01244886910789944067801116"/>
-  <node visible="true" id="-364" lat="29.89617778420481641887818114" lon="-90.01244443533106220911577111"/>
-  <node visible="true" id="-365" lat="29.89619047522734618382855842" lon="-90.01244426742655946327431593"/>
-  <node visible="true" id="-366" lat="29.89618979998759584759682184" lon="-90.01237704336330125443055294"/>
-  <way visible="true" id="-57">
-    <nd ref="-356"/>
-    <nd ref="-357"/>
-    <nd ref="-358"/>
-    <nd ref="-359"/>
-    <nd ref="-360"/>
-    <nd ref="-361"/>
-    <nd ref="-362"/>
-    <nd ref="-363"/>
-    <nd ref="-364"/>
-    <nd ref="-365"/>
-    <nd ref="-366"/>
-    <nd ref="-356"/>
+  <node visible="true" id="-387" lat="29.89623274227062310615110619" lon="-90.01237535480488816119759576"/>
+  <node visible="true" id="-388" lat="29.89622900508493330562487245" lon="-90.01229953735118272106774384"/>
+  <node visible="true" id="-389" lat="29.89609143337857588562656019" lon="-90.01230438850853943222318776"/>
+  <node visible="true" id="-390" lat="29.89609164722154943660825666" lon="-90.01232567626264824411919108"/>
+  <node visible="true" id="-391" lat="29.89607602791790696983298403" lon="-90.01232588292715774969110498"/>
+  <node visible="true" id="-392" lat="29.89607781432864186399456230" lon="-90.01240653900367760797962546"/>
+  <node visible="true" id="-393" lat="29.89609638532066782090623747" lon="-90.01240853408647524247498950"/>
+  <node visible="true" id="-394" lat="29.89609679046521861778273887" lon="-90.01244886910789944067801116"/>
+  <node visible="true" id="-395" lat="29.89617778420481641887818114" lon="-90.01244443533106220911577111"/>
+  <node visible="true" id="-396" lat="29.89619047522734618382855842" lon="-90.01244426742655946327431593"/>
+  <node visible="true" id="-397" lat="29.89618979998759584759682184" lon="-90.01237704336330125443055294"/>
+  <way visible="true" id="-63">
+    <nd ref="-387"/>
+    <nd ref="-388"/>
+    <nd ref="-389"/>
+    <nd ref="-390"/>
+    <nd ref="-391"/>
+    <nd ref="-392"/>
+    <nd ref="-393"/>
+    <nd ref="-394"/>
+    <nd ref="-395"/>
+    <nd ref="-396"/>
+    <nd ref="-397"/>
+    <nd ref="-387"/>
     <tag k="building" v="yes"/>
     <tag k="addr:housenumber" v="2432"/>
     <tag k="addr:street" v="Avenue Mont Martre"/>
     <tag k="addr:city" v="Terrytown"/>
     <tag k="addr:postcode" v="70056"/>
   </way>
-  <node visible="true" id="-367" lat="29.89612064692961723721964518" lon="-90.01280367538801385762781138"/>
-  <node visible="true" id="-368" lat="29.89612138077118075329963176" lon="-90.01282757237592591081920546"/>
-  <node visible="true" id="-369" lat="29.89610223757616580542162410" lon="-90.01282835455282338443794288"/>
-  <node visible="true" id="-370" lat="29.89610459403592201965693675" lon="-90.01290509084654445359774400"/>
-  <node visible="true" id="-371" lat="29.89612336397561520584531536" lon="-90.01290432392057994093192974"/>
-  <node visible="true" id="-372" lat="29.89612469903919844682604889" lon="-90.01294779924678834959195228"/>
-  <node visible="true" id="-373" lat="29.89621277427059453657420818" lon="-90.01294420055542389036418172"/>
-  <node visible="true" id="-374" lat="29.89621078634964845832655556" lon="-90.01287946537807727054314455"/>
-  <node visible="true" id="-375" lat="29.89625950632554918229288887" lon="-90.01287747471316436076449463"/>
-  <node visible="true" id="-376" lat="29.89625706888669043337358744" lon="-90.01279810128268366042902926"/>
-  <way visible="true" id="-58">
-    <nd ref="-367"/>
-    <nd ref="-368"/>
-    <nd ref="-369"/>
-    <nd ref="-370"/>
-    <nd ref="-371"/>
-    <nd ref="-372"/>
-    <nd ref="-373"/>
-    <nd ref="-374"/>
-    <nd ref="-375"/>
-    <nd ref="-376"/>
-    <nd ref="-367"/>
+  <node visible="true" id="-398" lat="29.89612064692961723721964518" lon="-90.01280367538801385762781138"/>
+  <node visible="true" id="-399" lat="29.89612138077118075329963176" lon="-90.01282757237592591081920546"/>
+  <node visible="true" id="-400" lat="29.89610223757616580542162410" lon="-90.01282835455282338443794288"/>
+  <node visible="true" id="-401" lat="29.89610459403592201965693675" lon="-90.01290509084654445359774400"/>
+  <node visible="true" id="-402" lat="29.89612336397561520584531536" lon="-90.01290432392057994093192974"/>
+  <node visible="true" id="-403" lat="29.89612469903919844682604889" lon="-90.01294779924678834959195228"/>
+  <node visible="true" id="-404" lat="29.89621277427059453657420818" lon="-90.01294420055542389036418172"/>
+  <node visible="true" id="-405" lat="29.89621078634964845832655556" lon="-90.01287946537807727054314455"/>
+  <node visible="true" id="-406" lat="29.89625950632554918229288887" lon="-90.01287747471316436076449463"/>
+  <node visible="true" id="-407" lat="29.89625706888669043337358744" lon="-90.01279810128268366042902926"/>
+  <way visible="true" id="-64">
+    <nd ref="-398"/>
+    <nd ref="-399"/>
+    <nd ref="-400"/>
+    <nd ref="-401"/>
+    <nd ref="-402"/>
+    <nd ref="-403"/>
+    <nd ref="-404"/>
+    <nd ref="-405"/>
+    <nd ref="-406"/>
+    <nd ref="-407"/>
+    <nd ref="-398"/>
     <tag k="building" v="yes"/>
     <tag k="addr:housenumber" v="2420"/>
     <tag k="addr:street" v="Avenue Mont Martre"/>
     <tag k="addr:city" v="Terrytown"/>
     <tag k="addr:postcode" v="70056"/>
   </way>
-  <node visible="true" id="-377" lat="29.89617373534042599203530699" lon="-90.01331931354069126882677665"/>
-  <node visible="true" id="-378" lat="29.89618282631605339361158258" lon="-90.01344810289997155905439286"/>
-  <node visible="true" id="-379" lat="29.89630762548960163371702947" lon="-90.01343638163585580969083821"/>
-  <node visible="true" id="-380" lat="29.89629853452537844304970349" lon="-90.01330759227658973031793721"/>
-  <way visible="true" id="-59">
-    <nd ref="-377"/>
-    <nd ref="-378"/>
-    <nd ref="-379"/>
-    <nd ref="-380"/>
-    <nd ref="-377"/>
-    <tag k="building" v="yes"/>
-    <tag k="addr:housenumber" v="2408"/>
-    <tag k="addr:street" v="Avenue Mont Martre"/>
-    <tag k="addr:city" v="Terrytown"/>
-    <tag k="addr:postcode" v="70056"/>
-  </way>
-  <node visible="true" id="-381" lat="29.89615871926797296964650741" lon="-90.01349096560227280860999599"/>
-  <node visible="true" id="-382" lat="29.89613301402602019152254798" lon="-90.01349438694377624869957799"/>
-  <node visible="true" id="-383" lat="29.89614092070312167948031856" lon="-90.01357342766391411714721471"/>
-  <node visible="true" id="-384" lat="29.89615420651888300085374794" lon="-90.01357165933532655799353961"/>
-  <node visible="true" id="-385" lat="29.89615956934109064491167373" lon="-90.01362526989802859134215396"/>
-  <node visible="true" id="-386" lat="29.89624692020754892496370303" lon="-90.01361364358000116681068903"/>
-  <node visible="true" id="-387" lat="29.89624065013847697969140427" lon="-90.01355096347887752017413732"/>
-  <node visible="true" id="-388" lat="29.89629435448397032359935110" lon="-90.01354381547643868088925956"/>
-  <node visible="true" id="-389" lat="29.89628567143865467414798331" lon="-90.01345701349775652033713413"/>
-  <node visible="true" id="-390" lat="29.89615703563390880503902736" lon="-90.01347413480527848150813952"/>
-  <way visible="true" id="-60">
-    <nd ref="-381"/>
-    <nd ref="-382"/>
-    <nd ref="-383"/>
-    <nd ref="-384"/>
-    <nd ref="-385"/>
-    <nd ref="-386"/>
-    <nd ref="-387"/>
-    <nd ref="-388"/>
-    <nd ref="-389"/>
-    <nd ref="-390"/>
-    <nd ref="-381"/>
-    <tag k="building" v="yes"/>
-    <tag k="addr:housenumber" v="2404"/>
-    <tag k="addr:street" v="Avenue Mont Martre"/>
-    <tag k="addr:city" v="Terrytown"/>
-    <tag k="addr:postcode" v="70056"/>
-  </way>
-  <node visible="true" id="-391" lat="29.89615566073117847167850414" lon="-90.01380785733392997371993260"/>
-  <node visible="true" id="-392" lat="29.89623647151575625002806191" lon="-90.01381777699808139914239291"/>
-  <node visible="true" id="-393" lat="29.89624955276386586433545745" lon="-90.01367598430952909893676406"/>
-  <node visible="true" id="-394" lat="29.89616874199006701928738039" lon="-90.01366606464536346265958855"/>
-  <way visible="true" id="-61">
-    <nd ref="-391"/>
-    <nd ref="-392"/>
-    <nd ref="-393"/>
-    <nd ref="-394"/>
-    <nd ref="-391"/>
-    <tag k="building" v="yes"/>
-    <tag k="addr:housenumber" v="2402"/>
-    <tag k="addr:street" v="Avenue Mont Martre"/>
-    <tag k="addr:city" v="Terrytown"/>
-    <tag k="addr:postcode" v="70056"/>
-  </way>
-  <node visible="true" id="-395" lat="29.89659761505597757036412077" lon="-90.01247081708821440315659856"/>
-  <node visible="true" id="-396" lat="29.89661493641534306675566768" lon="-90.01247329410590225506894058"/>
-  <node visible="true" id="-397" lat="29.89660610483939251480478561" lon="-90.01231201623167521574941929"/>
-  <node visible="true" id="-398" lat="29.89650570346935865018167533" lon="-90.01231933163914789020054741"/>
-  <node visible="true" id="-399" lat="29.89651433111557210509090510" lon="-90.01247688529187485073634889"/>
-  <way visible="true" id="-62">
-    <nd ref="-395"/>
-    <nd ref="-396"/>
-    <nd ref="-397"/>
-    <nd ref="-398"/>
-    <nd ref="-399"/>
-    <nd ref="-395"/>
-    <tag k="building" v="yes"/>
-    <tag k="addr:housenumber" v="2429"/>
-    <tag k="addr:street" v="Avenue Mont Martre"/>
-    <tag k="addr:city" v="Terrytown"/>
-    <tag k="addr:postcode" v="70056"/>
-  </way>
-  <node visible="true" id="-400" lat="29.89652227225911218511100742" lon="-90.01305257017919814188644523"/>
-  <node visible="true" id="-401" lat="29.89663820972291574662449420" lon="-90.01304950402752069749112707"/>
-  <node visible="true" id="-402" lat="29.89663523023293834057767526" lon="-90.01289960190938188588916091"/>
-  <node visible="true" id="-403" lat="29.89651929276605102359098964" lon="-90.01290266806105933028447907"/>
-  <way visible="true" id="-63">
-    <nd ref="-400"/>
-    <nd ref="-401"/>
-    <nd ref="-402"/>
-    <nd ref="-403"/>
-    <nd ref="-400"/>
-    <tag k="building" v="yes"/>
-    <tag k="addr:housenumber" v="2417"/>
-    <tag k="addr:street" v="Avenue Mont Martre"/>
-    <tag k="addr:city" v="Terrytown"/>
-    <tag k="addr:postcode" v="70056"/>
-  </way>
-  <node visible="true" id="-404" lat="29.89665414791773656588702579" lon="-90.01323695660720147770916810"/>
-  <node visible="true" id="-405" lat="29.89664502337107521157122392" lon="-90.01308510793076322897832142"/>
-  <node visible="true" id="-406" lat="29.89653934711419225322970306" lon="-90.01309355709011583712708671"/>
-  <node visible="true" id="-407" lat="29.89654847167039264377308427" lon="-90.01324540576653987500321819"/>
-  <way visible="true" id="-64">
-    <nd ref="-404"/>
-    <nd ref="-405"/>
-    <nd ref="-406"/>
-    <nd ref="-407"/>
-    <nd ref="-404"/>
-    <tag k="building" v="yes"/>
-    <tag k="addr:housenumber" v="2413"/>
-    <tag k="addr:street" v="Avenue Mont Martre"/>
-    <tag k="addr:city" v="Terrytown"/>
-    <tag k="addr:postcode" v="70056"/>
-  </way>
-  <node visible="true" id="-408" lat="29.89671091776851952204197005" lon="-90.01342878933034796773426933"/>
-  <node visible="true" id="-409" lat="29.89670690743709968728580861" lon="-90.01326740066596698852663394"/>
-  <node visible="true" id="-410" lat="29.89655568760014858753493172" lon="-90.01327240046094857461866923"/>
-  <node visible="true" id="-411" lat="29.89655969793735934558753797" lon="-90.01343378912532955382630462"/>
+  <node visible="true" id="-408" lat="29.89617373534042599203530699" lon="-90.01331931354069126882677665"/>
+  <node visible="true" id="-409" lat="29.89618282631605339361158258" lon="-90.01344810289997155905439286"/>
+  <node visible="true" id="-410" lat="29.89630762548960163371702947" lon="-90.01343638163585580969083821"/>
+  <node visible="true" id="-411" lat="29.89629853452537844304970349" lon="-90.01330759227658973031793721"/>
   <way visible="true" id="-65">
     <nd ref="-408"/>
     <nd ref="-409"/>
@@ -1468,59 +1478,51 @@
     <nd ref="-411"/>
     <nd ref="-408"/>
     <tag k="building" v="yes"/>
-    <tag k="addr:housenumber" v="2409"/>
+    <tag k="addr:housenumber" v="2408"/>
     <tag k="addr:street" v="Avenue Mont Martre"/>
     <tag k="addr:city" v="Terrytown"/>
     <tag k="addr:postcode" v="70056"/>
   </way>
-  <node visible="true" id="-412" lat="29.89670320545889836694186670" lon="-90.01361810873927993270626757"/>
-  <node visible="true" id="-413" lat="29.89669117497011185946576006" lon="-90.01345747727279444916348439"/>
-  <node visible="true" id="-414" lat="29.89658070830299507747440657" lon="-90.01346848556860891221731436"/>
-  <node visible="true" id="-415" lat="29.89659273880501189069036627" lon="-90.01362911703510860661481274"/>
+  <node visible="true" id="-412" lat="29.89615871926797296964650741" lon="-90.01349096560227280860999599"/>
+  <node visible="true" id="-413" lat="29.89613301402602019152254798" lon="-90.01349438694377624869957799"/>
+  <node visible="true" id="-414" lat="29.89614092070312167948031856" lon="-90.01357342766391411714721471"/>
+  <node visible="true" id="-415" lat="29.89615420651888300085374794" lon="-90.01357165933532655799353961"/>
+  <node visible="true" id="-416" lat="29.89615956934109064491167373" lon="-90.01362526989802859134215396"/>
+  <node visible="true" id="-417" lat="29.89624692020754892496370303" lon="-90.01361364358000116681068903"/>
+  <node visible="true" id="-418" lat="29.89624065013847697969140427" lon="-90.01355096347887752017413732"/>
+  <node visible="true" id="-419" lat="29.89629435448397032359935110" lon="-90.01354381547643868088925956"/>
+  <node visible="true" id="-420" lat="29.89628567143865467414798331" lon="-90.01345701349775652033713413"/>
+  <node visible="true" id="-421" lat="29.89615703563390880503902736" lon="-90.01347413480527848150813952"/>
   <way visible="true" id="-66">
     <nd ref="-412"/>
     <nd ref="-413"/>
     <nd ref="-414"/>
     <nd ref="-415"/>
-    <nd ref="-412"/>
-    <tag k="building" v="yes"/>
-    <tag k="addr:housenumber" v="2405"/>
-    <tag k="addr:street" v="Avenue Mont Martre"/>
-    <tag k="addr:city" v="Terrytown"/>
-    <tag k="addr:postcode" v="70056"/>
-  </way>
-  <node visible="true" id="-416" lat="29.89656540460104849898925750" lon="-90.01200518560192165296029998">
-    <tag k="addr:housenumber" v="2433"/>
-    <tag k="addr:street" v="Avenue Mont Martre"/>
-    <tag k="addr:city" v="Terrytown"/>
-    <tag k="addr:postcode" v="70056"/>
-  </node>
-  <node visible="true" id="-417" lat="29.89656560231091830814875721" lon="-90.01200519748213935145031428">
-    <tag k="addr:housenumber" v="2433"/>
-    <tag k="addr:street" v="Rue Saint Honore"/>
-    <tag k="addr:city" v="Terrytown"/>
-    <tag k="addr:postcode" v="70056"/>
-  </node>
-  <node visible="true" id="-418" lat="29.89616197930904206714330940" lon="-90.01407347476502707195322728"/>
-  <node visible="true" id="-419" lat="29.89618594175128762913118408" lon="-90.01406120441804148413211806"/>
-  <node visible="true" id="-420" lat="29.89621750457491344832305913" lon="-90.01411493047756096075318055"/>
-  <node visible="true" id="-421" lat="29.89626339943698241086167400" lon="-90.01407905586324886826332659"/>
-  <node visible="true" id="-422" lat="29.89623670661613630272768205" lon="-90.01403361947281211996596539"/>
-  <node visible="true" id="-423" lat="29.89626418512177608022284403" lon="-90.01401214036062015111383516"/>
-  <node visible="true" id="-424" lat="29.89619589172370339724693622" lon="-90.01389589169232863241632003"/>
-  <node visible="true" id="-425" lat="29.89610115676686064034583978" lon="-90.01396994305126497692981502"/>
-  <way visible="true" id="-67">
+    <nd ref="-416"/>
+    <nd ref="-417"/>
     <nd ref="-418"/>
     <nd ref="-419"/>
     <nd ref="-420"/>
     <nd ref="-421"/>
+    <nd ref="-412"/>
+    <tag k="building" v="yes"/>
+    <tag k="addr:housenumber" v="2404"/>
+    <tag k="addr:street" v="Avenue Mont Martre"/>
+    <tag k="addr:city" v="Terrytown"/>
+    <tag k="addr:postcode" v="70056"/>
+  </way>
+  <node visible="true" id="-422" lat="29.89615566073117847167850414" lon="-90.01380785733392997371993260"/>
+  <node visible="true" id="-423" lat="29.89623647151575625002806191" lon="-90.01381777699808139914239291"/>
+  <node visible="true" id="-424" lat="29.89624955276386586433545745" lon="-90.01367598430952909893676406"/>
+  <node visible="true" id="-425" lat="29.89616874199006701928738039" lon="-90.01366606464536346265958855"/>
+  <way visible="true" id="-67">
     <nd ref="-422"/>
     <nd ref="-423"/>
     <nd ref="-424"/>
     <nd ref="-425"/>
-    <nd ref="-418"/>
+    <nd ref="-422"/>
     <tag k="building" v="yes"/>
-    <tag k="addr:housenumber" v="2400"/>
+    <tag k="addr:housenumber" v="2402"/>
     <tag k="addr:street" v="Avenue Mont Martre"/>
     <tag k="addr:city" v="Terrytown"/>
     <tag k="addr:postcode" v="70056"/>
@@ -1555,48 +1557,48 @@
     <tag k="addr:city" v="Terrytown"/>
     <tag k="addr:postcode" v="70056"/>
   </node>
-  <node visible="true" id="-432" lat="29.89742997159254755956681038" lon="-90.01314452665695853283978067"/>
-  <node visible="true" id="-433" lat="29.89742078098924693563276378" lon="-90.01300258736198145470552845"/>
-  <node visible="true" id="-434" lat="29.89731179262484417336054321" lon="-90.01301197732873049517365871"/>
-  <node visible="true" id="-435" lat="29.89732098323796449790279439" lon="-90.01315391662372178416262614"/>
+  <node visible="true" id="-432" lat="29.89706347342778158804321720" lon="-90.01344981488423968585266266"/>
+  <node visible="true" id="-433" lat="29.89692865466772886406943144" lon="-90.01346065096571180674800416"/>
+  <node visible="true" id="-434" lat="29.89693375397804331328188709" lon="-90.01354506764941731944418279"/>
+  <node visible="true" id="-435" lat="29.89683648133541993274775450" lon="-90.01355288594641024246811867"/>
+  <node visible="true" id="-436" lat="29.89684222616619280188388075" lon="-90.01364798882860895901103504"/>
+  <node visible="true" id="-437" lat="29.89707431754835553761040501" lon="-90.01362933445015812594647286"/>
   <way visible="true" id="-69">
     <nd ref="-432"/>
     <nd ref="-433"/>
     <nd ref="-434"/>
     <nd ref="-435"/>
+    <nd ref="-436"/>
+    <nd ref="-437"/>
     <nd ref="-432"/>
+    <tag k="building" v="yes"/>
+    <tag k="addr:housenumber" v="2400"/>
+    <tag k="addr:street" v="Rue Saint Honore"/>
+    <tag k="addr:city" v="Terrytown"/>
+    <tag k="addr:postcode" v="70056"/>
+  </way>
+  <node visible="true" id="-438" lat="29.89742997159254755956681038" lon="-90.01314452665695853283978067"/>
+  <node visible="true" id="-439" lat="29.89742078098924693563276378" lon="-90.01300258736198145470552845"/>
+  <node visible="true" id="-440" lat="29.89731179262484417336054321" lon="-90.01301197732873049517365871"/>
+  <node visible="true" id="-441" lat="29.89732098323796449790279439" lon="-90.01315391662372178416262614"/>
+  <way visible="true" id="-70">
+    <nd ref="-438"/>
+    <nd ref="-439"/>
+    <nd ref="-440"/>
+    <nd ref="-441"/>
+    <nd ref="-438"/>
     <tag k="building" v="yes"/>
     <tag k="addr:housenumber" v="2409"/>
     <tag k="addr:street" v="Rue Saint Honore"/>
     <tag k="addr:city" v="Terrytown"/>
     <tag k="addr:postcode" v="70056"/>
   </way>
-  <node visible="true" id="-436" lat="29.89613391735653991077015235" lon="-90.01256338271892332159040961"/>
-  <node visible="true" id="-437" lat="29.89614016745574787137229578" lon="-90.01275045396707241707190406"/>
-  <node visible="true" id="-438" lat="29.89624127804244935191491095" lon="-90.01274595918839338537509320"/>
-  <node visible="true" id="-439" lat="29.89623725122052633196290117" lon="-90.01262543256173387362650828"/>
-  <node visible="true" id="-440" lat="29.89621797924044344085814373" lon="-90.01262628928030551378469681"/>
-  <node visible="true" id="-441" lat="29.89621575596906311034217651" lon="-90.01255974465881593005178729"/>
-  <way visible="true" id="-70">
-    <nd ref="-436"/>
-    <nd ref="-437"/>
-    <nd ref="-438"/>
-    <nd ref="-439"/>
-    <nd ref="-440"/>
-    <nd ref="-441"/>
-    <nd ref="-436"/>
-    <tag k="building" v="yes"/>
-    <tag k="addr:housenumber" v="2426"/>
-    <tag k="addr:street" v="Avenue Mont Martre"/>
-    <tag k="addr:city" v="Terrytown"/>
-    <tag k="addr:postcode" v="70056"/>
-  </way>
-  <node visible="true" id="-442" lat="29.89706347342778158804321720" lon="-90.01344981488423968585266266"/>
-  <node visible="true" id="-443" lat="29.89692865466772886406943144" lon="-90.01346065096571180674800416"/>
-  <node visible="true" id="-444" lat="29.89693375397804331328188709" lon="-90.01354506764941731944418279"/>
-  <node visible="true" id="-445" lat="29.89683648133541993274775450" lon="-90.01355288594641024246811867"/>
-  <node visible="true" id="-446" lat="29.89684222616619280188388075" lon="-90.01364798882860895901103504"/>
-  <node visible="true" id="-447" lat="29.89707431754835553761040501" lon="-90.01362933445015812594647286"/>
+  <node visible="true" id="-442" lat="29.89613391735653991077015235" lon="-90.01256338271892332159040961"/>
+  <node visible="true" id="-443" lat="29.89614016745574787137229578" lon="-90.01275045396707241707190406"/>
+  <node visible="true" id="-444" lat="29.89624127804244935191491095" lon="-90.01274595918839338537509320"/>
+  <node visible="true" id="-445" lat="29.89623725122052633196290117" lon="-90.01262543256173387362650828"/>
+  <node visible="true" id="-446" lat="29.89621797924044344085814373" lon="-90.01262628928030551378469681"/>
+  <node visible="true" id="-447" lat="29.89621575596906311034217651" lon="-90.01255974465881593005178729"/>
   <way visible="true" id="-71">
     <nd ref="-442"/>
     <nd ref="-443"/>
@@ -1606,8 +1608,8 @@
     <nd ref="-447"/>
     <nd ref="-442"/>
     <tag k="building" v="yes"/>
-    <tag k="addr:housenumber" v="2400"/>
-    <tag k="addr:street" v="Rue Saint Honore"/>
+    <tag k="addr:housenumber" v="2426"/>
+    <tag k="addr:street" v="Avenue Mont Martre"/>
     <tag k="addr:city" v="Terrytown"/>
     <tag k="addr:postcode" v="70056"/>
   </way>
@@ -1985,12 +1987,16 @@
     <tag k="addr:city" v="Terrytown"/>
     <tag k="addr:postcode" v="70056"/>
   </way>
-  <node visible="true" id="-563" lat="29.89339094961312781606466160" lon="-90.01799069385809559662448009"/>
-  <node visible="true" id="-564" lat="29.89322151739000332781870384" lon="-90.01800188697744431465253001"/>
-  <node visible="true" id="-565" lat="29.89322523852234780861181207" lon="-90.01807682919825026601756690"/>
-  <node visible="true" id="-566" lat="29.89324586151462881389306858" lon="-90.01807546679241056608589133"/>
-  <node visible="true" id="-567" lat="29.89324768398957488102496427" lon="-90.01811217076706839179678354"/>
-  <node visible="true" id="-568" lat="29.89339649321180658603225311" lon="-90.01810234005357358455512440"/>
+  <node visible="true" id="-563" lat="29.89322740282847590265191684" lon="-90.01796102117720010937773623"/>
+  <node visible="true" id="-564" lat="29.89329326378750550929908059" lon="-90.01795616802645838561147684"/>
+  <node visible="true" id="-565" lat="29.89329298150860125815597712" lon="-90.01795112908320106726023369"/>
+  <node visible="true" id="-566" lat="29.89336707474943821694068902" lon="-90.01794566941111952473875135"/>
+  <node visible="true" id="-567" lat="29.89336337534144405481129070" lon="-90.01787953290281052431964781"/>
+  <node visible="true" id="-568" lat="29.89326458434328515068045817" lon="-90.01788681114850021458551055"/>
+  <node visible="true" id="-569" lat="29.89325086327442093647732690" lon="-90.01788782236123154234519461"/>
+  <node visible="true" id="-570" lat="29.89325235991499241094970785" lon="-90.01791459293957586851320229"/>
+  <node visible="true" id="-571" lat="29.89323863973766748358684708" lon="-90.01791560310117290555353975"/>
+  <node visible="true" id="-572" lat="29.89322491866856879028091498" lon="-90.01791661430974045288166963"/>
   <way visible="true" id="-90">
     <nd ref="-563"/>
     <nd ref="-564"/>
@@ -1998,69 +2004,65 @@
     <nd ref="-566"/>
     <nd ref="-567"/>
     <nd ref="-568"/>
-    <nd ref="-563"/>
-    <tag k="building" v="yes"/>
-    <tag k="addr:housenumber" v="2313"/>
-    <tag k="addr:street" v="North Village Court"/>
-    <tag k="addr:city" v="Terrytown"/>
-    <tag k="addr:postcode" v="70056"/>
-  </way>
-  <node visible="true" id="-569" lat="29.89322740282847590265191684" lon="-90.01796102117720010937773623"/>
-  <node visible="true" id="-570" lat="29.89329326378750550929908059" lon="-90.01795616802645838561147684"/>
-  <node visible="true" id="-571" lat="29.89329298150860125815597712" lon="-90.01795112908320106726023369"/>
-  <node visible="true" id="-572" lat="29.89336707474943821694068902" lon="-90.01794566941111952473875135"/>
-  <node visible="true" id="-573" lat="29.89336337534144405481129070" lon="-90.01787953290281052431964781"/>
-  <node visible="true" id="-574" lat="29.89326458434328515068045817" lon="-90.01788681114850021458551055"/>
-  <node visible="true" id="-575" lat="29.89325086327442093647732690" lon="-90.01788782236123154234519461"/>
-  <node visible="true" id="-576" lat="29.89325235991499241094970785" lon="-90.01791459293957586851320229"/>
-  <node visible="true" id="-577" lat="29.89323863973766748358684708" lon="-90.01791560310117290555353975"/>
-  <node visible="true" id="-578" lat="29.89322491866856879028091498" lon="-90.01791661430974045288166963"/>
-  <way visible="true" id="-91">
     <nd ref="-569"/>
     <nd ref="-570"/>
     <nd ref="-571"/>
     <nd ref="-572"/>
-    <nd ref="-573"/>
-    <nd ref="-574"/>
-    <nd ref="-575"/>
-    <nd ref="-576"/>
-    <nd ref="-577"/>
-    <nd ref="-578"/>
-    <nd ref="-569"/>
+    <nd ref="-563"/>
     <tag k="building" v="yes"/>
     <tag k="addr:housenumber" v="2317"/>
     <tag k="addr:street" v="North Village Court"/>
     <tag k="addr:city" v="Terrytown"/>
     <tag k="addr:postcode" v="70056"/>
   </way>
-  <node visible="true" id="-579" lat="29.89321728077591444616700755" lon="-90.01776332992362483764736680"/>
-  <node visible="true" id="-580" lat="29.89322278145298383833505795" lon="-90.01776292296774784063018160"/>
-  <node visible="true" id="-581" lat="29.89322313170974609874974703" lon="-90.01776922182027362850931240"/>
-  <node visible="true" id="-582" lat="29.89321765177140122204946238" lon="-90.01776962724184727449028287"/>
-  <node visible="true" id="-583" lat="29.89321975437466960556776030" lon="-90.01780743946996210524957860"/>
-  <node visible="true" id="-584" lat="29.89335421580392448959173635" lon="-90.01779749162059829359350260"/>
-  <node visible="true" id="-585" lat="29.89335148498516758763798862" lon="-90.01774838179439086616184795"/>
-  <node visible="true" id="-586" lat="29.89336244605715009470259247" lon="-90.01774757086171518949413439"/>
-  <node visible="true" id="-587" lat="29.89335999423612477698952716" lon="-90.01770347840013641871337313"/>
-  <node visible="true" id="-588" lat="29.89334900663683924904034939" lon="-90.01770429129538797496934421"/>
-  <node visible="true" id="-589" lat="29.89334788461623659827637312" lon="-90.01768411337926067972148303"/>
-  <node visible="true" id="-590" lat="29.89321342896685962386982283" lon="-90.01769406080039459538966184"/>
-  <way visible="true" id="-92">
+  <node visible="true" id="-573" lat="29.89321728077591444616700755" lon="-90.01776332992362483764736680"/>
+  <node visible="true" id="-574" lat="29.89322278145298383833505795" lon="-90.01776292296774784063018160"/>
+  <node visible="true" id="-575" lat="29.89322313170974609874974703" lon="-90.01776922182027362850931240"/>
+  <node visible="true" id="-576" lat="29.89321765177140122204946238" lon="-90.01776962724184727449028287"/>
+  <node visible="true" id="-577" lat="29.89321975437466960556776030" lon="-90.01780743946996210524957860"/>
+  <node visible="true" id="-578" lat="29.89335421580392448959173635" lon="-90.01779749162059829359350260"/>
+  <node visible="true" id="-579" lat="29.89335148498516758763798862" lon="-90.01774838179439086616184795"/>
+  <node visible="true" id="-580" lat="29.89336244605715009470259247" lon="-90.01774757086171518949413439"/>
+  <node visible="true" id="-581" lat="29.89335999423612477698952716" lon="-90.01770347840013641871337313"/>
+  <node visible="true" id="-582" lat="29.89334900663683924904034939" lon="-90.01770429129538797496934421"/>
+  <node visible="true" id="-583" lat="29.89334788461623659827637312" lon="-90.01768411337926067972148303"/>
+  <node visible="true" id="-584" lat="29.89321342896685962386982283" lon="-90.01769406080039459538966184"/>
+  <way visible="true" id="-91">
+    <nd ref="-573"/>
+    <nd ref="-574"/>
+    <nd ref="-575"/>
+    <nd ref="-576"/>
+    <nd ref="-577"/>
+    <nd ref="-578"/>
     <nd ref="-579"/>
     <nd ref="-580"/>
     <nd ref="-581"/>
     <nd ref="-582"/>
     <nd ref="-583"/>
     <nd ref="-584"/>
+    <nd ref="-573"/>
+    <tag k="building" v="yes"/>
+    <tag k="addr:housenumber" v="2321"/>
+    <tag k="addr:street" v="North Village Court"/>
+    <tag k="addr:city" v="Terrytown"/>
+    <tag k="addr:postcode" v="70056"/>
+  </way>
+  <node visible="true" id="-585" lat="29.89339094961312781606466160" lon="-90.01799069385809559662448009"/>
+  <node visible="true" id="-586" lat="29.89322151739000332781870384" lon="-90.01800188697744431465253001"/>
+  <node visible="true" id="-587" lat="29.89322523852234780861181207" lon="-90.01807682919825026601756690"/>
+  <node visible="true" id="-588" lat="29.89324586151462881389306858" lon="-90.01807546679241056608589133"/>
+  <node visible="true" id="-589" lat="29.89324768398957488102496427" lon="-90.01811217076706839179678354"/>
+  <node visible="true" id="-590" lat="29.89339649321180658603225311" lon="-90.01810234005357358455512440"/>
+  <way visible="true" id="-92">
     <nd ref="-585"/>
     <nd ref="-586"/>
     <nd ref="-587"/>
     <nd ref="-588"/>
     <nd ref="-589"/>
     <nd ref="-590"/>
-    <nd ref="-579"/>
+    <nd ref="-585"/>
     <tag k="building" v="yes"/>
-    <tag k="addr:housenumber" v="2321"/>
+    <tag k="addr:housenumber" v="2313"/>
     <tag k="addr:street" v="North Village Court"/>
     <tag k="addr:city" v="Terrytown"/>
     <tag k="addr:postcode" v="70056"/>

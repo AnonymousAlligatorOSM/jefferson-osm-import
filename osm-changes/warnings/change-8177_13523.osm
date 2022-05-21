@@ -1,8 +1,10 @@
 <?xml version='1.0' encoding='utf8'?>
-<osm version="0.6" generator="AnonymousAlligator's import script">
-  <changeset_tag k="comment" v="Import buildings and addresses in Jefferson Parish, see https://wiki.openstreetmap.org/wiki/Import/Catalogue/Jefferson_Parish_Addresses_and_Buildings"/>
-  <changeset_tag k="source" v="Jefferson Parish Planning Department"/>
-  <changeset_tag k="source_file" v="8177_13523"/>
+<osm version="0.6" generator="AnonymousAlligator's import script" upload-changeset="-1">
+  <changeset id="-1">
+    <tag k="comment" v="Import buildings and addresses in Jefferson Parish, see https://wiki.openstreetmap.org/wiki/Import/Catalogue/Jefferson_Parish_Addresses_and_Buildings"/>
+    <tag k="source" v="Jefferson Parish Planning Department"/>
+    <tag k="source_file" v="change-8177_13523.osm"/>
+  </changeset>
   <node visible="true" id="-1" lat="29.96142301538890606593668053" lon="-90.15767909819258818515663734"/>
   <node visible="true" id="-2" lat="29.96142007441223498176441353" lon="-90.15758294477760159679746721"/>
   <node visible="true" id="-3" lat="29.96137306705439939946700179" lon="-90.15758486032946450450253906"/>
@@ -109,88 +111,86 @@
     <tag k="addr:city" v="Jefferson"/>
     <tag k="addr:postcode" v="70121"/>
   </node>
-  <node visible="true" id="-28" lat="29.96158427361122633669765492" lon="-90.15831972922946135895472253">
+  <node visible="true" id="-28" lat="29.96177720851022385772921552" lon="-90.15739218642978869411308551"/>
+  <node visible="true" id="-29" lat="29.96186748925450871183784329" lon="-90.15738791574663935080025112"/>
+  <node visible="true" id="-30" lat="29.96186262436375713491543138" lon="-90.15725089828822547133313492"/>
+  <node visible="true" id="-31" lat="29.96185201438136047613625124" lon="-90.15725140018805916497512953"/>
+  <node visible="true" id="-32" lat="29.96185183686805686420484562" lon="-90.15724640061375794175546616"/>
+  <node visible="true" id="-33" lat="29.96182685884640406470680318" lon="-90.15724758218615875193790998"/>
+  <node visible="true" id="-34" lat="29.96182618523110008368348645" lon="-90.15722861011911959394637961"/>
+  <node visible="true" id="-35" lat="29.96177149248592286312486976" lon="-90.15723119733009127685363637"/>
+  <way visible="true" id="-4">
+    <nd ref="-28"/>
+    <nd ref="-29"/>
+    <nd ref="-30"/>
+    <nd ref="-31"/>
+    <nd ref="-32"/>
+    <nd ref="-33"/>
+    <nd ref="-34"/>
+    <nd ref="-35"/>
+    <nd ref="-28"/>
+    <tag k="building" v="yes"/>
+    <tag k="addr:housenumber" v="308"/>
+    <tag k="addr:street" v="South Causeway Boulevard"/>
+    <tag k="addr:city" v="Jefferson"/>
+    <tag k="addr:postcode" v="70121"/>
+  </way>
+  <node visible="true" id="-36" lat="29.96158427361122633669765492" lon="-90.15831972922946135895472253">
     <tag k="addr:housenumber" v="3117"/>
     <tag k="addr:street" v="Arlington Street"/>
     <tag k="addr:city" v="Jefferson"/>
     <tag k="addr:postcode" v="70121"/>
   </node>
-  <node visible="true" id="-29" lat="29.96159951672702703717732220" lon="-90.15834257813305896434030728">
+  <node visible="true" id="-37" lat="29.96159951672702703717732220" lon="-90.15834257813305896434030728">
     <tag k="addr:housenumber" v="3117"/>
     <tag k="addr:street" v="Arlington Street"/>
     <tag k="addr:city" v="Jefferson"/>
     <tag k="addr:postcode" v="70121"/>
     <tag k="addr:unit" v="C"/>
   </node>
-  <node visible="true" id="-30" lat="29.96157879477902596931926382" lon="-90.15834775734424511028919369">
+  <node visible="true" id="-38" lat="29.96157879477902596931926382" lon="-90.15834775734424511028919369">
     <tag k="addr:housenumber" v="3117"/>
     <tag k="addr:street" v="Arlington Street"/>
     <tag k="addr:city" v="Jefferson"/>
     <tag k="addr:postcode" v="70121"/>
     <tag k="addr:unit" v="B"/>
   </node>
-  <node visible="true" id="-31" lat="29.96130306465923354153346736" lon="-90.15725727125078492463217117">
+  <node visible="true" id="-39" lat="29.96130306465923354153346736" lon="-90.15725727125078492463217117">
     <tag k="addr:housenumber" v="300"/>
     <tag k="addr:street" v="South Causeway Boulevard"/>
     <tag k="addr:city" v="Jefferson"/>
     <tag k="addr:postcode" v="70121"/>
   </node>
-  <node visible="true" id="-32" lat="29.96136111220612008310126839" lon="-90.15731709592955667176283896">
+  <node visible="true" id="-40" lat="29.96136111220612008310126839" lon="-90.15731709592955667176283896">
     <tag k="addr:housenumber" v="3009"/>
     <tag k="addr:street" v="Arlington Street"/>
     <tag k="addr:city" v="Jefferson"/>
     <tag k="addr:postcode" v="70121"/>
   </node>
-  <node visible="true" id="-33" lat="29.96127259792199737375995028" lon="-90.15575809055242473277758108"/>
-  <node visible="true" id="-34" lat="29.96127505467020668561417551" lon="-90.15584133522982313024840550"/>
-  <node visible="true" id="-35" lat="29.96152970450081909348227782" lon="-90.15583132260024967763456516"/>
-  <node visible="true" id="-36" lat="29.96152724775892650654895988" lon="-90.15574807792285128016374074"/>
-  <way visible="true" id="-4">
-    <nd ref="-33"/>
-    <nd ref="-34"/>
-    <nd ref="-35"/>
-    <nd ref="-36"/>
-    <nd ref="-33"/>
+  <node visible="true" id="-41" lat="29.96127259792199737375995028" lon="-90.15575809055242473277758108"/>
+  <node visible="true" id="-42" lat="29.96127505467020668561417551" lon="-90.15584133522982313024840550"/>
+  <node visible="true" id="-43" lat="29.96152970450081909348227782" lon="-90.15583132260024967763456516"/>
+  <node visible="true" id="-44" lat="29.96152724775892650654895988" lon="-90.15574807792285128016374074"/>
+  <way visible="true" id="-5">
+    <nd ref="-41"/>
+    <nd ref="-42"/>
+    <nd ref="-43"/>
+    <nd ref="-44"/>
+    <nd ref="-41"/>
     <tag k="building" v="yes"/>
     <tag k="addr:housenumber" v="2821"/>
     <tag k="addr:street" v="Arlington Street"/>
     <tag k="addr:city" v="Jefferson"/>
     <tag k="addr:postcode" v="70121"/>
   </way>
-  <node visible="true" id="-37" lat="29.96144231783222622311768646" lon="-90.15592149909278418817848433"/>
-  <node visible="true" id="-38" lat="29.96144069251594999059307156" lon="-90.15587093887685909976426046"/>
-  <node visible="true" id="-39" lat="29.96147469367070925727603026" lon="-90.15586948266620481717836810"/>
-  <node visible="true" id="-40" lat="29.96147387406089634964700963" lon="-90.15584398628398332675715210"/>
-  <node visible="true" id="-41" lat="29.96143919660682186645317415" lon="-90.15584547145934379841492046"/>
-  <node visible="true" id="-42" lat="29.96143912658509123048133915" lon="-90.15584329322778955884132301"/>
-  <node visible="true" id="-43" lat="29.96126360051560055808295147" lon="-90.15585081069777118045749376"/>
-  <node visible="true" id="-44" lat="29.96126611546863571788890113" lon="-90.15592904552748620972124627"/>
-  <way visible="true" id="-5">
-    <nd ref="-37"/>
-    <nd ref="-38"/>
-    <nd ref="-39"/>
-    <nd ref="-40"/>
-    <nd ref="-41"/>
-    <nd ref="-42"/>
-    <nd ref="-43"/>
-    <nd ref="-44"/>
-    <nd ref="-37"/>
-    <tag k="building" v="yes"/>
-    <tag k="addr:housenumber" v="2901"/>
-    <tag k="addr:street" v="Arlington Street"/>
-    <tag k="addr:city" v="Jefferson"/>
-    <tag k="addr:postcode" v="70121"/>
-  </way>
-  <node visible="true" id="-45" lat="29.96126302757337356297284714" lon="-90.15594299057281091336335521"/>
-  <node visible="true" id="-46" lat="29.96126504276951862948408234" lon="-90.15603228240404121152096195"/>
-  <node visible="true" id="-47" lat="29.96133539519886568314177566" lon="-90.15603016704100980405200971"/>
-  <node visible="true" id="-48" lat="29.96133530607779960064362967" lon="-90.15602621815207839972572401"/>
-  <node visible="true" id="-49" lat="29.96146073860315439674195659" lon="-90.15602244663216424669371918"/>
-  <node visible="true" id="-50" lat="29.96145936769912765385015518" lon="-90.15596170280096544047410134"/>
-  <node visible="true" id="-51" lat="29.96148116817400364197965246" lon="-90.15596104730126114645827329"/>
-  <node visible="true" id="-52" lat="29.96148070639373273138517106" lon="-90.15594058613005756797065260"/>
-  <node visible="true" id="-53" lat="29.96145775516729514720282168" lon="-90.15594127623073461563762976"/>
-  <node visible="true" id="-54" lat="29.96145766177981784039729973" lon="-90.15593713829080968480411684"/>
+  <node visible="true" id="-45" lat="29.96144231783222622311768646" lon="-90.15592149909278418817848433"/>
+  <node visible="true" id="-46" lat="29.96144069251594999059307156" lon="-90.15587093887685909976426046"/>
+  <node visible="true" id="-47" lat="29.96147469367070925727603026" lon="-90.15586948266620481717836810"/>
+  <node visible="true" id="-48" lat="29.96147387406089634964700963" lon="-90.15584398628398332675715210"/>
+  <node visible="true" id="-49" lat="29.96143919660682186645317415" lon="-90.15584547145934379841492046"/>
+  <node visible="true" id="-50" lat="29.96143912658509123048133915" lon="-90.15584329322778955884132301"/>
+  <node visible="true" id="-51" lat="29.96126360051560055808295147" lon="-90.15585081069777118045749376"/>
+  <node visible="true" id="-52" lat="29.96126611546863571788890113" lon="-90.15592904552748620972124627"/>
   <way visible="true" id="-6">
     <nd ref="-45"/>
     <nd ref="-46"/>
@@ -200,32 +200,26 @@
     <nd ref="-50"/>
     <nd ref="-51"/>
     <nd ref="-52"/>
-    <nd ref="-53"/>
-    <nd ref="-54"/>
     <nd ref="-45"/>
     <tag k="building" v="yes"/>
-    <tag k="addr:housenumber" v="2903"/>
+    <tag k="addr:housenumber" v="2901"/>
     <tag k="addr:street" v="Arlington Street"/>
     <tag k="addr:city" v="Jefferson"/>
     <tag k="addr:postcode" v="70121"/>
   </way>
-  <node visible="true" id="-55" lat="29.96107294852734881374090037" lon="-90.15692746354530129337945255"/>
-  <node visible="true" id="-56" lat="29.96114019182050114409321395" lon="-90.15692480275130549216555664"/>
-  <node visible="true" id="-57" lat="29.96113839020308589056185156" lon="-90.15686414321862685028463602"/>
-  <node visible="true" id="-58" lat="29.96107033898467975063795166" lon="-90.15686683598188722044142196"/>
-  <node visible="true" id="-59" lat="29.96106836397351003142830450" lon="-90.15680033842608054328593425"/>
-  <node visible="true" id="-60" lat="29.96102417866755729392025387" lon="-90.15680208682240959205955733"/>
-  <node visible="true" id="-61" lat="29.96102383105780475602841761" lon="-90.15679038300199010791402543"/>
-  <node visible="true" id="-62" lat="29.96100133301695223053684458" lon="-90.15679127324089847661525710"/>
-  <node visible="true" id="-63" lat="29.96100169472449081808917981" lon="-90.15680345172982868007238721"/>
-  <node visible="true" id="-64" lat="29.96071274129853634349274216" lon="-90.15681488548888466993957991"/>
-  <node visible="true" id="-65" lat="29.96071310928110875693164417" lon="-90.15682727521503636580746388"/>
-  <node visible="true" id="-66" lat="29.96067872171317603147144837" lon="-90.15682863591365503452834673"/>
-  <node visible="true" id="-67" lat="29.96068019065846499415783910" lon="-90.15687809431919674807431875"/>
-  <node visible="true" id="-68" lat="29.96068426333903644831480051" lon="-90.15687793316531895015941700"/>
-  <node visible="true" id="-69" lat="29.96068812210780762939066335" lon="-90.15700785531774386072356720"/>
-  <node visible="true" id="-70" lat="29.96107488166997612211162050" lon="-90.15699255140947343534207903"/>
+  <node visible="true" id="-53" lat="29.96126302757337356297284714" lon="-90.15594299057281091336335521"/>
+  <node visible="true" id="-54" lat="29.96126504276951862948408234" lon="-90.15603228240404121152096195"/>
+  <node visible="true" id="-55" lat="29.96133539519886568314177566" lon="-90.15603016704100980405200971"/>
+  <node visible="true" id="-56" lat="29.96133530607779960064362967" lon="-90.15602621815207839972572401"/>
+  <node visible="true" id="-57" lat="29.96146073860315439674195659" lon="-90.15602244663216424669371918"/>
+  <node visible="true" id="-58" lat="29.96145936769912765385015518" lon="-90.15596170280096544047410134"/>
+  <node visible="true" id="-59" lat="29.96148116817400364197965246" lon="-90.15596104730126114645827329"/>
+  <node visible="true" id="-60" lat="29.96148070639373273138517106" lon="-90.15594058613005756797065260"/>
+  <node visible="true" id="-61" lat="29.96145775516729514720282168" lon="-90.15594127623073461563762976"/>
+  <node visible="true" id="-62" lat="29.96145766177981784039729973" lon="-90.15593713829080968480411684"/>
   <way visible="true" id="-7">
+    <nd ref="-53"/>
+    <nd ref="-54"/>
     <nd ref="-55"/>
     <nd ref="-56"/>
     <nd ref="-57"/>
@@ -234,6 +228,30 @@
     <nd ref="-60"/>
     <nd ref="-61"/>
     <nd ref="-62"/>
+    <nd ref="-53"/>
+    <tag k="building" v="yes"/>
+    <tag k="addr:housenumber" v="2903"/>
+    <tag k="addr:street" v="Arlington Street"/>
+    <tag k="addr:city" v="Jefferson"/>
+    <tag k="addr:postcode" v="70121"/>
+  </way>
+  <node visible="true" id="-63" lat="29.96107294852734881374090037" lon="-90.15692746354530129337945255"/>
+  <node visible="true" id="-64" lat="29.96114019182050114409321395" lon="-90.15692480275130549216555664"/>
+  <node visible="true" id="-65" lat="29.96113839020308589056185156" lon="-90.15686414321862685028463602"/>
+  <node visible="true" id="-66" lat="29.96107033898467975063795166" lon="-90.15686683598188722044142196"/>
+  <node visible="true" id="-67" lat="29.96106836397351003142830450" lon="-90.15680033842608054328593425"/>
+  <node visible="true" id="-68" lat="29.96102417866755729392025387" lon="-90.15680208682240959205955733"/>
+  <node visible="true" id="-69" lat="29.96102383105780475602841761" lon="-90.15679038300199010791402543"/>
+  <node visible="true" id="-70" lat="29.96100133301695223053684458" lon="-90.15679127324089847661525710"/>
+  <node visible="true" id="-71" lat="29.96100169472449081808917981" lon="-90.15680345172982868007238721"/>
+  <node visible="true" id="-72" lat="29.96071274129853634349274216" lon="-90.15681488548888466993957991"/>
+  <node visible="true" id="-73" lat="29.96071310928110875693164417" lon="-90.15682727521503636580746388"/>
+  <node visible="true" id="-74" lat="29.96067872171317603147144837" lon="-90.15682863591365503452834673"/>
+  <node visible="true" id="-75" lat="29.96068019065846499415783910" lon="-90.15687809431919674807431875"/>
+  <node visible="true" id="-76" lat="29.96068426333903644831480051" lon="-90.15687793316531895015941700"/>
+  <node visible="true" id="-77" lat="29.96068812210780762939066335" lon="-90.15700785531774386072356720"/>
+  <node visible="true" id="-78" lat="29.96107488166997612211162050" lon="-90.15699255140947343534207903"/>
+  <way visible="true" id="-8">
     <nd ref="-63"/>
     <nd ref="-64"/>
     <nd ref="-65"/>
@@ -242,22 +260,6 @@
     <nd ref="-68"/>
     <nd ref="-69"/>
     <nd ref="-70"/>
-    <nd ref="-55"/>
-    <tag k="building" v="yes"/>
-    <tag k="addr:housenumber" v="2920"/>
-    <tag k="addr:street" v="Arlington Street"/>
-    <tag k="addr:city" v="Jefferson"/>
-    <tag k="addr:postcode" v="70121"/>
-  </way>
-  <node visible="true" id="-71" lat="29.96177720851022385772921552" lon="-90.15739218642978869411308551"/>
-  <node visible="true" id="-72" lat="29.96186748925450871183784329" lon="-90.15738791574663935080025112"/>
-  <node visible="true" id="-73" lat="29.96186262436375713491543138" lon="-90.15725089828822547133313492"/>
-  <node visible="true" id="-74" lat="29.96185201438136047613625124" lon="-90.15725140018805916497512953"/>
-  <node visible="true" id="-75" lat="29.96185183686805686420484562" lon="-90.15724640061375794175546616"/>
-  <node visible="true" id="-76" lat="29.96182685884640406470680318" lon="-90.15724758218615875193790998"/>
-  <node visible="true" id="-77" lat="29.96182618523110008368348645" lon="-90.15722861011911959394637961"/>
-  <node visible="true" id="-78" lat="29.96177149248592286312486976" lon="-90.15723119733009127685363637"/>
-  <way visible="true" id="-8">
     <nd ref="-71"/>
     <nd ref="-72"/>
     <nd ref="-73"/>
@@ -266,10 +268,10 @@
     <nd ref="-76"/>
     <nd ref="-77"/>
     <nd ref="-78"/>
-    <nd ref="-71"/>
+    <nd ref="-63"/>
     <tag k="building" v="yes"/>
-    <tag k="addr:housenumber" v="308"/>
-    <tag k="addr:street" v="South Causeway Boulevard"/>
+    <tag k="addr:housenumber" v="2920"/>
+    <tag k="addr:street" v="Arlington Street"/>
     <tag k="addr:city" v="Jefferson"/>
     <tag k="addr:postcode" v="70121"/>
   </way>
@@ -772,14 +774,14 @@
     <tag k="addr:city" v="Jefferson"/>
     <tag k="addr:postcode" v="70121"/>
   </way>
-  <node visible="true" id="-234" lat="29.96194909920200188935268670" lon="-90.15722055919279398494836641"/>
-  <node visible="true" id="-235" lat="29.96194983873019168640894350" lon="-90.15724063398145915471104672"/>
-  <node visible="true" id="-236" lat="29.96190848481200319497474993" lon="-90.15724266365518246857391205"/>
-  <node visible="true" id="-237" lat="29.96191300059348350259824656" lon="-90.15736524631692816456052242"/>
-  <node visible="true" id="-238" lat="29.96194814083284896355507954" lon="-90.15736352161405875449418090"/>
-  <node visible="true" id="-239" lat="29.96194902798493586715267156" lon="-90.15738760372106241902656620"/>
-  <node visible="true" id="-240" lat="29.96199224439668640229683660" lon="-90.15738548263422558193269651"/>
-  <node visible="true" id="-241" lat="29.96198610193892264419446292" lon="-90.15721874307682526250573574"/>
+  <node visible="true" id="-234" lat="29.96419242491738899047959421" lon="-90.15727896804534680086362641"/>
+  <node visible="true" id="-235" lat="29.96419079152620668082818156" lon="-90.15718019533970561951718992"/>
+  <node visible="true" id="-236" lat="29.96412695085975741449146881" lon="-90.15718160195766017750429455"/>
+  <node visible="true" id="-237" lat="29.96412627550725105152196193" lon="-90.15714076279549260561907431"/>
+  <node visible="true" id="-238" lat="29.96406379592193047756154556" lon="-90.15714213942352728281548480"/>
+  <node visible="true" id="-239" lat="29.96406572597785711309370527" lon="-90.15725885157480945508723380"/>
+  <node visible="true" id="-240" lat="29.96407238435424602585044340" lon="-90.15725870486922133295593085"/>
+  <node visible="true" id="-241" lat="29.96407276304443811909550277" lon="-90.15728160458570528135169297"/>
   <way visible="true" id="-30">
     <nd ref="-234"/>
     <nd ref="-235"/>
@@ -791,48 +793,48 @@
     <nd ref="-241"/>
     <nd ref="-234"/>
     <tag k="building" v="yes"/>
-    <tag k="addr:housenumber" v="310"/>
-    <tag k="addr:street" v="South Causeway Boulevard"/>
-    <tag k="addr:city" v="Jefferson"/>
-    <tag k="addr:postcode" v="70121"/>
-  </way>
-  <node visible="true" id="-242" lat="29.96419242491738899047959421" lon="-90.15727896804534680086362641"/>
-  <node visible="true" id="-243" lat="29.96419079152620668082818156" lon="-90.15718019533970561951718992"/>
-  <node visible="true" id="-244" lat="29.96412695085975741449146881" lon="-90.15718160195766017750429455"/>
-  <node visible="true" id="-245" lat="29.96412627550725105152196193" lon="-90.15714076279549260561907431"/>
-  <node visible="true" id="-246" lat="29.96406379592193047756154556" lon="-90.15714213942352728281548480"/>
-  <node visible="true" id="-247" lat="29.96406572597785711309370527" lon="-90.15725885157480945508723380"/>
-  <node visible="true" id="-248" lat="29.96407238435424602585044340" lon="-90.15725870486922133295593085"/>
-  <node visible="true" id="-249" lat="29.96407276304443811909550277" lon="-90.15728160458570528135169297"/>
-  <way visible="true" id="-31">
-    <nd ref="-242"/>
-    <nd ref="-243"/>
-    <nd ref="-244"/>
-    <nd ref="-245"/>
-    <nd ref="-246"/>
-    <nd ref="-247"/>
-    <nd ref="-248"/>
-    <nd ref="-249"/>
-    <nd ref="-242"/>
-    <tag k="building" v="yes"/>
     <tag k="addr:housenumber" v="11"/>
     <tag k="addr:street" v="Hawkins Avenue"/>
     <tag k="addr:city" v="Jefferson"/>
     <tag k="addr:postcode" v="70121"/>
   </way>
-  <node visible="true" id="-250" lat="29.96386663286567042518981907" lon="-90.15756284492724148549314123"/>
-  <node visible="true" id="-251" lat="29.96387110734894321240062709" lon="-90.15769234166872081459587207"/>
-  <node visible="true" id="-252" lat="29.96399577825422255727971788" lon="-90.15768660219369223796093138"/>
-  <node visible="true" id="-253" lat="29.96399130377654529411302065" lon="-90.15755710545219869800348533"/>
+  <node visible="true" id="-242" lat="29.96386663286567042518981907" lon="-90.15756284492724148549314123"/>
+  <node visible="true" id="-243" lat="29.96387110734894321240062709" lon="-90.15769234166872081459587207"/>
+  <node visible="true" id="-244" lat="29.96399577825422255727971788" lon="-90.15768660219369223796093138"/>
+  <node visible="true" id="-245" lat="29.96399130377654529411302065" lon="-90.15755710545219869800348533"/>
+  <way visible="true" id="-31">
+    <nd ref="-242"/>
+    <nd ref="-243"/>
+    <nd ref="-244"/>
+    <nd ref="-245"/>
+    <nd ref="-242"/>
+    <tag k="building" v="yes"/>
+    <tag k="addr:housenumber" v="8"/>
+    <tag k="addr:street" v="Hawkins Avenue"/>
+    <tag k="addr:city" v="Jefferson"/>
+    <tag k="addr:postcode" v="70121"/>
+  </way>
+  <node visible="true" id="-246" lat="29.96194909920200188935268670" lon="-90.15722055919279398494836641"/>
+  <node visible="true" id="-247" lat="29.96194983873019168640894350" lon="-90.15724063398145915471104672"/>
+  <node visible="true" id="-248" lat="29.96190848481200319497474993" lon="-90.15724266365518246857391205"/>
+  <node visible="true" id="-249" lat="29.96191300059348350259824656" lon="-90.15736524631692816456052242"/>
+  <node visible="true" id="-250" lat="29.96194814083284896355507954" lon="-90.15736352161405875449418090"/>
+  <node visible="true" id="-251" lat="29.96194902798493586715267156" lon="-90.15738760372106241902656620"/>
+  <node visible="true" id="-252" lat="29.96199224439668640229683660" lon="-90.15738548263422558193269651"/>
+  <node visible="true" id="-253" lat="29.96198610193892264419446292" lon="-90.15721874307682526250573574"/>
   <way visible="true" id="-32">
+    <nd ref="-246"/>
+    <nd ref="-247"/>
+    <nd ref="-248"/>
+    <nd ref="-249"/>
     <nd ref="-250"/>
     <nd ref="-251"/>
     <nd ref="-252"/>
     <nd ref="-253"/>
-    <nd ref="-250"/>
+    <nd ref="-246"/>
     <tag k="building" v="yes"/>
-    <tag k="addr:housenumber" v="8"/>
-    <tag k="addr:street" v="Hawkins Avenue"/>
+    <tag k="addr:housenumber" v="310"/>
+    <tag k="addr:street" v="South Causeway Boulevard"/>
     <tag k="addr:city" v="Jefferson"/>
     <tag k="addr:postcode" v="70121"/>
   </way>

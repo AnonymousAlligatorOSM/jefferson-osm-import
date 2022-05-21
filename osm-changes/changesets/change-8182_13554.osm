@@ -1,8 +1,10 @@
 <?xml version='1.0' encoding='utf8'?>
-<osm version="0.6" generator="AnonymousAlligator's import script">
-  <changeset_tag k="comment" v="Import buildings and addresses in Jefferson Parish, see https://wiki.openstreetmap.org/wiki/Import/Catalogue/Jefferson_Parish_Addresses_and_Buildings"/>
-  <changeset_tag k="source" v="Jefferson Parish Planning Department"/>
-  <changeset_tag k="source_file" v="8182_13554"/>
+<osm version="0.6" generator="AnonymousAlligator's import script" upload-changeset="-1">
+  <changeset id="-1">
+    <tag k="comment" v="Import buildings and addresses in Jefferson Parish, see https://wiki.openstreetmap.org/wiki/Import/Catalogue/Jefferson_Parish_Addresses_and_Buildings"/>
+    <tag k="source" v="Jefferson Parish Planning Department"/>
+    <tag k="source_file" v="change-8182_13554.osm"/>
+  </changeset>
   <node visible="true" id="-1" lat="29.66783091105591552150144707" lon="-90.10715206663437015777162742"/>
   <node visible="true" id="-2" lat="29.66778777458376836761999584" lon="-90.10715187924890301474079024"/>
   <node visible="true" id="-3" lat="29.66778789215500466980302008" lon="-90.10736518961246588332869578"/>
@@ -454,10 +456,10 @@
     <tag k="addr:city" v="Lafitte"/>
     <tag k="addr:postcode" v="70067"/>
   </way>
-  <node visible="true" id="-140" lat="29.66184287028591981538738764" lon="-90.10878144083707752542977687"/>
-  <node visible="true" id="-141" lat="29.66180350292221135077852523" lon="-90.10878264622442657127976418"/>
-  <node visible="true" id="-142" lat="29.66180464983766640330031805" lon="-90.10883225288952758091909345"/>
-  <node visible="true" id="-143" lat="29.66184401720125052293042245" lon="-90.10883104750217853506910615"/>
+  <node visible="true" id="-140" lat="29.66497097553010320325483917" lon="-90.10767568709196950749173993"/>
+  <node visible="true" id="-141" lat="29.66488599372211254490139254" lon="-90.10767971484858662734040990"/>
+  <node visible="true" id="-142" lat="29.66488731467099171368317911" lon="-90.10771662742219234587537358"/>
+  <node visible="true" id="-143" lat="29.66497229647787037265516119" lon="-90.10771259966557522602670360"/>
   <way visible="true" id="-26">
     <nd ref="-140"/>
     <nd ref="-141"/>
@@ -466,10 +468,10 @@
     <nd ref="-140"/>
     <tag k="building" v="yes"/>
   </way>
-  <node visible="true" id="-144" lat="29.66497097553010320325483917" lon="-90.10767568709196950749173993"/>
-  <node visible="true" id="-145" lat="29.66488599372211254490139254" lon="-90.10767971484858662734040990"/>
-  <node visible="true" id="-146" lat="29.66488731467099171368317911" lon="-90.10771662742219234587537358"/>
-  <node visible="true" id="-147" lat="29.66497229647787037265516119" lon="-90.10771259966557522602670360"/>
+  <node visible="true" id="-144" lat="29.66184287028591981538738764" lon="-90.10878144083707752542977687"/>
+  <node visible="true" id="-145" lat="29.66180350292221135077852523" lon="-90.10878264622442657127976418"/>
+  <node visible="true" id="-146" lat="29.66180464983766640330031805" lon="-90.10883225288952758091909345"/>
+  <node visible="true" id="-147" lat="29.66184401720125052293042245" lon="-90.10883104750217853506910615"/>
   <way visible="true" id="-27">
     <nd ref="-144"/>
     <nd ref="-145"/>
@@ -506,10 +508,10 @@
     <tag k="addr:city" v="Lafitte"/>
     <tag k="addr:postcode" v="70067"/>
   </way>
-  <node visible="true" id="-156" lat="29.66456562778603966989976470" lon="-90.10759001243637555944587803"/>
-  <node visible="true" id="-157" lat="29.66449112056916348478807777" lon="-90.10758839822086940785084153"/>
-  <node visible="true" id="-158" lat="29.66448771138407636271949741" lon="-90.10779680391692636476363987"/>
-  <node visible="true" id="-159" lat="29.66456221860348563268416910" lon="-90.10779841813241830550396116"/>
+  <node visible="true" id="-156" lat="29.66359328330342748358816607" lon="-90.10656294876062588627974037"/>
+  <node visible="true" id="-157" lat="29.66351424021499383343325462" lon="-90.10656312745858542712085182"/>
+  <node visible="true" id="-158" lat="29.66351447388178641517697542" lon="-90.10670001228838543738675071"/>
+  <node visible="true" id="-159" lat="29.66359351697002466607955284" lon="-90.10669983359042589654563926"/>
   <way visible="true" id="-30">
     <nd ref="-156"/>
     <nd ref="-157"/>
@@ -518,10 +520,10 @@
     <nd ref="-156"/>
     <tag k="building" v="yes"/>
   </way>
-  <node visible="true" id="-160" lat="29.66213750299504425811392139" lon="-90.10901661129840078956476646"/>
-  <node visible="true" id="-161" lat="29.66213556306667697981538367" lon="-90.10880835805626531964662718"/>
-  <node visible="true" id="-162" lat="29.66209431698481324701788253" lon="-90.10880886689302826653147349"/>
-  <node visible="true" id="-163" lat="29.66209625691558571247696818" lon="-90.10901712013514952559489757"/>
+  <node visible="true" id="-160" lat="29.66456562778603966989976470" lon="-90.10759001243637555944587803"/>
+  <node visible="true" id="-161" lat="29.66449112056916348478807777" lon="-90.10758839822086940785084153"/>
+  <node visible="true" id="-162" lat="29.66448771138407636271949741" lon="-90.10779680391692636476363987"/>
+  <node visible="true" id="-163" lat="29.66456221860348563268416910" lon="-90.10779841813241830550396116"/>
   <way visible="true" id="-31">
     <nd ref="-160"/>
     <nd ref="-161"/>
@@ -530,10 +532,10 @@
     <nd ref="-160"/>
     <tag k="building" v="yes"/>
   </way>
-  <node visible="true" id="-164" lat="29.66359328330342748358816607" lon="-90.10656294876062588627974037"/>
-  <node visible="true" id="-165" lat="29.66351424021499383343325462" lon="-90.10656312745858542712085182"/>
-  <node visible="true" id="-166" lat="29.66351447388178641517697542" lon="-90.10670001228838543738675071"/>
-  <node visible="true" id="-167" lat="29.66359351697002466607955284" lon="-90.10669983359042589654563926"/>
+  <node visible="true" id="-164" lat="29.66213750299504425811392139" lon="-90.10901661129840078956476646"/>
+  <node visible="true" id="-165" lat="29.66213556306667697981538367" lon="-90.10880835805626531964662718"/>
+  <node visible="true" id="-166" lat="29.66209431698481324701788253" lon="-90.10880886689302826653147349"/>
+  <node visible="true" id="-167" lat="29.66209625691558571247696818" lon="-90.10901712013514952559489757"/>
   <way visible="true" id="-32">
     <nd ref="-164"/>
     <nd ref="-165"/>
@@ -782,54 +784,54 @@
     <tag k="addr:city" v="Lafitte"/>
     <tag k="addr:postcode" v="70067"/>
   </node>
-  <node visible="true" id="-219" lat="29.66601367539939104744917131" lon="-90.10783204097558041212323587">
-    <tag k="addr:housenumber" v="5591"/>
-    <tag k="addr:street" v="Fisher Street"/>
-    <tag k="addr:city" v="Lafitte"/>
-    <tag k="addr:postcode" v="70067"/>
-  </node>
-  <node visible="true" id="-220" lat="29.66640552087638127432001056" lon="-90.10839189425827555623982335">
-    <tag k="addr:housenumber" v="5576"/>
-    <tag k="addr:street" v="Fisher Street"/>
-    <tag k="addr:city" v="Lafitte"/>
-    <tag k="addr:postcode" v="70067"/>
-  </node>
-  <node visible="true" id="-221" lat="29.66720142651072222861330374" lon="-90.10870739310904298235982424">
-    <tag k="addr:housenumber" v="5549"/>
-    <tag k="addr:street" v="Jean Lafitte Boulevard"/>
-    <tag k="addr:city" v="Lafitte"/>
-    <tag k="addr:postcode" v="70067"/>
-    <tag k="addr:unit" v="B"/>
-  </node>
-  <node visible="true" id="-222" lat="29.66670273491069309557133238" lon="-90.10895742643840833352442132">
-    <tag k="addr:housenumber" v="5563"/>
-    <tag k="addr:street" v="Jean Lafitte Boulevard"/>
-    <tag k="addr:city" v="Lafitte"/>
-    <tag k="addr:postcode" v="70067"/>
-    <tag k="addr:unit" v="B"/>
-  </node>
-  <node visible="true" id="-223" lat="29.66818537206637529379804619" lon="-90.10721499881339013882097788">
+  <node visible="true" id="-219" lat="29.66818537206637529379804619" lon="-90.10721499881339013882097788">
     <tag k="addr:housenumber" v="5510"/>
     <tag k="addr:street" v="Perrin Street"/>
     <tag k="addr:city" v="Lafitte"/>
     <tag k="addr:postcode" v="70067"/>
   </node>
-  <node visible="true" id="-224" lat="29.66870079242268687380601477" lon="-90.10838376714997366434545256">
+  <node visible="true" id="-220" lat="29.66870079242268687380601477" lon="-90.10838376714997366434545256">
     <tag k="addr:housenumber" v="5464"/>
     <tag k="addr:street" v="Jean Lafitte Boulevard"/>
     <tag k="addr:city" v="Lafitte"/>
     <tag k="addr:postcode" v="70067"/>
   </node>
-  <node visible="true" id="-225" lat="29.66871327659399071308143903" lon="-90.10858931191167187080282019">
+  <node visible="true" id="-221" lat="29.66871327659399071308143903" lon="-90.10858931191167187080282019">
     <tag k="addr:housenumber" v="5468"/>
     <tag k="addr:street" v="Jean Lafitte Boulevard"/>
     <tag k="addr:city" v="Lafitte"/>
     <tag k="addr:postcode" v="70067"/>
     <tag k="addr:unit" v="A"/>
   </node>
-  <node visible="true" id="-226" lat="29.66884600704228702738873835" lon="-90.10935862017042552452039672">
+  <node visible="true" id="-222" lat="29.66884600704228702738873835" lon="-90.10935862017042552452039672">
     <tag k="addr:housenumber" v="5108"/>
     <tag k="addr:street" v="2nd Street"/>
+    <tag k="addr:city" v="Lafitte"/>
+    <tag k="addr:postcode" v="70067"/>
+    <tag k="addr:unit" v="B"/>
+  </node>
+  <node visible="true" id="-223" lat="29.66601367539939104744917131" lon="-90.10783204097558041212323587">
+    <tag k="addr:housenumber" v="5591"/>
+    <tag k="addr:street" v="Fisher Street"/>
+    <tag k="addr:city" v="Lafitte"/>
+    <tag k="addr:postcode" v="70067"/>
+  </node>
+  <node visible="true" id="-224" lat="29.66640552087638127432001056" lon="-90.10839189425827555623982335">
+    <tag k="addr:housenumber" v="5576"/>
+    <tag k="addr:street" v="Fisher Street"/>
+    <tag k="addr:city" v="Lafitte"/>
+    <tag k="addr:postcode" v="70067"/>
+  </node>
+  <node visible="true" id="-225" lat="29.66720142651072222861330374" lon="-90.10870739310904298235982424">
+    <tag k="addr:housenumber" v="5549"/>
+    <tag k="addr:street" v="Jean Lafitte Boulevard"/>
+    <tag k="addr:city" v="Lafitte"/>
+    <tag k="addr:postcode" v="70067"/>
+    <tag k="addr:unit" v="B"/>
+  </node>
+  <node visible="true" id="-226" lat="29.66670273491069309557133238" lon="-90.10895742643840833352442132">
+    <tag k="addr:housenumber" v="5563"/>
+    <tag k="addr:street" v="Jean Lafitte Boulevard"/>
     <tag k="addr:city" v="Lafitte"/>
     <tag k="addr:postcode" v="70067"/>
     <tag k="addr:unit" v="B"/>

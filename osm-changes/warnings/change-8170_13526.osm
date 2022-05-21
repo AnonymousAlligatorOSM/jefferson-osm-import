@@ -1,8 +1,10 @@
 <?xml version='1.0' encoding='utf8'?>
-<osm version="0.6" generator="AnonymousAlligator's import script">
-  <changeset_tag k="comment" v="Import buildings and addresses in Jefferson Parish, see https://wiki.openstreetmap.org/wiki/Import/Catalogue/Jefferson_Parish_Addresses_and_Buildings"/>
-  <changeset_tag k="source" v="Jefferson Parish Planning Department"/>
-  <changeset_tag k="source_file" v="8170_13526"/>
+<osm version="0.6" generator="AnonymousAlligator's import script" upload-changeset="-1">
+  <changeset id="-1">
+    <tag k="comment" v="Import buildings and addresses in Jefferson Parish, see https://wiki.openstreetmap.org/wiki/Import/Catalogue/Jefferson_Parish_Addresses_and_Buildings"/>
+    <tag k="source" v="Jefferson Parish Planning Department"/>
+    <tag k="source_file" v="change-8170_13526.osm"/>
+  </changeset>
   <node visible="true" id="-1" lat="29.93190061650593492004190921" lon="-90.23874832805691426074190531"/>
   <node visible="true" id="-2" lat="29.93184141123699859576845483" lon="-90.23870305020933813011652092"/>
   <node visible="true" id="-3" lat="29.93169848233791796587865974" lon="-90.23895190009751843263074988"/>
@@ -150,12 +152,16 @@
     <tag k="addr:city" v="Waggaman"/>
     <tag k="addr:postcode" v="70094"/>
   </way>
-  <node visible="true" id="-57" lat="29.93458574520716197753245069" lon="-90.23411907372818063777231146"/>
-  <node visible="true" id="-58" lat="29.93459809082256128931476269" lon="-90.23409420237857148094917648"/>
-  <node visible="true" id="-59" lat="29.93465344640466341274986917" lon="-90.23413079065646513754472835"/>
-  <node visible="true" id="-60" lat="29.93470395123209470966685330" lon="-90.23402904406265179204638116"/>
-  <node visible="true" id="-61" lat="29.93450607801184659706450475" lon="-90.23389825618933457462844672"/>
-  <node visible="true" id="-62" lat="29.93444322745089181125877076" lon="-90.23402487413277128780464409"/>
+  <node visible="true" id="-57" lat="29.93561412332886462195347121" lon="-90.23481810469934316643048078"/>
+  <node visible="true" id="-58" lat="29.93570253825613036724462290" lon="-90.23487886837808957807283150"/>
+  <node visible="true" id="-59" lat="29.93580419513749646398537152" lon="-90.23468190066179772657051217"/>
+  <node visible="true" id="-60" lat="29.93574385558608952351278276" lon="-90.23464043190202232835872564"/>
+  <node visible="true" id="-61" lat="29.93569453299846827576402575" lon="-90.23465485858227452808932867"/>
+  <node visible="true" id="-62" lat="29.93561745761095949092123192" lon="-90.23460188807014503709069686"/>
+  <node visible="true" id="-63" lat="29.93559613003468555803010531" lon="-90.23464321176361124798859237"/>
+  <node visible="true" id="-64" lat="29.93557372992205145578736847" lon="-90.23462781716582981061947066"/>
+  <node visible="true" id="-65" lat="29.93550101122946216491982341" lon="-90.23476871469807747416780330"/>
+  <node visible="true" id="-66" lat="29.93560332380568311805291160" lon="-90.23483902954276913987996522"/>
   <way visible="true" id="-6">
     <nd ref="-57"/>
     <nd ref="-58"/>
@@ -163,53 +169,49 @@
     <nd ref="-60"/>
     <nd ref="-61"/>
     <nd ref="-62"/>
-    <nd ref="-57"/>
-    <tag k="building" v="yes"/>
-    <tag k="addr:housenumber" v="8"/>
-    <tag k="addr:street" v="Foundry"/>
-    <tag k="addr:city" v="Waggaman"/>
-    <tag k="addr:postcode" v="70094"/>
-  </way>
-  <node visible="true" id="-63" lat="29.93506057232364625519949186" lon="-90.23353740414668777702900115"/>
-  <node visible="true" id="-64" lat="29.93499796638048238150986435" lon="-90.23349164586501558460440720"/>
-  <node visible="true" id="-65" lat="29.93493436771487736791641510" lon="-90.23360751410477575973345665"/>
-  <node visible="true" id="-66" lat="29.93499697369806611391140905" lon="-90.23365327238643374130333541"/>
-  <way visible="true" id="-7">
     <nd ref="-63"/>
     <nd ref="-64"/>
     <nd ref="-65"/>
     <nd ref="-66"/>
-    <nd ref="-63"/>
+    <nd ref="-57"/>
     <tag k="building" v="yes"/>
-    <tag k="addr:street" v="South Daryl Court"/>
+    <tag k="addr:housenumber" v="20"/>
+    <tag k="addr:street" v="Foundry"/>
     <tag k="addr:city" v="Waggaman"/>
     <tag k="addr:postcode" v="70094"/>
   </way>
-  <node visible="true" id="-67" lat="29.93561412332886462195347121" lon="-90.23481810469934316643048078"/>
-  <node visible="true" id="-68" lat="29.93570253825613036724462290" lon="-90.23487886837808957807283150"/>
-  <node visible="true" id="-69" lat="29.93580419513749646398537152" lon="-90.23468190066179772657051217"/>
-  <node visible="true" id="-70" lat="29.93574385558608952351278276" lon="-90.23464043190202232835872564"/>
-  <node visible="true" id="-71" lat="29.93569453299846827576402575" lon="-90.23465485858227452808932867"/>
-  <node visible="true" id="-72" lat="29.93561745761095949092123192" lon="-90.23460188807014503709069686"/>
-  <node visible="true" id="-73" lat="29.93559613003468555803010531" lon="-90.23464321176361124798859237"/>
-  <node visible="true" id="-74" lat="29.93557372992205145578736847" lon="-90.23462781716582981061947066"/>
-  <node visible="true" id="-75" lat="29.93550101122946216491982341" lon="-90.23476871469807747416780330"/>
-  <node visible="true" id="-76" lat="29.93560332380568311805291160" lon="-90.23483902954276913987996522"/>
-  <way visible="true" id="-8">
+  <node visible="true" id="-67" lat="29.93458574520716197753245069" lon="-90.23411907372818063777231146"/>
+  <node visible="true" id="-68" lat="29.93459809082256128931476269" lon="-90.23409420237857148094917648"/>
+  <node visible="true" id="-69" lat="29.93465344640466341274986917" lon="-90.23413079065646513754472835"/>
+  <node visible="true" id="-70" lat="29.93470395123209470966685330" lon="-90.23402904406265179204638116"/>
+  <node visible="true" id="-71" lat="29.93450607801184659706450475" lon="-90.23389825618933457462844672"/>
+  <node visible="true" id="-72" lat="29.93444322745089181125877076" lon="-90.23402487413277128780464409"/>
+  <way visible="true" id="-7">
     <nd ref="-67"/>
     <nd ref="-68"/>
     <nd ref="-69"/>
     <nd ref="-70"/>
     <nd ref="-71"/>
     <nd ref="-72"/>
+    <nd ref="-67"/>
+    <tag k="building" v="yes"/>
+    <tag k="addr:housenumber" v="8"/>
+    <tag k="addr:street" v="Foundry"/>
+    <tag k="addr:city" v="Waggaman"/>
+    <tag k="addr:postcode" v="70094"/>
+  </way>
+  <node visible="true" id="-73" lat="29.93506057232364625519949186" lon="-90.23353740414668777702900115"/>
+  <node visible="true" id="-74" lat="29.93499796638048238150986435" lon="-90.23349164586501558460440720"/>
+  <node visible="true" id="-75" lat="29.93493436771487736791641510" lon="-90.23360751410477575973345665"/>
+  <node visible="true" id="-76" lat="29.93499697369806611391140905" lon="-90.23365327238643374130333541"/>
+  <way visible="true" id="-8">
     <nd ref="-73"/>
     <nd ref="-74"/>
     <nd ref="-75"/>
     <nd ref="-76"/>
-    <nd ref="-67"/>
+    <nd ref="-73"/>
     <tag k="building" v="yes"/>
-    <tag k="addr:housenumber" v="20"/>
-    <tag k="addr:street" v="Foundry"/>
+    <tag k="addr:street" v="South Daryl Court"/>
     <tag k="addr:city" v="Waggaman"/>
     <tag k="addr:postcode" v="70094"/>
   </way>

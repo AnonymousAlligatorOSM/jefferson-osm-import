@@ -1,8 +1,10 @@
 <?xml version='1.0' encoding='utf8'?>
-<osm version="0.6" generator="AnonymousAlligator's import script">
-  <changeset_tag k="comment" v="Import buildings and addresses in Jefferson Parish, see https://wiki.openstreetmap.org/wiki/Import/Catalogue/Jefferson_Parish_Addresses_and_Buildings"/>
-  <changeset_tag k="source" v="Jefferson Parish Planning Department"/>
-  <changeset_tag k="source_file" v="8185_13536"/>
+<osm version="0.6" generator="AnonymousAlligator's import script" upload-changeset="-1">
+  <changeset id="-1">
+    <tag k="comment" v="Import buildings and addresses in Jefferson Parish, see https://wiki.openstreetmap.org/wiki/Import/Catalogue/Jefferson_Parish_Addresses_and_Buildings"/>
+    <tag k="source" v="Jefferson Parish Planning Department"/>
+    <tag k="source_file" v="change-8185_13536.osm"/>
+  </changeset>
   <node visible="true" id="-1" lat="29.84039867552624158975049795" lon="-90.07028982348974466276558815"/>
   <node visible="true" id="-2" lat="29.84047184462755097911212943" lon="-90.07031585021512398725462845"/>
   <node visible="true" id="-3" lat="29.84045368360933281337565859" lon="-90.07038370729084419963328401"/>
@@ -515,38 +517,38 @@
     <tag k="addr:city" v="Harvey"/>
     <tag k="addr:postcode" v="70058"/>
   </way>
-  <node visible="true" id="-157" lat="29.83917948795257046867845929" lon="-90.06973637822682121623074636"/>
-  <node visible="true" id="-158" lat="29.83913138879727000585262431" lon="-90.06991786504876529306784505"/>
-  <node visible="true" id="-159" lat="29.83919013971792821848794119" lon="-90.06993855895898093422147213"/>
-  <node visible="true" id="-160" lat="29.83920425833740353027678793" lon="-90.06988528682921923973481171"/>
-  <node visible="true" id="-161" lat="29.83927768468286245706622140" lon="-90.06991114990341884549707174"/>
-  <node visible="true" id="-162" lat="29.83931166516549282619052974" lon="-90.06978293521125067400134867"/>
+  <node visible="true" id="-157" lat="29.84006141063662198575912043" lon="-90.07023425775155089922918705"/>
+  <node visible="true" id="-158" lat="29.84019188890369278510661388" lon="-90.07028211503678960525576258"/>
+  <node visible="true" id="-159" lat="29.84022267138324480129085714" lon="-90.07017057314058661177114118"/>
+  <node visible="true" id="-160" lat="29.84009219315633743008220335" lon="-90.07012271585536211659928085"/>
   <way visible="true" id="-26">
     <nd ref="-157"/>
     <nd ref="-158"/>
     <nd ref="-159"/>
     <nd ref="-160"/>
-    <nd ref="-161"/>
-    <nd ref="-162"/>
     <nd ref="-157"/>
     <tag k="building" v="yes"/>
-    <tag k="addr:housenumber" v="3177"/>
+    <tag k="addr:housenumber" v="3153"/>
     <tag k="addr:street" v="Keithway Drive"/>
     <tag k="addr:city" v="Harvey"/>
     <tag k="addr:postcode" v="70058"/>
   </way>
-  <node visible="true" id="-163" lat="29.84006141063662198575912043" lon="-90.07023425775155089922918705"/>
-  <node visible="true" id="-164" lat="29.84019188890369278510661388" lon="-90.07028211503678960525576258"/>
-  <node visible="true" id="-165" lat="29.84022267138324480129085714" lon="-90.07017057314058661177114118"/>
-  <node visible="true" id="-166" lat="29.84009219315633743008220335" lon="-90.07012271585536211659928085"/>
+  <node visible="true" id="-161" lat="29.83917948795257046867845929" lon="-90.06973637822682121623074636"/>
+  <node visible="true" id="-162" lat="29.83913138879727000585262431" lon="-90.06991786504876529306784505"/>
+  <node visible="true" id="-163" lat="29.83919013971792821848794119" lon="-90.06993855895898093422147213"/>
+  <node visible="true" id="-164" lat="29.83920425833740353027678793" lon="-90.06988528682921923973481171"/>
+  <node visible="true" id="-165" lat="29.83927768468286245706622140" lon="-90.06991114990341884549707174"/>
+  <node visible="true" id="-166" lat="29.83931166516549282619052974" lon="-90.06978293521125067400134867"/>
   <way visible="true" id="-27">
+    <nd ref="-161"/>
+    <nd ref="-162"/>
     <nd ref="-163"/>
     <nd ref="-164"/>
     <nd ref="-165"/>
     <nd ref="-166"/>
-    <nd ref="-163"/>
+    <nd ref="-161"/>
     <tag k="building" v="yes"/>
-    <tag k="addr:housenumber" v="3153"/>
+    <tag k="addr:housenumber" v="3177"/>
     <tag k="addr:street" v="Keithway Drive"/>
     <tag k="addr:city" v="Harvey"/>
     <tag k="addr:postcode" v="70058"/>

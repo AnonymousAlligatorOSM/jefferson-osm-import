@@ -1,8 +1,10 @@
 <?xml version='1.0' encoding='utf8'?>
-<osm version="0.6" generator="AnonymousAlligator's import script">
-  <changeset_tag k="comment" v="Import buildings and addresses in Jefferson Parish, see https://wiki.openstreetmap.org/wiki/Import/Catalogue/Jefferson_Parish_Addresses_and_Buildings"/>
-  <changeset_tag k="source" v="Jefferson Parish Planning Department"/>
-  <changeset_tag k="source_file" v="8185_13536"/>
+<osm version="0.6" generator="AnonymousAlligator's import script" upload-changeset="-1">
+  <changeset id="-1">
+    <tag k="comment" v="Import buildings and addresses in Jefferson Parish, see https://wiki.openstreetmap.org/wiki/Import/Catalogue/Jefferson_Parish_Addresses_and_Buildings"/>
+    <tag k="source" v="Jefferson Parish Planning Department"/>
+    <tag k="source_file" v="change-8185_13536.osm"/>
+  </changeset>
   <node visible="true" id="-1" lat="29.84002452716354270023657591" lon="-90.06983885856053007046284620"/>
   <node visible="true" id="-2" lat="29.84011180718290745517151663" lon="-90.06986867337640489949990297"/>
   <node visible="true" id="-3" lat="29.84010024164996011108996754" lon="-90.06991367124680891720345244"/>
@@ -435,12 +437,14 @@
     <tag k="addr:city" v="Harvey"/>
     <tag k="addr:postcode" v="70058"/>
   </way>
-  <node visible="true" id="-133" lat="29.83937820330817913827559096" lon="-90.06968448067233623532956699"/>
-  <node visible="true" id="-134" lat="29.83950910433991410286580503" lon="-90.06973026587193942305020755"/>
-  <node visible="true" id="-135" lat="29.83954242415321189696442161" lon="-90.06960365853133509972394677"/>
-  <node visible="true" id="-136" lat="29.83947101785868838419446547" lon="-90.06957868276553824671282200"/>
-  <node visible="true" id="-137" lat="29.83948579186514393768447917" lon="-90.06952254509248234626284102"/>
-  <node visible="true" id="-138" lat="29.83942629718035277619492263" lon="-90.06950173565867601155332522"/>
+  <node visible="true" id="-133" lat="29.84053613699172657902636274" lon="-90.06860055777325158032908803"/>
+  <node visible="true" id="-134" lat="29.84050562184080845895550738" lon="-90.06871655914990526525798487"/>
+  <node visible="true" id="-135" lat="29.84054228552400545027012413" lon="-90.06872937761025355030142237"/>
+  <node visible="true" id="-136" lat="29.84053983624371397809227346" lon="-90.06873868839299746014148695"/>
+  <node visible="true" id="-137" lat="29.84057650282747431447205599" lon="-90.06875150787185191347816726"/>
+  <node visible="true" id="-138" lat="29.84056195804982891672807455" lon="-90.06880679893204444397269981"/>
+  <node visible="true" id="-139" lat="29.84061946428845502055082761" lon="-90.06882690443887895526131615"/>
+  <node visible="true" id="-140" lat="29.84066697344665897162485635" lon="-90.06864630121928882999782218"/>
   <way visible="true" id="-23">
     <nd ref="-133"/>
     <nd ref="-134"/>
@@ -448,39 +452,37 @@
     <nd ref="-136"/>
     <nd ref="-137"/>
     <nd ref="-138"/>
+    <nd ref="-139"/>
+    <nd ref="-140"/>
     <nd ref="-133"/>
     <tag k="building" v="yes"/>
-    <tag k="addr:housenumber" v="3172"/>
-    <tag k="addr:street" v="Primwood Drive"/>
+    <tag k="addr:housenumber" v="3157"/>
+    <tag k="addr:street" v="Sweet Gum Drive"/>
     <tag k="addr:city" v="Harvey"/>
     <tag k="addr:postcode" v="70058"/>
   </way>
-  <node visible="true" id="-139" lat="29.83907626984018435223333654" lon="-90.06957538904758564513031160"/>
-  <node visible="true" id="-140" lat="29.83914961955956712813531340" lon="-90.06960093558551250225718832"/>
-  <node visible="true" id="-141" lat="29.83917209685544946751178941" lon="-90.06951516353115039237309247"/>
-  <node visible="true" id="-142" lat="29.83923101346043438297783723" lon="-90.06953568326362358220649185"/>
-  <node visible="true" id="-143" lat="29.83925677065163739598574466" lon="-90.06943739523778447164659156"/>
-  <node visible="true" id="-144" lat="29.83912450437791008539534232" lon="-90.06939132896739863554103067"/>
+  <node visible="true" id="-141" lat="29.84054050487183928908052621" lon="-90.06946219050752233670209534"/>
+  <node visible="true" id="-142" lat="29.84051184615514884512776916" lon="-90.06957629312788071729301009"/>
+  <node visible="true" id="-143" lat="29.84064409863039912806925713" lon="-90.06962044128520972208207240"/>
+  <node visible="true" id="-144" lat="29.84067275730913593179138843" lon="-90.06950633866485134149115765"/>
   <way visible="true" id="-24">
-    <nd ref="-139"/>
-    <nd ref="-140"/>
     <nd ref="-141"/>
     <nd ref="-142"/>
     <nd ref="-143"/>
     <nd ref="-144"/>
-    <nd ref="-139"/>
+    <nd ref="-141"/>
     <tag k="building" v="yes"/>
-    <tag k="addr:housenumber" v="3180"/>
+    <tag k="addr:housenumber" v="3149"/>
     <tag k="addr:street" v="Primwood Drive"/>
     <tag k="addr:city" v="Harvey"/>
     <tag k="addr:postcode" v="70058"/>
   </way>
-  <node visible="true" id="-145" lat="29.83941793047037904784701823" lon="-90.06919541617104130182269728"/>
-  <node visible="true" id="-146" lat="29.83954411801012085447837308" lon="-90.06923910513012287992751226"/>
-  <node visible="true" id="-147" lat="29.83957538383852536867379968" lon="-90.06911908519283826990431407"/>
-  <node visible="true" id="-148" lat="29.83950100415587769475678215" lon="-90.06909333326218813908781158"/>
-  <node visible="true" id="-149" lat="29.83950689994478722155690775" lon="-90.06907070114725399889721302"/>
-  <node visible="true" id="-150" lat="29.83945509213021551886413363" lon="-90.06905276411880834075418534"/>
+  <node visible="true" id="-145" lat="29.83937820330817913827559096" lon="-90.06968448067233623532956699"/>
+  <node visible="true" id="-146" lat="29.83950910433991410286580503" lon="-90.06973026587193942305020755"/>
+  <node visible="true" id="-147" lat="29.83954242415321189696442161" lon="-90.06960365853133509972394677"/>
+  <node visible="true" id="-148" lat="29.83947101785868838419446547" lon="-90.06957868276553824671282200"/>
+  <node visible="true" id="-149" lat="29.83948579186514393768447917" lon="-90.06952254509248234626284102"/>
+  <node visible="true" id="-150" lat="29.83942629718035277619492263" lon="-90.06950173565867601155332522"/>
   <way visible="true" id="-25">
     <nd ref="-145"/>
     <nd ref="-146"/>
@@ -490,17 +492,17 @@
     <nd ref="-150"/>
     <nd ref="-145"/>
     <tag k="building" v="yes"/>
-    <tag k="addr:housenumber" v="3177"/>
+    <tag k="addr:housenumber" v="3172"/>
     <tag k="addr:street" v="Primwood Drive"/>
     <tag k="addr:city" v="Harvey"/>
     <tag k="addr:postcode" v="70058"/>
   </way>
-  <node visible="true" id="-151" lat="29.83977111409775417882883630" lon="-90.06913619180666330521489726"/>
-  <node visible="true" id="-152" lat="29.83972734230532353194575990" lon="-90.06930383891389624295698013"/>
-  <node visible="true" id="-153" lat="29.83978558928179580789219472" lon="-90.06932405105656869181984803"/>
-  <node visible="true" id="-154" lat="29.83980241277756206841331732" lon="-90.06925961659992196928214980"/>
-  <node visible="true" id="-155" lat="29.83987585981696000203555741" lon="-90.06928510330084236557013355"/>
-  <node visible="true" id="-156" lat="29.83990280806828110371498042" lon="-90.06918189065024193951103371"/>
+  <node visible="true" id="-151" lat="29.83907626984018435223333654" lon="-90.06957538904758564513031160"/>
+  <node visible="true" id="-152" lat="29.83914961955956712813531340" lon="-90.06960093558551250225718832"/>
+  <node visible="true" id="-153" lat="29.83917209685544946751178941" lon="-90.06951516353115039237309247"/>
+  <node visible="true" id="-154" lat="29.83923101346043438297783723" lon="-90.06953568326362358220649185"/>
+  <node visible="true" id="-155" lat="29.83925677065163739598574466" lon="-90.06943739523778447164659156"/>
+  <node visible="true" id="-156" lat="29.83912450437791008539534232" lon="-90.06939132896739863554103067"/>
   <way visible="true" id="-26">
     <nd ref="-151"/>
     <nd ref="-152"/>
@@ -510,17 +512,17 @@
     <nd ref="-156"/>
     <nd ref="-151"/>
     <tag k="building" v="yes"/>
-    <tag k="addr:housenumber" v="3169"/>
+    <tag k="addr:housenumber" v="3180"/>
     <tag k="addr:street" v="Primwood Drive"/>
     <tag k="addr:city" v="Harvey"/>
     <tag k="addr:postcode" v="70058"/>
   </way>
-  <node visible="true" id="-157" lat="29.84020396863240165430397610" lon="-90.06930344732288062914449256"/>
-  <node visible="true" id="-158" lat="29.84008471399888051678317424" lon="-90.06925891500834779890283244"/>
-  <node visible="true" id="-159" lat="29.84004143399381092649491620" lon="-90.06941295413592740715102991"/>
-  <node visible="true" id="-160" lat="29.84017103549325966582728142" lon="-90.06946135018031895924650598"/>
-  <node visible="true" id="-161" lat="29.84020320464775721802652697" lon="-90.06934685586288935610355111"/>
-  <node visible="true" id="-162" lat="29.84019351178491419318561384" lon="-90.06934066464400245877186535"/>
+  <node visible="true" id="-157" lat="29.83941793047037904784701823" lon="-90.06919541617104130182269728"/>
+  <node visible="true" id="-158" lat="29.83954411801012085447837308" lon="-90.06923910513012287992751226"/>
+  <node visible="true" id="-159" lat="29.83957538383852536867379968" lon="-90.06911908519283826990431407"/>
+  <node visible="true" id="-160" lat="29.83950100415587769475678215" lon="-90.06909333326218813908781158"/>
+  <node visible="true" id="-161" lat="29.83950689994478722155690775" lon="-90.06907070114725399889721302"/>
+  <node visible="true" id="-162" lat="29.83945509213021551886413363" lon="-90.06905276411880834075418534"/>
   <way visible="true" id="-27">
     <nd ref="-157"/>
     <nd ref="-158"/>
@@ -530,88 +532,88 @@
     <nd ref="-162"/>
     <nd ref="-157"/>
     <tag k="building" v="yes"/>
-    <tag k="addr:housenumber" v="3161"/>
+    <tag k="addr:housenumber" v="3177"/>
     <tag k="addr:street" v="Primwood Drive"/>
     <tag k="addr:city" v="Harvey"/>
     <tag k="addr:postcode" v="70058"/>
   </way>
-  <node visible="true" id="-163" lat="29.84033320813942324889467272" lon="-90.06913727654813328626914881"/>
-  <node visible="true" id="-164" lat="29.84045925858647407835633203" lon="-90.06918204700164665155170951"/>
-  <node visible="true" id="-165" lat="29.84048993624898571397352498" lon="-90.06906725231178256763087120"/>
-  <node visible="true" id="-166" lat="29.84036388584062748918768193" lon="-90.06902248185826920234831050"/>
+  <node visible="true" id="-163" lat="29.83977111409775417882883630" lon="-90.06913619180666330521489726"/>
+  <node visible="true" id="-164" lat="29.83972734230532353194575990" lon="-90.06930383891389624295698013"/>
+  <node visible="true" id="-165" lat="29.83978558928179580789219472" lon="-90.06932405105656869181984803"/>
+  <node visible="true" id="-166" lat="29.83980241277756206841331732" lon="-90.06925961659992196928214980"/>
+  <node visible="true" id="-167" lat="29.83987585981696000203555741" lon="-90.06928510330084236557013355"/>
+  <node visible="true" id="-168" lat="29.83990280806828110371498042" lon="-90.06918189065024193951103371"/>
   <way visible="true" id="-28">
     <nd ref="-163"/>
     <nd ref="-164"/>
     <nd ref="-165"/>
     <nd ref="-166"/>
+    <nd ref="-167"/>
+    <nd ref="-168"/>
     <nd ref="-163"/>
     <tag k="building" v="yes"/>
-    <tag k="addr:housenumber" v="3156"/>
-    <tag k="addr:street" v="Sweet Gum Drive"/>
+    <tag k="addr:housenumber" v="3169"/>
+    <tag k="addr:street" v="Primwood Drive"/>
     <tag k="addr:city" v="Harvey"/>
     <tag k="addr:postcode" v="70058"/>
   </way>
-  <node visible="true" id="-167" lat="29.83999248262063730408044648" lon="-90.06910049082488001204183092"/>
-  <node visible="true" id="-168" lat="29.84012464660451868780910445" lon="-90.06914754928287436541722855"/>
-  <node visible="true" id="-169" lat="29.84017217227730256468021253" lon="-90.06897015179988841282465728"/>
-  <node visible="true" id="-170" lat="29.84011962603683443262525543" lon="-90.06895144210955095331883058"/>
-  <node visible="true" id="-171" lat="29.84011541261580191530811135" lon="-90.06896716939984059990820242"/>
-  <node visible="true" id="-172" lat="29.84009285089506136046111351" lon="-90.06895913604429892984626349"/>
-  <node visible="true" id="-173" lat="29.84009691826494403699143732" lon="-90.06894395391729801758629037"/>
-  <node visible="true" id="-174" lat="29.84003986230417382330415421" lon="-90.06892363850519700463337358"/>
+  <node visible="true" id="-169" lat="29.84020396863240165430397610" lon="-90.06930344732288062914449256"/>
+  <node visible="true" id="-170" lat="29.84008471399888051678317424" lon="-90.06925891500834779890283244"/>
+  <node visible="true" id="-171" lat="29.84004143399381092649491620" lon="-90.06941295413592740715102991"/>
+  <node visible="true" id="-172" lat="29.84017103549325966582728142" lon="-90.06946135018031895924650598"/>
+  <node visible="true" id="-173" lat="29.84020320464775721802652697" lon="-90.06934685586288935610355111"/>
+  <node visible="true" id="-174" lat="29.84019351178491419318561384" lon="-90.06934066464400245877186535"/>
   <way visible="true" id="-29">
-    <nd ref="-167"/>
-    <nd ref="-168"/>
     <nd ref="-169"/>
     <nd ref="-170"/>
     <nd ref="-171"/>
     <nd ref="-172"/>
     <nd ref="-173"/>
     <nd ref="-174"/>
-    <nd ref="-167"/>
+    <nd ref="-169"/>
     <tag k="building" v="yes"/>
-    <tag k="addr:housenumber" v="3164"/>
-    <tag k="addr:street" v="Sweet Gum Drive"/>
+    <tag k="addr:housenumber" v="3161"/>
+    <tag k="addr:street" v="Primwood Drive"/>
     <tag k="addr:city" v="Harvey"/>
     <tag k="addr:postcode" v="70058"/>
   </way>
-  <node visible="true" id="-175" lat="29.84053613699172657902636274" lon="-90.06860055777325158032908803"/>
-  <node visible="true" id="-176" lat="29.84050562184080845895550738" lon="-90.06871655914990526525798487"/>
-  <node visible="true" id="-177" lat="29.84054228552400545027012413" lon="-90.06872937761025355030142237"/>
-  <node visible="true" id="-178" lat="29.84053983624371397809227346" lon="-90.06873868839299746014148695"/>
-  <node visible="true" id="-179" lat="29.84057650282747431447205599" lon="-90.06875150787185191347816726"/>
-  <node visible="true" id="-180" lat="29.84056195804982891672807455" lon="-90.06880679893204444397269981"/>
-  <node visible="true" id="-181" lat="29.84061946428845502055082761" lon="-90.06882690443887895526131615"/>
-  <node visible="true" id="-182" lat="29.84066697344665897162485635" lon="-90.06864630121928882999782218"/>
+  <node visible="true" id="-175" lat="29.84033320813942324889467272" lon="-90.06913727654813328626914881"/>
+  <node visible="true" id="-176" lat="29.84045925858647407835633203" lon="-90.06918204700164665155170951"/>
+  <node visible="true" id="-177" lat="29.84048993624898571397352498" lon="-90.06906725231178256763087120"/>
+  <node visible="true" id="-178" lat="29.84036388584062748918768193" lon="-90.06902248185826920234831050"/>
   <way visible="true" id="-30">
     <nd ref="-175"/>
     <nd ref="-176"/>
     <nd ref="-177"/>
     <nd ref="-178"/>
-    <nd ref="-179"/>
-    <nd ref="-180"/>
-    <nd ref="-181"/>
-    <nd ref="-182"/>
     <nd ref="-175"/>
     <tag k="building" v="yes"/>
-    <tag k="addr:housenumber" v="3157"/>
+    <tag k="addr:housenumber" v="3156"/>
     <tag k="addr:street" v="Sweet Gum Drive"/>
     <tag k="addr:city" v="Harvey"/>
     <tag k="addr:postcode" v="70058"/>
   </way>
-  <node visible="true" id="-183" lat="29.84054050487183928908052621" lon="-90.06946219050752233670209534"/>
-  <node visible="true" id="-184" lat="29.84051184615514884512776916" lon="-90.06957629312788071729301009"/>
-  <node visible="true" id="-185" lat="29.84064409863039912806925713" lon="-90.06962044128520972208207240"/>
-  <node visible="true" id="-186" lat="29.84067275730913593179138843" lon="-90.06950633866485134149115765"/>
+  <node visible="true" id="-179" lat="29.83999248262063730408044648" lon="-90.06910049082488001204183092"/>
+  <node visible="true" id="-180" lat="29.84012464660451868780910445" lon="-90.06914754928287436541722855"/>
+  <node visible="true" id="-181" lat="29.84017217227730256468021253" lon="-90.06897015179988841282465728"/>
+  <node visible="true" id="-182" lat="29.84011962603683443262525543" lon="-90.06895144210955095331883058"/>
+  <node visible="true" id="-183" lat="29.84011541261580191530811135" lon="-90.06896716939984059990820242"/>
+  <node visible="true" id="-184" lat="29.84009285089506136046111351" lon="-90.06895913604429892984626349"/>
+  <node visible="true" id="-185" lat="29.84009691826494403699143732" lon="-90.06894395391729801758629037"/>
+  <node visible="true" id="-186" lat="29.84003986230417382330415421" lon="-90.06892363850519700463337358"/>
   <way visible="true" id="-31">
+    <nd ref="-179"/>
+    <nd ref="-180"/>
+    <nd ref="-181"/>
+    <nd ref="-182"/>
     <nd ref="-183"/>
     <nd ref="-184"/>
     <nd ref="-185"/>
     <nd ref="-186"/>
-    <nd ref="-183"/>
+    <nd ref="-179"/>
     <tag k="building" v="yes"/>
-    <tag k="addr:housenumber" v="3149"/>
-    <tag k="addr:street" v="Primwood Drive"/>
+    <tag k="addr:housenumber" v="3164"/>
+    <tag k="addr:street" v="Sweet Gum Drive"/>
     <tag k="addr:city" v="Harvey"/>
     <tag k="addr:postcode" v="70058"/>
   </way>

@@ -1,8 +1,10 @@
 <?xml version='1.0' encoding='utf8'?>
-<osm version="0.6" generator="AnonymousAlligator's import script">
-  <changeset_tag k="comment" v="Import buildings and addresses in Jefferson Parish, see https://wiki.openstreetmap.org/wiki/Import/Catalogue/Jefferson_Parish_Addresses_and_Buildings"/>
-  <changeset_tag k="source" v="Jefferson Parish Planning Department"/>
-  <changeset_tag k="source_file" v="8180_13548"/>
+<osm version="0.6" generator="AnonymousAlligator's import script" upload-changeset="-1">
+  <changeset id="-1">
+    <tag k="comment" v="Import buildings and addresses in Jefferson Parish, see https://wiki.openstreetmap.org/wiki/Import/Catalogue/Jefferson_Parish_Addresses_and_Buildings"/>
+    <tag k="source" v="Jefferson Parish Planning Department"/>
+    <tag k="source_file" v="change-8180_13548.osm"/>
+  </changeset>
   <node visible="true" id="-1" lat="29.72293009366767080337012885" lon="-90.12252376506539519596117316"/>
   <node visible="true" id="-2" lat="29.72290173024100567999994382" lon="-90.12262655311751302633638261"/>
   <node visible="true" id="-3" lat="29.72295878710134076072790776" lon="-90.12264742929954763894784264"/>
@@ -730,43 +732,43 @@
     <tag k="addr:city" v="Barataria"/>
     <tag k="addr:postcode" v="70036"/>
   </way>
-  <node visible="true" id="-209" lat="29.72367832281318555942561943" lon="-90.12416581286380790061230073"/>
-  <node visible="true" id="-210" lat="29.72355861768471640971256420" lon="-90.12412371822573220470076194"/>
-  <node visible="true" id="-211" lat="29.72350715639612772633881832" lon="-90.12431776187172260961233405"/>
-  <node visible="true" id="-212" lat="29.72362703335041089758306043" lon="-90.12435991691123149394115899"/>
-  <node visible="true" id="-213" lat="29.72363194301520294970941904" lon="-90.12434140415720662531384733"/>
-  <node visible="true" id="-214" lat="29.72364790177120141834166134" lon="-90.12434701609889486917381873"/>
-  <node visible="true" id="-215" lat="29.72365674130977097888717253" lon="-90.12431368505748707775637740"/>
-  <node visible="true" id="-216" lat="29.72364061079080954641540302" lon="-90.12430801271435143462440465"/>
+  <node visible="true" id="-209" lat="29.72245068873253259766897827" lon="-90.12265076059159696342248935"/>
+  <node visible="true" id="-210" lat="29.72240337083875871826421644" lon="-90.12285458014578409802197712"/>
+  <node visible="true" id="-211" lat="29.72248789261432833086473693" lon="-90.12288059797747052925842581"/>
+  <node visible="true" id="-212" lat="29.72253521046821944651128433" lon="-90.12267677842329760551365325"/>
   <way visible="true" id="-40">
     <nd ref="-209"/>
     <nd ref="-210"/>
     <nd ref="-211"/>
     <nd ref="-212"/>
+    <nd ref="-209"/>
+    <tag k="building" v="yes"/>
+    <tag k="addr:housenumber" v="4970"/>
+    <tag k="addr:street" v="Helmer Street"/>
+    <tag k="addr:city" v="Barataria"/>
+    <tag k="addr:postcode" v="70036"/>
+  </way>
+  <node visible="true" id="-213" lat="29.72367832281318555942561943" lon="-90.12416581286380790061230073"/>
+  <node visible="true" id="-214" lat="29.72355861768471640971256420" lon="-90.12412371822573220470076194"/>
+  <node visible="true" id="-215" lat="29.72350715639612772633881832" lon="-90.12431776187172260961233405"/>
+  <node visible="true" id="-216" lat="29.72362703335041089758306043" lon="-90.12435991691123149394115899"/>
+  <node visible="true" id="-217" lat="29.72363194301520294970941904" lon="-90.12434140415720662531384733"/>
+  <node visible="true" id="-218" lat="29.72364790177120141834166134" lon="-90.12434701609889486917381873"/>
+  <node visible="true" id="-219" lat="29.72365674130977097888717253" lon="-90.12431368505748707775637740"/>
+  <node visible="true" id="-220" lat="29.72364061079080954641540302" lon="-90.12430801271435143462440465"/>
+  <way visible="true" id="-41">
     <nd ref="-213"/>
     <nd ref="-214"/>
     <nd ref="-215"/>
     <nd ref="-216"/>
-    <nd ref="-209"/>
-    <tag k="building" v="yes"/>
-    <tag k="addr:housenumber" v="4989"/>
-    <tag k="addr:street" v="Af Pizani Street"/>
-    <tag k="addr:city" v="Barataria"/>
-    <tag k="addr:postcode" v="70036"/>
-  </way>
-  <node visible="true" id="-217" lat="29.72245068873253259766897827" lon="-90.12265076059159696342248935"/>
-  <node visible="true" id="-218" lat="29.72240337083875871826421644" lon="-90.12285458014578409802197712"/>
-  <node visible="true" id="-219" lat="29.72248789261432833086473693" lon="-90.12288059797747052925842581"/>
-  <node visible="true" id="-220" lat="29.72253521046821944651128433" lon="-90.12267677842329760551365325"/>
-  <way visible="true" id="-41">
     <nd ref="-217"/>
     <nd ref="-218"/>
     <nd ref="-219"/>
     <nd ref="-220"/>
-    <nd ref="-217"/>
+    <nd ref="-213"/>
     <tag k="building" v="yes"/>
-    <tag k="addr:housenumber" v="4970"/>
-    <tag k="addr:street" v="Helmer Street"/>
+    <tag k="addr:housenumber" v="4989"/>
+    <tag k="addr:street" v="Af Pizani Street"/>
     <tag k="addr:city" v="Barataria"/>
     <tag k="addr:postcode" v="70036"/>
   </way>

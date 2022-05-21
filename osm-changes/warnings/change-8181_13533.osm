@@ -1,8 +1,10 @@
 <?xml version='1.0' encoding='utf8'?>
-<osm version="0.6" generator="AnonymousAlligator's import script">
-  <changeset_tag k="comment" v="Import buildings and addresses in Jefferson Parish, see https://wiki.openstreetmap.org/wiki/Import/Catalogue/Jefferson_Parish_Addresses_and_Buildings"/>
-  <changeset_tag k="source" v="Jefferson Parish Planning Department"/>
-  <changeset_tag k="source_file" v="8181_13533"/>
+<osm version="0.6" generator="AnonymousAlligator's import script" upload-changeset="-1">
+  <changeset id="-1">
+    <tag k="comment" v="Import buildings and addresses in Jefferson Parish, see https://wiki.openstreetmap.org/wiki/Import/Catalogue/Jefferson_Parish_Addresses_and_Buildings"/>
+    <tag k="source" v="Jefferson Parish Planning Department"/>
+    <tag k="source_file" v="change-8181_13533.osm"/>
+  </changeset>
   <node visible="true" id="-1" lat="29.86236911576574826199248491" lon="-90.11239449459114325691189151"/>
   <node visible="true" id="-2" lat="29.86236374675896954045128950" lon="-90.11247304930465418237872655"/>
   <node visible="true" id="-3" lat="29.86235545275090430550335441" lon="-90.11247229556119009430403821"/>
@@ -1373,14 +1375,12 @@
     <tag k="addr:city" v="Marrero"/>
     <tag k="addr:postcode" v="70072"/>
   </way>
-  <node visible="true" id="-442" lat="29.86224164437042816189205041" lon="-90.11414329915078269550576806"/>
-  <node visible="true" id="-443" lat="29.86226525414017274329125939" lon="-90.11414535747422860367805697"/>
-  <node visible="true" id="-444" lat="29.86226333582793301957281074" lon="-90.11417461475336665444046957"/>
-  <node visible="true" id="-445" lat="29.86234460075131025291739206" lon="-90.11418169951463141842395999"/>
-  <node visible="true" id="-446" lat="29.86234663373426911903152359" lon="-90.11415069330209348663629498"/>
-  <node visible="true" id="-447" lat="29.86234461875654133677926438" lon="-90.11414994958010993286734447"/>
-  <node visible="true" id="-448" lat="29.86235048926012325409828918" lon="-90.11406041509253839194570901"/>
-  <node visible="true" id="-449" lat="29.86224766658621021520048089" lon="-90.11405145090442658784013474"/>
+  <node visible="true" id="-442" lat="29.86271825113208322477476031" lon="-90.11248077290814251227857312"/>
+  <node visible="true" id="-443" lat="29.86282378660179404050722951" lon="-90.11249036508486653929139720"/>
+  <node visible="true" id="-444" lat="29.86283007561323543654907553" lon="-90.11239836147568382784811547"/>
+  <node visible="true" id="-445" lat="29.86280384789821340518756188" lon="-90.11239597762317998785874806"/>
+  <node visible="true" id="-446" lat="29.86280571018887641798755794" lon="-90.11236873368878264045633841"/>
+  <node visible="true" id="-447" lat="29.86272640244233045336841315" lon="-90.11236152536453403172345133"/>
   <way visible="true" id="-61">
     <nd ref="-442"/>
     <nd ref="-443"/>
@@ -1388,52 +1388,54 @@
     <nd ref="-445"/>
     <nd ref="-446"/>
     <nd ref="-447"/>
-    <nd ref="-448"/>
-    <nd ref="-449"/>
     <nd ref="-442"/>
-    <tag k="building" v="yes"/>
-    <tag k="addr:housenumber" v="5849"/>
-    <tag k="addr:street" v="Coubra Street"/>
-    <tag k="addr:city" v="Marrero"/>
-    <tag k="addr:postcode" v="70072"/>
-  </way>
-  <node visible="true" id="-450" lat="29.86271825113208322477476031" lon="-90.11248077290814251227857312"/>
-  <node visible="true" id="-451" lat="29.86282378660179404050722951" lon="-90.11249036508486653929139720"/>
-  <node visible="true" id="-452" lat="29.86283007561323543654907553" lon="-90.11239836147568382784811547"/>
-  <node visible="true" id="-453" lat="29.86280384789821340518756188" lon="-90.11239597762317998785874806"/>
-  <node visible="true" id="-454" lat="29.86280571018887641798755794" lon="-90.11236873368878264045633841"/>
-  <node visible="true" id="-455" lat="29.86272640244233045336841315" lon="-90.11236152536453403172345133"/>
-  <way visible="true" id="-62">
-    <nd ref="-450"/>
-    <nd ref="-451"/>
-    <nd ref="-452"/>
-    <nd ref="-453"/>
-    <nd ref="-454"/>
-    <nd ref="-455"/>
-    <nd ref="-450"/>
     <tag k="building" v="yes"/>
     <tag k="addr:housenumber" v="5808"/>
     <tag k="addr:street" v="Coubra Street"/>
     <tag k="addr:city" v="Marrero"/>
     <tag k="addr:postcode" v="70072"/>
   </way>
-  <node visible="true" id="-456" lat="29.86232846341698277115028759" lon="-90.11342611017863646338810213"/>
-  <node visible="true" id="-457" lat="29.86232619253214792820472212" lon="-90.11342304050653240210522199"/>
-  <node visible="true" id="-458" lat="29.86230377451796869081590557" lon="-90.11342099045174336424679495"/>
-  <node visible="true" id="-459" lat="29.86229759112589832170669979" lon="-90.11351089784133705506974366"/>
-  <node visible="true" id="-460" lat="29.86232449082575257648386469" lon="-90.11351335773169068943388993"/>
-  <node visible="true" id="-461" lat="29.86232241884331273240604787" lon="-90.11354348465394537015527021"/>
-  <node visible="true" id="-462" lat="29.86239976623502556662970164" lon="-90.11355055782573231226706412"/>
-  <node visible="true" id="-463" lat="29.86240224643349350230892014" lon="-90.11351449535476376695442013"/>
-  <node visible="true" id="-464" lat="29.86241134951528053420588549" lon="-90.11351532780287243440398015"/>
-  <node visible="true" id="-465" lat="29.86241485294148034768113575" lon="-90.11346438743615294697519857"/>
-  <node visible="true" id="-466" lat="29.86240542059575631128609530" lon="-90.11346352487785793528018985"/>
-  <node visible="true" id="-467" lat="29.86240749673282834919518791" lon="-90.11343333752328987884538947"/>
-  <way visible="true" id="-63">
+  <node visible="true" id="-448" lat="29.86232846341698277115028759" lon="-90.11342611017863646338810213"/>
+  <node visible="true" id="-449" lat="29.86232619253214792820472212" lon="-90.11342304050653240210522199"/>
+  <node visible="true" id="-450" lat="29.86230377451796869081590557" lon="-90.11342099045174336424679495"/>
+  <node visible="true" id="-451" lat="29.86229759112589832170669979" lon="-90.11351089784133705506974366"/>
+  <node visible="true" id="-452" lat="29.86232449082575257648386469" lon="-90.11351335773169068943388993"/>
+  <node visible="true" id="-453" lat="29.86232241884331273240604787" lon="-90.11354348465394537015527021"/>
+  <node visible="true" id="-454" lat="29.86239976623502556662970164" lon="-90.11355055782573231226706412"/>
+  <node visible="true" id="-455" lat="29.86240224643349350230892014" lon="-90.11351449535476376695442013"/>
+  <node visible="true" id="-456" lat="29.86241134951528053420588549" lon="-90.11351532780287243440398015"/>
+  <node visible="true" id="-457" lat="29.86241485294148034768113575" lon="-90.11346438743615294697519857"/>
+  <node visible="true" id="-458" lat="29.86240542059575631128609530" lon="-90.11346352487785793528018985"/>
+  <node visible="true" id="-459" lat="29.86240749673282834919518791" lon="-90.11343333752328987884538947"/>
+  <way visible="true" id="-62">
+    <nd ref="-448"/>
+    <nd ref="-449"/>
+    <nd ref="-450"/>
+    <nd ref="-451"/>
+    <nd ref="-452"/>
+    <nd ref="-453"/>
+    <nd ref="-454"/>
+    <nd ref="-455"/>
     <nd ref="-456"/>
     <nd ref="-457"/>
     <nd ref="-458"/>
     <nd ref="-459"/>
+    <nd ref="-448"/>
+    <tag k="building" v="yes"/>
+    <tag k="addr:housenumber" v="5833"/>
+    <tag k="addr:street" v="Coubra Street"/>
+    <tag k="addr:city" v="Marrero"/>
+    <tag k="addr:postcode" v="70072"/>
+  </way>
+  <node visible="true" id="-460" lat="29.86224164437042816189205041" lon="-90.11414329915078269550576806"/>
+  <node visible="true" id="-461" lat="29.86226525414017274329125939" lon="-90.11414535747422860367805697"/>
+  <node visible="true" id="-462" lat="29.86226333582793301957281074" lon="-90.11417461475336665444046957"/>
+  <node visible="true" id="-463" lat="29.86234460075131025291739206" lon="-90.11418169951463141842395999"/>
+  <node visible="true" id="-464" lat="29.86234663373426911903152359" lon="-90.11415069330209348663629498"/>
+  <node visible="true" id="-465" lat="29.86234461875654133677926438" lon="-90.11414994958010993286734447"/>
+  <node visible="true" id="-466" lat="29.86235048926012325409828918" lon="-90.11406041509253839194570901"/>
+  <node visible="true" id="-467" lat="29.86224766658621021520048089" lon="-90.11405145090442658784013474"/>
+  <way visible="true" id="-63">
     <nd ref="-460"/>
     <nd ref="-461"/>
     <nd ref="-462"/>
@@ -1442,9 +1444,9 @@
     <nd ref="-465"/>
     <nd ref="-466"/>
     <nd ref="-467"/>
-    <nd ref="-456"/>
+    <nd ref="-460"/>
     <tag k="building" v="yes"/>
-    <tag k="addr:housenumber" v="5833"/>
+    <tag k="addr:housenumber" v="5849"/>
     <tag k="addr:street" v="Coubra Street"/>
     <tag k="addr:city" v="Marrero"/>
     <tag k="addr:postcode" v="70072"/>

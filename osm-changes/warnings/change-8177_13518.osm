@@ -1,8 +1,10 @@
 <?xml version='1.0' encoding='utf8'?>
-<osm version="0.6" generator="AnonymousAlligator's import script">
-  <changeset_tag k="comment" v="Import buildings and addresses in Jefferson Parish, see https://wiki.openstreetmap.org/wiki/Import/Catalogue/Jefferson_Parish_Addresses_and_Buildings"/>
-  <changeset_tag k="source" v="Jefferson Parish Planning Department"/>
-  <changeset_tag k="source_file" v="8177_13518"/>
+<osm version="0.6" generator="AnonymousAlligator's import script" upload-changeset="-1">
+  <changeset id="-1">
+    <tag k="comment" v="Import buildings and addresses in Jefferson Parish, see https://wiki.openstreetmap.org/wiki/Import/Catalogue/Jefferson_Parish_Addresses_and_Buildings"/>
+    <tag k="source" v="Jefferson Parish Planning Department"/>
+    <tag k="source_file" v="change-8177_13518.osm"/>
+  </changeset>
   <node visible="true" id="-1" lat="30.01146846053076089333444543" lon="-90.16151197217534729588805931"/>
   <node visible="true" id="-2" lat="30.01146886471030938992043957" lon="-90.16152530294822042833402520"/>
   <node visible="true" id="-3" lat="30.01145592075599566328492074" lon="-90.16152582633793599597993307"/>
@@ -583,10 +585,10 @@
     <tag k="addr:city" v="Metairie"/>
     <tag k="addr:postcode" v="70002"/>
   </way>
-  <node visible="true" id="-180" lat="30.00968360117245481433201348" lon="-90.16296640185242949883104302"/>
-  <node visible="true" id="-181" lat="30.00988356003923485104678548" lon="-90.16295761632133576313208323"/>
-  <node visible="true" id="-182" lat="30.00987582499386974177468801" lon="-90.16272283673954746063827770"/>
-  <node visible="true" id="-183" lat="30.00967586611126947104821738" lon="-90.16273162227064119633723749"/>
+  <node visible="true" id="-180" lat="30.01029599952418891462002648" lon="-90.16271907870691393327433616"/>
+  <node visible="true" id="-181" lat="30.01030685988671464770050079" lon="-90.16303138775508330127195222"/>
+  <node visible="true" id="-182" lat="30.01040153328020565481892845" lon="-90.16302699722611180277453968"/>
+  <node visible="true" id="-183" lat="30.01039067292823148136449163" lon="-90.16271468817794243477692362"/>
   <way visible="true" id="-11">
     <nd ref="-180"/>
     <nd ref="-181"/>
@@ -598,58 +600,31 @@
     <tag k="addr:city" v="Metairie"/>
     <tag k="addr:postcode" v="70002"/>
   </way>
-  <node visible="true" id="-184" lat="30.00954563934271490666105819" lon="-90.16273496073688420437974855"/>
-  <node visible="true" id="-185" lat="30.00934474695635145735650440" lon="-90.16274287899318551353644580"/>
-  <node visible="true" id="-186" lat="30.00935168675898268020318937" lon="-90.16297768111985533323604614"/>
-  <node visible="true" id="-187" lat="30.00955257913105711509160756" lon="-90.16296976286355402407934889"/>
+  <node visible="true" id="-184" lat="30.01013705094824857155799691" lon="-90.16254344946271714889007853"/>
+  <node visible="true" id="-185" lat="30.01013622210424003355910827" lon="-90.16252265676533284022298176"/>
+  <node visible="true" id="-186" lat="30.01006564271015975009504473" lon="-90.16252640880264834777335636"/>
+  <node visible="true" id="-187" lat="30.01007445664297890175475914" lon="-90.16274751837900680584425572"/>
+  <node visible="true" id="-188" lat="30.01014499427851234258923796" lon="-90.16274376856125627455185167"/>
+  <node visible="true" id="-189" lat="30.01014440475364608573727310" lon="-90.16272897951407117034250405"/>
+  <node visible="true" id="-190" lat="30.01020872365620562050025910" lon="-90.16272556028513918136013672"/>
+  <node visible="true" id="-191" lat="30.01020939323790059916063910" lon="-90.16274235768696598825044930"/>
+  <node visible="true" id="-192" lat="30.01027966763579257758465246" lon="-90.16273862185799714552558726"/>
+  <node visible="true" id="-193" lat="30.01027581866667759413758176" lon="-90.16264206500197531113371952"/>
+  <node visible="true" id="-194" lat="30.01025811514901775467478728" lon="-90.16264300613177340437687235"/>
+  <node visible="true" id="-195" lat="30.01025691264008798953000223" lon="-90.16261283949211247090715915"/>
+  <node visible="true" id="-196" lat="30.01027413230792717513395473" lon="-90.16261192408410352072678506"/>
+  <node visible="true" id="-197" lat="30.01027036985717444395049824" lon="-90.16251753766611898299743189"/>
+  <node visible="true" id="-198" lat="30.01020250366602581948427542" lon="-90.16252114547309304271038854"/>
+  <node visible="true" id="-199" lat="30.01020325246548026143500465" lon="-90.16253993015314449621655513"/>
   <way visible="true" id="-12">
     <nd ref="-184"/>
     <nd ref="-185"/>
     <nd ref="-186"/>
     <nd ref="-187"/>
-    <nd ref="-184"/>
-    <tag k="building" v="yes"/>
-    <tag k="addr:street" v="Hessmer Avenue"/>
-    <tag k="addr:city" v="Metairie"/>
-    <tag k="addr:postcode" v="70002"/>
-  </way>
-  <node visible="true" id="-188" lat="30.01068602292373554973892169" lon="-90.15444109317520826607506024"/>
-  <node visible="true" id="-189" lat="30.01095973324408916482752829" lon="-90.15443054850685200563020771"/>
-  <node visible="true" id="-190" lat="30.01095491093802181126193318" lon="-90.15426361362823115541687002"/>
-  <node visible="true" id="-191" lat="30.01068120060410393534766627" lon="-90.15427415829661583757115295"/>
-  <way visible="true" id="-13">
     <nd ref="-188"/>
     <nd ref="-189"/>
     <nd ref="-190"/>
     <nd ref="-191"/>
-    <nd ref="-188"/>
-    <tag k="building" v="yes"/>
-    <tag k="addr:housenumber" v="3413"/>
-    <tag k="addr:street" v="North Causeway Boulevard East"/>
-    <tag k="addr:city" v="Metairie"/>
-    <tag k="addr:postcode" v="70002"/>
-  </way>
-  <node visible="true" id="-192" lat="30.01199045716355939816821774" lon="-90.16094450115684821867034771"/>
-  <node visible="true" id="-193" lat="30.01200252331683060447176103" lon="-90.16094391964450949217280140"/>
-  <node visible="true" id="-194" lat="30.01199911285853616504937236" lon="-90.16084954259261508013878483"/>
-  <node visible="true" id="-195" lat="30.01198779981955055973230628" lon="-90.16085008780957821272750152"/>
-  <node visible="true" id="-196" lat="30.01198725885355500508921978" lon="-90.16083511774836267704813508"/>
-  <node visible="true" id="-197" lat="30.01196599653261998241760011" lon="-90.16083614245765431860490935"/>
-  <node visible="true" id="-198" lat="30.01196655651160583033743023" lon="-90.16085163865569995778059820"/>
-  <node visible="true" id="-199" lat="30.01193218475044943716056878" lon="-90.16085329515658486343454570"/>
-  <node visible="true" id="-200" lat="30.01193163993138668388382939" lon="-90.16083821847755075395980384"/>
-  <node visible="true" id="-201" lat="30.01186671076057521645452653" lon="-90.16084134765020507984445430"/>
-  <node visible="true" id="-202" lat="30.01186712536295431164035108" lon="-90.16085282086125118894415209"/>
-  <node visible="true" id="-203" lat="30.01183339746052780583340791" lon="-90.16085444633060319574724417"/>
-  <node visible="true" id="-204" lat="30.01183294376853538665272936" lon="-90.16084189140542548557277769"/>
-  <node visible="true" id="-205" lat="30.01176793651566399034891219" lon="-90.16084502433800196286028950"/>
-  <node visible="true" id="-206" lat="30.01176842743051409456711554" lon="-90.16085860930901674237247789"/>
-  <node visible="true" id="-207" lat="30.01175224444439493254321860" lon="-90.16085938922483933311013971"/>
-  <node visible="true" id="-208" lat="30.01175576947051837350954884" lon="-90.16095693645358721823868109"/>
-  <node visible="true" id="-209" lat="30.01176583380742712847677467" lon="-90.16095645141730585692130262"/>
-  <node visible="true" id="-210" lat="30.01176623448948888039922167" lon="-90.16096753940846042496559676"/>
-  <node visible="true" id="-211" lat="30.01199089842263134642053046" lon="-90.16095671203954964312288212"/>
-  <way visible="true" id="-14">
     <nd ref="-192"/>
     <nd ref="-193"/>
     <nd ref="-194"/>
@@ -658,56 +633,83 @@
     <nd ref="-197"/>
     <nd ref="-198"/>
     <nd ref="-199"/>
+    <nd ref="-184"/>
+    <tag k="building" v="yes"/>
+    <tag k="addr:street" v="Edenborn Avenue"/>
+    <tag k="addr:city" v="Metairie"/>
+    <tag k="addr:postcode" v="70002"/>
+  </way>
+  <node visible="true" id="-200" lat="30.00968360117245481433201348" lon="-90.16296640185242949883104302"/>
+  <node visible="true" id="-201" lat="30.00988356003923485104678548" lon="-90.16295761632133576313208323"/>
+  <node visible="true" id="-202" lat="30.00987582499386974177468801" lon="-90.16272283673954746063827770"/>
+  <node visible="true" id="-203" lat="30.00967586611126947104821738" lon="-90.16273162227064119633723749"/>
+  <way visible="true" id="-13">
     <nd ref="-200"/>
     <nd ref="-201"/>
     <nd ref="-202"/>
     <nd ref="-203"/>
-    <nd ref="-204"/>
-    <nd ref="-205"/>
-    <nd ref="-206"/>
-    <nd ref="-207"/>
-    <nd ref="-208"/>
-    <nd ref="-209"/>
-    <nd ref="-210"/>
-    <nd ref="-211"/>
-    <nd ref="-192"/>
-    <tag k="building" v="yes"/>
-    <tag k="addr:street" v="North Arnoult Road"/>
-    <tag k="addr:city" v="Metairie"/>
-    <tag k="addr:postcode" v="70002"/>
-  </way>
-  <node visible="true" id="-212" lat="30.01029599952418891462002648" lon="-90.16271907870691393327433616"/>
-  <node visible="true" id="-213" lat="30.01030685988671464770050079" lon="-90.16303138775508330127195222"/>
-  <node visible="true" id="-214" lat="30.01040153328020565481892845" lon="-90.16302699722611180277453968"/>
-  <node visible="true" id="-215" lat="30.01039067292823148136449163" lon="-90.16271468817794243477692362"/>
-  <way visible="true" id="-15">
-    <nd ref="-212"/>
-    <nd ref="-213"/>
-    <nd ref="-214"/>
-    <nd ref="-215"/>
-    <nd ref="-212"/>
+    <nd ref="-200"/>
     <tag k="building" v="yes"/>
     <tag k="addr:street" v="Hessmer Avenue"/>
     <tag k="addr:city" v="Metairie"/>
     <tag k="addr:postcode" v="70002"/>
   </way>
-  <node visible="true" id="-216" lat="30.01013705094824857155799691" lon="-90.16254344946271714889007853"/>
-  <node visible="true" id="-217" lat="30.01013622210424003355910827" lon="-90.16252265676533284022298176"/>
-  <node visible="true" id="-218" lat="30.01006564271015975009504473" lon="-90.16252640880264834777335636"/>
-  <node visible="true" id="-219" lat="30.01007445664297890175475914" lon="-90.16274751837900680584425572"/>
-  <node visible="true" id="-220" lat="30.01014499427851234258923796" lon="-90.16274376856125627455185167"/>
-  <node visible="true" id="-221" lat="30.01014440475364608573727310" lon="-90.16272897951407117034250405"/>
-  <node visible="true" id="-222" lat="30.01020872365620562050025910" lon="-90.16272556028513918136013672"/>
-  <node visible="true" id="-223" lat="30.01020939323790059916063910" lon="-90.16274235768696598825044930"/>
-  <node visible="true" id="-224" lat="30.01027966763579257758465246" lon="-90.16273862185799714552558726"/>
-  <node visible="true" id="-225" lat="30.01027581866667759413758176" lon="-90.16264206500197531113371952"/>
-  <node visible="true" id="-226" lat="30.01025811514901775467478728" lon="-90.16264300613177340437687235"/>
-  <node visible="true" id="-227" lat="30.01025691264008798953000223" lon="-90.16261283949211247090715915"/>
-  <node visible="true" id="-228" lat="30.01027413230792717513395473" lon="-90.16261192408410352072678506"/>
-  <node visible="true" id="-229" lat="30.01027036985717444395049824" lon="-90.16251753766611898299743189"/>
-  <node visible="true" id="-230" lat="30.01020250366602581948427542" lon="-90.16252114547309304271038854"/>
-  <node visible="true" id="-231" lat="30.01020325246548026143500465" lon="-90.16253993015314449621655513"/>
+  <node visible="true" id="-204" lat="30.00954563934271490666105819" lon="-90.16273496073688420437974855"/>
+  <node visible="true" id="-205" lat="30.00934474695635145735650440" lon="-90.16274287899318551353644580"/>
+  <node visible="true" id="-206" lat="30.00935168675898268020318937" lon="-90.16297768111985533323604614"/>
+  <node visible="true" id="-207" lat="30.00955257913105711509160756" lon="-90.16296976286355402407934889"/>
+  <way visible="true" id="-14">
+    <nd ref="-204"/>
+    <nd ref="-205"/>
+    <nd ref="-206"/>
+    <nd ref="-207"/>
+    <nd ref="-204"/>
+    <tag k="building" v="yes"/>
+    <tag k="addr:street" v="Hessmer Avenue"/>
+    <tag k="addr:city" v="Metairie"/>
+    <tag k="addr:postcode" v="70002"/>
+  </way>
+  <node visible="true" id="-208" lat="30.01068602292373554973892169" lon="-90.15444109317520826607506024"/>
+  <node visible="true" id="-209" lat="30.01095973324408916482752829" lon="-90.15443054850685200563020771"/>
+  <node visible="true" id="-210" lat="30.01095491093802181126193318" lon="-90.15426361362823115541687002"/>
+  <node visible="true" id="-211" lat="30.01068120060410393534766627" lon="-90.15427415829661583757115295"/>
+  <way visible="true" id="-15">
+    <nd ref="-208"/>
+    <nd ref="-209"/>
+    <nd ref="-210"/>
+    <nd ref="-211"/>
+    <nd ref="-208"/>
+    <tag k="building" v="yes"/>
+    <tag k="addr:housenumber" v="3413"/>
+    <tag k="addr:street" v="North Causeway Boulevard East"/>
+    <tag k="addr:city" v="Metairie"/>
+    <tag k="addr:postcode" v="70002"/>
+  </way>
+  <node visible="true" id="-212" lat="30.01199045716355939816821774" lon="-90.16094450115684821867034771"/>
+  <node visible="true" id="-213" lat="30.01200252331683060447176103" lon="-90.16094391964450949217280140"/>
+  <node visible="true" id="-214" lat="30.01199911285853616504937236" lon="-90.16084954259261508013878483"/>
+  <node visible="true" id="-215" lat="30.01198779981955055973230628" lon="-90.16085008780957821272750152"/>
+  <node visible="true" id="-216" lat="30.01198725885355500508921978" lon="-90.16083511774836267704813508"/>
+  <node visible="true" id="-217" lat="30.01196599653261998241760011" lon="-90.16083614245765431860490935"/>
+  <node visible="true" id="-218" lat="30.01196655651160583033743023" lon="-90.16085163865569995778059820"/>
+  <node visible="true" id="-219" lat="30.01193218475044943716056878" lon="-90.16085329515658486343454570"/>
+  <node visible="true" id="-220" lat="30.01193163993138668388382939" lon="-90.16083821847755075395980384"/>
+  <node visible="true" id="-221" lat="30.01186671076057521645452653" lon="-90.16084134765020507984445430"/>
+  <node visible="true" id="-222" lat="30.01186712536295431164035108" lon="-90.16085282086125118894415209"/>
+  <node visible="true" id="-223" lat="30.01183339746052780583340791" lon="-90.16085444633060319574724417"/>
+  <node visible="true" id="-224" lat="30.01183294376853538665272936" lon="-90.16084189140542548557277769"/>
+  <node visible="true" id="-225" lat="30.01176793651566399034891219" lon="-90.16084502433800196286028950"/>
+  <node visible="true" id="-226" lat="30.01176842743051409456711554" lon="-90.16085860930901674237247789"/>
+  <node visible="true" id="-227" lat="30.01175224444439493254321860" lon="-90.16085938922483933311013971"/>
+  <node visible="true" id="-228" lat="30.01175576947051837350954884" lon="-90.16095693645358721823868109"/>
+  <node visible="true" id="-229" lat="30.01176583380742712847677467" lon="-90.16095645141730585692130262"/>
+  <node visible="true" id="-230" lat="30.01176623448948888039922167" lon="-90.16096753940846042496559676"/>
+  <node visible="true" id="-231" lat="30.01199089842263134642053046" lon="-90.16095671203954964312288212"/>
   <way visible="true" id="-16">
+    <nd ref="-212"/>
+    <nd ref="-213"/>
+    <nd ref="-214"/>
+    <nd ref="-215"/>
     <nd ref="-216"/>
     <nd ref="-217"/>
     <nd ref="-218"/>
@@ -724,9 +726,9 @@
     <nd ref="-229"/>
     <nd ref="-230"/>
     <nd ref="-231"/>
-    <nd ref="-216"/>
+    <nd ref="-212"/>
     <tag k="building" v="yes"/>
-    <tag k="addr:street" v="Edenborn Avenue"/>
+    <tag k="addr:street" v="North Arnoult Road"/>
     <tag k="addr:city" v="Metairie"/>
     <tag k="addr:postcode" v="70002"/>
   </way>

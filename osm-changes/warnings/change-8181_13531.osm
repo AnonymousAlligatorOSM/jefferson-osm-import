@@ -1,8 +1,10 @@
 <?xml version='1.0' encoding='utf8'?>
-<osm version="0.6" generator="AnonymousAlligator's import script">
-  <changeset_tag k="comment" v="Import buildings and addresses in Jefferson Parish, see https://wiki.openstreetmap.org/wiki/Import/Catalogue/Jefferson_Parish_Addresses_and_Buildings"/>
-  <changeset_tag k="source" v="Jefferson Parish Planning Department"/>
-  <changeset_tag k="source_file" v="8181_13531"/>
+<osm version="0.6" generator="AnonymousAlligator's import script" upload-changeset="-1">
+  <changeset id="-1">
+    <tag k="comment" v="Import buildings and addresses in Jefferson Parish, see https://wiki.openstreetmap.org/wiki/Import/Catalogue/Jefferson_Parish_Addresses_and_Buildings"/>
+    <tag k="source" v="Jefferson Parish Planning Department"/>
+    <tag k="source_file" v="change-8181_13531.osm"/>
+  </changeset>
   <node visible="true" id="-1" lat="29.88147755757169932167016668" lon="-90.11550394751174053453723900"/>
   <node visible="true" id="-2" lat="29.88144987424664478226077335" lon="-90.11550420529020755111559993"/>
   <node visible="true" id="-3" lat="29.88145062275591357092707767" lon="-90.11561112854813870853831759"/>
@@ -135,12 +137,12 @@
     <tag k="addr:city" v="Marrero"/>
     <tag k="addr:postcode" v="70072"/>
   </way>
-  <node visible="true" id="-43" lat="29.88561980559208564045547973" lon="-90.11495533477237529496051138"/>
-  <node visible="true" id="-44" lat="29.88554940824408490129826532" lon="-90.11495801931788207639328903"/>
-  <node visible="true" id="-45" lat="29.88555180595093574424936378" lon="-90.11504166067788901273161173"/>
-  <node visible="true" id="-46" lat="29.88551922042018915703920356" lon="-90.11504290329995114916528109"/>
-  <node visible="true" id="-47" lat="29.88552170339923108599577972" lon="-90.11512951926793846268992638"/>
-  <node visible="true" id="-48" lat="29.88562468627398160947450378" lon="-90.11512559210038375567819458"/>
+  <node visible="true" id="-43" lat="29.88104625648038847884890856" lon="-90.11942794820335222993890056"/>
+  <node visible="true" id="-44" lat="29.88104815197561237027912284" lon="-90.11954740596472390734561486"/>
+  <node visible="true" id="-45" lat="29.88108623168301392070134170" lon="-90.11954660224949975599884056"/>
+  <node visible="true" id="-46" lat="29.88108754809324807411030633" lon="-90.11962956494581078459304990"/>
+  <node visible="true" id="-47" lat="29.88115763153091108961234568" lon="-90.11962808575486860718228854"/>
+  <node visible="true" id="-48" lat="29.88115441962889207161424565" lon="-90.11942566529714326861721929"/>
   <way visible="true" id="-7">
     <nd ref="-43"/>
     <nd ref="-44"/>
@@ -150,379 +152,379 @@
     <nd ref="-48"/>
     <nd ref="-43"/>
     <tag k="building" v="yes"/>
-    <tag k="addr:housenumber" v="1605"/>
-    <tag k="addr:street" v="Buccola Avenue"/>
-    <tag k="addr:city" v="Marrero"/>
-    <tag k="addr:postcode" v="70072"/>
-  </way>
-  <node visible="true" id="-49" lat="29.88397846225667109365531360" lon="-90.11562465530448662320850417"/>
-  <node visible="true" id="-50" lat="29.88397645587261308719462249" lon="-90.11545185457430306996684521"/>
-  <node visible="true" id="-51" lat="29.88394260535144297818987980" lon="-90.11545237740298830431129318"/>
-  <node visible="true" id="-52" lat="29.88394249575966554743899906" lon="-90.11544293870298361071036197"/>
-  <node visible="true" id="-53" lat="29.88390635366572567477305711" lon="-90.11544349692530886386521161"/>
-  <node visible="true" id="-54" lat="29.88390846964366431848247885" lon="-90.11562573635551132156251697"/>
-  <way visible="true" id="-8">
-    <nd ref="-49"/>
-    <nd ref="-50"/>
-    <nd ref="-51"/>
-    <nd ref="-52"/>
-    <nd ref="-53"/>
-    <nd ref="-54"/>
-    <nd ref="-49"/>
-    <tag k="building" v="yes"/>
-    <tag k="addr:housenumber" v="1656"/>
-    <tag k="addr:street" v="Buccola Avenue"/>
-    <tag k="addr:city" v="Marrero"/>
-    <tag k="addr:postcode" v="70072"/>
-  </way>
-  <node visible="true" id="-55" lat="29.88417105129930462226184318" lon="-90.11555068376746646663377760"/>
-  <node visible="true" id="-56" lat="29.88420168616448435727761535" lon="-90.11555102764569369355740491"/>
-  <node visible="true" id="-57" lat="29.88420136656272418917978939" lon="-90.11558403022579000207770150"/>
-  <node visible="true" id="-58" lat="29.88425888522581175266168430" lon="-90.11558476271407869262475288"/>
-  <node visible="true" id="-59" lat="29.88425949765582601003188756" lon="-90.11544845752058563448372297"/>
-  <node visible="true" id="-60" lat="29.88423261384776097315807419" lon="-90.11544806792228712311043637"/>
-  <node visible="true" id="-61" lat="29.88423250754923543581753620" lon="-90.11543659132250638776895357"/>
-  <node visible="true" id="-62" lat="29.88419624790240547440589580" lon="-90.11543631608499538288015174"/>
-  <node visible="true" id="-63" lat="29.88419572902474286024698813" lon="-90.11544780030578749574488029"/>
-  <node visible="true" id="-64" lat="29.88417197684012549530052638" lon="-90.11544809000925226882827701"/>
-  <way visible="true" id="-9">
-    <nd ref="-55"/>
-    <nd ref="-56"/>
-    <nd ref="-57"/>
-    <nd ref="-58"/>
-    <nd ref="-59"/>
-    <nd ref="-60"/>
-    <nd ref="-61"/>
-    <nd ref="-62"/>
-    <nd ref="-63"/>
-    <nd ref="-64"/>
-    <nd ref="-55"/>
-    <tag k="building" v="yes"/>
-    <tag k="addr:housenumber" v="1648"/>
-    <tag k="addr:street" v="Buccola Avenue"/>
-    <tag k="addr:city" v="Marrero"/>
-    <tag k="addr:postcode" v="70072"/>
-  </way>
-  <node visible="true" id="-65" lat="29.88423326171313121335515461" lon="-90.11498815966690756340540247"/>
-  <node visible="true" id="-66" lat="29.88414700472970508826620062" lon="-90.11498935678085331346665043"/>
-  <node visible="true" id="-67" lat="29.88414866228175625906260393" lon="-90.11514823091775383545609657"/>
-  <node visible="true" id="-68" lat="29.88423491926373287697060732" lon="-90.11514703380380808539484860"/>
-  <way visible="true" id="-10">
-    <nd ref="-65"/>
-    <nd ref="-66"/>
-    <nd ref="-67"/>
-    <nd ref="-68"/>
-    <nd ref="-65"/>
-    <tag k="building" v="yes"/>
-    <tag k="addr:housenumber" v="1649"/>
-    <tag k="addr:street" v="Buccola Avenue"/>
-    <tag k="addr:city" v="Marrero"/>
-    <tag k="addr:postcode" v="70072"/>
-  </way>
-  <node visible="true" id="-69" lat="29.88409645486063581643065845" lon="-90.11501946414449548683478497"/>
-  <node visible="true" id="-70" lat="29.88402551344094959517860843" lon="-90.11502074495550118626852054"/>
-  <node visible="true" id="-71" lat="29.88402732407536532832637022" lon="-90.11515414983989558095345274"/>
-  <node visible="true" id="-72" lat="29.88409826549321479660648038" lon="-90.11515286902890409237443237"/>
-  <way visible="true" id="-11">
-    <nd ref="-69"/>
-    <nd ref="-70"/>
-    <nd ref="-71"/>
-    <nd ref="-72"/>
-    <nd ref="-69"/>
-    <tag k="building" v="yes"/>
-    <tag k="addr:housenumber" v="1653"/>
-    <tag k="addr:street" v="Buccola Avenue"/>
-    <tag k="addr:city" v="Marrero"/>
-    <tag k="addr:postcode" v="70072"/>
-  </way>
-  <node visible="true" id="-73" lat="29.88278105278855889537226176" lon="-90.11544857845687772623932688"/>
-  <node visible="true" id="-74" lat="29.88265792255384312170463090" lon="-90.11545075232584167679306120"/>
-  <node visible="true" id="-75" lat="29.88266012155463258181953279" lon="-90.11561643270961496909876587"/>
-  <node visible="true" id="-76" lat="29.88278325178666250394599047" lon="-90.11561425884065101854503155"/>
-  <way visible="true" id="-12">
-    <nd ref="-73"/>
-    <nd ref="-74"/>
-    <nd ref="-75"/>
-    <nd ref="-76"/>
-    <nd ref="-73"/>
-    <tag k="building" v="yes"/>
-    <tag k="addr:housenumber" v="1716"/>
-    <tag k="addr:street" v="Buccola Avenue"/>
-    <tag k="addr:city" v="Marrero"/>
-    <tag k="addr:postcode" v="70072"/>
-  </way>
-  <node visible="true" id="-77" lat="29.88330712975107772422234120" lon="-90.11843309093364950967952609"/>
-  <node visible="true" id="-78" lat="29.88330650848892844351212261" lon="-90.11839184567296001659997273"/>
-  <node visible="true" id="-79" lat="29.88323068124461201477970462" lon="-90.11839336498138663955614902"/>
-  <node visible="true" id="-80" lat="29.88323192220229529425523651" lon="-90.11847575141389654618251370"/>
-  <node visible="true" id="-81" lat="29.88320980204477095298898348" lon="-90.11847619462301395287795458"/>
-  <node visible="true" id="-82" lat="29.88321133632000581314969168" lon="-90.11857805418316047507687472"/>
-  <node visible="true" id="-83" lat="29.88318871328796788588988420" lon="-90.11857850746798703767126426"/>
-  <node visible="true" id="-84" lat="29.88318944057168025096871133" lon="-90.11862679135671783114958089"/>
-  <node visible="true" id="-85" lat="29.88354414981880680102221959" lon="-90.11861968423730218091805000"/>
-  <node visible="true" id="-86" lat="29.88354334042496063261751260" lon="-90.11856594891175120665138820"/>
-  <node visible="true" id="-87" lat="29.88375014825674469420846435" lon="-90.11856180520221926144586178"/>
-  <node visible="true" id="-88" lat="29.88374807641053010343057394" lon="-90.11842425590707250648847548"/>
-  <way visible="true" id="-13">
-    <nd ref="-77"/>
-    <nd ref="-78"/>
-    <nd ref="-79"/>
-    <nd ref="-80"/>
-    <nd ref="-81"/>
-    <nd ref="-82"/>
-    <nd ref="-83"/>
-    <nd ref="-84"/>
-    <nd ref="-85"/>
-    <nd ref="-86"/>
-    <nd ref="-87"/>
-    <nd ref="-88"/>
-    <nd ref="-77"/>
-    <tag k="building" v="yes"/>
-    <tag k="addr:housenumber" v="6520"/>
-    <tag k="addr:street" v="Second Zion Boulevard"/>
-    <tag k="addr:city" v="Marrero"/>
-    <tag k="addr:postcode" v="70072"/>
-  </way>
-  <node visible="true" id="-89" lat="29.88350109697460865731954982" lon="-90.11901069406309261466958560"/>
-  <node visible="true" id="-90" lat="29.88337801231710244564965251" lon="-90.11901305721634969359001843"/>
-  <node visible="true" id="-91" lat="29.88337915145354983792458370" lon="-90.11909198108305929508787813"/>
-  <node visible="true" id="-92" lat="29.88340796589413628225884167" lon="-90.11909142786295490168413380"/>
-  <node visible="true" id="-93" lat="29.88340820505972672549432900" lon="-90.11910799816929795724718133"/>
-  <node visible="true" id="-94" lat="29.88350247527398551028454676" lon="-90.11910618823617369343992323"/>
-  <way visible="true" id="-14">
-    <nd ref="-89"/>
-    <nd ref="-90"/>
-    <nd ref="-91"/>
-    <nd ref="-92"/>
-    <nd ref="-93"/>
-    <nd ref="-94"/>
-    <nd ref="-89"/>
-    <tag k="building" v="yes"/>
-    <tag k="addr:housenumber" v="1529"/>
-    <tag k="addr:street" v="Mansfield Avenue"/>
-    <tag k="addr:city" v="Marrero"/>
-    <tag k="addr:postcode" v="70072"/>
-  </way>
-  <node visible="true" id="-95" lat="29.88486958815749972018238623" lon="-90.11553650986961372382211266"/>
-  <node visible="true" id="-96" lat="29.88488723402319635624735383" lon="-90.11553612865480999971623532"/>
-  <node visible="true" id="-97" lat="29.88488760067132332665096328" lon="-90.11555870511318744320305996"/>
-  <node visible="true" id="-98" lat="29.88494326815866486413142411" lon="-90.11555750249279128638590919"/>
-  <node visible="true" id="-99" lat="29.88494124881222546719072852" lon="-90.11543316054033425643865485"/>
-  <node visible="true" id="-100" lat="29.88490579085336307230136299" lon="-90.11543392656142259511398152"/>
-  <node visible="true" id="-101" lat="29.88490557556599114263917727" lon="-90.11542067021237301105429651"/>
-  <node visible="true" id="-102" lat="29.88486772017077797158890462" lon="-90.11542148802648455330199795"/>
-  <way visible="true" id="-15">
-    <nd ref="-95"/>
-    <nd ref="-96"/>
-    <nd ref="-97"/>
-    <nd ref="-98"/>
-    <nd ref="-99"/>
-    <nd ref="-100"/>
-    <nd ref="-101"/>
-    <nd ref="-102"/>
-    <nd ref="-95"/>
-    <tag k="building" v="yes"/>
-    <tag k="addr:housenumber" v="1628"/>
-    <tag k="addr:street" v="Buccola Avenue"/>
-    <tag k="addr:city" v="Marrero"/>
-    <tag k="addr:postcode" v="70072"/>
-  </way>
-  <node visible="true" id="-103" lat="29.88503103769879842843693041" lon="-90.11552786861220454284193693"/>
-  <node visible="true" id="-104" lat="29.88503091824629720463235572" lon="-90.11551996751063597912434489"/>
-  <node visible="true" id="-105" lat="29.88508530715662203647298156" lon="-90.11551887367049573640542803"/>
-  <node visible="true" id="-106" lat="29.88508375627205992941526347" lon="-90.11541629170027078998828074"/>
-  <node visible="true" id="-107" lat="29.88502496169143540782897617" lon="-90.11541747414483438660681713"/>
-  <node visible="true" id="-108" lat="29.88502511368066194563652971" lon="-90.11542752730505867475585546"/>
-  <node visible="true" id="-109" lat="29.88499635361531048260985699" lon="-90.11542810571155825982714305"/>
-  <node visible="true" id="-110" lat="29.88499787196499113406389370" lon="-90.11552853562311327095812885"/>
-  <way visible="true" id="-16">
-    <nd ref="-103"/>
-    <nd ref="-104"/>
-    <nd ref="-105"/>
-    <nd ref="-106"/>
-    <nd ref="-107"/>
-    <nd ref="-108"/>
-    <nd ref="-109"/>
-    <nd ref="-110"/>
-    <nd ref="-103"/>
-    <tag k="building" v="yes"/>
-    <tag k="addr:housenumber" v="1624"/>
-    <tag k="addr:street" v="Buccola Avenue"/>
-    <tag k="addr:city" v="Marrero"/>
-    <tag k="addr:postcode" v="70072"/>
-  </way>
-  <node visible="true" id="-111" lat="29.88104625648038847884890856" lon="-90.11942794820335222993890056"/>
-  <node visible="true" id="-112" lat="29.88104815197561237027912284" lon="-90.11954740596472390734561486"/>
-  <node visible="true" id="-113" lat="29.88108623168301392070134170" lon="-90.11954660224949975599884056"/>
-  <node visible="true" id="-114" lat="29.88108754809324807411030633" lon="-90.11962956494581078459304990"/>
-  <node visible="true" id="-115" lat="29.88115763153091108961234568" lon="-90.11962808575486860718228854"/>
-  <node visible="true" id="-116" lat="29.88115441962889207161424565" lon="-90.11942566529714326861721929"/>
-  <way visible="true" id="-17">
-    <nd ref="-111"/>
-    <nd ref="-112"/>
-    <nd ref="-113"/>
-    <nd ref="-114"/>
-    <nd ref="-115"/>
-    <nd ref="-116"/>
-    <nd ref="-111"/>
-    <tag k="building" v="yes"/>
     <tag k="addr:housenumber" v="1642"/>
     <tag k="addr:street" v="Mansfield Avenue"/>
     <tag k="addr:city" v="Marrero"/>
     <tag k="addr:postcode" v="70072"/>
   </way>
-  <node visible="true" id="-117" lat="29.88085491329088583256634593" lon="-90.11944230592227711440500570"/>
-  <node visible="true" id="-118" lat="29.88086469672233747019163275" lon="-90.11965019620782868514652364"/>
-  <node visible="true" id="-119" lat="29.88089907491085384094731126" lon="-90.11964804422616737156204181"/>
-  <node visible="true" id="-120" lat="29.88088929148258543477822968" lon="-90.11944015394063001167523907"/>
-  <way visible="true" id="-18">
-    <nd ref="-117"/>
-    <nd ref="-118"/>
-    <nd ref="-119"/>
-    <nd ref="-120"/>
-    <nd ref="-117"/>
+  <node visible="true" id="-49" lat="29.88085491329088583256634593" lon="-90.11944230592227711440500570"/>
+  <node visible="true" id="-50" lat="29.88086469672233747019163275" lon="-90.11965019620782868514652364"/>
+  <node visible="true" id="-51" lat="29.88089907491085384094731126" lon="-90.11964804422616737156204181"/>
+  <node visible="true" id="-52" lat="29.88088929148258543477822968" lon="-90.11944015394063001167523907"/>
+  <way visible="true" id="-8">
+    <nd ref="-49"/>
+    <nd ref="-50"/>
+    <nd ref="-51"/>
+    <nd ref="-52"/>
+    <nd ref="-49"/>
     <tag k="building" v="yes"/>
     <tag k="addr:housenumber" v="1704"/>
     <tag k="addr:street" v="Mansfield Avenue"/>
     <tag k="addr:city" v="Marrero"/>
     <tag k="addr:postcode" v="70072"/>
   </way>
-  <node visible="true" id="-121" lat="29.88080920374341431511311384" lon="-90.11905074981272889544925420"/>
-  <node visible="true" id="-122" lat="29.88081028462759292096961872" lon="-90.11916838057487666446832009"/>
-  <node visible="true" id="-123" lat="29.88090966871091325174347730" lon="-90.11916716586195263971603708"/>
-  <node visible="true" id="-124" lat="29.88090858782782532898636418" lon="-90.11904953509980487069697119"/>
-  <way visible="true" id="-19">
-    <nd ref="-121"/>
-    <nd ref="-122"/>
-    <nd ref="-123"/>
-    <nd ref="-124"/>
-    <nd ref="-121"/>
+  <node visible="true" id="-53" lat="29.88080920374341431511311384" lon="-90.11905074981272889544925420"/>
+  <node visible="true" id="-54" lat="29.88081028462759292096961872" lon="-90.11916838057487666446832009"/>
+  <node visible="true" id="-55" lat="29.88090966871091325174347730" lon="-90.11916716586195263971603708"/>
+  <node visible="true" id="-56" lat="29.88090858782782532898636418" lon="-90.11904953509980487069697119"/>
+  <way visible="true" id="-9">
+    <nd ref="-53"/>
+    <nd ref="-54"/>
+    <nd ref="-55"/>
+    <nd ref="-56"/>
+    <nd ref="-53"/>
     <tag k="building" v="yes"/>
     <tag k="addr:housenumber" v="1717"/>
     <tag k="addr:street" v="Mansfield Avenue"/>
     <tag k="addr:city" v="Marrero"/>
     <tag k="addr:postcode" v="70072"/>
   </way>
-  <node visible="true" id="-125" lat="29.88077423199140270071438863" lon="-90.11901350648544450905319536"/>
-  <node visible="true" id="-126" lat="29.88070551736368685169509263" lon="-90.11902089979336949454591377"/>
-  <node visible="true" id="-127" lat="29.88071847148589199605339672" lon="-90.11918104564588816174364183"/>
-  <node visible="true" id="-128" lat="29.88078718610469053373890347" lon="-90.11917365233796317625092342"/>
-  <way visible="true" id="-20">
-    <nd ref="-125"/>
-    <nd ref="-126"/>
-    <nd ref="-127"/>
-    <nd ref="-128"/>
-    <nd ref="-125"/>
+  <node visible="true" id="-57" lat="29.88077423199140270071438863" lon="-90.11901350648544450905319536"/>
+  <node visible="true" id="-58" lat="29.88070551736368685169509263" lon="-90.11902089979336949454591377"/>
+  <node visible="true" id="-59" lat="29.88071847148589199605339672" lon="-90.11918104564588816174364183"/>
+  <node visible="true" id="-60" lat="29.88078718610469053373890347" lon="-90.11917365233796317625092342"/>
+  <way visible="true" id="-10">
+    <nd ref="-57"/>
+    <nd ref="-58"/>
+    <nd ref="-59"/>
+    <nd ref="-60"/>
+    <nd ref="-57"/>
     <tag k="building" v="yes"/>
     <tag k="addr:housenumber" v="1721"/>
     <tag k="addr:street" v="Mansfield Avenue"/>
     <tag k="addr:city" v="Marrero"/>
     <tag k="addr:postcode" v="70072"/>
   </way>
-  <node visible="true" id="-129" lat="29.88029482108469636614245246" lon="-90.11523355352183273225818994"/>
-  <node visible="true" id="-130" lat="29.88038482930287642602706910" lon="-90.11523245005854221290064743"/>
-  <node visible="true" id="-131" lat="29.88038391701119067533909401" lon="-90.11513346896568066313193412"/>
-  <node visible="true" id="-132" lat="29.88029390879137991987590794" lon="-90.11513457242898539334419183"/>
-  <way visible="true" id="-21">
-    <nd ref="-129"/>
-    <nd ref="-130"/>
-    <nd ref="-131"/>
-    <nd ref="-132"/>
-    <nd ref="-129"/>
+  <node visible="true" id="-61" lat="29.88029482108469636614245246" lon="-90.11523355352183273225818994"/>
+  <node visible="true" id="-62" lat="29.88038482930287642602706910" lon="-90.11523245005854221290064743"/>
+  <node visible="true" id="-63" lat="29.88038391701119067533909401" lon="-90.11513346896568066313193412"/>
+  <node visible="true" id="-64" lat="29.88029390879137991987590794" lon="-90.11513457242898539334419183"/>
+  <way visible="true" id="-11">
+    <nd ref="-61"/>
+    <nd ref="-62"/>
+    <nd ref="-63"/>
+    <nd ref="-64"/>
+    <nd ref="-61"/>
     <tag k="building" v="yes"/>
     <tag k="addr:housenumber" v="1821"/>
     <tag k="addr:street" v="Buccola Avenue"/>
     <tag k="addr:city" v="Marrero"/>
     <tag k="addr:postcode" v="70072"/>
   </way>
-  <node visible="true" id="-133" lat="29.87971179191361770222101768" lon="-90.11524755937426789387245663"/>
-  <node visible="true" id="-134" lat="29.87981491969737390945738298" lon="-90.11524541923293440959241707"/>
-  <node visible="true" id="-135" lat="29.87981296713904910689052485" lon="-90.11512027051557538470660802"/>
-  <node visible="true" id="-136" lat="29.87970983935327851099827967" lon="-90.11512241065692307984136278"/>
-  <way visible="true" id="-22">
-    <nd ref="-133"/>
-    <nd ref="-134"/>
-    <nd ref="-135"/>
-    <nd ref="-136"/>
-    <nd ref="-133"/>
+  <node visible="true" id="-65" lat="29.87971179191361770222101768" lon="-90.11524755937426789387245663"/>
+  <node visible="true" id="-66" lat="29.87981491969737390945738298" lon="-90.11524541923293440959241707"/>
+  <node visible="true" id="-67" lat="29.87981296713904910689052485" lon="-90.11512027051557538470660802"/>
+  <node visible="true" id="-68" lat="29.87970983935327851099827967" lon="-90.11512241065692307984136278"/>
+  <way visible="true" id="-12">
+    <nd ref="-65"/>
+    <nd ref="-66"/>
+    <nd ref="-67"/>
+    <nd ref="-68"/>
+    <nd ref="-65"/>
     <tag k="building" v="yes"/>
     <tag k="addr:housenumber" v="1837"/>
     <tag k="addr:street" v="Buccola Avenue"/>
     <tag k="addr:city" v="Marrero"/>
     <tag k="addr:postcode" v="70072"/>
   </way>
-  <node visible="true" id="-137" lat="29.88155315461830952017407981" lon="-90.11746490062712666713196086">
+  <node visible="true" id="-69" lat="29.88155315461830952017407981" lon="-90.11746490062712666713196086">
     <tag k="addr:housenumber" v="6503"/>
     <tag k="addr:street" v="Deanna Street"/>
     <tag k="addr:city" v="Marrero"/>
     <tag k="addr:postcode" v="70072"/>
   </node>
-  <node visible="true" id="-138" lat="29.88155197003069218908422044" lon="-90.11733680320021733223256888">
+  <node visible="true" id="-70" lat="29.88155197003069218908422044" lon="-90.11733680320021733223256888">
     <tag k="addr:housenumber" v="6505"/>
     <tag k="addr:street" v="Deanna Street"/>
     <tag k="addr:city" v="Marrero"/>
     <tag k="addr:postcode" v="70072"/>
   </node>
-  <node visible="true" id="-139" lat="29.88155204143011189898970770" lon="-90.11733652382893922094808659">
+  <node visible="true" id="-71" lat="29.88155204143011189898970770" lon="-90.11733652382893922094808659">
     <tag k="addr:housenumber" v="6506"/>
     <tag k="addr:street" v="Deanna Street"/>
     <tag k="addr:city" v="Marrero"/>
     <tag k="addr:postcode" v="70072"/>
   </node>
-  <node visible="true" id="-140" lat="29.88155322872704644510122307" lon="-90.11746491421926918974349974">
+  <node visible="true" id="-72" lat="29.88155322872704644510122307" lon="-90.11746491421926918974349974">
     <tag k="addr:housenumber" v="6504"/>
     <tag k="addr:street" v="Deanna Street"/>
     <tag k="addr:city" v="Marrero"/>
     <tag k="addr:postcode" v="70072"/>
   </node>
-  <node visible="true" id="-141" lat="29.88063827760494106655642099" lon="-90.11506120713116274600906763"/>
-  <node visible="true" id="-142" lat="29.88063843700198773944975983" lon="-90.11507430288587272571021458"/>
-  <node visible="true" id="-143" lat="29.88058233570982480387101532" lon="-90.11507521116602958954899805"/>
-  <node visible="true" id="-144" lat="29.88058353181314430457859999" lon="-90.11517348043125252843310591"/>
-  <node visible="true" id="-145" lat="29.88064372161683124318187765" lon="-90.11517250595802863699645968"/>
-  <node visible="true" id="-146" lat="29.88064357530230097381718224" lon="-90.11516048503463593988271896"/>
-  <node visible="true" id="-147" lat="29.88066998861001266618586669" lon="-90.11516005740286061609367607"/>
-  <node visible="true" id="-148" lat="29.88066877942529941947213956" lon="-90.11506071330633460547687719"/>
-  <way visible="true" id="-23">
-    <nd ref="-141"/>
-    <nd ref="-142"/>
-    <nd ref="-143"/>
-    <nd ref="-144"/>
-    <nd ref="-145"/>
-    <nd ref="-146"/>
-    <nd ref="-147"/>
-    <nd ref="-148"/>
-    <nd ref="-141"/>
+  <node visible="true" id="-73" lat="29.88063827760494106655642099" lon="-90.11506120713116274600906763"/>
+  <node visible="true" id="-74" lat="29.88063843700198773944975983" lon="-90.11507430288587272571021458"/>
+  <node visible="true" id="-75" lat="29.88058233570982480387101532" lon="-90.11507521116602958954899805"/>
+  <node visible="true" id="-76" lat="29.88058353181314430457859999" lon="-90.11517348043125252843310591"/>
+  <node visible="true" id="-77" lat="29.88064372161683124318187765" lon="-90.11517250595802863699645968"/>
+  <node visible="true" id="-78" lat="29.88064357530230097381718224" lon="-90.11516048503463593988271896"/>
+  <node visible="true" id="-79" lat="29.88066998861001266618586669" lon="-90.11516005740286061609367607"/>
+  <node visible="true" id="-80" lat="29.88066877942529941947213956" lon="-90.11506071330633460547687719"/>
+  <way visible="true" id="-13">
+    <nd ref="-73"/>
+    <nd ref="-74"/>
+    <nd ref="-75"/>
+    <nd ref="-76"/>
+    <nd ref="-77"/>
+    <nd ref="-78"/>
+    <nd ref="-79"/>
+    <nd ref="-80"/>
+    <nd ref="-73"/>
     <tag k="building" v="yes"/>
     <tag k="addr:housenumber" v="1817"/>
     <tag k="addr:street" v="Buccola Avenue"/>
     <tag k="addr:city" v="Marrero"/>
     <tag k="addr:postcode" v="70072"/>
   </way>
-  <node visible="true" id="-149" lat="29.88079250467869485419214470" lon="-90.11516783366766958351945505"/>
-  <node visible="true" id="-150" lat="29.88079087349305851262215583" lon="-90.11507280786295837060606573"/>
-  <node visible="true" id="-151" lat="29.88070337295466316618330893" lon="-90.11507480574718442767334636"/>
-  <node visible="true" id="-152" lat="29.88070500414173835679321201" lon="-90.11516983155188142973202048"/>
-  <way visible="true" id="-24">
-    <nd ref="-149"/>
-    <nd ref="-150"/>
-    <nd ref="-151"/>
-    <nd ref="-152"/>
-    <nd ref="-149"/>
+  <node visible="true" id="-81" lat="29.88079250467869485419214470" lon="-90.11516783366766958351945505"/>
+  <node visible="true" id="-82" lat="29.88079087349305851262215583" lon="-90.11507280786295837060606573"/>
+  <node visible="true" id="-83" lat="29.88070337295466316618330893" lon="-90.11507480574718442767334636"/>
+  <node visible="true" id="-84" lat="29.88070500414173835679321201" lon="-90.11516983155188142973202048"/>
+  <way visible="true" id="-14">
+    <nd ref="-81"/>
+    <nd ref="-82"/>
+    <nd ref="-83"/>
+    <nd ref="-84"/>
+    <nd ref="-81"/>
     <tag k="building" v="yes"/>
     <tag k="addr:housenumber" v="1813"/>
     <tag k="addr:street" v="Buccola Avenue"/>
     <tag k="addr:city" v="Marrero"/>
     <tag k="addr:postcode" v="70072"/>
   </way>
-  <node visible="true" id="-153" lat="29.88106284521585465085991018" lon="-90.11516164398015860115265241"/>
-  <node visible="true" id="-154" lat="29.88106241517352046344058181" lon="-90.11514934392353382008877816"/>
-  <node visible="true" id="-155" lat="29.88109062419156458645375096" lon="-90.11514803204941870262700832"/>
-  <node visible="true" id="-156" lat="29.88108487059303541855115327" lon="-90.11498346769253942056820961"/>
-  <node visible="true" id="-157" lat="29.88105579762969199464350822" lon="-90.11498481974476248979044612"/>
-  <node visible="true" id="-158" lat="29.88105734266548907385185885" lon="-90.11502901082016592226864304"/>
-  <node visible="true" id="-159" lat="29.88098758926190257056987321" lon="-90.11503225473437339587690076"/>
-  <node visible="true" id="-160" lat="29.88099222787214159779978218" lon="-90.11516492807247402652137680"/>
+  <node visible="true" id="-85" lat="29.88106284521585465085991018" lon="-90.11516164398015860115265241"/>
+  <node visible="true" id="-86" lat="29.88106241517352046344058181" lon="-90.11514934392353382008877816"/>
+  <node visible="true" id="-87" lat="29.88109062419156458645375096" lon="-90.11514803204941870262700832"/>
+  <node visible="true" id="-88" lat="29.88108487059303541855115327" lon="-90.11498346769253942056820961"/>
+  <node visible="true" id="-89" lat="29.88105579762969199464350822" lon="-90.11498481974476248979044612"/>
+  <node visible="true" id="-90" lat="29.88105734266548907385185885" lon="-90.11502901082016592226864304"/>
+  <node visible="true" id="-91" lat="29.88098758926190257056987321" lon="-90.11503225473437339587690076"/>
+  <node visible="true" id="-92" lat="29.88099222787214159779978218" lon="-90.11516492807247402652137680"/>
+  <way visible="true" id="-15">
+    <nd ref="-85"/>
+    <nd ref="-86"/>
+    <nd ref="-87"/>
+    <nd ref="-88"/>
+    <nd ref="-89"/>
+    <nd ref="-90"/>
+    <nd ref="-91"/>
+    <nd ref="-92"/>
+    <nd ref="-85"/>
+    <tag k="building" v="yes"/>
+    <tag k="addr:housenumber" v="1805"/>
+    <tag k="addr:street" v="Buccola Avenue"/>
+    <tag k="addr:city" v="Marrero"/>
+    <tag k="addr:postcode" v="70072"/>
+  </way>
+  <node visible="true" id="-93" lat="29.88561980559208564045547973" lon="-90.11495533477237529496051138"/>
+  <node visible="true" id="-94" lat="29.88554940824408490129826532" lon="-90.11495801931788207639328903"/>
+  <node visible="true" id="-95" lat="29.88555180595093574424936378" lon="-90.11504166067788901273161173"/>
+  <node visible="true" id="-96" lat="29.88551922042018915703920356" lon="-90.11504290329995114916528109"/>
+  <node visible="true" id="-97" lat="29.88552170339923108599577972" lon="-90.11512951926793846268992638"/>
+  <node visible="true" id="-98" lat="29.88562468627398160947450378" lon="-90.11512559210038375567819458"/>
+  <way visible="true" id="-16">
+    <nd ref="-93"/>
+    <nd ref="-94"/>
+    <nd ref="-95"/>
+    <nd ref="-96"/>
+    <nd ref="-97"/>
+    <nd ref="-98"/>
+    <nd ref="-93"/>
+    <tag k="building" v="yes"/>
+    <tag k="addr:housenumber" v="1605"/>
+    <tag k="addr:street" v="Buccola Avenue"/>
+    <tag k="addr:city" v="Marrero"/>
+    <tag k="addr:postcode" v="70072"/>
+  </way>
+  <node visible="true" id="-99" lat="29.88397846225667109365531360" lon="-90.11562465530448662320850417"/>
+  <node visible="true" id="-100" lat="29.88397645587261308719462249" lon="-90.11545185457430306996684521"/>
+  <node visible="true" id="-101" lat="29.88394260535144297818987980" lon="-90.11545237740298830431129318"/>
+  <node visible="true" id="-102" lat="29.88394249575966554743899906" lon="-90.11544293870298361071036197"/>
+  <node visible="true" id="-103" lat="29.88390635366572567477305711" lon="-90.11544349692530886386521161"/>
+  <node visible="true" id="-104" lat="29.88390846964366431848247885" lon="-90.11562573635551132156251697"/>
+  <way visible="true" id="-17">
+    <nd ref="-99"/>
+    <nd ref="-100"/>
+    <nd ref="-101"/>
+    <nd ref="-102"/>
+    <nd ref="-103"/>
+    <nd ref="-104"/>
+    <nd ref="-99"/>
+    <tag k="building" v="yes"/>
+    <tag k="addr:housenumber" v="1656"/>
+    <tag k="addr:street" v="Buccola Avenue"/>
+    <tag k="addr:city" v="Marrero"/>
+    <tag k="addr:postcode" v="70072"/>
+  </way>
+  <node visible="true" id="-105" lat="29.88417105129930462226184318" lon="-90.11555068376746646663377760"/>
+  <node visible="true" id="-106" lat="29.88420168616448435727761535" lon="-90.11555102764569369355740491"/>
+  <node visible="true" id="-107" lat="29.88420136656272418917978939" lon="-90.11558403022579000207770150"/>
+  <node visible="true" id="-108" lat="29.88425888522581175266168430" lon="-90.11558476271407869262475288"/>
+  <node visible="true" id="-109" lat="29.88425949765582601003188756" lon="-90.11544845752058563448372297"/>
+  <node visible="true" id="-110" lat="29.88423261384776097315807419" lon="-90.11544806792228712311043637"/>
+  <node visible="true" id="-111" lat="29.88423250754923543581753620" lon="-90.11543659132250638776895357"/>
+  <node visible="true" id="-112" lat="29.88419624790240547440589580" lon="-90.11543631608499538288015174"/>
+  <node visible="true" id="-113" lat="29.88419572902474286024698813" lon="-90.11544780030578749574488029"/>
+  <node visible="true" id="-114" lat="29.88417197684012549530052638" lon="-90.11544809000925226882827701"/>
+  <way visible="true" id="-18">
+    <nd ref="-105"/>
+    <nd ref="-106"/>
+    <nd ref="-107"/>
+    <nd ref="-108"/>
+    <nd ref="-109"/>
+    <nd ref="-110"/>
+    <nd ref="-111"/>
+    <nd ref="-112"/>
+    <nd ref="-113"/>
+    <nd ref="-114"/>
+    <nd ref="-105"/>
+    <tag k="building" v="yes"/>
+    <tag k="addr:housenumber" v="1648"/>
+    <tag k="addr:street" v="Buccola Avenue"/>
+    <tag k="addr:city" v="Marrero"/>
+    <tag k="addr:postcode" v="70072"/>
+  </way>
+  <node visible="true" id="-115" lat="29.88423326171313121335515461" lon="-90.11498815966690756340540247"/>
+  <node visible="true" id="-116" lat="29.88414700472970508826620062" lon="-90.11498935678085331346665043"/>
+  <node visible="true" id="-117" lat="29.88414866228175625906260393" lon="-90.11514823091775383545609657"/>
+  <node visible="true" id="-118" lat="29.88423491926373287697060732" lon="-90.11514703380380808539484860"/>
+  <way visible="true" id="-19">
+    <nd ref="-115"/>
+    <nd ref="-116"/>
+    <nd ref="-117"/>
+    <nd ref="-118"/>
+    <nd ref="-115"/>
+    <tag k="building" v="yes"/>
+    <tag k="addr:housenumber" v="1649"/>
+    <tag k="addr:street" v="Buccola Avenue"/>
+    <tag k="addr:city" v="Marrero"/>
+    <tag k="addr:postcode" v="70072"/>
+  </way>
+  <node visible="true" id="-119" lat="29.88409645486063581643065845" lon="-90.11501946414449548683478497"/>
+  <node visible="true" id="-120" lat="29.88402551344094959517860843" lon="-90.11502074495550118626852054"/>
+  <node visible="true" id="-121" lat="29.88402732407536532832637022" lon="-90.11515414983989558095345274"/>
+  <node visible="true" id="-122" lat="29.88409826549321479660648038" lon="-90.11515286902890409237443237"/>
+  <way visible="true" id="-20">
+    <nd ref="-119"/>
+    <nd ref="-120"/>
+    <nd ref="-121"/>
+    <nd ref="-122"/>
+    <nd ref="-119"/>
+    <tag k="building" v="yes"/>
+    <tag k="addr:housenumber" v="1653"/>
+    <tag k="addr:street" v="Buccola Avenue"/>
+    <tag k="addr:city" v="Marrero"/>
+    <tag k="addr:postcode" v="70072"/>
+  </way>
+  <node visible="true" id="-123" lat="29.88278105278855889537226176" lon="-90.11544857845687772623932688"/>
+  <node visible="true" id="-124" lat="29.88265792255384312170463090" lon="-90.11545075232584167679306120"/>
+  <node visible="true" id="-125" lat="29.88266012155463258181953279" lon="-90.11561643270961496909876587"/>
+  <node visible="true" id="-126" lat="29.88278325178666250394599047" lon="-90.11561425884065101854503155"/>
+  <way visible="true" id="-21">
+    <nd ref="-123"/>
+    <nd ref="-124"/>
+    <nd ref="-125"/>
+    <nd ref="-126"/>
+    <nd ref="-123"/>
+    <tag k="building" v="yes"/>
+    <tag k="addr:housenumber" v="1716"/>
+    <tag k="addr:street" v="Buccola Avenue"/>
+    <tag k="addr:city" v="Marrero"/>
+    <tag k="addr:postcode" v="70072"/>
+  </way>
+  <node visible="true" id="-127" lat="29.88330712975107772422234120" lon="-90.11843309093364950967952609"/>
+  <node visible="true" id="-128" lat="29.88330650848892844351212261" lon="-90.11839184567296001659997273"/>
+  <node visible="true" id="-129" lat="29.88323068124461201477970462" lon="-90.11839336498138663955614902"/>
+  <node visible="true" id="-130" lat="29.88323192220229529425523651" lon="-90.11847575141389654618251370"/>
+  <node visible="true" id="-131" lat="29.88320980204477095298898348" lon="-90.11847619462301395287795458"/>
+  <node visible="true" id="-132" lat="29.88321133632000581314969168" lon="-90.11857805418316047507687472"/>
+  <node visible="true" id="-133" lat="29.88318871328796788588988420" lon="-90.11857850746798703767126426"/>
+  <node visible="true" id="-134" lat="29.88318944057168025096871133" lon="-90.11862679135671783114958089"/>
+  <node visible="true" id="-135" lat="29.88354414981880680102221959" lon="-90.11861968423730218091805000"/>
+  <node visible="true" id="-136" lat="29.88354334042496063261751260" lon="-90.11856594891175120665138820"/>
+  <node visible="true" id="-137" lat="29.88375014825674469420846435" lon="-90.11856180520221926144586178"/>
+  <node visible="true" id="-138" lat="29.88374807641053010343057394" lon="-90.11842425590707250648847548"/>
+  <way visible="true" id="-22">
+    <nd ref="-127"/>
+    <nd ref="-128"/>
+    <nd ref="-129"/>
+    <nd ref="-130"/>
+    <nd ref="-131"/>
+    <nd ref="-132"/>
+    <nd ref="-133"/>
+    <nd ref="-134"/>
+    <nd ref="-135"/>
+    <nd ref="-136"/>
+    <nd ref="-137"/>
+    <nd ref="-138"/>
+    <nd ref="-127"/>
+    <tag k="building" v="yes"/>
+    <tag k="addr:housenumber" v="6520"/>
+    <tag k="addr:street" v="Second Zion Boulevard"/>
+    <tag k="addr:city" v="Marrero"/>
+    <tag k="addr:postcode" v="70072"/>
+  </way>
+  <node visible="true" id="-139" lat="29.88350109697460865731954982" lon="-90.11901069406309261466958560"/>
+  <node visible="true" id="-140" lat="29.88337801231710244564965251" lon="-90.11901305721634969359001843"/>
+  <node visible="true" id="-141" lat="29.88337915145354983792458370" lon="-90.11909198108305929508787813"/>
+  <node visible="true" id="-142" lat="29.88340796589413628225884167" lon="-90.11909142786295490168413380"/>
+  <node visible="true" id="-143" lat="29.88340820505972672549432900" lon="-90.11910799816929795724718133"/>
+  <node visible="true" id="-144" lat="29.88350247527398551028454676" lon="-90.11910618823617369343992323"/>
+  <way visible="true" id="-23">
+    <nd ref="-139"/>
+    <nd ref="-140"/>
+    <nd ref="-141"/>
+    <nd ref="-142"/>
+    <nd ref="-143"/>
+    <nd ref="-144"/>
+    <nd ref="-139"/>
+    <tag k="building" v="yes"/>
+    <tag k="addr:housenumber" v="1529"/>
+    <tag k="addr:street" v="Mansfield Avenue"/>
+    <tag k="addr:city" v="Marrero"/>
+    <tag k="addr:postcode" v="70072"/>
+  </way>
+  <node visible="true" id="-145" lat="29.88486958815749972018238623" lon="-90.11553650986961372382211266"/>
+  <node visible="true" id="-146" lat="29.88488723402319635624735383" lon="-90.11553612865480999971623532"/>
+  <node visible="true" id="-147" lat="29.88488760067132332665096328" lon="-90.11555870511318744320305996"/>
+  <node visible="true" id="-148" lat="29.88494326815866486413142411" lon="-90.11555750249279128638590919"/>
+  <node visible="true" id="-149" lat="29.88494124881222546719072852" lon="-90.11543316054033425643865485"/>
+  <node visible="true" id="-150" lat="29.88490579085336307230136299" lon="-90.11543392656142259511398152"/>
+  <node visible="true" id="-151" lat="29.88490557556599114263917727" lon="-90.11542067021237301105429651"/>
+  <node visible="true" id="-152" lat="29.88486772017077797158890462" lon="-90.11542148802648455330199795"/>
+  <way visible="true" id="-24">
+    <nd ref="-145"/>
+    <nd ref="-146"/>
+    <nd ref="-147"/>
+    <nd ref="-148"/>
+    <nd ref="-149"/>
+    <nd ref="-150"/>
+    <nd ref="-151"/>
+    <nd ref="-152"/>
+    <nd ref="-145"/>
+    <tag k="building" v="yes"/>
+    <tag k="addr:housenumber" v="1628"/>
+    <tag k="addr:street" v="Buccola Avenue"/>
+    <tag k="addr:city" v="Marrero"/>
+    <tag k="addr:postcode" v="70072"/>
+  </way>
+  <node visible="true" id="-153" lat="29.88503103769879842843693041" lon="-90.11552786861220454284193693"/>
+  <node visible="true" id="-154" lat="29.88503091824629720463235572" lon="-90.11551996751063597912434489"/>
+  <node visible="true" id="-155" lat="29.88508530715662203647298156" lon="-90.11551887367049573640542803"/>
+  <node visible="true" id="-156" lat="29.88508375627205992941526347" lon="-90.11541629170027078998828074"/>
+  <node visible="true" id="-157" lat="29.88502496169143540782897617" lon="-90.11541747414483438660681713"/>
+  <node visible="true" id="-158" lat="29.88502511368066194563652971" lon="-90.11542752730505867475585546"/>
+  <node visible="true" id="-159" lat="29.88499635361531048260985699" lon="-90.11542810571155825982714305"/>
+  <node visible="true" id="-160" lat="29.88499787196499113406389370" lon="-90.11552853562311327095812885"/>
   <way visible="true" id="-25">
     <nd ref="-153"/>
     <nd ref="-154"/>
@@ -534,7 +536,7 @@
     <nd ref="-160"/>
     <nd ref="-153"/>
     <tag k="building" v="yes"/>
-    <tag k="addr:housenumber" v="1805"/>
+    <tag k="addr:housenumber" v="1624"/>
     <tag k="addr:street" v="Buccola Avenue"/>
     <tag k="addr:city" v="Marrero"/>
     <tag k="addr:postcode" v="70072"/>
@@ -1977,18 +1979,16 @@
     <tag k="addr:city" v="Marrero"/>
     <tag k="addr:postcode" v="70072"/>
   </way>
-  <node visible="true" id="-600" lat="29.88384135105763306228254805" lon="-90.11545499045710982954915380"/>
-  <node visible="true" id="-601" lat="29.88380696983259809940136620" lon="-90.11545541199518538633128628"/>
-  <node visible="true" id="-602" lat="29.88380691031017377667922119" lon="-90.11544895400693633291666629"/>
-  <node visible="true" id="-603" lat="29.88376940786242741410205781" lon="-90.11544941381322360030026175"/>
-  <node visible="true" id="-604" lat="29.88376983096175720788778563" lon="-90.11549531784316968696657568"/>
-  <node visible="true" id="-605" lat="29.88373920514822401628407533" lon="-90.11549569333698173068114556"/>
-  <node visible="true" id="-606" lat="29.88373976710055046623892849" lon="-90.11555666218787052912375657"/>
-  <node visible="true" id="-607" lat="29.88377227136735925228094857" lon="-90.11555626366289573070389451"/>
-  <node visible="true" id="-608" lat="29.88377230443532539538864512" lon="-90.11555985130047474740422331"/>
-  <node visible="true" id="-609" lat="29.88378918195290978587763675" lon="-90.11555964437027910207689274"/>
-  <node visible="true" id="-610" lat="29.88378934725625413193483837" lon="-90.11557757889505637649563141"/>
-  <node visible="true" id="-611" lat="29.88384247495476486733423371" lon="-90.11557692751203774150781101"/>
+  <node visible="true" id="-600" lat="29.88432882390424794039063272" lon="-90.11948253784029816415568348"/>
+  <node visible="true" id="-601" lat="29.88433140424912082266928337" lon="-90.11938402745649057123955572"/>
+  <node visible="true" id="-602" lat="29.88432855345133631885801151" lon="-90.11938712260956663158140145"/>
+  <node visible="true" id="-603" lat="29.88433017199951535758373211" lon="-90.11932533094554287345090415"/>
+  <node visible="true" id="-604" lat="29.88429895750318365799103049" lon="-90.11932424331675406392605510"/>
+  <node visible="true" id="-605" lat="29.88429730604227074763912242" lon="-90.11938729147085780368797714"/>
+  <node visible="true" id="-606" lat="29.88426468133272706495517923" lon="-90.11938615470536717566574225"/>
+  <node visible="true" id="-607" lat="29.88427622486875279150808637" lon="-90.11940029803231766436510952"/>
+  <node visible="true" id="-608" lat="29.88421714771871862126317865" lon="-90.11939823956674899818608537"/>
+  <node visible="true" id="-609" lat="29.88421504348333357370393060" lon="-90.11947857331021793925174279"/>
   <way visible="true" id="-92">
     <nd ref="-600"/>
     <nd ref="-601"/>
@@ -2000,26 +2000,28 @@
     <nd ref="-607"/>
     <nd ref="-608"/>
     <nd ref="-609"/>
-    <nd ref="-610"/>
-    <nd ref="-611"/>
     <nd ref="-600"/>
     <tag k="building" v="yes"/>
-    <tag k="addr:housenumber" v="1660"/>
-    <tag k="addr:street" v="Buccola Avenue"/>
+    <tag k="addr:housenumber" v="1500"/>
+    <tag k="addr:street" v="Mansfield Avenue"/>
     <tag k="addr:city" v="Marrero"/>
     <tag k="addr:postcode" v="70072"/>
   </way>
-  <node visible="true" id="-612" lat="29.88432882390424794039063272" lon="-90.11948253784029816415568348"/>
-  <node visible="true" id="-613" lat="29.88433140424912082266928337" lon="-90.11938402745649057123955572"/>
-  <node visible="true" id="-614" lat="29.88432855345133631885801151" lon="-90.11938712260956663158140145"/>
-  <node visible="true" id="-615" lat="29.88433017199951535758373211" lon="-90.11932533094554287345090415"/>
-  <node visible="true" id="-616" lat="29.88429895750318365799103049" lon="-90.11932424331675406392605510"/>
-  <node visible="true" id="-617" lat="29.88429730604227074763912242" lon="-90.11938729147085780368797714"/>
-  <node visible="true" id="-618" lat="29.88426468133272706495517923" lon="-90.11938615470536717566574225"/>
-  <node visible="true" id="-619" lat="29.88427622486875279150808637" lon="-90.11940029803231766436510952"/>
-  <node visible="true" id="-620" lat="29.88421714771871862126317865" lon="-90.11939823956674899818608537"/>
-  <node visible="true" id="-621" lat="29.88421504348333357370393060" lon="-90.11947857331021793925174279"/>
+  <node visible="true" id="-610" lat="29.88384135105763306228254805" lon="-90.11545499045710982954915380"/>
+  <node visible="true" id="-611" lat="29.88380696983259809940136620" lon="-90.11545541199518538633128628"/>
+  <node visible="true" id="-612" lat="29.88380691031017377667922119" lon="-90.11544895400693633291666629"/>
+  <node visible="true" id="-613" lat="29.88376940786242741410205781" lon="-90.11544941381322360030026175"/>
+  <node visible="true" id="-614" lat="29.88376983096175720788778563" lon="-90.11549531784316968696657568"/>
+  <node visible="true" id="-615" lat="29.88373920514822401628407533" lon="-90.11549569333698173068114556"/>
+  <node visible="true" id="-616" lat="29.88373976710055046623892849" lon="-90.11555666218787052912375657"/>
+  <node visible="true" id="-617" lat="29.88377227136735925228094857" lon="-90.11555626366289573070389451"/>
+  <node visible="true" id="-618" lat="29.88377230443532539538864512" lon="-90.11555985130047474740422331"/>
+  <node visible="true" id="-619" lat="29.88378918195290978587763675" lon="-90.11555964437027910207689274"/>
+  <node visible="true" id="-620" lat="29.88378934725625413193483837" lon="-90.11557757889505637649563141"/>
+  <node visible="true" id="-621" lat="29.88384247495476486733423371" lon="-90.11557692751203774150781101"/>
   <way visible="true" id="-93">
+    <nd ref="-610"/>
+    <nd ref="-611"/>
     <nd ref="-612"/>
     <nd ref="-613"/>
     <nd ref="-614"/>
@@ -2030,10 +2032,10 @@
     <nd ref="-619"/>
     <nd ref="-620"/>
     <nd ref="-621"/>
-    <nd ref="-612"/>
+    <nd ref="-610"/>
     <tag k="building" v="yes"/>
-    <tag k="addr:housenumber" v="1500"/>
-    <tag k="addr:street" v="Mansfield Avenue"/>
+    <tag k="addr:housenumber" v="1660"/>
+    <tag k="addr:street" v="Buccola Avenue"/>
     <tag k="addr:city" v="Marrero"/>
     <tag k="addr:postcode" v="70072"/>
   </way>
@@ -2551,266 +2553,266 @@
     <tag k="addr:city" v="Marrero"/>
     <tag k="addr:postcode" v="70072"/>
   </way>
-  <node visible="true" id="-781" lat="29.88493435537442977079081174" lon="-90.11898001232154342687863391"/>
-  <node visible="true" id="-782" lat="29.88493108216662363929572166" lon="-90.11906294073787648812867701"/>
-  <node visible="true" id="-783" lat="29.88496489360843000326894980" lon="-90.11906471602225110473227687"/>
-  <node visible="true" id="-784" lat="29.88496244977048732494040451" lon="-90.11912663193915307147108251"/>
-  <node visible="true" id="-785" lat="29.88499328938698340607516002" lon="-90.11912825118703551652288297"/>
-  <node visible="true" id="-786" lat="29.88500651799625273952187854" lon="-90.11914496402326335555699188"/>
-  <node visible="true" id="-787" lat="29.88503175931706223877881712" lon="-90.11914628933067206162377261"/>
-  <node visible="true" id="-788" lat="29.88503810729478615826337773" lon="-90.11898545986306885424710345"/>
+  <node visible="true" id="-781" lat="29.88085859576798597458946460" lon="-90.11516444870144937340228353"/>
+  <node visible="true" id="-782" lat="29.88094578732272665888558549" lon="-90.11516301903459691402531462"/>
+  <node visible="true" id="-783" lat="29.88094455394726978170183429" lon="-90.11506296506451008099247701"/>
+  <node visible="true" id="-784" lat="29.88085736238965495203956380" lon="-90.11506439473137675122416113"/>
   <way visible="true" id="-117">
     <nd ref="-781"/>
     <nd ref="-782"/>
     <nd ref="-783"/>
     <nd ref="-784"/>
-    <nd ref="-785"/>
-    <nd ref="-786"/>
-    <nd ref="-787"/>
-    <nd ref="-788"/>
     <nd ref="-781"/>
-    <tag k="building" v="yes"/>
-    <tag k="addr:housenumber" v="1421"/>
-    <tag k="addr:street" v="Mansfield Avenue"/>
-    <tag k="addr:city" v="Marrero"/>
-    <tag k="addr:postcode" v="70072"/>
-  </way>
-  <node visible="true" id="-789" lat="29.88512385245732261296325305" lon="-90.11562790720689974932611221"/>
-  <node visible="true" id="-790" lat="29.88518522334511473559359729" lon="-90.11562666035578672563133296"/>
-  <node visible="true" id="-791" lat="29.88518453029145760524443176" lon="-90.11558128180647031513217371"/>
-  <node visible="true" id="-792" lat="29.88525192218428472301638976" lon="-90.11557991262779410135408398"/>
-  <node visible="true" id="-793" lat="29.88524999069381848926241219" lon="-90.11545344579648997296317248"/>
-  <node visible="true" id="-794" lat="29.88521388177396787000361655" lon="-90.11545417940951097079960164"/>
-  <node visible="true" id="-795" lat="29.88521350455614111751856399" lon="-90.11542948058385604781506117"/>
-  <node visible="true" id="-796" lat="29.88517269154667843622519285" lon="-90.11543030976798718256759457"/>
-  <node visible="true" id="-797" lat="29.88517243388001887183236249" lon="-90.11541343870806031191023067"/>
-  <node visible="true" id="-798" lat="29.88512059302530232685057854" lon="-90.11541449194071162764885230"/>
-  <way visible="true" id="-118">
-    <nd ref="-789"/>
-    <nd ref="-790"/>
-    <nd ref="-791"/>
-    <nd ref="-792"/>
-    <nd ref="-793"/>
-    <nd ref="-794"/>
-    <nd ref="-795"/>
-    <nd ref="-796"/>
-    <nd ref="-797"/>
-    <nd ref="-798"/>
-    <nd ref="-789"/>
-    <tag k="building" v="yes"/>
-    <tag k="addr:housenumber" v="1620"/>
-    <tag k="addr:street" v="Buccola Avenue"/>
-    <tag k="addr:city" v="Marrero"/>
-    <tag k="addr:postcode" v="70072"/>
-  </way>
-  <node visible="true" id="-799" lat="29.88520739312597740422461357" lon="-90.11496521734991915764112491"/>
-  <node visible="true" id="-800" lat="29.88513520964431080528811435" lon="-90.11496683639153104650176829"/>
-  <node visible="true" id="-801" lat="29.88513662168846707345437608" lon="-90.11505058239868048985954374"/>
-  <node visible="true" id="-802" lat="29.88510598658673345084935136" lon="-90.11505126952928890204930212"/>
-  <node visible="true" id="-803" lat="29.88510739558505235891061602" lon="-90.11513483482710284988570493"/>
-  <node visible="true" id="-804" lat="29.88521021416598344444537361" lon="-90.11513252865488254883530317"/>
-  <way visible="true" id="-119">
-    <nd ref="-799"/>
-    <nd ref="-800"/>
-    <nd ref="-801"/>
-    <nd ref="-802"/>
-    <nd ref="-803"/>
-    <nd ref="-804"/>
-    <nd ref="-799"/>
-    <tag k="building" v="yes"/>
-    <tag k="addr:housenumber" v="1621"/>
-    <tag k="addr:street" v="Buccola Avenue"/>
-    <tag k="addr:city" v="Marrero"/>
-    <tag k="addr:postcode" v="70072"/>
-  </way>
-  <node visible="true" id="-805" lat="29.88055055027067652417827048" lon="-90.11552340496959345728100743"/>
-  <node visible="true" id="-806" lat="29.88055930403117699256654305" lon="-90.11568690760350364143960178"/>
-  <node visible="true" id="-807" lat="29.88062704049371731684914266" lon="-90.11568793172388325274368981"/>
-  <node visible="true" id="-808" lat="29.88062712615931815207659383" lon="-90.11569718223759650754800532"/>
-  <node visible="true" id="-809" lat="29.88067386735605879266586271" lon="-90.11569476217049157185101649"/>
-  <node visible="true" id="-810" lat="29.88067293518443889865920937" lon="-90.11550828352758912842546124"/>
-  <node visible="true" id="-811" lat="29.88061292242613831149355974" lon="-90.11550829796364325829927111"/>
-  <node visible="true" id="-812" lat="29.88061306193097621530796459" lon="-90.11552336006673158408375457"/>
-  <way visible="true" id="-120">
-    <nd ref="-805"/>
-    <nd ref="-806"/>
-    <nd ref="-807"/>
-    <nd ref="-808"/>
-    <nd ref="-809"/>
-    <nd ref="-810"/>
-    <nd ref="-811"/>
-    <nd ref="-812"/>
-    <nd ref="-805"/>
-    <tag k="building" v="yes"/>
-    <tag k="addr:housenumber" v="1816"/>
-    <tag k="addr:street" v="Buccola Avenue"/>
-    <tag k="addr:city" v="Marrero"/>
-    <tag k="addr:postcode" v="70072"/>
-  </way>
-  <node visible="true" id="-813" lat="29.88085859576798597458946460" lon="-90.11516444870144937340228353"/>
-  <node visible="true" id="-814" lat="29.88094578732272665888558549" lon="-90.11516301903459691402531462"/>
-  <node visible="true" id="-815" lat="29.88094455394726978170183429" lon="-90.11506296506451008099247701"/>
-  <node visible="true" id="-816" lat="29.88085736238965495203956380" lon="-90.11506439473137675122416113"/>
-  <way visible="true" id="-121">
-    <nd ref="-813"/>
-    <nd ref="-814"/>
-    <nd ref="-815"/>
-    <nd ref="-816"/>
-    <nd ref="-813"/>
     <tag k="building" v="yes"/>
     <tag k="addr:housenumber" v="1809"/>
     <tag k="addr:street" v="Buccola Avenue"/>
     <tag k="addr:city" v="Marrero"/>
     <tag k="addr:postcode" v="70072"/>
   </way>
-  <node visible="true" id="-817" lat="29.88303936625533552273736859" lon="-90.11942435885809743467689259"/>
-  <node visible="true" id="-818" lat="29.88303962560122783997940132" lon="-90.11943550226239096900826553"/>
-  <node visible="true" id="-819" lat="29.88298291752139945742783311" lon="-90.11943725785511105641489848"/>
-  <node visible="true" id="-820" lat="29.88298522923487965385902498" lon="-90.11953658597708738398068817"/>
-  <node visible="true" id="-821" lat="29.88304262527690369211086363" lon="-90.11953480908606195498578018"/>
-  <node visible="true" id="-822" lat="29.88304374939278318379365373" lon="-90.11958310934511473533348180"/>
-  <node visible="true" id="-823" lat="29.88308967076271116525276739" lon="-90.11958168769110955054202350"/>
-  <node visible="true" id="-824" lat="29.88308858969269010685820831" lon="-90.11953523697775381151586771"/>
-  <node visible="true" id="-825" lat="29.88309751636486666370728926" lon="-90.11953496062182011883123778"/>
-  <node visible="true" id="-826" lat="29.88309490226292552961240290" lon="-90.11942263954988163732195972"/>
-  <way visible="true" id="-122">
-    <nd ref="-817"/>
-    <nd ref="-818"/>
-    <nd ref="-819"/>
-    <nd ref="-820"/>
-    <nd ref="-821"/>
-    <nd ref="-822"/>
-    <nd ref="-823"/>
-    <nd ref="-824"/>
-    <nd ref="-825"/>
-    <nd ref="-826"/>
-    <nd ref="-817"/>
+  <node visible="true" id="-785" lat="29.88303936625533552273736859" lon="-90.11942435885809743467689259"/>
+  <node visible="true" id="-786" lat="29.88303962560122783997940132" lon="-90.11943550226239096900826553"/>
+  <node visible="true" id="-787" lat="29.88298291752139945742783311" lon="-90.11943725785511105641489848"/>
+  <node visible="true" id="-788" lat="29.88298522923487965385902498" lon="-90.11953658597708738398068817"/>
+  <node visible="true" id="-789" lat="29.88304262527690369211086363" lon="-90.11953480908606195498578018"/>
+  <node visible="true" id="-790" lat="29.88304374939278318379365373" lon="-90.11958310934511473533348180"/>
+  <node visible="true" id="-791" lat="29.88308967076271116525276739" lon="-90.11958168769110955054202350"/>
+  <node visible="true" id="-792" lat="29.88308858969269010685820831" lon="-90.11953523697775381151586771"/>
+  <node visible="true" id="-793" lat="29.88309751636486666370728926" lon="-90.11953496062182011883123778"/>
+  <node visible="true" id="-794" lat="29.88309490226292552961240290" lon="-90.11942263954988163732195972"/>
+  <way visible="true" id="-118">
+    <nd ref="-785"/>
+    <nd ref="-786"/>
+    <nd ref="-787"/>
+    <nd ref="-788"/>
+    <nd ref="-789"/>
+    <nd ref="-790"/>
+    <nd ref="-791"/>
+    <nd ref="-792"/>
+    <nd ref="-793"/>
+    <nd ref="-794"/>
+    <nd ref="-785"/>
     <tag k="building" v="yes"/>
     <tag k="addr:housenumber" v="1538"/>
     <tag k="addr:street" v="Mansfield Avenue"/>
     <tag k="addr:city" v="Marrero"/>
     <tag k="addr:postcode" v="70072"/>
   </way>
-  <node visible="true" id="-827" lat="29.88251154221461902693590673" lon="-90.11914658016989676525554387"/>
-  <node visible="true" id="-828" lat="29.88250938442017456964094890" lon="-90.11904832955622168810805306"/>
-  <node visible="true" id="-829" lat="29.88260290065153768068739737" lon="-90.11905017409671359018830117"/>
-  <node visible="true" id="-830" lat="29.88259777902735336851947068" lon="-90.11887114442991730811627349"/>
-  <node visible="true" id="-831" lat="29.88252847835826386813096178" lon="-90.11887795702196513047965709"/>
-  <node visible="true" id="-832" lat="29.88252958093525890603814332" lon="-90.11899733816343882608634885"/>
-  <node visible="true" id="-833" lat="29.88239204852802188838722941" lon="-90.11900097680928922727616737"/>
-  <node visible="true" id="-834" lat="29.88239403730242216283841117" lon="-90.11914872647344054712448269"/>
-  <way visible="true" id="-123">
-    <nd ref="-827"/>
-    <nd ref="-828"/>
-    <nd ref="-829"/>
-    <nd ref="-830"/>
-    <nd ref="-831"/>
-    <nd ref="-832"/>
-    <nd ref="-833"/>
-    <nd ref="-834"/>
-    <nd ref="-827"/>
+  <node visible="true" id="-795" lat="29.88251154221461902693590673" lon="-90.11914658016989676525554387"/>
+  <node visible="true" id="-796" lat="29.88250938442017456964094890" lon="-90.11904832955622168810805306"/>
+  <node visible="true" id="-797" lat="29.88260290065153768068739737" lon="-90.11905017409671359018830117"/>
+  <node visible="true" id="-798" lat="29.88259777902735336851947068" lon="-90.11887114442991730811627349"/>
+  <node visible="true" id="-799" lat="29.88252847835826386813096178" lon="-90.11887795702196513047965709"/>
+  <node visible="true" id="-800" lat="29.88252958093525890603814332" lon="-90.11899733816343882608634885"/>
+  <node visible="true" id="-801" lat="29.88239204852802188838722941" lon="-90.11900097680928922727616737"/>
+  <node visible="true" id="-802" lat="29.88239403730242216283841117" lon="-90.11914872647344054712448269"/>
+  <way visible="true" id="-119">
+    <nd ref="-795"/>
+    <nd ref="-796"/>
+    <nd ref="-797"/>
+    <nd ref="-798"/>
+    <nd ref="-799"/>
+    <nd ref="-800"/>
+    <nd ref="-801"/>
+    <nd ref="-802"/>
+    <nd ref="-795"/>
     <tag k="building" v="yes"/>
     <tag k="addr:housenumber" v="1605"/>
     <tag k="addr:street" v="Mansfield Avenue"/>
     <tag k="addr:city" v="Marrero"/>
     <tag k="addr:postcode" v="70072"/>
   </way>
-  <node visible="true" id="-835" lat="29.88444031539117062834520766" lon="-90.11013482598929158484679647"/>
-  <node visible="true" id="-836" lat="29.88444103254068195951731468" lon="-90.11009869025082252846914344"/>
-  <node visible="true" id="-837" lat="29.88434653596303647304921469" lon="-90.11009619555017025049892254"/>
-  <node visible="true" id="-838" lat="29.88434508600012762258302246" lon="-90.11016925622949713670095662"/>
-  <node visible="true" id="-839" lat="29.88431669566671189386397600" lon="-90.11016850672787370513105998"/>
-  <node visible="true" id="-840" lat="29.88431550863939278883663064" lon="-90.11022831857285098067222862"/>
-  <node visible="true" id="-841" lat="29.88446065886294888969132444" lon="-90.11023215052473744890448870"/>
-  <node visible="true" id="-842" lat="29.88446257870077360507821140" lon="-90.11013541373888813268422382"/>
-  <way visible="true" id="-124">
-    <nd ref="-835"/>
-    <nd ref="-836"/>
-    <nd ref="-837"/>
-    <nd ref="-838"/>
-    <nd ref="-839"/>
-    <nd ref="-840"/>
-    <nd ref="-841"/>
-    <nd ref="-842"/>
-    <nd ref="-835"/>
+  <node visible="true" id="-803" lat="29.88444031539117062834520766" lon="-90.11013482598929158484679647"/>
+  <node visible="true" id="-804" lat="29.88444103254068195951731468" lon="-90.11009869025082252846914344"/>
+  <node visible="true" id="-805" lat="29.88434653596303647304921469" lon="-90.11009619555017025049892254"/>
+  <node visible="true" id="-806" lat="29.88434508600012762258302246" lon="-90.11016925622949713670095662"/>
+  <node visible="true" id="-807" lat="29.88431669566671189386397600" lon="-90.11016850672787370513105998"/>
+  <node visible="true" id="-808" lat="29.88431550863939278883663064" lon="-90.11022831857285098067222862"/>
+  <node visible="true" id="-809" lat="29.88446065886294888969132444" lon="-90.11023215052473744890448870"/>
+  <node visible="true" id="-810" lat="29.88446257870077360507821140" lon="-90.11013541373888813268422382"/>
+  <way visible="true" id="-120">
+    <nd ref="-803"/>
+    <nd ref="-804"/>
+    <nd ref="-805"/>
+    <nd ref="-806"/>
+    <nd ref="-807"/>
+    <nd ref="-808"/>
+    <nd ref="-809"/>
+    <nd ref="-810"/>
+    <nd ref="-803"/>
     <tag k="building" v="yes"/>
     <tag k="addr:housenumber" v="6157"/>
     <tag k="addr:street" v="Singleton Drive"/>
     <tag k="addr:city" v="Marrero"/>
     <tag k="addr:postcode" v="70072"/>
   </way>
-  <node visible="true" id="-843" lat="29.88461284796310835076837975" lon="-90.11554267196184753174748039"/>
-  <node visible="true" id="-844" lat="29.88461321004595916406287870" lon="-90.11556143402660268293402623"/>
-  <node visible="true" id="-845" lat="29.88466717037232456277706660" lon="-90.11556004875940573128900724"/>
-  <node visible="true" id="-846" lat="29.88466479249819940378074534" lon="-90.11543683440474694634758634"/>
-  <node visible="true" id="-847" lat="29.88463140836708120673392841" lon="-90.11543769144083171340753324"/>
-  <node visible="true" id="-848" lat="29.88463118459998213438666426" lon="-90.11542609652146040843945229"/>
-  <node visible="true" id="-849" lat="29.88459378352812834123142238" lon="-90.11542705667993402585125295"/>
-  <node visible="true" id="-850" lat="29.88459602308658702440880006" lon="-90.11554310388920896457420895"/>
-  <way visible="true" id="-125">
-    <nd ref="-843"/>
-    <nd ref="-844"/>
-    <nd ref="-845"/>
-    <nd ref="-846"/>
-    <nd ref="-847"/>
-    <nd ref="-848"/>
-    <nd ref="-849"/>
-    <nd ref="-850"/>
-    <nd ref="-843"/>
+  <node visible="true" id="-811" lat="29.88461284796310835076837975" lon="-90.11554267196184753174748039"/>
+  <node visible="true" id="-812" lat="29.88461321004595916406287870" lon="-90.11556143402660268293402623"/>
+  <node visible="true" id="-813" lat="29.88466717037232456277706660" lon="-90.11556004875940573128900724"/>
+  <node visible="true" id="-814" lat="29.88466479249819940378074534" lon="-90.11543683440474694634758634"/>
+  <node visible="true" id="-815" lat="29.88463140836708120673392841" lon="-90.11543769144083171340753324"/>
+  <node visible="true" id="-816" lat="29.88463118459998213438666426" lon="-90.11542609652146040843945229"/>
+  <node visible="true" id="-817" lat="29.88459378352812834123142238" lon="-90.11542705667993402585125295"/>
+  <node visible="true" id="-818" lat="29.88459602308658702440880006" lon="-90.11554310388920896457420895"/>
+  <way visible="true" id="-121">
+    <nd ref="-811"/>
+    <nd ref="-812"/>
+    <nd ref="-813"/>
+    <nd ref="-814"/>
+    <nd ref="-815"/>
+    <nd ref="-816"/>
+    <nd ref="-817"/>
+    <nd ref="-818"/>
+    <nd ref="-811"/>
     <tag k="building" v="yes"/>
     <tag k="addr:housenumber" v="1636"/>
     <tag k="addr:street" v="Buccola Avenue"/>
     <tag k="addr:city" v="Marrero"/>
     <tag k="addr:postcode" v="70072"/>
   </way>
-  <node visible="true" id="-851" lat="29.88464686241426448987112963" lon="-90.11501178764690678235638188"/>
-  <node visible="true" id="-852" lat="29.88457685020586040991474874" lon="-90.11501210846908804796839831"/>
-  <node visible="true" id="-853" lat="29.88457731475773471174761653" lon="-90.11514696583044781164062442"/>
-  <node visible="true" id="-854" lat="29.88464732696580483661819017" lon="-90.11514664500826654602860799"/>
-  <way visible="true" id="-126">
-    <nd ref="-851"/>
-    <nd ref="-852"/>
-    <nd ref="-853"/>
-    <nd ref="-854"/>
-    <nd ref="-851"/>
+  <node visible="true" id="-819" lat="29.88464686241426448987112963" lon="-90.11501178764690678235638188"/>
+  <node visible="true" id="-820" lat="29.88457685020586040991474874" lon="-90.11501210846908804796839831"/>
+  <node visible="true" id="-821" lat="29.88457731475773471174761653" lon="-90.11514696583044781164062442"/>
+  <node visible="true" id="-822" lat="29.88464732696580483661819017" lon="-90.11514664500826654602860799"/>
+  <way visible="true" id="-122">
+    <nd ref="-819"/>
+    <nd ref="-820"/>
+    <nd ref="-821"/>
+    <nd ref="-822"/>
+    <nd ref="-819"/>
     <tag k="building" v="yes"/>
     <tag k="addr:housenumber" v="1637"/>
     <tag k="addr:street" v="Buccola Avenue"/>
     <tag k="addr:city" v="Marrero"/>
     <tag k="addr:postcode" v="70072"/>
   </way>
-  <node visible="true" id="-855" lat="29.88449363933363400747111882" lon="-90.11507413813404809843632393"/>
-  <node visible="true" id="-856" lat="29.88452231473208442480427038" lon="-90.11507352598542297528183553"/>
-  <node visible="true" id="-857" lat="29.88452089905329600583172578" lon="-90.11498530994421685136330780"/>
-  <node visible="true" id="-858" lat="29.88449269899765425861914991" lon="-90.11498591194543905658065341"/>
-  <node visible="true" id="-859" lat="29.88449299689193594531388953" lon="-90.11500447478151443192473380"/>
-  <node visible="true" id="-860" lat="29.88442431844179481004175614" lon="-90.11500594089534388331230730"/>
-  <node visible="true" id="-861" lat="29.88442663191716874848680163" lon="-90.11515010176751161452557426"/>
-  <node visible="true" id="-862" lat="29.88449483502252235211926745" lon="-90.11514864580108508107514353"/>
-  <way visible="true" id="-127">
-    <nd ref="-855"/>
-    <nd ref="-856"/>
-    <nd ref="-857"/>
-    <nd ref="-858"/>
-    <nd ref="-859"/>
-    <nd ref="-860"/>
-    <nd ref="-861"/>
-    <nd ref="-862"/>
-    <nd ref="-855"/>
+  <node visible="true" id="-823" lat="29.88449363933363400747111882" lon="-90.11507413813404809843632393"/>
+  <node visible="true" id="-824" lat="29.88452231473208442480427038" lon="-90.11507352598542297528183553"/>
+  <node visible="true" id="-825" lat="29.88452089905329600583172578" lon="-90.11498530994421685136330780"/>
+  <node visible="true" id="-826" lat="29.88449269899765425861914991" lon="-90.11498591194543905658065341"/>
+  <node visible="true" id="-827" lat="29.88449299689193594531388953" lon="-90.11500447478151443192473380"/>
+  <node visible="true" id="-828" lat="29.88442431844179481004175614" lon="-90.11500594089534388331230730"/>
+  <node visible="true" id="-829" lat="29.88442663191716874848680163" lon="-90.11515010176751161452557426"/>
+  <node visible="true" id="-830" lat="29.88449483502252235211926745" lon="-90.11514864580108508107514353"/>
+  <way visible="true" id="-123">
+    <nd ref="-823"/>
+    <nd ref="-824"/>
+    <nd ref="-825"/>
+    <nd ref="-826"/>
+    <nd ref="-827"/>
+    <nd ref="-828"/>
+    <nd ref="-829"/>
+    <nd ref="-830"/>
+    <nd ref="-823"/>
     <tag k="building" v="yes"/>
     <tag k="addr:housenumber" v="1641"/>
     <tag k="addr:street" v="Buccola Avenue"/>
     <tag k="addr:city" v="Marrero"/>
     <tag k="addr:postcode" v="70072"/>
   </way>
-  <node visible="true" id="-863" lat="29.88435468649932502671617840" lon="-90.10991713089111954104737379"/>
-  <node visible="true" id="-864" lat="29.88435282975674311956026941" lon="-90.10997189615940783369296696"/>
-  <node visible="true" id="-865" lat="29.88430842436133261230679636" lon="-90.10996989348198837888048729"/>
-  <node visible="true" id="-866" lat="29.88430635766759380089752085" lon="-90.11003085130720080542232608"/>
-  <node visible="true" id="-867" lat="29.88434839405884702046023449" lon="-90.11003274714276756185427075"/>
-  <node visible="true" id="-868" lat="29.88435476133728485592655488" lon="-90.11004068859806181990279583"/>
-  <node visible="true" id="-869" lat="29.88447702044305742674623616" lon="-90.11004620247213381389883580"/>
-  <node visible="true" id="-870" lat="29.88448120298512833414861234" lon="-90.10992283677273917419370264"/>
+  <node visible="true" id="-831" lat="29.88435468649932502671617840" lon="-90.10991713089111954104737379"/>
+  <node visible="true" id="-832" lat="29.88435282975674311956026941" lon="-90.10997189615940783369296696"/>
+  <node visible="true" id="-833" lat="29.88430842436133261230679636" lon="-90.10996989348198837888048729"/>
+  <node visible="true" id="-834" lat="29.88430635766759380089752085" lon="-90.11003085130720080542232608"/>
+  <node visible="true" id="-835" lat="29.88434839405884702046023449" lon="-90.11003274714276756185427075"/>
+  <node visible="true" id="-836" lat="29.88435476133728485592655488" lon="-90.11004068859806181990279583"/>
+  <node visible="true" id="-837" lat="29.88447702044305742674623616" lon="-90.11004620247213381389883580"/>
+  <node visible="true" id="-838" lat="29.88448120298512833414861234" lon="-90.10992283677273917419370264"/>
+  <way visible="true" id="-124">
+    <nd ref="-831"/>
+    <nd ref="-832"/>
+    <nd ref="-833"/>
+    <nd ref="-834"/>
+    <nd ref="-835"/>
+    <nd ref="-836"/>
+    <nd ref="-837"/>
+    <nd ref="-838"/>
+    <nd ref="-831"/>
+    <tag k="building" v="yes"/>
+    <tag k="addr:housenumber" v="6153"/>
+    <tag k="addr:street" v="Singleton Drive"/>
+    <tag k="addr:city" v="Marrero"/>
+    <tag k="addr:postcode" v="70072"/>
+  </way>
+  <node visible="true" id="-839" lat="29.88493435537442977079081174" lon="-90.11898001232154342687863391"/>
+  <node visible="true" id="-840" lat="29.88493108216662363929572166" lon="-90.11906294073787648812867701"/>
+  <node visible="true" id="-841" lat="29.88496489360843000326894980" lon="-90.11906471602225110473227687"/>
+  <node visible="true" id="-842" lat="29.88496244977048732494040451" lon="-90.11912663193915307147108251"/>
+  <node visible="true" id="-843" lat="29.88499328938698340607516002" lon="-90.11912825118703551652288297"/>
+  <node visible="true" id="-844" lat="29.88500651799625273952187854" lon="-90.11914496402326335555699188"/>
+  <node visible="true" id="-845" lat="29.88503175931706223877881712" lon="-90.11914628933067206162377261"/>
+  <node visible="true" id="-846" lat="29.88503810729478615826337773" lon="-90.11898545986306885424710345"/>
+  <way visible="true" id="-125">
+    <nd ref="-839"/>
+    <nd ref="-840"/>
+    <nd ref="-841"/>
+    <nd ref="-842"/>
+    <nd ref="-843"/>
+    <nd ref="-844"/>
+    <nd ref="-845"/>
+    <nd ref="-846"/>
+    <nd ref="-839"/>
+    <tag k="building" v="yes"/>
+    <tag k="addr:housenumber" v="1421"/>
+    <tag k="addr:street" v="Mansfield Avenue"/>
+    <tag k="addr:city" v="Marrero"/>
+    <tag k="addr:postcode" v="70072"/>
+  </way>
+  <node visible="true" id="-847" lat="29.88512385245732261296325305" lon="-90.11562790720689974932611221"/>
+  <node visible="true" id="-848" lat="29.88518522334511473559359729" lon="-90.11562666035578672563133296"/>
+  <node visible="true" id="-849" lat="29.88518453029145760524443176" lon="-90.11558128180647031513217371"/>
+  <node visible="true" id="-850" lat="29.88525192218428472301638976" lon="-90.11557991262779410135408398"/>
+  <node visible="true" id="-851" lat="29.88524999069381848926241219" lon="-90.11545344579648997296317248"/>
+  <node visible="true" id="-852" lat="29.88521388177396787000361655" lon="-90.11545417940951097079960164"/>
+  <node visible="true" id="-853" lat="29.88521350455614111751856399" lon="-90.11542948058385604781506117"/>
+  <node visible="true" id="-854" lat="29.88517269154667843622519285" lon="-90.11543030976798718256759457"/>
+  <node visible="true" id="-855" lat="29.88517243388001887183236249" lon="-90.11541343870806031191023067"/>
+  <node visible="true" id="-856" lat="29.88512059302530232685057854" lon="-90.11541449194071162764885230"/>
+  <way visible="true" id="-126">
+    <nd ref="-847"/>
+    <nd ref="-848"/>
+    <nd ref="-849"/>
+    <nd ref="-850"/>
+    <nd ref="-851"/>
+    <nd ref="-852"/>
+    <nd ref="-853"/>
+    <nd ref="-854"/>
+    <nd ref="-855"/>
+    <nd ref="-856"/>
+    <nd ref="-847"/>
+    <tag k="building" v="yes"/>
+    <tag k="addr:housenumber" v="1620"/>
+    <tag k="addr:street" v="Buccola Avenue"/>
+    <tag k="addr:city" v="Marrero"/>
+    <tag k="addr:postcode" v="70072"/>
+  </way>
+  <node visible="true" id="-857" lat="29.88520739312597740422461357" lon="-90.11496521734991915764112491"/>
+  <node visible="true" id="-858" lat="29.88513520964431080528811435" lon="-90.11496683639153104650176829"/>
+  <node visible="true" id="-859" lat="29.88513662168846707345437608" lon="-90.11505058239868048985954374"/>
+  <node visible="true" id="-860" lat="29.88510598658673345084935136" lon="-90.11505126952928890204930212"/>
+  <node visible="true" id="-861" lat="29.88510739558505235891061602" lon="-90.11513483482710284988570493"/>
+  <node visible="true" id="-862" lat="29.88521021416598344444537361" lon="-90.11513252865488254883530317"/>
+  <way visible="true" id="-127">
+    <nd ref="-857"/>
+    <nd ref="-858"/>
+    <nd ref="-859"/>
+    <nd ref="-860"/>
+    <nd ref="-861"/>
+    <nd ref="-862"/>
+    <nd ref="-857"/>
+    <tag k="building" v="yes"/>
+    <tag k="addr:housenumber" v="1621"/>
+    <tag k="addr:street" v="Buccola Avenue"/>
+    <tag k="addr:city" v="Marrero"/>
+    <tag k="addr:postcode" v="70072"/>
+  </way>
+  <node visible="true" id="-863" lat="29.88055055027067652417827048" lon="-90.11552340496959345728100743"/>
+  <node visible="true" id="-864" lat="29.88055930403117699256654305" lon="-90.11568690760350364143960178"/>
+  <node visible="true" id="-865" lat="29.88062704049371731684914266" lon="-90.11568793172388325274368981"/>
+  <node visible="true" id="-866" lat="29.88062712615931815207659383" lon="-90.11569718223759650754800532"/>
+  <node visible="true" id="-867" lat="29.88067386735605879266586271" lon="-90.11569476217049157185101649"/>
+  <node visible="true" id="-868" lat="29.88067293518443889865920937" lon="-90.11550828352758912842546124"/>
+  <node visible="true" id="-869" lat="29.88061292242613831149355974" lon="-90.11550829796364325829927111"/>
+  <node visible="true" id="-870" lat="29.88061306193097621530796459" lon="-90.11552336006673158408375457"/>
   <way visible="true" id="-128">
     <nd ref="-863"/>
     <nd ref="-864"/>
@@ -2822,8 +2824,8 @@
     <nd ref="-870"/>
     <nd ref="-863"/>
     <tag k="building" v="yes"/>
-    <tag k="addr:housenumber" v="6153"/>
-    <tag k="addr:street" v="Singleton Drive"/>
+    <tag k="addr:housenumber" v="1816"/>
+    <tag k="addr:street" v="Buccola Avenue"/>
     <tag k="addr:city" v="Marrero"/>
     <tag k="addr:postcode" v="70072"/>
   </way>
@@ -2863,16 +2865,12 @@
     <tag k="addr:city" v="Marrero"/>
     <tag k="addr:postcode" v="70072"/>
   </way>
-  <node visible="true" id="-881" lat="29.88000054857096543514671794" lon="-90.11511591123603182040824322"/>
-  <node visible="true" id="-882" lat="29.88000169152424945195889450" lon="-90.11523927893503582708945032"/>
-  <node visible="true" id="-883" lat="29.88004357022930435050511733" lon="-90.11523876807778776765189832"/>
-  <node visible="true" id="-884" lat="29.88004331772755151064302481" lon="-90.11521151255610107000393327"/>
-  <node visible="true" id="-885" lat="29.88006832027598491663411551" lon="-90.11521120755557490156206768"/>
-  <node visible="true" id="-886" lat="29.88006857942375660286415950" lon="-90.11523918047100778494495898"/>
-  <node visible="true" id="-887" lat="29.88008483040360374616284389" lon="-90.11523898223337880608596606"/>
-  <node visible="true" id="-888" lat="29.88010358208937944368699391" lon="-90.11523875349080014984792797"/>
-  <node visible="true" id="-889" lat="29.88010180067542975734795618" lon="-90.11511395955379555289255222"/>
-  <node visible="true" id="-890" lat="29.88008367416635024937932030" lon="-90.11511418069279955034289742"/>
+  <node visible="true" id="-881" lat="29.88229180209284407965242281" lon="-90.11914670728968701496341964"/>
+  <node visible="true" id="-882" lat="29.88228651677688318955006253" lon="-90.11911592596973719082598109"/>
+  <node visible="true" id="-883" lat="29.88235335828789374090774800" lon="-90.11911080827475473142840201"/>
+  <node visible="true" id="-884" lat="29.88235007093865647220809478" lon="-90.11890002592971882222627755"/>
+  <node visible="true" id="-885" lat="29.88220960616311927537935844" lon="-90.11889974437372075044550002"/>
+  <node visible="true" id="-886" lat="29.88220866985085777400854568" lon="-90.11914771814699065544118639"/>
   <way visible="true" id="-131">
     <nd ref="-881"/>
     <nd ref="-882"/>
@@ -2880,55 +2878,55 @@
     <nd ref="-884"/>
     <nd ref="-885"/>
     <nd ref="-886"/>
+    <nd ref="-881"/>
+    <tag k="building" v="yes"/>
+    <tag k="addr:housenumber" v="1609"/>
+    <tag k="addr:street" v="Mansfield Avenue"/>
+    <tag k="addr:city" v="Marrero"/>
+    <tag k="addr:postcode" v="70072"/>
+  </way>
+  <node visible="true" id="-887" lat="29.88170057470114571174235607" lon="-90.11548612294855331583676161"/>
+  <node visible="true" id="-888" lat="29.88170092605938776841867366" lon="-90.11559156851387797360075638"/>
+  <node visible="true" id="-889" lat="29.88175968845739660650906444" lon="-90.11559156937599368575320113"/>
+  <node visible="true" id="-890" lat="29.88175980138641207872751693" lon="-90.11560376309083153500978369"/>
+  <node visible="true" id="-891" lat="29.88179542922278031369387463" lon="-90.11560332860712208002951229"/>
+  <node visible="true" id="-892" lat="29.88179521000764182758757670" lon="-90.11557965856812302263278980"/>
+  <node visible="true" id="-893" lat="29.88182333753164598988405487" lon="-90.11557931554430922460596776"/>
+  <node visible="true" id="-894" lat="29.88182271972746661958808545" lon="-90.11551260980542110701208003"/>
+  <node visible="true" id="-895" lat="29.88179209149817694424200454" lon="-90.11551298334654802602017298"/>
+  <node visible="true" id="-896" lat="29.88179194534759730572659464" lon="-90.11549720366625138012750540"/>
+  <node visible="true" id="-897" lat="29.88176444300015077715215739" lon="-90.11549753908835214133432601"/>
+  <node visible="true" id="-898" lat="29.88176433006128718261606991" lon="-90.11548534537307375558157219"/>
+  <way visible="true" id="-132">
     <nd ref="-887"/>
     <nd ref="-888"/>
     <nd ref="-889"/>
     <nd ref="-890"/>
-    <nd ref="-881"/>
-    <tag k="building" v="yes"/>
-    <tag k="addr:housenumber" v="1829"/>
-    <tag k="addr:street" v="Buccola Avenue"/>
-    <tag k="addr:city" v="Marrero"/>
-    <tag k="addr:postcode" v="70072"/>
-  </way>
-  <node visible="true" id="-891" lat="29.88018126339283497827636893" lon="-90.11512159768261653880472295"/>
-  <node visible="true" id="-892" lat="29.88018093060584590148209827" lon="-90.11515316415980691999720875"/>
-  <node visible="true" id="-893" lat="29.88015342825412545835206402" lon="-90.11515349967126553565321956"/>
-  <node visible="true" id="-894" lat="29.88015357389399895282622310" lon="-90.11523670872773550399870146"/>
-  <node visible="true" id="-895" lat="29.88026171531980779150217131" lon="-90.11523610702863607002655044"/>
-  <node visible="true" id="-896" lat="29.88026127729007797029225912" lon="-90.11512133900627929961046902"/>
-  <way visible="true" id="-132">
     <nd ref="-891"/>
     <nd ref="-892"/>
     <nd ref="-893"/>
     <nd ref="-894"/>
     <nd ref="-895"/>
     <nd ref="-896"/>
-    <nd ref="-891"/>
+    <nd ref="-897"/>
+    <nd ref="-898"/>
+    <nd ref="-887"/>
     <tag k="building" v="yes"/>
-    <tag k="addr:housenumber" v="1825"/>
+    <tag k="addr:housenumber" v="1744"/>
     <tag k="addr:street" v="Buccola Avenue"/>
     <tag k="addr:city" v="Marrero"/>
     <tag k="addr:postcode" v="70072"/>
   </way>
-  <node visible="true" id="-897" lat="29.88119915397048842464755580" lon="-90.11748413000826474217319628">
-    <tag k="addr:housenumber" v="6504"/>
-    <tag k="addr:street" v="Deanna Street"/>
-    <tag k="addr:city" v="Marrero"/>
-    <tag k="addr:postcode" v="70072"/>
-  </node>
-  <node visible="true" id="-898" lat="29.88119796518925141981526394" lon="-90.11735557754620629111741437">
-    <tag k="addr:housenumber" v="6506"/>
-    <tag k="addr:street" v="Deanna Street"/>
-    <tag k="addr:city" v="Marrero"/>
-    <tag k="addr:postcode" v="70072"/>
-  </node>
-  <node visible="true" id="-899" lat="29.88229180209284407965242281" lon="-90.11914670728968701496341964"/>
-  <node visible="true" id="-900" lat="29.88228651677688318955006253" lon="-90.11911592596973719082598109"/>
-  <node visible="true" id="-901" lat="29.88235335828789374090774800" lon="-90.11911080827475473142840201"/>
-  <node visible="true" id="-902" lat="29.88235007093865647220809478" lon="-90.11890002592971882222627755"/>
-  <node visible="true" id="-903" lat="29.88220960616311927537935844" lon="-90.11889974437372075044550002"/>
-  <node visible="true" id="-904" lat="29.88220866985085777400854568" lon="-90.11914771814699065544118639"/>
+  <node visible="true" id="-899" lat="29.88000054857096543514671794" lon="-90.11511591123603182040824322"/>
+  <node visible="true" id="-900" lat="29.88000169152424945195889450" lon="-90.11523927893503582708945032"/>
+  <node visible="true" id="-901" lat="29.88004357022930435050511733" lon="-90.11523876807778776765189832"/>
+  <node visible="true" id="-902" lat="29.88004331772755151064302481" lon="-90.11521151255610107000393327"/>
+  <node visible="true" id="-903" lat="29.88006832027598491663411551" lon="-90.11521120755557490156206768"/>
+  <node visible="true" id="-904" lat="29.88006857942375660286415950" lon="-90.11523918047100778494495898"/>
+  <node visible="true" id="-905" lat="29.88008483040360374616284389" lon="-90.11523898223337880608596606"/>
+  <node visible="true" id="-906" lat="29.88010358208937944368699391" lon="-90.11523875349080014984792797"/>
+  <node visible="true" id="-907" lat="29.88010180067542975734795618" lon="-90.11511395955379555289255222"/>
+  <node visible="true" id="-908" lat="29.88008367416635024937932030" lon="-90.11511418069279955034289742"/>
   <way visible="true" id="-133">
     <nd ref="-899"/>
     <nd ref="-900"/>
@@ -2936,45 +2934,49 @@
     <nd ref="-902"/>
     <nd ref="-903"/>
     <nd ref="-904"/>
-    <nd ref="-899"/>
-    <tag k="building" v="yes"/>
-    <tag k="addr:housenumber" v="1609"/>
-    <tag k="addr:street" v="Mansfield Avenue"/>
-    <tag k="addr:city" v="Marrero"/>
-    <tag k="addr:postcode" v="70072"/>
-  </way>
-  <node visible="true" id="-905" lat="29.88170057470114571174235607" lon="-90.11548612294855331583676161"/>
-  <node visible="true" id="-906" lat="29.88170092605938776841867366" lon="-90.11559156851387797360075638"/>
-  <node visible="true" id="-907" lat="29.88175968845739660650906444" lon="-90.11559156937599368575320113"/>
-  <node visible="true" id="-908" lat="29.88175980138641207872751693" lon="-90.11560376309083153500978369"/>
-  <node visible="true" id="-909" lat="29.88179542922278031369387463" lon="-90.11560332860712208002951229"/>
-  <node visible="true" id="-910" lat="29.88179521000764182758757670" lon="-90.11557965856812302263278980"/>
-  <node visible="true" id="-911" lat="29.88182333753164598988405487" lon="-90.11557931554430922460596776"/>
-  <node visible="true" id="-912" lat="29.88182271972746661958808545" lon="-90.11551260980542110701208003"/>
-  <node visible="true" id="-913" lat="29.88179209149817694424200454" lon="-90.11551298334654802602017298"/>
-  <node visible="true" id="-914" lat="29.88179194534759730572659464" lon="-90.11549720366625138012750540"/>
-  <node visible="true" id="-915" lat="29.88176444300015077715215739" lon="-90.11549753908835214133432601"/>
-  <node visible="true" id="-916" lat="29.88176433006128718261606991" lon="-90.11548534537307375558157219"/>
-  <way visible="true" id="-134">
     <nd ref="-905"/>
     <nd ref="-906"/>
     <nd ref="-907"/>
     <nd ref="-908"/>
+    <nd ref="-899"/>
+    <tag k="building" v="yes"/>
+    <tag k="addr:housenumber" v="1829"/>
+    <tag k="addr:street" v="Buccola Avenue"/>
+    <tag k="addr:city" v="Marrero"/>
+    <tag k="addr:postcode" v="70072"/>
+  </way>
+  <node visible="true" id="-909" lat="29.88018126339283497827636893" lon="-90.11512159768261653880472295"/>
+  <node visible="true" id="-910" lat="29.88018093060584590148209827" lon="-90.11515316415980691999720875"/>
+  <node visible="true" id="-911" lat="29.88015342825412545835206402" lon="-90.11515349967126553565321956"/>
+  <node visible="true" id="-912" lat="29.88015357389399895282622310" lon="-90.11523670872773550399870146"/>
+  <node visible="true" id="-913" lat="29.88026171531980779150217131" lon="-90.11523610702863607002655044"/>
+  <node visible="true" id="-914" lat="29.88026127729007797029225912" lon="-90.11512133900627929961046902"/>
+  <way visible="true" id="-134">
     <nd ref="-909"/>
     <nd ref="-910"/>
     <nd ref="-911"/>
     <nd ref="-912"/>
     <nd ref="-913"/>
     <nd ref="-914"/>
-    <nd ref="-915"/>
-    <nd ref="-916"/>
-    <nd ref="-905"/>
+    <nd ref="-909"/>
     <tag k="building" v="yes"/>
-    <tag k="addr:housenumber" v="1744"/>
+    <tag k="addr:housenumber" v="1825"/>
     <tag k="addr:street" v="Buccola Avenue"/>
     <tag k="addr:city" v="Marrero"/>
     <tag k="addr:postcode" v="70072"/>
   </way>
+  <node visible="true" id="-915" lat="29.88119915397048842464755580" lon="-90.11748413000826474217319628">
+    <tag k="addr:housenumber" v="6504"/>
+    <tag k="addr:street" v="Deanna Street"/>
+    <tag k="addr:city" v="Marrero"/>
+    <tag k="addr:postcode" v="70072"/>
+  </node>
+  <node visible="true" id="-916" lat="29.88119796518925141981526394" lon="-90.11735557754620629111741437">
+    <tag k="addr:housenumber" v="6506"/>
+    <tag k="addr:street" v="Deanna Street"/>
+    <tag k="addr:city" v="Marrero"/>
+    <tag k="addr:postcode" v="70072"/>
+  </node>
   <node visible="true" id="-917" lat="29.88114762964789150601063739" lon="-90.11898261897661654984403867"/>
   <node visible="true" id="-918" lat="29.88115122383685218210302992" lon="-90.11918342809768489587440854"/>
   <node visible="true" id="-919" lat="29.88119528724804041530660470" lon="-90.11918237904654915837454610"/>
@@ -3173,37 +3175,37 @@
     <tag k="addr:city" v="Marrero"/>
     <tag k="addr:postcode" v="70072"/>
   </way>
-  <node visible="true" id="-976" lat="29.88195758700756954340249649" lon="-90.11568735982987732313631568"/>
-  <node visible="true" id="-977" lat="29.88195758699069415342819411" lon="-90.11568618887531556538306177"/>
-  <node visible="true" id="-978" lat="29.88195382063588922960661876" lon="-90.11548691884183881484204903"/>
-  <node visible="true" id="-979" lat="29.88184369239690241215612332" lon="-90.11548935840214369363820879"/>
-  <node visible="true" id="-980" lat="29.88184769973418042354751378" lon="-90.11569029422254573091777274"/>
+  <node visible="true" id="-976" lat="29.88192514697899326847618795" lon="-90.11916236058122819940763293"/>
+  <node visible="true" id="-977" lat="29.88192424286943804645488854" lon="-90.11904508554313508739141980"/>
+  <node visible="true" id="-978" lat="29.88184423388176469416066539" lon="-90.11904590601191955556714674"/>
+  <node visible="true" id="-979" lat="29.88184513799303232417514664" lon="-90.11916318104999845672864467"/>
   <way visible="true" id="-145">
     <nd ref="-976"/>
     <nd ref="-977"/>
     <nd ref="-978"/>
     <nd ref="-979"/>
-    <nd ref="-980"/>
     <nd ref="-976"/>
     <tag k="building" v="yes"/>
-    <tag k="addr:housenumber" v="1740"/>
-    <tag k="addr:street" v="Buccola Avenue"/>
+    <tag k="addr:housenumber" v="1625"/>
+    <tag k="addr:street" v="Mansfield Avenue"/>
     <tag k="addr:city" v="Marrero"/>
     <tag k="addr:postcode" v="70072"/>
   </way>
-  <node visible="true" id="-981" lat="29.88192514697899326847618795" lon="-90.11916236058122819940763293"/>
-  <node visible="true" id="-982" lat="29.88192424286943804645488854" lon="-90.11904508554313508739141980"/>
-  <node visible="true" id="-983" lat="29.88184423388176469416066539" lon="-90.11904590601191955556714674"/>
-  <node visible="true" id="-984" lat="29.88184513799303232417514664" lon="-90.11916318104999845672864467"/>
+  <node visible="true" id="-980" lat="29.88195758700756954340249649" lon="-90.11568735982987732313631568"/>
+  <node visible="true" id="-981" lat="29.88195758699069415342819411" lon="-90.11568618887531556538306177"/>
+  <node visible="true" id="-982" lat="29.88195382063588922960661876" lon="-90.11548691884183881484204903"/>
+  <node visible="true" id="-983" lat="29.88184369239690241215612332" lon="-90.11548935840214369363820879"/>
+  <node visible="true" id="-984" lat="29.88184769973418042354751378" lon="-90.11569029422254573091777274"/>
   <way visible="true" id="-146">
+    <nd ref="-980"/>
     <nd ref="-981"/>
     <nd ref="-982"/>
     <nd ref="-983"/>
     <nd ref="-984"/>
-    <nd ref="-981"/>
+    <nd ref="-980"/>
     <tag k="building" v="yes"/>
-    <tag k="addr:housenumber" v="1625"/>
-    <tag k="addr:street" v="Mansfield Avenue"/>
+    <tag k="addr:housenumber" v="1740"/>
+    <tag k="addr:street" v="Buccola Avenue"/>
     <tag k="addr:city" v="Marrero"/>
     <tag k="addr:postcode" v="70072"/>
   </way>
